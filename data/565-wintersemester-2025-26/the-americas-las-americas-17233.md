@@ -192,7 +192,10 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17233|exam:13074662|exam:13074663|exam:13074664|exam:13074750|exam:13074758>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87604&periodId=565>
 
+- **Veranstaltungsart:** Masterseminar
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -207,7 +210,10 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17233|exam:13076231|exam:13076232|exam:13076233|exam:13076319|exam:13076327>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87604&periodId=565>
 
+- **Veranstaltungsart:** Masterseminar
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -699,6 +705,13 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49997&periodId=565>
 
 - **ECTS-Punkte:** 7.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | — | — | — |
 
 ### 47411 Hausarbeit zu North America:Culture and Literature - Leistung
 
@@ -707,6 +720,13 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49997&periodId=565>
 
 - **ECTS-Punkte:** 7.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | — | — | — |
 
 ### 47601 Klausur zu América Latina: Política y sociedad - Leistung
 
@@ -850,7 +870,10 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17233|exam:13074662|exam:13074663|exam:13074664|exam:13074777|exam:13074780>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94631&periodId=565>
 
+- **Veranstaltungsart:** Proseminar
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -864,7 +887,10 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17233|exam:13076231|exam:13076232|exam:13076233|exam:13076346|exam:13076349>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94631&periodId=565>
 
+- **Veranstaltungsart:** Proseminar
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -946,7 +972,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Do | 08:00–10:00 | 16.10.2025–05.02.2026 | 00501.00.023 ( KH 0.023 Hörsaal Kollegienhaus) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (31)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (34)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -979,6 +1005,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
+
+### Academic Discourse (M.A) — Übung
+
+- **Segment:** `unit:82768` · **unitId:** `82768`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82768&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:15–15:45 | 15.10.2025–04.02.2026 | 00501.02.018 ( KH 2.018 Hörsaal Kollegienhaus (SR)) |
 
 ### American Journeys: Travel in Literary and Cultural Texts — Hauptseminar
 
@@ -1174,6 +1216,38 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | 16:00–19:00 | 07.12.2025 23:59:59 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
+
+### Latein I für Anfänger (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
+
+- **Segment:** `unit:96547` · **unitId:** `96547`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96547&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:00–16:00 | 13.10.2025–02.02.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.10.2025–04.02.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
+
+### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
+
+- **Segment:** `unit:83014` · **unitId:** `83014`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83014&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.10.2025–02.02.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 16:00–18:00 | 15.10.2025–04.02.2026 | 05701.00.017 ( Kl. Hörsaal) |
 
 ### Latein II für Fortgeschrittene - Intensivkurs (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 

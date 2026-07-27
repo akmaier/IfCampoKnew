@@ -632,6 +632,13 @@ _Section: Studiengänge der Medizinischen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=24816&periodId=565>
 
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | Do | 10:00–10:45 | — | — |
 
 ### 25301 Klausur zu Einführung in die klinische Medizin - Leistung
 
@@ -640,6 +647,13 @@ _Section: Studiengänge der Medizinischen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=24816&periodId=565>
 
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | Do | 10:00–10:45 | — | — |
 
 ### 25411 Medizinmanagement II (Klausur) - Leistung
 
@@ -1039,7 +1053,10 @@ _Section: Studiengänge der Medizinischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16776|exam:12180587|exam:12180588|exam:12180589|exam:12180616|exam:12180620>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103955&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -1054,7 +1071,10 @@ _Section: Studiengänge der Medizinischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16776|exam:12182087|exam:12182088|exam:12182089|exam:12182138|exam:12182142>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103955&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -1095,9 +1115,23 @@ _Section: Studiengänge der Medizinischen Fakultät_
 |---|---|---|---|---|
 | wöchentlich | Mi | 10:30–12:00 | 22.10.2025–04.02.2026 | — |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (3)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (6)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
+
+### Gesundheitsökonomische Evaluationen I (Klausur)
+
+- **Segment:** `unit:43785` · **unitId:** `43785`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43785&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | Do | — | — | — |
 
 ### Klausur zum Nachweis Gesicherter Lateinkenntnisse
 
@@ -1112,6 +1146,38 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | 16:00–19:00 | 07.12.2025 23:59:59 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
+
+### Latein I für Anfänger (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
+
+- **Segment:** `unit:96547` · **unitId:** `96547`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96547&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:00–16:00 | 13.10.2025–02.02.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.10.2025–04.02.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
+
+### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
+
+- **Segment:** `unit:83014` · **unitId:** `83014`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83014&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.10.2025–02.02.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 16:00–18:00 | 15.10.2025–04.02.2026 | 05701.00.017 ( Kl. Hörsaal) |
 
 ### Latein II für Fortgeschrittene - Intensivkurs (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 

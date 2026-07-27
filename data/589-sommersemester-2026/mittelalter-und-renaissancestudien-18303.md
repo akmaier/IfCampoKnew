@@ -121,7 +121,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** jedes 2. Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:00–10:00 | 14.04.2026–14.07.2026 | 05901.01.059 ( 01.059) |
 
 ### 1999 Mastermodul (M.A. Mittelalter- und Renaissancestudien 2010)
 
@@ -685,7 +692,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Do | 16:15–17:45 | 23.04.2026–16.07.2026 | 05901.03.010 (PSG II R 3.010 Mittellateinische Bibliothek) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (26)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (24)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -720,13 +727,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **Turnus:** Unregelmäßig
-
-### Hauptseminar Mediävistik und Examenskurs
-
-- **Segment:** `unit:110017` · **unitId:** `110017`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110017&periodId=589>
-
-- **Veranstaltungsart:** Seminar
 
 ### Hauptseminar Mediävistik und Examenskurs: Märendichtung / Novellistik
 
@@ -763,7 +763,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133749&periodId=589>
 
 - **Veranstaltungsart:** Kolleg
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Latein I für Anfänger (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -778,8 +785,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -826,7 +833,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133745&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### M/SM: Klugheit und Weiblichkeit: Herrscherinnen, Ratgeberinnen und Mütter in der mittelalterlichen Literatur — Hauptseminar / Masterseminar
 
@@ -919,13 +933,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121866&periodId=589>
 
 - **Veranstaltungsart:** Übung
-
-### Übung Mediävistik: Berühmte Beispielgeschichten - aus der Welt der Bibel und der Bibel der Welt — Kolleg
-
-- **Segment:** `unit:137701` · **unitId:** `137701`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137701&periodId=589>
-
-- **Veranstaltungsart:** Kolleg
 
 ### Übung Mediävistik: Deutsche und französische Liederhandschriften
 

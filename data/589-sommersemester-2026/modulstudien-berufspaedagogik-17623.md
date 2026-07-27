@@ -14,7 +14,7 @@ course_count: 0
 
 _Section: Studiengänge der Rechts- und Wirtschaftswissenschaftlichen Fakultät_  
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (203)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (198)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -119,6 +119,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 3.0
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 11:15–12:45 | 17.04.2026–17.07.2026 | 10106.00.630 (DOHA Doppelhalle) |
 
 ### Basismodul Fachdidaktik Deutsch (BM FDD)
 
@@ -257,7 +263,16 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101940&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 09:45–11:15 | 29.04.2026–15.07.2026 | 21101.00.141 (LG 0.141 (48 Plätze) Übungsraum) |
+| wöchentlich | Mi | 13:15–14:45 | 29.04.2026–15.07.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
+| Einzeltermin | Mi | 13:15–14:45 | 15.07.2026 | 21101.01.112 (LG H1 (446 Plätze) Hörsaal) |
 
 ### Betriebliche Aus- und Weiterbildung -Vorlesung
 
@@ -290,15 +305,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Betriebspädagogisches Seminar: Bildungsmanagement in Unternehmen
-
-- **Segment:** `unit:102479` · **unitId:** `102479`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102479&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
 ### Betriebspädagogisches Seminar: Didaktik der Betrieblichen Bildung
 
 - **Segment:** `unit:99250` · **unitId:** `99250`
@@ -328,6 +334,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
+
+### Bewegungs- und Spielerziehung/Kleine Spiele — Seminar
+
+- **Segment:** `unit:82300` · **unitId:** `82300`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82300&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.0
+- **Turnus:** nur im Wintersemester
 
 ### Biblische Theologie und ihre Didaktik - elementar — Proseminar
 
@@ -501,7 +516,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134446&periodId=589>
 
 - **Veranstaltungsart:** Proseminar / Mittelseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 05801.02.111 ( PSG A 402) |
 
 ### Einführung in die Angewandte Ethik — Proseminar / Mittelseminar
 
@@ -637,7 +659,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87291&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mi | 11:30–13:00 | 15.04.2026 | 75202.00.513 (St.Paul 00.513 (24)) |
+| wöchentlich | Mi | 11:30–13:00 | 15.04.2026–15.07.2026 | — |
 
 ### Elemente der Analysis I — Vorlesung
 
@@ -695,7 +725,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–13:00 | 14.04.2026–14.07.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
 
 ### Englisch: Einführung in die Sprachmittlung Englisch-Deutsch — Übung
 
@@ -704,7 +741,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 15:00–16:30 | 21.04.2026–14.07.2026 | — |
 
 ### Englisch: Grundkurs (Grammar) — Übung
 
@@ -853,13 +897,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Do | Do | 08:30–13:00 | — | — |
 
-### Glaube gegen Gewissheit? Die Aufklärung im 18. Jahrhundert — Proseminar
-
-- **Segment:** `unit:119106` · **unitId:** `119106`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119106&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-
 ### Grundfragen christlicher Ethik — Seminar
 
 - **Segment:** `unit:102462` · **unitId:** `102462`
@@ -892,13 +929,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Grundkurs
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
-
-### Grundkurs Praktische Philosophie (für Lehramtsstudierende) — Proseminar
-
-- **Segment:** `unit:115612` · **unitId:** `115612`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115612&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
 
 ### Grundkurs Praktische Philosophie (für Lehramtsstudierende) — Proseminar
 
@@ -949,22 +979,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 08:30–10:00 | 15.04.2026–15.07.2026 | 05801.01.110 ( PSG A 301) |
-
-### Grundkurs Theoretische Philosophie — Proseminar
-
-- **Segment:** `unit:111728` · **unitId:** `111728`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111728&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-
-### Grundkurs Theoretische Philosophie
-
-- **Segment:** `unit:119025` · **unitId:** `119025`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119025&periodId=589>
-
-- **Veranstaltungsart:** Grundkurs
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
 
 ### Grundkurs Theoretische Philosophie — Proseminar
 
@@ -1407,15 +1421,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.0
 - **Turnus:** Unregelmäßig
 
-### Introduction to Software Engineering — Vorlesung
-
-- **Segment:** `unit:114586` · **unitId:** `114586`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114586&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Introduction to Software Engineering Exercises — Übung
 
 - **Segment:** `unit:114588` · **unitId:** `114588`
@@ -1454,7 +1459,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung | — | 09:00–16:00 | 07.09.2026–11.09.2026 | — |
+| Blockveranstaltung | — | 15:00–21:00 | 08.06.2026–26.06.2026 | — |
 
 ### LA Einführung in die Angewandte Ethik
 
@@ -1487,13 +1492,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
-
-### Ling AM-1: Tutorium "Syntax der deutschen Gegenwartssprache" (Erlangen)
-
-- **Segment:** `unit:116786` · **unitId:** `116786`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116786&periodId=589>
-
-- **Veranstaltungsart:** Tutorium
 
 ### Ling BM-1: Einführung in die germanistische  Linguistik (Erlangen, geöffnet für alle Studiengänge) — Einführungskurs
 
@@ -1688,6 +1686,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 14:00–17:00 | 16.04.2026–16.07.2026 | 11501.00.150 (0.150-115 GET Praktikum) |
+
+### PuGDiD1: Einführung in die Analyse und Planung von Politik- und Gesellschaftsunterricht — Proseminar
+
+- **Segment:** `unit:91003` · **unitId:** `91003`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91003&periodId=589>
+
+- **Veranstaltungsart:** Proseminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
 
 ### PuGDid1: VORLESUNG: Einführung in die Fachdidaktik Sozialkunde / Politik und Gesellschaft
 
@@ -2119,6 +2126,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 09:45–11:15 | 13.04.2026–13.07.2026 | 21101.00.143 (LG 0.143 (42 Plätze) Übungsraum) |
+
 ### Transferseminar Disziplinstörungen im Unterricht
 
 - **Segment:** `unit:89672` · **unitId:** `89672`
@@ -2142,6 +2155,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### Transferseminar Schulorganisation und Bildungssystem
@@ -2273,7 +2287,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| 14-täglich | Di | 08:30–10:00 | 14.04.2026–07.07.2026 | 10106.00.630 (DOHA Doppelhalle) |
+| 14-täglich | Mo | 14:15–15:45 | 13.04.2026–11.05.2026 | 10106.00.630 (DOHA Doppelhalle) |
 
 ### Volleyball I
 
@@ -2414,7 +2428,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:30–14:00 | 16.04.2026–16.07.2026 | 10105.00.572 (TuHaSpoz Turnhalle im DSS) |
 
 ### Zirkuskünste 2 — Seminar
 
@@ -2432,12 +2453,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Do | 12:30–14:00 | 16.04.2026–16.07.2026 | 10105.00.572 (TuHaSpoz Turnhalle im DSS) |
 
-### Übung  zur Statik und Festigkeitslehre — Tutorium
+### Übung  zur Statik und Festigkeitslehre
 
 - **Segment:** `unit:91315` · **unitId:** `91315`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91315&periodId=589>
 
-- **Veranstaltungsart:** Tutorium
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 

@@ -2579,7 +2579,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:12055318|exam:12055320|exam:12055324|exam:12062939|exam:12063009|exam:12063014>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94765&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 1.25
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -2593,7 +2596,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:12064468|exam:12064470|exam:12064471|exam:12064472|exam:12064516|exam:12064521>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94765&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 1.25
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -2607,7 +2613,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:12073400|exam:12073402|exam:12073403|exam:12073404|exam:12073448|exam:12073453>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94765&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 1.25
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -2621,7 +2630,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:13686232|exam:13686234|exam:13686235|exam:13686241|exam:13686285|exam:13686290>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94765&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 1.25
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -2915,7 +2927,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:12055318|exam:12055320|exam:12055324|exam:12062939|exam:12062997|exam:12063002>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82720&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 1.25
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -2929,7 +2944,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:12064468|exam:12064470|exam:12064471|exam:12064472|exam:12064504|exam:12064509>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82720&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 1.25
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -2943,7 +2961,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:12073400|exam:12073402|exam:12073403|exam:12073404|exam:12073436|exam:12073441>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82720&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 1.25
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -2957,7 +2978,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:13686232|exam:13686234|exam:13686235|exam:13686241|exam:13686273|exam:13686278>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82720&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 1.25
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -2971,7 +2995,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:12055318|exam:12055320|exam:12055324|exam:12062939|exam:12062997|exam:12062998>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84713&periodId=565>
 
+- **Veranstaltungsart:** Tutorium
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -2985,7 +3011,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:12064468|exam:12064470|exam:12064471|exam:12064472|exam:12064504|exam:12064505>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84713&periodId=565>
 
+- **Veranstaltungsart:** Tutorium
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -2999,7 +3027,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:12073400|exam:12073402|exam:12073403|exam:12073404|exam:12073436|exam:12073437>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84713&periodId=565>
 
+- **Veranstaltungsart:** Tutorium
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -3013,7 +3043,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:13686232|exam:13686234|exam:13686235|exam:13686241|exam:13686273|exam:13686274>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84713&periodId=565>
 
+- **Veranstaltungsart:** Tutorium
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -3593,7 +3625,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:11987018|exam:11987020|exam:11987021|exam:12008233|exam:12008426|exam:12008428>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86061&periodId=565>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -3607,7 +3641,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:12046345|exam:12046347|exam:12046351|exam:12053614|exam:12053839|exam:12053841>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86061&periodId=565>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -3621,7 +3657,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:12055318|exam:12055320|exam:12055324|exam:12062939|exam:12062976|exam:12062978>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86061&periodId=565>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -3635,7 +3673,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:12064468|exam:12064470|exam:12064471|exam:12064472|exam:12064483|exam:12064485>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86061&periodId=565>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -3649,7 +3689,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:12073400|exam:12073402|exam:12073403|exam:12073404|exam:12073415|exam:12073417>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86061&periodId=565>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -3663,7 +3705,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:13686232|exam:13686234|exam:13686235|exam:13686241|exam:13686252|exam:13686254>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86061&periodId=565>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -3693,7 +3737,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:11987018|exam:11987020|exam:11987021|exam:12008453|exam:12008457>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96118&periodId=565>
 
+- **Veranstaltungsart:** Seminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -3725,7 +3771,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:12046345|exam:12046347|exam:12046351|exam:12053866|exam:12053870>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96118&periodId=565>
 
+- **Veranstaltungsart:** Seminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -3757,7 +3805,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:12055318|exam:12055320|exam:12055324|exam:12063016|exam:12063020>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96118&periodId=565>
 
+- **Veranstaltungsart:** Seminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -3773,7 +3823,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:11987018|exam:11987020|exam:11987021|exam:12008233|exam:12008404|exam:12008406>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85412&periodId=565>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -3787,7 +3839,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:12046345|exam:12046347|exam:12046351|exam:12053614|exam:12053817|exam:12053819>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85412&periodId=565>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -3801,7 +3855,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:12055318|exam:12055320|exam:12055324|exam:12062939|exam:12062958|exam:12062960>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85412&periodId=565>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -3815,7 +3871,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:12064468|exam:12064470|exam:12064471|exam:12064472|exam:12064478|exam:12064480>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85412&periodId=565>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -3829,7 +3887,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:12073400|exam:12073402|exam:12073403|exam:12073404|exam:12073410|exam:12073412>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85412&periodId=565>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -3843,7 +3903,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:13686232|exam:13686234|exam:13686235|exam:13686241|exam:13686247|exam:13686249>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85412&periodId=565>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -3857,7 +3919,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:11987018|exam:11987020|exam:11987021|exam:12008233|exam:12008404|exam:12008407>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87754&periodId=565>
 
+- **Veranstaltungsart:** Tutorium
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -3882,7 +3946,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:12046345|exam:12046347|exam:12046351|exam:12053614|exam:12053817|exam:12053820>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87754&periodId=565>
 
+- **Veranstaltungsart:** Tutorium
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -3907,7 +3973,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:12055318|exam:12055320|exam:12055324|exam:12062939|exam:12062958|exam:12062961>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87754&periodId=565>
 
+- **Veranstaltungsart:** Tutorium
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -3932,7 +4000,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:12064468|exam:12064470|exam:12064471|exam:12064472|exam:12064478|exam:12064481>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87754&periodId=565>
 
+- **Veranstaltungsart:** Tutorium
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -3957,7 +4027,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:12073400|exam:12073402|exam:12073403|exam:12073404|exam:12073410|exam:12073413>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87754&periodId=565>
 
+- **Veranstaltungsart:** Tutorium
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -3982,7 +4054,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:13686232|exam:13686234|exam:13686235|exam:13686241|exam:13686247|exam:13686250>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87754&periodId=565>
 
+- **Veranstaltungsart:** Tutorium
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -4007,7 +4081,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:11987018|exam:11987020|exam:11987021|exam:12008233|exam:12008399|exam:12008400>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91991&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 3.5
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -4021,7 +4098,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:12046345|exam:12046347|exam:12046351|exam:12053614|exam:12053812|exam:12053813>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91991&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 3.5
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -4035,7 +4115,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:12055318|exam:12055320|exam:12055324|exam:12062939|exam:12062953|exam:12062954>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91991&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 3.5
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -4049,7 +4132,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:12064468|exam:12064470|exam:12064471|exam:12064472|exam:12064473|exam:12064474>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91991&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 3.5
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -4063,7 +4149,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:12073400|exam:12073402|exam:12073403|exam:12073404|exam:12073405|exam:12073406>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91991&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 3.5
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -4077,7 +4166,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:13686232|exam:13686234|exam:13686235|exam:13686241|exam:13686242|exam:13686243>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91991&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 3.5
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -4485,6 +4577,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:11987018|exam:11987020|exam:11987021|exam:12008233|exam:12008399|exam:12008403>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50584&periodId=565>
 
+- **ECTS-Punkte:** 1.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -4499,6 +4592,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:12046345|exam:12046347|exam:12046351|exam:12053614|exam:12053812|exam:12053816>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50584&periodId=565>
 
+- **ECTS-Punkte:** 1.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -4513,6 +4607,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:12055318|exam:12055320|exam:12055324|exam:12062939|exam:12062953|exam:12062957>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50584&periodId=565>
 
+- **ECTS-Punkte:** 1.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -4527,6 +4622,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:12064468|exam:12064470|exam:12064471|exam:12064472|exam:12064473|exam:12064477>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50584&periodId=565>
 
+- **ECTS-Punkte:** 1.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -4541,6 +4637,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:12073400|exam:12073402|exam:12073403|exam:12073404|exam:12073405|exam:12073409>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50584&periodId=565>
 
+- **ECTS-Punkte:** 1.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -4555,6 +4652,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:13686232|exam:13686234|exam:13686235|exam:13686241|exam:13686242|exam:13686246>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50584&periodId=565>
 
+- **ECTS-Punkte:** 1.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -4569,6 +4667,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:12064468|exam:12064470|exam:12064471|exam:12064472|exam:12064523|exam:12064524>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107112&periodId=565>
 
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -4583,6 +4682,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:12073400|exam:12073402|exam:12073403|exam:12073404|exam:12073455|exam:12073456>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107112&periodId=565>
 
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -4597,6 +4697,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:13686232|exam:13686234|exam:13686235|exam:13686241|exam:13686292|exam:13686293>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107112&periodId=565>
 
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -5061,6 +5162,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:11987018|exam:11987020|exam:11987021|exam:12008233|exam:12008442|exam:12008450>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20271&periodId=565>
 
+- **ECTS-Punkte:** 5.0
+
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
@@ -5072,6 +5175,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:12053863` · **unitId:** `20271`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:12046345|exam:12046347|exam:12046351|exam:12053614|exam:12053855|exam:12053863>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20271&periodId=565>
+
+- **ECTS-Punkte:** 5.0
 
 #### Termine
 
@@ -5085,6 +5190,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:12055318|exam:12055320|exam:12055324|exam:12062939|exam:12062983|exam:12062991>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20271&periodId=565>
 
+- **ECTS-Punkte:** 5.0
+
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
@@ -5096,6 +5203,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:12064498` · **unitId:** `20271`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:12064468|exam:12064470|exam:12064471|exam:12064472|exam:12064490|exam:12064498>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20271&periodId=565>
+
+- **ECTS-Punkte:** 5.0
 
 #### Termine
 
@@ -5109,6 +5218,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:12073400|exam:12073402|exam:12073403|exam:12073404|exam:12073422|exam:12073430>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20271&periodId=565>
 
+- **ECTS-Punkte:** 5.0
+
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
@@ -5120,6 +5231,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:13686267` · **unitId:** `20271`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:13686232|exam:13686234|exam:13686235|exam:13686241|exam:13686259|exam:13686267>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20271&periodId=565>
+
+- **ECTS-Punkte:** 5.0
 
 #### Termine
 
@@ -5313,6 +5426,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:12055318|exam:12055320|exam:12055324|exam:12062939|exam:12063004|exam:12063008>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71971&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -5327,6 +5441,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:12064468|exam:12064470|exam:12064471|exam:12064472|exam:12064511|exam:12064515>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71971&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -5341,6 +5456,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:12073400|exam:12073402|exam:12073403|exam:12073404|exam:12073443|exam:12073447>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71971&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -5355,6 +5471,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:13686232|exam:13686234|exam:13686235|exam:13686241|exam:13686280|exam:13686284>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71971&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -25775,7 +25892,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:11987018|exam:11987020|exam:11987021|exam:12008453|exam:12008455>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87043&periodId=565>
 
+- **Veranstaltungsart:** Seminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -25799,7 +25918,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:12046345|exam:12046347|exam:12046351|exam:12053866|exam:12053868>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87043&periodId=565>
 
+- **Veranstaltungsart:** Seminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -25823,7 +25944,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16785|exam:12055318|exam:12055320|exam:12055324|exam:12063016|exam:12063018>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87043&periodId=565>
 
+- **Veranstaltungsart:** Seminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -26603,7 +26726,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | wöchentlich | Mi | 16:45–18:15 | 28.01.2026–04.02.2026 | 21101.01.213 (LG H4 (814 Plätze) Hörsaal) |
 | wöchentlich | Mi | 16:45–18:15 | 28.01.2026–04.02.2026 | — |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (583)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (696)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -26615,6 +26738,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
+
+### Aktuelle Kommunikationswissenschaft — Seminar
+
+- **Segment:** `unit:117914` · **unitId:** `117914`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117914&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 09:45–11:15 | 05.11.2025–04.02.2026 | 20101.02.024 (FG 2.024 (48 Plätze) Seminarraum) |
 
 ### Aktuelle Kommunikationswissenschaft — Seminar
 
@@ -26652,6 +26791,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:112565` · **unitId:** `112565`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112565&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch oder Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### Aktuelle Themen aus FACT I
+
+- **Segment:** `unit:116484` · **unitId:** `116484`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116484&periodId=565>
 
 - **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch oder Englisch
@@ -26712,6 +26865,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Mi | 15:00–16:30 | 22.10.2025–28.01.2026 | 21101.00.224 (LG 0.224 (98 Plätze) Übungsraum) |
 | Einzeltermin | Mi | 16:45–18:15 | 19.11.2025 | 21101.00.142 (LG 0.142 (98 Plätze) Übungsraum) |
 
+### Analysis of macroeconomic and financial markets data
+
+- **Segment:** `unit:112550` · **unitId:** `112550`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112550&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Sa | Sa | 00:00–18:00 | — | — |
+
 ### Analysis of Macroeconomic and Financial Markets Data, Exercise Session — Seminar
 
 - **Segment:** `unit:85262` · **unitId:** `85262`
@@ -26743,6 +26910,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 09:45–11:15 | 21.10.2025–03.02.2026 | 21102.00.421 (CIP-Pool 2 (RRZE-IZN)) |
 
+### Angewandte Ungleichheitsforschung mit Stata (Präsentationspapier)
+
+- **Segment:** `unit:54154` · **unitId:** `54154`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54154&periodId=565>
+
+- **ECTS-Punkte:** 3.75
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
 ### Angewandte Ungleichheitsforschung mit Stata (Referat)
 
 - **Segment:** `unit:54155` · **unitId:** `54155`
@@ -26770,6 +26951,34 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
+
+### Arabisch: Elementarkurs I
+
+- **Segment:** `unit:37395` · **unitId:** `37395`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37395&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | 18:00–19:30 | — | — |
+
+### Arabisch: Elementarkurs II
+
+- **Segment:** `unit:37396` · **unitId:** `37396`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37396&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | 08:30–10:00 | — | — |
 
 ### Arabisch: Elementarkurs III - Grammatik
 
@@ -26809,6 +27018,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 15:00–16:30 | 20.10.2025–02.02.2026 | 21101.00.222 (LG 0.222/3 (94 Plätze) Übungsraum) |
 
+### Arbeitsmarktpolitik (Klausur)
+
+- **Segment:** `unit:20282` · **unitId:** `20282`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20282&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | 11:00–12:30 | — | 21102.01.421 (LG H6 BISSANTZ-Hörsaal (240 Plätze)) |
+
 ### Arbeitsmarktökonomik — Vorlesung
 
 - **Segment:** `unit:85960` · **unitId:** `85960`
@@ -26817,6 +27040,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
 - **Turnus:** in jedem Semester
+
+### Arbeitsmarktökonomik (Klausur)
+
+- **Segment:** `unit:32475` · **unitId:** `32475`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=32475&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | 14:00–15:30 | — | 21102.01.420 (LG H5 TeamBank-Hörsaal (384 Plätze)) |
 
 ### Arbeitsrecht — Vorlesung
 
@@ -27056,6 +27293,24 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 ### Basismodul Fachdidaktik Deutsch: Einführung in die Literatur-, Sprach- und Mediendidaktik Deutsch — Seminar und Übung
 
+- **Segment:** `unit:91933` · **unitId:** `91933`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91933&periodId=565>
+
+- **Veranstaltungsart:** Seminar und Übung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Sa | 09:00–18:00 | 11.10.2025 | 20301.01.042 (1.042 großer Hörsaal (230)) |
+| wöchentlich | Mo | 17:30–19:00 | 13.10.2025–15.12.2025 | — |
+| wöchentlich | Mo | 17:30–19:00 | 13.10.2025–15.12.2025 | 20301.01.042 (1.042 großer Hörsaal (230)) |
+
+### Basismodul Fachdidaktik Deutsch: Einführung in die Literatur-, Sprach- und Mediendidaktik Deutsch — Seminar und Übung
+
 - **Segment:** `unit:82331` · **unitId:** `82331`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82331&periodId=565>
 
@@ -27188,6 +27443,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Sommersemester
 
+### Betriebliche Ausbildung gestalten - Aufgabenbereiche betrieblicher Ausbilderinnen und Ausbilder
+
+- **Segment:** `unit:54160` · **unitId:** `54160`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54160&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
 ### Betriebspädagogisches Seminar: Bildungsmanagement in Unternehmen
 
 - **Segment:** `unit:102479` · **unitId:** `102479`
@@ -27301,6 +27570,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
+### Biblische Theologie und ihre Didaktik - elementar — Proseminar
+
+- **Segment:** `unit:94452` · **unitId:** `94452`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94452&periodId=565>
+
+- **Veranstaltungsart:** Proseminar
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 11:30–13:00 | 14.10.2025–03.02.2026 | 75202.00.513 (St.Paul 00.513 (24)) |
+
 ### Big Data: Technologien, Methoden und Konzepte (Klausur)
 
 - **Segment:** `unit:106597` · **unitId:** `106597`
@@ -27376,6 +27661,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116510&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
+
+### Blockpraktikum an einer Berufsschule zur sonder-pädagogischen Förderung (Praktikumsbericht)
+
+- **Segment:** `unit:77479` · **unitId:** `77479`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=77479&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Buchführung — Online-Kurs
 
@@ -27486,6 +27785,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** in jedem Semester
 
+### Business simulation on risk- and value-oriented management in insurance   (written assignment)
+
+- **Segment:** `unit:72158` · **unitId:** `72158`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=72158&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
 ### Businessplanseminar (Bachelor)
 
 - **Segment:** `unit:90633` · **unitId:** `90633`
@@ -27499,6 +27812,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:79674` · **unitId:** `79674`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=79674&periodId=565>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### Case studies in sustainability  management and social innovation (written assignment)
+
+- **Segment:** `unit:79675` · **unitId:** `79675`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=79675&periodId=565>
 
 - **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Englisch
@@ -27577,6 +27904,23 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Mo | 09:45–11:15 | 20.10.2025–02.02.2026 | 21101.05.155 (LG 5.155 (30 Plätze) Seminarraum) |
 | wöchentlich | Mi | 09:45–11:15 | 29.10.2025–04.02.2026 | 21101.05.155 (LG 5.155 (30 Plätze) Seminarraum) |
 
+### Chinesisch: Elementarkurs 2 — Übung
+
+- **Segment:** `unit:88804` · **unitId:** `88804`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88804&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 11:30–13:00 | 20.10.2025–26.01.2026 | 21101.05.155 (LG 5.155 (30 Plätze) Seminarraum) |
+| wöchentlich | Mi | 11:30–13:00 | 22.10.2025–28.01.2026 | 21101.03.155 (LG 3.155 (24 Plätze) Seminarraum) |
+
 ### Chinesisch: Elementarkurs 3 — Übung
 
 - **Segment:** `unit:88749` · **unitId:** `88749`
@@ -27585,6 +27929,40 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** in jedem Semester
+
+### Chinesisch: Unternehmenskommunikation
+
+- **Segment:** `unit:122353` · **unitId:** `122353`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122353&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | 11:30–13:00 | — | — |
+
+### Coaching & Mentoring von neuen Studierenden — Seminar
+
+- **Segment:** `unit:124834` · **unitId:** `124834`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124834&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mi | 18:15–19:45 | 01.10.2025 | — |
+| Einzeltermin | Fr | 09:30–12:45 | 10.10.2025 | 20101.00.015 (FG 0.015 (144 Plätze) Auditorium maximum - Kurt Glässer-Saal) |
+| Blockveranstaltung | — | 11:05–16:30 | 14.10.2025–16.10.2025 | — |
+| Blockveranstaltung | — | 09:30–14:45 | 15.10.2025–17.10.2025 | — |
+| Einzeltermin | Mo | 19:30–20:15 | 17.11.2025 | — |
+| Einzeltermin | Di | 19:00–19:45 | 18.11.2025 | — |
 
 ### Comunicación intercultural
 
@@ -27643,6 +28021,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Do | Do | 08:00–09:00 | — | — |
+
+### Corporate Finance Übung
+
+- **Segment:** `unit:84570` · **unitId:** `84570`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84570&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 15:00–16:30 | 02.12.2025–03.02.2026 | 21101.01.113 (LG H2 Hörsaal (155 Plätze)) |
+| wöchentlich | Do | 16:45–18:15 | 23.10.2025–05.02.2026 | 21102.01.421 (LG H6 BISSANTZ-Hörsaal (240 Plätze)) |
 
 ### Corporate Governance and Sustainability Reporting
 
@@ -27749,15 +28143,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### Data Science: Ökonometrie — Vorlesung
-
-- **Segment:** `unit:84184` · **unitId:** `84184`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84184&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
 
 ### Data Science: Ökonometrie (Klausur)
 
@@ -27906,6 +28291,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Mo | 18:30–20:00 | 20.10.2025–02.02.2026 | 21101.05.155 (LG 5.155 (30 Plätze) Seminarraum) |
 | wöchentlich | Mi | 18:30–20:00 | 22.10.2025–04.02.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
 
+### Deutsch B2.2: Allgemeinkurs
+
+- **Segment:** `unit:37451` · **unitId:** `37451`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37451&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | Do | 16:15–17:45 | — | — |
+
 ### Deutsch B2: Fachsprache Wirtschaftsdeutsch (Nürnberg) — Übung
 
 - **Segment:** `unit:84600` · **unitId:** `84600`
@@ -27923,6 +28322,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Di | 11:30–13:00 | 21.10.2025–03.02.2026 | 21101.03.155 (LG 3.155 (24 Plätze) Seminarraum) |
 | wöchentlich | Do | 11:30–13:00 | 23.10.2025–05.02.2026 | 21101.05.152 (LG 5.152 (24 Plätze) Seminarraum, freitags und samstags nur für Blockveranstaltungen (ab 6 Std.) vorgesehen) |
 | Einzeltermin | Do | 11:30–13:00 | 20.11.2025 | 21101.05.153 (LG 5.153 (24 Plätze) Seminarraum) |
+
+### Deutsch B2: Grammatik — Übung
+
+- **Segment:** `unit:91084` · **unitId:** `91084`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91084&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:15–15:45 | 22.10.2025–04.02.2026 | 05203.00.213 (SZ 00.213 (Bismarckstr. 10) Belegung nur nach Rücksprache mit der Raumverantwortlichen) |
 
 ### Deutsch B2: Wirtschaftsdeutsch
 
@@ -28024,6 +28439,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Di | Di | 11:30–13:00 | — | — |
 
+### Deutsch C1: Mündlicher Ausdruck
+
+- **Segment:** `unit:37494` · **unitId:** `37494`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37494&periodId=565>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | 12:15–13:45 | — | — |
+
 ### Deutsch C1: Schriftlicher und mündlicher Ausdruck
 
 - **Segment:** `unit:37497` · **unitId:** `37497`
@@ -28110,6 +28539,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Sommersemester
 
+### Diagnosegestützte Sprachförderung in der Schule — Seminar
+
+- **Segment:** `unit:93360` · **unitId:** `93360`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93360&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 14.10.2025–03.02.2026 | 75202.00.513 (St.Paul 00.513 (24)) |
+
 ### Didaktik der betrieblichen Bildung
 
 - **Segment:** `unit:31323` · **unitId:** `31323`
@@ -28124,6 +28568,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
+### Dienstleistungsmarketing (Klausur)
+
+- **Segment:** `unit:79687` · **unitId:** `79687`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=79687&periodId=565>
+
+- **ECTS-Punkte:** 3.5
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | 13:15–14:45 | — | 21102.01.420 (LG H5 TeamBank-Hörsaal (384 Plätze)) |
+
 ### Dienstleistungsmarketing Vorlesung (Bachelor)
 
 - **Segment:** `unit:87139` · **unitId:** `87139`
@@ -28132,6 +28590,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 3.5
 - **Turnus:** nur im Sommersemester
+
+### Digital Innovation (Hausarbeit)
+
+- **Segment:** `unit:120476` · **unitId:** `120476`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120476&periodId=565>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | Do | — | — | — |
 
 ### Digital Innovation: Platforms and Systems for Innovation — Vorlesung mit Übung
 
@@ -28150,6 +28622,37 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
+
+### Digital technologies and society (written examination)
+
+- **Segment:** `unit:79696` · **unitId:** `79696`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=79696&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | Fr | 09:00–10:00 | — | 20101.00.015 (FG 0.015 (144 Plätze) Auditorium maximum - Kurt Glässer-Saal) |
+
+### Digital Transformation in the Energy and Mobility Sector — Vorlesung mit Übung
+
+- **Segment:** `unit:106260` · **unitId:** `106260`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106260&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:15–11:45 | 14.10.2025–03.02.2026 | 12801.01.230 (H13 Johann-Radon-Hörsaal) 11501.00.154 (0.154-115 Seminar) |
+| wöchentlich | Di | 12:15–13:45 | 14.10.2025–03.02.2026 | 11401.00.116 (H14 Bernhard-Ilschner-Hörsaal (0.61)) 13301.01.0241 (C4 - Chemikum) |
 
 ### Digital Transformation in the Energy and Mobility Sector (Written examination)
 
@@ -28174,6 +28677,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
+### E-Business and E-Commerce (written examination)
+
+- **Segment:** `unit:112577` · **unitId:** `112577`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112577&periodId=565>
+
+- **ECTS-Punkte:** 3.5
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | Do | 11:30–12:30 | — | 21101.00.224 (LG 0.224 (98 Plätze) Übungsraum) |
+
 ### E-Business und E-Commerce (Performance Assessment)
 
 - **Segment:** `unit:134960` · **unitId:** `134960`
@@ -28188,6 +28705,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
+### E-Learning Angebot: PC-Praktikum
+
+- **Segment:** `unit:33279` · **unitId:** `33279`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=33279&periodId=565>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | 08:00–09:00 | — | — |
+
 ### E-Learning und Wissensmanagement
 
 - **Segment:** `unit:31324` · **unitId:** `31324`
@@ -28201,6 +28732,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
+
+### Economy, organization and social inequality (written examination)
+
+- **Segment:** `unit:44844` · **unitId:** `44844`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44844&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | Fr | 08:00–09:00 | — | 20101.00.015 (FG 0.015 (144 Plätze) Auditorium maximum - Kurt Glässer-Saal) |
 
 ### Einführung in das Europäische Wirtschaftsrecht und Wirtschaftsvölkerrecht oder Welthandelsrecht
 
@@ -28459,6 +29004,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
+### Einführung in die Sportwissenschaft
+
+- **Segment:** `unit:28608` · **unitId:** `28608`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=28608&periodId=565>
+
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
 ### Einführung in die Sprachmittlung Englisch-Deutsch
 
 - **Segment:** `unit:20550` · **unitId:** `20550`
@@ -28490,6 +29049,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** in jedem Semester
+
+### Einführung in die unternehmerische Zukunftsforschung (Klausur)
+
+- **Segment:** `unit:49564` · **unitId:** `49564`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49564&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | Do | 18:30–19:30 | — | 21101.01.213 (LG H4 (814 Plätze) Hörsaal) |
 
 ### Einführung in die unternehmerische Zukunftsforschung (vhb-Kurs) — Vorlesung
 
@@ -28659,6 +29232,29 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68894&periodId=565>
 
 - **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### Energiewirtschaft und Nachhaltigkeit — Vorlesung mit Übung
+
+- **Segment:** `unit:96510` · **unitId:** `96510`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96510&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 15:00–18:15 | 16.10.2025–05.02.2026 | 21101.01.113 (LG H2 Hörsaal (155 Plätze)) |
 
 ### Energiewirtschaft und Nachhaltigkeit
 
@@ -28757,6 +29353,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Mo | 09:45–11:15 | 20.10.2025–02.02.2026 | 20101.00.042 (FG 0.042) |
 | wöchentlich | Do | 09:45–11:15 | 23.10.2025–05.02.2026 | 20101.00.042 (FG 0.042) |
 
+### Englisch: Einführung in die Sprachmittlung Englisch-Deutsch — Übung
+
+- **Segment:** `unit:89516` · **unitId:** `89516`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89516&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 09:45–11:15 | 22.10.2025–04.02.2026 | 21101.03.154 (LG 3.154 (26 Plätze) Sprachlabor) |
+
 ### Englisch: English for Business 1 Wipäd Bachelor C1 level — Übung
 
 - **Segment:** `unit:92113` · **unitId:** `92113`
@@ -28772,6 +29384,23 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 11:30–13:00 | 20.10.2025–02.02.2026 | 21101.03.155 (LG 3.155 (24 Plätze) Seminarraum) |
+
+### Englisch: Grundkurs (Grammar) — Übung
+
+- **Segment:** `unit:82304` · **unitId:** `82304`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82304&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 15:00–16:30 | 20.10.2025–02.02.2026 | 21101.03.155 (LG 3.155 (24 Plätze) Seminarraum) |
+| wöchentlich | Mi | 11:30–13:00 | 22.10.2025–04.02.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
 
 ### Englisch: Introduction to Business English B2 — Übung
 
@@ -28824,6 +29453,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Di | 09:45–11:15 | 21.10.2025–03.02.2026 | 20101.00.042 (FG 0.042) |
 | wöchentlich | Mi | 13:15–14:45 | 22.10.2025–04.02.2026 | 20101.00.042 (FG 0.042) |
 
+### Englisch: Writing lab1 (English for special purposes 1) — Übung
+
+- **Segment:** `unit:83853` · **unitId:** `83853`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83853&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 11:30–13:00 | 22.10.2025–04.02.2026 | 21101.00.143 (LG 0.143 (42 Plätze) Übungsraum) |
+
 ### Englisch: Writing lab2 (English for special purposes 2) — Übung
 
 - **Segment:** `unit:86653` · **unitId:** `86653`
@@ -28861,6 +29506,33 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Fr | 09:45–11:15 | 06.02.2026 | 21101.01.112 (LG H1 (446 Plätze) Hörsaal) |
 | Einzeltermin | Fr | 11:30–13:00 | 06.02.2026 | 21101.01.213 (LG H4 (814 Plätze) Hörsaal) |
 
+### Enterprise Content and Collaboration Management (written exam)
+
+- **Segment:** `unit:50495` · **unitId:** `50495`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50495&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | 08:00–09:30 | — | — |
+
+### Español académico
+
+- **Segment:** `unit:78174` · **unitId:** `78174`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78174&periodId=565>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Spanisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
 ### Español económico
 
 - **Segment:** `unit:27617` · **unitId:** `27617`
@@ -28874,6 +29546,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
+
+### Ethische Bildung — Vorlesung mit Übung
+
+- **Segment:** `unit:125210` · **unitId:** `125210`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125210&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 14.10.2025–03.02.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 
 ### European and International Law (written examination)
 
@@ -29007,6 +29695,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
+### Externes studienbezogenes Praktikum
+
+- **Segment:** `unit:31403` · **unitId:** `31403`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=31403&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
 ### Fachdidaktik Ethik für Berufliche Schulen I
 
 - **Segment:** `unit:72414` · **unitId:** `72414`
@@ -29075,6 +29777,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** in jedem Semester
 
+### Fallstudienseminar Supply Chain Strategie (Präsentation)
+
+- **Segment:** `unit:39639` · **unitId:** `39639`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39639&periodId=565>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
 ### Fallstudienseminar Supply Chain Strategie (Seminararbeit)
 
 - **Segment:** `unit:39638` · **unitId:** `39638`
@@ -29097,6 +29813,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
+
+### Finnisch: Elementarkurs I
+
+- **Segment:** `unit:37517` · **unitId:** `37517`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37517&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | 15:30–17:00 | — | 54801.01.012 (SP 01.012 Schlossplatz 1) |
 
 ### Forschungsmethodisches Seminar (Seminararbeit)
 
@@ -29185,6 +29915,19 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Do | Do | 16:45–18:15 | — | — |
+
+### Französisch Elementarkurs 2
+
+- **Segment:** `unit:20809` · **unitId:** `20809`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20809&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | 09:45–11:15 | — | — |
 
 ### Französisch Elementarkurs 3
 
@@ -29376,6 +30119,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 14:15–15:00 | 14.10.2025–03.02.2026 | 10105.00.551 (BASPH Ballspielhalle) |
 
+### Gesundheit und Fitness
+
+- **Segment:** `unit:117792` · **unitId:** `117792`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117792&periodId=565>
+
+- **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
 ### Gesundheitsausgaben & Krankenversicherung (Klausur)
 
 - **Segment:** `unit:106727` · **unitId:** `106727`
@@ -29404,6 +30161,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
+### Gesundheitsförderung in der Schule — Seminar
+
+- **Segment:** `unit:87893` · **unitId:** `87893`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87893&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 16.10.2025–05.02.2026 | 10105.00.534 (SemR 2 Sport Seminarraum 2) |
+
 ### Gesundheitsmanagement A
 
 - **Segment:** `unit:116600` · **unitId:** `116600`
@@ -29417,6 +30190,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mi | Mi | 08:15–09:15 | — | 21102.01.420 (LG H5 TeamBank-Hörsaal (384 Plätze)) |
+
+### Gesundheitsmanagement B
+
+- **Segment:** `unit:116607` · **unitId:** `116607`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116607&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | Do | 15:15–16:15 | — | 21101.00.142 (LG 0.142 (98 Plätze) Übungsraum) |
 
 ### Gesundheitsverhalten und Gesundheitsmärkte (Klausur) (Klausur+Multiple Choice)
 
@@ -29438,6 +30225,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119106&periodId=565>
 
 - **Veranstaltungsart:** Proseminar
+
+### Global governance (written examination)
+
+- **Segment:** `unit:51916` · **unitId:** `51916`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=51916&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | Fr | 17:15–18:15 | — | 21101.01.112 (LG H1 (446 Plätze) Hörsaal) |
 
 ### GM A - Evaluationen — Vorlesung mit Übung
 
@@ -29469,6 +30270,28 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mi | 09:45–11:15 | 22.10.2025–04.02.2026 | 21102.01.421 (LG H6 BISSANTZ-Hörsaal (240 Plätze)) |
 
+### GM A - Kostenträger, Arzneimittel und Evaluationen — Vorlesung mit Übung
+
+- **Segment:** `unit:139098` · **unitId:** `139098`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139098&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **Turnus:** nur im Wintersemester
+
+### Grundelemente der Politikdidaktik / Politisches Lernen (Klausur)
+
+- **Segment:** `unit:46912` · **unitId:** `46912`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46912&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | Fr | 14:00–15:30 | 07.12.2025 23:59:59 | — |
+
 ### Grundkurs
 
 - **Segment:** `unit:49585` · **unitId:** `49585`
@@ -29482,12 +30305,29 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Grundkurs Praktische Philosophie — Vorlesung mit Übung
+### Grundkurs Praktische Philosophie (für Lehramtsstudierende) — Proseminar
 
-- **Segment:** `unit:115607` · **unitId:** `115607`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115607&periodId=565>
+- **Segment:** `unit:131206` · **unitId:** `131206`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131206&periodId=565>
 
-- **Veranstaltungsart:** Vorlesung mit Übung
+- **Veranstaltungsart:** Proseminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:15–18:15 | 17.10.2025 | 05801.01.110 ( PSG A 301) |
+| Einzeltermin | Fr | 14:15–18:15 | 24.10.2025 | 05801.01.110 ( PSG A 301) |
+| Einzeltermin | Fr | 14:15–18:15 | 31.10.2025 | 05801.01.110 ( PSG A 301) |
+| Einzeltermin | Fr | 14:15–18:15 | 07.11.2025 | 05801.01.110 ( PSG A 301) |
+| Einzeltermin | Fr | 14:15–18:15 | 14.11.2025 | 05801.01.110 ( PSG A 301) |
+| Einzeltermin | Fr | 14:15–18:15 | 21.11.2025 | 05801.01.110 ( PSG A 301) |
+| Einzeltermin | Fr | 14:15–18:15 | 28.11.2025 | 05801.01.110 ( PSG A 301) |
+| Einzeltermin | Fr | 14:15–18:15 | 05.12.2025 | 05801.01.110 ( PSG A 301) |
+| Einzeltermin | Fr | 14:15–18:15 | 12.12.2025 | 05801.01.110 ( PSG A 301) |
 
 ### Grundkurs Praktische Philosophie (für Lehramtsstudierende)
 
@@ -29514,21 +30354,19 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### Grundkurs Praktische Philosophie, Gruppe 1
+### Grundkurs Praktische Philosophie (Kurzessay)
 
-- **Segment:** `unit:88981` · **unitId:** `88981`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88981&periodId=565>
+- **Segment:** `unit:54177` · **unitId:** `54177`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54177&periodId=565>
 
-- **Veranstaltungsart:** Grundkurs
-- **Turnus:** nur im Wintersemester
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 
-### Grundkurs Praktische Philosophie, Gruppe 2
+#### Termine
 
-- **Segment:** `unit:93700` · **unitId:** `93700`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93700&periodId=565>
-
-- **Veranstaltungsart:** Grundkurs
-- **Turnus:** nur im Wintersemester
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Grundkurs Theoretische Philosophie — Proseminar
 
@@ -29567,6 +30405,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Fr | 09:00–17:00 | 09.01.2026 | 20101.00.015 (FG 0.015 (144 Plätze) Auditorium maximum - Kurt Glässer-Saal) |
 | Einzeltermin | Fr | 10:30–12:15 | 30.01.2026 | — |
 | Einzeltermin | Mo | 10:00–11:00 | 02.03.2026 | 20101.03.023 (FG 3.023 (14 Plätze) Seminarraum) |
+
+### Grundlagen der empirischen Soziologie (Klausur)
+
+- **Segment:** `unit:46330` · **unitId:** `46330`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46330&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | Fr | 11:00–12:00 | — | 21101.00.141 (LG 0.141 (48 Plätze) Übungsraum) |
 
 ### Grundlagen der empirischen Soziologie (Referat)
 
@@ -29609,6 +30461,34 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Di | Di | 16:15–17:15 | 07.12.2025 23:59:59 | 20301.01.042 (1.042 großer Hörsaal (230)) |
+
+### Grundlagen der Germanistischen Linguistik 1
+
+- **Segment:** `unit:46465` · **unitId:** `46465`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46465&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | 16:15–17:15 | 07.12.2025 23:59:59 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
+
+### Grundlagen der Neueren deutschen Literaturwissenschaft 1
+
+- **Segment:** `unit:46469` · **unitId:** `46469`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46469&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM-1)
 
@@ -29667,23 +30547,19 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | 11:00–12:00 | — | 21101.01.112 (LG H1 (446 Plätze) Hörsaal) |
 
-### Grundlagen der Sportdidaktik — Vorlesung
+### Grundlagen der Wirtschafts- und Betriebspädagogik (Klausur)
 
-- **Segment:** `unit:82365` · **unitId:** `82365`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82365&periodId=565>
+- **Segment:** `unit:71976` · **unitId:** `71976`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71976&periodId=565>
 
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 1.0
-- **Turnus:** nur im Sommersemester
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 
-### Grundlagen der Sportpädagogik und Sportdidaktik — Vorlesung
+#### Termine
 
-- **Segment:** `unit:86250` · **unitId:** `86250`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86250&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 1.0
-- **Turnus:** in jedem Semester
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Grundlagen des Deutschen als Zweitsprache
 
@@ -29765,6 +30641,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=77477&periodId=565>
 
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Grundlagen Sport, Bewegung und Gesundheit — Seminar
 
@@ -29817,6 +30700,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Di | Di | — | 07.12.2025 23:59:59 | — |
 
+### Grundzüge der Kommunikationswissenschaft
+
+- **Segment:** `unit:48443` · **unitId:** `48443`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=48443&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | 11:00–12:00 | — | 21102.01.420 (LG H5 TeamBank-Hörsaal (384 Plätze)) |
+
 ### Grundzüge der Kommunikationswissenschaft — Vorlesung
 
 - **Segment:** `unit:86780` · **unitId:** `86780`
@@ -29850,6 +30747,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Di | 16:45–18:15 | 20.01.2026 | 20101.00.016 (FG 0.016 (44 Plätze) Seminarraum) |
 | Einzeltermin | Fr | 08:00–09:30 | 23.01.2026 | 20101.00.015 (FG 0.015 (144 Plätze) Auditorium maximum - Kurt Glässer-Saal) |
 
+### Grundzüge der Umweltökonomik (Klausur)
+
+- **Segment:** `unit:34544` · **unitId:** `34544`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=34544&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
 ### Gymnastik / Tanz I
 
 - **Segment:** `unit:117794` · **unitId:** `117794`
@@ -29879,6 +30790,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 12:15–13:00 | 16.10.2025–05.02.2026 | — |
+
+### Handball 1 — Seminar
+
+- **Segment:** `unit:84697` · **unitId:** `84697`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84697&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 08:15–09:00 | 17.10.2025–30.01.2026 | 10105.00.551 (BASPH Ballspielhalle) |
 
 ### Handball I
 
@@ -29922,6 +30849,19 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 10:15–11:45 | 20.10.2025–02.02.2026 | — |
+
+### Hospitation und Identifikation
+
+- **Segment:** `unit:117708` · **unitId:** `117708`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117708&periodId=565>
+
+- **ECTS-Punkte:** 1.25
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Hospitation und Identifikation — Seminar
 
@@ -29976,6 +30916,16 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
+
+### Hot Topics in Web Technologies and the Internet of Things — Seminar
+
+- **Segment:** `unit:108081` · **unitId:** `108081`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=108081&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Wintersemester
 
 ### Industry X.0 and Supply Chain Management
@@ -30063,6 +31013,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | Do | — | — | — |
+
+### Innovation design (Präsentation)
+
+- **Segment:** `unit:120477` · **unitId:** `120477`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120477&periodId=565>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
 
 #### Termine
 
@@ -30222,6 +31186,33 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mi | Mi | 08:00–13:00 | — | 21102.00.422 (CIP-Pool 2 (RRZE-IZN)) |
 
+### International vergleichende Sozialstrukturanalyse (Klausur)
+
+- **Segment:** `unit:42056` · **unitId:** `42056`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=42056&periodId=565>
+
+- **ECTS-Punkte:** 4.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | Fr | 08:00–09:00 | — | 20101.00.015 (FG 0.015 (144 Plätze) Auditorium maximum - Kurt Glässer-Saal) |
+
+### International vergleichende Sozialstrukturanalyse (Präsentation)
+
+- **Segment:** `unit:51918` · **unitId:** `51918`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=51918&periodId=565>
+
+- **ECTS-Punkte:** 1.0
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
 ### Internationale Entwicklungen im 21. Jahrhundert: Wo steht Lateinamerika in der Weltpolitik?
 
 - **Segment:** `unit:73262` · **unitId:** `73262`
@@ -30270,6 +31261,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106722&periodId=565>
 
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Internationale Kommunikation (Präsentation)
 
@@ -30312,6 +31310,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Do | Do | 08:15–09:15 | — | — |
+
+### Internationale Unternehmensführung
+
+- **Segment:** `unit:28644` · **unitId:** `28644`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=28644&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | Do | — | — | — |
 
 ### Internationale Unternehmensführung — Vorlesung
 
@@ -30426,6 +31438,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
+### Introduction to Sustainability Management — Vorlesung
+
+- **Segment:** `unit:83466` · **unitId:** `83466`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83466&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 15:00–16:30 | 20.10.2025–02.02.2026 | 21102.01.421 (LG H6 BISSANTZ-Hörsaal (240 Plätze)) |
+
 ### Introduction to Sustainability Management (written examination)
 
 - **Segment:** `unit:72010` · **unitId:** `72010`
@@ -30493,6 +31521,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Fr | 09:00–15:00 | 12.12.2025 | 21101.05.152 (LG 5.152 (24 Plätze) Seminarraum, freitags und samstags nur für Blockveranstaltungen (ab 6 Std.) vorgesehen) |
 | Einzeltermin | Do | 13:00–16:00 | 19.02.2026 | 21102.05.430 ((16 Plätze)) |
 
+### IT-Management I (Präsentation)
+
+- **Segment:** `unit:46964` · **unitId:** `46964`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46964&periodId=565>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
 ### IT-Management II (Fallstudie)
 
 - **Segment:** `unit:48468` · **unitId:** `48468`
@@ -30549,6 +31591,36 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | 13:15–14:45 | — | — |
 
+### Italienisch Elementarkurs 4
+
+- **Segment:** `unit:20816` · **unitId:** `20816`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20816&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Italienisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | 15:00–16:30 | — | — |
+
+### Italienisch: Elementarkurs 1 - ItaliaNet A1 (Blended Learning Kurs) — Übung
+
+- **Segment:** `unit:89230` · **unitId:** `89230`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89230&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Italienisch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 09:45–11:15 | 20.10.2025–02.02.2026 | 20101.02.024 (FG 2.024 (48 Plätze) Seminarraum) |
+
 ### Italienisch: Elementarkurs 2 ItaliaNet A2 (Blended Learning Kurs) — Übung
 
 - **Segment:** `unit:82457` · **unitId:** `82457`
@@ -30564,6 +31636,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 11:30–13:00 | 20.10.2025–02.02.2026 | 20101.00.016 (FG 0.016 (44 Plätze) Seminarraum) |
+
+### Italienisch: Elementarkurs 3 - ItaliaNet B1 (Blended Learning Kurs) — Übung
+
+- **Segment:** `unit:89884` · **unitId:** `89884`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89884&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Italienisch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 13:15–14:45 | 20.10.2025–02.02.2026 | 21101.05.152 (LG 5.152 (24 Plätze) Seminarraum, freitags und samstags nur für Blockveranstaltungen (ab 6 Std.) vorgesehen) |
 
 ### Italienisch: Elementarkurs 4 - ItaliaNet B2 (Blended Learning Kurs) — Übung
 
@@ -30757,6 +31845,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
+### Konsumentenverhalten I (Klausur)
+
+- **Segment:** `unit:120649` · **unitId:** `120649`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120649&periodId=565>
+
+- **ECTS-Punkte:** 4.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | 18:30–19:30 | — | 21102.01.421 (LG H6 BISSANTZ-Hörsaal (240 Plätze)) |
+
 ### Konsumentenverhalten I (Präsentation)
 
 - **Segment:** `unit:120648` · **unitId:** `120648`
@@ -30823,6 +31925,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Di | Di | 08:00–09:00 | — | — |
 
+### Kostenrechnung und Controlling Tutorium
+
+- **Segment:** `unit:94742` · **unitId:** `94742`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94742&periodId=565>
+
+- **Veranstaltungsart:** Tutorium
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 16:45–18:15 | 15.10.2025–04.02.2026 | 21101.00.224 (LG 0.224 (98 Plätze) Übungsraum) |
+
 ### Kostenrechnung und Controlling Vorlesung
 
 - **Segment:** `unit:83089` · **unitId:** `83089`
@@ -30858,6 +31975,38 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Mo | 15:00–16:30 | 20.10.2025–02.02.2026 | 21102.01.420 (LG H5 TeamBank-Hörsaal (384 Plätze)) |
 | wöchentlich | Mo | 16:45–18:15 | 20.10.2025–02.02.2026 | 21102.01.420 (LG H5 TeamBank-Hörsaal (384 Plätze)) |
 | wöchentlich | Di | 08:00–09:30 | 14.10.2025–03.02.2026 | 21102.01.420 (LG H5 TeamBank-Hörsaal (384 Plätze)) |
+
+### Latein I für Anfänger (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
+
+- **Segment:** `unit:96547` · **unitId:** `96547`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96547&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:00–16:00 | 13.10.2025–02.02.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.10.2025–04.02.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
+
+### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
+
+- **Segment:** `unit:83014` · **unitId:** `83014`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83014&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.10.2025–02.02.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 16:00–18:00 | 15.10.2025–04.02.2026 | 05701.00.017 ( Kl. Hörsaal) |
 
 ### Latein II für Fortgeschrittene - Intensivkurs (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -30935,6 +32084,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 11:30–13:00 | 16.10.2025–05.02.2026 | 20301.U1.038 (U1.038 Seminarraum (50)) |
+
+### Ling AM-1: Tutorium "Syntax der deutschen Gegenwartssprache" (Erlangen)
+
+- **Segment:** `unit:116786` · **unitId:** `116786`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116786&periodId=565>
+
+- **Veranstaltungsart:** Tutorium
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 18:15–19:00 | 20.10.2025–02.02.2026 | 05801.01.211 ( B 302) |
 
 ### Ling AM-1: Tutorium "Syntax der deutschen Gegenwartssprache" (Nürnberg)
 
@@ -31137,6 +32301,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 
+### Marketing (Klausur)
+
+- **Segment:** `unit:107117` · **unitId:** `107117`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107117&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | Fr | 14:00–15:00 | — | — |
+
 ### Marketing Analytics (presentation)
 
 - **Segment:** `unit:124301` · **unitId:** `124301`
@@ -31196,6 +32374,23 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | 08:00–09:00 | — | 21101.00.142 (LG 0.142 (98 Plätze) Übungsraum) |
 
+### Marketing Management REP — Repetitorium
+
+- **Segment:** `unit:103050` · **unitId:** `103050`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103050&periodId=565>
+
+- **Veranstaltungsart:** Repetitorium
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 09:45–13:00 | 23.01.2026 | 21101.00.143 (LG 0.143 (42 Plätze) Übungsraum) |
+| Einzeltermin | Fr | 09:45–13:00 | 30.01.2026 | 21101.00.143 (LG 0.143 (42 Plätze) Übungsraum) |
+| Einzeltermin | Fr | 09:45–13:00 | 06.02.2026 | 21101.00.143 (LG 0.143 (42 Plätze) Übungsraum) |
+
 ### Marketing Tutorium
 
 - **Segment:** `unit:109121` · **unitId:** `109121`
@@ -31237,6 +32432,29 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=77900&periodId=565>
 
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | — | — | — |
+
+### Medien und Kommunikation — Vorlesung
+
+- **Segment:** `unit:116384` · **unitId:** `116384`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116384&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 09:45–11:15 | 23.10.2025–05.02.2026 | 21102.01.420 (LG H5 TeamBank-Hörsaal (384 Plätze)) |
 
 ### Medien und Kommunikation
 
@@ -31334,20 +32552,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Do | Do | 10:00–11:00 | — | 21102.00.421 (CIP-Pool 2 (RRZE-IZN)) |
 
-### NdL BM-1 (Nbg: GS/MS/RS) — Einführungskurs
+### Nachhaltige Produktion — Vorlesung mit Übung
 
-- **Segment:** `unit:115130` · **unitId:** `115130`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115130&periodId=565>
+- **Segment:** `unit:111282` · **unitId:** `111282`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111282&periodId=565>
 
-- **Veranstaltungsart:** Einführungskurs
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** in jedem Semester
 
-### NdL BM-1 - (Nürnberg) Grundlagen und Analyseverfahren der NdL I — Einführungskurs
+#### Termine
 
-- **Segment:** `unit:91484` · **unitId:** `91484`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91484&periodId=565>
-
-- **Veranstaltungsart:** Einführungskurs
-- **Turnus:** nur im Wintersemester
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 10:00–11:00 | 29.01.2026 | — |
+| Einzeltermin | Do | 10:00–11:00 | 29.01.2026 | — |
 
 ### NdL BM-1-Erlangen: Grundlagen und Analyseverfahren der NdL I — Einführungskurs
 
@@ -31402,6 +32621,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Do | Do | 18:15–19:45 | — | — |
 
+### Neugriechisch: Elementarkurs III
+
+- **Segment:** `unit:37594` · **unitId:** `37594`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37594&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | Do | 16:30–18:00 | — | — |
+
 ### Niederländisch: Elementarkurs I
 
 - **Segment:** `unit:37596` · **unitId:** `37596`
@@ -31451,6 +32684,16 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** Unregelmäßig
+
+### Operations and Logistics I — Seminar
+
+- **Segment:** `unit:92626` · **unitId:** `92626`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92626&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
 
 ### Operations and Logistics I (Klausur)
 
@@ -31520,6 +32763,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
+### Persisch: Elementarkurs I
+
+- **Segment:** `unit:37603` · **unitId:** `37603`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37603&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | 18:00–19:30 | — | 05701.U1.008 () |
+
 ### Personal und Organisation (Klausur)
 
 - **Segment:** `unit:32873` · **unitId:** `32873`
@@ -31547,6 +32804,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Di | Di | 17:00–18:00 | — | 21102.01.421 (LG H6 BISSANTZ-Hörsaal (240 Plätze)) |
+
+### Personal und Organisation I (Thesenpapier)
+
+- **Segment:** `unit:116460` · **unitId:** `116460`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116460&periodId=565>
+
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | — | — | — |
 
 ### Personal und Organisation II (Hausarbeit)
 
@@ -31584,6 +32855,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
+
+### Politics of Development and the Sustainable Development Goals
+
+- **Segment:** `unit:124219` · **unitId:** `124219`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124219&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Politics of Development and the Sustainable Development Goals (SDGs) — Seminar
 
@@ -31788,6 +33073,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
+### Praxisseminar mit Prof. Dr. Heinrich v. Pierer (Präsentation)
+
+- **Segment:** `unit:32497` · **unitId:** `32497`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=32497&periodId=565>
+
+- **ECTS-Punkte:** 1.5
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
 ### Presente y futuro de Iberoamérica (Present and future of Ibero-America) — Seminar
 
 - **Segment:** `unit:87319` · **unitId:** `87319`
@@ -31812,6 +33111,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 09:45–11:15 | 14.10.2025–03.02.2026 | 20101.02.024 (FG 2.024 (48 Plätze) Seminarraum) |
+
+### Private Law of International Trade Transactions (written examination)
+
+- **Segment:** `unit:72363` · **unitId:** `72363`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=72363&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | Fr | 13:00–14:30 | — | 20101.00.016 (FG 0.016 (44 Plätze) Seminarraum) |
 
 ### Private law of international trade transactions - Übung
 
@@ -31852,6 +33165,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Klausurenkurs
 - **Turnus:** nur im Sommersemester
+
+### Produktion/Logistik/Beschaffung - Vorlesung
+
+- **Segment:** `unit:87378` · **unitId:** `87378`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87378&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 15:00–16:30 | 22.10.2025–04.02.2026 | 21101.01.213 (LG H4 (814 Plätze) Hörsaal) |
 
 ### Produktion/Logistik/Beschaffung - Übung
 
@@ -31898,6 +33227,23 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Di | Di | — | — | — |
+
+### Projektseminar Wirtschaftsinformatik (Wi1)
+
+- **Segment:** `unit:113390` · **unitId:** `113390`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113390&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 10.0
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mi | 10:00–13:00 | 03.12.2025 | 21102.05.452 ((14 Plätze)) |
+| Einzeltermin | Mi | 13:00–17:00 | 03.12.2025 | 21102.05.452 ((14 Plätze)) |
+| Einzeltermin | Fr | 10:00–17:00 | 05.12.2025 | 21102.05.430 ((16 Plätze)) |
 
 ### Propädeutik
 
@@ -31946,6 +33292,28 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Fr | 14:30–17:30 | 24.10.2025 | 20301.U1.014 (U1.014 Seminarraum (40)) |
 | Einzeltermin | Sa | 09:00–16:00 | 25.10.2025 | 20301.U1.014 (U1.014 Seminarraum (40)) |
 
+### PuGDid1: VORLESUNG: Einführung in die Fachdidaktik Sozialkunde / Politik und Gesellschaft
+
+- **Segment:** `unit:89385` · **unitId:** `89385`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89385&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:30 | 21.11.2025 | 20301.01.042 (1.042 großer Hörsaal (230)) |
+| Einzeltermin | Fr | 14:00–17:30 | 21.11.2025 | 20301.01.029 (1.029 Seminarraum (40)) |
+| Einzeltermin | Fr | 14:00–17:30 | 21.11.2025 | 20301.01.033 (1.033 Seminarraum (40)) |
+| Einzeltermin | Fr | 14:00–17:30 | 21.11.2025 | 20301.U1.014 (U1.014 Seminarraum (40)) |
+| Einzeltermin | Fr | 14:00–17:30 | 16.01.2026 | 20301.01.042 (1.042 großer Hörsaal (230)) |
+| Einzeltermin | Fr | 14:00–17:30 | 16.01.2026 | 20301.01.029 (1.029 Seminarraum (40)) |
+| Einzeltermin | Fr | 14:00–17:30 | 16.01.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
+| Einzeltermin | Fr | 14:00–17:30 | 16.01.2026 | 20301.U1.014 (U1.014 Seminarraum (40)) |
+
 ### Recht I: Grundlagen des Zivilrechts (Elektronische Prüfung)
 
 - **Segment:** `unit:48418` · **unitId:** `48418`
@@ -31959,6 +33327,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | — | — | — |
+
+### Recht I: Grundlagen des öffentlichen Rechts (Klausur)
+
+- **Segment:** `unit:48417` · **unitId:** `48417`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=48417&periodId=565>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | Fr | 08:00–09:00 | — | — |
 
 ### Recht II: Wirtschaftsprivatrecht (elektronische Prüfung)
 
@@ -32057,6 +33439,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Fr | Fr | — | — | — |
 
+### Russisch Elementarkurs 1
+
+- **Segment:** `unit:20823` · **unitId:** `20823`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20823&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | 16:45–18:15 | — | — |
+
 ### Russisch Elementarkurs 4
 
 - **Segment:** `unit:20826` · **unitId:** `20826`
@@ -32070,6 +33466,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Do | Do | 09:45–11:15 | — | — |
+
+### Russisch online B2 Grammatik
+
+- **Segment:** `unit:51792` · **unitId:** `51792`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=51792&periodId=565>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | Fr | 15:00–16:00 | — | — |
 
 ### Russisch: Elementarkurs 1 — Übung
 
@@ -32148,6 +33558,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Do | Do | 14:00–16:00 | 07.12.2025 23:59:59 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
 
+### Schulorganisation und Bildungssystem (Klausur)
+
+- **Segment:** `unit:107092` · **unitId:** `107092`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107092&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
 ### Schulpraktische Studien (SPS) - Lernaufträge
 
 - **Segment:** `unit:20292` · **unitId:** `20292`
@@ -32176,6 +33600,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mi | Mi | — | — | — |
 
+### Schulpraktische Studien I — Seminar
+
+- **Segment:** `unit:88978` · **unitId:** `88978`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88978&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:45–20:00 | 20.10.2025–08.12.2025 | 21101.01.113 (LG H2 Hörsaal (155 Plätze)) |
+
 ### Schwedisch: Elementarkurs III
 
 - **Segment:** `unit:37640` · **unitId:** `37640`
@@ -32190,6 +33629,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | 16:15–18:30 | — | 05801.U1.0232 (SL 104, Bismarckstr. 1 Multimedia-Sprachlabor (Belegung nur nach Rücksprache mit den Raumverantwortlichen)) |
 
+### Schwedisch: Multimedialer Online-Kurs bayernweit: Klara grammatiken! - Schwedische Grammatik A1/A2
+
+- **Segment:** `unit:48063` · **unitId:** `48063`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=48063&periodId=565>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | Fr | 12:15–13:45 | — | 05203.02.215 (SZ 02.215 (Bismarckstr. 10) Belegung nur nach Rücksprache mit der Raumverantwortlichen) |
+
 ### Schwedisch: Multimedialer Online-Kurs bayernweit: Klara, färdiga, gå. Hörverstehen für Anfänger A1/A2
 
 - **Segment:** `unit:37644` · **unitId:** `37644`
@@ -32203,6 +33656,34 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Fr | Fr | 16:15–17:45 | — | 05801.U1.021 (SL 102, Bismarckstr.1 Multimedia-Sprachlabor (Belegung nur nach Rücksprache mit den Raumverantwortlichen)) |
+
+### Schwedisch: Multimedialer Online-Kurs bayernweit: Leseverstehen für Fortgeschrittene - Klara, färdiga, gå! A2/B1
+
+- **Segment:** `unit:37645` · **unitId:** `37645`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37645&periodId=565>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | Fr | 10:15–11:45 | — | 05203.02.215 (SZ 02.215 (Bismarckstr. 10) Belegung nur nach Rücksprache mit der Raumverantwortlichen) |
+
+### Schwimmen I
+
+- **Segment:** `unit:117796` · **unitId:** `117796`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117796&periodId=565>
+
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Seminar Corporate Reporting, Business Analytics, and Sustainability
 
@@ -32279,6 +33760,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
+### Seminar Fachdidaktik Rechnungswesen
+
+- **Segment:** `unit:48328` · **unitId:** `48328`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=48328&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
 ### Seminar Finanzierung und Banken
 
 - **Segment:** `unit:82205` · **unitId:** `82205`
@@ -32301,6 +33796,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
+
+### Seminar Gym. Tanz I - Praktische Prüfung
+
+- **Segment:** `unit:23798` · **unitId:** `23798`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23798&periodId=565>
+
+- **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | Do | 12:00–13:30 | 07.12.2025 23:59:59 | — |
 
 ### Seminar Handball I - Praktische Prüfung
 
@@ -32332,6 +33841,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Mi | 13:15–16:30 | 22.10.2025 | 21101.00.143 (LG 0.143 (42 Plätze) Übungsraum) |
 | Einzeltermin | Mi | 09:00–13:00 | 14.01.2026 | — |
 
+### Seminar Praxis der Berufssprache Deutsch I (Hausarbeit)
+
+- **Segment:** `unit:46416` · **unitId:** `46416`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46416&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
 ### Seminar Psychologische Grundlagen für den Unterricht
 
 - **Segment:** `unit:48329` · **unitId:** `48329`
@@ -32354,6 +33877,36 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
+
+### Seminar Schulorganisation und Bildungssystem
+
+- **Segment:** `unit:115285` · **unitId:** `115285`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115285&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 09:45–11:15 | 24.10.2025–06.02.2026 | 21101.00.222 (LG 0.222/3 (94 Plätze) Übungsraum) |
+
+### Seminar Schwimmen I - Praktische Prüfung
+
+- **Segment:** `unit:23795` · **unitId:** `23795`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23795&periodId=565>
+
+- **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Seminar zu Gender und Arbeitsmarkt
 
@@ -32526,6 +34079,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
+### SozDid 1: Grundlagen der Fachdidaktik Politik und Gesellschaft
+
+- **Segment:** `unit:73391` · **unitId:** `73391`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73391&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | Fr | 14:00–15:30 | 07.12.2025 23:59:59 | — |
+
 ### Sozialpolitische Grundlagen (Klausur)
 
 - **Segment:** `unit:31397` · **unitId:** `31397`
@@ -32658,6 +34225,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | — | — | — |
 
+### Spanisch 4
+
+- **Segment:** `unit:20834` · **unitId:** `20834`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20834&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Spanisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | — | — | — |
+
 ### Spanisch 4 (Niveau B2) — Übung
 
 - **Segment:** `unit:83920` · **unitId:** `83920`
@@ -32702,6 +34283,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:78743` · **unitId:** `78743`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78743&periodId=565>
+
+- **ECTS-Punkte:** 4.0
+- **Unterrichtssprache:** Spanisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### Spanisch ELE.O - virtueller Kurs A2
+
+- **Segment:** `unit:78744` · **unitId:** `78744`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78744&periodId=565>
 
 - **ECTS-Punkte:** 4.0
 - **Unterrichtssprache:** Spanisch
@@ -32771,6 +34366,36 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 09:45–11:15 | 22.10.2025–04.02.2026 | 21102.02.431 (LG 2.431 Multimediasprachlabor) |
+
+### Spanisch: Español empresarial
+
+- **Segment:** `unit:47718` · **unitId:** `47718`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47718&periodId=565>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Spanisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | — | — | — |
+
+### Spanisch: Mediación - Español económico — Übung
+
+- **Segment:** `unit:95424` · **unitId:** `95424`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95424&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Spanisch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 13:15–14:45 | 22.10.2025–04.02.2026 | 21102.02.431 (LG 2.431 Multimediasprachlabor) |
 
 ### Spanisch: Perspectivas y desafios de América Latina — Übung
 
@@ -32952,6 +34577,25 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Fr | 08:30–10:00 | 07.11.2025–06.02.2026 | 20101.02.016 (FG 2.016 (15 Plätze) Seminarraum) |
+
+### Survey Research in Information Systems — Seminar
+
+- **Segment:** `unit:132245` · **unitId:** `132245`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132245&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 11:30–13:00 | 22.10.2025–07.01.2026 | 21101.00.144 (LG 0.144 (38 Plätze) Übungsraum) |
+| Einzeltermin | Do | 10:30–13:00 | 29.01.2026 | — |
+| Einzeltermin | Fr | 09:00–15:00 | 30.01.2026 | 21101.00.144 (LG 0.144 (38 Plätze) Übungsraum) |
+| Einzeltermin | Fr | 10:00–13:00 | 06.02.2026 | 75402.01.002 |
 
 ### Tax Data Analytics — Vorlesung
 
@@ -33376,6 +35020,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
+### Tschechisch: Elementarkurs I
+
+- **Segment:** `unit:44944` · **unitId:** `44944`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44944&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | 16:15–17:45 | — | — |
+
 ### Tutorium zum Einführungskurs
 
 - **Segment:** `unit:98268` · **unitId:** `98268`
@@ -33396,6 +35054,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Fr | 14:00–18:00 | 09.01.2026 | 75202.00.513 (St.Paul 00.513 (24)) |
 | Einzeltermin | Sa | 10:00–16:00 | 10.01.2026 | 75202.00.513 (St.Paul 00.513 (24)) |
 
+### Tutorium zum PC-Praktikum
+
+- **Segment:** `unit:100038` · **unitId:** `100038`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100038&periodId=565>
+
+- **Veranstaltungsart:** Tutorium
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 08:00–09:30 | 20.10.2025–12.01.2026 | — |
+
 ### Tutorium zum VHB-Kurs "Datenerhebungsmethoden in den Sozial- und Verhaltenswissenschaften"
 
 - **Segment:** `unit:90987` · **unitId:** `90987`
@@ -33405,13 +35078,30 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-### Tutorium zur Mathematik
+### Tutorium zum VHB-Kurs "The R- and R-Studio-Environment"
 
-- **Segment:** `unit:102539` · **unitId:** `102539`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102539&periodId=565>
+- **Segment:** `unit:85315` · **unitId:** `85315`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85315&periodId=565>
 
 - **Veranstaltungsart:** Tutorium
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+### Türkisch A1.1 — Übung
+
+- **Segment:** `unit:87615` · **unitId:** `87615`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87615&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Türkisch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 15:00–16:30 | 23.10.2025–05.02.2026 | 21102.02.431 (LG 2.431 Multimediasprachlabor) |
 
 ### Türkisch Elementarkurs I
 
@@ -33530,15 +35220,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Sommersemester
 
-### V: Service Management and Service Engineering — Vorlesung
-
-- **Segment:** `unit:83167` · **unitId:** `83167`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83167&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
 ### Verbundstudium (Diskussionsbeteiligung/Mitarbeit)
 
 - **Segment:** `unit:34576` · **unitId:** `34576`
@@ -33567,10 +35248,39 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | 08:00–09:00 | — | 21101.01.213 (LG H4 (814 Plätze) Hörsaal) |
 
+### Versuchspersonenstunde zu Grundlagen und Anwendungsfelder der Sozialpsychologie
+
+- **Segment:** `unit:36617` · **unitId:** `36617`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36617&periodId=565>
+
+- **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| So | So | — | — | — |
+
 ### Versuchspersonenstunde zu Konsumentenverhalten I — Sonstige Lehrveranstaltung
 
 - **Segment:** `unit:119523` · **unitId:** `119523`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119523&periodId=565>
+
+- **Veranstaltungsart:** Sonstige Lehrveranstaltung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| nach Vereinbarung | — | — | — | — |
+
+### Versuchspersonenstunde zu Personal und Organisation I — Sonstige Lehrveranstaltung
+
+- **Segment:** `unit:119514` · **unitId:** `119514`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119514&periodId=565>
 
 - **Veranstaltungsart:** Sonstige Lehrveranstaltung
 - **Unterrichtssprache:** Deutsch
@@ -33801,6 +35511,54 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Mo | 16:45–18:15 | 20.10.2025–02.02.2026 | 21101.01.213 (LG H4 (814 Plätze) Hörsaal) |
 | wöchentlich | Di | 08:00–09:30 | 21.10.2025–03.02.2026 | 21101.01.213 (LG H4 (814 Plätze) Hörsaal) |
 
+### VL: Einführung in die Ethik in theologischer Perspektive — Vorlesung
+
+- **Segment:** `unit:83980` · **unitId:** `83980`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83980&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:00–14:00 | 13.10.2025–02.02.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
+
+### VL: Empirical Economics — Vorlesung
+
+- **Segment:** `unit:85446` · **unitId:** `85446`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85446&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 08:00–09:30 | 15.10.2025–04.02.2026 | 21101.01.113 (LG H2 Hörsaal (155 Plätze)) |
+
+### VL: Gesundheitsausgaben & Krankenversicherung — Vorlesung
+
+- **Segment:** `unit:90638` · **unitId:** `90638`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90638&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 13:15–14:45 | 20.10.2025–02.02.2026 | 21101.03.155 (LG 3.155 (24 Plätze) Seminarraum) |
+
 ### Vorlesung Elemente der Analysis II - Klausur
 
 - **Segment:** `unit:43624` · **unitId:** `43624`
@@ -33844,6 +35602,19 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 13:15–14:45 | 22.10.2025–04.02.2026 | 21101.01.114 (LG H3 GfK-Hörsaal (155 Plätze) &quot;Gesellschaft für Konsumforschung&quot;) |
+
+### Wahlangebot I
+
+- **Segment:** `unit:118516` · **unitId:** `118516`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118516&periodId=565>
+
+- **ECTS-Punkte:** 2.0
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| So | So | — | — | — |
 
 ### Web-Programming (Klausur)
 
@@ -33911,6 +35682,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Fr | 09:45–13:00 | 09.01.2026 | 20101.03.023 (FG 3.023 (14 Plätze) Seminarraum) |
 | Einzeltermin | Fr | 09:45–13:00 | 30.01.2026 | 20101.03.023 (FG 3.023 (14 Plätze) Seminarraum) |
 
+### Wirtschaft und Staat
+
+- **Segment:** `unit:33293` · **unitId:** `33293`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=33293&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | 14:00–15:30 | — | — |
+
 ### Wirtschaft und Staat — Übung
 
 - **Segment:** `unit:88425` · **unitId:** `88425`
@@ -33965,6 +35750,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Mi | 12:00–14:00 | 15.10.2025–04.02.2026 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
 | wöchentlich | Do | 12:00–14:00 | 16.10.2025–05.02.2026 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
 
+### Wirtschaftsprivatrecht - Übung/Tutorium
+
+- **Segment:** `unit:86896` · **unitId:** `86896`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86896&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:15–17:45 | 21.10.2025–03.02.2026 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 16:15–17:45 | 22.10.2025–04.02.2026 | — |
+
 ### Zirkuskünste 1 — Seminar
 
 - **Segment:** `unit:83206` · **unitId:** `83206`
@@ -33981,6 +35782,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 15:30–17:00 | 14.10.2025–03.02.2026 | 10105.00.572 (TuHaSpoz Turnhalle im DSS) |
 
+### Zirkuskünste 2 — Seminar
+
+- **Segment:** `unit:91046` · **unitId:** `91046`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91046&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 15:30–17:00 | 14.10.2025–03.02.2026 | 20303.00.228 (TuHaNbg Turnhalle an der Regensburger Str) |
+
 ### Ökonomie der digitalen Transformation im Gesundheitswesen — Vorlesung mit Übung
 
 - **Segment:** `unit:120323` · **unitId:** `120323`
@@ -33988,6 +35805,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **Turnus:** jedes 2. Semester
+
+### Ökonomie des öffentlichen Sektors (Klausur)
+
+- **Segment:** `unit:28777` · **unitId:** `28777`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=28777&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | Do | 08:00–09:30 | — | 21102.01.421 (LG H6 BISSANTZ-Hörsaal (240 Plätze)) |
 
 ### Ökonomisches Auslandsmodul I
 
@@ -34068,14 +35899,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Sommersemester
 
-### Ü: Service Management and Service Engineering — Übung
-
-- **Segment:** `unit:99575` · **unitId:** `99575`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99575&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Sommersemester
-
 ### Ü: Übung zu den Grundlagen der Bildungsökonomik
 
 - **Segment:** `unit:113374` · **unitId:** `113374`
@@ -34109,6 +35932,24 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Di | 13:15–14:45 | 21.10.2025–03.02.2026 | — |
 | wöchentlich | Mi | 11:30–13:00 | 29.10.2025–04.02.2026 | 21101.03.153 (LG 3.152/3 (62 Plätze) Seminarraum) |
 
+### Übung Versicherungs- und Risikomanagement
+
+- **Segment:** `unit:95267` · **unitId:** `95267`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95267&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 11:30–13:00 | 23.10.2025–05.02.2026 | 21101.00.142 (LG 0.142 (98 Plätze) Übungsraum) |
+| wöchentlich | Do | 11:30–13:00 | 04.12.2025–11.12.2025 | 21101.00.215 (CIP-Pool 1 (RRZE-IZN)) |
+| wöchentlich | Fr | 11:30–13:00 | 05.12.2025–12.12.2025 | 21101.00.215 (CIP-Pool 1 (RRZE-IZN)) |
+
 ### Übung zu Ba-Vorl: International Politics II (only Sozök)
 
 - **Segment:** `unit:118839` · **unitId:** `118839`
@@ -34131,6 +35972,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 08:00–09:30 | 05.11.2025–07.01.2026 | 21101.03.153 (LG 3.152/3 (62 Plätze) Seminarraum) |
+
+### Übung zu Grundlagen und Anwendungsfelder der Sozialpsychologie
+
+- **Segment:** `unit:50488` · **unitId:** `50488`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50488&periodId=565>
+
+- **ECTS-Punkte:** 1.5
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Übung zur Arbeitsmarktpolitik
 
@@ -34162,6 +36017,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82680&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
+- **Turnus:** in jedem Semester
+
+### Übungen und Tutorium zur Mathematik
+
+- **Segment:** `unit:102539` · **unitId:** `102539`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102539&periodId=565>
+
+- **Veranstaltungsart:** Übung
 - **Turnus:** in jedem Semester
 
 ### Übungen zu Aufbaumodul Analysis III
@@ -34222,11 +36085,30 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Sommersemester
 
-### „… als ob es Gott gäbe“. Die Praxis des Religionsunterrichts zwischen biblischen Gottesbildern und moderner Gottesverneinung — Hauptseminar
+### Übungsleistung zu Elemente der Analysis II
 
-- **Segment:** `unit:110256` · **unitId:** `110256`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110256&periodId=565>
+- **Segment:** `unit:43625` · **unitId:** `43625`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43625&periodId=565>
 
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 3.0
-- **Turnus:** nur im Sommersemester
+- **ECTS-Punkte:** 4.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### Übungsleistung zu Elemente der Linearen Algebra I
+
+- **Segment:** `unit:43619` · **unitId:** `43619`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43619&periodId=565>
+
+- **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |

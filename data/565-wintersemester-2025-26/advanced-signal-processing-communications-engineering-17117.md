@@ -22,7 +22,9 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12661405|exam:12661406|exam:12661407|exam:12662944|exam:12663140|exam:12663144>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110542&periodId=565>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Englisch
+- **Turnus:** jedes 2. Semester
 
 #### Termine
 
@@ -40,7 +42,9 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12664618|exam:12664619|exam:12664620|exam:12666155|exam:12666349|exam:12666353>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110542&periodId=565>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Englisch
+- **Turnus:** jedes 2. Semester
 
 #### Termine
 
@@ -302,6 +306,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12661405|exam:12661406|exam:12661407|exam:12662907|exam:12662927|exam:12662928>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=76214&periodId=565>
 
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch oder Englisch
 
 #### Termine
@@ -316,6 +321,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12661405|exam:12661406|exam:12661407|exam:12662944|exam:12663068|exam:12663069>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=76214&periodId=565>
 
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch oder Englisch
 
 #### Termine
@@ -330,6 +336,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12664618|exam:12664619|exam:12664620|exam:12666118|exam:12666138|exam:12666139>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=76214&periodId=565>
 
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch oder Englisch
 
 #### Termine
@@ -344,6 +351,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12664618|exam:12664619|exam:12664620|exam:12666155|exam:12666277|exam:12666278>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=76214&periodId=565>
 
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch oder Englisch
 
 #### Termine
@@ -358,6 +366,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12661405|exam:12661406|exam:12661407|exam:12662944|exam:12663104|exam:12663105>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118957&periodId=565>
 
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -372,6 +381,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12664618|exam:12664619|exam:12664620|exam:12666155|exam:12666313|exam:12666314>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118957&periodId=565>
 
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -416,6 +426,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12661405|exam:12661406|exam:12661407|exam:12662907|exam:13767259|exam:13767261>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78803&periodId=565>
 
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -430,6 +441,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12664618|exam:12664619|exam:12664620|exam:12666118|exam:13767268|exam:13767270>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78803&periodId=565>
 
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -472,6 +484,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12661405|exam:12661406|exam:12661407|exam:12662944|exam:12663084|exam:12663087>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=24719&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -486,6 +499,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12664618|exam:12664619|exam:12664620|exam:12666155|exam:12666293|exam:12666296>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=24719&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -556,6 +570,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12661405|exam:12661406|exam:12661407|exam:12662834|exam:12662899|exam:12662900>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125643&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch oder Englisch
 
 #### Termine
@@ -570,6 +585,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12664618|exam:12664619|exam:12664620|exam:12666045|exam:12666110|exam:12666111>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125643&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch oder Englisch
 
 #### Termine
@@ -674,6 +690,8 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12661405|exam:12661406|exam:12661407|exam:12662944|exam:12663114|exam:12663115>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=25885&periodId=565>
 
+- **ECTS-Punkte:** 7.5
+
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
@@ -685,6 +703,8 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Segment:** `exam:12666324` · **unitId:** `25885`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12664618|exam:12664619|exam:12664620|exam:12666155|exam:12666323|exam:12666324>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=25885&periodId=565>
+
+- **ECTS-Punkte:** 7.5
 
 #### Termine
 
@@ -698,6 +718,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12661405|exam:12661406|exam:12661407|exam:12662944|exam:12663119|exam:12663122>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=34951&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -712,6 +733,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12664618|exam:12664619|exam:12664620|exam:12666155|exam:12666328|exam:12666331>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=34951&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -816,6 +838,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12661405|exam:12661406|exam:12661407|exam:12662944|exam:12662947|exam:12662949>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=25957&periodId=565>
 
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -830,6 +853,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12664618|exam:12664619|exam:12664620|exam:12666155|exam:12666158|exam:12666160>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=25957&periodId=565>
 
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -904,6 +928,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12661405|exam:12661406|exam:12664609|exam:12664610>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=21169&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -918,6 +943,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12664618|exam:12664619|exam:12667815|exam:12667820>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=21169&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -990,6 +1016,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12661405|exam:12661406|exam:12661407|exam:12663151|exam:12663154>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45945&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -1004,6 +1031,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12664618|exam:12664619|exam:12664620|exam:12666360|exam:12666363>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45945&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -1136,6 +1164,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12661405|exam:12661406|exam:12661407|exam:12662834|exam:12662879|exam:12662882>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=52189&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -1150,6 +1179,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12664618|exam:12664619|exam:12664620|exam:12666045|exam:12666090|exam:12666093>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=52189&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -1691,6 +1721,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12661405|exam:12661406|exam:12661407|exam:12662834|exam:12662855|exam:12662858>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=26391&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -1705,6 +1736,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12664618|exam:12664619|exam:12664620|exam:12666045|exam:12666066|exam:12666069>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=26391&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -1893,6 +1925,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12661405|exam:12661406|exam:12661407|exam:12662834|exam:12662883|exam:12662886>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=42551&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -1907,6 +1940,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12664618|exam:12664619|exam:12664620|exam:12666045|exam:12666094|exam:12666097>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=42551&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -1981,6 +2015,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12661405|exam:12661406|exam:12661407|exam:12662944|exam:12663035|exam:12663038>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=51693&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -1995,6 +2030,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12664618|exam:12664619|exam:12664620|exam:12666155|exam:12666246|exam:12666249>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=51693&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -2069,6 +2105,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12661405|exam:12661406|exam:12661407|exam:12662944|exam:12663039|exam:12663042>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=51648&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -2083,6 +2120,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12664618|exam:12664619|exam:12664620|exam:12666155|exam:12666250|exam:12666253>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=51648&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -2217,6 +2255,8 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12661405|exam:12661406|exam:12661407|exam:12662944|exam:12662989|exam:12662992>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47558&periodId=565>
 
+- **ECTS-Punkte:** 5.0
+
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
@@ -2228,6 +2268,8 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Segment:** `exam:12666203` · **unitId:** `47558`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12664618|exam:12664619|exam:12664620|exam:12666155|exam:12666200|exam:12666203>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47558&periodId=565>
+
+- **ECTS-Punkte:** 5.0
 
 #### Termine
 
@@ -2241,6 +2283,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12661405|exam:12661406|exam:12661407|exam:12662907|exam:12662932|exam:12662934>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=26287&periodId=565>
 
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -2255,6 +2298,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12664618|exam:12664619|exam:12664620|exam:12666118|exam:12666143|exam:12666145>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=26287&periodId=565>
 
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -2269,6 +2313,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12661405|exam:12661406|exam:12661407|exam:12662907|exam:12662912|exam:12662914>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47945&periodId=565>
 
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -2283,6 +2328,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12664618|exam:12664619|exam:12664620|exam:12666118|exam:12666123|exam:12666125>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47945&periodId=565>
 
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -2549,6 +2595,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12661405|exam:12661406|exam:12661407|exam:12662944|exam:12663053|exam:12663056>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49315&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -2563,6 +2610,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12664618|exam:12664619|exam:12664620|exam:12666155|exam:12666262|exam:12666265>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49315&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -2785,7 +2833,10 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12661405|exam:12661406|exam:12661407|exam:12662944|exam:12663053|exam:12663055>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84439&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -2799,7 +2850,10 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12664618|exam:12664619|exam:12664620|exam:12666155|exam:12666262|exam:12666264>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84439&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -2998,7 +3052,10 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12661405|exam:12661406|exam:12661407|exam:12662907|exam:12662924|exam:12662925>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82325&periodId=565>
 
+- **Veranstaltungsart:** Praktikum
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch oder Englisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -3014,7 +3071,10 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12664618|exam:12664619|exam:12664620|exam:12666118|exam:12666135|exam:12666136>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82325&periodId=565>
 
+- **Veranstaltungsart:** Praktikum
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch oder Englisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -3396,7 +3456,10 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12661405|exam:12661406|exam:12661407|exam:12662834|exam:12662887|exam:12662888>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84287&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -3410,7 +3473,10 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12664618|exam:12664619|exam:12664620|exam:12666045|exam:12666098|exam:12666099>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84287&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -3472,7 +3538,9 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12661405|exam:12661406|exam:12664609|exam:12664612|exam:12664614>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84134&periodId=565>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -3486,7 +3554,9 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12664618|exam:12664619|exam:12667815|exam:12667816|exam:12667818>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84134&periodId=565>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -3680,7 +3750,10 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12661405|exam:12661406|exam:12661407|exam:12662944|exam:12663084|exam:12663085>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82461&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -3694,7 +3767,10 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12664618|exam:12664619|exam:12664620|exam:12666155|exam:12666293|exam:12666294>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82461&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -3740,7 +3816,9 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12661405|exam:12661406|exam:12661407|exam:12662944|exam:12663084|exam:12663086>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82792&periodId=565>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -3754,7 +3832,9 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12664618|exam:12664619|exam:12664620|exam:12666155|exam:12666293|exam:12666295>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82792&periodId=565>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -3870,7 +3950,10 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12661405|exam:12661406|exam:12661407|exam:12662834|exam:12662891|exam:12662893>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107657&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -3884,7 +3967,10 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12661405|exam:12661406|exam:12661407|exam:12662944|exam:12662985|exam:12662987>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107657&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -3898,7 +3984,10 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12664618|exam:12664619|exam:12664620|exam:12666045|exam:12666102|exam:12666104>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107657&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -3912,7 +4001,10 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12664618|exam:12664619|exam:12664620|exam:12666155|exam:12666196|exam:12666198>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107657&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -3964,7 +4056,9 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12661405|exam:12661406|exam:12661407|exam:12663151|exam:12663152>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82706&periodId=565>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -3978,7 +4072,9 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12664618|exam:12664619|exam:12664620|exam:12666360|exam:12666361>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82706&periodId=565>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -4174,7 +4270,9 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12661405|exam:12661406|exam:12661407|exam:12662944|exam:12663039|exam:12663040>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82870&periodId=565>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 ### MICT-TUT - Tutorial for Multiuser Information and Communications Theory - Übung
 
@@ -4182,7 +4280,9 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12664618|exam:12664619|exam:12664620|exam:12666155|exam:12666250|exam:12666251>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82870&periodId=565>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 ### MLISP - Maschinelles Lernen in der Signalverarbeitung - Vorlesung
 
@@ -4224,7 +4324,10 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12661405|exam:12661406|exam:12661407|exam:12662834|exam:12662899|exam:12662901>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125664&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -4238,7 +4341,10 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12664618|exam:12664619|exam:12664620|exam:12666045|exam:12666110|exam:12666112>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125664&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -4322,7 +4428,10 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12661405|exam:12661406|exam:12661407|exam:12662944|exam:12663057|exam:12663059>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83783&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -4336,7 +4445,10 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12664618|exam:12664619|exam:12664620|exam:12666155|exam:12666266|exam:12666268>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83783&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -4610,7 +4722,10 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12661405|exam:12661406|exam:12661407|exam:12662907|exam:12662935|exam:12662936>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86178&periodId=565>
 
+- **Veranstaltungsart:** Praktikum
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch oder Englisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -4624,7 +4739,10 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12664618|exam:12664619|exam:12664620|exam:12666118|exam:12666146|exam:12666147>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86178&periodId=565>
 
+- **Veranstaltungsart:** Praktikum
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch oder Englisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -4774,7 +4892,10 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12661405|exam:12661406|exam:12661407|exam:12662944|exam:12663070|exam:12663072>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92172&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -4788,7 +4909,10 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12664618|exam:12664619|exam:12664620|exam:12666155|exam:12666279|exam:12666281>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92172&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -4928,7 +5052,7 @@ _Section: Studiengänge der Technischen Fakultät_
 
 - **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Englisch
-- **Turnus:** nicht in diesem Semester
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -4944,7 +5068,7 @@ _Section: Studiengänge der Technischen Fakultät_
 
 - **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Englisch
-- **Turnus:** nicht in diesem Semester
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -4960,7 +5084,7 @@ _Section: Studiengänge der Technischen Fakultät_
 
 - **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Englisch
-- **Turnus:** nicht in diesem Semester
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -4976,7 +5100,7 @@ _Section: Studiengänge der Technischen Fakultät_
 
 - **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Englisch
-- **Turnus:** nicht in diesem Semester
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -5194,7 +5318,9 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12661405|exam:12661406|exam:12661407|exam:12662834|exam:12662871|exam:12662872>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83112&periodId=565>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -5208,7 +5334,9 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12661405|exam:12661406|exam:12661407|exam:12662944|exam:12663080|exam:12663081>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83112&periodId=565>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -5222,7 +5350,9 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12664618|exam:12664619|exam:12664620|exam:12666045|exam:12666082|exam:12666083>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83112&periodId=565>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -5236,7 +5366,9 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12664618|exam:12664619|exam:12664620|exam:12666155|exam:12666289|exam:12666290>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83112&periodId=565>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -5420,7 +5552,9 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12661405|exam:12661406|exam:12661407|exam:12663155|exam:12663156>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82942&periodId=565>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -5434,7 +5568,9 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17117|exam:12664618|exam:12664619|exam:12664620|exam:12666364|exam:12666365>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82942&periodId=565>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -5442,9 +5578,23 @@ _Section: Studiengänge der Technischen Fakultät_
 |---|---|---|---|---|
 | wöchentlich | Fr | 16:15–17:45 | 17.10.2025–06.02.2026 | 11907.01.030 (H19) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (41)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (45)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
+
+### Abschlussklausur Anatomie und Physiologie für Nichtmediziner
+
+- **Segment:** `unit:27290` · **unitId:** `27290`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27290&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | Do | 11:00–12:00 | — | 12801.01.210 (H11) |
 
 ### Advanced Communication Networks — Vorlesung
 
@@ -5534,15 +5684,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
-### Compressive Sensing — Vorlesung mit Übung
-
-- **Segment:** `unit:92095` · **unitId:** `92095`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92095&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
 ### Computational Photography and Capture
 
 - **Segment:** `unit:80249` · **unitId:** `80249`
@@ -5605,6 +5746,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
+### Innovation and leadership (presentation)
+
+- **Segment:** `unit:50813` · **unitId:** `50813`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50813&periodId=565>
+
+- **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | Fr | — | — | — |
+
 ### Innovation and leadership (research project)
 
 - **Segment:** `unit:50812` · **unitId:** `50812`
@@ -5650,6 +5805,38 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Sommersemester
+
+### Latein I für Anfänger (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
+
+- **Segment:** `unit:96547` · **unitId:** `96547`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96547&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:00–16:00 | 13.10.2025–02.02.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.10.2025–04.02.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
+
+### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
+
+- **Segment:** `unit:83014` · **unitId:** `83014`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83014&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.10.2025–02.02.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 16:00–18:00 | 15.10.2025–04.02.2026 | 05701.00.017 ( Kl. Hörsaal) |
 
 ### Latein II für Fortgeschrittene - Intensivkurs (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -5726,6 +5913,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Sommersemester
+
+### Modern optics 3: Quantum optics
+
+- **Segment:** `unit:50425` · **unitId:** `50425`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50425&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | 10:00–12:00 | — | — |
 
 ### Modern Optics 3: Quantum Optics — Vorlesung
 

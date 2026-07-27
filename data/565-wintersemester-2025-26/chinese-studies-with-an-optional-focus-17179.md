@@ -299,7 +299,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13196293|exam:13196306|exam:13656568>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130623&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
 
 #### Termine
 
@@ -329,7 +331,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13197123|exam:13197211|exam:13197220>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118063&periodId=565>
 
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -391,7 +396,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13197123|exam:13197124|exam:13651767>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131414&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -405,7 +412,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13197123|exam:13197171|exam:13651761>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131414&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -569,7 +578,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13197123|exam:13197146|exam:13631553>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130685&periodId=565>
 
+- **Veranstaltungsart:** Masterseminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -583,7 +594,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13197123|exam:13197193|exam:13631579>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130685&periodId=565>
 
+- **Veranstaltungsart:** Masterseminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -613,7 +626,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13197123|exam:13197137|exam:13631926>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131133&periodId=565>
 
+- **Veranstaltungsart:** Masterseminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -627,7 +642,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13197123|exam:13197184|exam:13631920>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131133&periodId=565>
 
+- **Veranstaltungsart:** Masterseminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -737,7 +754,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13196293|exam:13196324|exam:13695477>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130596&periodId=565>
 
+- **Veranstaltungsart:** Mittelseminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
 
 #### Termine
 
@@ -751,7 +770,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13196293|exam:13196333|exam:13695502>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130596&periodId=565>
 
+- **Veranstaltungsart:** Mittelseminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
 
 #### Termine
 
@@ -832,7 +853,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13196681|exam:13196772|exam:13744423>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132011&periodId=565>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -846,7 +869,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13196871|exam:13196897|exam:13632355>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130829&periodId=565>
 
+- **Veranstaltungsart:** Proseminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -860,7 +885,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13196871|exam:13196872|exam:13632810>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130498&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -1097,7 +1124,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13196345|exam:13196396|exam:13683347>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130605&periodId=565>
 
+- **Veranstaltungsart:** Hauptseminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
 
 #### Termine
 
@@ -1111,7 +1140,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13196345|exam:13196408|exam:13683367>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130605&periodId=565>
 
+- **Veranstaltungsart:** Hauptseminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
 
 #### Termine
 
@@ -1174,7 +1205,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13196681|exam:13196755|exam:13722425>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132351&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
 
 #### Termine
 
@@ -1292,7 +1326,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13196681|exam:13196682|exam:13717930>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=129636&periodId=565>
 
+- **Veranstaltungsart:** Hauptseminar
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
 
 #### Termine
 
@@ -1355,7 +1392,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13196258|exam:13196273|exam:13196274>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87604&periodId=565>
 
+- **Veranstaltungsart:** Masterseminar
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -1600,7 +1640,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13196293|exam:13196315|exam:13196322>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111384&periodId=565>
 
+- **Veranstaltungsart:** Mittelseminar
 - **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -1664,7 +1706,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13196345|exam:13196355|exam:13640702>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131103&periodId=565>
 
+- **Veranstaltungsart:** Kurs
 - **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -1884,7 +1928,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13196258|exam:13755355|exam:13755356>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88082&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -1962,7 +2009,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13196345|exam:13196361|exam:13640696>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130612&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung mit Übung
 - **Unterrichtssprache:** Englisch
+- **Turnus:** Unregelmäßig
 
 #### Termine
 
@@ -2105,7 +2154,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13196871|exam:13196943|exam:13635446>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130945&periodId=565>
 
+- **Veranstaltungsart:** Proseminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -2187,7 +2238,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13196258|exam:13196265|exam:13196266>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96359&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -2492,7 +2546,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13197123|exam:13197151|exam:13637029>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130235&periodId=565>
 
+- **Veranstaltungsart:** Masterseminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -2506,7 +2562,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13197123|exam:13197198|exam:13637064>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130235&periodId=565>
 
+- **Veranstaltungsart:** Masterseminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -2706,7 +2764,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13196681|exam:13196682|exam:13727494>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132268&periodId=565>
 
+- **Veranstaltungsart:** Hauptseminar
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -2738,7 +2799,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13196871|exam:13197089|exam:13637327>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130682&periodId=565>
 
+- **Veranstaltungsart:** Hauptseminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -2752,7 +2815,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13197123|exam:13197264|exam:13637328>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130682&periodId=565>
 
+- **Veranstaltungsart:** Hauptseminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -3095,6 +3160,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13196345|exam:13196383|exam:13196394>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45018&periodId=565>
 
+- **ECTS-Punkte:** 7.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -3169,6 +3235,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13196345|exam:13196355|exam:13196360>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=29630&periodId=565>
 
+- **ECTS-Punkte:** 10.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -3228,6 +3295,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13196258|exam:13755355|exam:13755357>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27366&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -3257,6 +3325,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13196830|exam:13196835|exam:13196837>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=21149&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -3286,6 +3355,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13196830|exam:13196849|exam:13196851>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=21157&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -3432,6 +3502,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13196871|exam:13196976|exam:13196986>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45731&periodId=565>
 
+- **ECTS-Punkte:** 5.0
+
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
@@ -3500,6 +3572,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13196871|exam:13197063|exam:13197068>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45742&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch oder Englisch
 
 #### Termine
@@ -3514,6 +3587,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13197123|exam:13197238|exam:13197243>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45742&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch oder Englisch
 
 #### Termine
@@ -3614,6 +3688,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13197123|exam:13197124|exam:13197129>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=29752&periodId=565>
 
+- **ECTS-Punkte:** 10.0
+
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
@@ -3625,6 +3701,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:13197140` · **unitId:** `29753`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13197123|exam:13197137|exam:13197140>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=29753&periodId=565>
+
+- **ECTS-Punkte:** 10.0
 
 #### Termine
 
@@ -3665,6 +3743,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:13197165` · **unitId:** `34963`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13197123|exam:13197162|exam:13197165>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=34963&periodId=565>
+
+- **ECTS-Punkte:** 10.0
 
 #### Termine
 
@@ -3708,6 +3788,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **ECTS-Punkte:** 10.0
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | — | — | — |
+
 ### 59201 Referat mit Hausarbeit oder Klausur zu Pol AER (B) Politik in außereuropäischen Regionen - Leistung
 
 - **Segment:** `exam:13197202` · **unitId:** `29762`
@@ -3727,6 +3813,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:13197214` · **unitId:** `29763`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13197123|exam:13197211|exam:13197214>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=29763&periodId=565>
+
+- **ECTS-Punkte:** 10.0
 
 #### Termine
 
@@ -3800,6 +3888,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13196293|exam:13196312|exam:13196314>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54424&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -3829,6 +3918,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13196293|exam:13196303|exam:13196305>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54428&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -3981,6 +4071,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13196681|exam:13196755|exam:13196765>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47309&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -4011,6 +4102,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47312&periodId=565>
 
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | — | 07.12.2025 23:59:59 | — |
 
 ### 77041 Klausur oder mündl. Prüfung oder Referat zu eine Lehrveranstaltung oder Exkursion aus dem Lehrangebot des Departments Geschichte oder des Lehrstuhls für Didaktik der Geschichte - Leistung
 
@@ -4135,6 +4233,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13197322|exam:13197323>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122982&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -4195,6 +4294,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122990&periodId=565>
 
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | — | — | — |
 
 ### 78161 China in a Global Context - Leistung
 
@@ -4262,6 +4368,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13196258|exam:13196265|exam:13196267>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54500&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -4356,7 +4463,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13196258|exam:13196259|exam:13196260>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103972&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -4404,7 +4514,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13196830|exam:13196831|exam:13196832>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89287&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -4456,7 +4569,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17179|exam:13196242|exam:13196243|exam:13196244|exam:13196830|exam:13196849|exam:13196850>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87436&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -4526,7 +4642,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 13:00–13:45 | 21.10.2025–03.02.2026 | 05901.05.054 ( 05.054) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (221)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (208)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -4537,13 +4653,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Hauptseminar
 - **Turnus:** nur im Wintersemester
-
-### (K)ein Silberstreif am Horizont? Entwicklung und Stand der EU-Asylpolitik — Proseminar
-
-- **Segment:** `unit:115352` · **unitId:** `115352`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115352&periodId=565>
-
-- **Veranstaltungsart:** Proseminar
 
 ### 18th-Century Literature and Culture — Vorlesung
 
@@ -4619,6 +4728,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mi | Mi | 12:00–14:00 | 07.12.2025 23:59:59 | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
+### Alteritätsdiskurse und Diskriminierungspraktiken in Europa ca. 1450-1800 — Hauptseminar
+
+- **Segment:** `unit:130365` · **unitId:** `130365`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130365&periodId=565>
+
+- **Veranstaltungsart:** Hauptseminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 11:30–13:00 | 15.10.2025–04.02.2026 | 20301.U1.031 (U1.031 Seminarraum (40)) |
+
 ### Amberg im Mittelalter — Hauptseminar
 
 - **Segment:** `unit:134362` · **unitId:** `134362`
@@ -4680,13 +4805,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134238&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar
-
-### Animal Politics in the MENA Region: Of noble Camels, impure Pigs and dissident Dogs — Masterseminar
-
-- **Segment:** `unit:134032` · **unitId:** `134032`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134032&periodId=565>
-
-- **Veranstaltungsart:** Masterseminar
 
 ### Artists as Activists  The Interaction between American Artists and U.S. Politics — Proseminar
 
@@ -4819,15 +4937,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
-
-### Bevölkerungsentwicklung und Bevölkerungspolitik im Nahen Osten — Proseminar
-
-- **Segment:** `unit:122349` · **unitId:** `122349`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122349&periodId=565>
-
-- **Veranstaltungsart:** Proseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Bildung als Bedingung demokratischer Stabilität? Perspektiven aus der politischen Theorie — Hauptseminar
 
@@ -5043,15 +5152,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Hauptseminar
 
-### Die aktuelle Migrations- und Asylpolitik in der Europäischen Union (mit Planspiel) — Proseminar
-
-- **Segment:** `unit:122383` · **unitId:** `122383`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122383&periodId=565>
-
-- **Veranstaltungsart:** Proseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Die Annales-Schule und das Mittelalter — Übung
 
 - **Segment:** `unit:99325` · **unitId:** `99325`
@@ -5161,6 +5261,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 
+### Die Severer — Übungsseminar
+
+- **Segment:** `unit:131946` · **unitId:** `131946`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131946&periodId=565>
+
+- **Veranstaltungsart:** Übungsseminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:15–13:45 | 16.10.2025–05.02.2026 | 05902.00.014 ( 00.14 PSG) |
+
 ### Die Sprache des Lager-Universums: westeuropäische und sowjetische Lagerzeugnisse im Vergleich — Übung
 
 - **Segment:** `unit:135715` · **unitId:** `135715`
@@ -5169,13 +5285,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** in jedem Semester
-
-### Die Zukunft des Asyls - mit Zugang zur FFVT Summer School — Masterseminar
-
-- **Segment:** `unit:134408` · **unitId:** `134408`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134408&periodId=565>
-
-- **Veranstaltungsart:** Masterseminar
 
 ### Digitalisation and Human Rights — Masterseminar
 
@@ -5261,13 +5370,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 
-### Einführung in die politikwissenschaftliche Nahostforschung — Vorlesung
-
-- **Segment:** `unit:134036` · **unitId:** `134036`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134036&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-
 ### Einführung in die Politische Theorie und Ideengeschichte - Teil 2 — Vorlesung
 
 - **Segment:** `unit:126499` · **unitId:** `126499`
@@ -5286,15 +5388,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 ### Einführung in die Politische Theorie und Ideengeschichte I — Vorlesung
 
-- **Segment:** `unit:97590` · **unitId:** `97590`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97590&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
-### Einführung in die Politische Theorie und Ideengeschichte I — Vorlesung
-
 - **Segment:** `unit:122282` · **unitId:** `122282`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122282&periodId=565>
 
@@ -5308,13 +5401,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118852&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
-
-### Einwanderung in Deutschland und Europa — Masterseminar
-
-- **Segment:** `unit:138682` · **unitId:** `138682`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138682&periodId=565>
-
-- **Veranstaltungsart:** Masterseminar
 
 ### Entwicklungszusammenarbeit in der Krise? — Hauptseminar
 
@@ -5370,13 +5456,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Proseminar
 - **Turnus:** nur im Wintersemester
 
-### Flucht und Migration in der Klimakrise: Neue Spielräume in der internationalen Politik? — Masterseminar
-
-- **Segment:** `unit:122384` · **unitId:** `122384`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122384&periodId=565>
-
-- **Veranstaltungsart:** Masterseminar
-
 ### Forschungsdesign in den IB — Masterseminar
 
 - **Segment:** `unit:134256` · **unitId:** `134256`
@@ -5425,13 +5504,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116257&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar
-
-### Geschlechterverhältnisse und Geschlechterpolitik im Nahen Osten / Gender Relations and Gender Politics in the Middle East — Proseminar
-
-- **Segment:** `unit:110671` · **unitId:** `110671`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110671&periodId=565>
-
-- **Veranstaltungsart:** Proseminar
 
 ### Gesellschaftliche Diskriminierung zwischen lokalen Praktiken und globalen Normen — Hauptseminar
 
@@ -5582,6 +5654,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** Unregelmäßig
 
+### HS "Der Investiturstreit" — Hauptseminar
+
+- **Segment:** `unit:137495` · **unitId:** `137495`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137495&periodId=565>
+
+- **Veranstaltungsart:** Hauptseminar
+
 ### HS/Ü Schwarzer Markt für rote Bücher — Hauptseminar
 
 - **Segment:** `unit:126251` · **unitId:** `126251`
@@ -5613,13 +5692,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
-
-### Integrationspolitik in Deutschland - mit Praxisbeispielen — Proseminar
-
-- **Segment:** `unit:134409` · **unitId:** `134409`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134409&periodId=565>
-
-- **Veranstaltungsart:** Proseminar
 
 ### International Business Ethics I — Vorlesung
 
@@ -5675,13 +5747,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 
-### Kinderrechte im Nahen Osten — Proseminar
-
-- **Segment:** `unit:126544` · **unitId:** `126544`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126544&periodId=565>
-
-- **Veranstaltungsart:** Proseminar
-
 ### Klima- und Umweltpolitik in der MENA Region — Proseminar
 
 - **Segment:** `unit:111322` · **unitId:** `111322`
@@ -5696,28 +5761,28 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Hauptseminar
 
-### Klimawandel und Migration - ein schwieriger Nexus — Masterseminar
-
-- **Segment:** `unit:105576` · **unitId:** `105576`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=105576&periodId=565>
-
-- **Veranstaltungsart:** Masterseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Klimawandel und Migration: Wissenschaft, Prognosen und politische Antworten — Hauptseminar
-
-- **Segment:** `unit:138685` · **unitId:** `138685`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138685&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-
 ### Konflikt und Kooperation im Maghreb: Akteure, Institutionen, Handlungsmaxime — Proseminar
 
 - **Segment:** `unit:118908` · **unitId:** `118908`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118908&periodId=565>
 
 - **Veranstaltungsart:** Proseminar
+
+### Krieg und Besatzung im Baltikum: Geschichte und Erinnerung — Hauptseminar
+
+- **Segment:** `unit:132354` · **unitId:** `132354`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132354&periodId=565>
+
+- **Veranstaltungsart:** Hauptseminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:00–16:00 | 15.10.2025–04.02.2026 | 05204.01.313 |
 
 ### Krieg. Landeshistorische Perspektiven auf ein globales Phänomen — Proseminar
 
@@ -5753,13 +5818,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Proseminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** in jedem Semester
-
-### Lines in Sand? History, Problems and Tribulations of Modern Middle Eastern Borders and State Territories — Proseminar
-
-- **Segment:** `unit:115273` · **unitId:** `115273`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115273&periodId=565>
-
-- **Veranstaltungsart:** Proseminar
 
 ### Literary and Other Discourses on Catastrophe at the Turn of the 18th Century — Mittelseminar
 
@@ -5836,6 +5894,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Masterseminar
 
+### Mittelalterliche Geschichte: Überblicksvorlesung
+
+- **Segment:** `unit:33528` · **unitId:** `33528`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=33528&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | 10:30–11:30 | 07.12.2025 23:59:59 | — |
+
 ### Multilingualism — Proseminar (Mittelseminar, PO 2020)
 
 - **Segment:** `unit:98389` · **unitId:** `98389`
@@ -5866,6 +5938,41 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Masterseminar
 - **Turnus:** nur im Sommersemester
 
+### Nürnberg im Spätmittelalter — Hauptseminar
+
+- **Segment:** `unit:130930` · **unitId:** `130930`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130930&periodId=565>
+
+- **Veranstaltungsart:** Hauptseminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:00–16:00 | 14.10.2025–03.02.2026 | 05901.02.058 ( 2.058 R 2.058) |
+
+### Ost- und Westeuropa zwischen den Weltkriegen — Übung
+
+- **Segment:** `unit:132362` · **unitId:** `132362`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132362&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 10:15–11:45 | 24.10.2025 | 05204.01.313 |
+| Einzeltermin | Fr | 10:15–11:45 | 14.11.2025 | 05204.01.313 |
+| Einzeltermin | Fr | 10:15–11:45 | 28.11.2025 | 05204.01.313 |
+| Blockveranstaltung+Sa | — | 10:15–16:45 | 12.12.2025–13.12.2025 | 05204.01.313 |
+
 ### Phraseology and Psycholinguistic Aspects — Proseminar (Mittelseminar, PO 2020)
 
 - **Segment:** `unit:103903` · **unitId:** `103903`
@@ -5889,35 +5996,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Proseminar
 
-### Politische Systeme II: Einführung in die Vergleichende Politikwissenschaft — Vorlesung
-
-- **Segment:** `unit:118920` · **unitId:** `118920`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118920&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-
-### Politische Systeme II: Einführung in die Vergleichende Politikwissenschaft — Vorlesung
-
-- **Segment:** `unit:126547` · **unitId:** `126547`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126547&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
 ### Politische Systeme im Maghreb aus vergleichender Perspektive — Proseminar
 
 - **Segment:** `unit:111323` · **unitId:** `111323`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111323&periodId=565>
 
 - **Veranstaltungsart:** Proseminar
-
-### Politische Wissenschaftstheorie und Methodenlehre — Vorlesung
-
-- **Segment:** `unit:122326` · **unitId:** `122326`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122326&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
 
 ### Politisches Denken zwischen Umsturzvorstellung und Befreiungsschlag: Theorien der Revolution — Proseminar
 
@@ -6080,6 +6164,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 08:00–10:00 | 14.10.2025–03.02.2026 | 05901.01.059 ( 01.059) |
 
+### PÜ I: Templa refeci: Das Programm der religiösen Erneuerung unter Augustus — Übungsseminar
+
+- **Segment:** `unit:131388` · **unitId:** `131388`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131388&periodId=565>
+
+- **Veranstaltungsart:** Übungsseminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:00–12:00 | 13.10.2025–02.02.2026 | 05901.01.059 ( 01.059) |
+
 ### Quantifizierung von Menschenrechtsverletzungen? Vergleichende Messung, Probleme, und Ansätze — Hauptseminar
 
 - **Segment:** `unit:126533` · **unitId:** `126533`
@@ -6157,13 +6257,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### Vorlesung im Einführungsmodul „Wissenschaftstheorie und Methodenlehre“: Politische Wissenschaftstheorie und Methodenlehre
-
-- **Segment:** `unit:107553` · **unitId:** `107553`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107553&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-
 ### Warum bauen Autokratien Wolkenkratzer? Befunde und Ansätze der vergleichenden Autokratieforschung — Proseminar
 
 - **Segment:** `unit:122663` · **unitId:** `122663`
@@ -6202,15 +6295,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Einzeltermin | Mi | 10:00–12:00 | 08.10.2025 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
 
-### Wissenschaftstheorie und Methodenreflexion der Politischen Wissenschaft — Vorlesung
-
-- **Segment:** `unit:102860` · **unitId:** `102860`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102860&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### World Order — Proseminar
 
 - **Segment:** `unit:122090` · **unitId:** `122090`
@@ -6233,15 +6317,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110592&periodId=565>
 
 - **Veranstaltungsart:** Proseminar
-
-### Ü "Theologie trifft Astronomie: Komplementäre Perspektiven auf bedeutende Orte und Zeiten im islamischen Ritus" — Übung
-
-- **Segment:** `unit:117382` · **unitId:** `117382`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117382&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
 
 ### Überblicksvorlesung Antike
 

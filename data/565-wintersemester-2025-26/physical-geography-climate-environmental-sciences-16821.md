@@ -22,7 +22,10 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16821|exam:13528810|exam:13528811|exam:13528812|exam:13528839|exam:13528861|exam:13528863>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115146&periodId=565>
 
+- **Veranstaltungsart:** PG Masterseminar
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -37,7 +40,10 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16821|exam:13528810|exam:13528811|exam:13528812|exam:13528870|exam:13528894|exam:13528896>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115146&periodId=565>
 
+- **Veranstaltungsart:** PG Masterseminar
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -52,7 +58,10 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16821|exam:13528810|exam:13528811|exam:13528812|exam:13528949|exam:13528961|exam:13528963>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115146&periodId=565>
 
+- **Veranstaltungsart:** PG Masterseminar
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -88,6 +97,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16821|exam:13528810|exam:13528811|exam:13528812|exam:13528819|exam:13528826>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78767&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -363,6 +373,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16821|exam:13528810|exam:13528811|exam:13528812|exam:13528839|exam:13528841|exam:13528843>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47019&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -377,6 +388,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16821|exam:13528810|exam:13528811|exam:13528812|exam:13528870|exam:13528874|exam:13528876>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47019&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -391,6 +403,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16821|exam:13528810|exam:13528811|exam:13528812|exam:13528901|exam:13528907|exam:13528909>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47019&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -405,6 +418,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16821|exam:13528810|exam:13528811|exam:13528812|exam:13528839|exam:13528849|exam:13528851>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47022&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -419,6 +433,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16821|exam:13528810|exam:13528811|exam:13528812|exam:13528870|exam:13528882|exam:13528884>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47022&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -433,6 +448,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16821|exam:13528810|exam:13528811|exam:13528812|exam:13528901|exam:13528915|exam:13528917>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47022&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -447,6 +463,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16821|exam:13528810|exam:13528811|exam:13528812|exam:13528949|exam:13528955|exam:13528957>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47022&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -580,6 +597,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16821|exam:13528810|exam:13528811|exam:13528812|exam:13528839|exam:13528861|exam:13528862>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47026&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -594,6 +612,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16821|exam:13528810|exam:13528811|exam:13528812|exam:13528870|exam:13528894|exam:13528895>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47026&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -608,6 +627,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16821|exam:13528810|exam:13528811|exam:13528812|exam:13528949|exam:13528961|exam:13528962>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47026&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -652,7 +672,10 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16821|exam:13528810|exam:13528811|exam:13528812|exam:13528827|exam:13528828>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85109&periodId=565>
 
+- **Veranstaltungsart:** PG Masterseminar
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -666,7 +689,10 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16821|exam:13528810|exam:13528811|exam:13528812|exam:13528830|exam:13528831>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85109&periodId=565>
 
+- **Veranstaltungsart:** PG Masterseminar
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -795,7 +821,10 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16821|exam:13528810|exam:13528811|exam:13528812|exam:13528835|exam:13528836>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84630&periodId=565>
 
+- **Veranstaltungsart:** Masterseminar
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -809,7 +838,10 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16821|exam:13528810|exam:13528811|exam:13528812|exam:13528839|exam:13528864|exam:13528865>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84630&periodId=565>
 
+- **Veranstaltungsart:** Masterseminar
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -823,7 +855,10 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16821|exam:13528810|exam:13528811|exam:13528812|exam:13528839|exam:15943092|exam:15943102>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84630&periodId=565>
 
+- **Veranstaltungsart:** Masterseminar
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -837,7 +872,10 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16821|exam:13528810|exam:13528811|exam:13528812|exam:13528870|exam:13528897|exam:13528898>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84630&periodId=565>
 
+- **Veranstaltungsart:** Masterseminar
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -851,7 +889,10 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16821|exam:13528810|exam:13528811|exam:13528812|exam:13528949|exam:13528964|exam:13528965>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84630&periodId=565>
 
+- **Veranstaltungsart:** Masterseminar
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -1044,7 +1085,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 |---|---|---|---|---|
 | 14-täglich | Di | 14:15–17:45 | 21.10.2025–27.01.2026 | 55801.00.133 (00.133 CIP-Raum 1 Lehre &amp; Selbständiges Üben) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (7)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (9)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -1087,6 +1128,38 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | 16:00–19:00 | 07.12.2025 23:59:59 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
+
+### Latein I für Anfänger (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
+
+- **Segment:** `unit:96547` · **unitId:** `96547`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96547&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:00–16:00 | 13.10.2025–02.02.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.10.2025–04.02.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
+
+### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
+
+- **Segment:** `unit:83014` · **unitId:** `83014`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83014&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.10.2025–02.02.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 16:00–18:00 | 15.10.2025–04.02.2026 | 05701.00.017 ( Kl. Hörsaal) |
 
 ### Latein II für Fortgeschrittene - Intensivkurs (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 

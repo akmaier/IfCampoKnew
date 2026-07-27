@@ -414,7 +414,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17227|exam:13142363|exam:13142364|exam:13142365|exam:13142366|exam:13142498|exam:13142499>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=79701&periodId=565>
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (89)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (91)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -455,6 +455,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Di | 08:15–09:45 | 14.10.2025 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
+
+### BA M1: SCHRIFT UND LESEN IN KULTUR UND GESELLSCHAFT — Vorlesung
+
+- **Segment:** `unit:84227` · **unitId:** `84227`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84227&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:15–09:45 | 21.10.2025–03.02.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
 
 ### BA M1: SCHRIFT UND LESEN IN KULTUR UND GESELLSCHAFT (A) — Proseminar
 
@@ -597,24 +613,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
-### BA M7: HS (C): Kommunikation und Kommunikationssteuerung — Hauptseminar
-
-- **Segment:** `unit:87681` · **unitId:** `87681`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87681&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### BA M7: VL Kommunikation und Kommunikationssteuerung — Vorlesung
-
-- **Segment:** `unit:88737` · **unitId:** `88737`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88737&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
 ### BA M8: ORGANISATIONSLEISTUNGEN — Hauptseminar
 
 - **Segment:** `unit:87957` · **unitId:** `87957`
@@ -665,6 +663,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 ### BA M8: ORGANISATIONSLEISTUNGEN: HS (C) — Hauptseminar
 
+- **Segment:** `unit:124012` · **unitId:** `124012`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124012&periodId=565>
+
+- **Veranstaltungsart:** Hauptseminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:15–15:45 | 15.10.2025–04.02.2026 | 00501.02.014 ( KH 2.014 Hörsaal Kollegienhaus) |
+
+### BA M8: ORGANISATIONSLEISTUNGEN: HS (C) — Hauptseminar
+
 - **Segment:** `unit:131480` · **unitId:** `131480`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131480&periodId=565>
 
@@ -686,15 +700,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **Turnus:** nur im Sommersemester
-
-### Bevölkerungsentwicklung und Bevölkerungspolitik im Nahen Osten — Proseminar
-
-- **Segment:** `unit:122349` · **unitId:** `122349`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122349&periodId=565>
-
-- **Veranstaltungsart:** Proseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Bildanalyse
 
@@ -797,6 +802,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
+### Digital technologies and society (written examination)
+
+- **Segment:** `unit:79696` · **unitId:** `79696`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=79696&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | Fr | 09:00–10:00 | — | 20101.00.015 (FG 0.015 (144 Plätze) Auditorium maximum - Kurt Glässer-Saal) |
+
 ### Digitalisierung und Japan I — Seminar
 
 - **Segment:** `unit:116404` · **unitId:** `116404`
@@ -876,20 +895,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Fr | 10:00–12:00 | 17.10.2025–06.02.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
 
-### Einführung in die politikwissenschaftliche Nahostforschung — Vorlesung
-
-- **Segment:** `unit:134036` · **unitId:** `134036`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134036&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-
-### Geschlechterverhältnisse und Geschlechterpolitik im Nahen Osten / Gender Relations and Gender Politics in the Middle East — Proseminar
-
-- **Segment:** `unit:110671` · **unitId:** `110671`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110671&periodId=565>
-
-- **Veranstaltungsart:** Proseminar
-
 ### Grundlagen der Computerlinguistik I (traditionelle Verfahren)
 
 - **Segment:** `unit:79462` · **unitId:** `79462`
@@ -903,6 +908,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Do | Do | 10:00–12:00 | 07.12.2025 23:59:59 | — |
+
+### Grundlagen der Computerlinguistik III (Deep Learning)
+
+- **Segment:** `unit:79476` · **unitId:** `79476`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=79476&periodId=565>
+
+- **ECTS-Punkte:** 7.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Grundlagen der Computerlinguistik III (Deep Learning)
 
@@ -979,6 +998,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Proseminar
 
+### Grundzüge der Kommunikationswissenschaft
+
+- **Segment:** `unit:48443` · **unitId:** `48443`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=48443&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | 11:00–12:00 | — | 21102.01.420 (LG H5 TeamBank-Hörsaal (384 Plätze)) |
+
 ### Grundzüge der Kommunikationswissenschaft — Vorlesung
 
 - **Segment:** `unit:86780` · **unitId:** `86780`
@@ -1043,12 +1076,19 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Sommersemester
 
-### Kinderrechte im Nahen Osten — Proseminar
+### Klausur zu Modul I Dimensionen des Medialen und Visuellen
 
-- **Segment:** `unit:126544` · **unitId:** `126544`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126544&periodId=565>
+- **Segment:** `unit:29720` · **unitId:** `29720`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=29720&periodId=565>
 
-- **Veranstaltungsart:** Proseminar
+- **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | — | 07.12.2025 23:59:59 | — |
 
 ### Klausur zum Nachweis Gesicherter Lateinkenntnisse
 
@@ -1083,7 +1123,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| Di | Di | — | 07.12.2025 23:59:59 | — |
 
 ### Konflikt und Kooperation im Maghreb: Akteure, Institutionen, Handlungsmaxime — Proseminar
 
@@ -1091,6 +1131,38 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118908&periodId=565>
 
 - **Veranstaltungsart:** Proseminar
+
+### Latein I für Anfänger (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
+
+- **Segment:** `unit:96547` · **unitId:** `96547`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96547&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:00–16:00 | 13.10.2025–02.02.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.10.2025–04.02.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
+
+### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
+
+- **Segment:** `unit:83014` · **unitId:** `83014`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83014&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.10.2025–02.02.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 16:00–18:00 | 15.10.2025–04.02.2026 | 05701.00.017 ( Kl. Hörsaal) |
 
 ### Latein II für Fortgeschrittene - Intensivkurs (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -1107,13 +1179,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Blockveranstaltung | — | 09:00–14:15 | 18.02.2026–10.03.2026 | 05901.02.058 ( 2.058 R 2.058) |
 
-### Lines in Sand? History, Problems and Tribulations of Modern Middle Eastern Borders and State Territories — Proseminar
-
-- **Segment:** `unit:115273` · **unitId:** `115273`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115273&periodId=565>
-
-- **Veranstaltungsart:** Proseminar
-
 ### MA Medien 2. FS - Modul 5: Vertiefungsseminar — Masterseminar
 
 - **Segment:** `unit:89757` · **unitId:** `89757`
@@ -1129,6 +1194,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124083&periodId=565>
 
 - **Veranstaltungsart:** Seminar
+
+### Medien und Kommunikation — Vorlesung
+
+- **Segment:** `unit:116384` · **unitId:** `116384`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116384&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 09:45–11:15 | 23.10.2025–05.02.2026 | 21102.01.420 (LG H5 TeamBank-Hörsaal (384 Plätze)) |
 
 ### Medien und Kommunikation
 
@@ -1172,22 +1253,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mi | Mi | — | 07.12.2025 23:59:59 | — |
 
-### Politische Systeme II: Einführung in die Vergleichende Politikwissenschaft — Vorlesung
-
-- **Segment:** `unit:118920` · **unitId:** `118920`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118920&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-
-### Politische Systeme II: Einführung in die Vergleichende Politikwissenschaft — Vorlesung
-
-- **Segment:** `unit:126547` · **unitId:** `126547`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126547&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
 ### Politische Systeme im Maghreb aus vergleichender Perspektive — Proseminar
 
 - **Segment:** `unit:111323` · **unitId:** `111323`
@@ -1209,6 +1274,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 16:00–18:00 | 16.10.2025–05.02.2026 | 05902.00.004 ( 00.4 PSG) |
+
+### Politische Systeme in Ostasien: Zwischen Autoritarismus und Demokratie — Proseminar
+
+- **Segment:** `unit:130945` · **unitId:** `130945`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130945&periodId=565>
+
+- **Veranstaltungsart:** Proseminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 05902.00.014 ( 00.14 PSG) |
 
 ### Programmierung und Infrastrukturen I
 
@@ -1289,6 +1369,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **ECTS-Punkte:** 10.0
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | — | — | — |
+
 ### Teilklausur 1 zu  Außereuropäische Regionen I
 
 - **Segment:** `unit:45732` · **unitId:** `45732`
@@ -1343,6 +1429,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Proseminar
 
+### Transnationale Repression: Motive, Formen und Funktionen — Masterseminar
+
+- **Segment:** `unit:130235` · **unitId:** `130235`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130235&periodId=565>
+
+- **Veranstaltungsart:** Masterseminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.10.2025–05.02.2026 | 05902.00.004 ( 00.4 PSG) |
+
 ### Tutorium zu Informatische Werkzeuge in den Geistes- und Sozialwissenschaften
 
 - **Segment:** `unit:85116` · **unitId:** `85116`
@@ -1357,6 +1458,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 16:00–18:00 | 15.10.2025–04.02.2026 | 00501.02.014 ( KH 2.014 Hörsaal Kollegienhaus) |
+
+### Vertiefte Methoden der Kulturgeographie MA — Masterseminar
+
+- **Segment:** `unit:84782` · **unitId:** `84782`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84782&periodId=565>
+
+- **Veranstaltungsart:** Masterseminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 16.10.2025–05.02.2026 | 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) 55801.00.210 (00.210 Seminarraum) |
 
 ### Vertiefte Methodik MA — Masterseminar
 
@@ -1383,14 +1500,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Do | 09:30–10:15 | 16.10.2025–05.02.2026 | 05204.00.320 (0.320 Bismarckstr. 12 Computerlinguistik) |
 
-### Vorlesung Grundlagen der Computerlinguistik 2
+### Vorlesung Grundlagen der Computerlinguistik 3
 
-- **Segment:** `unit:99698` · **unitId:** `99698`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99698&periodId=565>
+- **Segment:** `unit:108599` · **unitId:** `108599`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=108599&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.0
-- **Turnus:** nur im Sommersemester
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:00–16:00 | 14.10.2025–03.02.2026 | 05204.00.320 (0.320 Bismarckstr. 12 Computerlinguistik) |
 
 ### Übung Grundlagen der Computerlinguistik 1
 
@@ -1407,15 +1530,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 10:15–12:00 | 16.10.2025–05.02.2026 | 05204.00.320 (0.320 Bismarckstr. 12 Computerlinguistik) |
-
-### Übung Grundlagen der Computerlinguistik 2
-
-- **Segment:** `unit:102262` · **unitId:** `102262`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102262&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Turnus:** nur im Sommersemester
 
 ### Übung Grundlagen der Computerlinguistik 3
 

@@ -170,7 +170,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 11:30–13:00 | 15.04.2026–15.07.2026 | 21102.02.429 ((27 Plätze – nicht für studentische Veranstaltungen)) |
 
 ### Current Issues in Sustainability Management - Seminar
 
@@ -180,7 +187,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 11:30–13:00 | 15.04.2026–15.07.2026 | 21102.02.429 ((27 Plätze – nicht für studentische Veranstaltungen)) |
 
 ### Current Issues in Sustainability Management - Seminar
 
@@ -190,7 +204,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 11:30–13:00 | 15.04.2026–15.07.2026 | 21102.02.429 ((27 Plätze – nicht für studentische Veranstaltungen)) |
 
 ### Current Issues in Sustainability Management - Seminar
 
@@ -200,7 +221,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 11:30–13:00 | 15.04.2026–15.07.2026 | 21102.02.429 ((27 Plätze – nicht für studentische Veranstaltungen)) |
 
 ### Die Nation fühlen: Kultur, politische Emotionen und Nationalismus in den Golfmonarchien - Proseminar
 
@@ -274,7 +302,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Masterseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 13:00–14:00 | 13.04.2026 | 05902.00.005 ( 00.5 PSG) |
+| Blockveranstaltung+Sa | — | 09:00–18:00 | 22.05.2026–23.05.2026 | 05902.00.003 ( 00.3 PSG) |
 
 ### Economic History and Development of Europe and the Middle East - Masterseminar
 
@@ -284,7 +320,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Masterseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 13:00–14:00 | 13.04.2026 | 05902.00.005 ( 00.5 PSG) |
+| Blockveranstaltung+Sa | — | 09:00–18:00 | 22.05.2026–23.05.2026 | 05902.00.003 ( 00.3 PSG) |
 
 ### Economic History and Development of Europe and the Middle East - Masterseminar
 
@@ -294,7 +338,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Masterseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 13:00–14:00 | 13.04.2026 | 05902.00.005 ( 00.5 PSG) |
+| Blockveranstaltung+Sa | — | 09:00–18:00 | 22.05.2026–23.05.2026 | 05902.00.003 ( 00.3 PSG) |
 
 ### Economic History and Development of Europe and the Middle East - Masterseminar
 
@@ -304,7 +356,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Masterseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 13:00–14:00 | 13.04.2026 | 05902.00.005 ( 00.5 PSG) |
+| Blockveranstaltung+Sa | — | 09:00–18:00 | 22.05.2026–23.05.2026 | 05902.00.003 ( 00.3 PSG) |
 
 ### Economic History and Development of Europe and the Middle East - Masterseminar
 
@@ -314,7 +374,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Masterseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 13:00–14:00 | 13.04.2026 | 05902.00.005 ( 00.5 PSG) |
+| Blockveranstaltung+Sa | — | 09:00–18:00 | 22.05.2026–23.05.2026 | 05902.00.003 ( 00.3 PSG) |
 
 ### Economic History and Development of Europe and the Middle East - Masterseminar
 
@@ -324,7 +392,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Masterseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 13:00–14:00 | 13.04.2026 | 05902.00.005 ( 00.5 PSG) |
+| Blockveranstaltung+Sa | — | 09:00–18:00 | 22.05.2026–23.05.2026 | 05902.00.003 ( 00.3 PSG) |
 
 ### Environmental Economics and Climate Change - Seminar
 
@@ -334,7 +410,23 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Di | 09:15–10:45 | 09.06.2026 | 05901.01.055 ( 01.055) |
+| Einzeltermin | Mi | 09:15–10:45 | 10.06.2026 | 05901.01.055 ( 01.055) |
+| Einzeltermin | Mi | 11:15–12:45 | 10.06.2026 | 05901.01.055 ( 01.055) |
+| Einzeltermin | Do | 09:15–10:45 | 11.06.2026 | 05901.01.055 ( 01.055) |
+| Einzeltermin | Do | 11:15–12:45 | 11.06.2026 | 05901.01.055 ( 01.055) |
+| Einzeltermin | Di | 09:15–10:45 | 16.06.2026 | 05901.01.055 ( 01.055) |
+| Einzeltermin | Mi | 09:15–10:45 | 17.06.2026 | 05901.01.055 ( 01.055) |
+| Einzeltermin | Do | 09:15–10:45 | 18.06.2026 | 05901.01.055 ( 01.055) |
+| Einzeltermin | Do | 11:15–12:45 | 18.06.2026 | 05901.01.055 ( 01.055) |
+| Einzeltermin | Fr | 09:15–10:45 | 19.06.2026 | 05901.01.055 ( 01.055) |
 
 ### Environmental Economics and Climate Change - Seminar
 
@@ -344,7 +436,23 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Di | 09:15–10:45 | 09.06.2026 | 05901.01.055 ( 01.055) |
+| Einzeltermin | Mi | 09:15–10:45 | 10.06.2026 | 05901.01.055 ( 01.055) |
+| Einzeltermin | Mi | 11:15–12:45 | 10.06.2026 | 05901.01.055 ( 01.055) |
+| Einzeltermin | Do | 09:15–10:45 | 11.06.2026 | 05901.01.055 ( 01.055) |
+| Einzeltermin | Do | 11:15–12:45 | 11.06.2026 | 05901.01.055 ( 01.055) |
+| Einzeltermin | Di | 09:15–10:45 | 16.06.2026 | 05901.01.055 ( 01.055) |
+| Einzeltermin | Mi | 09:15–10:45 | 17.06.2026 | 05901.01.055 ( 01.055) |
+| Einzeltermin | Do | 09:15–10:45 | 18.06.2026 | 05901.01.055 ( 01.055) |
+| Einzeltermin | Do | 11:15–12:45 | 18.06.2026 | 05901.01.055 ( 01.055) |
+| Einzeltermin | Fr | 09:15–10:45 | 19.06.2026 | 05901.01.055 ( 01.055) |
 
 ### Environmental Economics and Climate Change - Seminar
 
@@ -354,7 +462,23 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Di | 09:15–10:45 | 09.06.2026 | 05901.01.055 ( 01.055) |
+| Einzeltermin | Mi | 09:15–10:45 | 10.06.2026 | 05901.01.055 ( 01.055) |
+| Einzeltermin | Mi | 11:15–12:45 | 10.06.2026 | 05901.01.055 ( 01.055) |
+| Einzeltermin | Do | 09:15–10:45 | 11.06.2026 | 05901.01.055 ( 01.055) |
+| Einzeltermin | Do | 11:15–12:45 | 11.06.2026 | 05901.01.055 ( 01.055) |
+| Einzeltermin | Di | 09:15–10:45 | 16.06.2026 | 05901.01.055 ( 01.055) |
+| Einzeltermin | Mi | 09:15–10:45 | 17.06.2026 | 05901.01.055 ( 01.055) |
+| Einzeltermin | Do | 09:15–10:45 | 18.06.2026 | 05901.01.055 ( 01.055) |
+| Einzeltermin | Do | 11:15–12:45 | 18.06.2026 | 05901.01.055 ( 01.055) |
+| Einzeltermin | Fr | 09:15–10:45 | 19.06.2026 | 05901.01.055 ( 01.055) |
 
 ### Environmental Economics and Climate Change - Seminar
 
@@ -364,7 +488,23 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Di | 09:15–10:45 | 09.06.2026 | 05901.01.055 ( 01.055) |
+| Einzeltermin | Mi | 09:15–10:45 | 10.06.2026 | 05901.01.055 ( 01.055) |
+| Einzeltermin | Mi | 11:15–12:45 | 10.06.2026 | 05901.01.055 ( 01.055) |
+| Einzeltermin | Do | 09:15–10:45 | 11.06.2026 | 05901.01.055 ( 01.055) |
+| Einzeltermin | Do | 11:15–12:45 | 11.06.2026 | 05901.01.055 ( 01.055) |
+| Einzeltermin | Di | 09:15–10:45 | 16.06.2026 | 05901.01.055 ( 01.055) |
+| Einzeltermin | Mi | 09:15–10:45 | 17.06.2026 | 05901.01.055 ( 01.055) |
+| Einzeltermin | Do | 09:15–10:45 | 18.06.2026 | 05901.01.055 ( 01.055) |
+| Einzeltermin | Do | 11:15–12:45 | 18.06.2026 | 05901.01.055 ( 01.055) |
+| Einzeltermin | Fr | 09:15–10:45 | 19.06.2026 | 05901.01.055 ( 01.055) |
 
 ### European critical materials supply chains - Seminar
 
@@ -425,7 +565,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 11:15–13:00 | 16.04.2026–16.07.2026 | 20201.02.214 |
 
 ### Human Rights Practice in Contested Times and Spaces - Seminar
 
@@ -435,7 +582,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 11:15–13:00 | 16.04.2026–16.07.2026 | 20201.02.214 |
 
 ### Human Rights Practice in Contested Times and Spaces - Seminar
 
@@ -445,7 +599,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 11:15–13:00 | 16.04.2026–16.07.2026 | 20201.02.214 |
 
 ### Human Rights Practice in Contested Times and Spaces - Seminar
 
@@ -455,7 +616,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 11:15–13:00 | 16.04.2026–16.07.2026 | 20201.02.214 |
 
 ### Human Rights Practice in Contested Times and Spaces - Seminar
 
@@ -465,7 +633,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 11:15–13:00 | 16.04.2026–16.07.2026 | 20201.02.214 |
 
 ### Human Rights Practice in Contested Times and Spaces - Seminar
 
@@ -475,7 +650,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 11:15–13:00 | 16.04.2026–16.07.2026 | 20201.02.214 |
 
 ### Human Rights Practice in Contested Times and Spaces - Seminar
 
@@ -485,7 +667,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 11:15–13:00 | 16.04.2026–16.07.2026 | 20201.02.214 |
 
 ### Human Rights Practice in Contested Times and Spaces - Seminar
 
@@ -495,7 +684,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 11:15–13:00 | 16.04.2026–16.07.2026 | 20201.02.214 |
 
 ### Innen- und außenpolitische Herausforderungen der Südafrikanischen Union - Proseminar
 
@@ -581,6 +777,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
 
 ### International Migration - Masterseminar
@@ -872,7 +1069,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 08901.00.111 ( 00.111 Seminarraum 1) |
 
 ### MA-2 Transregional Entanglements - Übung
 
@@ -882,7 +1086,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 08901.00.111 ( 00.111 Seminarraum 1) |
 
 ### MA-2 Transregional Entanglements - Übung
 
@@ -892,7 +1103,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 08901.00.111 ( 00.111 Seminarraum 1) |
 
 ### MA-2 Transregional Entanglements - Übung
 
@@ -902,7 +1120,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 08901.00.111 ( 00.111 Seminarraum 1) |
 
 ### MA-2 Transregional Entanglements - Übung
 
@@ -912,7 +1137,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 08901.00.111 ( 00.111 Seminarraum 1) |
 
 ### Ma-Sem: Issues in Global Governance - Seminar
 
@@ -922,15 +1154,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 13:15–14:45 | 17.04.2026 | 21101.00.144 (LG 0.144 (38 Plätze) Übungsraum) |
-| Einzeltermin | Fr | 09:00–18:00 | 10.07.2026 | 21102.01.420 (LG H5 TeamBank-Hörsaal (384 Plätze)) |
 
 ### Ma-Sem: Issues in Global Governance - Seminar
 
@@ -940,15 +1164,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 13:15–14:45 | 17.04.2026 | 21101.00.144 (LG 0.144 (38 Plätze) Übungsraum) |
-| Einzeltermin | Fr | 09:00–18:00 | 10.07.2026 | 21102.01.420 (LG H5 TeamBank-Hörsaal (384 Plätze)) |
 
 ### Ma-Vorl: International Trade & Labor - Vorlesung
 
@@ -2176,14 +2392,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103670&periodId=589>
 
 - **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 16:00–16:45 | 13.04.2026–13.07.2026 | 05901.05.054 ( 05.054) |
 
 ### VL: The Economics of Health Behavior - Vorlesung
 
@@ -2266,7 +2475,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134396&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 05902.00.014 ( 00.14 PSG) 05901.01.055 ( 01.055) |
 
 ### Zwischen Krieg und Frieden: Sicherheit, Gewalt und illiberale Ordnung in Asien - Proseminar
 
@@ -2275,7 +2491,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134396&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 05902.00.014 ( 00.14 PSG) 05901.01.055 ( 01.055) |
 
 ### Zwischen Krieg und Frieden: Sicherheit, Gewalt und illiberale Ordnung in Asien - Proseminar
 
@@ -2284,7 +2507,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134396&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 05902.00.014 ( 00.14 PSG) 05901.01.055 ( 01.055) |
 
 ### Zwischen Krieg und Frieden: Sicherheit, Gewalt und illiberale Ordnung in Asien - Proseminar
 
@@ -2293,7 +2523,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134396&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 05902.00.014 ( 00.14 PSG) 05901.01.055 ( 01.055) |
 
 ### Ü: The Economics of Health Behavior - Übung
 
@@ -6882,6 +7119,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
 
 ### ISCM - International Supply Chain Management (vhb) - Vorlesung mit Übung
@@ -6892,6 +7130,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
 
 ### V2: MA SpatialEcon - MA V Spatial Economics - Vorlesung
@@ -7069,7 +7308,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mi | 11:30–13:00 | 15.04.2026–15.07.2026 | 21102.01.421 (LG H6 BISSANTZ-Hörsaal (240 Plätze)) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (67)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (57)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -7125,15 +7364,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Proseminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
-
-### Business & Society in Latin America — Masterseminar
-
-- **Segment:** `unit:104366` · **unitId:** `104366`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104366&periodId=589>
-
-- **Veranstaltungsart:** Masterseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
 
 ### Business and Human Rights in Latin America — Seminar
 
@@ -7203,15 +7433,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 0.0
 - **Turnus:** nur im Wintersemester
 
-### Development Economics I — Vorlesung mit Übung
-
-- **Segment:** `unit:103972` · **unitId:** `103972`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103972&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Developmental Corporate Social Responsibility — Seminar
 
 - **Segment:** `unit:115328` · **unitId:** `115328`
@@ -7248,15 +7469,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96448&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Energy Policy Instruments — Seminar
-
-- **Segment:** `unit:117840` · **unitId:** `117840`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117840&periodId=589>
-
-- **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
@@ -7381,15 +7593,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### International Business Ethics II (2. Seminar) — Masterseminar
-
-- **Segment:** `unit:103087` · **unitId:** `103087`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103087&periodId=589>
-
-- **Veranstaltungsart:** Masterseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### International Finance — Vorlesung
 
 - **Segment:** `unit:95012` · **unitId:** `95012`
@@ -7447,8 +7650,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -7481,15 +7684,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Proseminar
 
-### MA-3 China in a Global Context — Übung
-
-- **Segment:** `unit:84798` · **unitId:** `84798`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84798&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Macroeconomics: Business Cycles — Vorlesung
 
 - **Segment:** `unit:86786` · **unitId:** `86786`
@@ -7498,13 +7692,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
-
-### Menschenrechte in Afrika — Hauptseminar
-
-- **Segment:** `unit:138118` · **unitId:** `138118`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138118&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
 
 ### Migration and Human Rights — Masterseminar
 
@@ -7530,30 +7717,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106020&periodId=589>
 
 - **Veranstaltungsart:** Masterseminar
-- **Turnus:** nur im Wintersemester
-
-### Politische Systeme im Maghreb aus vergleichender Perspektive — Proseminar
-
-- **Segment:** `unit:111323` · **unitId:** `111323`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111323&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-
-### Project Course: Building sustainable industry in Europe — Projektseminar
-
-- **Segment:** `unit:122409` · **unitId:** `122409`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122409&periodId=589>
-
-- **Veranstaltungsart:** Projektseminar
-- **Turnus:** Unregelmäßig
-
-### Research Methods I — Vorlesung mit Übung
-
-- **Segment:** `unit:96359` · **unitId:** `96359`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96359&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
 ### Schriftliche Übersetzungsleistung Latein I für Anfänger (Zulassungsvoraussetzung zu Kurs Latein II für Fortgeschrittene)
@@ -7623,15 +7786,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### Seminar Public Economics
-
-- **Segment:** `unit:85765` · **unitId:** `85765`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85765&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Semiparametric Methods in Econometrics and Applications — Vorlesung mit Übung
 

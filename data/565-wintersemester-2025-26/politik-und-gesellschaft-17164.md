@@ -166,7 +166,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12916906|exam:12916907|exam:12916908|exam:12916910|exam:12917125|exam:13629084>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130902&periodId=565>
 
+- **Veranstaltungsart:** Hauptseminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -237,7 +239,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12916806|exam:12916808|exam:12916809|exam:12916812|exam:12916839|exam:13684997>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130232&periodId=565>
 
+- **Veranstaltungsart:** Proseminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -255,7 +259,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12917185|exam:12917187|exam:12917188|exam:12917191|exam:12917218|exam:13684986>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130232&periodId=565>
 
+- **Veranstaltungsart:** Proseminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -273,7 +279,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12917644|exam:12917646|exam:12917647|exam:12917650|exam:12917682|exam:13684998>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130232&periodId=565>
 
+- **Veranstaltungsart:** Proseminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -291,7 +299,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12917744|exam:12917746|exam:12917747|exam:12917750|exam:12917782|exam:13684987>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130232&periodId=565>
 
+- **Veranstaltungsart:** Proseminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -357,7 +367,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12916906|exam:12916907|exam:12916908|exam:12916910|exam:12917038|exam:13632476>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130829&periodId=565>
 
+- **Veranstaltungsart:** Proseminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -371,7 +383,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12917282|exam:12917283|exam:12917284|exam:12917286|exam:12917352|exam:13632518>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130829&periodId=565>
 
+- **Veranstaltungsart:** Proseminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -385,7 +399,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12917463|exam:12917464|exam:12917465|exam:12917467|exam:12917533|exam:13632519>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130829&periodId=565>
 
+- **Veranstaltungsart:** Proseminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -399,7 +415,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12916906|exam:12916907|exam:12916908|exam:12916910|exam:12916980|exam:13632751>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130498&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -1024,7 +1042,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12916906|exam:12916907|exam:12916908|exam:12916910|exam:12917125|exam:13629228>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130925&periodId=565>
 
+- **Veranstaltungsart:** Hauptseminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -1139,7 +1159,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12916806|exam:12916808|exam:12916809|exam:12916812|exam:12916827|exam:13685893>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130491&periodId=565>
 
+- **Veranstaltungsart:** Proseminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -1153,7 +1175,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12917185|exam:12917187|exam:12917188|exam:12917191|exam:12917206|exam:13685882>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130491&periodId=565>
 
+- **Veranstaltungsart:** Proseminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -1167,7 +1191,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12917644|exam:12917646|exam:12917647|exam:12917650|exam:12917670|exam:13685894>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130491&periodId=565>
 
+- **Veranstaltungsart:** Proseminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -1181,7 +1207,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12917744|exam:12917746|exam:12917747|exam:12917750|exam:12917770|exam:13685883>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130491&periodId=565>
 
+- **Veranstaltungsart:** Proseminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -1537,7 +1565,10 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12916806|exam:12916808|exam:12916809|exam:12916812|exam:12916818|exam:13604804>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130385&periodId=565>
 
+- **Veranstaltungsart:** Proseminar
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
 
 #### Termine
 
@@ -1551,7 +1582,10 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12917185|exam:12917187|exam:12917188|exam:12917191|exam:12917197|exam:13604807>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130385&periodId=565>
 
+- **Veranstaltungsart:** Proseminar
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
 
 #### Termine
 
@@ -1565,7 +1599,10 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12917282|exam:12917283|exam:12917284|exam:12917286|exam:12917292|exam:13604809>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130385&periodId=565>
 
+- **Veranstaltungsart:** Proseminar
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
 
 #### Termine
 
@@ -1579,7 +1616,10 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12917463|exam:12917464|exam:12917465|exam:12917467|exam:12917473|exam:13604810>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130385&periodId=565>
 
+- **Veranstaltungsart:** Proseminar
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
 
 #### Termine
 
@@ -1593,7 +1633,10 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12917644|exam:12917646|exam:12917647|exam:12917650|exam:12917656|exam:13604805>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130385&periodId=565>
 
+- **Veranstaltungsart:** Proseminar
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
 
 #### Termine
 
@@ -1607,7 +1650,10 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12917744|exam:12917746|exam:12917747|exam:12917750|exam:12917756|exam:13604808>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130385&periodId=565>
 
+- **Veranstaltungsart:** Proseminar
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
 
 #### Termine
 
@@ -1933,6 +1979,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12916806|exam:12916808|exam:12916809|exam:12916812|exam:12916818|exam:12916823>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73399&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -1947,6 +1994,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12916906|exam:12916907|exam:12916908|exam:12916910|exam:12916968|exam:12916972>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73399&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -1961,6 +2009,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12917185|exam:12917187|exam:12917188|exam:12917191|exam:12917197|exam:12917202>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73399&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -1975,6 +2024,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12917282|exam:12917283|exam:12917284|exam:12917286|exam:12917292|exam:12917297>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73399&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -1989,6 +2039,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12917463|exam:12917464|exam:12917465|exam:12917467|exam:12917473|exam:12917478>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73399&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -2003,6 +2054,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12917644|exam:12917646|exam:12917647|exam:12917650|exam:12917656|exam:12917661>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73399&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -2017,6 +2069,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12917744|exam:12917746|exam:12917747|exam:12917750|exam:12917756|exam:12917761>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73399&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -2046,6 +2099,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12916906|exam:12916907|exam:12916908|exam:12916910|exam:12916980|exam:12916981>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=30308&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -2276,6 +2330,8 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12916906|exam:12916907|exam:12916908|exam:12916910|exam:12917085|exam:12917095>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45731&periodId=565>
 
+- **ECTS-Punkte:** 5.0
+
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
@@ -2288,6 +2344,8 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12917282|exam:12917283|exam:12917284|exam:12917286|exam:12917399|exam:12917409>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45731&periodId=565>
 
+- **ECTS-Punkte:** 5.0
+
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
@@ -2299,6 +2357,8 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Segment:** `exam:12917590` · **unitId:** `45731`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12917463|exam:12917464|exam:12917465|exam:12917467|exam:12917580|exam:12917590>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45731&periodId=565>
+
+- **ECTS-Punkte:** 5.0
 
 #### Termine
 
@@ -2447,6 +2507,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12916806|exam:12916808|exam:12916809|exam:12916812|exam:12916839|exam:12916844>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46367&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -2461,6 +2522,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12917185|exam:12917187|exam:12917188|exam:12917191|exam:12917218|exam:12917222>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46367&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -2475,6 +2537,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12917644|exam:12917646|exam:12917647|exam:12917650|exam:12917682|exam:12917687>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46367&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -2489,6 +2552,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12917744|exam:12917746|exam:12917747|exam:12917750|exam:12917782|exam:12917786>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46367&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -2559,6 +2623,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12916791|exam:12916792|exam:12916793|exam:12916794|exam:12916795|exam:12916799>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73391&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -2573,6 +2638,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12916806|exam:12916808|exam:12916809|exam:12916893|exam:12916894|exam:12916898>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73391&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -2587,6 +2653,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12916906|exam:12916907|exam:12916908|exam:12917153|exam:12917154|exam:12917158>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73391&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -2601,6 +2668,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12917164|exam:12917165|exam:12917166|exam:12917167|exam:12917173|exam:12917177>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73391&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -2615,6 +2683,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12917185|exam:12917187|exam:12917188|exam:12917269|exam:12917270|exam:12917274>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73391&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -2629,6 +2698,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12917282|exam:12917283|exam:12917284|exam:12917450|exam:12917451|exam:12917455>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73391&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -2643,6 +2713,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12917463|exam:12917464|exam:12917465|exam:12917631|exam:12917632|exam:12917636>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73391&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -2657,6 +2728,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12917644|exam:12917646|exam:12917647|exam:12917731|exam:12917732|exam:12917736>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73391&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -2671,6 +2743,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12917744|exam:12917746|exam:12917747|exam:12917828|exam:12917829|exam:12917833>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73391&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -2952,6 +3025,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12916806|exam:12916808|exam:12916809|exam:12916812|exam:12916881|exam:12916882>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125140&periodId=565>
 
+- **ECTS-Punkte:** 4.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -2966,6 +3040,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12917185|exam:12917187|exam:12917188|exam:12917191|exam:12917257|exam:12917258>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125140&periodId=565>
 
+- **ECTS-Punkte:** 4.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -2980,6 +3055,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12917644|exam:12917646|exam:12917647|exam:12917650|exam:12917727|exam:12917728>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125140&periodId=565>
 
+- **ECTS-Punkte:** 4.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -2994,6 +3070,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12917744|exam:12917746|exam:12917747|exam:12917750|exam:12917824|exam:12917825>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125140&periodId=565>
 
+- **ECTS-Punkte:** 4.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -3427,7 +3504,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12916791|exam:12916792|exam:12916793|exam:12916794|exam:12916795|exam:12916798>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89385&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -3448,7 +3527,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12916806|exam:12916808|exam:12916809|exam:12916893|exam:12916894|exam:12916897>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89385&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -3469,7 +3550,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12916906|exam:12916907|exam:12916908|exam:12917153|exam:12917154|exam:12917157>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89385&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -3490,7 +3573,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12917164|exam:12917165|exam:12917166|exam:12917167|exam:12917173|exam:12917176>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89385&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -3511,7 +3596,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12917185|exam:12917187|exam:12917188|exam:12917269|exam:12917270|exam:12917273>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89385&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -3532,7 +3619,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12917282|exam:12917283|exam:12917284|exam:12917450|exam:12917451|exam:12917454>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89385&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -3553,7 +3642,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12917463|exam:12917464|exam:12917465|exam:12917631|exam:12917632|exam:12917635>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89385&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -3574,7 +3665,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12917644|exam:12917646|exam:12917647|exam:12917731|exam:12917732|exam:12917735>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89385&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -3595,7 +3688,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17164|exam:12917744|exam:12917746|exam:12917747|exam:12917828|exam:12917829|exam:12917832>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89385&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -3610,16 +3705,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Einzeltermin | Fr | 14:00–17:30 | 16.01.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
 | Einzeltermin | Fr | 14:00–17:30 | 16.01.2026 | 20301.U1.014 (U1.014 Seminarraum (40)) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (87)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (83)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
-
-### (K)ein Silberstreif am Horizont? Entwicklung und Stand der EU-Asylpolitik — Proseminar
-
-- **Segment:** `unit:115352` · **unitId:** `115352`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115352&periodId=565>
-
-- **Veranstaltungsart:** Proseminar
 
 ### A Country Divided - Issues that Separate American Politics and Society — Proseminar
 
@@ -3782,15 +3870,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 10:15–11:45 | 14.10.2025–03.02.2026 | 05902.00.004 ( 00.4 PSG) |
 
-### Die aktuelle Migrations- und Asylpolitik in der Europäischen Union (mit Planspiel) — Proseminar
-
-- **Segment:** `unit:122383` · **unitId:** `122383`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122383&periodId=565>
-
-- **Veranstaltungsart:** Proseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Die dokumentarische Methode in der Bildungsforschung — Hauptseminar
 
 - **Segment:** `unit:126749` · **unitId:** `126749`
@@ -3864,6 +3943,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Proseminar
 
+### Einführung in das politische System der Bundesrepublik Deutschland — Proseminar
+
+- **Segment:** `unit:138303` · **unitId:** `138303`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138303&periodId=565>
+
+- **Veranstaltungsart:** Proseminar
+
+### Einführung in die Internationale Beziehungen (Lehramt) — Proseminar
+
+- **Segment:** `unit:138070` · **unitId:** `138070`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138070&periodId=565>
+
+- **Veranstaltungsart:** Proseminar
+
 ### Einführung in die Internationalen Beziehungen — Vorlesung
 
 - **Segment:** `unit:138100` · **unitId:** `138100`
@@ -3916,15 +4009,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133954&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
-
-### Einführung in die Politische Theorie und Ideengeschichte I — Vorlesung
-
-- **Segment:** `unit:97590` · **unitId:** `97590`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97590&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
 
 ### Einführung in die Politische Theorie und Ideengeschichte I — Vorlesung
 
@@ -4052,13 +4136,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Hauptseminar
 - **Turnus:** Unregelmäßig
 
-### Integrationspolitik in Deutschland - mit Praxisbeispielen — Proseminar
-
-- **Segment:** `unit:134409` · **unitId:** `134409`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134409&periodId=565>
-
-- **Veranstaltungsart:** Proseminar
-
 ### International Diplomacy and Negotiations — Hauptseminar
 
 - **Segment:** `unit:131385` · **unitId:** `131385`
@@ -4090,26 +4167,17 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Proseminar
 
+### Internationale Beziehungen — Proseminar
+
+- **Segment:** `unit:138116` · **unitId:** `138116`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138116&periodId=565>
+
+- **Veranstaltungsart:** Proseminar
+
 ### Interpretative Medienanalyse — Hauptseminar
 
 - **Segment:** `unit:126757` · **unitId:** `126757`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126757&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-
-### Klimawandel und Migration - ein schwieriger Nexus — Masterseminar
-
-- **Segment:** `unit:105576` · **unitId:** `105576`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=105576&periodId=565>
-
-- **Veranstaltungsart:** Masterseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Klimawandel und Migration: Wissenschaft, Prognosen und politische Antworten — Hauptseminar
-
-- **Segment:** `unit:138685` · **unitId:** `138685`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138685&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar
 
@@ -4178,22 +4246,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134010&periodId=565>
 
 - **Veranstaltungsart:** Proseminar
-
-### Politische Systeme II: Einführung in die Vergleichende Politikwissenschaft — Vorlesung
-
-- **Segment:** `unit:118920` · **unitId:** `118920`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118920&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-
-### Politische Systeme II: Einführung in die Vergleichende Politikwissenschaft — Vorlesung
-
-- **Segment:** `unit:126547` · **unitId:** `126547`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126547&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
 
 ### Politische Theorie — Proseminar
 
@@ -4309,6 +4361,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126941&periodId=565>
 
 - **Veranstaltungsart:** Proseminar
+
+### Wozu und woran erinnern? Gegenwärtige und lokale Diskurse um Erinnerungskultur und Geschichtspolitik — Hauptseminar
+
+- **Segment:** `unit:130682` · **unitId:** `130682`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130682&periodId=565>
+
+- **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:00–14:00 | 13.10.2025–02.02.2026 | 05902.00.003 ( 00.3 PSG) |
 
 ### Ökologie, Klimawandel und Naturschutz als Themen des politischen Denkens — Proseminar
 

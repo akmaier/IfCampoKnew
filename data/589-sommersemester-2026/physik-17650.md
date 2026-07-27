@@ -321,7 +321,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar und Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 09:00–14:30 | 17.04.2026–17.07.2026 | — |
 
 ### Advances in Spin and Photon-Based Quantum Technologies - Seminar
 
@@ -347,7 +354,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88926&periodId=589>
 
 - **Veranstaltungsart:** Arbeitsgemeinschaft
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 15:00–17:00 | 13.04.2026–13.07.2026 | — |
 
 ### Astronomisches Praktikum (Bachelor Physik) - Praktikum
 
@@ -356,6 +370,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82210&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### Astronomisches Praktikum (Bachelor Physik) - Praktikum
@@ -365,6 +380,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82210&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### Astronomisches Praktikum (Bachelor Physik) - Praktikum
@@ -374,6 +390,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82210&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### Astronomisches Praktikum (Informatiker) - Praktikum
@@ -488,7 +505,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 7.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 08801.01.020 ( Hörsaal ZMPT 01.[Telefon entfernt].00.020 ( Seminarraum ZMPT 00.020) |
+| wöchentlich | Do | 15:00–17:15 | 16.04.2026–16.07.2026 | 08801.01.020 ( Hörsaal ZMPT 01.020) |
 
 ### Bubbling, squeezing, conducting: the physics of chemically reactive systems - Vorlesung mit Übung
 
@@ -632,7 +657,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:15–13:45 | 20.04.2026–13.07.2026 | — |
 
 ### Logical foundations of empirical knowledge - Seminar
 
@@ -642,7 +674,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | — |
 
 ### Machine Learning for Physicists (PW-ML) - Hauptseminar
 
@@ -825,6 +864,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Praktikum
 - **Turnus:** nur im Sommersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:00–18:00 | 13.04.2026–13.07.2026 | — |
+| wöchentlich | Mi | 14:00–18:00 | 15.04.2026–15.07.2026 | — |
+
 ### Physikalisches Praktikum zu Experimentalphysik 1+2 - Praktikum
 
 - **Segment:** `exam:14307640` · **unitId:** `112982`
@@ -833,6 +879,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:00–18:00 | 13.04.2026–13.07.2026 | — |
+| wöchentlich | Mi | 14:00–18:00 | 15.04.2026–15.07.2026 | — |
 
 ### Physikalisches Praktikum zu Experimentalphysik 1+2 - Praktikum
 
@@ -843,6 +896,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Praktikum
 - **Turnus:** nur im Sommersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:00–18:00 | 13.04.2026–13.07.2026 | — |
+| wöchentlich | Mi | 14:00–18:00 | 15.04.2026–15.07.2026 | — |
+
 ### Physikalisches Praktikum zu Experimentalphysik 1+2 - Praktikum
 
 - **Segment:** `exam:14308520` · **unitId:** `112982`
@@ -851,6 +911,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:00–18:00 | 13.04.2026–13.07.2026 | — |
+| wöchentlich | Mi | 14:00–18:00 | 15.04.2026–15.07.2026 | — |
 
 ### Quantum Communication - Hauptseminar
 
@@ -884,7 +951,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
+| wöchentlich | Di | 16:00–18:00 | 14.04.2026–14.07.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 
 ### Quantum Information Theory Tutorial - Übung
 
@@ -1001,7 +1068,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 14:00–17:00 | 13.04.2026–20.07.2026 | 13101.01.683 (SR 01.683 Seminarraum der Theoretischen Physik I) |
+| wöchentlich | Mo | 14:00–17:00 | 13.04.2026–13.07.2026 | 13101.02.729 (SR 02.729 Seminarraum der Theoretischen Physik III) |
 
 ### Übungen zu Theoretische Physik 3: Quantenmechanik - Übung
 
@@ -1016,7 +1083,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 14:00–17:00 | 13.04.2026–20.07.2026 | 13101.01.683 (SR 01.683 Seminarraum der Theoretischen Physik I) |
+| wöchentlich | Mo | 14:00–17:00 | 13.04.2026–13.07.2026 | 13101.02.729 (SR 02.729 Seminarraum der Theoretischen Physik III) |
 
 ### Übungen zu Theoretische Physik 3: Quantenmechanik - Übung
 
@@ -1031,7 +1098,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 14:00–17:00 | 13.04.2026–20.07.2026 | 13101.01.683 (SR 01.683 Seminarraum der Theoretischen Physik I) |
+| wöchentlich | Mo | 14:00–17:00 | 13.04.2026–13.07.2026 | 13101.02.729 (SR 02.729 Seminarraum der Theoretischen Physik III) |
 
 ### Übungen zu Theoretische Physik 3: Quantenmechanik - Übung
 
@@ -1046,7 +1113,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 14:00–17:00 | 13.04.2026–20.07.2026 | 13101.01.683 (SR 01.683 Seminarraum der Theoretischen Physik I) |
+| wöchentlich | Mo | 14:00–17:00 | 13.04.2026–13.07.2026 | 13101.02.729 (SR 02.729 Seminarraum der Theoretischen Physik III) |
 
 ### 122337 Magnetic Resonance Imaging
 
@@ -8539,7 +8606,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 4.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:30–12:00 | 16.04.2026–16.07.2026 | 20301.02.035 (2.035 Labor (Chem,Bio,Physik)) |
 
 ### DDPNV-36-U - Übung zu "Physik mit dem Raspberry Pi" - Übung
 
@@ -8945,7 +9019,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 12:00–14:00 | 15.04.2026–15.07.2026 | 13101.00.103 (SR 00.103 Seminarraum der Angewandten Physik) |
+| wöchentlich | Mo | 16:15–17:45 | 20.04.2026–13.07.2026 | 13101.01.332 (SR 01.332 Seminarraum Festkörperphysik) |
 
 ### EP-6U - Übungen zur Experimentalphysik 6: Festkörperphysik - Übung
 
@@ -8961,7 +9035,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 12:00–14:00 | 15.04.2026–15.07.2026 | 13101.00.103 (SR 00.103 Seminarraum der Angewandten Physik) |
+| wöchentlich | Mo | 16:15–17:45 | 20.04.2026–13.07.2026 | 13101.01.332 (SR 01.332 Seminarraum Festkörperphysik) |
 
 ### EP-6U - Übungen zur Experimentalphysik 6: Festkörperphysik - Übung
 
@@ -8977,7 +9051,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 12:00–14:00 | 15.04.2026–15.07.2026 | 13101.00.103 (SR 00.103 Seminarraum der Angewandten Physik) |
+| wöchentlich | Mo | 16:15–17:45 | 20.04.2026–13.07.2026 | 13101.01.332 (SR 01.332 Seminarraum Festkörperphysik) |
 
 ### EP-6U - Übungen zur Experimentalphysik 6: Festkörperphysik - Übung
 
@@ -8993,7 +9067,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 12:00–14:00 | 15.04.2026–15.07.2026 | 13101.00.103 (SR 00.103 Seminarraum der Angewandten Physik) |
+| wöchentlich | Mo | 16:15–17:45 | 20.04.2026–13.07.2026 | 13101.01.332 (SR 01.332 Seminarraum Festkörperphysik) |
 
 ### EPL-6 - Experimentalphysik 6 LA: Festkörperphysik - Vorlesung
 
@@ -9092,7 +9166,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84582&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:00–11:00 | 14.04.2026–14.07.2026 | 13101.01.779 (SR 01.779 Seminarraum des Instituts für Optik, Information und Photonik) |
 
 ### MO-2 - Modern Optics 2: Nonlinear Optics - Vorlesung
 
@@ -9101,7 +9182,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84582&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:00–11:00 | 14.04.2026–14.07.2026 | 13101.01.779 (SR 01.779 Seminarraum des Instituts für Optik, Information und Photonik) |
 
 ### MRI1-Ü - Magnetic Resonance Imaging 1 - Exercise - Übung
 
@@ -9173,15 +9261,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 10:00–12:00 | 17.04.2026–17.07.2026 | 10402.02.127 (SRTL (307) Seminarraum Tandemlabor (307)) |
-| wöchentlich | Mi | 16:00–18:00 | 22.04.2026–15.07.2026 | 10402.02.127 (SRTL (307) Seminarraum Tandemlabor (307)) |
 
 ### NUASTRO - Neutrino astronomy - Hauptseminar
 
@@ -9191,15 +9271,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 10:00–12:00 | 17.04.2026–17.07.2026 | 10402.02.127 (SRTL (307) Seminarraum Tandemlabor (307)) |
-| wöchentlich | Mi | 16:00–18:00 | 22.04.2026–15.07.2026 | 10402.02.127 (SRTL (307) Seminarraum Tandemlabor (307)) |
 
 ### NumerikCTinRT - Numerical & Physical Principles of Imaging Algorithms for CT based Radiation Therapy Planning - Vorlesung
 
@@ -9225,7 +9297,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85749&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 18:00–19:00 | 14.04.2026–14.07.2026 | 13003.00.874 (HD Hörsaal Physikum) |
+| wöchentlich | Di | 18:00–19:00 | 14.04.2026–14.07.2026 | 13003.00.836 (HF Hörsaal Physikum) |
+| wöchentlich | Fr | 17:00–18:00 | 17.04.2026–17.07.2026 | 13003.00.874 (HD Hörsaal Physikum) |
 
 ### NW - Übung zur Einführung in die Astronomie 2 - Übung
 
@@ -9234,7 +9315,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85749&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 18:00–19:00 | 14.04.2026–14.07.2026 | 13003.00.874 (HD Hörsaal Physikum) |
+| wöchentlich | Di | 18:00–19:00 | 14.04.2026–14.07.2026 | 13003.00.836 (HF Hörsaal Physikum) |
+| wöchentlich | Fr | 17:00–18:00 | 17.04.2026–17.07.2026 | 13003.00.874 (HD Hörsaal Physikum) |
 
 ### NW - Übung zur Einführung in die Astronomie 2 - Übung
 
@@ -9243,7 +9333,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85749&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 18:00–19:00 | 14.04.2026–14.07.2026 | 13003.00.874 (HD Hörsaal Physikum) |
+| wöchentlich | Di | 18:00–19:00 | 14.04.2026–14.07.2026 | 13003.00.836 (HF Hörsaal Physikum) |
+| wöchentlich | Fr | 17:00–18:00 | 17.04.2026–17.07.2026 | 13003.00.874 (HD Hörsaal Physikum) |
 
 ### NW - Übung zur Einführung in die Astronomie 2 - Übung
 
@@ -9252,7 +9351,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85749&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 18:00–19:00 | 14.04.2026–14.07.2026 | 13003.00.874 (HD Hörsaal Physikum) |
+| wöchentlich | Di | 18:00–19:00 | 14.04.2026–14.07.2026 | 13003.00.836 (HF Hörsaal Physikum) |
+| wöchentlich | Fr | 17:00–18:00 | 17.04.2026–17.07.2026 | 13003.00.874 (HD Hörsaal Physikum) |
 
 ### NW-1 - Einführung in die Astronomie 2 - Vorlesung
 
@@ -9273,6 +9381,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Di | 16:00–19:00 | 14.07.2026 | 13003.00.827 (HG Hörsaal Physikum) |
 | Einzeltermin | Di | 16:00–19:00 | 14.07.2026 | 13003.00.877 (HC Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 | Einzeltermin | Di | 16:00–19:00 | 14.07.2026 | 13003.00.836 (HF Hörsaal Physikum) |
+| Einzeltermin | Fr | 13:00–16:00 | 25.09.2026 | — |
 
 ### NW-1 - Einführung in die Astronomie 2 - Vorlesung
 
@@ -9293,6 +9402,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Di | 16:00–19:00 | 14.07.2026 | 13003.00.827 (HG Hörsaal Physikum) |
 | Einzeltermin | Di | 16:00–19:00 | 14.07.2026 | 13003.00.877 (HC Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 | Einzeltermin | Di | 16:00–19:00 | 14.07.2026 | 13003.00.836 (HF Hörsaal Physikum) |
+| Einzeltermin | Fr | 13:00–16:00 | 25.09.2026 | — |
 
 ### NW-1 - Einführung in die Astronomie 2 - Vorlesung
 
@@ -9313,6 +9423,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Di | 16:00–19:00 | 14.07.2026 | 13003.00.827 (HG Hörsaal Physikum) |
 | Einzeltermin | Di | 16:00–19:00 | 14.07.2026 | 13003.00.877 (HC Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 | Einzeltermin | Di | 16:00–19:00 | 14.07.2026 | 13003.00.836 (HF Hörsaal Physikum) |
+| Einzeltermin | Fr | 13:00–16:00 | 25.09.2026 | — |
 
 ### NW-1 - Einführung in die Astronomie 2 - Vorlesung
 
@@ -9333,6 +9444,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Di | 16:00–19:00 | 14.07.2026 | 13003.00.827 (HG Hörsaal Physikum) |
 | Einzeltermin | Di | 16:00–19:00 | 14.07.2026 | 13003.00.877 (HC Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 | Einzeltermin | Di | 16:00–19:00 | 14.07.2026 | 13003.00.836 (HF Hörsaal Physikum) |
+| Einzeltermin | Fr | 13:00–16:00 | 25.09.2026 | — |
 
 ### NW-1 - Einführung in die Astronomie 2 - Vorlesung
 
@@ -9353,6 +9465,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Di | 16:00–19:00 | 14.07.2026 | 13003.00.827 (HG Hörsaal Physikum) |
 | Einzeltermin | Di | 16:00–19:00 | 14.07.2026 | 13003.00.877 (HC Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 | Einzeltermin | Di | 16:00–19:00 | 14.07.2026 | 13003.00.836 (HF Hörsaal Physikum) |
+| Einzeltermin | Fr | 13:00–16:00 | 25.09.2026 | — |
 
 ### NW-1 - Einführung in die Astronomie 2 - Vorlesung
 
@@ -9373,6 +9486,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Di | 16:00–19:00 | 14.07.2026 | 13003.00.827 (HG Hörsaal Physikum) |
 | Einzeltermin | Di | 16:00–19:00 | 14.07.2026 | 13003.00.877 (HC Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 | Einzeltermin | Di | 16:00–19:00 | 14.07.2026 | 13003.00.836 (HF Hörsaal Physikum) |
+| Einzeltermin | Fr | 13:00–16:00 | 25.09.2026 | — |
 
 ### PE-A - Physikalisches Experimentieren A: Elektronikpraktikum - Praktikum
 
@@ -9389,8 +9503,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mi | 13:30–15:00 | 15.04.2026 | 13101.00.572 (EP 00.572/00.573 Elektronikpraktikum) |
-| wöchentlich | Mi | 13:30–18:45 | 22.04.2026–15.07.2026 | 13101.00.572 (EP 00.572/00.573 Elektronikpraktikum) |
+| Einzeltermin | Di | 14:10–15:40 | 14.04.2026 | 13101.00.572 (EP 00.572/00.573 Elektronikpraktikum) |
+| wöchentlich | Di | 13:40–18:55 | 21.04.2026–14.07.2026 | 13101.00.572 (EP 00.572/00.573 Elektronikpraktikum) |
 
 ### PE-A - Physikalisches Experimentieren A: Elektronikpraktikum - Praktikum
 
@@ -9407,8 +9521,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mi | 13:30–15:00 | 15.04.2026 | 13101.00.572 (EP 00.572/00.573 Elektronikpraktikum) |
-| wöchentlich | Mi | 13:30–18:45 | 22.04.2026–15.07.2026 | 13101.00.572 (EP 00.572/00.573 Elektronikpraktikum) |
+| Einzeltermin | Di | 14:10–15:40 | 14.04.2026 | 13101.00.572 (EP 00.572/00.573 Elektronikpraktikum) |
+| wöchentlich | Di | 13:40–18:55 | 21.04.2026–14.07.2026 | 13101.00.572 (EP 00.572/00.573 Elektronikpraktikum) |
 
 ### PE-A - Physikalisches Experimentieren A: Elektronikpraktikum - Praktikum
 
@@ -9425,8 +9539,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mi | 13:30–15:00 | 15.04.2026 | 13101.00.572 (EP 00.572/00.573 Elektronikpraktikum) |
-| wöchentlich | Mi | 13:30–18:45 | 22.04.2026–15.07.2026 | 13101.00.572 (EP 00.572/00.573 Elektronikpraktikum) |
+| Einzeltermin | Di | 14:10–15:40 | 14.04.2026 | 13101.00.572 (EP 00.572/00.573 Elektronikpraktikum) |
+| wöchentlich | Di | 13:40–18:55 | 21.04.2026–14.07.2026 | 13101.00.572 (EP 00.572/00.573 Elektronikpraktikum) |
 
 ### PE-A - Physikalisches Experimentieren A: Elektronikpraktikum - Praktikum
 
@@ -9443,8 +9557,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mi | 13:30–15:00 | 15.04.2026 | 13101.00.572 (EP 00.572/00.573 Elektronikpraktikum) |
-| wöchentlich | Mi | 13:30–18:45 | 22.04.2026–15.07.2026 | 13101.00.572 (EP 00.572/00.573 Elektronikpraktikum) |
+| Einzeltermin | Di | 14:10–15:40 | 14.04.2026 | 13101.00.572 (EP 00.572/00.573 Elektronikpraktikum) |
+| wöchentlich | Di | 13:40–18:55 | 21.04.2026–14.07.2026 | 13101.00.572 (EP 00.572/00.573 Elektronikpraktikum) |
 
 ### PE-A - Physikalisches Experimentieren A: Elektronikpraktikum - Praktikum
 
@@ -9461,8 +9575,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mi | 13:30–15:00 | 15.04.2026 | 13101.00.572 (EP 00.572/00.573 Elektronikpraktikum) |
-| wöchentlich | Mi | 13:30–18:45 | 22.04.2026–15.07.2026 | 13101.00.572 (EP 00.572/00.573 Elektronikpraktikum) |
+| Einzeltermin | Di | 14:10–15:40 | 14.04.2026 | 13101.00.572 (EP 00.572/00.573 Elektronikpraktikum) |
+| wöchentlich | Di | 13:40–18:55 | 21.04.2026–14.07.2026 | 13101.00.572 (EP 00.572/00.573 Elektronikpraktikum) |
 
 ### PE-A - Physikalisches Experimentieren A: Vorlesung zum Elektronikpraktikum - Vorlesung
 
@@ -9793,7 +9907,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83507&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 13:00–14:30 | 14.04.2026–14.07.2026 | 13501.00.020 (SR Staudtstr. 3 Lehrstuhl für Kristallographie) |
 
 ### PWU Streuung - Exercises for introduction to X-ray and neutron scattering - Übung
 
@@ -9802,7 +9923,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83507&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 13:00–14:30 | 14.04.2026–14.07.2026 | 13501.00.020 (SR Staudtstr. 3 Lehrstuhl für Kristallographie) |
 
 ### RMP-2 - Rechenmethoden der Physik 2 - Vorlesung
 
@@ -9992,7 +10120,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 09:00–12:00 | 13.04.2026–13.07.2026 | 13101.01.683 (SR 01.683 Seminarraum der Theoretischen Physik I) |
+| wöchentlich | Mo | 13:00–15:00 | 13.04.2026–13.07.2026 | 13101.01.779 (SR 01.779 Seminarraum des Instituts für Optik, Information und Photonik) |
 
 ### THBIO - Theoretical Biophysics - Hauptseminar
 
@@ -10090,6 +10226,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92648&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
 ### TP-K - Synopsis der Theoretischen Physik (Blockkurs) - Vorlesung
@@ -10099,6 +10236,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92648&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
 ### TP-K - Synopsis der Theoretischen Physik (Blockkurs) - Vorlesung
@@ -10108,6 +10246,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92648&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
 ### TP-K - Synopsis der Theoretischen Physik (Blockkurs) - Vorlesung
@@ -10117,6 +10256,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92648&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
 ### Ü SPiC - Systemnahe Programmierung in C - Tafelübung - Übung
@@ -10135,7 +10275,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 08:15–09:45 | 14.04.2026–14.07.2026 | 11906.01.040 (H20) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (144)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (123)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -10260,31 +10400,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **Turnus:** nur im Wintersemester
-
-### Being creative in physics — Hauptseminar
-
-- **Segment:** `unit:115170` · **unitId:** `115170`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115170&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 2.5
-- **Turnus:** Unregelmäßig
-
-### Being creative in physics — Übung
-
-- **Segment:** `unit:118005` · **unitId:** `118005`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118005&periodId=589>
-
-- **Veranstaltungsart:** Übung
-
-### Cavity quantum electrodynamics for the control of complex matter — Seminar
-
-- **Segment:** `unit:121233` · **unitId:** `121233`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121233&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
 
 ### Complex Systems 1: Critical phenomena, networks, evolutionary dynamics, reaction systems — Vorlesung mit Übung
 
@@ -10444,14 +10559,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Wintersemester
 
-### Electronic structure and strong light-matter coupling in materials in optical cavities — Seminar
-
-- **Segment:** `unit:113555` · **unitId:** `113555`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113555&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** Unregelmäßig
-
 ### Elements of Artificial Intelligence for Scientific Discovery — Hauptseminar
 
 - **Segment:** `unit:125340` · **unitId:** `125340`
@@ -10512,13 +10619,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
-
-### Exercises to Physics of Surfaces and Low-dimensional Materials — Übung
-
-- **Segment:** `unit:107670` · **unitId:** `107670`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107670&periodId=589>
-
-- **Veranstaltungsart:** Übung
 
 ### Experimentalphysik 1 (Mechanik und Wärme) — Vorlesung
 
@@ -10609,19 +10709,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
-### Finite Projektive Physik: von der klassischen Mechanik zur Quantenfeldtheorie — Vorlesung mit Übung
-
-- **Segment:** `unit:122366` · **unitId:** `122366`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122366&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-
 ### From Artificial Intelligence to Artificial Scientists — Vorlesung
 
 - **Segment:** `unit:121188` · **unitId:** `121188`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121188&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+
+### Funktionentheorie II — Vorlesung
+
+- **Segment:** `unit:110379` · **unitId:** `110379`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110379&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
 
 ### Galaxien und Kosmologie — Hauptseminar
 
@@ -10723,22 +10825,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Grundpraktikum 2
-
-- **Segment:** `unit:113405` · **unitId:** `113405`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113405&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 7.5
-- **Turnus:** nur im Sommersemester
-
-### Interpreting Astronomical Spectra 2 — Praktikum
-
-- **Segment:** `unit:119091` · **unitId:** `119091`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119091&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-
 ### Introduction to Astroparticle Physics — Vorlesung
 
 - **Segment:** `unit:88566` · **unitId:** `88566`
@@ -10763,15 +10849,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
-### Introduction to Soft Matter and Biological Physics (Exercise Class) — Übung
-
-- **Segment:** `unit:108083` · **unitId:** `108083`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=108083&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 0.0
 - **Turnus:** Unregelmäßig
 
 ### Klausur zum Nachweis Gesicherter Lateinkenntnisse
@@ -10810,8 +10887,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -10900,15 +10977,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Turnus:** Unregelmäßig
 
-### Methods of data analysis II & Introduction to machine learning — Vorlesung
-
-- **Segment:** `unit:104889` · **unitId:** `104889`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104889&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Modern Optics 1: Advanced Optics — Vorlesung
 
 - **Segment:** `unit:88880` · **unitId:** `88880`
@@ -10935,32 +11003,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
-### Nanophysics using Scaning Probe Microscopy — Hauptseminar
-
-- **Segment:** `unit:90705` · **unitId:** `90705`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90705&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
-### Nanophysics using Scaning Probe Microscopy - Exercises — Übung
-
-- **Segment:** `unit:92701` · **unitId:** `92701`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92701&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Neural Networks in Quantum Science: From Fundamentals to Applications — Hauptseminar
-
-- **Segment:** `unit:124004` · **unitId:** `124004`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124004&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
 ### Nobel Prizes in Theory of Light and Matter — Hauptseminar
 
 - **Segment:** `unit:113087` · **unitId:** `113087`
@@ -10968,20 +11010,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Hauptseminar
 
-### Non-equilibrium approaches to complex quantum materials — Hauptseminar
-
-- **Segment:** `unit:107721` · **unitId:** `107721`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107721&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** nur im Wintersemester
-
-### Novel 2D Materials / Neue zweidimensionale Materialien — Vorlesung mit Übung
+### Novel 2D Materials / Neue zweidimensionale Materialien — Hauptseminar
 
 - **Segment:** `unit:111071` · **unitId:** `111071`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111071&periodId=589>
 
-- **Veranstaltungsart:** Vorlesung mit Übung
+- **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
@@ -11036,15 +11070,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
-### Photonic Machine Learning — Seminar
-
-- **Segment:** `unit:117610` · **unitId:** `117610`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117610&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
 ### Physics of Stars — Vorlesung mit Übung
 
 - **Segment:** `unit:112018` · **unitId:** `112018`
@@ -11060,15 +11085,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121796&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
-### Physics of surfaces and low-dimensional materials — Vorlesung
-
-- **Segment:** `unit:106034` · **unitId:** `106034`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106034&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
@@ -11193,15 +11209,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Hauptseminar
 - **Turnus:** nur im Wintersemester
 
-### Quantum Control — Hauptseminar
-
-- **Segment:** `unit:112172` · **unitId:** `112172`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112172&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
 ### Quantum Control - Exercises — Übung
 
 - **Segment:** `unit:112203` · **unitId:** `112203`
@@ -11215,13 +11222,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128815&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
-
-### Quantum Materials — Seminar
-
-- **Segment:** `unit:105983` · **unitId:** `105983`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=105983&periodId=589>
-
-- **Veranstaltungsart:** Seminar
 
 ### Rechenmethoden der Physik 1 — Vorlesung
 
@@ -11245,15 +11245,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Do | Do | 14:00–16:00 | 07.06.2026 23:59:59 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
-
-### Science Communication für Physiker: Licht und Photonik im Science Center panOPTICUM — Hauptseminar
-
-- **Segment:** `unit:119208` · **unitId:** `119208`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119208&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
 
 ### Seminar zu aktuellen Problemen der Biomedizinischen Technik
 
@@ -11367,15 +11358,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Turnus:** in jedem Semester
 
-### Theoretical Surface Physics — Vorlesung
-
-- **Segment:** `unit:99205` · **unitId:** `99205`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99205&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
 ### Theoretikum zur Theoretischen Physik 2: Elektrodynamik — Übung
 
 - **Segment:** `unit:84392` · **unitId:** `84392`
@@ -11447,13 +11429,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Turnus:** in jedem Semester
 
-### Übungen zu Detektoren für Teilchen und Strahlung 2
-
-- **Segment:** `unit:110615` · **unitId:** `110615`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110615&periodId=589>
-
-- **Veranstaltungsart:** Übung
-
 ### Übungen zu Experimentalphysik 3 für Physik-Studierende: Optik und Quantenphänomene
 
 - **Segment:** `unit:83107` · **unitId:** `83107`
@@ -11461,14 +11436,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
-
-### Übungen zu Integrierter Kurs LA: Quantenmechanik und Atomphysik
-
-- **Segment:** `unit:98930` · **unitId:** `98930`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98930&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Sommersemester
 
 ### Übungen zu Konzeptionelle Modellierung
 

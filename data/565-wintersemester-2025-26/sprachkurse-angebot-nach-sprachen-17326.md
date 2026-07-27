@@ -215,6 +215,9 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17345|exam:12190952>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113143&periodId=565>
 
+- **Veranstaltungsart:** Sonstige Lehrveranstaltung
+- **Turnus:** in jedem Semester
+
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
@@ -243,7 +246,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17365|title:17372|title:17373|exam:12191084>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82669&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -312,7 +318,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17365|title:17371|title:17376|exam:12191079>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88804&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -372,7 +381,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17348|title:17484|title:17492|exam:12191130>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92785&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Spanisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -403,7 +415,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17346|title:17507|title:17511|exam:12191027>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88835&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -527,7 +542,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17346|title:17505|title:17516|exam:12191000>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93280&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -571,7 +589,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17346|title:17505|title:17515|exam:12191006>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85977&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -622,7 +643,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17346|title:17507|title:17510|exam:12191010>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88248&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -747,7 +771,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17346|title:17507|title:17509|exam:12191038>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127477&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -815,7 +842,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17346|title:17505|title:17513|exam:13715061>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91732&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -909,7 +939,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17346|title:17507|title:17508|exam:12191022>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82734&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -1059,7 +1092,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17346|title:17507|title:17508|exam:12191024>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124768&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -1108,7 +1144,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17339|title:17543|title:17546|exam:12190985>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92847&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -1174,7 +1213,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17355|title:17427|title:17430|exam:12191251>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95212&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -1206,7 +1248,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17355|title:17427|title:17429|exam:12191263>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89516&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -1237,7 +1282,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17355|title:17427|title:17429|exam:12191265>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82304&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -1408,7 +1456,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17355|title:17427|title:17430|exam:12191258>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83853&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -1422,7 +1473,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17355|title:17427|title:17431|exam:12191268>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83853&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -1577,7 +1631,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17355|title:17424|title:17435|title:17454|exam:12191188>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89029&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -1880,7 +1937,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17355|title:17424|title:17434|title:17456|exam:12191169>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95731&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -2080,7 +2140,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17355|title:17424|title:17440|title:17444|exam:12191226>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90562&periodId=565>
 
+- **Veranstaltungsart:** Kurs
+- **ECTS-Punkte:** 4.0
 - **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -2280,6 +2343,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17355|title:17424|title:17440|title:17442|exam:12191209>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111541&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 4.0
+- **Turnus:** in jedem Semester
+
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
@@ -2292,7 +2359,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17355|title:17424|title:17440|title:17443|exam:12191224>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86009&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -2305,6 +2375,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Segment:** `exam:12191214` · **unitId:** `111533`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17355|title:17424|title:17440|title:17442|exam:12191214>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111533&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -2438,7 +2512,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17363|title:17381|title:17384|exam:12190991>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95042&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -2453,7 +2530,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17363|title:17382|exam:12190989>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95042&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -2592,7 +2672,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17338|title:17548|title:17557|exam:12191066>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89739&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Französisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -2642,7 +2725,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17338|title:17548|title:17556|exam:12191069>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87842&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Französisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -2656,7 +2742,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17338|title:17550|exam:12191052>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87842&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Französisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -2721,7 +2810,9 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17355|title:17424|title:17436|title:17451|exam:12191234>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87095&periodId=565>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -2804,7 +2895,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17348|title:17484|title:17493|exam:13715055>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97072&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Spanisch
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -2818,11 +2912,19 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17348|title:17483|exam:12191100>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113240&periodId=565>
 
+- **Veranstaltungsart:** Online-Kurs
+- **ECTS-Punkte:** 2.0
+- **Turnus:** in jedem Semester
+
 ### Introducción al mundo laboral - virtueller Kurs B2+ - Online-Kurs
 
 - **Segment:** `exam:12191141` · **unitId:** `113240`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17348|title:17484|title:17493|exam:12191141>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113240&periodId=565>
+
+- **Veranstaltungsart:** Online-Kurs
+- **ECTS-Punkte:** 2.0
+- **Turnus:** in jedem Semester
 
 ### Isländisch: Elementarkurs I - ONLINE (GeR A1) - Kurs
 
@@ -2830,7 +2932,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17347|title:17499|title:17501|exam:12191273>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92069&periodId=565>
 
+- **Veranstaltungsart:** Kurs
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -2845,7 +2950,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17347|title:17500|exam:12191271>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92069&periodId=565>
 
+- **Veranstaltungsart:** Kurs
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -2860,11 +2968,19 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17344|title:17520|exam:12191279>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113458&periodId=565>
 
+- **Veranstaltungsart:** Online-Kurs
+- **ECTS-Punkte:** 4.0
+- **Turnus:** in jedem Semester
+
 ### ItaliaNet A2 NUR ONLINE - VHB-Kurs  - Online-Kurs
 
 - **Segment:** `exam:12191280` · **unitId:** `113461`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17344|title:17520|exam:12191280>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113461&periodId=565>
+
+- **Veranstaltungsart:** Online-Kurs
+- **ECTS-Punkte:** 4.0
+- **Turnus:** in jedem Semester
 
 ### ItaliaNet B1 NUR ONLINE - VHB-Kurs  - Online-Kurs
 
@@ -2872,11 +2988,19 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17344|title:17520|exam:12191281>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113462&periodId=565>
 
+- **Veranstaltungsart:** Online-Kurs
+- **ECTS-Punkte:** 4.0
+- **Turnus:** in jedem Semester
+
 ### ItaliaNet B2 NUR ONLINE - VHB-Kurs  - Online-Kurs
 
 - **Segment:** `exam:12191282` · **unitId:** `113464`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17344|title:17520|exam:12191282>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113464&periodId=565>
+
+- **Veranstaltungsart:** Online-Kurs
+- **ECTS-Punkte:** 4.0
+- **Turnus:** in jedem Semester
 
 ### Italienisch: Elementarkurs 2 ItaliaNet A2 (Blended Learning Kurs) - Übung
 
@@ -2901,7 +3025,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17344|title:17518|title:17531|exam:13714750>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89884&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Italienisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -2932,7 +3059,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17344|title:17521|title:17526|exam:12191312>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90992&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Italienisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -3184,7 +3314,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17364|title:17377|title:17378|exam:12190993>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88569&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -3217,7 +3350,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17362|title:17385|title:17388|exam:12190980>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100126&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -3267,7 +3403,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17351|title:17474|title:17475|exam:12190971>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83383&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
 
 #### Termine
 
@@ -3560,7 +3699,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17359|title:17396|title:17406|exam:12190969>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85056&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 ### Russisch Online B2 Grammatiktraining Russisch-Deutsch kontrastiv  - Übung
 
@@ -3568,7 +3710,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17359|title:17397|exam:12190955>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85056&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 ### Russisch Online B2 Grammatiktraining Russisch-Deutsch kontrastiv  - Übung
 
@@ -3576,7 +3721,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17359|title:17398|title:17402|exam:12190966>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85056&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 ### Russisch: Elementarkurs 1 - Übung
 
@@ -3900,6 +4048,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17348|title:17483|exam:12191103>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113236&periodId=565>
 
+- **Veranstaltungsart:** Online-Kurs
+- **ECTS-Punkte:** 4.0
+- **Turnus:** in jedem Semester
+
 ### Spanisch: ELE.O B1 - virtueller Kurs B1  - Online-Kurs
 
 - **Segment:** `exam:12191104` · **unitId:** `113238`
@@ -4123,7 +4275,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17344|title:17521|title:17522|exam:12191306>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94315&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -4137,7 +4292,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17344|title:17521|title:17527|exam:12191297>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94315&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -4186,7 +4344,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17354|title:17460|title:17465|exam:12191320>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87615&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Türkisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -4218,7 +4379,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17354|title:17461|title:17464|exam:12191322>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91300&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -4285,7 +4449,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17360|title:17394|title:17395|exam:12191087>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82635&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -4333,7 +4500,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17361|title:17390|title:17392|exam:12191091>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93946&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 10.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -4449,7 +4619,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17344|title:17518|title:17530|exam:12191286>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89230&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Italienisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -4463,7 +4636,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17326|title:17344|title:17521|title:17527|exam:12191293>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89518&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 

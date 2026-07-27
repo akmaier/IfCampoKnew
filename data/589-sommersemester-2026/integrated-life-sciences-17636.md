@@ -166,7 +166,15 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 7.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 08801.01.020 ( Hörsaal ZMPT 01.[Telefon entfernt].00.020 ( Seminarraum ZMPT 00.020) |
+| wöchentlich | Do | 15:00–17:15 | 16.04.2026–16.07.2026 | 08801.01.020 ( Hörsaal ZMPT 01.020) |
 
 ### Biophysik/Biomechanik - Vorlesung mit Übung
 
@@ -176,7 +184,15 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 7.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 08801.01.020 ( Hörsaal ZMPT 01.[Telefon entfernt].00.020 ( Seminarraum ZMPT 00.020) |
+| wöchentlich | Do | 15:00–17:15 | 16.04.2026–16.07.2026 | 08801.01.020 ( Hörsaal ZMPT 01.020) |
 
 ### Biophysik/Biomechanik - Vorlesung mit Übung
 
@@ -186,7 +202,15 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 7.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 08801.01.020 ( Hörsaal ZMPT 01.[Telefon entfernt].00.020 ( Seminarraum ZMPT 00.020) |
+| wöchentlich | Do | 15:00–17:15 | 16.04.2026–16.07.2026 | 08801.01.020 ( Hörsaal ZMPT 01.020) |
 
 ### Fachmodul Biochemie: Vorlesung mit Seminar - Vorlesung
 
@@ -350,7 +374,24 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 08:00–18:00 | 22.06.2026–17.07.2026 | 13001.00.181 (00.181 SR Tierphysiologie Seminarraum Tierphysiologie) |
+| Einzeltermin | Mo | 09:00–12:00 | 22.06.2026 | 13003.00.877 (HC Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
+| Einzeltermin | Di | 13:00–15:00 | 23.06.2026 | 13001.00.181 (00.181 SR Tierphysiologie Seminarraum Tierphysiologie) |
+| Einzeltermin | Mi | 08:00–12:00 | 24.06.2026 | 13002.00.774 (Kursraum J Fluoreszenzmikroskopraum) |
+| Einzeltermin | Do | 08:00–12:00 | 25.06.2026 | 13002.00.774 (Kursraum J Fluoreszenzmikroskopraum) |
+| Einzeltermin | Fr | 08:00–12:00 | 26.06.2026 | 13002.00.774 (Kursraum J Fluoreszenzmikroskopraum) |
+| Einzeltermin | Mo | 08:00–12:00 | 29.06.2026 | 13002.00.774 (Kursraum J Fluoreszenzmikroskopraum) |
+| Einzeltermin | Mi | 08:00–12:00 | 01.07.2026 | 13002.00.774 (Kursraum J Fluoreszenzmikroskopraum) |
+| Einzeltermin | Fr | 08:00–12:00 | 03.07.2026 | 13002.00.774 (Kursraum J Fluoreszenzmikroskopraum) |
+| Einzeltermin | Mo | 09:00–12:00 | 06.07.2026 | 13001.00.181 (00.181 SR Tierphysiologie Seminarraum Tierphysiologie) |
+| Einzeltermin | Di | 13:00–15:00 | 07.07.2026 | 13001.00.181 (00.181 SR Tierphysiologie Seminarraum Tierphysiologie) |
 
 ### Fachmodul Pharmazeutische Biologie: Seminar zur Vorlesung  (Teil 2) - Seminar
 
@@ -369,7 +410,14 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87160&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 08:15–10:00 | 17.04.2026–17.07.2026 | 13301.U1.0171 (C1 - Chemikum) |
 
 ### Fachmodul Zellbiologie: Übungen mit Hauptseminar (Teil 1) - Übung
 
@@ -379,7 +427,21 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 09:00–13:00 | 11.05.2026 | 13002.00.581 (00.581 Seminarraum Zellbiologie im Biologikum) |
+| Einzeltermin | Mo | 10:15–12:00 | 18.05.2026 | 13002.00.581 (00.581 Seminarraum Zellbiologie im Biologikum) |
+| Blockveranstaltung | — | 10:15–17:00 | 20.05.2026–21.05.2026 | 13002.00.581 (00.581 Seminarraum Zellbiologie im Biologikum) |
+| Blockveranstaltung | — | 08:00–18:00 | 27.05.2026–12.06.2026 | — |
+| Blockveranstaltung | — | 12:00–18:00 | 27.05.2026–29.05.2026 | — |
+| Einzeltermin | Mi | 08:00–12:00 | 27.05.2026 | — |
+| Einzeltermin | Fr | 12:00–16:00 | 29.05.2026 | 13002.00.581 (00.581 Seminarraum Zellbiologie im Biologikum) |
+| Einzeltermin | Do | 10:00–17:00 | 04.06.2026 | 13002.00.774 (Kursraum J Fluoreszenzmikroskopraum) |
 
 ### Fachmodul Zellbiologie: Übungen mit Hauptseminar (Teil 1) - Übung
 
@@ -389,7 +451,21 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 09:00–13:00 | 11.05.2026 | 13002.00.581 (00.581 Seminarraum Zellbiologie im Biologikum) |
+| Einzeltermin | Mo | 10:15–12:00 | 18.05.2026 | 13002.00.581 (00.581 Seminarraum Zellbiologie im Biologikum) |
+| Blockveranstaltung | — | 10:15–17:00 | 20.05.2026–21.05.2026 | 13002.00.581 (00.581 Seminarraum Zellbiologie im Biologikum) |
+| Blockveranstaltung | — | 08:00–18:00 | 27.05.2026–12.06.2026 | — |
+| Blockveranstaltung | — | 12:00–18:00 | 27.05.2026–29.05.2026 | — |
+| Einzeltermin | Mi | 08:00–12:00 | 27.05.2026 | — |
+| Einzeltermin | Fr | 12:00–16:00 | 29.05.2026 | 13002.00.581 (00.581 Seminarraum Zellbiologie im Biologikum) |
+| Einzeltermin | Do | 10:00–17:00 | 04.06.2026 | 13002.00.774 (Kursraum J Fluoreszenzmikroskopraum) |
 
 ### ILS-B4: Vorlesung zu Zell- Zellkommunikation, Signalverarbeitung und Entwicklung - Vorlesung
 
@@ -510,7 +586,16 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 13001.U1.131 (CIP Biologie Raumnummer U1.131) 13002.00.581 (00.581 Seminarraum Zellbiologie im Biologikum) |
+| wöchentlich | Mo | 10:15–11:45 | 22.06.2026–13.07.2026 | 13001.01.212 (01.212 Seminarraum MPP) |
+| wöchentlich | Mo | 10:15–11:45 | 22.06.2026–13.07.2026 | 13003.00.882 (HB Hörsaal -Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 
 ### ILS-I3: Molekulare Biophysik und Strukturbiologie (Vorlesung) - Vorlesung
 
@@ -520,7 +605,16 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 13001.U1.131 (CIP Biologie Raumnummer U1.131) 13002.00.581 (00.581 Seminarraum Zellbiologie im Biologikum) |
+| wöchentlich | Mo | 10:15–11:45 | 22.06.2026–13.07.2026 | 13001.01.212 (01.212 Seminarraum MPP) |
+| wöchentlich | Mo | 10:15–11:45 | 22.06.2026–13.07.2026 | 13003.00.882 (HB Hörsaal -Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 
 ### ILS-I3: Molekulare Biophysik und Strukturbiologie (Vorlesung) - Vorlesung
 
@@ -530,7 +624,16 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 13001.U1.131 (CIP Biologie Raumnummer U1.131) 13002.00.581 (00.581 Seminarraum Zellbiologie im Biologikum) |
+| wöchentlich | Mo | 10:15–11:45 | 22.06.2026–13.07.2026 | 13001.01.212 (01.212 Seminarraum MPP) |
+| wöchentlich | Mo | 10:15–11:45 | 22.06.2026–13.07.2026 | 13003.00.882 (HB Hörsaal -Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 
 ### ILS-I3: Molekulare Biophysik und Strukturbiologie (Übung) - Übung
 
@@ -705,7 +808,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 10:30–12:30 | 16.04.2026–16.07.2026 | 12801.00.325 (Praktikum 1 - PC-Pool / 00.325-128) |
+| wöchentlich | Do | 13:00–15:00 | 16.04.2026–16.07.2026 | 12801.00.327 (Praktikum 2 - PC-Pool / 00.327-128) |
 
 ### Übungen zu Mathematische Verfahren der Bioinformatik - Übung
 
@@ -721,7 +824,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 10:30–12:30 | 16.04.2026–16.07.2026 | 12801.00.325 (Praktikum 1 - PC-Pool / 00.325-128) |
+| wöchentlich | Do | 13:00–15:00 | 16.04.2026–16.07.2026 | 12801.00.327 (Praktikum 2 - PC-Pool / 00.327-128) |
 
 ### Übungen zu Mathematische Verfahren der Bioinformatik - Übung
 
@@ -737,7 +840,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 10:30–12:30 | 16.04.2026–16.07.2026 | 12801.00.325 (Praktikum 1 - PC-Pool / 00.325-128) |
+| wöchentlich | Do | 13:00–15:00 | 16.04.2026–16.07.2026 | 12801.00.327 (Praktikum 2 - PC-Pool / 00.327-128) |
 
 ### Übungen zur Mathematik für Ingenieure C2: INF, ILS - Übung
 
@@ -752,7 +855,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 16:15–17:45 | 15.04.2026–15.07.2026 | 11501.04.023 (04.023 Hörsaal) |
+| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 11501.04.023 (04.023 Hörsaal) |
 
 ### Übungen zur Mathematik für Ingenieure C2: INF, ILS - Übung
 
@@ -767,7 +870,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 16:15–17:45 | 15.04.2026–15.07.2026 | 11501.04.023 (04.023 Hörsaal) |
+| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 11501.04.023 (04.023 Hörsaal) |
 
 ### Übungen zur Mathematik für Ingenieure C2: INF, ILS - Übung
 
@@ -782,7 +885,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 16:15–17:45 | 15.04.2026–15.07.2026 | 11501.04.023 (04.023 Hörsaal) |
+| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 11501.04.023 (04.023 Hörsaal) |
 
 ### 1999 Bachelorarbeit (B.Sc. Integrated Life Sciences 20192)
 
@@ -1070,7 +1173,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| Fr | Fr | 08:15–09:00 | — | — |
 
 ### 24112 Portfolioprüfung zum Übungs- bzw. Praktikumsteil des Fachmodul Zellbiologie - Leistung
 
@@ -1085,7 +1188,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| Fr | Fr | 09:15–10:00 | — | — |
 
 ### 24112 Portfolioprüfung zum Übungs- bzw. Praktikumsteil des Fachmodul Zellbiologie - Leistung
 
@@ -1100,7 +1203,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| Fr | Fr | 09:15–10:00 | — | — |
 
 ### 24211 Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie - Leistung
 
@@ -1325,7 +1428,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | 10:00–11:30 | — | — |
+| Do | Do | 10:00–11:30 | — | 13003.00.877 (HC Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 
 ### 31901 Klausur zu Vorlesung+Übungen Zell-Zellkommunikation, Signalverarbeitung und Entwicklung - Leistung
 
@@ -1340,7 +1443,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | 10:00–11:30 | — | — |
+| Do | Do | 10:00–11:30 | — | 13003.00.877 (HC Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 
 ### 31901 Klausur zu Vorlesung+Übungen Zell-Zellkommunikation, Signalverarbeitung und Entwicklung - Leistung
 
@@ -1355,7 +1458,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | 10:00–11:30 | — | — |
+| Do | Do | 10:00–11:30 | — | 13003.00.877 (HC Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 
 ### 31902 Protokollheft zu Übungen Zell-Zellkommunikation, Signalverarbeitung und Entwicklung - Leistung
 
@@ -2334,7 +2437,15 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 08:15–09:50 | 15.04.2026–15.07.2026 | 11907.01.040 (H18) |
+| wöchentlich | Fr | 08:15–09:50 | 17.04.2026–17.07.2026 | 11907.01.040 (H18) |
 
 ### ILS-C1-V - Allgemeine Chemie (für ILS) - Vorlesung
 
@@ -2344,7 +2455,15 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 08:15–09:50 | 15.04.2026–15.07.2026 | 11907.01.040 (H18) |
+| wöchentlich | Fr | 08:15–09:50 | 17.04.2026–17.07.2026 | 11907.01.040 (H18) |
 
 ### ILS-C1-V - Allgemeine Chemie (für ILS) - Vorlesung
 
@@ -2354,7 +2473,15 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 08:15–09:50 | 15.04.2026–15.07.2026 | 11907.01.040 (H18) |
+| wöchentlich | Fr | 08:15–09:50 | 17.04.2026–17.07.2026 | 11907.01.040 (H18) |
 
 ### ILS-C1-Ü - Übung Allgemeine Chemie (für ILS) - Übungsseminar
 
@@ -2545,7 +2672,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 | wöchentlich | Mo | 14:00–16:00 | 13.04.2026–13.07.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
 | Einzeltermin | Mi | 10:00–12:00 | 20.05.2026 | 11002.00.020 (H17 Maschinenbau Hörsaal Maschinenbau) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (59)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (57)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -2857,15 +2984,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
-### Introduction to Soft Matter and Biological Physics (Exercise Class) — Übung
-
-- **Segment:** `unit:108083` · **unitId:** `108083`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=108083&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 0.0
-- **Turnus:** Unregelmäßig
-
 ### Klausur zum Nachweis Gesicherter Lateinkenntnisse
 
 - **Segment:** `unit:39849` · **unitId:** `39849`
@@ -2907,8 +3025,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -3141,14 +3259,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:83107` · **unitId:** `83107`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83107&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Übungen zur Mathematik für Ingenieure C1: INF, ILS
-
-- **Segment:** `unit:83196` · **unitId:** `83196`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83196&periodId=589>
 
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester

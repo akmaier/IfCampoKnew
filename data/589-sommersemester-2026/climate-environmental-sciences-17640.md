@@ -14,7 +14,7 @@ course_count: 0
 
 _Section: Studiengänge der Naturwissenschaftlichen Fakultät_  
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (22)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (19)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -45,15 +45,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### Advanced Methods MSc: Soil Science — PG Masterseminar
-
-- **Segment:** `unit:115146` · **unitId:** `115146`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115146&periodId=589>
-
-- **Veranstaltungsart:** PG Masterseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Advanced Methods MSc: Tree Ring Analysis — PG Masterseminar
 
 - **Segment:** `unit:85318` · **unitId:** `85318`
@@ -77,13 +68,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mi | 08:15–11:45 | 15.04.2026 | 55801.00.133 (00.133 CIP-Raum 1 Lehre &amp; Selbständiges Üben) |
-| Einzeltermin | Mi | 08:15–11:45 | 22.04.2026 | 55801.00.133 (00.133 CIP-Raum 1 Lehre &amp; Selbständiges Üben) |
-| Einzeltermin | Mi | 08:15–11:45 | 29.04.2026 | 55801.00.133 (00.133 CIP-Raum 1 Lehre &amp; Selbständiges Üben) |
-| Einzeltermin | Mi | 08:15–11:45 | 27.05.2026 | 55801.00.133 (00.133 CIP-Raum 1 Lehre &amp; Selbständiges Üben) |
-| Einzeltermin | Mi | 08:15–11:45 | 10.06.2026 | 55801.00.133 (00.133 CIP-Raum 1 Lehre &amp; Selbständiges Üben) |
-| Einzeltermin | Mi | 08:15–11:45 | 24.06.2026 | 55801.00.133 (00.133 CIP-Raum 1 Lehre &amp; Selbständiges Üben) |
-| Einzeltermin | Mi | 08:15–11:45 | 08.07.2026 | 55801.00.133 (00.133 CIP-Raum 1 Lehre &amp; Selbständiges Üben) |
+| Einzeltermin | Di | 10:00–13:30 | 14.04.2026 | 55801.00.133 (00.133 CIP-Raum 1 Lehre &amp; Selbständiges Üben) |
+| Einzeltermin | Di | 10:00–13:30 | 21.04.2026 | 55801.00.133 (00.133 CIP-Raum 1 Lehre &amp; Selbständiges Üben) |
+| Einzeltermin | Di | 10:00–13:30 | 19.05.2026 | 55801.00.133 (00.133 CIP-Raum 1 Lehre &amp; Selbständiges Üben) |
+| Einzeltermin | Di | 10:00–13:30 | 02.06.2026 | 55801.00.133 (00.133 CIP-Raum 1 Lehre &amp; Selbständiges Üben) |
+| Einzeltermin | Di | 10:00–13:30 | 12.06.2026 | 55801.00.133 (00.133 CIP-Raum 1 Lehre &amp; Selbständiges Üben) |
+| Einzeltermin | Di | 10:00–13:30 | 30.06.2026 | 55801.00.133 (00.133 CIP-Raum 1 Lehre &amp; Selbständiges Üben) 55801.03.145 (03.145 Besprechungszimmer Geographie Tennenlohe) |
 
 ### Advanced Methods: — Masterseminar
 
@@ -159,15 +149,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wird noch angekündigt | — | — | — | — |
 
-### Großes Geländeseminar — Exkursion
-
-- **Segment:** `unit:88305` · **unitId:** `88305`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88305&periodId=589>
-
-- **Veranstaltungsart:** Exkursion
-- **ECTS-Punkte:** 10.0
-- **Turnus:** nur im Sommersemester
-
 ### Großes Geländeseminar: Bayern - Physische Geographie und Landesgeschichte — Exkursion
 
 - **Segment:** `unit:83324` · **unitId:** `83324`
@@ -181,15 +162,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:82622` · **unitId:** `82622`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82622&periodId=589>
-
-- **Veranstaltungsart:** Exkursion
-- **ECTS-Punkte:** 10.0
-- **Turnus:** nur im Sommersemester
-
-### Großes Geländeseminar: Südfrankreich — Exkursion
-
-- **Segment:** `unit:82953` · **unitId:** `82953`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82953&periodId=589>
 
 - **Veranstaltungsart:** Exkursion
 - **ECTS-Punkte:** 10.0
@@ -253,8 +225,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 

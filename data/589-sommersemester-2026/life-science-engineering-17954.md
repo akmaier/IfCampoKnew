@@ -24,7 +24,15 @@ _Section: Studiengänge der Technischen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 7.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 08801.01.020 ( Hörsaal ZMPT 01.[Telefon entfernt].00.020 ( Seminarraum ZMPT 00.020) |
+| wöchentlich | Do | 15:00–17:15 | 16.04.2026–16.07.2026 | 08801.01.020 ( Hörsaal ZMPT 01.020) |
 
 ### BWL für Ingenieure II - Vorlesung mit Übung
 
@@ -33,7 +41,14 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83990&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 08:30–10:00 | 15.04.2026–15.07.2026 | 12801.01.210 (H11) |
 
 ### Chemische Thermodynamik (TUT) - Tutorium
 
@@ -49,7 +64,7 @@ _Section: Studiengänge der Technischen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Fr | 12:15–13:45 | 17.04.2026–17.07.2026 | 12106.00.633 (VT-Seminarraum FST-Cauerstraße 4) |
+| wöchentlich | Fr | 08:15–09:45 | 12.06.2026–17.07.2026 | 12104.01.411 (KS II Kurssaal II) |
 
 ### Chemische Thermodynamik (UE) - Übung
 
@@ -155,14 +170,7 @@ _Section: Studiengänge der Technischen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 12104.01.421 (KS I Kurssaal I Hanns-Hofmann-Hörsaal) |
 
 ### Messtechnik 1 - Messtechnik und Analytik - Vorlesung
 
@@ -455,7 +463,14 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96531&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 14:00–15:00 | 17.04.2026–17.07.2026 | 11202.00.307 (H1 Egerlandstr.3 Anorganische Chemie) |
 
 ### Übung zur Physikalischen Chemie für CBI, CEN u. BT - Übung
 
@@ -464,7 +479,14 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96531&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 14:00–15:00 | 17.04.2026–17.07.2026 | 11202.00.307 (H1 Egerlandstr.3 Anorganische Chemie) |
 
 ### Übung zur Physikalischen Chemie für CBI, CEN u. BT - Übung
 
@@ -473,7 +495,14 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96531&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 14:00–15:00 | 17.04.2026–17.07.2026 | 11202.00.307 (H1 Egerlandstr.3 Anorganische Chemie) |
 
 ### 1995 Industriepraktikum (M.Sc. Life Science Engineering 20192) - Leistung
 
@@ -2969,7 +2998,14 @@ _Section: Studiengänge der Technischen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | 08801.01.020 ( Hörsaal ZMPT 01.020) |
 
 ### BIA-Pr - Bioanalytik - Praktikum - Praktikum
 
@@ -2979,7 +3015,14 @@ _Section: Studiengänge der Technischen Fakultät_
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 08:00–14:00 | 15.04.2026–15.07.2026 | — |
 
 ### BIA-Üb - Bioanalytik - Übung - Übung
 
@@ -2988,14 +3031,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92115&periodId=589>
 
 - **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 07204.02.028 (SR 02.028 Seminarraum der LS Autonome Systeme und Mechatronik u. Medizinische Biotechnologie) |
 
 ### BRT_LSE - Bioreaktions- und Bioverfahrenstechnik (nur LSE) - Vorlesung
 
@@ -3052,7 +3088,14 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90318&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 09:00–11:15 | 15.04.2026–15.07.2026 | 07205.03.016 (CIP-Pool CBI) |
 
 ### BT4-ME-UE - Übung zu Biotechnologie 4: Metabolic Engineering - Übung
 
@@ -3061,7 +3104,14 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90318&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 09:00–11:15 | 15.04.2026–15.07.2026 | 07205.03.016 (CIP-Pool CBI) |
 
 ### BT4-ME-VL - Biotechnologie 4: Metabolic Engineering - Vorlesung
 
@@ -3071,7 +3121,14 @@ _Section: Studiengänge der Technischen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:15–15:45 | 14.04.2026–14.07.2026 | 07205.00.030 (SR 00.030 Seminarraum EG Konrad-Zuse-Str. 3/5 - Belegung ausschließlich durch Lehrveranstaltungen) |
 
 ### BT4-ME-VL - Biotechnologie 4: Metabolic Engineering - Vorlesung
 
@@ -3081,7 +3138,14 @@ _Section: Studiengänge der Technischen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:15–15:45 | 14.04.2026–14.07.2026 | 07205.00.030 (SR 00.030 Seminarraum EG Konrad-Zuse-Str. 3/5 - Belegung ausschließlich durch Lehrveranstaltungen) |
 
 ### BVT-PR-VT - Praktikum Bioverfahrenstechnik (Vertiefung) - Praktikum
 
@@ -3101,7 +3165,14 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98083&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:30–11:00 | 21.04.2026–14.07.2026 | 07205.00.030 (SR 00.030 Seminarraum EG Konrad-Zuse-Str. 3/5 - Belegung ausschließlich durch Lehrveranstaltungen) |
 
 ### BVT-VT - Bioverfahrenstechnik (Vertiefung) - Vorlesung
 
@@ -3365,15 +3436,7 @@ _Section: Studiengänge der Technischen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 11:00–13:00 | 22.04.2026–15.07.2026 | — |
-| Einzeltermin | Fr | 11:00–12:30 | 17.07.2026 | — |
 
 ### FEE - Fundamentals of Electrical Engineering - Vorlesung
 
@@ -3435,6 +3498,12 @@ _Section: Studiengänge der Technischen Fakultät_
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | 12103.00.332 |
+
 ### FFS - Fluid-Feststoff-Strömungen / Fluid-Solid-Flows - Vorlesung
 
 - **Segment:** `exam:14442629` · **unitId:** `88374`
@@ -3445,6 +3514,12 @@ _Section: Studiengänge der Technischen Fakultät_
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | 12103.00.332 |
+
 ### FFS - Fluid-Feststoff-Strömungen / Fluid-Solid-Flows - Vorlesung
 
 - **Segment:** `exam:14442676` · **unitId:** `88374`
@@ -3454,6 +3529,12 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | 12103.00.332 |
 
 ### GFiVT - Grenzflächen in der Verfahrenstechnik - Vorlesung
 
@@ -3497,7 +3578,14 @@ _Section: Studiengänge der Technischen Fakultät_
 
 - **Veranstaltungsart:** Seminar und Übung
 - **ECTS-Punkte:** 7.5
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:00–19:00 | 14.04.2026–14.07.2026 | 13001.U1.131 (CIP Biologie Raumnummer U1.131) |
 
 ### IngMathD2U - Übungen zur Mathematik für Ingenieure D2: BT, CBI, CEN - Übung
 
@@ -3514,7 +3602,7 @@ _Section: Studiengänge der Technischen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 11901.U1.245 (K2-119 Seminarraum) |
+| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 11501.04.023 (04.023 Hörsaal) |
 
 ### IngMathD2U - Übungen zur Mathematik für Ingenieure D2: BT, CBI, CEN - Übung
 
@@ -3531,7 +3619,7 @@ _Section: Studiengänge der Technischen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 11901.U1.245 (K2-119 Seminarraum) |
+| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 11501.04.023 (04.023 Hörsaal) |
 
 ### IngMathD2U - Übungen zur Mathematik für Ingenieure D2: BT, CBI, CEN - Übung
 
@@ -3548,7 +3636,7 @@ _Section: Studiengänge der Technischen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 11901.U1.245 (K2-119 Seminarraum) |
+| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 11501.04.023 (04.023 Hörsaal) |
 
 ### IP - Industrielles Produktdesign - Vorlesung mit Übung
 
@@ -3558,14 +3646,7 @@ _Section: Studiengänge der Technischen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung | — | 08:15–17:00 | 05.10.2026–08.10.2026 | — |
 
 ### KI-ING-UE - Maschinelles Lernen und Künstliche Intelligenz im Ingenieurwesen (Ü) - Übung
 
@@ -3852,6 +3933,22 @@ _Section: Studiengänge der Technischen Fakultät_
 - **ECTS-Punkte:** 7.5
 - **Turnus:** nur im Sommersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 12:15–13:00 | 20.04.2026 | 08801.00.020 ( Seminarraum ZMPT 00.020) |
+| Einzeltermin | Di | 10:15–11:45 | 21.04.2026 | 08801.01.020 ( Hörsaal ZMPT 01.020) |
+| Einzeltermin | Di | 14:15–15:00 | 21.04.2026 | 08801.00.020 ( Seminarraum ZMPT 00.020) |
+| Einzeltermin | Di | 15:15–16:00 | 21.04.2026 | 08801.00.020 ( Seminarraum ZMPT 00.020) |
+| Einzeltermin | Fr | 10:15–11:45 | 24.04.2026 | 08801.00.020 ( Seminarraum ZMPT 00.020) |
+| Einzeltermin | Mo | 09:15–10:00 | 27.04.2026 | 08801.00.020 ( Seminarraum ZMPT 00.020) |
+| Einzeltermin | Mi | 09:15–10:45 | 29.04.2026 | 08801.00.020 ( Seminarraum ZMPT 00.020) |
+| Einzeltermin | Do | 09:15–10:00 | 07.05.2026 | 08801.00.020 ( Seminarraum ZMPT 00.020) |
+| Einzeltermin | Fr | 09:15–10:00 | 08.05.2026 | 08801.00.020 ( Seminarraum ZMPT 00.020) |
+| Einzeltermin | Mo | 14:15–16:00 | 11.05.2026 | 08801.01.020 ( Hörsaal ZMPT 01.020) |
+| Einzeltermin | Fr | 11:15–12:00 | 15.05.2026 | 08801.00.020 ( Seminarraum ZMPT 00.020) |
+
 ### PAK - Prozessmaschinen und Apparatetechnik - Vorlesung
 
 - **Segment:** `exam:14428004` · **unitId:** `84137`
@@ -4027,6 +4124,7 @@ _Section: Studiengänge der Technischen Fakultät_
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
 ### Prakt. MVT II - Praktikum in Product Engineering - Praktikum
@@ -4049,6 +4147,12 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 12103.00.332 |
 
 ### PSTM-UE - Partikelbasierte Strömungsmechanik (PSTM-UE) - Übung
 
@@ -4140,7 +4244,14 @@ _Section: Studiengänge der Technischen Fakultät_
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 14:15–15:45 | 17.04.2026–17.07.2026 | 11501.00.151 (0.151-115 Seminar) 11401.00.237 (0.85 Seminarraum) |
 
 ### SOP-V - Self-Organisation Processes - Vorlesung
 
@@ -4193,13 +4304,13 @@ _Section: Studiengänge der Technischen Fakultät_
 | wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | 11901.00.222 (H7 Hörsaal 7) |
 | wöchentlich | Mi | 10:15–11:45 | 22.04.2026–15.07.2026 | 11901.00.222 (H7 Hörsaal 7) |
 
-### SuF-Ü - Übung  zur Statik und Festigkeitslehre - Tutorium
+### SuF-Ü - Übung  zur Statik und Festigkeitslehre - Übung
 
 - **Segment:** `exam:14428033` · **unitId:** `91315`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17954|exam:14427903|exam:14427905|exam:14427907|exam:14428030|exam:14428033>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91315&periodId=589>
 
-- **Veranstaltungsart:** Tutorium
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
@@ -4209,13 +4320,13 @@ _Section: Studiengänge der Technischen Fakultät_
 |---|---|---|---|---|
 | wöchentlich | Do | 18:15–19:45 | 09.04.2026–16.07.2026 | 11901.00.222 (H7 Hörsaal 7) |
 
-### SuF-Ü - Übung  zur Statik und Festigkeitslehre - Tutorium
+### SuF-Ü - Übung  zur Statik und Festigkeitslehre - Übung
 
 - **Segment:** `exam:14431219` · **unitId:** `91315`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17954|exam:14431061|exam:14431063|exam:14431065|exam:14431216|exam:14431219>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91315&periodId=589>
 
-- **Veranstaltungsart:** Tutorium
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
@@ -4288,7 +4399,14 @@ _Section: Studiengänge der Technischen Fakultät_
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 16:15–18:30 | 16.04.2026–16.07.2026 | 07201.01.009 (AOT-Kursraum Kursraum von SAOT und MAOT) |
 
 ### TTE - Technology of Tissue Engineering - Vorlesung
 
@@ -4363,6 +4481,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92109&periodId=589>
 
 - **Veranstaltungsart:** Tutorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
 ### Tutor RT Kern - Tutorium zur Vorlesung Reaktionstechnik  / Tutorial Chemical Reaction Engineering, Kern - Tutorium
@@ -4372,6 +4491,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92109&periodId=589>
 
 - **Veranstaltungsart:** Tutorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
 ### UBVT - Umweltbioverfahrenstechnik - Vorlesung
@@ -4415,6 +4535,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89004&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
 ### UBVT-Tut - Tutorium zu Umweltbioverfahrenstechnik - Tutorium
@@ -4476,7 +4597,14 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96631&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 23.04.2026–16.07.2026 | 11901.U1.245 (K2-119 Seminarraum) |
 
 ### UE_BRT_LSE - Übung zur Bioreaktions- und Bioverfahrenstechnik (nur LSE) - Übung
 
@@ -4485,7 +4613,14 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96631&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 23.04.2026–16.07.2026 | 11901.U1.245 (K2-119 Seminarraum) |
 
 ### UE_BRT_LSE - Übung zur Bioreaktions- und Bioverfahrenstechnik (nur LSE) - Übung
 
@@ -4494,7 +4629,14 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96631&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 23.04.2026–16.07.2026 | 11901.U1.245 (K2-119 Seminarraum) |
 
 ### VORL WAIN - Wissenschaftliches Arbeiten in den Ingenieur- und Naturwissenschaften - Vorlesung
 
@@ -4557,7 +4699,14 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89687&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:15–17:45 | 13.04.2026–13.07.2026 | 07205.00.030 (SR 00.030 Seminarraum EG Konrad-Zuse-Str. 3/5 - Belegung ausschließlich durch Lehrveranstaltungen) |
 
 ### ZK_LSE - Zellkulturtechnik für LSE - Vorlesung
 
@@ -4566,7 +4715,14 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89687&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:15–17:45 | 13.04.2026–13.07.2026 | 07205.00.030 (SR 00.030 Seminarraum EG Konrad-Zuse-Str. 3/5 - Belegung ausschließlich durch Lehrveranstaltungen) |
 
 ### ZK_LSE - Zellkulturtechnik für LSE - Vorlesung
 
@@ -4575,7 +4731,14 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89687&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:15–17:45 | 13.04.2026–13.07.2026 | 07205.00.030 (SR 00.030 Seminarraum EG Konrad-Zuse-Str. 3/5 - Belegung ausschließlich durch Lehrveranstaltungen) |
 
 ### Ü-GFiVT - Übung zu Grenzflächen in der Verfahrenstechnik - Übung
 
@@ -4706,7 +4869,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (106)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (103)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -4941,7 +5104,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 10:15–11:45 | 17.04.2026–17.07.2026 | 11501.00.156 (H16 Hörsaal 16) 11301.00.005 (H4 Hörsaal 4) |
 
 ### Computational Fluid Dynamics II - Exercise — Übung
 
@@ -4949,7 +5119,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82853&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 11901.00.240 (H10 Hörsaal 10) |
 
 ### Computational Fluid Dynamics II - Lab — Praktikum
 
@@ -5007,13 +5184,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
 
-### Discrete Element Simulations — Vorlesung
+### Discrete Element Simulations — Übung
 
-- **Segment:** `unit:110299` · **unitId:** `110299`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110299&periodId=589>
+- **Segment:** `unit:110301` · **unitId:** `110301`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110301&periodId=589>
 
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 7.5
+- **Veranstaltungsart:** Übung
 - **Turnus:** nur im Sommersemester
 
 ### Discrete Element Simulations — Praktikum
@@ -5022,14 +5198,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110302&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
-- **Turnus:** nur im Sommersemester
-
-### Discrete Element Simulations — Übung
-
-- **Segment:** `unit:110301` · **unitId:** `110301`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110301&periodId=589>
-
-- **Veranstaltungsart:** Übung
 - **Turnus:** nur im Sommersemester
 
 ### Einführung in die Regelungstechnik — Vorlesung mit Übung
@@ -5056,7 +5224,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 18:15–19:45 | 16.04.2026–16.07.2026 | 12104.01.421 (KS I Kurssaal I Hanns-Hofmann-Hörsaal) |
 
 ### Grammar & Vocabulary for Erasmus students
 
@@ -5124,7 +5299,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 16:15–17:45 | 15.04.2026–15.07.2026 | 12104.01.411 (KS II Kurssaal II) |
 
 ### Immun-Biotechnologie — Vorlesung
 
@@ -5231,8 +5413,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -5449,24 +5631,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### Praktikum Systembiotechnologie (Vertiefung)
-
-- **Segment:** `unit:93034` · **unitId:** `93034`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93034&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
-### Praktikum zur Lebensmittelbiotechnologie
-
-- **Segment:** `unit:114334` · **unitId:** `114334`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114334&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
 
 ### Praktische mikrobiologische Grundlagen für Biotechnologie 1 — Übung
 

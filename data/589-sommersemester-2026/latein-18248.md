@@ -53,7 +53,15 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 05901.02.058 ( 2.058 R 2.058) |
+| Einzeltermin | Mo | 10:15–11:45 | 27.07.2026 | 05901.01.053 ( 01.053) |
 
 ### Deutsch-lateinische Übersetzungsübungen - Unterstufe 2 - Übung
 
@@ -332,7 +340,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 05901.02.058 ( 2.058 R 2.058) |
 
 ### Vorlesung Prosa: Antike Vorstellungen vom Glück - Vorlesung
 
@@ -342,7 +357,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:15–15:45 | 14.04.2026–14.07.2026 | 00501.02.012 ( KH 2.012 Hörsaal Kollegienhaus) |
 
 ### Vorlesung Prosa: Antike Vorstellungen vom Glück - Vorlesung
 
@@ -352,7 +374,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:15–15:45 | 14.04.2026–14.07.2026 | 00501.02.012 ( KH 2.012 Hörsaal Kollegienhaus) |
 
 ### 40012 Klausur in lat.-dt. Übersetzung zu Lateinische Sprachwissenschaft und Sprachpraxis I - Leistung
 
@@ -829,7 +858,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (40)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (34)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -846,15 +875,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Sa | Sa | 08:45–12:00 | — | 06201.02.021 ( TSG HS A (02.021) Theologisches Seminargebäude, Kochstraße 6) |
-
-### Deutsch-lateinische Übersetzung (Aufbau) — Übung
-
-- **Segment:** `unit:99468` · **unitId:** `99468`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99468&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Deutsch-lateinische Übersetzungsübungen (Aufbau)
 
@@ -890,13 +910,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 0.0
 - **Turnus:** nur im Wintersemester
 
-### Deutsch-lateinische Übersetzungsübungen - Mittelstufe A
-
-- **Segment:** `unit:122689` · **unitId:** `122689`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122689&periodId=589>
-
-- **Veranstaltungsart:** Übung
-
 ### Deutsch-lateinische Übersetzungsübungen - Mittelstufe II
 
 - **Segment:** `unit:119154` · **unitId:** `119154`
@@ -904,30 +917,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 16:15–17:45 | 15.04.2026–15.07.2026 | 05901.02.058 ( 2.058 R 2.058) |
-| Einzeltermin | Mi | 16:15–17:45 | 22.07.2026 | 05901.02.058 ( 2.058 R 2.058) |
-
-### Deutsch-lateinische Übersetzungsübungen - Oberstufe
-
-- **Segment:** `unit:122710` · **unitId:** `122710`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122710&periodId=589>
-
-- **Veranstaltungsart:** Übung
-
-### Deutsch-lateinische Übersetzungsübungen - Oberstufe
-
-- **Segment:** `unit:127494` · **unitId:** `127494`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127494&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
 - **Turnus:** in jedem Semester
 
 ### Deutsch-lateinische Übersetzungsübungen - Unterstufe 1
@@ -1066,8 +1055,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -1131,13 +1120,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
 
-### Lateinisch-deutsche Übersetzungsübungen - Unterstufe
-
-- **Segment:** `unit:110889` · **unitId:** `110889`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110889&periodId=589>
-
-- **Veranstaltungsart:** Übung
-
 ### Lateinische Sprachwissenschaft und Sprachpraxis IIa
 
 - **Segment:** `unit:50312` · **unitId:** `50312`
@@ -1193,15 +1175,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### Proseminar Poesie
-
-- **Segment:** `unit:104408` · **unitId:** `104408`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104408&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-- **ECTS-Punkte:** 6.0
-- **Turnus:** nur im Wintersemester
 
 ### Schriftliche Übersetzungsleistung Latein I für Anfänger (Zulassungsvoraussetzung zu Kurs Latein II für Fortgeschrittene)
 

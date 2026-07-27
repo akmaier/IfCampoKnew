@@ -5,7 +5,7 @@ campo_segment: "title:18227"
 campo_path: "title:17593|title:17595|title:18227"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18227"
 po_version_count: 7
-course_count: 313
+course_count: 315
 fau_studiengang:
   - title: "Germanistik (B.A.)"
     rel_path: "studiengang/germanistik-b-a.md"
@@ -437,7 +437,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Campo-Segment:** `title:18393`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18227|title:18383|title:18389|title:18393>
 
-## Veranstaltungen (313)
+## Veranstaltungen (315)
 
 ### Erzählungen der Romantik - Hauptseminar
 
@@ -882,7 +882,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133788&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 10:00–12:00 | 17.04.2026–17.07.2026 | 05901.05.012 ( 05.012) |
 
 ### HS/Ü: Wie ediert man einen vergessenen Autor? Das Beispiel des jüdischen Berliner Schriftstellers und Künstlers Edmund Edel (1863-1934) - Seminar und Übung
 
@@ -891,7 +898,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133788&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 10:00–12:00 | 17.04.2026–17.07.2026 | 05901.05.012 ( 05.012) |
 
 ### HS/Ü: Wikipedia lesen, analysieren, bearbeiten, schreiben - Seminar und Übung
 
@@ -976,7 +990,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133749&periodId=589>
 
 - **Veranstaltungsart:** Kolleg
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Kolleg/Übung Mediävistik: Meistersang - eine Blütenlese - Kolleg
 
@@ -985,7 +1006,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133749&periodId=589>
 
 - **Veranstaltungsart:** Kolleg
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Kolleg/Übung Mediävistik: Meistersang - eine Blütenlese - Kolleg
 
@@ -994,7 +1022,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133749&periodId=589>
 
 - **Veranstaltungsart:** Kolleg
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Kolleg/Übung Mediävistik: Meistersang - eine Blütenlese - Kolleg
 
@@ -1003,7 +1038,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133749&periodId=589>
 
 - **Veranstaltungsart:** Kolleg
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Lektüreübung "Arabel" / "Willehalm" - Kolleg
 
@@ -1147,7 +1189,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Fr | 13:15–14:00 | 24.04.2026–17.07.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
+| wöchentlich | Fr | 08:45–09:30 | 24.04.2026–17.07.2026 | 20301.U1.038 (U1.038 Seminarraum (50)) |
 
 ### Ling BM-2: Tutorium (Nürnberg) - Übung
 
@@ -1163,7 +1205,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Fr | 13:15–14:00 | 24.04.2026–17.07.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
+| wöchentlich | Fr | 08:45–09:30 | 24.04.2026–17.07.2026 | 20301.U1.038 (U1.038 Seminarraum (50)) |
 
 ### Ling BM-2: Tutorium (Nürnberg) - Übung
 
@@ -1179,7 +1221,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Fr | 13:15–14:00 | 24.04.2026–17.07.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
+| wöchentlich | Fr | 08:45–09:30 | 24.04.2026–17.07.2026 | 20301.U1.038 (U1.038 Seminarraum (50)) |
 
 ### Ling BM-2: Tutorium (Nürnberg) - Übung
 
@@ -1195,7 +1237,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Fr | 13:15–14:00 | 24.04.2026–17.07.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
+| wöchentlich | Fr | 08:45–09:30 | 24.04.2026–17.07.2026 | 20301.U1.038 (U1.038 Seminarraum (50)) |
 
 ### Lit AM-G: Lilienweiß und Rosenrot - Erotik und Sexualität in mittelhochdeutscher Dichtung - Kolleg
 
@@ -1318,7 +1360,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133741&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:00–16:30 | 15.04.2026–15.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Lit AM-W: Die Wissenschaft vom Textverstehen (mittelalterliche Literatur) - Seminar
 
@@ -1327,7 +1376,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133741&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:00–16:30 | 15.04.2026–15.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Lit AM-W: Von der Leerstelle über den hermeneutischen Zirkel bis zum Tod des Autors. Grundlegende Konzepte der Literaturwissenschaft - Proseminar
 
@@ -1375,7 +1431,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 08:00–10:00 | 14.04.2026–14.07.2026 | 05801.01.210 ( B 301) |
+| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05801.01.210 ( B 301) |
 
 ### Lit BM: Grundlagen des wissenschaftl. Arbeitens in der Literaturwiss. (ER: für RS/BA/LA GYM)  - Einführungskurs
 
@@ -1391,7 +1447,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 08:00–10:00 | 14.04.2026–14.07.2026 | 05801.01.210 ( B 301) |
+| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05801.01.210 ( B 301) |
 
 ### Lit BM: Grundlagen des wissenschaftlichen Arbeitens (DIESER KURS FINDET NICHT STATT) - Einführungskurs
 
@@ -1496,7 +1552,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84449&periodId=589>
 
 - **Veranstaltungsart:** Sonstige Lehrveranstaltung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### M/SM: Bild und Text in illustrierten Handschriften des Mittelalters - Hauptseminar / Masterseminar
@@ -1506,7 +1561,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133745&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### M/SM: Bild und Text in illustrierten Handschriften des Mittelalters - Hauptseminar / Masterseminar
 
@@ -1515,7 +1577,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133745&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### M/SM: Bild und Text in illustrierten Handschriften des Mittelalters - Hauptseminar / Masterseminar
 
@@ -1524,7 +1593,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133745&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### M/SM: Bild und Text in illustrierten Handschriften des Mittelalters - Hauptseminar / Masterseminar
 
@@ -1533,7 +1609,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133745&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### M/SM: Bild und Text in illustrierten Handschriften des Mittelalters - Hauptseminar / Masterseminar
 
@@ -1542,7 +1625,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133745&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### M/SM: Bild und Text in illustrierten Handschriften des Mittelalters - Hauptseminar / Masterseminar
 
@@ -1551,7 +1641,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133745&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### M/SM: Bild und Text in illustrierten Handschriften des Mittelalters - Hauptseminar / Masterseminar
 
@@ -1560,7 +1657,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133745&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### M/SM: Bild und Text in illustrierten Handschriften des Mittelalters - Hauptseminar / Masterseminar
 
@@ -1569,7 +1673,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133745&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### M/SM: Bild und Text in illustrierten Handschriften des Mittelalters - Hauptseminar / Masterseminar
 
@@ -1578,7 +1689,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133745&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### M/SM: Bild und Text in illustrierten Handschriften des Mittelalters - Hauptseminar / Masterseminar
 
@@ -1587,7 +1705,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133745&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### M/SM: Bild und Text in illustrierten Handschriften des Mittelalters - Hauptseminar / Masterseminar
 
@@ -1596,7 +1721,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133745&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### M/SM: Bild und Text in illustrierten Handschriften des Mittelalters - Hauptseminar / Masterseminar
 
@@ -1605,7 +1737,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133745&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### M/SM: Klugheit und Weiblichkeit: Herrscherinnen, Ratgeberinnen und Mütter in der mittelalterlichen Literatur - Hauptseminar / Masterseminar
 
@@ -2074,7 +2213,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134230&periodId=589>
 
 - **Veranstaltungsart:** Oberseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| nach Vereinbarung | — | — | — | — |
 
 ### Med BM: Grundlagen der Germanistischen Mediävistik - Kurs
 
@@ -2090,7 +2236,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 10:00–13:00 | 13.04.2026–13.07.2026 | 05801.01.210 ( B 301) |
+| wöchentlich | Di | 10:00–13:00 | 14.04.2026–14.07.2026 | 05801.01.211 ( B 302) |
 
 ### Med BM: Grundlagen der Germanistischen Mediävistik - Kurs
 
@@ -2106,7 +2252,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 10:00–13:00 | 13.04.2026–13.07.2026 | 05801.01.210 ( B 301) |
+| wöchentlich | Di | 10:00–13:00 | 14.04.2026–14.07.2026 | 05801.01.211 ( B 302) |
 
 ### Med BM: Grundlagen der Germanistischen Mediävistik - Kurs
 
@@ -2122,7 +2268,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 10:00–13:00 | 13.04.2026–13.07.2026 | 05801.01.210 ( B 301) |
+| wöchentlich | Di | 10:00–13:00 | 14.04.2026–14.07.2026 | 05801.01.211 ( B 302) |
 
 ### Med BM: Grundlagen der Germanistischen Mediävistik - Kurs
 
@@ -2138,7 +2284,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 10:00–13:00 | 13.04.2026–13.07.2026 | 05801.01.210 ( B 301) |
+| wöchentlich | Di | 10:00–13:00 | 14.04.2026–14.07.2026 | 05801.01.211 ( B 302) |
 
 ### Med Finit: Übung zur Besprechung der BA-Arbeit (Glauch) - Übung
 
@@ -2375,7 +2521,19 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -2384,7 +2542,19 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -2393,7 +2563,19 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -2402,7 +2584,19 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -2411,7 +2605,19 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -2420,7 +2626,19 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -2429,7 +2647,19 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -2438,7 +2668,19 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -2447,7 +2689,19 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -2456,7 +2710,19 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -2465,7 +2731,19 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -2474,7 +2752,19 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Schön ist, Mutter Natur, deiner Erfindung Pracht. Naturlyrik von der Aufklärung bis ins Anthropozän - Hauptseminar
 
@@ -2611,7 +2901,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134143&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Utopien und Dystopien in Literatur, Kunst und Film (VM) - Hauptseminar
 
@@ -2620,7 +2917,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134143&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Utopien und Dystopien in Literatur, Kunst und Film (VM) - Hauptseminar
 
@@ -2629,7 +2933,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134143&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Utopien und Dystopien in Literatur, Kunst und Film (VM) - Hauptseminar
 
@@ -2638,7 +2949,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134143&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Utopien und Dystopien in Literatur, Kunst und Film (VM) - Hauptseminar
 
@@ -2647,7 +2965,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134143&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Utopien und Dystopien in Literatur, Kunst und Film (VM) - Hauptseminar
 
@@ -2656,7 +2981,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134143&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Utopien und Dystopien in Literatur, Kunst und Film (VM) - Hauptseminar
 
@@ -2665,7 +2997,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134143&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Utopien und Dystopien in Literatur, Kunst und Film (VM) - Hauptseminar
 
@@ -2674,7 +3013,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134143&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Utopien und Dystopien in Literatur, Kunst und Film (VM) - Hauptseminar
 
@@ -2683,7 +3029,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134143&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Utopien und Dystopien in Literatur, Kunst und Film (VM) - Hauptseminar
 
@@ -2692,7 +3045,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134143&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Vampirinnen als subversive Figuren von 1800 bis zur Gegenwart (Lit AM-L) - Seminar
 
@@ -2701,7 +3061,19 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134050&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–16:00 | 24.04.2026 | 05902.00.005 ( 00.5 PSG) |
+| Einzeltermin | Fr | 14:00–19:00 | 12.06.2026 | 05902.00.005 ( 00.5 PSG) |
+| Einzeltermin | Sa | 10:00–15:00 | 13.06.2026 | 05902.00.005 ( 00.5 PSG) |
+| Einzeltermin | Fr | 14:00–19:00 | 03.07.2026 | 05902.00.005 ( 00.5 PSG) |
+| Einzeltermin | Sa | 10:00–15:00 | 04.07.2026 | 05902.00.005 ( 00.5 PSG) |
+| Einzeltermin | Fr | 14:00–16:00 | 17.07.2026 | — |
 
 ### Vampirinnen als subversive Figuren von 1800 bis zur Gegenwart (Lit AM-L) - Seminar
 
@@ -2710,7 +3082,19 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134050&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–16:00 | 24.04.2026 | 05902.00.005 ( 00.5 PSG) |
+| Einzeltermin | Fr | 14:00–19:00 | 12.06.2026 | 05902.00.005 ( 00.5 PSG) |
+| Einzeltermin | Sa | 10:00–15:00 | 13.06.2026 | 05902.00.005 ( 00.5 PSG) |
+| Einzeltermin | Fr | 14:00–19:00 | 03.07.2026 | 05902.00.005 ( 00.5 PSG) |
+| Einzeltermin | Sa | 10:00–15:00 | 04.07.2026 | 05902.00.005 ( 00.5 PSG) |
+| Einzeltermin | Fr | 14:00–16:00 | 17.07.2026 | — |
 
 ### Vernunft, Gefühl und Gesellschaft. Literatur des 18. Jahrhunderts - Proseminar
 
@@ -2719,7 +3103,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133779&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 08:00–10:00 | 15.04.2026–15.07.2026 | 05801.01.210 ( B 301) |
 
 ### Vernunft, Gefühl und Gesellschaft. Literatur des 18. Jahrhunderts - Proseminar
 
@@ -2728,7 +3119,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133779&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 08:00–10:00 | 15.04.2026–15.07.2026 | 05801.01.210 ( B 301) |
 
 ### VL Anfänge der Märchendichtung - 17. bis frühes 19. Jahrhundert - Vorlesung
 
@@ -3507,18 +3905,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18227|exam:14906948|exam:14907095>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107718&periodId=589>
 
-### 77353 Aufbaumodul Linguistik BA (Ling AM)
-
-- **Segment:** `exam:14905306` · **unitId:** `46471`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18227|exam:14903415|exam:14905306>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46471&periodId=589>
-
-### 77353 Aufbaumodul Linguistik BA (Ling AM)
-
-- **Segment:** `exam:14908947` · **unitId:** `46471`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18227|exam:14908722|exam:14908947>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46471&periodId=589>
-
 ### 77355 Aufbaumodul Linguistik 1 (Ling AM-1)
 
 - **Segment:** `exam:14901662` · **unitId:** `107764`
@@ -3563,8 +3949,44 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### Ling AM-2 - Ling AM-2: Seminar Linguistik - Seminar
 
+- **Segment:** `exam:17816178` · **unitId:** `82593`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18227|exam:14903415|exam:14905306|exam:17816178>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82593&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | 05801.01.210 ( B 301) |
+| Einzeltermin | Mi | 16:00–18:00 | 20.05.2026 | — |
+
+### Ling AM-2 - Ling AM-2: Seminar Linguistik - Seminar
+
 - **Segment:** `exam:14907122` · **unitId:** `82593`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18227|exam:14906948|exam:14907116|exam:14907122>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82593&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | 05801.01.210 ( B 301) |
+| Einzeltermin | Mi | 16:00–18:00 | 20.05.2026 | — |
+
+### Ling AM-2 - Ling AM-2: Seminar Linguistik - Seminar
+
+- **Segment:** `exam:17816179` · **unitId:** `82593`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18227|exam:14908722|exam:14908947|exam:17816179>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82593&periodId=589>
 
 - **Veranstaltungsart:** Seminar
@@ -3597,8 +4019,40 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### Ling AM-2 - Ling AM-2: Wortbildung der deutschen Gegenwartssprache - Seminar
 
+- **Segment:** `exam:17816238` · **unitId:** `109968`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18227|exam:14903415|exam:14905306|exam:17816238>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=109968&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 08:30–10:00 | 13.04.2026–13.07.2026 | 05902.00.015 ( 00.15 PSG) |
+
+### Ling AM-2 - Ling AM-2: Wortbildung der deutschen Gegenwartssprache - Seminar
+
 - **Segment:** `exam:14907121` · **unitId:** `109968`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18227|exam:14906948|exam:14907116|exam:14907121>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=109968&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 08:30–10:00 | 13.04.2026–13.07.2026 | 05902.00.015 ( 00.15 PSG) |
+
+### Ling AM-2 - Ling AM-2: Wortbildung der deutschen Gegenwartssprache - Seminar
+
+- **Segment:** `exam:17816239` · **unitId:** `109968`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18227|exam:14908722|exam:14908947|exam:17816239>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=109968&periodId=589>
 
 - **Veranstaltungsart:** Seminar
@@ -3911,7 +4365,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 05801.01.211 ( B 302) |
 
-### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA und LA Gym) - Hauptseminar
+### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA, LA Gym, WiPäd, DiDaZ) - Hauptseminar
 
 - **Segment:** `exam:14901744` · **unitId:** `103936`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18227|exam:14899957|exam:14901738|exam:14901744>
@@ -3927,7 +4381,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 05902.00.004 ( 00.4 PSG) 05801.00.318 ( C 203) |
 
-### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA und LA Gym) - Hauptseminar
+### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA, LA Gym, WiPäd, DiDaZ) - Hauptseminar
 
 - **Segment:** `exam:14905105` · **unitId:** `103936`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18227|exam:14903415|exam:14905096|exam:14905105>
@@ -3943,7 +4397,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 05902.00.004 ( 00.4 PSG) 05801.00.318 ( C 203) |
 
-### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA und LA Gym) - Hauptseminar
+### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA, LA Gym, WiPäd, DiDaZ) - Hauptseminar
 
 - **Segment:** `exam:14906965` · **unitId:** `103936`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18227|exam:14906948|exam:14906959|exam:14906965>
@@ -3959,7 +4413,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 05902.00.004 ( 00.4 PSG) 05801.00.318 ( C 203) |
 
-### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA und LA Gym) - Hauptseminar
+### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA, LA Gym, WiPäd, DiDaZ) - Hauptseminar
 
 - **Segment:** `exam:14908749` · **unitId:** `103936`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18227|exam:14908722|exam:14908740|exam:14908749>
@@ -3998,7 +4452,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103826&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
 
 ### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Nürnberg, nur für LA GS, MS, RS, Berufl. Schulen) - Hauptseminar
 
@@ -4007,7 +4468,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103826&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
 
 ### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Nürnberg, nur für LA GS, MS, RS, Berufl. Schulen) - Hauptseminar
 
@@ -4048,7 +4516,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103826&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
 
 ### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Nürnberg, nur für LA GS, MS, RS, Berufl. Schulen) - Hauptseminar
 
@@ -4057,7 +4532,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103826&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
 
 ### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Nürnberg, nur für LA GS, MS, RS, Berufl. Schulen) - Hauptseminar
 
@@ -4542,7 +5024,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99011&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:15–15:45 | 20.04.2026–13.07.2026 | 05801.01.211 ( B 302) |
 
 ### M-LingHist - M-LingHist - UE zum HS: Historische Linguistik und Sprachwandel - Übung
 
@@ -4551,7 +5040,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99011&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:15–15:45 | 20.04.2026–13.07.2026 | 05801.01.211 ( B 302) |
 
 ### M-LingMeth - M-LingMeth - HS: Methoden der Linguistik - empirisch, formal und computergestützt - Kurs
 
@@ -4897,7 +5393,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (287)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (244)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -4918,7 +5414,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Mo | 16:00–18:00 | 20.04.2026–13.07.2026 | 00901.00.027 (Orangerie - Mediathek/Seminarraum) |
 | Blockveranstaltung | — | 10:00–17:00 | 27.05.2026–28.05.2026 | — |
 
-### "Far stupire il mondo" - Veit Stoß und die Skulptur der Dürerzeit in Nürnberg — Vorlesung
+### "Fare stupire il mondo" - Veit Stoß und die Skulptur der Dürerzeit in Nürnberg — Vorlesung
 
 - **Segment:** `unit:138362` · **unitId:** `138362`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138362&periodId=589>
@@ -4968,14 +5464,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 05901.U1.056 ( U1.056 (1.046)) |
 
-### (Schul)kanon und Kinder- und Jugendliteratur (Nürnberg: nur GS/MS/RS/Berufl.Schulen) — Seminar
-
-- **Segment:** `unit:123938` · **unitId:** `123938`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123938&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
 ### (UE) Museumsübung
 
 - **Segment:** `unit:98574` · **unitId:** `98574`
@@ -4993,24 +5481,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Einzelunterricht
 
-### Abbild - Selbstbild. Schlüsselwerke der Porträtmalerei vom 16. Jahrhundert bis zum 20. Jahrhundert — Aufbauseminar
-
-- **Segment:** `unit:117418` · **unitId:** `117418`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117418&periodId=589>
-
-- **Veranstaltungsart:** Aufbauseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
-### Altarwerke der altniederländischen Malerei — Aufbauseminar
-
-- **Segment:** `unit:124830` · **unitId:** `124830`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124830&periodId=589>
-
-- **Veranstaltungsart:** Aufbauseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
 ### Altdorfer, Breu, Cranach. Avantgarde im Donauraum? — Ober- und Hauptseminar
 
 - **Segment:** `unit:111186` · **unitId:** `111186`
@@ -5019,13 +5489,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Ober- und Hauptseminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
-
-### AM: — Seminar
-
-- **Segment:** `unit:113518` · **unitId:** `113518`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113518&periodId=589>
-
-- **Veranstaltungsart:** Seminar
 
 ### AM: Wiener Moderne — Seminar
 
@@ -5138,7 +5601,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 18:15–19:45 | 16.04.2026–16.07.2026 | 08901.00.112 ( 00.112 Seminarraum 2) |
 
 ### BA-4 Modernes Chinesisch: Hören und Sprechen (Übung)
 
@@ -5148,6 +5618,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 08901.00.111 ( 00.111 Seminarraum 1) |
 
 ### BA-5 Modernes Chinesisch: Grammatische Strukturen — Übung
 
@@ -5264,7 +5740,16 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 56701.02.036 (Mo - Fr 8:00 - 20:00 Uhr Romanistik) |
+| Einzeltermin | Fr | 15:15–16:45 | 17.07.2026 | 56701.02.036 (Mo - Fr 8:00 - 20:00 Uhr Romanistik) |
+| Einzeltermin | Do | 10:15–11:45 | 23.07.2026 | 56701.02.014 ( 02.014) |
 
 ### Bauen am Bauhaus — Aufbauseminar
 
@@ -5384,6 +5869,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 3.0
 - **Turnus:** nur im Sommersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:15–15:45 | 21.04.2026–14.07.2026 | 05701.00.010 ( 00.010 Übungsraum 1) |
+
 ### Cultura e civiltà II — Übung
 
 - **Segment:** `unit:89518` · **unitId:** `89518`
@@ -5399,15 +5890,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111358&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
-### Das gute Leben! Künste und Kulturen der ,Lebensreform' um 1900 — Aufbauseminar
-
-- **Segment:** `unit:127214` · **unitId:** `127214`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127214&periodId=589>
-
-- **Veranstaltungsart:** Aufbauseminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
@@ -5428,13 +5910,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Oberseminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
-
-### Das Wissen der Literatur: Ansätze, Kontexte, Perspektiven (neuer BA: Lit AM-W) — Seminar
-
-- **Segment:** `unit:126333` · **unitId:** `126333`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126333&periodId=589>
-
-- **Veranstaltungsart:** Seminar
 
 ### Der Inkle und Yariko-Stoff im 18. Jahrhundert (Lit AM-L) — Seminar
 
@@ -5481,29 +5956,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
-### Die Überzeugungskraft der Bilder. Kunst des 15. Jahrhunderts im Germanischen Nationalmuseum — Aufbauseminar
-
-- **Segment:** `unit:105951` · **unitId:** `105951`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=105951&periodId=589>
-
-- **Veranstaltungsart:** Aufbauseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
-### Dramatik der Gegenwart — Hauptseminar
-
-- **Segment:** `unit:121943` · **unitId:** `121943`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121943&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-
-### Dramen der Gegenwart (Lit AM-L) — Seminar
-
-- **Segment:** `unit:126406` · **unitId:** `126406`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126406&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-
 ### Dürer + der Aztekenschatz: Wahrnehmungsformen außereuropäischer Kulturen in der Renaissance — Vorlesung
 
 - **Segment:** `unit:119843` · **unitId:** `119843`
@@ -5529,22 +5981,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | — |
 
-### Dürer als Universalkünstler - Teil II — Ober- und Hauptseminar
-
-- **Segment:** `unit:138353` · **unitId:** `138353`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138353&periodId=589>
-
-- **Veranstaltungsart:** Ober- und Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
-### E.T.A. Hoffmanns Schauerroman "Die Elixiere des Teufels" (Nürnberg: für LA GS/MS/RS) (VM NdL-1/VM NdL-2) — Hauptseminar
-
-- **Segment:** `unit:137869` · **unitId:** `137869`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137869&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-
 ### Ein kurtzweilig Lesen von Dil Ulenspiegel — Seminar
 
 - **Segment:** `unit:118755` · **unitId:** `118755`
@@ -5558,15 +5994,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127216&periodId=589>
 
 - **Veranstaltungsart:** Ober- und Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
-### Einführung in die Barockarchitektur: Architekten - Bauaufgaben - Auftraggeber — Aufbauseminar
-
-- **Segment:** `unit:111188` · **unitId:** `111188`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111188&periodId=589>
-
-- **Veranstaltungsart:** Aufbauseminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
@@ -5586,12 +6013,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Praxisseminar
 
-### Epochen im Überblick vom Barock bis zur Gegenwart (Lit AM-G) (Erlangen für BA/LA GY/RS) — Kolleg
+### Erzähltexte von 1945-60 — Seminar und Übung
 
-- **Segment:** `unit:137843` · **unitId:** `137843`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137843&periodId=589>
+- **Segment:** `unit:137792` · **unitId:** `137792`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137792&periodId=589>
 
-- **Veranstaltungsart:** Kolleg
+- **Veranstaltungsart:** Seminar und Übung
 
 ### Esercitazioni di espressione orale — Übung
 
@@ -5600,7 +6027,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | 05701.00.010 ( 00.010 Übungsraum 1) |
 
 ### Esercitazioni di fonetica pratica PronunciAmo (Blended Learning Kurs) — Übung
 
@@ -5625,15 +6059,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | — | — | — |
 
-### Fanfiction: Zugänge der digitalen Literaturwissenschaft — Seminar
-
-- **Segment:** `unit:123805` · **unitId:** `123805`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123805&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
 ### Feminismus?! Ästhetik und Theorie der Geschlechterdifferenz im Kunstfeld — Vorlesung
 
 - **Segment:** `unit:122856` · **unitId:** `122856`
@@ -5647,15 +6072,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:122849` · **unitId:** `122849`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122849&periodId=589>
-
-- **Veranstaltungsart:** Ober- und Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
-### Fettecke und Lumpenvenus: "Schmutzige" Materialien (in) der Kunst seit 1960 — Ober- und Hauptseminar
-
-- **Segment:** `unit:119846` · **unitId:** `119846`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119846&periodId=589>
 
 - **Veranstaltungsart:** Ober- und Hauptseminar
 - **ECTS-Punkte:** 5.0
@@ -5676,27 +6092,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | 14-täglich | Do | 12:15–13:45 | 16.04.2026–09.07.2026 | 05701.00.010 ( 00.010 Übungsraum 1) |
-
-### Forschungsprojekt in Kooperation mit der Deutschen Nationalbibliothek: Raubdrucke der 1968er Studentenbewegung — Praktikum
-
-- **Segment:** `unit:127171` · **unitId:** `127171`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127171&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-
-### Forschungsprojekt „Schwarzer Markt für rote Bücher. Raubdrucke der 1968er“ in Kooperation mit der DNB Leipzig — Projektseminar
-
-- **Segment:** `unit:132139` · **unitId:** `132139`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132139&periodId=589>
-
-- **Veranstaltungsart:** Projektseminar
-
-### Forschungsprojekt „Schwarzer Markt für rote Bücher. Raubdrucke der 1968er“ in Kooperation mit der DNB Leipzig — Praktikum
-
-- **Segment:** `unit:137793` · **unitId:** `137793`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137793&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
 
 ### Frauen als Auftraggeberinnen in der Frühen Neuzeit: Malerei - Skulptur - Architektur — Seminar
 
@@ -5744,13 +6139,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | — | — | — |
 
-### Gender, Literature and the Public Sphere (Seminar in englischer Sprache) (Master) — Hauptseminar
-
-- **Segment:** `unit:118967` · **unitId:** `118967`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118967&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-
 ### Genres der digitalen Literatur — Seminar
 
 - **Segment:** `unit:131963` · **unitId:** `131963`
@@ -5786,37 +6174,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mi | Mi | — | 07.06.2026 23:59:59 | — |
 
-### Globale Literatur? Die Entwicklung des 'Öko-Krimis' seit dem 19. Jahrhundert — Hauptseminar
-
-- **Segment:** `unit:105548` · **unitId:** `105548`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=105548&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** nur im Wintersemester
-
-### Globale Literatur? Die Entwicklung des 'Öko-Krimis' seit dem 19. Jahrhundert! — Hauptseminar
-
-- **Segment:** `unit:90696` · **unitId:** `90696`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90696&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** nur im Sommersemester
-
 ### Goethe im Kontext: Wahlverwandtschaften und Wissenschaftsreflexion (Lit AM-W) — Seminar
 
 - **Segment:** `unit:118789` · **unitId:** `118789`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118789&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
-### Gotische Skulptur in Frankreich — Aufbauseminar
-
-- **Segment:** `unit:123004` · **unitId:** `123004`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123004&periodId=589>
-
-- **Veranstaltungsart:** Aufbauseminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
@@ -6004,7 +6367,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Ober- und Hauptseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
 
 ### Hans Baldung Grien — Ober- und Hauptseminar
 
@@ -6014,14 +6384,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Ober- und Hauptseminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
-
-### Hauptseminar (MA Literaturstudien)
-
-- **Segment:** `unit:116094` · **unitId:** `116094`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116094&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** nur im Wintersemester
 
 ### Hauptseminar Mediävistik
 
@@ -6047,22 +6409,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **Turnus:** Unregelmäßig
 
-### Hauptseminar Mediävistik
-
-- **Segment:** `unit:121816` · **unitId:** `121816`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121816&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
-
-### Hauptseminar Mediävistik und Examenskurs
-
-- **Segment:** `unit:110017` · **unitId:** `110017`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110017&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-
 ### Hauptseminar Mediävistik und Examenskurs: Märendichtung / Novellistik
 
 - **Segment:** `unit:137698` · **unitId:** `137698`
@@ -6079,20 +6425,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
-
-### HS /Ü: Adam Olearius und die Wunderkammer von Schloss Gottorf (mit Exkursion) — Seminar und Übung
-
-- **Segment:** `unit:130309` · **unitId:** `130309`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130309&periodId=589>
-
-- **Veranstaltungsart:** Seminar und Übung
-
-### HS Komödie (17. bis  19. Jahrhundert) — Hauptseminar
-
-- **Segment:** `unit:115136` · **unitId:** `115136`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115136&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
 
 ### HS/Ü Schwarzer Markt für rote Bücher — Hauptseminar
 
@@ -6128,20 +6460,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126417&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
-
-### HS/Ü: Ulrike Draesner: Science & Poetry Lab Die Vorbereitung eines Romans zu Emmy Noether, Romantrilogie zu Flucht und Vertreibung — Seminar und Übung
-
-- **Segment:** `unit:130838` · **unitId:** `130838`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130838&periodId=589>
-
-- **Veranstaltungsart:** Seminar und Übung
-
-### Innen wie außen. Apps zu historischen Bauten — Seminar
-
-- **Segment:** `unit:120506` · **unitId:** `120506`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120506&periodId=589>
-
-- **Veranstaltungsart:** Seminar
 
 ### Interdisziplinäre Mediävistik
 
@@ -6306,7 +6624,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 18:00–19:30 | 22.04.2026–15.07.2026 | — |
 
 ### Kinder- und Hausmärchen digital: Quellen, Analysen, theoretische Zugänge — Seminar
 
@@ -6323,13 +6648,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130313&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-
-### Kino, Konsum und Massenkultur: Siegfried Kracauer und die 1920er Jahre — Hauptseminar
-
-- **Segment:** `unit:132876` · **unitId:** `132876`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132876&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
 
 ### Kirchner und der Expressionismus — Ober- und Hauptseminar
 
@@ -6353,14 +6671,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | 15:00–18:00 | 07.06.2026 23:59:59 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
-
-### Kohletexte. Literatur und Energie in der Gegenwart — Seminar
-
-- **Segment:** `unit:110450` · **unitId:** `110450`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110450&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nicht in diesem Semester
 
 ### Komparatistik
 
@@ -6545,8 +6855,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -6590,22 +6900,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### Ling AM-1: Syntax der deutschen Gegenwartssprache (nur für LA GS, MS, RS und Berufliche Schulen) — Seminar
-
-- **Segment:** `unit:83476` · **unitId:** `83476`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83476&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Ling AM-1: Tutorium "Syntax der deutschen Gegenwartssprache" (Erlangen)
-
-- **Segment:** `unit:116786` · **unitId:** `116786`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116786&periodId=589>
-
-- **Veranstaltungsart:** Tutorium
-
 ### Ling AM-2: Seminar Linguistik
 
 - **Segment:** `unit:89742` · **unitId:** `89742`
@@ -6623,22 +6917,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** in jedem Semester
-
-### Ling AM-2: Seminar Linguistik
-
-- **Segment:** `unit:106655` · **unitId:** `106655`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106655&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
-
-### Ling AM: Briefe von Psychiatriepatienten aus soziolinguistischer Perspektive — Seminar
-
-- **Segment:** `unit:118633` · **unitId:** `118633`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118633&periodId=589>
-
-- **Veranstaltungsart:** Seminar
 
 ### Ling BM-1: Einführung in die germanistische  Linguistik (Erlangen, geöffnet für alle Studiengänge) — Einführungskurs
 
@@ -6726,32 +7004,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Kolleg
 - **Turnus:** in jedem Semester
 
-### Lit AM (alter BA): Gender Studies und Literaturwissenschaft — Proseminar
-
-- **Segment:** `unit:115211` · **unitId:** `115211`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115211&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-
-### Lit AM-G: "Die Welt ist ein Dorf, oder: Heinrich Wittenwilers 'Der Ring'" — Seminar
-
-- **Segment:** `unit:125928` · **unitId:** `125928`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125928&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-
 ### Lit AM-L (Nürnberg: GS/MS/RS/Berufl. S.) — Seminar
 
 - **Segment:** `unit:129870` · **unitId:** `129870`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=129870&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
-### Lit AM-L (Nürnberg: GS/MS/RS/Berufl. S.): Nibelungenlied — Seminar
-
-- **Segment:** `unit:137578` · **unitId:** `137578`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137578&periodId=589>
 
 - **Veranstaltungsart:** Seminar
 - **Turnus:** in jedem Semester
@@ -6778,27 +7034,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 
+### Lit AM-L: Aufbaumodul Literatur, Lektüren und Kontexte — Proseminar
+
+- **Segment:** `unit:137580` · **unitId:** `137580`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137580&periodId=589>
+
+- **Veranstaltungsart:** Proseminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** in jedem Semester
+
 ### Lit AM-L: Die interkulturelle Dimension von Goethes West-östlichem Divan — Proseminar
 
 - **Segment:** `unit:115209` · **unitId:** `115209`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115209&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
-
-### Lit AM-L: Die Sprache der Tiere im Mittelalter — Seminar
-
-- **Segment:** `unit:110055` · **unitId:** `110055`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110055&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-
-### Lit AM-L: Ecken und Kanten. Provokantes und Irritierendes in mittelalterlicher Dichtung — Seminar
-
-- **Segment:** `unit:129871` · **unitId:** `129871`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=129871&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
 
 ### Lit AM-L: Fragile Figuren oder heroische Heldenbilder? Das Nibelungenlied — Seminar
 
@@ -6994,14 +7244,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Masterseminar
 - **Turnus:** nur im Sommersemester
 
-### Master Lektüremodul — Sonstige Lehrveranstaltung
-
-- **Segment:** `unit:95863` · **unitId:** `95863`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95863&periodId=589>
-
-- **Veranstaltungsart:** Sonstige Lehrveranstaltung
-- **Turnus:** nur im Wintersemester
-
 ### Med AM-Mhd: Aufbaumodul Mittelhochdeutsch — Aufbauseminar
 
 - **Segment:** `unit:88038` · **unitId:** `88038`
@@ -7044,15 +7286,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Kurs
 
-### Mensch - Natur - Kunst: Welt-Bilder und Gegen-Welten — Ober- und Hauptseminar
-
-- **Segment:** `unit:122847` · **unitId:** `122847`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122847&periodId=589>
-
-- **Veranstaltungsart:** Ober- und Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
 ### Metaphern: Linguistische und literaturwissenschaftliche Perspektiven — Hauptseminar
 
 - **Segment:** `unit:118769` · **unitId:** `118769`
@@ -7074,15 +7307,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | — | — | — |
 
-### Methoden, Theorien und Werkzeuge der digitalen Provenienzforschung — Seminar
-
-- **Segment:** `unit:138405` · **unitId:** `138405`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138405&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
 ### Modernes Chinesisch: Grammatische Strukturen
 
 - **Segment:** `unit:53624` · **unitId:** `53624`
@@ -7096,15 +7320,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | 10:00–12:00 | 07.06.2026 23:59:59 | — |
-
-### Museen verstehen: Architektur - Ausstellung - Ausstattung — Vorlesung
-
-- **Segment:** `unit:115790` · **unitId:** `115790`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115790&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
 
 ### Mündliche Prüfung zu Modernes Chinesisch: Hören und Sprechen
 
@@ -7205,6 +7420,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Di | Di | — | — | — |
 
+### Otfried Preußler (Nürnberg: für LA GS/MS/RS) — Hauptseminar
+
+- **Segment:** `unit:137790` · **unitId:** `137790`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137790&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
+
 ### Peter Paul Rubens — Aufbauseminar
 
 - **Segment:** `unit:133860` · **unitId:** `133860`
@@ -7295,6 +7517,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Di | Di | — | — | — |
+
+### Raumtheoretische Zugänge zur Literatur (Erlangen für MA/BA/LA GY/RS) — Seminar und Übung
+
+- **Segment:** `unit:137788` · **unitId:** `137788`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137788&periodId=589>
+
+- **Veranstaltungsart:** Seminar und Übung
 
 ### Referat und Hausarbeit zu Historische Linguistik und Sprachwandel
 
@@ -7387,14 +7616,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Ober- und Hauptseminar
 - **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
-### Renaissance in Florenz: Giorgio Vasari und seine Künstlerviten — Aufbauseminar
-
-- **Segment:** `unit:126699` · **unitId:** `126699`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126699&periodId=589>
-
-- **Veranstaltungsart:** Aufbauseminar
 - **Turnus:** Unregelmäßig
 
 ### Romanische Portale in Frankreich — Aufbauseminar
@@ -7596,7 +7817,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 10:00–17:00 | 22.09.2026–25.09.2026 | — |
 
 ### Textile Moderne: Stoffe, Fäden, Netze und was sie für die Kunst bedeuten — Aufbauseminar
 
@@ -7646,7 +7874,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Ober- und Hauptseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:00–16:00 | 13.04.2026–13.07.2026 | 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
 
 ### UE Mediävistik: Heiliges Land: Jerusalem und seine Umgebung in der Wahrnehmung des Mittelalters und der frühen Neuzeit — Übung
 
@@ -7672,14 +7907,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 3.0
 - **Turnus:** nur im Wintersemester
-
-### Unreliable Narrators / Unzuverlässige Erzähler in Literatur und Film — Hauptseminar
-
-- **Segment:** `unit:101974` · **unitId:** `101974`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101974&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** in jedem Semester
 
 ### Variationen des Phantastischen in der Gegenwart: Fantasy, Science Fiction, Horror — Hauptseminar
 
@@ -7762,13 +7989,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121866&periodId=589>
 
 - **Veranstaltungsart:** Übung
-
-### Übung Mediävistik: Berühmte Beispielgeschichten - aus der Welt der Bibel und der Bibel der Welt — Kolleg
-
-- **Segment:** `unit:137701` · **unitId:** `137701`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137701&periodId=589>
-
-- **Veranstaltungsart:** Kolleg
 
 ### Übung Mediävistik: Deutsche und französische Liederhandschriften
 

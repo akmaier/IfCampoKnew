@@ -183,7 +183,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 6.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 08:00–10:00 | 13.04.2026–13.07.2026 | 12801.01.210 (H11) |
+| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 12801.01.210 (H11) |
 
 ### Analysis II - Vorlesung
 
@@ -193,7 +201,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 6.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 08:00–10:00 | 13.04.2026–13.07.2026 | 12801.01.210 (H11) |
+| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 12801.01.210 (H11) |
 
 ### Analysis II - Vorlesung
 
@@ -203,7 +219,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 6.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 08:00–10:00 | 13.04.2026–13.07.2026 | 12801.01.210 (H11) |
+| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 12801.01.210 (H11) |
 
 ### Bachelorseminar "Kryptographie" - Hauptseminar
 
@@ -298,7 +322,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 10:15–11:15 | 10.04.2026 | 12801.01.251 (Übung 2 / 01.251-128) |
+| wöchentlich | Mo | 14:00–16:00 | 13.04.2026–13.07.2026 | 12801.04.363 (04.363 Seminarraum Mathematik) |
 
 ### Differentialgleichungsmodelle (Analysis und Numerik) - Seminar
 
@@ -308,7 +340,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 10:15–11:15 | 10.04.2026 | 12801.01.251 (Übung 2 / 01.251-128) |
+| wöchentlich | Mo | 14:00–16:00 | 13.04.2026–13.07.2026 | 12801.04.363 (04.363 Seminarraum Mathematik) |
 
 ### Differentialgleichungsmodelle (Analysis und Numerik) - Seminar
 
@@ -318,7 +358,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 10:15–11:15 | 10.04.2026 | 12801.01.251 (Übung 2 / 01.251-128) |
+| wöchentlich | Mo | 14:00–16:00 | 13.04.2026–13.07.2026 | 12801.04.363 (04.363 Seminarraum Mathematik) |
 
 ### Differentialgleichungsmodelle (Analysis und Numerik) - Seminar
 
@@ -328,7 +376,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 10:15–11:15 | 10.04.2026 | 12801.01.251 (Übung 2 / 01.251-128) |
+| wöchentlich | Mo | 14:00–16:00 | 13.04.2026–13.07.2026 | 12801.04.363 (04.363 Seminarraum Mathematik) |
 
 ### Differentialgleichungsmodelle (Analysis und Numerik) - Seminar
 
@@ -338,7 +394,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 10:15–11:15 | 10.04.2026 | 12801.01.251 (Übung 2 / 01.251-128) |
+| wöchentlich | Mo | 14:00–16:00 | 13.04.2026–13.07.2026 | 12801.04.363 (04.363 Seminarraum Mathematik) |
 
 ### Diskretisierung und numerische Optimierung (Querschnittmodul) - Vorlesung
 
@@ -348,7 +412,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 7.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 12801.01.253 (Übung 4 / 01.253-128) |
+| wöchentlich | Mi | 12:00–14:00 | 15.04.2026–15.07.2026 | 12801.01.253 (Übung 4 / 01.253-128) |
+| Einzeltermin | Mi | 09:00–10:00 | 23.09.2026 | 12801.01.252 (Übung 3 / 01.252-128) |
 
 ### Diskretisierung und numerische Optimierung (Querschnittmodul) - Vorlesung
 
@@ -358,7 +431,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 7.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 12801.01.253 (Übung 4 / 01.253-128) |
+| wöchentlich | Mi | 12:00–14:00 | 15.04.2026–15.07.2026 | 12801.01.253 (Übung 4 / 01.253-128) |
+| Einzeltermin | Mi | 09:00–10:00 | 23.09.2026 | 12801.01.252 (Übung 3 / 01.252-128) |
 
 ### Diskretisierung und numerische Optimierung (Querschnittmodul) - Vorlesung
 
@@ -368,7 +450,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 7.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 12801.01.253 (Übung 4 / 01.253-128) |
+| wöchentlich | Mi | 12:00–14:00 | 15.04.2026–15.07.2026 | 12801.01.253 (Übung 4 / 01.253-128) |
+| Einzeltermin | Mi | 09:00–10:00 | 23.09.2026 | 12801.01.252 (Übung 3 / 01.252-128) |
 
 ### Diskretisierung und numerische Optimierung (Querschnittmodul) - Vorlesung
 
@@ -378,7 +469,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 7.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 12801.01.253 (Übung 4 / 01.253-128) |
+| wöchentlich | Mi | 12:00–14:00 | 15.04.2026–15.07.2026 | 12801.01.253 (Übung 4 / 01.253-128) |
+| Einzeltermin | Mi | 09:00–10:00 | 23.09.2026 | 12801.01.252 (Übung 3 / 01.252-128) |
 
 ### Einführung in die Algorithmik - Übung - Übung
 
@@ -629,7 +729,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 6.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:00–14:00 | 15.04.2026–15.07.2026 | 12801.01.210 (H11) |
+| wöchentlich | Fr | 12:00–14:00 | 17.04.2026–17.07.2026 | 12801.01.210 (H11) |
+| Einzeltermin | Di | 08:00–10:00 | 28.07.2026 | 12801.01.230 (H13 Johann-Radon-Hörsaal) |
 
 ### Lineare Algebra II - Vorlesung
 
@@ -639,7 +748,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 6.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:00–14:00 | 15.04.2026–15.07.2026 | 12801.01.210 (H11) |
+| wöchentlich | Fr | 12:00–14:00 | 17.04.2026–17.07.2026 | 12801.01.210 (H11) |
+| Einzeltermin | Di | 08:00–10:00 | 28.07.2026 | 12801.01.230 (H13 Johann-Radon-Hörsaal) |
 
 ### Lineare Algebra II - Vorlesung
 
@@ -649,7 +767,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 6.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:00–14:00 | 15.04.2026–15.07.2026 | 12801.01.210 (H11) |
+| wöchentlich | Fr | 12:00–14:00 | 17.04.2026–17.07.2026 | 12801.01.210 (H11) |
+| Einzeltermin | Di | 08:00–10:00 | 28.07.2026 | 12801.01.230 (H13 Johann-Radon-Hörsaal) |
 
 ### Lineare und nichtlineare Systeme (Querschnittmodul) - Vorlesung mit Übung
 
@@ -659,7 +786,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
+| wöchentlich | Do | 16:00–18:00 | 16.04.2026–16.07.2026 | 12801.01.253 (Übung 4 / 01.253-128) |
 
 ### Lineare und nichtlineare Systeme (Querschnittmodul) - Vorlesung mit Übung
 
@@ -669,7 +804,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
+| wöchentlich | Do | 16:00–18:00 | 16.04.2026–16.07.2026 | 12801.01.253 (Übung 4 / 01.253-128) |
 
 ### Lineare und nichtlineare Systeme (Querschnittmodul) - Vorlesung mit Übung
 
@@ -679,7 +822,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
+| wöchentlich | Do | 16:00–18:00 | 16.04.2026–16.07.2026 | 12801.01.253 (Übung 4 / 01.253-128) |
 
 ### Lineare und nichtlineare Systeme (Querschnittmodul) - Vorlesung mit Übung
 
@@ -689,7 +840,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
+| wöchentlich | Do | 16:00–18:00 | 16.04.2026–16.07.2026 | 12801.01.253 (Übung 4 / 01.253-128) |
 
 ### Modulformen - Seminar
 
@@ -863,7 +1022,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 12801.01.250 (Übung 1 / 01.250-128) |
 
 ### Seminar - Hauptseminar
 
@@ -873,7 +1039,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 12801.01.250 (Übung 1 / 01.250-128) |
 
 ### Seminar - Hauptseminar
 
@@ -883,7 +1056,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 12801.01.250 (Übung 1 / 01.250-128) |
 
 ### Seminar - Hauptseminar
 
@@ -893,7 +1073,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 12801.01.250 (Übung 1 / 01.250-128) |
 
 ### Seminar - Hauptseminar
 
@@ -903,7 +1090,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 12801.01.250 (Übung 1 / 01.250-128) |
 
 ### Seminar Applied Analysis - t.b.a. - Hauptseminar / Masterseminar
 
@@ -949,7 +1143,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:00–14:00 | 13.04.2026–13.07.2026 | 12801.01.251 (Übung 2 / 01.251-128) |
 
 ### Seminar Markovketten - Seminar
 
@@ -959,7 +1160,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:00–14:00 | 13.04.2026–13.07.2026 | 12801.01.251 (Übung 2 / 01.251-128) |
 
 ### Seminar Markovketten - Seminar
 
@@ -969,7 +1177,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:00–14:00 | 13.04.2026–13.07.2026 | 12801.01.251 (Übung 2 / 01.251-128) |
 
 ### Seminar Markovketten - Seminar
 
@@ -979,7 +1194,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:00–14:00 | 13.04.2026–13.07.2026 | 12801.01.251 (Übung 2 / 01.251-128) |
 
 ### Seminar Markovketten - Seminar
 
@@ -989,7 +1211,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:00–14:00 | 13.04.2026–13.07.2026 | 12801.01.251 (Übung 2 / 01.251-128) |
 
 ### Seminar Zahlentheorie - Seminar
 
@@ -1185,7 +1414,18 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127181&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
+| Einzeltermin | Mi | 14:00–18:00 | 24.06.2026 | 12801.01.252 (Übung 3 / 01.252-128) |
+| Einzeltermin | Mi | 14:00–18:00 | 01.07.2026 | 12801.01.252 (Übung 3 / 01.252-128) |
+| Einzeltermin | Mi | 14:00–18:00 | 08.07.2026 | 12801.01.252 (Übung 3 / 01.252-128) |
+| Einzeltermin | Mi | 14:00–18:00 | 15.07.2026 | 12801.01.252 (Übung 3 / 01.252-128) |
 
 ### Seminar über reelle Funktionen - Seminar
 
@@ -1194,7 +1434,18 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127181&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
+| Einzeltermin | Mi | 14:00–18:00 | 24.06.2026 | 12801.01.252 (Übung 3 / 01.252-128) |
+| Einzeltermin | Mi | 14:00–18:00 | 01.07.2026 | 12801.01.252 (Übung 3 / 01.252-128) |
+| Einzeltermin | Mi | 14:00–18:00 | 08.07.2026 | 12801.01.252 (Übung 3 / 01.252-128) |
+| Einzeltermin | Mi | 14:00–18:00 | 15.07.2026 | 12801.01.252 (Übung 3 / 01.252-128) |
 
 ### Seminar über reelle Funktionen - Seminar
 
@@ -1203,7 +1454,18 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127181&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
+| Einzeltermin | Mi | 14:00–18:00 | 24.06.2026 | 12801.01.252 (Übung 3 / 01.252-128) |
+| Einzeltermin | Mi | 14:00–18:00 | 01.07.2026 | 12801.01.252 (Übung 3 / 01.252-128) |
+| Einzeltermin | Mi | 14:00–18:00 | 08.07.2026 | 12801.01.252 (Übung 3 / 01.252-128) |
+| Einzeltermin | Mi | 14:00–18:00 | 15.07.2026 | 12801.01.252 (Übung 3 / 01.252-128) |
 
 ### Tafelübung zu Lineare und nichtlineare Systeme - Übung
 
@@ -1283,6 +1545,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **ECTS-Punkte:** 2.0
 - **Turnus:** nur im Sommersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 12801.01.220 (H12 Emmy-Noether-Hörsaal) |
+
 ### Tafelübungen zu Lineare Algebra II - Übung
 
 - **Segment:** `exam:14260594` · **unitId:** `110201`
@@ -1292,6 +1560,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.0
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 12801.01.220 (H12 Emmy-Noether-Hörsaal) |
 
 ### Tafelübungen zu Lineare Algebra II - Übung
 
@@ -1303,6 +1577,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **ECTS-Punkte:** 2.0
 - **Turnus:** nur im Sommersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 12801.01.220 (H12 Emmy-Noether-Hörsaal) |
+
 ### Tutorium zu Diskretisierung und numerische Optimierung (Querschnittmodul) - Tutorium
 
 - **Segment:** `exam:14255559` · **unitId:** `87784`
@@ -1311,7 +1591,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Tutorium
 - **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 12801.00.327 (Praktikum 2 - PC-Pool / 00.327-128) |
 
 ### Tutorium zu Diskretisierung und numerische Optimierung (Querschnittmodul) - Tutorium
 
@@ -1321,7 +1608,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Tutorium
 - **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 12801.00.327 (Praktikum 2 - PC-Pool / 00.327-128) |
 
 ### Tutorium zu Diskretisierung und numerische Optimierung (Querschnittmodul) - Tutorium
 
@@ -1331,7 +1625,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Tutorium
 - **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 12801.00.327 (Praktikum 2 - PC-Pool / 00.327-128) |
 
 ### Tutorium zu Diskretisierung und numerische Optimierung (Querschnittmodul) - Tutorium
 
@@ -1341,7 +1642,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Tutorium
 - **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 12801.00.327 (Praktikum 2 - PC-Pool / 00.327-128) |
 
 ### Übung Signale und Systeme II - Übung
 
@@ -1503,7 +1811,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:00–16:00 | 13.04.2026–13.07.2026 | 12801.01.250 (Übung 1 / 01.250-128) |
+| wöchentlich | Mi | 16:00–18:00 | 15.04.2026–15.07.2026 | 12801.01.251 (Übung 2 / 01.251-128) |
 
 ### Übungen zu Diskretisierung und numerische Optimierung (Querschnittmodul) - Übung
 
@@ -1513,7 +1829,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:00–16:00 | 13.04.2026–13.07.2026 | 12801.01.250 (Übung 1 / 01.250-128) |
+| wöchentlich | Mi | 16:00–18:00 | 15.04.2026–15.07.2026 | 12801.01.251 (Übung 2 / 01.251-128) |
 
 ### Übungen zu Diskretisierung und numerische Optimierung (Querschnittmodul) - Übung
 
@@ -1523,7 +1847,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:00–16:00 | 13.04.2026–13.07.2026 | 12801.01.250 (Übung 1 / 01.250-128) |
+| wöchentlich | Mi | 16:00–18:00 | 15.04.2026–15.07.2026 | 12801.01.251 (Übung 2 / 01.251-128) |
 
 ### Übungen zu Diskretisierung und numerische Optimierung (Querschnittmodul) - Übung
 
@@ -1533,7 +1865,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:00–16:00 | 13.04.2026–13.07.2026 | 12801.01.250 (Übung 1 / 01.250-128) |
+| wöchentlich | Mi | 16:00–18:00 | 15.04.2026–15.07.2026 | 12801.01.251 (Übung 2 / 01.251-128) |
 
 ### Übungen zu Einführung in die Darstellungstheorie - Übung
 
@@ -1550,8 +1890,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 12:00–14:00 | 16.04.2026–23.04.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
-| wöchentlich | Do | 12:00–14:00 | 30.04.2026–16.07.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
+| wöchentlich | Fr | 12:00–14:00 | 24.04.2026–22.05.2026 | 12801.01.253 (Übung 4 / 01.253-128) 12801.01.251 (Übung 2 / 01.251-128) |
+| Einzeltermin | Fr | 12:00–14:00 | 29.05.2026 | 12801.01.253 (Übung 4 / 01.253-128) |
+| wöchentlich | Fr | 12:00–14:00 | 12.06.2026–17.07.2026 | 12801.01.253 (Übung 4 / 01.253-128) |
 
 ### Übungen zu Einführung in die Darstellungstheorie - Übung
 
@@ -1568,8 +1909,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 12:00–14:00 | 16.04.2026–23.04.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
-| wöchentlich | Do | 12:00–14:00 | 30.04.2026–16.07.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
+| wöchentlich | Fr | 12:00–14:00 | 24.04.2026–22.05.2026 | 12801.01.253 (Übung 4 / 01.253-128) 12801.01.251 (Übung 2 / 01.251-128) |
+| Einzeltermin | Fr | 12:00–14:00 | 29.05.2026 | 12801.01.253 (Übung 4 / 01.253-128) |
+| wöchentlich | Fr | 12:00–14:00 | 12.06.2026–17.07.2026 | 12801.01.253 (Übung 4 / 01.253-128) |
 
 ### Übungen zu Einführung in die gewöhnlichen Differentialgleichungen - Übung
 
@@ -1725,7 +2067,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Fr | 10:00–12:00 | 17.04.2026–17.07.2026 | 12801.01.251 (Übung 2 / 01.251-128) |
+| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 11901.00.226 (H8 Hörsaal 8) |
 
 ### Übungen zur Linearen Algebra  II - Übung
 
@@ -1742,7 +2084,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Fr | 10:00–12:00 | 17.04.2026–17.07.2026 | 12801.01.251 (Übung 2 / 01.251-128) |
+| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 11901.00.226 (H8 Hörsaal 8) |
 
 ### Übungen zur Linearen Algebra  II - Übung
 
@@ -1759,7 +2101,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Fr | 10:00–12:00 | 17.04.2026–17.07.2026 | 12801.01.251 (Übung 2 / 01.251-128) |
+| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 11901.00.226 (H8 Hörsaal 8) |
 
 ### 1997 Bachelorseminar (B.Sc. Technomathematik 20192)
 
@@ -2632,7 +2974,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Sa | Sa | 10:00–11:30 | — | 11907.01.030 (H19) 11907.01.040 (H18) |
+| Sa | Sa | 10:00–11:30 | — | 11907.01.040 (H18) |
 
 ### 31051 Sichere Systeme - Leistung
 
@@ -2647,7 +2989,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Sa | Sa | 10:00–11:30 | — | 11907.01.030 (H19) 11907.01.040 (H18) |
+| Sa | Sa | 10:00–11:30 | — | 11907.01.040 (H18) |
 
 ### 31061 Einführung in die Algorithmik - Leistung
 
@@ -3457,7 +3799,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | 08:00–11:00 | — | 12801.01.210 (H11) |
+| Do | Do | 08:30–11:00 | — | 12801.01.210 (H11) |
 
 ### 50131 Vorlesung Lineare Algebra II - Leistung
 
@@ -3472,7 +3814,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | 08:00–11:00 | — | 12801.01.210 (H11) |
+| Do | Do | 08:30–11:00 | — | 12801.01.210 (H11) |
 
 ### 50131 Vorlesung Lineare Algebra II - Leistung
 
@@ -3487,7 +3829,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | 08:00–11:00 | — | 12801.01.210 (H11) |
+| Do | Do | 08:30–11:00 | — | 12801.01.210 (H11) |
 
 ### 50721 Lineare und nichtlineare Systeme - Leistung
 
@@ -3712,7 +4054,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mi | Mi | 10:15–11:45 | — | — |
+| Mi | Mi | 10:15–11:45 | — | 12801.01.230 (H13 Johann-Radon-Hörsaal) |
 
 ### 52311 Klausur: Diskretisierung und Numerische Optimierung - Leistung
 
@@ -3727,7 +4069,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mi | Mi | 10:15–11:45 | — | — |
+| Mi | Mi | 10:15–11:45 | — | 12801.01.230 (H13 Johann-Radon-Hörsaal) |
 
 ### 52312 Übungsleistung: Diskretisierung und Numerische Optimierung - Leistung
 
@@ -5451,7 +5793,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 1.25
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | 11907.01.030 (H19) |
 
 ### MT2-TUE - Medizintechnik II Tafelübung - Übung
 
@@ -5461,7 +5810,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 1.25
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | 11907.01.030 (H19) |
 
 ### MT2-TUE - Medizintechnik II Tafelübung - Übung
 
@@ -5471,7 +5827,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 1.25
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | 11907.01.030 (H19) |
 
 ### NuPDE II - Numerics of Partial Differential Equations II - Vorlesung
 
@@ -5941,7 +6304,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 11907.01.030 (H19) |
 
 ### STM I V - Strömungsmechanik I - Vorlesung
 
@@ -5951,7 +6321,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 11907.01.030 (H19) |
 
 ### STM I V - Strömungsmechanik I - Vorlesung
 
@@ -5961,7 +6338,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 11907.01.030 (H19) |
 
 ### ThProg - Theorie der Programmierung - Vorlesung
 
@@ -5970,7 +6354,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84678&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
+| wöchentlich | Fr | 10:15–11:45 | 17.04.2026–17.07.2026 | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
 
 ### ThProg - Theorie der Programmierung - Vorlesung
 
@@ -5979,7 +6371,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84678&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
+| wöchentlich | Fr | 10:15–11:45 | 17.04.2026–17.07.2026 | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
 
 ### TM2 (T) - Tutorium zur Technischen Mechanik 2 - Tutorium
 
@@ -6043,7 +6443,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 16:15–17:45 | 15.04.2026–15.07.2026 | 10601.00.044 (SR TM Seminarraum Technische Mechanik, Raum-Nr. 00.044 (Technische Fakultät, Campus Süd)) |
+| wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | 10601.00.044 (SR TM Seminarraum Technische Mechanik, Raum-Nr. 00.044 (Technische Fakultät, Campus Süd)) |
 
 ### TM2 (UE) - Übungen zur Technischen Mechanik 2 - Übung
 
@@ -6059,7 +6459,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 16:15–17:45 | 15.04.2026–15.07.2026 | 10601.00.044 (SR TM Seminarraum Technische Mechanik, Raum-Nr. 00.044 (Technische Fakultät, Campus Süd)) |
+| wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | 10601.00.044 (SR TM Seminarraum Technische Mechanik, Raum-Nr. 00.044 (Technische Fakultät, Campus Süd)) |
 
 ### TM2 (UE) - Übungen zur Technischen Mechanik 2 - Übung
 
@@ -6075,7 +6475,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 16:15–17:45 | 15.04.2026–15.07.2026 | 10601.00.044 (SR TM Seminarraum Technische Mechanik, Raum-Nr. 00.044 (Technische Fakultät, Campus Süd)) |
+| wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | 10601.00.044 (SR TM Seminarraum Technische Mechanik, Raum-Nr. 00.044 (Technische Fakultät, Campus Süd)) |
 
 ### TM2 (V) - Technische Mechanik 2 (Elastostatik und Festigkeitslehre) - Vorlesung
 
@@ -6084,7 +6484,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86541&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 11901.00.222 (H7 Hörsaal 7) |
+| wöchentlich | Do | 08:15–09:45 | 16.04.2026–16.07.2026 | 11901.00.222 (H7 Hörsaal 7) |
 
 ### TM2 (V) - Technische Mechanik 2 (Elastostatik und Festigkeitslehre) - Vorlesung
 
@@ -6093,7 +6501,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86541&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 11901.00.222 (H7 Hörsaal 7) |
+| wöchentlich | Do | 08:15–09:45 | 16.04.2026–16.07.2026 | 11901.00.222 (H7 Hörsaal 7) |
 
 ### TM2 (V) - Technische Mechanik 2 (Elastostatik und Festigkeitslehre) - Vorlesung
 
@@ -6102,7 +6518,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86541&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 11901.00.222 (H7 Hörsaal 7) |
+| wöchentlich | Do | 08:15–09:45 | 16.04.2026–16.07.2026 | 11901.00.222 (H7 Hörsaal 7) |
 
 ### TSL (T) - Tutorium zur Technischen Schwingungslehre - Tutorium
 
@@ -6255,7 +6679,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87654&periodId=589>
 
 - **Veranstaltungsart:** Tutorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 11501.01.105 (H6 Hörsaal 6) |
 
 ### TutEMFI - Tutorium zu Elektromagnetische Felder I - Tutorium
 
@@ -6264,7 +6695,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87654&periodId=589>
 
 - **Veranstaltungsart:** Tutorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 11501.01.105 (H6 Hörsaal 6) |
 
 ### TutEMFI - Tutorium zu Elektromagnetische Felder I - Tutorium
 
@@ -6273,7 +6711,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87654&periodId=589>
 
 - **Veranstaltungsart:** Tutorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 11501.01.105 (H6 Hörsaal 6) |
 
 ### TutEMFI - Tutorium zu Elektromagnetische Felder I - Tutorium
 
@@ -6282,7 +6727,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87654&periodId=589>
 
 - **Veranstaltungsart:** Tutorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 11501.01.105 (H6 Hörsaal 6) |
 
 ### TutEMFI - Tutorium zu Elektromagnetische Felder I - Tutorium
 
@@ -6291,7 +6743,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87654&periodId=589>
 
 - **Veranstaltungsart:** Tutorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 11501.01.105 (H6 Hörsaal 6) |
 
 ### TutEMFI - Tutorium zu Elektromagnetische Felder I - Tutorium
 
@@ -6300,7 +6759,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87654&periodId=589>
 
 - **Veranstaltungsart:** Tutorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 11501.01.105 (H6 Hörsaal 6) |
 
 ### UeEDB - Übung zu Einführung in Datenbanken - Übung
 
@@ -6456,7 +6922,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 16:15–17:45 | 27.04.2026–13.07.2026 | 11501.00.151 (0.151-115 Seminar) |
+| wöchentlich | Mo | 08:15–09:45 | 27.04.2026–13.07.2026 | 11302.00.151 (00.151-113 Übungsraum) |
 
 ### Ü SP1 - Systemprogrammierung 1 - Übung - Übung
 
@@ -6473,7 +6939,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 16:15–17:45 | 27.04.2026–13.07.2026 | 11501.00.151 (0.151-115 Seminar) |
+| wöchentlich | Mo | 08:15–09:45 | 27.04.2026–13.07.2026 | 11302.00.151 (00.151-113 Übungsraum) |
 
 ### Ü SP1 - Systemprogrammierung 1 - Übung - Übung
 
@@ -6490,7 +6956,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 16:15–17:45 | 27.04.2026–13.07.2026 | 11501.00.151 (0.151-115 Seminar) |
+| wöchentlich | Mo | 08:15–09:45 | 27.04.2026–13.07.2026 | 11302.00.151 (00.151-113 Übungsraum) |
 
 ### Ü SPiC - Systemnahe Programmierung in C - Tafelübung - Übung
 
@@ -6670,7 +7136,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 12:15–13:45 | 22.04.2026–15.07.2026 | 11302.02.134 (02.134-113 Übungsraum) |
+| wöchentlich | Do | 14:15–15:45 | 23.04.2026–16.07.2026 | 11302.02.133 (02.133-113 Übungsraum) |
 
 ### ÜThProg - Übungen zu Theorie der Programmierung - Übung
 
@@ -6686,20 +7152,11 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 12:15–13:45 | 22.04.2026–15.07.2026 | 11302.02.134 (02.134-113 Übungsraum) |
+| wöchentlich | Do | 14:15–15:45 | 23.04.2026–16.07.2026 | 11302.02.133 (02.133-113 Übungsraum) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (207)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (194)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
-
-### Advanced Algorithms for Nonlinear Optimization — Vorlesung
-
-- **Segment:** `unit:113042` · **unitId:** `113042`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113042&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
 
 ### Advanced Algorithms of Nonlinear Optimization and Applications in Topology Optimization — Masterseminar
 
@@ -6708,23 +7165,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Masterseminar
 - **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
-### Advanced Discretization Techniques — Vorlesung
-
-- **Segment:** `unit:106383` · **unitId:** `106383`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106383&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 10.0
-- **Turnus:** Unregelmäßig
-
-### Advanced nonlinear optimization — Vorlesung mit Übung
-
-- **Segment:** `unit:122161` · **unitId:** `122161`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122161&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
 - **Turnus:** Unregelmäßig
 
 ### Advanced solution techniques
@@ -6828,7 +7268,16 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 08:00–10:00 | 15.04.2026–15.07.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
+| wöchentlich | Fr | 08:00–10:00 | 17.04.2026–17.07.2026 | 12801.01.250 (Übung 1 / 01.250-128) |
+| wöchentlich | Fr | 10:00–12:00 | 17.04.2026–17.07.2026 | 12801.01.253 (Übung 4 / 01.253-128) |
 
 ### Approximationstheorie — Vorlesung
 
@@ -6954,13 +7403,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
-
-### Bachelorseminar Harmonische Analysis
-
-- **Segment:** `unit:116301` · **unitId:** `116301`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116301&periodId=589>
-
-- **Veranstaltungsart:** Seminar
 
 ### Berechenbarkeit und Formale Sprachen — Vorlesung
 
@@ -7104,14 +7546,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### Einführung in die Darstellungstheorie von Quantengruppen (Seminar) — Masterseminar
-
-- **Segment:** `unit:121323` · **unitId:** `121323`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121323&periodId=589>
-
-- **Veranstaltungsart:** Masterseminar
-- **Turnus:** Unregelmäßig
-
 ### Einführung in die kategorielle Homotopietheorie — Vorlesung mit Übung
 
 - **Segment:** `unit:111455` · **unitId:** `111455`
@@ -7120,6 +7554,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 10.0
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:00–12:00 | 13.04.2026–13.07.2026 | 12801.04.363 (04.363 Seminarraum Mathematik) |
+| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
 
 ### Einführung in die kategorielle Homotopietheorie
 
@@ -7245,7 +7686,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:00–18:00 | 14.04.2026–14.07.2026 | 12801.01.220 (H12 Emmy-Noether-Hörsaal) |
+| wöchentlich | Mi | 18:00–20:00 | 15.04.2026–15.07.2026 | 12801.01.220 (H12 Emmy-Noether-Hörsaal) |
 
 ### Fragestunde zur Analysis III — Tutorium
 
@@ -7499,8 +7948,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -7543,15 +7992,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 10.0
 - **Turnus:** in jedem Semester
-
-### Lie-Gruppen — Vorlesung
-
-- **Segment:** `unit:87562` · **unitId:** `87562`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87562&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 10.0
-- **Turnus:** nur im Sommersemester
 
 ### Lineare Algebra I — Vorlesung
 
@@ -7701,15 +8141,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### Mathematics of Learning — Vorlesung
-
-- **Segment:** `unit:82690` · **unitId:** `82690`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82690&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 3.0
-- **Turnus:** nur im Wintersemester
-
 ### Mathematische Grundlagen zu Künstliche Intelligenz, Neuronale Netze und Data Analytics I (Mathematical Basics of Artificial Intelligence, Neural Networks and Data Analytics I) — Vorlesung
 
 - **Segment:** `unit:85007` · **unitId:** `85007`
@@ -7753,15 +8184,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Fr | 09:00–17:00 | 10.04.2026 | 56901.00.026 (Seminarraum 3 (Vorbelegungsrecht HTA Departments fürfür WS bis 15.07.26))) |
 | Einzeltermin | Mo | 12:00–14:00 | 11.05.2026 | 56901.00.026 (Seminarraum 3 (Vorbelegungsrecht HTA Departments fürfür WS bis 15.07.26))) |
 | Blockveranstaltung | — | 08:00–17:00 | 05.10.2026–09.10.2026 | — |
-
-### Mathematische Modellierung Theorie — Vorlesung
-
-- **Segment:** `unit:83428` · **unitId:** `83428`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83428&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Mathematische Statistik
 
@@ -7903,7 +8325,17 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Praxisseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 08:00–12:00 | 17.04.2026–17.07.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
+| wöchentlich | Fr | 12:00–14:00 | 17.04.2026–17.07.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
+| Einzeltermin | Mi | 08:00–18:00 | 05.08.2026 | 12801.01.230 (H13 Johann-Radon-Hörsaal) |
+| Einzeltermin | Do | 08:00–18:00 | 06.08.2026 | 12801.01.230 (H13 Johann-Radon-Hörsaal) |
 
 ### Modeling, simulation and optimization final report
 
@@ -8074,14 +8506,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
-### Operatoralgebren und Mathematische Physik I — Seminar
+#### Termine
 
-- **Segment:** `unit:119579` · **unitId:** `119579`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119579&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:00–10:00 | 14.04.2026–14.07.2026 | 12801.01.250 (Übung 1 / 01.250-128) |
+| wöchentlich | Mi | 08:00–10:00 | 15.04.2026–15.07.2026 | 12801.01.252 (Übung 3 / 01.252-128) |
 
 ### Optik und optische Technologien — Vorlesung
 
@@ -8090,15 +8520,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
-### Optimization in Industry and Economy — Vorlesung
-
-- **Segment:** `unit:115679` · **unitId:** `115679`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115679&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
 ### Optimization with Partial Differential Equations — Vorlesung mit Übung
@@ -8489,15 +8910,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Transport and reaction in porous media: Simulation — Vorlesung
-
-- **Segment:** `unit:107944` · **unitId:** `107944`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107944&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nicht in diesem Semester
-
 ### Tutoreneinführung zur Technischen Mechanik 1 — Sonstige Lehrveranstaltung
 
 - **Segment:** `unit:99527` · **unitId:** `99527`
@@ -8526,14 +8938,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:99311` · **unitId:** `99311`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99311&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Tutorial zu Diskrete Optimierung III — Übung
-
-- **Segment:** `unit:100776` · **unitId:** `100776`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100776&periodId=589>
 
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
@@ -8602,14 +9006,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-### Übung  zur Statik und Festigkeitslehre — Tutorium
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 13:15–14:45 | 23.04.2026–16.07.2026 | 21101.00.142 (LG 0.142 (98 Plätze) Übungsraum) |
+| Einzeltermin | Do | 10:00–14:15 | 02.07.2026 | 21101.00.215 (CIP-Pool 1 (RRZE-IZN)) |
+
+### Übung  zur Statik und Festigkeitslehre
 
 - **Segment:** `unit:91315` · **unitId:** `91315`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91315&periodId=589>
 
-- **Veranstaltungsart:** Tutorium
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
@@ -8626,7 +9038,17 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 08:00–11:15 | 15.06.2026 | 21101.00.222 (LG 0.222/3 (94 Plätze) Übungsraum) |
+| Einzeltermin | Fr | 11:30–14:45 | 19.06.2026 | 21101.00.222 (LG 0.222/3 (94 Plätze) Übungsraum) |
+| Einzeltermin | Mo | 08:00–11:15 | 22.06.2026 | 21101.00.222 (LG 0.222/3 (94 Plätze) Übungsraum) |
+| Einzeltermin | Fr | 11:30–14:45 | 26.06.2026 | 21101.00.222 (LG 0.222/3 (94 Plätze) Übungsraum) |
 
 ### Übung Computeranwendungen in der  Verfahrenstechnik 2
 
@@ -8677,6 +9099,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 1.0
 - **Turnus:** nur im Sommersemester
 
+### Übung zu Optimization in Industry and Economy
+
+- **Segment:** `unit:115680` · **unitId:** `115680`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115680&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Turnus:** nur im Wintersemester
+
 ### Übung zu Robuste Optimierung 2
 
 - **Segment:** `unit:84088` · **unitId:** `84088`
@@ -8685,13 +9115,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:00–14:00 | 02.06.2026–14.07.2026 | 56901.00.026 (Seminarraum 3 (Vorbelegungsrecht HTA Departments fürfür WS bis 15.07.26))) |
-| wöchentlich | Do | 10:00–12:00 | 11.06.2026–16.07.2026 | 56901.00.026 (Seminarraum 3 (Vorbelegungsrecht HTA Departments fürfür WS bis 15.07.26))) |
 
 ### Übung zu Signale und Systeme I
 
@@ -8707,14 +9130,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135201&periodId=589>
 
 - **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 10:00–12:00 | 17.04.2026–17.07.2026 | 12801.04.363 (04.363 Seminarraum Mathematik) |
 
 ### Übungen zu Berechenbarkeit und Formale Sprachen
 
@@ -8823,6 +9239,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Sommersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 20.04.2026–13.07.2026 | 12801.04.363 (04.363 Seminarraum Mathematik) |
+
 ### Übungen zu Theory of Stochastic Evolution Equations
 
 - **Segment:** `unit:112970` · **unitId:** `112970`
@@ -8845,14 +9267,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
 
-### Übungen zur Darstellungstheorie von Lie-Algebren
-
-- **Segment:** `unit:96108` · **unitId:** `96108`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96108&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** in jedem Semester
-
 ### Übungen zur Dynamik starrer Körper
 
 - **Segment:** `unit:84619` · **unitId:** `84619`
@@ -8873,7 +9287,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 12801.01.230 (H13 Johann-Radon-Hörsaal) 11401.00.116 (H14 Bernhard-Ilschner-Hörsaal (0.61)) |
+| wöchentlich | Mi | 12:00–14:00 | 15.04.2026–15.07.2026 | 12801.04.363 (04.363 Seminarraum Mathematik) |
 
 ### Übungen zur Statik und Festigkeitslehre
 
@@ -8889,11 +9303,3 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | 11907.01.030 (H19) |
-
-### Übungen zur Technischen Mechanik 1
-
-- **Segment:** `unit:96786` · **unitId:** `96786`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96786&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester

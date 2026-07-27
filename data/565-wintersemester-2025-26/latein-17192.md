@@ -34,6 +34,10 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17192|exam:12939571|exam:12939572|exam:12939573|exam:12939575|exam:12939695|exam:12939702>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114657&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 3.0
+- **Turnus:** in jedem Semester
+
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
@@ -164,7 +168,10 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17192|exam:12939571|exam:12939572|exam:12939573|exam:12939575|exam:12939645|exam:12939650>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127499&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -212,7 +219,10 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17192|exam:12939571|exam:12939572|exam:12939573|exam:12939575|exam:12939680|exam:12939688>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127437&periodId=565>
 
+- **Veranstaltungsart:** Mittelseminar
+- **ECTS-Punkte:** 6.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 ### Praxis und Methodik der lateinischen Interpretation - Übung
 
@@ -305,7 +315,10 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17192|exam:12939571|exam:12939572|exam:12939573|exam:12939575|exam:12939669|exam:13706335>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132211&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** jedes 2. Semester
 
 #### Termine
 
@@ -349,6 +362,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17192|exam:12939571|exam:12939572|exam:12939573|exam:12939575|exam:12939663|exam:12939664>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50299&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -393,6 +407,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17192|exam:12939444|exam:12939445|exam:12939446|exam:12939448|exam:12939540|exam:12939545>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=41111&periodId=565>
 
+- **ECTS-Punkte:** 6.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -629,7 +644,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17192|exam:12939571|exam:12939572|exam:12939573|exam:12939575|exam:12939663|exam:12939666>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94070&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -637,7 +654,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Di | 10:15–11:45 | 14.10.2025–03.02.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (30)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (34)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -812,6 +829,54 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 
+### Kursorische Lektüre — Übung
+
+- **Segment:** `unit:127447` · **unitId:** `127447`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127447&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 18:15–19:45 | 13.10.2025–02.02.2026 | 05901.02.058 ( 2.058 R 2.058) |
+
+### Latein I für Anfänger (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
+
+- **Segment:** `unit:96547` · **unitId:** `96547`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96547&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:00–16:00 | 13.10.2025–02.02.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.10.2025–04.02.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
+
+### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
+
+- **Segment:** `unit:83014` · **unitId:** `83014`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83014&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.10.2025–02.02.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 16:00–18:00 | 15.10.2025–04.02.2026 | 05701.00.017 ( Kl. Hörsaal) |
+
 ### Latein II für Fortgeschrittene - Intensivkurs (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
 - **Segment:** `unit:89729` · **unitId:** `89729`
@@ -900,6 +965,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | 10:00–12:00 | 07.12.2025 23:59:59 | 05902.00.014 ( 00.14 PSG) |
+
+### Lateinische Sprachwissenschaft und Sprachpraxis IIIb
+
+- **Segment:** `unit:50309` · **unitId:** `50309`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50309&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | 10:00–12:00 | 07.12.2025 23:59:59 | 05902.00.015 ( 00.15 PSG) |
 
 ### Proseminar Epochen
 

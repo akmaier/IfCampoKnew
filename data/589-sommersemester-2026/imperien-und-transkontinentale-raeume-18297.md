@@ -47,7 +47,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 13:00–14:00 | 14.04.2026–14.07.2026 | 05801.01.110 ( PSG A 301) |
+| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05801.01.110 ( PSG A 301) |
 
 ### Aktuelle Texte der Philosophie - Hauptseminar / Masterseminar
 
@@ -63,7 +63,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 13:00–14:00 | 14.04.2026–14.07.2026 | 05801.01.110 ( PSG A 301) |
+| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05801.01.110 ( PSG A 301) |
 
 ### Arthur C. Danto: The Transfiguration of the Commonplace - Hauptseminar / Masterseminar
 
@@ -139,7 +139,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 18:15–19:45 | 15.04.2026–15.07.2026 | 07204.01.030 (SR 01.030 Seminarraum des LZS) |
 
 ### Current Work in Philosophy and AI Research (PAIR Research Seminar) - Oberseminar
 
@@ -181,7 +188,15 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Masterseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 13:00–14:00 | 13.04.2026 | 05902.00.005 ( 00.5 PSG) |
+| Blockveranstaltung+Sa | — | 09:00–18:00 | 22.05.2026–23.05.2026 | 05902.00.003 ( 00.3 PSG) |
 
 ### Geist und Imagination - Philosophie der Vorstellungskraft - Hauptseminar / Masterseminar
 
@@ -223,7 +238,15 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86720&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung+Sa | — | 11:00–16:15 | 24.04.2026–25.04.2026 | 08901.02.116 (02.116) |
+| Blockveranstaltung+Sa | — | 11:00–16:15 | 22.05.2026–23.05.2026 | 08901.02.116 (02.116) |
 
 ### Methoden der Philosophie - Hauptseminar / Masterseminar
 
@@ -362,7 +385,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134072&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 05801.01.110 ( PSG A 301) |
 
 ### Zählen mehr mehr? Über interpersonelle (Non-)Aggregation - Hauptseminar / Masterseminar
 
@@ -571,17 +601,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:15–15:45 | 13.04.2026–06.07.2026 | 05901.05.054 ( 05.054) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (41)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (31)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
-
-### 24/7 Everything and the Poetics of Deceleration — Hauptseminar
-
-- **Segment:** `unit:122563` · **unitId:** `122563`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122563&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** Unregelmäßig
 
 ### Aktuelle Texte der Philosophie — Hauptseminar / Masterseminar
 
@@ -614,20 +636,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
 - **Turnus:** in jedem Semester
 
-### Aktuelle Texte der Philosophie (HS/MAS) — Kombiseminar
-
-- **Segment:** `unit:111714` · **unitId:** `111714`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111714&periodId=589>
-
-- **Veranstaltungsart:** Kombiseminar
-
-### Aktuelle Texte der Philosophie (HS/MAS) — Kombiseminar
-
-- **Segment:** `unit:115511` · **unitId:** `115511`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115511&periodId=589>
-
-- **Veranstaltungsart:** Kombiseminar
-
 ### Aktuelle Texte der Philosophie (MAS / HS) — Kombiseminar
 
 - **Segment:** `unit:90081` · **unitId:** `90081`
@@ -651,22 +659,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Kombiseminar
 - **Turnus:** nicht in diesem Semester
-
-### Anscombe: Intention — Hauptseminar / Masterseminar
-
-- **Segment:** `unit:119043` · **unitId:** `119043`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119043&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
-- **Turnus:** Unregelmäßig
-
-### Aristoteles: De anima — Hauptseminar / Masterseminar
-
-- **Segment:** `unit:131947` · **unitId:** `131947`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131947&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
-- **Turnus:** Unregelmäßig
 
 ### Authors as Fans: American Prose Fiction and Its Intertexts — Hauptseminar
 
@@ -702,31 +694,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 10.0
 - **Turnus:** Unregelmäßig
-
-### Business & Society in Latin America — Masterseminar
-
-- **Segment:** `unit:104366` · **unitId:** `104366`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104366&periodId=589>
-
-- **Veranstaltungsart:** Masterseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### Das Problem des staatlichen Strafens — Hauptseminar / Masterseminar
-
-- **Segment:** `unit:119070` · **unitId:** `119070`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119070&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
-
-### Development Economics I — Vorlesung mit Übung
-
-- **Segment:** `unit:103972` · **unitId:** `103972`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103972&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Die Idee des Rechtsfriedens — Hauptseminar
 
@@ -801,8 +768,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -850,14 +817,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Oberseminar
 
-### Philosophie als Therapie — Hauptseminar / Masterseminar
-
-- **Segment:** `unit:122606` · **unitId:** `122606`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122606&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
-- **Turnus:** Unregelmäßig
-
 ### Philosophische Perspektiven auf die Emotion der Wut: Nussbaum, Srinivasan, Cherry — Hauptseminar / Masterseminar
 
 - **Segment:** `unit:122684` · **unitId:** `122684`
@@ -902,28 +861,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Do | Do | 14:00–16:00 | 07.06.2026 23:59:59 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
 
-### Thinking about the Future (and Trying to Shape It) — Hauptseminar / Masterseminar
-
-- **Segment:** `unit:126965` · **unitId:** `126965`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126965&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
-- **Turnus:** Unregelmäßig
-
 ### Tutorial for "International Business Ethics I" — Übung
 
 - **Segment:** `unit:103670` · **unitId:** `103670`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103670&periodId=589>
 
 - **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 16:00–16:45 | 13.04.2026–13.07.2026 | 05901.05.054 ( 05.054) |
 
 ### Von Enteignung bis Entfremdung: Marx' Kritik der politischen Ökonomie — Hauptseminar / Masterseminar
 

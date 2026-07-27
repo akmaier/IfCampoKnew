@@ -34,7 +34,15 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89296&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 08:30–12:30 | 16.04.2026–28.05.2026 | 13002.00.571 (Kursraum F 00.571 (Pharmazeutische Biologie)) |
+| wöchentlich | Do | 13:30–17:30 | 16.04.2026–28.05.2026 | 13002.00.571 (Kursraum F 00.571 (Pharmazeutische Biologie)) |
 
 ### Pflanzenbestimmungen/Arzneipflanzenexkursionen - Praktikum
 
@@ -43,7 +51,15 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89296&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 08:30–12:30 | 16.04.2026–28.05.2026 | 13002.00.571 (Kursraum F 00.571 (Pharmazeutische Biologie)) |
+| wöchentlich | Do | 13:30–17:30 | 16.04.2026–28.05.2026 | 13002.00.571 (Kursraum F 00.571 (Pharmazeutische Biologie)) |
 
 ### Praktikum Molecular Nano Science - Seminar - Seminar
 
@@ -103,7 +119,19 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 13:00–17:00 | 13.04.2026 | 11201.01.028 (A 1.42 Egerlandstr.1 Anorganische Chemie) |
+| wöchentlich | Di | 09:15–10:00 | 14.04.2026–14.07.2026 | 13301.U1.0171 (C1 - Chemikum) |
+| wöchentlich | Di | 12:00–13:00 | 14.04.2026–14.07.2026 | 11201.01.028 (A 1.42 Egerlandstr.1 Anorganische Chemie) |
+| Blockveranstaltung | — | 14:00–18:00 | 14.04.2026 | 11201.01.028 (A 1.42 Egerlandstr.1 Anorganische Chemie) |
+| Blockveranstaltung | — | 13:00–17:00 | 15.04.2026 | 11201.01.028 (A 1.42 Egerlandstr.1 Anorganische Chemie) |
+| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 11201.01.028 (A 1.42 Egerlandstr.1 Anorganische Chemie) |
 
 ### AC2 - Anorganische Chemie 2 - Chemie der Metalle - Vorlesung mit Übung
 
@@ -113,7 +141,19 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 13:00–17:00 | 13.04.2026 | 11201.01.028 (A 1.42 Egerlandstr.1 Anorganische Chemie) |
+| wöchentlich | Di | 09:15–10:00 | 14.04.2026–14.07.2026 | 13301.U1.0171 (C1 - Chemikum) |
+| wöchentlich | Di | 12:00–13:00 | 14.04.2026–14.07.2026 | 11201.01.028 (A 1.42 Egerlandstr.1 Anorganische Chemie) |
+| Blockveranstaltung | — | 14:00–18:00 | 14.04.2026 | 11201.01.028 (A 1.42 Egerlandstr.1 Anorganische Chemie) |
+| Blockveranstaltung | — | 13:00–17:00 | 15.04.2026 | 11201.01.028 (A 1.42 Egerlandstr.1 Anorganische Chemie) |
+| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 11201.01.028 (A 1.42 Egerlandstr.1 Anorganische Chemie) |
 
 ### DD-R-Lab - Research Module - Drug Discovery - Praktikum
 
@@ -166,13 +206,14 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 - **Veranstaltungsart:** Masterseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** in jedem Semester
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| 14-täglich | Do | 09:00–13:00 | 16.04.2026–09.07.2026 | 55801.00.215 (00.215 Seminarraum) |
+| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 55801.00.147 (00.147 Seminarraum 1 Seminarraum 1 Geographie Tennenlohe) 55801.03.145 (03.145 Besprechungszimmer Geographie Tennenlohe) |
 
 ### HS-MA - Hauptseminar Master Kulturgeographie - Masterseminar
 
@@ -182,13 +223,14 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 - **Veranstaltungsart:** Masterseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** in jedem Semester
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| 14-täglich | Do | 09:00–13:00 | 16.04.2026–09.07.2026 | 55801.00.215 (00.215 Seminarraum) |
+| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 55801.00.147 (00.147 Seminarraum 1 Seminarraum 1 Geographie Tennenlohe) 55801.03.145 (03.145 Besprechungszimmer Geographie Tennenlohe) |
 
 ### HS-MA - Hauptseminar Master Kulturgeographie - Masterseminar
 
@@ -198,13 +240,14 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 - **Veranstaltungsart:** Masterseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** in jedem Semester
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| 14-täglich | Do | 09:00–13:00 | 16.04.2026–09.07.2026 | 55801.00.215 (00.215 Seminarraum) |
+| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 55801.00.147 (00.147 Seminarraum 1 Seminarraum 1 Geographie Tennenlohe) 55801.03.145 (03.145 Besprechungszimmer Geographie Tennenlohe) |
 
 ### HS-MA - Hauptseminar Master Kulturgeographie - Masterseminar
 
@@ -214,13 +257,14 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 - **Veranstaltungsart:** Masterseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** in jedem Semester
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| 14-täglich | Do | 09:00–13:00 | 16.04.2026–09.07.2026 | 55801.00.215 (00.215 Seminarraum) |
+| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 55801.00.147 (00.147 Seminarraum 1 Seminarraum 1 Geographie Tennenlohe) 55801.03.145 (03.145 Besprechungszimmer Geographie Tennenlohe) |
 
 ### HS-MA - Hauptseminar Master Kulturgeographie - Masterseminar
 
@@ -230,13 +274,14 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 - **Veranstaltungsart:** Masterseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** in jedem Semester
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| 14-täglich | Do | 09:00–13:00 | 16.04.2026–09.07.2026 | 55801.00.215 (00.215 Seminarraum) |
+| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 55801.00.147 (00.147 Seminarraum 1 Seminarraum 1 Geographie Tennenlohe) 55801.03.145 (03.145 Besprechungszimmer Geographie Tennenlohe) |
 
 ### HS-MA - Hauptseminar Master Kulturgeographie - Masterseminar
 
@@ -246,13 +291,14 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 - **Veranstaltungsart:** Masterseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** in jedem Semester
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| 14-täglich | Do | 09:00–13:00 | 16.04.2026–09.07.2026 | 55801.00.215 (00.215 Seminarraum) |
+| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 55801.00.147 (00.147 Seminarraum 1 Seminarraum 1 Geographie Tennenlohe) 55801.03.145 (03.145 Besprechungszimmer Geographie Tennenlohe) |
 
 ### HS-MA - Hauptseminar Master Kulturgeographie - Masterseminar
 
@@ -262,13 +308,14 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 - **Veranstaltungsart:** Masterseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** in jedem Semester
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| 14-täglich | Do | 09:00–13:00 | 16.04.2026–09.07.2026 | 55801.00.215 (00.215 Seminarraum) |
+| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 55801.00.147 (00.147 Seminarraum 1 Seminarraum 1 Geographie Tennenlohe) 55801.03.145 (03.145 Besprechungszimmer Geographie Tennenlohe) |
 
 ### HS-MA - Hauptseminar Master Kulturgeographie - Masterseminar
 
@@ -278,13 +325,14 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 - **Veranstaltungsart:** Masterseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** in jedem Semester
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| 14-täglich | Do | 09:00–13:00 | 16.04.2026–09.07.2026 | 55801.00.215 (00.215 Seminarraum) |
+| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 55801.00.147 (00.147 Seminarraum 1 Seminarraum 1 Geographie Tennenlohe) 55801.03.145 (03.145 Besprechungszimmer Geographie Tennenlohe) |
 
 ### IntCat-SS - Heterogeneous Catalysis and Kinetics - Vorlesung mit Übung
 
@@ -311,7 +359,14 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:45–14:15 | 14.04.2026–14.07.2026 | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
 
 ### MA-PB - Masterarbeiten Pharmazeutische Biologie - Sonstige Lehrveranstaltung
 
@@ -321,6 +376,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 - **Veranstaltungsart:** Sonstige Lehrveranstaltung
 - **ECTS-Punkte:** 30.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
 ### Nano Lab - Praktikum Molecular Nano Science - Praktikum
@@ -331,14 +387,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| nach Vereinbarung | — | — | — | — |
 
 ### Nano-SS - Inorganic Nanoparticles & Supraparticles - Vorlesung
 
@@ -405,6 +454,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82374&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
 ### PHBWPF - Wahlpflichtfach Pharmazeutische Biologie - Praktikum
@@ -414,6 +464,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82374&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
 ### PHBWPF - Wahlpflichtfach Pharmazeutische Biologie - Praktikum
@@ -423,6 +474,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82374&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
 ### Sem-PG - Hauptseminar Physische Geographie - Hauptseminar
@@ -499,7 +551,16 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
+| Einzeltermin | Do | 08:15–09:45 | 30.07.2026 | 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
+| Einzeltermin | Mi | 10:15–11:45 | 07.10.2026 | 55801.00.210 (00.210 Seminarraum) |
 
 ### VLEA - Allgemeine Ernährungslehre - Vorlesung
 
@@ -508,7 +569,14 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94389&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 13:15–14:45 | 29.04.2026–15.07.2026 | 13301.01.0241 (C4 - Chemikum) |
 
 ### VLEA - Allgemeine Ernährungslehre - Vorlesung
 
@@ -517,7 +585,14 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94389&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 13:15–14:45 | 29.04.2026–15.07.2026 | 13301.01.0241 (C4 - Chemikum) |
 
 ### VLEA - Allgemeine Ernährungslehre - Vorlesung
 
@@ -526,7 +601,14 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94389&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 13:15–14:45 | 29.04.2026–15.07.2026 | 13301.01.0241 (C4 - Chemikum) |
 
 ### VLEA - Allgemeine Ernährungslehre - Vorlesung
 
@@ -535,7 +617,14 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94389&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 13:15–14:45 | 29.04.2026–15.07.2026 | 13301.01.0241 (C4 - Chemikum) |
 
 ### VLEC - Ernährungslehre:  Chemosensorik - Vorlesung
 
@@ -543,7 +632,9 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17604|title:17610|exam:13836200|exam:15906478>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101175&periodId=589>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 

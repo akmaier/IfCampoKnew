@@ -5,7 +5,7 @@ campo_segment: "title:17336"
 campo_path: "title:16758|title:16760|title:17336"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17336"
 po_version_count: 0
-course_count: 22
+course_count: 21
 ---
 
 # Veranstaltungen aus der Naturwissenschaftlichen Fakultät
@@ -14,24 +14,7 @@ course_count: 22
 
 _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprachkurse_  
 
-## Veranstaltungen (22)
-
-### An Introduction to Science Technology Studies - Seminar
-
-- **Segment:** `exam:13802267` · **unitId:** `131547`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17336|exam:12190646|exam:13802267>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131547&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 7.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 16:00–19:00 | 15.10.2025–04.02.2026 | — |
+## Veranstaltungen (21)
 
 ### Computer in den Geowissenschaften (Computers in geosciences) - Übung
 
@@ -197,7 +180,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17336|exam:12190653|exam:12190684>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82437&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -374,7 +360,10 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17336|exam:12190653|exam:12190693>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85289&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 

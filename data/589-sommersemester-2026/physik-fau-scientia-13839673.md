@@ -284,6 +284,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Di | 16:00–19:00 | 14.07.2026 | 13003.00.827 (HG Hörsaal Physikum) |
 | Einzeltermin | Di | 16:00–19:00 | 14.07.2026 | 13003.00.877 (HC Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 | Einzeltermin | Di | 16:00–19:00 | 14.07.2026 | 13003.00.836 (HF Hörsaal Physikum) |
+| Einzeltermin | Fr | 13:00–16:00 | 25.09.2026 | — |
 
 ### TP-K - Synopsis der Theoretischen Physik (Blockkurs) - Vorlesung
 
@@ -292,4 +293,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92648&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+

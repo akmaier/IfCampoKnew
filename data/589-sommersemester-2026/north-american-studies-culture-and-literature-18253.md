@@ -616,7 +616,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86829&periodId=589>
 
 - **Veranstaltungsart:** Masterseminar
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 16:00–18:00 | 16.04.2026–16.07.2026 | 00501.02.012 ( KH 2.012 Hörsaal Kollegienhaus) |
 
 ### Readings in North American Literary Studies - Masterseminar
 
@@ -625,7 +632,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86829&periodId=589>
 
 - **Veranstaltungsart:** Masterseminar
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 16:00–18:00 | 16.04.2026–16.07.2026 | 00501.02.012 ( KH 2.012 Hörsaal Kollegienhaus) |
 
 ### US Cultural and Literary History: The 19th Century - Vorlesung
 
@@ -634,7 +648,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134246&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Englisch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.01.012 ( KH 1.012 Hörsaal Kollegienhaus) |
 
 ### US Cultural and Literary History: The 19th Century - Vorlesung
 
@@ -643,7 +664,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134246&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Englisch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.01.012 ( KH 1.012 Hörsaal Kollegienhaus) |
 
 ### 1999 Masterarbeit (M.A. North American Studies: Culture and Literature 20162)
 
@@ -1153,7 +1181,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
 
 ### SZEAMADS - Discourse Structure (MA) - Übung
 
@@ -1163,27 +1198,18 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (16)
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (13)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
-
-### 21st Century Feminist Life Writing in North America — Hauptseminar
-
-- **Segment:** `unit:111373` · **unitId:** `111373`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111373&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** Unregelmäßig
-
-### 24/7 Everything and the Poetics of Deceleration — Hauptseminar
-
-- **Segment:** `unit:122563` · **unitId:** `122563`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122563&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** Unregelmäßig
 
 ### Academic Discourse (M.A) — Übung
 
@@ -1193,14 +1219,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
-
-### American Journeys: Travel in Literary and Cultural Texts — Hauptseminar
-
-- **Segment:** `unit:111368` · **unitId:** `111368`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111368&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** Unregelmäßig
 
 ### American Literary and Cultural History, 20th Century — Vorlesung
 
@@ -1289,8 +1307,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 

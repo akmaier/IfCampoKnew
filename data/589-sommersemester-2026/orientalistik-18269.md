@@ -349,7 +349,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 6.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:30–10:00 | 14.04.2026–14.07.2026 | — |
+| wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | — |
+| wöchentlich | Do | 12:00–13:30 | 16.04.2026–16.07.2026 | — |
 
 ### BA 2. FS: [Modul Arabisch II]  Sprachkurs Arabisch II - Übung
 
@@ -359,7 +368,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 6.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:30–10:00 | 14.04.2026–14.07.2026 | — |
+| wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | — |
+| wöchentlich | Do | 12:00–13:30 | 16.04.2026–16.07.2026 | — |
 
 ### BA 2. FS: [Modul Arabisch II]  Sprachkurs Arabisch II - Übung
 
@@ -369,7 +387,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 6.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:30–10:00 | 14.04.2026–14.07.2026 | — |
+| wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | — |
+| wöchentlich | Do | 12:00–13:30 | 16.04.2026–16.07.2026 | — |
 
 ### BA 2. FS: [Modul Geschichte der islamischen Welt] Propädeutikum - Proseminar
 
@@ -538,14 +565,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Arabisch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 08:30–10:00 | 17.04.2026–17.07.2026 | — |
 
 ### BA 4. FS: [Modul Arabisch IV]  Konversation Arabisch IV - Übung
 
@@ -555,14 +575,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Arabisch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 08:30–10:00 | 17.04.2026–17.07.2026 | — |
 
 ### BA 4. FS: [Modul Arabisch IV]  Konversation Arabisch IV - Übung
 
@@ -572,14 +585,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Arabisch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 08:30–10:00 | 17.04.2026–17.07.2026 | — |
 
 ### BA 4. FS: [Modul Sprachen, Kulturen und Religionen des Orients] Religionswissenschaftliches Seminar - Seminar
 
@@ -776,7 +782,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Kurs
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | 05801.04.213 ( B 604) |
+| wöchentlich | Fr | 12:15–13:45 | 17.04.2026–17.07.2026 | 05801.04.213 ( B 604) |
 
 ### BA 6. FS: [Modul Zweite Orientalische Sprache] Modernes Hebräisch IV - Kurs
 
@@ -786,7 +800,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Kurs
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | 05801.04.213 ( B 604) |
+| wöchentlich | Fr | 12:15–13:45 | 17.04.2026–17.07.2026 | 05801.04.213 ( B 604) |
 
 ### BA 6: Klassische Literatur II (Klassisch-arabische Poesie) - Seminar
 
@@ -907,7 +929,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Kurs
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 05801.04.310 ( C 603) |
 
 ### BA: [Modul Geschichte der islamischen Welt] Historisches Seminar - Seminar
 
@@ -1055,7 +1084,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 16:15–17:45 | 15.04.2026–15.07.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
+| wöchentlich | Mo | 16:15–17:45 | 20.04.2026–13.07.2026 | 00501.00.020 ( KH 0.020 Hörsaal Kollegienhaus) |
 
 ### Türkisch: Elementarkus II - Übung
 
@@ -1099,6 +1136,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18269|exam:15320726|exam:15320729|exam:15320730|exam:15322484|exam:15322485>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82061&periodId=589>
 
+- **ECTS-Punkte:** 10.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -1805,7 +1843,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Kurs
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:15–15:45 | 14.04.2026–14.07.2026 | 05801.04.213 ( B 604) |
 
 ### Hinweis: Dieser Kurs (Türkische Konversation, Niveau ab B1) ist ein Zusatzangebot und kein Ersatz für Türkisch II. Durch das Belegen dieses Kurses können keine ECTS im Rahmen des Moduls „Zweite Orientalische Sprache II" (BA Orientalistik) erworben werden. Der Kurs wird als Schlüsselqualifikation angerechnet. - Türkisch: Sprechen, Verstehen, Diskutieren (B1-B2) - Kurs
 
@@ -1815,9 +1860,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Kurs
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (137)
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:15–15:45 | 14.04.2026–14.07.2026 | 05801.04.213 ( B 604) |
+
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (120)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -1838,7 +1890,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Mo | 16:00–18:00 | 20.04.2026–13.07.2026 | 00901.00.027 (Orangerie - Mediathek/Seminarraum) |
 | Blockveranstaltung | — | 10:00–17:00 | 27.05.2026–28.05.2026 | — |
 
-### "Far stupire il mondo" - Veit Stoß und die Skulptur der Dürerzeit in Nürnberg — Vorlesung
+### "Fare stupire il mondo" - Veit Stoß und die Skulptur der Dürerzeit in Nürnberg — Vorlesung
 
 - **Segment:** `unit:138362` · **unitId:** `138362`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138362&periodId=589>
@@ -1898,24 +1950,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-### Abbild - Selbstbild. Schlüsselwerke der Porträtmalerei vom 16. Jahrhundert bis zum 20. Jahrhundert — Aufbauseminar
-
-- **Segment:** `unit:117418` · **unitId:** `117418`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117418&periodId=589>
-
-- **Veranstaltungsart:** Aufbauseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
-### Altarwerke der altniederländischen Malerei — Aufbauseminar
-
-- **Segment:** `unit:124830` · **unitId:** `124830`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124830&periodId=589>
-
-- **Veranstaltungsart:** Aufbauseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
 ### Altdorfer, Breu, Cranach. Avantgarde im Donauraum? — Ober- und Hauptseminar
 
 - **Segment:** `unit:111186` · **unitId:** `111186`
@@ -1966,15 +2000,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 6.0
 - **Turnus:** nur im Wintersemester
 
-### BA 1: Arabisch I Konversation — Übung
-
-- **Segment:** `unit:86884` · **unitId:** `86884`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86884&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 4.0
-- **Turnus:** nur im Wintersemester
-
 ### BA 1: Einführung in die Geschichte des Islam [Modul Geschichte der islamischen Welt] — Proseminar
 
 - **Segment:** `unit:87841` · **unitId:** `87841`
@@ -1991,24 +2016,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Kurs
 - **ECTS-Punkte:** 10.0
-- **Turnus:** nur im Wintersemester
-
-### BA 3: Arabisch III [B.A. Orientalistik] — Kurs
-
-- **Segment:** `unit:106539` · **unitId:** `106539`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106539&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **ECTS-Punkte:** 6.0
-- **Turnus:** nur im Wintersemester
-
-### BA 3: Arabisch III Konversation — Übung
-
-- **Segment:** `unit:86269` · **unitId:** `86269`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86269&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 4.0
 - **Turnus:** nur im Wintersemester
 
 ### BA 3: Modul Religionen des Orients: Einführendes religionswissenschaftliches Seminar
@@ -2079,7 +2086,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 18:15–19:45 | 16.04.2026–16.07.2026 | 08901.00.112 ( 00.112 Seminarraum 2) |
 
 ### BA-4 Modernes Chinesisch: Hören und Sprechen (Übung)
 
@@ -2089,6 +2103,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 08901.00.111 ( 00.111 Seminarraum 1) |
 
 ### BA-5 Modernes Chinesisch: Grammatische Strukturen — Übung
 
@@ -2131,7 +2151,16 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 56701.02.036 (Mo - Fr 8:00 - 20:00 Uhr Romanistik) |
+| Einzeltermin | Fr | 15:15–16:45 | 17.07.2026 | 56701.02.036 (Mo - Fr 8:00 - 20:00 Uhr Romanistik) |
+| Einzeltermin | Do | 10:15–11:45 | 23.07.2026 | 56701.02.014 ( 02.014) |
 
 ### Bauen am Bauhaus — Aufbauseminar
 
@@ -2230,6 +2259,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 3.0
 - **Turnus:** nur im Sommersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:15–15:45 | 21.04.2026–14.07.2026 | 05701.00.010 ( 00.010 Übungsraum 1) |
+
 ### Cultura e civiltà II — Übung
 
 - **Segment:** `unit:89518` · **unitId:** `89518`
@@ -2245,15 +2280,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111358&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
-### Das gute Leben! Künste und Kulturen der ,Lebensreform' um 1900 — Aufbauseminar
-
-- **Segment:** `unit:127214` · **unitId:** `127214`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127214&periodId=589>
-
-- **Veranstaltungsart:** Aufbauseminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
@@ -2283,15 +2309,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Ober- und Hauptseminar
 - **Turnus:** Unregelmäßig
 
-### Die Überzeugungskraft der Bilder. Kunst des 15. Jahrhunderts im Germanischen Nationalmuseum — Aufbauseminar
-
-- **Segment:** `unit:105951` · **unitId:** `105951`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=105951&periodId=589>
-
-- **Veranstaltungsart:** Aufbauseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
 ### Dürer + der Aztekenschatz: Wahrnehmungsformen außereuropäischer Kulturen in der Renaissance — Vorlesung
 
 - **Segment:** `unit:119843` · **unitId:** `119843`
@@ -2317,30 +2334,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | — |
 
-### Dürer als Universalkünstler - Teil II — Ober- und Hauptseminar
-
-- **Segment:** `unit:138353` · **unitId:** `138353`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138353&periodId=589>
-
-- **Veranstaltungsart:** Ober- und Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
 ### Eine Reise nach Japan: Der Blick nach ,Osten' und seine Bedeutung für die westliche Moderne — Ober- und Hauptseminar
 
 - **Segment:** `unit:127216` · **unitId:** `127216`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127216&periodId=589>
 
 - **Veranstaltungsart:** Ober- und Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
-### Einführung in die Barockarchitektur: Architekten - Bauaufgaben - Auftraggeber — Aufbauseminar
-
-- **Segment:** `unit:111188` · **unitId:** `111188`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111188&periodId=589>
-
-- **Veranstaltungsart:** Aufbauseminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
@@ -2360,7 +2359,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | 05701.00.010 ( 00.010 Übungsraum 1) |
 
 ### Esercitazioni di fonetica pratica PronunciAmo (Blended Learning Kurs) — Übung
 
@@ -2384,15 +2390,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:122849` · **unitId:** `122849`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122849&periodId=589>
-
-- **Veranstaltungsart:** Ober- und Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
-### Fettecke und Lumpenvenus: "Schmutzige" Materialien (in) der Kunst seit 1960 — Ober- und Hauptseminar
-
-- **Segment:** `unit:119846` · **unitId:** `119846`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119846&periodId=589>
 
 - **Veranstaltungsart:** Ober- und Hauptseminar
 - **ECTS-Punkte:** 5.0
@@ -2452,15 +2449,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mi | Mi | — | 07.06.2026 23:59:59 | — |
-
-### Gotische Skulptur in Frankreich — Aufbauseminar
-
-- **Segment:** `unit:123004` · **unitId:** `123004`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123004&periodId=589>
-
-- **Veranstaltungsart:** Aufbauseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
 
 ### Grammar & Vocabulary for Erasmus students
 
@@ -2548,7 +2536,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Ober- und Hauptseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
 
 ### Hans Baldung Grien — Ober- und Hauptseminar
 
@@ -2567,13 +2562,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
-
-### Innen wie außen. Apps zu historischen Bauten — Seminar
-
-- **Segment:** `unit:120506` · **unitId:** `120506`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120506&periodId=589>
-
-- **Veranstaltungsart:** Seminar
 
 ### Italienisch: Cultura e civiltà italiana III
 
@@ -2724,7 +2712,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 18:00–19:30 | 22.04.2026–15.07.2026 | — |
 
 ### Kirchner und der Expressionismus — Ober- und Hauptseminar
 
@@ -2904,8 +2899,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -2944,24 +2939,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Mensch - Natur - Kunst: Welt-Bilder und Gegen-Welten — Ober- und Hauptseminar
-
-- **Segment:** `unit:122847` · **unitId:** `122847`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122847&periodId=589>
-
-- **Veranstaltungsart:** Ober- und Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
-### Methoden, Theorien und Werkzeuge der digitalen Provenienzforschung — Seminar
-
-- **Segment:** `unit:138405` · **unitId:** `138405`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138405&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
 ### Modernes Chinesisch: Grammatische Strukturen
 
 - **Segment:** `unit:53624` · **unitId:** `53624`
@@ -2975,15 +2952,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | 10:00–12:00 | 07.06.2026 23:59:59 | — |
-
-### Museen verstehen: Architektur - Ausstellung - Ausstattung — Vorlesung
-
-- **Segment:** `unit:115790` · **unitId:** `115790`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115790&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
 
 ### Mündliche Prüfung zu Modernes Chinesisch: Hören und Sprechen
 
@@ -3043,15 +3011,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
-### Persisch II — Übung
-
-- **Segment:** `unit:112358` · **unitId:** `112358`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112358&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
 ### Peter Paul Rubens — Aufbauseminar
 
 - **Segment:** `unit:133860` · **unitId:** `133860`
@@ -3108,14 +3067,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Ober- und Hauptseminar
 - **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
-### Renaissance in Florenz: Giorgio Vasari und seine Künstlerviten — Aufbauseminar
-
-- **Segment:** `unit:126699` · **unitId:** `126699`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126699&periodId=589>
-
-- **Veranstaltungsart:** Aufbauseminar
 - **Turnus:** Unregelmäßig
 
 ### Romanische Portale in Frankreich — Aufbauseminar
@@ -3266,7 +3217,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 10:00–17:00 | 22.09.2026–25.09.2026 | — |
 
 ### Textile Moderne: Stoffe, Fäden, Netze und was sie für die Kunst bedeuten — Aufbauseminar
 
@@ -3316,7 +3274,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Ober- und Hauptseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:00–16:00 | 13.04.2026–13.07.2026 | 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
 
 ### Wiener Werkstätte. Die Moderne entsteht — Ober- und Hauptseminar
 

@@ -839,7 +839,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mi | 09:00–18:00 | 29.04.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
+| Einzeltermin | Do | 09:00–18:00 | 21.05.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 1401 - Einführung in die psychogerontologische Intervention - Vorlesung
 
@@ -849,7 +857,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mi | 09:00–18:00 | 29.04.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
+| Einzeltermin | Do | 09:00–18:00 | 21.05.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 1401 - Einführung in die psychogerontologische Intervention - Vorlesung
 
@@ -859,7 +875,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mi | 09:00–18:00 | 29.04.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
+| Einzeltermin | Do | 09:00–18:00 | 21.05.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 1401 - Einführung in die psychogerontologische Intervention - Vorlesung
 
@@ -869,7 +893,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mi | 09:00–18:00 | 29.04.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
+| Einzeltermin | Do | 09:00–18:00 | 21.05.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 1401 - Einführung in die psychogerontologische Intervention - Vorlesung
 
@@ -879,7 +911,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mi | 09:00–18:00 | 29.04.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
+| Einzeltermin | Do | 09:00–18:00 | 21.05.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 1401 - Einführung in die psychogerontologische Intervention - Vorlesung
 
@@ -889,7 +929,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mi | 09:00–18:00 | 29.04.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
+| Einzeltermin | Do | 09:00–18:00 | 21.05.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 1402 - Konzepte der psychogerontologischen Intervention - Seminar
 
@@ -1540,7 +1588,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 54301.02.313 ( 02.313 Seminarraum) |
+| wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 54301.02.313 ( 02.313 Seminarraum) |
 
 ### Forschungsorientiertes Praktikum inkl. computergestützte Datenanalyse  - Praktikum
 
@@ -1565,7 +1613,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122407&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 54301.02.319 (02.319 Konferenzraum) |
 
 ### Hauptseminar Endocrine Assessment: Messung von Hormonen im Speichel - Hauptseminar / Masterseminar
 
@@ -1574,7 +1629,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122407&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 54301.02.319 (02.319 Konferenzraum) |
 
 ### Hauptseminar Endocrine Assessment: Messung von Hormonen im Speichel - Hauptseminar / Masterseminar
 
@@ -1583,7 +1645,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122407&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 54301.02.319 (02.319 Konferenzraum) |
 
 ### Hauptseminar Endocrine Assessment: Messung von Hormonen im Speichel - Hauptseminar / Masterseminar
 
@@ -1592,7 +1661,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122407&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 54301.02.319 (02.319 Konferenzraum) |
 
 ### Hauptseminar Entwicklungspsychopathologie - Hauptseminar
 
@@ -1694,7 +1770,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 16:15–17:45 | 21.04.2026–14.07.2026 | 54301.02.216 ( 02.216 Seminarraum, Nägelsbachstr. 49b) |
+| wöchentlich | Mo | 10:15–11:45 | 20.04.2026–13.07.2026 | 54301.02.216 ( 02.216 Seminarraum, Nägelsbachstr. 49b) |
 
 ### Hauptseminar Gutachtenerstellung  - Hauptseminar
 
@@ -1711,7 +1787,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 16:15–17:45 | 21.04.2026–14.07.2026 | 54301.02.216 ( 02.216 Seminarraum, Nägelsbachstr. 49b) |
+| wöchentlich | Mo | 10:15–11:45 | 20.04.2026–13.07.2026 | 54301.02.216 ( 02.216 Seminarraum, Nägelsbachstr. 49b) |
 
 ### Hauptseminar Gutachtenerstellung  - Hauptseminar
 
@@ -1728,7 +1804,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 16:15–17:45 | 21.04.2026–14.07.2026 | 54301.02.216 ( 02.216 Seminarraum, Nägelsbachstr. 49b) |
+| wöchentlich | Mo | 10:15–11:45 | 20.04.2026–13.07.2026 | 54301.02.216 ( 02.216 Seminarraum, Nägelsbachstr. 49b) |
 
 ### Hauptseminar Kognition, Motivation oder Sozialpsychologie - Seminar
 
@@ -1956,6 +2032,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:15331707` · **unitId:** `111422`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18276|exam:15331038|exam:15331041|exam:15331042|exam:15331693|exam:15331707>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111422&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
+- **Turnus:** jedes 2. Semester
 
 #### Termine
 
@@ -2211,7 +2290,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Kolloquium
 - **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 18:15–19:45 | 13.04.2026–13.07.2026 | 05801.02.110 ( A 401) |
 
 ### Kolloquium (Kurs E) - Kolloquium
 
@@ -2221,7 +2307,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Kolloquium
 - **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 18:15–19:45 | 13.04.2026–13.07.2026 | 05801.02.110 ( A 401) |
 
 ### Kolloquium (Kurs E) - Kolloquium
 
@@ -2231,7 +2324,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Kolloquium
 - **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 18:15–19:45 | 13.04.2026–13.07.2026 | 05801.02.110 ( A 401) |
 
 ### Kolloquium (Kurs E) - Kolloquium
 
@@ -2241,7 +2341,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Kolloquium
 - **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 18:15–19:45 | 13.04.2026–13.07.2026 | 05801.02.110 ( A 401) |
 
 ### Kolloquium (Kurs E) - Kolloquium
 
@@ -2251,7 +2358,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Kolloquium
 - **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 18:15–19:45 | 13.04.2026–13.07.2026 | 05801.02.110 ( A 401) |
 
 ### Kolloquium (Kurs E) - Kolloquium
 
@@ -2261,7 +2375,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Kolloquium
 - **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 18:15–19:45 | 13.04.2026–13.07.2026 | 05801.02.110 ( A 401) |
 
 ### Kolloquium (Kurs F) - Kolloquium
 
@@ -2271,7 +2392,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Kolloquium
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 54301.02.216 ( 02.216 Seminarraum, Nägelsbachstr. 49b) |
 
 ### Kolloquium (Kurs F) - Kolloquium
 
@@ -2281,7 +2409,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Kolloquium
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 54301.02.216 ( 02.216 Seminarraum, Nägelsbachstr. 49b) |
 
 ### Kolloquium BSc (Kurs D): Sozialpsychologie - Kolloquium
 
@@ -2394,12 +2529,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Kolloquium
 - **Turnus:** nur im Sommersemester
 
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | — |
-
 ### Kollquium (Kurs C) B.Sc. Entwicklungspsychologie, Pädagogische Psychologie und Entwicklungspsychopathologie - Kolloquium
 
 - **Segment:** `exam:15331591` · **unitId:** `113174`
@@ -2408,12 +2537,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Kolloquium
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | — |
 
 ### Praktikum zur Feldforschung inkl. computergestützte Datenanalyse  (Kurs C1) - Praktikum
 
@@ -2540,7 +2663,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97429&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 54201.00.030 ( Hörsaal - Studienzentrum Stintzingstraße) |
 
 ### Proseminar Allgemeine Psychologie I: Kognition - Proseminar
 
@@ -2549,7 +2679,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97429&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 54201.00.030 ( Hörsaal - Studienzentrum Stintzingstraße) |
 
 ### Proseminar Allgemeine Psychologie II - Proseminar
 
@@ -2899,7 +3036,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 4.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 54201.00.010 (SR 1 Studienzentrum) |
 
 ### Seminar Differentielle und Persönlichkeitspsychologie Kurs B: Persönlichkeit und Altern - Seminar
 
@@ -2909,7 +3053,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 4.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 54201.00.010 (SR 1 Studienzentrum) |
 
 ### Seminar Differentielle und Persönlichkeitspsychologie Kurs B: Persönlichkeit und Altern - Seminar
 
@@ -2919,7 +3070,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 4.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 54201.00.010 (SR 1 Studienzentrum) |
 
 ### Seminar Entwicklungspsychologie - Seminar
 
@@ -3020,7 +3178,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 54301.02.313 ( 02.313 Seminarraum) |
 
 ### Seminar Entwicklungspsychologie: Entwicklungspsychologie des Jugendalters - Seminar
 
@@ -3030,7 +3195,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 54301.02.313 ( 02.313 Seminarraum) |
 
 ### Seminar Entwicklungspsychologie: Entwicklungspsychologie des Jugendalters - Seminar
 
@@ -3040,7 +3212,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 54301.02.313 ( 02.313 Seminarraum) |
 
 ### Seminar Entwicklungspsychologie: Frühe Beziehungserfahrungen als Grundlage sozio-emotionaler Entwicklung - Seminar
 
@@ -3097,7 +3276,17 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135085&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Di | 18:00–20:00 | 05.05.2026 | — |
+| Einzeltermin | Fr | 14:00–18:00 | 12.06.2026 | 54201.00.010 (SR 1 Studienzentrum) |
+| Einzeltermin | Sa | 10:00–18:00 | 13.06.2026 | 54301.02.216 ( 02.216 Seminarraum, Nägelsbachstr. 49b) |
+| Einzeltermin | So | 10:00–16:00 | 14.06.2026 | 54301.02.216 ( 02.216 Seminarraum, Nägelsbachstr. 49b) |
 
 ### Seminar Entwickungspsychologie - Seminar
 
@@ -3106,7 +3295,17 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135085&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Di | 18:00–20:00 | 05.05.2026 | — |
+| Einzeltermin | Fr | 14:00–18:00 | 12.06.2026 | 54201.00.010 (SR 1 Studienzentrum) |
+| Einzeltermin | Sa | 10:00–18:00 | 13.06.2026 | 54301.02.216 ( 02.216 Seminarraum, Nägelsbachstr. 49b) |
+| Einzeltermin | So | 10:00–16:00 | 14.06.2026 | 54301.02.216 ( 02.216 Seminarraum, Nägelsbachstr. 49b) |
 
 ### Seminar Entwickungspsychologie - Seminar
 
@@ -3115,7 +3314,17 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135085&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Di | 18:00–20:00 | 05.05.2026 | — |
+| Einzeltermin | Fr | 14:00–18:00 | 12.06.2026 | 54201.00.010 (SR 1 Studienzentrum) |
+| Einzeltermin | Sa | 10:00–18:00 | 13.06.2026 | 54301.02.216 ( 02.216 Seminarraum, Nägelsbachstr. 49b) |
+| Einzeltermin | So | 10:00–16:00 | 14.06.2026 | 54301.02.216 ( 02.216 Seminarraum, Nägelsbachstr. 49b) |
 
 ### Seminar Forschungsmethoden  - Seminar
 
@@ -3176,7 +3385,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | 54301.02.219 ( 02.219 Seminarraum, Nägelsbachstr. 49b) |
 
 ### Seminar Soziale Beziehungen im Arbeitsleben 1: Organisationale Veränderungen - Seminar
 
@@ -3186,7 +3402,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | 54301.02.219 ( 02.219 Seminarraum, Nägelsbachstr. 49b) |
 
 ### Seminar Soziale Beziehungen im Arbeitsleben 1: Organisationale Veränderungen - Seminar
 
@@ -3196,7 +3419,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | 54301.02.219 ( 02.219 Seminarraum, Nägelsbachstr. 49b) |
 
 ### Seminar Soziale Beziehungen im Arbeitsleben 1: Organisationale Veränderungen - Seminar
 
@@ -3206,7 +3436,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | 54301.02.219 ( 02.219 Seminarraum, Nägelsbachstr. 49b) |
 
 ### Seminar Soziale Beziehungen im Arbeitsleben 1: Organisationale Veränderungen - Seminar
 
@@ -3216,7 +3453,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | 54301.02.219 ( 02.219 Seminarraum, Nägelsbachstr. 49b) |
 
 ### Seminar Soziale Beziehungen im Arbeitsleben 1: Organisationale Veränderungen - Seminar
 
@@ -3226,7 +3470,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | 54301.02.219 ( 02.219 Seminarraum, Nägelsbachstr. 49b) |
 
 ### Seminar soziale Beziehungen im Arbeitsleben 2: Gender & Diversity - Seminar
 
@@ -3468,7 +3719,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 4.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 54301.02.219 ( 02.219 Seminarraum, Nägelsbachstr. 49b) |
 
 ### Seminar zur Allgemeinen Psychologie II (Kurs B): Neuropsychologie der Hemisphärenasymmetrien - Seminar
 
@@ -3478,7 +3736,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 4.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 54301.02.219 ( 02.219 Seminarraum, Nägelsbachstr. 49b) |
 
 ### Seminar zur Allgemeinen Psychologie II (Kurs B): Neuropsychologie der Hemisphärenasymmetrien - Seminar
 
@@ -3488,7 +3753,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 4.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 54301.02.219 ( 02.219 Seminarraum, Nägelsbachstr. 49b) |
 
 ### Stress Biology 1 - Hauptseminar
 
@@ -3985,7 +4257,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 54201.00.030 ( Hörsaal - Studienzentrum Stintzingstraße) |
 
 ### Vorlesung Sozialpsychologie, Teil 2 - Vorlesung
 
@@ -3995,7 +4274,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 54201.00.030 ( Hörsaal - Studienzentrum Stintzingstraße) |
 
 ### Vorlesung Sozialpsychologie, Teil 2 - Vorlesung
 
@@ -4005,7 +4291,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 54201.00.030 ( Hörsaal - Studienzentrum Stintzingstraße) |
 
 ### Vorlesung Statistik II - Vorlesung
 
@@ -8090,7 +8383,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | Mo | 10:00–11:00 | — | 05901.00.040 ( HS C Hörsaal C - 00.040) |
+| Mo | Mo | 10:00–11:00 | — | 54301.02.216 ( 02.216 Seminarraum, Nägelsbachstr. 49b) |
 
 ### 82103 Vorlesung Statistik II - Leistung
 
@@ -9293,7 +9586,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93905&periodId=589>
 
 - **Veranstaltungsart:** Kolloquium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 54201.00.010 (SR 1 Studienzentrum) |
 
 ### KollEPP - Kolloquium (Kurs C) M.Sc.: Entwicklungspsychologie, Pädagogische Psychologie und Entwicklungspsychopathologie - Kolloquium
 
@@ -9302,7 +9602,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93905&periodId=589>
 
 - **Veranstaltungsart:** Kolloquium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 54201.00.010 (SR 1 Studienzentrum) |
 
 ### KollEPP - Kolloquium (Kurs C) M.Sc.: Entwicklungspsychologie, Pädagogische Psychologie und Entwicklungspsychopathologie - Kolloquium
 
@@ -9311,7 +9618,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93905&periodId=589>
 
 - **Veranstaltungsart:** Kolloquium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 54201.00.010 (SR 1 Studienzentrum) |
 
 ### KollEPP - Kolloquium (Kurs C) M.Sc.: Entwicklungspsychologie, Pädagogische Psychologie und Entwicklungspsychopathologie - Kolloquium
 
@@ -9320,7 +9634,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93905&periodId=589>
 
 - **Veranstaltungsart:** Kolloquium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 54201.00.010 (SR 1 Studienzentrum) |
 
 ### KollEPP - Kolloquium (Kurs C) M.Sc.: Entwicklungspsychologie, Pädagogische Psychologie und Entwicklungspsychopathologie - Kolloquium
 
@@ -9329,7 +9650,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93905&periodId=589>
 
 - **Veranstaltungsart:** Kolloquium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 54201.00.010 (SR 1 Studienzentrum) |
 
 ### KollEPP - Kolloquium (Kurs C) M.Sc.: Entwicklungspsychologie, Pädagogische Psychologie und Entwicklungspsychopathologie - Kolloquium
 
@@ -9338,7 +9666,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93905&periodId=589>
 
 - **Veranstaltungsart:** Kolloquium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 54201.00.010 (SR 1 Studienzentrum) |
 
 ### KollEPP - Kolloquium (Kurs C) M.Sc.: Entwicklungspsychologie, Pädagogische Psychologie und Entwicklungspsychopathologie - Kolloquium
 
@@ -9347,7 +9682,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93905&periodId=589>
 
 - **Veranstaltungsart:** Kolloquium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 54201.00.010 (SR 1 Studienzentrum) |
 
 ### KollEPP - Kolloquium (Kurs C) M.Sc.: Entwicklungspsychologie, Pädagogische Psychologie und Entwicklungspsychopathologie - Kolloquium
 
@@ -9356,7 +9698,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93905&periodId=589>
 
 - **Veranstaltungsart:** Kolloquium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 54201.00.010 (SR 1 Studienzentrum) |
 
 ### KollEPP - Kolloquium (Kurs C) M.Sc.: Entwicklungspsychologie, Pädagogische Psychologie und Entwicklungspsychopathologie - Kolloquium
 
@@ -9365,7 +9714,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93905&periodId=589>
 
 - **Veranstaltungsart:** Kolloquium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 54201.00.010 (SR 1 Studienzentrum) |
 
 ### KollEPP - Kolloquium (Kurs C) M.Sc.: Entwicklungspsychologie, Pädagogische Psychologie und Entwicklungspsychopathologie - Kolloquium
 
@@ -9374,7 +9730,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93905&periodId=589>
 
 - **Veranstaltungsart:** Kolloquium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 54201.00.010 (SR 1 Studienzentrum) |
 
 ### KollEPP - Kolloquium (Kurs C) M.Sc.: Entwicklungspsychologie, Pädagogische Psychologie und Entwicklungspsychopathologie - Kolloquium
 
@@ -9383,7 +9746,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93905&periodId=589>
 
 - **Veranstaltungsart:** Kolloquium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 54201.00.010 (SR 1 Studienzentrum) |
 
 ### KollEPP - Kolloquium (Kurs C) M.Sc.: Entwicklungspsychologie, Pädagogische Psychologie und Entwicklungspsychopathologie - Kolloquium
 
@@ -9392,7 +9762,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93905&periodId=589>
 
 - **Veranstaltungsart:** Kolloquium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 54201.00.010 (SR 1 Studienzentrum) |
 
 ### KollEPP - Kolloquium (Kurs C) M.Sc.: Entwicklungspsychologie, Pädagogische Psychologie und Entwicklungspsychopathologie - Kolloquium
 
@@ -9401,7 +9778,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93905&periodId=589>
 
 - **Veranstaltungsart:** Kolloquium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 54201.00.010 (SR 1 Studienzentrum) |
 
 ### KollEPP - Kolloquium (Kurs C) M.Sc.: Entwicklungspsychologie, Pädagogische Psychologie und Entwicklungspsychopathologie - Kolloquium
 
@@ -9410,7 +9794,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93905&periodId=589>
 
 - **Veranstaltungsart:** Kolloquium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 54201.00.010 (SR 1 Studienzentrum) |
 
 ### Päd.Psych.A - Seminar Pädagogische Psychologie: Bringt Sitzenbleiben etwas und gehört Mobbing in der Schule zum  normalen Aufwachsen? - Beiträge der Pädagogischen Psychologie zu Fragen der schulischen Praxis (Kurs A) - Seminar
 
@@ -9420,7 +9811,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 08:15–09:45 | 16.04.2026–16.07.2026 | 54301.02.219 ( 02.219 Seminarraum, Nägelsbachstr. 49b) |
 
 ### Päd.Psych.A - Seminar Pädagogische Psychologie: Bringt Sitzenbleiben etwas und gehört Mobbing in der Schule zum  normalen Aufwachsen? - Beiträge der Pädagogischen Psychologie zu Fragen der schulischen Praxis (Kurs A) - Seminar
 
@@ -9430,7 +9828,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 08:15–09:45 | 16.04.2026–16.07.2026 | 54301.02.219 ( 02.219 Seminarraum, Nägelsbachstr. 49b) |
 
 ### SEM - MED 20406 Kinder- und Jugendpsychiatrie und -psychotherapie - Seminar
 
@@ -9525,14 +9930,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | 54201.01.009 ( Übungsraum I/9 Studienzentrum) |
 
 ### Seminar PädPsy - Seminar Pädagogische Psychologie - Seminar
 
@@ -9542,14 +9940,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | 54201.01.009 ( Übungsraum I/9 Studienzentrum) |
 
 ### VorlEntw - Vorlesung Entwicklungspsychologie, Teil 2 - Vorlesung
 
@@ -9559,7 +9950,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 16:15–17:45 | 15.04.2026–15.07.2026 | 54201.00.030 ( Hörsaal - Studienzentrum Stintzingstraße) |
 
 ### VorlEntw - Vorlesung Entwicklungspsychologie, Teil 2 - Vorlesung
 
@@ -9569,7 +9967,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 16:15–17:45 | 15.04.2026–15.07.2026 | 54201.00.030 ( Hörsaal - Studienzentrum Stintzingstraße) |
 
 ### VorlEntw - Vorlesung Entwicklungspsychologie, Teil 2 - Vorlesung
 
@@ -9579,7 +9984,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 16:15–17:45 | 15.04.2026–15.07.2026 | 54201.00.030 ( Hörsaal - Studienzentrum Stintzingstraße) |
 
 ### Vorlesung Grundlagen Pharmakotherapie - K-V Vorlesung 'Grundlagen der Pharmakotherapie' Modul 11 (Polyvalenter Bachelor of Science Psychologie) - Vorlesung
 
@@ -9597,16 +10009,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mo | 16:15–17:45 | 13.04.2026–13.07.2026 | — |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (308)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (261)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
-
-### "Ganz wie der Mann?" Bilder und Rollen von Frauen und Männern in der Frühen Neuzeit — Proseminar
-
-- **Segment:** `unit:110723` · **unitId:** `110723`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110723&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
 
 ### 'Erkenntnis durch Widerspruch' - Über Dissens und Konsens in den Wissenschaften — Seminar
 
@@ -9656,15 +10061,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 09:00–18:00 | 27.05.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
-| Einzeltermin | Fr | 09:00–18:00 | 29.05.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 1302 Aktuelle Forschung in der Psychogerontologie (Master- und Forschungskolloquium) (semesterbegleitend)
 
@@ -9729,7 +10126,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89184&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 09:00–15:00 | 16.04.2026 | 05901.01.055 ( 01.055) |
+| Einzeltermin | Do | 09:00–15:00 | 23.04.2026 | 05901.01.055 ( 01.055) |
 
 ### Aktuelle Fragen der Angewandten Ethik (PS/MS) — Kombiseminar
 
@@ -9744,13 +10149,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115602&periodId=589>
 
 - **Veranstaltungsart:** Kombiseminar
-
-### Alles, was recht/s/ ist? Rechtes und extrem rechtes Denken als Forschungsgegenstand der Politischen Theorie und Ideengeschichte — Proseminar
-
-- **Segment:** `unit:126501` · **unitId:** `126501`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126501&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
 
 ### Allgemeine Biologie I: Biologie für Nebenfächler (Bio-NF) — Vorlesung
 
@@ -9916,7 +10314,16 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 14:00–18:00 | 13.04.2026 | 13003.00.882 (HB Hörsaal -Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
+| wöchentlich | Mo | 14:00–18:00 | 13.04.2026–13.07.2026 | — |
+| Einzeltermin | Mi | 09:00–12:00 | 15.04.2026 | 13002.00.585 (Ks H Kursraum H) |
 
 ### BA/MA: Yin-Yang-Theorien — Proseminar / Mittelseminar
 
@@ -9947,15 +10354,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Blockveranstaltung+SaundSo | — | 09:00–18:00 | 19.06.2026–21.06.2026 | 56901.00.025 (CIP-Pool 1 (aktuell noch keine Rechnerausstattung - Vorbelegungsrecht HTA Departments für WS bis 15.07.26))) |
-
-### Basics of Biobehavioral Health — Proseminar
-
-- **Segment:** `unit:96570` · **unitId:** `96570`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96570&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Basismodul Philosophie
 
@@ -10000,7 +10398,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134169&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 08:15–09:45 | 16.04.2026–16.07.2026 | 05901.05.013 ( 05.013) |
 
 ### Basisseminar Bildung und Lebenslauf
 
@@ -10030,7 +10435,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134173&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 05901.05.012 ( 05.012) |
 
 ### Basisseminar Vergleichende Gesellschaftsanalyse
 
@@ -10038,15 +10450,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134150&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-### Basisseminar: Arbeit und Organisation
+#### Termine
 
-- **Segment:** `unit:95979` · **unitId:** `95979`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95979&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nur im Wintersemester
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 05901.05.052 ( 05.052) |
 
 ### Basisseminar: Bildung und Lebenslauf
 
@@ -10078,30 +10489,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115417&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-
-### Basisseminar: Vergleichende Gesellschaftsanalyse
-
-- **Segment:** `unit:96036` · **unitId:** `96036`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96036&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nur im Wintersemester
-
-### Berlin, Brüssel …  Erlangen? Umweltpolitik im politischen Mehrebenensystem — Proseminar
-
-- **Segment:** `unit:122872` · **unitId:** `122872`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122872&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Berlin, Brüssel …  Erlangen? Umweltpolitik im politischen Mehrebenensystem — Proseminar
-
-- **Segment:** `unit:130831` · **unitId:** `130831`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130831&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
 
 ### Best Practices in Open Science — Vorlesung mit Übung
 
@@ -10144,6 +10531,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:15–13:45 | 20.04.2026–13.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+| wöchentlich | Mi | 16:15–17:45 | 22.04.2026–08.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+
 ### Bevölkerungsentwicklung und Bevölkerungspolitik im Nahen Osten — Proseminar
 
 - **Segment:** `unit:122349` · **unitId:** `122349`
@@ -10167,14 +10561,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Blockveranstaltung | — | 09:00–18:00 | 20.07.2026–23.07.2026 | 05801.01.110 ( PSG A 301) |
-
-### Bewusstsein, Gedächtnis, Emotion - Einführung in die Philosophie der Psychologie — Proseminar / Mittelseminar
-
-- **Segment:** `unit:122277` · **unitId:** `122277`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122277&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Turnus:** Unregelmäßig
 
 ### Biologie für Nebenfachstudierende
 
@@ -10224,7 +10610,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134393&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:00–16:00 | 20.04.2026–13.07.2026 | 05901.01.053 ( 01.053) |
 
 ### Can He Do That? The Changing Power of the American Presidency — Proseminar
 
@@ -10247,37 +10640,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 
-### Das politische System der Bundesrepublik — Vorlesung
-
-- **Segment:** `unit:122514` · **unitId:** `122514`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122514&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
-### Das politische System der Bundesrepublik — Vorlesung
-
-- **Segment:** `unit:130833` · **unitId:** `130833`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130833&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-
-### Der Wert des Lebens, der Wert des Sterbens. Tod und Todesvorstellungen in der Frühen Neuzeit — Proseminar
-
-- **Segment:** `unit:122543` · **unitId:** `122543`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122543&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-
-### Descartes, Meditationen über die erste Philosophie PS/MS — Kombiseminar
-
-- **Segment:** `unit:115702` · **unitId:** `115702`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115702&periodId=589>
-
-- **Veranstaltungsart:** Kombiseminar
-- **Turnus:** Unregelmäßig
-
 ### Deutschland im Europäischen Mehrebenensystem — Proseminar
 
 - **Segment:** `unit:134221` · **unitId:** `134221`
@@ -10293,15 +10655,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | 05902.00.014 ( 00.14 PSG) |
 
-### Deutschland und Frankreich im Vergleich — Proseminar
-
-- **Segment:** `unit:87577` · **unitId:** `87577`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87577&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Die aktuelle Migrations- und Asylpolitik in der Europäischen Union (mit Planspiel) — Proseminar
 
 - **Segment:** `unit:122383` · **unitId:** `122383`
@@ -10309,15 +10662,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Proseminar
 - **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Die Annales-Schule und das Mittelalter — Übung
-
-- **Segment:** `unit:99325` · **unitId:** `99325`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99325&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 4.0
 - **Turnus:** nur im Wintersemester
 
 ### Die arabische Linke — Gestern und Heute — Proseminar
@@ -10365,15 +10709,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Proseminar / Mittelseminar
 - **Turnus:** Unregelmäßig
 
-### Die Sowjetunion in der Stalinzeit: Neue Ansätze der Stalinismusforschung — Proseminar
-
-- **Segment:** `unit:132359` · **unitId:** `132359`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132359&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
-
 ### Die Stationierung amerikanischer Atomwaffen in der Bundesrepublik Deutschland: Ziel und Auswirkungen — Proseminar
 
 - **Segment:** `unit:133655` · **unitId:** `133655`
@@ -10381,29 +10716,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Proseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
 
-### Einführung in das Politische System der BRD — Proseminar
+#### Termine
 
-- **Segment:** `unit:138196` · **unitId:** `138196`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138196&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-
-### Einführung in das Politische System der EU — Proseminar
-
-- **Segment:** `unit:110588` · **unitId:** `110588`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110588&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-
-### Einführung in die analytische Philosophie — Proseminar / Mittelseminar
-
-- **Segment:** `unit:122647` · **unitId:** `122647`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122647&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Turnus:** Unregelmäßig
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 05901.01.059 ( 01.059) |
 
 ### Einführung in die Angewandte Ethik — Proseminar / Mittelseminar
 
@@ -10411,7 +10731,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134446&periodId=589>
 
 - **Veranstaltungsart:** Proseminar / Mittelseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 05801.02.111 ( PSG A 402) |
 
 ### Einführung in die Angewandte Ethik — Proseminar / Mittelseminar
 
@@ -10462,13 +10789,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Sa | 09:15–16:45 | 09.05.2026 | 05902.00.003 ( 00.3 PSG) |
 | Einzeltermin | So | 09:15–16:45 | 10.05.2026 | 05902.00.003 ( 00.3 PSG) |
 
-### Einführung in die Kommunalpolitik — Proseminar
-
-- **Segment:** `unit:130829` · **unitId:** `130829`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130829&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-
 ### Einführung in die Medienethik (PS/MS) — Kombiseminar
 
 - **Segment:** `unit:111816` · **unitId:** `111816`
@@ -10497,7 +10817,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133954&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
 
 ### Einführung in die Politische Theorie und Ideengeschichte - Teil 2 — Vorlesung
 
@@ -10507,15 +10834,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Sommersemester
-
-### Einführung in die Politische Theorie und Ideengeschichte I — Vorlesung
-
-- **Segment:** `unit:97590` · **unitId:** `97590`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97590&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
 
 ### Einführung in die Politische Theorie und Ideengeschichte I — Vorlesung
 
@@ -10557,13 +10875,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Proseminar / Mittelseminar
 - **Turnus:** Unregelmäßig
 
-### Einführung in die Wissenschaftsphilosophie (PS/MS) — Kombiseminar
-
-- **Segment:** `unit:111933` · **unitId:** `111933`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111933&periodId=589>
-
-- **Veranstaltungsart:** Kombiseminar
-
 ### Epikur, Stoa, Skepsis: Einführung in die hellenistische Ethik — Proseminar / Mittelseminar
 
 - **Segment:** `unit:134109` · **unitId:** `134109`
@@ -10579,13 +10890,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 05801.04.112 ( A 602) |
 | Einzeltermin | Mi | 10:00–12:00 | 20.05.2026 | 05801.04.111 ( A 603) |
-
-### Ethik der künstlichen Intelligenz: eine Einführung / Introduction to ethics of AI (PS / MS) — Kombiseminar
-
-- **Segment:** `unit:106362` · **unitId:** `106362`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106362&periodId=589>
-
-- **Veranstaltungsart:** Kombiseminar
 
 ### Europe & Migration — Proseminar
 
@@ -10723,7 +11027,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 05801.01.110 ( PSG A 301) |
 
 ### Geschichte der Moralphilosophie der frühen Neuzeit — Vorlesung
 
@@ -10745,21 +11056,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:130953` · **unitId:** `130953`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130953&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Turnus:** Unregelmäßig
-
-### Glaube gegen Gewissheit? Die Aufklärung im 18. Jahrhundert — Proseminar
-
-- **Segment:** `unit:119106` · **unitId:** `119106`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119106&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-
-### Gleichheit und Gleichverteilung — Proseminar / Mittelseminar
-
-- **Segment:** `unit:126987` · **unitId:** `126987`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126987&periodId=589>
 
 - **Veranstaltungsart:** Proseminar / Mittelseminar
 - **Turnus:** Unregelmäßig
@@ -10798,15 +11094,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115607&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
-
-### Grundkurs Praktische Philosophie
-
-- **Segment:** `unit:122905` · **unitId:** `122905`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122905&periodId=589>
-
-- **Veranstaltungsart:** Grundkurs
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Grundkurs Praktische Philosophie
 
@@ -10865,44 +11152,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 ### Grundkurs Theoretische Philosophie — Proseminar
 
-- **Segment:** `unit:111728` · **unitId:** `111728`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111728&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-
-### Grundkurs Theoretische Philosophie
-
-- **Segment:** `unit:119025` · **unitId:** `119025`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119025&periodId=589>
-
-- **Veranstaltungsart:** Grundkurs
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### Grundkurs Theoretische Philosophie — Proseminar
-
 - **Segment:** `unit:126966` · **unitId:** `126966`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126966&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
-
-### Grundlagen der internationalen Politik I: Geschichte und Theorien der internationalen Beziehungen — Vorlesung mit Übung
-
-- **Segment:** `unit:115386` · **unitId:** `115386`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115386&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-
-### Grundlagen der internationalen Politik I: Geschichte und Theorien der internationalen Beziehungen — Vorlesung
-
-- **Segment:** `unit:122750` · **unitId:** `122750`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122750&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
 
 ### Grundlagen der internationalen Politik I: Geschichte und Theorien der Internationalen Beziehungen — Vorlesung
 
@@ -10926,14 +11181,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133925&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-### Grundlagen der internationalen Politik II: Staatliche Akteure und Internationale Organisationen, IB 2 — Vorlesung
+#### Termine
 
-- **Segment:** `unit:119122` · **unitId:** `119122`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119122&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
 
 ### Grundlagen der Vergleichenden Analyse Politischer Systeme: Schwerpunkt MENA — Proseminar
 
@@ -11082,14 +11337,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 12:15–14:30 | 15.04.2026–24.06.2026 | 11501.01.105 (H6 Hörsaal 6) |
 
 ### Informatik 2 für Nebenfachstudierende Übungen
 
@@ -11161,7 +11409,19 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134593&periodId=589>
 
 - **Veranstaltungsart:** Proseminar / Mittelseminar
+- **Unterrichtssprache:** Englisch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–18:00 | 12.06.2026 | 05801.01.110 ( PSG A 301) |
+| Einzeltermin | Sa | 10:00–14:00 | 13.06.2026 | 05801.01.110 ( PSG A 301) |
+| Einzeltermin | Fr | 14:00–18:00 | 26.06.2026 | 05801.01.110 ( PSG A 301) |
+| Einzeltermin | Sa | 10:00–14:00 | 27.06.2026 | 05801.01.110 ( PSG A 301) |
+| Einzeltermin | Fr | 14:00–18:00 | 10.07.2026 | 05801.01.110 ( PSG A 301) |
+| Einzeltermin | Sa | 10:00–14:00 | 11.07.2026 | 05801.01.110 ( PSG A 301) |
 
 ### Introduction to philosophy of technology — Proseminar / Mittelseminar
 
@@ -11185,7 +11445,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134451&periodId=589>
 
 - **Veranstaltungsart:** Proseminar / Mittelseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 10:15–12:45 | 17.04.2026–17.07.2026 | 05801.01.110 ( PSG A 301) |
 
 ### K-PS12 Fallbasiertes Lernen Psychiatrie — Seminar
 
@@ -11330,15 +11597,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 3.0
 - **Turnus:** nur im Wintersemester
 
-### Klinische Psychologie II: PS (Vorlesung) - Verfahrenslehre
-
-- **Segment:** `unit:103714` · **unitId:** `103714`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103714&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 3.0
-- **Turnus:** nur im Wintersemester
-
 ### Kognition, Motivation & soziale Prozesse — Proseminar
 
 - **Segment:** `unit:95697` · **unitId:** `95697`
@@ -11370,7 +11628,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135521&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 05801.02.110 ( A 401) |
 
 ### Krieg. Landeshistorische Perspektiven auf ein globales Phänomen — Proseminar
 
@@ -11388,13 +11653,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Proseminar / Mittelseminar
 - **Turnus:** Unregelmäßig
-
-### Können Städte das Klima retten? Möglichkeiten und Grenzen der kommunalen Klimapolitik in Deutschland — Proseminar
-
-- **Segment:** `unit:126589` · **unitId:** `126589`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126589&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
 
 ### Können Städte das Klima retten? Möglichkeiten und Grenzen der kommunalen Klimapolitik in Deutschland. — Proseminar
 
@@ -11424,8 +11682,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -11511,15 +11769,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Do | Do | 14:00–15:30 | — | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
-### MED 20405 Kinder- und Jugendpsychiatrie und -psychotherapie — Seminar
-
-- **Segment:** `unit:107416` · **unitId:** `107416`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107416&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### MED 80451 Neurowissenschaften der sensorischen Wahrnehmung — Seminar
 
 - **Segment:** `unit:93103` · **unitId:** `93103`
@@ -11557,7 +11806,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82766&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung+SaundSo | — | 09:00–19:15 | 03.07.2026–05.07.2026 | — |
 
 ### MED 87001 Suchtdrogen und die Neurochemie der Sucht — Seminar
 
@@ -11605,15 +11861,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
 
-### Mikroökonomie — Vorlesung
-
-- **Segment:** `unit:87436` · **unitId:** `87436`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87436&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Moralismus — Proseminar / Mittelseminar
 
 - **Segment:** `unit:134180` · **unitId:** `134180`
@@ -11636,7 +11883,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 05901.01.059 ( 01.059) |
 
 ### Neueste Geschichte und Zeitgeschichte: Proseminar
 
@@ -11705,13 +11959,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Proseminar / Mittelseminar
 - **Turnus:** Unregelmäßig
 
-### Philosophy of Artificial Intelligence. An Introduction (PS/MS) — Kombiseminar
-
-- **Segment:** `unit:115755` · **unitId:** `115755`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115755&periodId=589>
-
-- **Veranstaltungsart:** Kombiseminar
-
 ### Philosophy of the Emotions — Vorlesung
 
 - **Segment:** `unit:122736` · **unitId:** `122736`
@@ -11727,7 +11974,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134042&periodId=589>
 
 - **Veranstaltungsart:** Proseminar / Mittelseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:00–12:00 | 13.04.2026–13.07.2026 | 05801.01.110 ( PSG A 301) |
 
 ### Platon: Gorgias (PS / MS) — Kombiseminar
 
@@ -11736,14 +11990,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Kombiseminar
 - **Turnus:** nur im Wintersemester
-
-### Platon: Politeia — Proseminar / Mittelseminar
-
-- **Segment:** `unit:131380` · **unitId:** `131380`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131380&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Turnus:** Unregelmäßig
 
 ### Polarisierung in den USA. How the Center Fell Apart — Proseminar
 
@@ -11805,29 +12051,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Fr | 08:30–10:00 | 17.04.2026–17.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
 
-### Politische Systeme II: Einführung in die Vergleichende Politikwissenschaft — Vorlesung
-
-- **Segment:** `unit:118920` · **unitId:** `118920`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118920&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-
-### Politische Systeme II: Einführung in die Vergleichende Politikwissenschaft — Vorlesung
-
-- **Segment:** `unit:126547` · **unitId:** `126547`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126547&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
-### Politische Systeme im Maghreb aus vergleichender Perspektive — Proseminar
-
-- **Segment:** `unit:111323` · **unitId:** `111323`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111323&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-
 ### Politische Zukunft? Utopien und Dystopien im politischen Denken — Proseminar
 
 - **Segment:** `unit:133952` · **unitId:** `133952`
@@ -11877,22 +12100,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### Praktikum zur Experimentalforschung (Kurs A2): Motivation und Emotion
-
-- **Segment:** `unit:96398` · **unitId:** `96398`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96398&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Praktikum zur Experimentalforschung (Kurs A4): Motivation und Emotion
-
-- **Segment:** `unit:122314` · **unitId:** `122314`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122314&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-
 ### Praktikum zur Experimentalforschung (Kurs C2): Praxis der Gesundheitspsychologie und Wahrnehmung
 
 - **Segment:** `unit:96665` · **unitId:** `96665`
@@ -11926,14 +12133,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übungsseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-### Praxisübung I: Medienrevolution in der Frühen Neuzeit. Eine Einführung in Quellen und Meth
+#### Termine
 
-- **Segment:** `unit:126719` · **unitId:** `126719`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126719&periodId=589>
-
-- **Veranstaltungsart:** Übung
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 08:00–10:00 | 16.04.2026–16.07.2026 | 05901.01.059 ( 01.059) |
 
 ### Praxisübung II: Diplomatiegeschichte der Frühen Neuzeit: Fragen, Methoden und Ansätze
 
@@ -12101,7 +12308,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:00–10:00 | 14.04.2026–14.07.2026 | 05901.01.059 ( 01.059) |
 
 ### Prüfung zu Vorlesung aus systematischem Teilbereich der Praktischen Philosophie
 
@@ -12243,13 +12457,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 05902.00.015 ( 00.15 PSG) |
 
-### Religion als Thema der Politischen Theorie und Ideengeschichte — Proseminar
-
-- **Segment:** `unit:110591` · **unitId:** `110591`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110591&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-
 ### Ringvorlesung Philosophie der Moderne
 
 - **Segment:** `unit:134108` · **unitId:** `134108`
@@ -12341,15 +12548,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Sensory Sciences Lab — Projektseminar
-
-- **Segment:** `unit:116324` · **unitId:** `116324`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116324&periodId=589>
-
-- **Veranstaltungsart:** Projektseminar
-- **ECTS-Punkte:** 4.0
 - **Turnus:** nur im Wintersemester
 
 ### Teilklausur 2 zu Außereuropäische Regionen I
@@ -12459,6 +12657,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:00–15:30 | 15.04.2026–15.07.2026 | 05801.02.111 ( PSG A 402) |
+
 ### Tutorium zur Vorlesung Multivariate Verfahren
 
 - **Segment:** `unit:82819` · **unitId:** `82819`
@@ -12524,15 +12728,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 4.0
 - **Turnus:** nur im Wintersemester
 
-### Vorlesung: Einführung in die Soziologie
-
-- **Segment:** `unit:91630` · **unitId:** `91630`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91630&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Warum bauen Autokratien Wolkenkratzer? Befunde und Ansätze der vergleichenden Autokratieforschung — Proseminar
 
 - **Segment:** `unit:122663` · **unitId:** `122663`
@@ -12546,13 +12741,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:110643` · **unitId:** `110643`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110643&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-
-### Was ist Politik? Die Ursprünge des Politischen Denkens in der griechischen Antike — Proseminar
-
-- **Segment:** `unit:130894` · **unitId:** `130894`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130894&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
 
@@ -12609,7 +12797,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134396&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 05902.00.014 ( 00.14 PSG) 05901.01.055 ( 01.055) |
 
 ### Ökologie und Diversität B: Zoologische Freilandübungen — Vorlesung mit Übung
 
@@ -12618,7 +12813,19 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:15–13:00 | 16.04.2026–16.07.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
+| wöchentlich | Do | 13:30–15:30 | 16.04.2026–16.07.2026 | — |
+| wöchentlich | Do | 16:00–18:00 | 16.04.2026–16.07.2026 | — |
+| wöchentlich | Fr | 12:15–13:00 | 17.04.2026–17.07.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
+| wöchentlich | Fr | 13:30–15:30 | 17.04.2026–17.07.2026 | — |
+| wöchentlich | Fr | 16:00–18:00 | 17.04.2026–17.07.2026 | — |
 
 ### Ökologie und Diversität B: Übungen zur Biologie und Systematik einheimischer Pflanzen — Vorlesung mit Übung
 
@@ -12692,16 +12899,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| Einzeltermin | Do | 10:00–12:00 | 23.07.2026 | — |
-| Einzeltermin | Fr | 10:00–12:00 | 24.07.2026 | — |
 
 ### Übung zur Vorlesung Multivariate Verfahren mit Computergestützter Datenauswertung — Seminar und Übung
 
@@ -12724,14 +12922,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:87125` · **unitId:** `87125`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87125&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Übungen zur Vorlesung "Einführung in die Volkswirtschaftslehre"
-
-- **Segment:** `unit:98991` · **unitId:** `98991`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98991&periodId=589>
 
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester

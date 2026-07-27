@@ -5,7 +5,7 @@ campo_segment: "title:17967"
 campo_path: "title:17593|title:17601|title:17967"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967"
 po_version_count: 10
-course_count: 3307
+course_count: 3315
 fau_studiengang:
   - title: "Medizintechnik (B.Sc.)"
     rel_path: "studiengang/medizintechnik-b-sc.md"
@@ -454,7 +454,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Campo-Segment:** `exam:14534157`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14532481|exam:14532482|exam:14532483|exam:14534102|exam:14534126|exam:14534157>
 
-## Veranstaltungen (3307)
+## Veranstaltungen (3315)
 
 ### Advanced Context Recognition ACR - Seminar
 
@@ -856,7 +856,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123784&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:00–16:00 | 23.04.2026–16.07.2026 | 11401.03.260 (3.71 Seminarraum) |
 
 ### Hochschulpraktikum Medizintechnische Diagnostikverfahren und Geräte - Praktikum
 
@@ -865,7 +872,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123784&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:00–16:00 | 23.04.2026–16.07.2026 | 11401.03.260 (3.71 Seminarraum) |
 
 ### Hochschulpraktikum Medizintechnische Diagnostikverfahren und Geräte - Praktikum
 
@@ -874,7 +888,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123784&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:00–16:00 | 23.04.2026–16.07.2026 | 11401.03.260 (3.71 Seminarraum) |
 
 ### Human-centered mechatronics and robotics (Tutorium) - Tutorium
 
@@ -1070,7 +1091,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 13:00–14:30 | 17.04.2026–17.07.2026 | 08801.00.020 ( Seminarraum ZMPT 00.020) |
 
 ### Medical Image Segmentation Project - Praktikum
 
@@ -1080,7 +1108,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 13:00–14:30 | 17.04.2026–17.07.2026 | 08801.00.020 ( Seminarraum ZMPT 00.020) |
 
 ### Medical Image Segmentation Project - Praktikum
 
@@ -1090,7 +1125,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 13:00–14:30 | 17.04.2026–17.07.2026 | 08801.00.020 ( Seminarraum ZMPT 00.020) |
 
 ### Neurophysiological Measurements and Application - Seminar
 
@@ -1100,7 +1142,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 15:15–16:45 | 14.04.2026–14.07.2026 | 56901.01.034 (CIP-Pool 5 (aktuell noch keine Rechnerausstattung - Vorbelegungsrecht HTA Departments WS bis 15.07.26))) |
+| wöchentlich | Do | 15:15–16:45 | 16.04.2026–16.07.2026 | 56901.01.034 (CIP-Pool 5 (aktuell noch keine Rechnerausstattung - Vorbelegungsrecht HTA Departments WS bis 15.07.26))) |
 
 ### Neurophysiological Measurements and Application - Seminar
 
@@ -1110,7 +1160,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 15:15–16:45 | 14.04.2026–14.07.2026 | 56901.01.034 (CIP-Pool 5 (aktuell noch keine Rechnerausstattung - Vorbelegungsrecht HTA Departments WS bis 15.07.26))) |
+| wöchentlich | Do | 15:15–16:45 | 16.04.2026–16.07.2026 | 56901.01.034 (CIP-Pool 5 (aktuell noch keine Rechnerausstattung - Vorbelegungsrecht HTA Departments WS bis 15.07.26))) |
 
 ### Neurophysiological Measurements and Application - Seminar
 
@@ -1120,7 +1178,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 15:15–16:45 | 14.04.2026–14.07.2026 | 56901.01.034 (CIP-Pool 5 (aktuell noch keine Rechnerausstattung - Vorbelegungsrecht HTA Departments WS bis 15.07.26))) |
+| wöchentlich | Do | 15:15–16:45 | 16.04.2026–16.07.2026 | 56901.01.034 (CIP-Pool 5 (aktuell noch keine Rechnerausstattung - Vorbelegungsrecht HTA Departments WS bis 15.07.26))) |
 
 ### Neurophysiological Measurements and Application - Seminar
 
@@ -1130,7 +1196,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 15:15–16:45 | 14.04.2026–14.07.2026 | 56901.01.034 (CIP-Pool 5 (aktuell noch keine Rechnerausstattung - Vorbelegungsrecht HTA Departments WS bis 15.07.26))) |
+| wöchentlich | Do | 15:15–16:45 | 16.04.2026–16.07.2026 | 56901.01.034 (CIP-Pool 5 (aktuell noch keine Rechnerausstattung - Vorbelegungsrecht HTA Departments WS bis 15.07.26))) |
 
 ### Neurophysiological Measurements and Application - Seminar
 
@@ -1140,7 +1214,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 15:15–16:45 | 14.04.2026–14.07.2026 | 56901.01.034 (CIP-Pool 5 (aktuell noch keine Rechnerausstattung - Vorbelegungsrecht HTA Departments WS bis 15.07.26))) |
+| wöchentlich | Do | 15:15–16:45 | 16.04.2026–16.07.2026 | 56901.01.034 (CIP-Pool 5 (aktuell noch keine Rechnerausstattung - Vorbelegungsrecht HTA Departments WS bis 15.07.26))) |
 
 ### Numerik II für Ingenieure - Vorlesung
 
@@ -1328,7 +1410,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86383&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:00–18:00 | 15.04.2026–15.07.2026 | 11501.02.028 |
 
 ### Praktikum Regelungstechnik I - Praktikum
 
@@ -1337,7 +1426,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86383&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:00–18:00 | 15.04.2026–15.07.2026 | 11501.02.028 |
 
 ### Praktikum Regelungstechnik I - Praktikum
 
@@ -1346,7 +1442,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86383&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:00–18:00 | 15.04.2026–15.07.2026 | 11501.02.028 |
 
 ### Project Biomechanical Movement Analysis and Simulation - Projekt
 
@@ -1404,6 +1507,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum/Projekt
 - **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### Project Intelligent Language Systems - Praktikum/Projekt
@@ -1414,6 +1518,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum/Projekt
 - **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### Project Intelligent Language Systems - Praktikum/Projekt
@@ -1424,6 +1529,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum/Projekt
 - **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### Project Intelligent Language Systems - Praktikum/Projekt
@@ -1434,6 +1540,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum/Projekt
 - **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### Project Speech and Language - Praktikum/Projekt
@@ -1444,6 +1551,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum/Projekt
 - **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
 
 ### Project Speech and Language - Praktikum/Projekt
@@ -1454,6 +1562,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum/Projekt
 - **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
 
 ### Project Speech and Language - Praktikum/Projekt
@@ -1464,6 +1573,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum/Projekt
 - **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
 
 ### Project Speech and Language - Praktikum/Projekt
@@ -1474,6 +1584,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum/Projekt
 - **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
 
 ### Project Time Series - Praktikum/Projekt
@@ -1528,7 +1639,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 13:15–14:45 | 13.04.2026–13.07.2026 | — |
+| wöchentlich | Do | 10:30–12:00 | 16.04.2026–16.07.2026 | — |
 
 ### Public Health und evidenzbasierte Medizin, Teil von Modul 2.2 Medizinmanagement II - Vorlesung
 
@@ -1538,7 +1657,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 13:15–14:45 | 13.04.2026–13.07.2026 | — |
+| wöchentlich | Do | 10:30–12:00 | 16.04.2026–16.07.2026 | — |
 
 ### Quantencomputer - Praktikum
 
@@ -1743,6 +1870,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125605&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
 
 ### Reproduce Research Results Lecture and Excercises - Vorlesung mit Übung
@@ -1752,6 +1880,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125605&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
 
 ### Reproduce Research Results Lecture and Excercises - Vorlesung mit Übung
@@ -1761,6 +1890,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125605&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
 
 ### Reproduce Research Results Lecture and Excercises - Vorlesung mit Übung
@@ -1770,6 +1900,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125605&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
 
 ### Research Project on Surgical Robotics - Praktikum
@@ -4746,7 +4877,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Sa | Sa | 10:00–11:30 | — | 11907.01.030 (H19) 11907.01.040 (H18) |
+| Sa | Sa | 10:00–11:30 | — | 11907.01.040 (H18) |
 
 ### 31101 Grundlagen der Technischen Informatik - Leistung
 
@@ -6308,7 +6439,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | Fr | 11:00–12:30 | — | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
+| Mo | Mo | — | — | — |
 
 ### 41451 Computer Architectures for Medical Applications - Leistung
 
@@ -6323,7 +6454,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | Fr | 11:00–12:30 | — | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
+| Mo | Mo | — | — | — |
 
 ### 41471 Seminar Medical Device Innovation Translation: From idea to therapy - Leistung
 
@@ -8946,7 +9077,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | Mo | — | — | — |
+| Mi | Mi | — | — | — |
 
 ### 45301 Mathematik A 4 - Leistung
 
@@ -8961,7 +9092,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | Mo | — | — | — |
+| Mi | Mi | — | — | — |
 
 ### 45301 Mathematik A 4 - Leistung
 
@@ -8976,7 +9107,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | Mo | — | — | — |
+| Mi | Mi | — | — | — |
 
 ### 45400 Digitale Bildverarbeitung
 
@@ -13224,6 +13355,36 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | Di | Di | — | — | — |
 
+### 588895 Seminar Multi-Core Architecture and Programming - Leistung
+
+- **Segment:** `exam:14543261` · **unitId:** `39768`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14541641|exam:14541642|exam:14541643|exam:14543169|exam:14543259|exam:14543261>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39768&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch oder Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | 09:00–12:30 | — | — |
+
+### 588895 Seminar Multi-Core Architecture and Programming - Leistung
+
+- **Segment:** `exam:14548768` · **unitId:** `39768`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14548694|exam:14548766|exam:14548768>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39768&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch oder Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | 09:00–12:30 | — | — |
+
 ### 58911 Surfaces of Biomaterials - Leistung
 
 - **Segment:** `exam:14522747` · **unitId:** `36728`
@@ -15541,6 +15702,51 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | Mo | Mo | — | — | — |
 
+### 75251 Laborpraktikum Bild- und Videosignalverarbeitung auf eingebetteten Plattformen - Leistung
+
+- **Segment:** `exam:14539852` · **unitId:** `47945`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14536896|exam:14536897|exam:14536898|exam:14539775|exam:14539850|exam:14539852>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47945&periodId=589>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### 75251 Laborpraktikum Bild- und Videosignalverarbeitung auf eingebetteten Plattformen - Leistung
+
+- **Segment:** `exam:14545452` · **unitId:** `47945`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14541641|exam:14541642|exam:14541643|exam:14545375|exam:14545450|exam:14545452>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47945&periodId=589>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### 75251 Laborpraktikum Bild- und Videosignalverarbeitung auf eingebetteten Plattformen - Leistung
+
+- **Segment:** `exam:14551218` · **unitId:** `47945`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14551114|exam:14551216|exam:14551218>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47945&periodId=589>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
 ### 75301 Laborpraktikum Eingebettete Mikrocontroller-Systeme (PEMSY) - Leistung
 
 - **Segment:** `exam:14539856` · **unitId:** `26288`
@@ -16590,7 +16796,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | Di | 10:00–11:00 | — | — |
+| Di | Di | 11:15–12:15 | — | 11401.02.046 (2.23 Besprechungsraum) |
 
 ### 76471 Interventionelle und Diagnostische Endoskopie - Leistung
 
@@ -17691,6 +17897,51 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14549918` · **unitId:** `52658`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14549528|exam:14549844|exam:14549918>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=52658&periodId=589>
+
+### 914949 Seminar Ausgewählte Kapitel der Multimediakommunikation und Signalverarbeitung - Leistung
+
+- **Segment:** `exam:14538630` · **unitId:** `39679`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14536896|exam:14536897|exam:14536898|exam:14538527|exam:14538628|exam:14538630>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39679&periodId=589>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### 914949 Seminar Ausgewählte Kapitel der Multimediakommunikation und Signalverarbeitung - Leistung
+
+- **Segment:** `exam:14543286` · **unitId:** `39679`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14541641|exam:14541642|exam:14541643|exam:14543169|exam:14543284|exam:14543286>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39679&periodId=589>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### 914949 Seminar Ausgewählte Kapitel der Multimediakommunikation und Signalverarbeitung - Leistung
+
+- **Segment:** `exam:14548793` · **unitId:** `39679`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14548694|exam:14548791|exam:14548793>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39679&periodId=589>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### 92230 Kommunikation in Technik-Wissenschaften
 
@@ -23244,7 +23495,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 16:15–17:45 | 16.04.2026–16.07.2026 | 11901.U1.245 (K2-119 Seminarraum) |
 
 ### AuD-MT-TUE - Algorithmen und Datenstrukturen (für Medizintechnik) Tafelübung (GOP) - Übung
 
@@ -23254,7 +23512,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 16:15–17:45 | 16.04.2026–16.07.2026 | 11901.U1.245 (K2-119 Seminarraum) |
 
 ### BABG - Bewegungsanalyse und biomechanische Grenzgebiete - Vorlesung
 
@@ -23567,7 +23832,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Projekt
 - **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 10:15–11:45 | 16.04.2026 | 56901.00.025 (CIP-Pool 1 (aktuell noch keine Rechnerausstattung - Vorbelegungsrecht HTA Departments für WS bis 15.07.26))) |
 
 ### BIONETS - Projekt Biomedical Network Science - Projekt
 
@@ -23577,7 +23849,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Projekt
 - **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 10:15–11:45 | 16.04.2026 | 56901.00.025 (CIP-Pool 1 (aktuell noch keine Rechnerausstattung - Vorbelegungsrecht HTA Departments für WS bis 15.07.26))) |
 
 ### BIONETS - Projekt Biomedical Network Science - Projekt
 
@@ -23587,7 +23866,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Projekt
 - **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 10:15–11:45 | 16.04.2026 | 56901.00.025 (CIP-Pool 1 (aktuell noch keine Rechnerausstattung - Vorbelegungsrecht HTA Departments für WS bis 15.07.26))) |
 
 ### BYOABCI - Build your own auditory brain-computer-interface - Seminar
 
@@ -23648,7 +23934,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 11302.00.152 (00.152-113 Übungsraum) |
 
 ### CAMA - Computer Architectures for Medical Applications - Vorlesung
 
@@ -23658,7 +23951,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 11302.00.152 (00.152-113 Übungsraum) |
 
 ### Chir-205 - Erkrankungen des Skelettsystems; Pathomechanismen, Diagnostik und Therapie - Seminar
 
@@ -23966,6 +24266,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
 ### DIHS - Design and Implementation of High-Frequency and High-Datarate Systems - Vorlesung
@@ -24552,7 +24853,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:15–09:45 | 14.04.2026–14.07.2026 | 56901.00.026 (Seminarraum 3 (Vorbelegungsrecht HTA Departments fürfür WS bis 15.07.26))) |
 
 ### FANDAT - Fantastic datasets and where to find them - Hauptseminar
 
@@ -24562,7 +24870,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:15–09:45 | 14.04.2026–14.07.2026 | 56901.00.026 (Seminarraum 3 (Vorbelegungsrecht HTA Departments fürfür WS bis 15.07.26))) |
 
 ### FANDAT - Fantastic datasets and where to find them - Hauptseminar
 
@@ -24572,7 +24887,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:15–09:45 | 14.04.2026–14.07.2026 | 56901.00.026 (Seminarraum 3 (Vorbelegungsrecht HTA Departments fürfür WS bis 15.07.26))) |
 
 ### FE (T) - Tutorium zur Methode der Finiten Elemente - Tutorium
 
@@ -24581,7 +24903,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82643&periodId=589>
 
 - **Veranstaltungsart:** Tutorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 11907.01.040 (H18) |
 
 ### FE (T) - Tutorium zur Methode der Finiten Elemente - Tutorium
 
@@ -24590,7 +24919,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82643&periodId=589>
 
 - **Veranstaltungsart:** Tutorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 11907.01.040 (H18) |
 
 ### FE (T) - Tutorium zur Methode der Finiten Elemente - Tutorium
 
@@ -24599,7 +24935,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82643&periodId=589>
 
 - **Veranstaltungsart:** Tutorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 11907.01.040 (H18) |
 
 ### FE (T) - Tutorium zur Methode der Finiten Elemente - Tutorium
 
@@ -24608,7 +24951,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82643&periodId=589>
 
 - **Veranstaltungsart:** Tutorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 11907.01.040 (H18) |
 
 ### FE (UE) - Übungen zur Methode der Finiten Elemente - Übung
 
@@ -24617,7 +24967,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83439&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
 
 ### FE (UE) - Übungen zur Methode der Finiten Elemente - Übung
 
@@ -24626,7 +24983,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83439&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
 
 ### FE (UE) - Übungen zur Methode der Finiten Elemente - Übung
 
@@ -24635,7 +24999,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83439&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
 
 ### FE (UE) - Übungen zur Methode der Finiten Elemente - Übung
 
@@ -24644,7 +25015,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83439&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
 
 ### FE (V) - Methode der Finiten Elemente - Vorlesung
 
@@ -24653,7 +25031,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82227&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:15–09:45 | 14.04.2026–14.07.2026 | 11901.00.226 (H8 Hörsaal 8) |
 
 ### FE (V) - Methode der Finiten Elemente - Vorlesung
 
@@ -24662,7 +25047,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82227&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:15–09:45 | 14.04.2026–14.07.2026 | 11901.00.226 (H8 Hörsaal 8) |
 
 ### FE (V) - Methode der Finiten Elemente - Vorlesung
 
@@ -24671,7 +25063,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82227&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:15–09:45 | 14.04.2026–14.07.2026 | 11901.00.226 (H8 Hörsaal 8) |
 
 ### FE (V) - Methode der Finiten Elemente - Vorlesung
 
@@ -24680,7 +25079,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82227&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:15–09:45 | 14.04.2026–14.07.2026 | 11901.00.226 (H8 Hörsaal 8) |
 
 ### FMT I - OL - Fertigungsmesstechnik I - Online - Online-Kurs
 
@@ -24712,7 +25118,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | 12801.01.220 (H12 Emmy-Noether-Hörsaal) |
 
 ### ForensInf - Forensische Informatik - Vorlesung mit Übung
 
@@ -24722,7 +25135,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | 12801.01.220 (H12 Emmy-Noether-Hörsaal) |
 
 ### ForensInf-Ü - Forensische Informatik - Übung - Übung
 
@@ -24938,7 +25358,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 4.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
 
 ### GEEV - Grundlagen der Elektrischen Energieversorgung - Vorlesung
 
@@ -24948,7 +25375,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 4.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
 
 ### GET II - Grundlagen der Elektrotechnik II - Vorlesung
 
@@ -25345,7 +25779,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 1.25
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | 56201.00.010 (00.010 MaD-Lab Seminarraum, Carl-Thiersch-Str. 2b) |
 
 ### HCI-E - Human Computer Interaction Exercises - Übung
 
@@ -25355,7 +25796,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 1.25
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | 56201.00.010 (00.010 MaD-Lab Seminarraum, Carl-Thiersch-Str. 2b) |
 
 ### HCI-E - Human Computer Interaction Exercises - Übung
 
@@ -25365,7 +25813,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 1.25
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | 56201.00.010 (00.010 MaD-Lab Seminarraum, Carl-Thiersch-Str. 2b) |
 
 ### HCI-E - Human Computer Interaction Exercises - Übung
 
@@ -25375,7 +25830,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 1.25
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | 56201.00.010 (00.010 MaD-Lab Seminarraum, Carl-Thiersch-Str. 2b) |
 
 ### HFSem - Seminar Hochfrequenztechnik/Mikrowellentechnik - Hauptseminar
 
@@ -25385,7 +25847,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 12:15–13:45 | 17.04.2026–17.07.2026 | 11501.06.226 (HF-Technik: BZ 06.226 Besprechungszimmer (alt 6.18)) |
 
 ### HFSem - Seminar Hochfrequenztechnik/Mikrowellentechnik - Hauptseminar
 
@@ -25395,7 +25864,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 12:15–13:45 | 17.04.2026–17.07.2026 | 11501.06.226 (HF-Technik: BZ 06.226 Besprechungszimmer (alt 6.18)) |
 
 ### HFSem - Seminar Hochfrequenztechnik/Mikrowellentechnik - Hauptseminar
 
@@ -25405,7 +25881,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 12:15–13:45 | 17.04.2026–17.07.2026 | 11501.06.226 (HF-Technik: BZ 06.226 Besprechungszimmer (alt 6.18)) |
 
 ### HFSem - Seminar Hochfrequenztechnik/Mikrowellentechnik - Hauptseminar
 
@@ -25415,7 +25898,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 12:15–13:45 | 17.04.2026–17.07.2026 | 11501.06.226 (HF-Technik: BZ 06.226 Besprechungszimmer (alt 6.18)) |
 
 ### HFSem - Seminar Hochfrequenztechnik/Mikrowellentechnik - Hauptseminar
 
@@ -25425,7 +25915,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 12:15–13:45 | 17.04.2026–17.07.2026 | 11501.06.226 (HF-Technik: BZ 06.226 Besprechungszimmer (alt 6.18)) |
 
 ### HFSem - Seminar Hochfrequenztechnik/Mikrowellentechnik - Hauptseminar
 
@@ -25435,7 +25932,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 12:15–13:45 | 17.04.2026–17.07.2026 | 11501.06.226 (HF-Technik: BZ 06.226 Besprechungszimmer (alt 6.18)) |
 
 ### HMR - Human-centered mechatronics and robotics - Vorlesung
 
@@ -25445,7 +25949,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 12801.01.210 (H11) |
 
 ### HMR - Human-centered mechatronics and robotics - Vorlesung
 
@@ -25455,7 +25966,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 12801.01.210 (H11) |
 
 ### HMR - Human-centered mechatronics and robotics - Vorlesung
 
@@ -25465,7 +25983,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 12801.01.210 (H11) |
 
 ### HMR - Human-centered mechatronics and robotics - Vorlesung
 
@@ -25475,7 +26000,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 12801.01.210 (H11) |
 
 ### HS BA PA MA FMT - Hauptseminar Fertigungsmesstechnik - Seminar
 
@@ -25485,6 +26017,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### HS BA PA MA FMT - Hauptseminar Fertigungsmesstechnik - Seminar
@@ -25495,6 +26028,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### HS BA PA MA FMT - Hauptseminar Fertigungsmesstechnik - Seminar
@@ -25505,6 +26039,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### I-Med. 355 - Interventionelle und Diagnostische Endoskopie - Vorlesung mit Übung
@@ -25579,7 +26114,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 12801.01.150 (01.150-128 Seminarraum) |
 
 ### InDiEndo - Interventionelle und Diagnostische Endoskopie (InDiEndo) - Seminar
 
@@ -25589,7 +26131,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 18:00–20:00 | 13.04.2026–13.07.2026 | 12801.01.151 (01.151-128 Seminarraum) |
 
 ### InDiEndo - Interventionelle und Diagnostische Endoskopie (InDiEndo) - Seminar
 
@@ -25599,7 +26148,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 18:00–20:00 | 13.04.2026–13.07.2026 | 12801.01.151 (01.151-128 Seminarraum) |
 
 ### InDiEndo - Interventionelle und Diagnostische Endoskopie (InDiEndo) - Seminar
 
@@ -25609,7 +26165,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 18:00–20:00 | 13.04.2026–13.07.2026 | 12801.01.151 (01.151-128 Seminarraum) |
 
 ### InDiEndo - Interventionelle und Diagnostische Endoskopie (InDiEndo) - Seminar
 
@@ -25619,7 +26182,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 18:00–20:00 | 13.04.2026–13.07.2026 | 12801.01.151 (01.151-128 Seminarraum) |
 
 ### IngMathA2U - Übungen zur Mathematik für Ingenieure A2 : CE, EEI, BP-E, MT - Übung
 
@@ -25737,8 +26307,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 21.04.2026–14.07.2026 | 11901.00.226 (H8 Hörsaal 8) |
-| Einzeltermin | Di | 14:15–15:45 | 30.06.2026 | — |
+| wöchentlich | Mo | 08:00–10:00 | 13.04.2026–13.07.2026 | 12801.01.252 (Übung 3 / 01.252-128) |
+| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
 
 ### IngMathA4U - Übungen zur Mathematik für Ingenieure A4 : EEI,CE,MT - Übung
 
@@ -25754,8 +26324,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 21.04.2026–14.07.2026 | 11901.00.226 (H8 Hörsaal 8) |
-| Einzeltermin | Di | 14:15–15:45 | 30.06.2026 | — |
+| wöchentlich | Mo | 08:00–10:00 | 13.04.2026–13.07.2026 | 12801.01.252 (Übung 3 / 01.252-128) |
+| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
 
 ### IngMathA4U - Übungen zur Mathematik für Ingenieure A4 : EEI,CE,MT - Übung
 
@@ -25771,8 +26341,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 21.04.2026–14.07.2026 | 11901.00.226 (H8 Hörsaal 8) |
-| Einzeltermin | Di | 14:15–15:45 | 30.06.2026 | — |
+| wöchentlich | Mo | 08:00–10:00 | 13.04.2026–13.07.2026 | 12801.01.252 (Übung 3 / 01.252-128) |
+| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
 
 ### IngMathA4V - Mathematik für Ingenieure A4 : EEI,CE,MT - Vorlesung
 
@@ -25905,7 +26475,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
 
 ### INS-Lab - Interfacing the Neuromuscular System: Laboratory - Praktikum
@@ -25916,7 +26485,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
 
 ### INS-Lab - Interfacing the Neuromuscular System: Laboratory - Praktikum
@@ -25927,7 +26495,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
 
 ### INS-Lab - Interfacing the Neuromuscular System: Laboratory - Praktikum
@@ -25938,7 +26505,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
 
 ### IntroML - Introduction to Machine Learning - Vorlesung mit Übung
@@ -26432,7 +26998,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:00–14:00 | 15.04.2026–15.07.2026 | 12801.02.133 (02.133-128 Praktikumsraum) |
 
 ### MAP - Multi-Core Architecture and Programming - Seminar
 
@@ -26442,7 +27015,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:00–14:00 | 15.04.2026–15.07.2026 | 12801.02.133 (02.133-128 Praktikumsraum) |
 
 ### MastProj - Master-Projekt Datenmanagement - Projekt
 
@@ -26452,6 +27032,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Projekt
 - **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### MastProj - Master-Projekt Datenmanagement - Projekt
@@ -26462,6 +27043,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Projekt
 - **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### MastProj - Master-Projekt Datenmanagement - Projekt
@@ -26472,6 +27054,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Projekt
 - **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### MastProj - Master-Projekt Datenmanagement - Projekt
@@ -26482,6 +27065,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Projekt
 - **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### MedInfSem - Seminar Informationssysteme im Gesundheitswesen - Hauptseminar
@@ -26558,7 +27142,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 08:00–10:00 | 16.04.2026–16.07.2026 | 11201.00.11311 (0.113-12 Seminarraum 0.113-12) |
 
 ### MedInfWiss1 - Wissensbasierte Systeme in der Medizin 1 - Vorlesung mit Übung
 
@@ -26568,7 +27159,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 08:00–10:00 | 16.04.2026–16.07.2026 | 11201.00.11311 (0.113-12 Seminarraum 0.113-12) |
 
 ### MedSem - Seminar Medizintechnik - Hauptseminar
 
@@ -26663,7 +27261,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 16:00–17:30 | 29.04.2026–15.07.2026 | 11401.00.109 (0.56 Praktikum) |
 
 ### METGUK - Seminar Glas und Keramik für Medizintechnik - Seminar
 
@@ -26673,7 +27278,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 16:00–17:30 | 29.04.2026–15.07.2026 | 11401.00.109 (0.56 Praktikum) |
 
 ### METGUK - Seminar Glas und Keramik für Medizintechnik - Seminar
 
@@ -26683,7 +27295,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 16:00–17:30 | 29.04.2026–15.07.2026 | 11401.00.109 (0.56 Praktikum) |
 
 ### METGUK - Seminar Glas und Keramik für Medizintechnik - Seminar
 
@@ -26693,7 +27312,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 16:00–17:30 | 29.04.2026–15.07.2026 | 11401.00.109 (0.56 Praktikum) |
 
 ### METGUK - Seminar Glas und Keramik für Medizintechnik - Seminar
 
@@ -26703,7 +27329,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 16:00–17:30 | 29.04.2026–15.07.2026 | 11401.00.109 (0.56 Praktikum) |
 
 ### METGUK - Seminar Glas und Keramik für Medizintechnik - Seminar
 
@@ -26713,7 +27346,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 16:00–17:30 | 29.04.2026–15.07.2026 | 11401.00.109 (0.56 Praktikum) |
 
 ### MindMove - MindMove: Real-Time Decoding of Neural Signals into Movement Intent - Hauptseminar
 
@@ -26723,15 +27363,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 13:15–14:45 | 14.04.2026–14.07.2026 | 56901.01.034 (CIP-Pool 5 (aktuell noch keine Rechnerausstattung - Vorbelegungsrecht HTA Departments WS bis 15.07.26))) |
-| wöchentlich | Mi | 13:15–14:45 | 15.04.2026–15.07.2026 | 56901.01.032 (CIP-Pool 4 (aktuell noch keine Rechnerausstattung - Vorbelegungsrecht HTA Departments für WS bis 15.07.26))) |
 
 ### MindMove - MindMove: Real-Time Decoding of Neural Signals into Movement Intent - Hauptseminar
 
@@ -26741,15 +27373,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 13:15–14:45 | 14.04.2026–14.07.2026 | 56901.01.034 (CIP-Pool 5 (aktuell noch keine Rechnerausstattung - Vorbelegungsrecht HTA Departments WS bis 15.07.26))) |
-| wöchentlich | Mi | 13:15–14:45 | 15.04.2026–15.07.2026 | 56901.01.032 (CIP-Pool 4 (aktuell noch keine Rechnerausstattung - Vorbelegungsrecht HTA Departments für WS bis 15.07.26))) |
 
 ### MindMove - MindMove: Real-Time Decoding of Neural Signals into Movement Intent - Hauptseminar
 
@@ -26759,15 +27383,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 13:15–14:45 | 14.04.2026–14.07.2026 | 56901.01.034 (CIP-Pool 5 (aktuell noch keine Rechnerausstattung - Vorbelegungsrecht HTA Departments WS bis 15.07.26))) |
-| wöchentlich | Mi | 13:15–14:45 | 15.04.2026–15.07.2026 | 56901.01.032 (CIP-Pool 4 (aktuell noch keine Rechnerausstattung - Vorbelegungsrecht HTA Departments für WS bis 15.07.26))) |
 
 ### MindMove - MindMove: Real-Time Decoding of Neural Signals into Movement Intent - Hauptseminar
 
@@ -26777,15 +27393,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 13:15–14:45 | 14.04.2026–14.07.2026 | 56901.01.034 (CIP-Pool 5 (aktuell noch keine Rechnerausstattung - Vorbelegungsrecht HTA Departments WS bis 15.07.26))) |
-| wöchentlich | Mi | 13:15–14:45 | 15.04.2026–15.07.2026 | 56901.01.032 (CIP-Pool 4 (aktuell noch keine Rechnerausstattung - Vorbelegungsrecht HTA Departments für WS bis 15.07.26))) |
 
 ### MindMove - MindMove: Real-Time Decoding of Neural Signals into Movement Intent - Hauptseminar
 
@@ -26795,15 +27403,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 13:15–14:45 | 14.04.2026–14.07.2026 | 56901.01.034 (CIP-Pool 5 (aktuell noch keine Rechnerausstattung - Vorbelegungsrecht HTA Departments WS bis 15.07.26))) |
-| wöchentlich | Mi | 13:15–14:45 | 15.04.2026–15.07.2026 | 56901.01.032 (CIP-Pool 4 (aktuell noch keine Rechnerausstattung - Vorbelegungsrecht HTA Departments für WS bis 15.07.26))) |
 
 ### MISysT - Medical Imaging System Technology - Vorlesung mit Übung
 
@@ -26881,7 +27481,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 56901.00.014 (Seminarraum 1 (Vorbelegungsrecht HTA Departments für WS bis 15.07.26))) |
 
 ### MLinMRI - Machine Learning in MRI - Hauptseminar
 
@@ -26891,7 +27498,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 56901.00.014 (Seminarraum 1 (Vorbelegungsrecht HTA Departments für WS bis 15.07.26))) |
 
 ### MLinMRI - Machine Learning in MRI - Hauptseminar
 
@@ -26901,7 +27515,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 56901.00.014 (Seminarraum 1 (Vorbelegungsrecht HTA Departments für WS bis 15.07.26))) |
 
 ### MRI1-Ü - Magnetic Resonance Imaging 1 - Exercise - Übung
 
@@ -27009,7 +27630,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 1.25
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | 11907.01.030 (H19) |
 
 ### MT2-TUE - Medizintechnik II Tafelübung - Übung
 
@@ -27019,7 +27647,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 1.25
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | 11907.01.030 (H19) |
 
 ### NeuRa - Neuartige Rechnerarchitekturen - Hauptseminar
 
@@ -27029,7 +27664,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Di | 14:15–15:45 | 14.04.2026 | 11302.07.150 (07.150 Besprechungsraum Informatik 3) |
+| Einzeltermin | Di | 14:15–15:45 | 05.05.2026 | 11302.02.153 (02.153 Hardware- und Clusterlabor) |
+| Blockveranstaltung | — | 09:00–15:00 | 27.07.2026–28.07.2026 | 11302.07.150 (07.150 Besprechungsraum Informatik 3) |
 
 ### NeuRa - Neuartige Rechnerarchitekturen - Hauptseminar
 
@@ -27039,7 +27683,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Di | 14:15–15:45 | 14.04.2026 | 11302.07.150 (07.150 Besprechungsraum Informatik 3) |
+| Einzeltermin | Di | 14:15–15:45 | 05.05.2026 | 11302.02.153 (02.153 Hardware- und Clusterlabor) |
+| Blockveranstaltung | — | 09:00–15:00 | 27.07.2026–28.07.2026 | 11302.07.150 (07.150 Besprechungsraum Informatik 3) |
 
 ### NeuRa - Neuartige Rechnerarchitekturen - Hauptseminar
 
@@ -27049,7 +27702,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Di | 14:15–15:45 | 14.04.2026 | 11302.07.150 (07.150 Besprechungsraum Informatik 3) |
+| Einzeltermin | Di | 14:15–15:45 | 05.05.2026 | 11302.02.153 (02.153 Hardware- und Clusterlabor) |
+| Blockveranstaltung | — | 09:00–15:00 | 27.07.2026–28.07.2026 | 11302.07.150 (07.150 Besprechungsraum Informatik 3) |
 
 ### NeuRa - Neuartige Rechnerarchitekturen - Hauptseminar
 
@@ -27059,7 +27721,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Di | 14:15–15:45 | 14.04.2026 | 11302.07.150 (07.150 Besprechungsraum Informatik 3) |
+| Einzeltermin | Di | 14:15–15:45 | 05.05.2026 | 11302.02.153 (02.153 Hardware- und Clusterlabor) |
+| Blockveranstaltung | — | 09:00–15:00 | 27.07.2026–28.07.2026 | 11302.07.150 (07.150 Besprechungsraum Informatik 3) |
 
 ### Neuro-Project - Neurotechnology Project - Praktikum
 
@@ -27068,7 +27739,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90988&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 09:00–17:00 | 15.04.2026–15.07.2026 | — |
 
 ### Neuro-Project - Neurotechnology Project - Praktikum
 
@@ -27077,7 +27755,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90988&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 09:00–17:00 | 15.04.2026–15.07.2026 | — |
 
 ### Neuro-Project - Neurotechnology Project - Praktikum
 
@@ -27086,7 +27771,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90988&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 09:00–17:00 | 15.04.2026–15.07.2026 | — |
 
 ### Neuro-Project - Neurotechnology Project - Praktikum
 
@@ -27095,7 +27787,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90988&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 09:00–17:00 | 15.04.2026–15.07.2026 | — |
 
 ### NeuroStim - NeuroStim: Electrical Stimulation of the Neuromuscular System for Human Limb Control - Seminar
 
@@ -27189,7 +27888,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83905&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 11901.00.226 (H8 Hörsaal 8) |
 
 ### NLKM (UE) - Übungen zur Nichtlinearen Kontinuumsmechanik - Übung
 
@@ -27198,7 +27904,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83905&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 11901.00.226 (H8 Hörsaal 8) |
 
 ### NLKM (V) - Nichtlineare Kontinuumsmechanik / Nonlinear continuum mechanics - Vorlesung
 
@@ -27207,7 +27920,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86334&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | 11901.00.240 (H10 Hörsaal 10) |
 
 ### NLKM (V) - Nichtlineare Kontinuumsmechanik / Nonlinear continuum mechanics - Vorlesung
 
@@ -27216,7 +27936,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86334&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | 11901.00.240 (H10 Hörsaal 10) |
 
 ### Num2U - Übungen zur Numerik II für Ingenieure - Übung
 
@@ -27935,7 +28662,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 14:00–18:00 | 16.04.2026–16.07.2026 | 12401.00.144 (HF-Technik 0.144 HF-Praktikum Cauerstraße 6, EG) 11501.06.226 (HF-Technik: BZ 06.226 Besprechungszimmer (alt 6.18)) |
+| wöchentlich | Do | 08:00–12:00 | 16.04.2026–16.07.2026 | 12401.00.144 (HF-Technik 0.144 HF-Praktikum Cauerstraße 6, EG) 11501.06.226 (HF-Technik: BZ 06.226 Besprechungszimmer (alt 6.18)) |
 
 ### PR HFSS - Praktikum Hochfrequenztechnik/Mikrowellentechnik 2 - Praktikum
 
@@ -27951,7 +28678,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 14:00–18:00 | 16.04.2026–16.07.2026 | 12401.00.144 (HF-Technik 0.144 HF-Praktikum Cauerstraße 6, EG) 11501.06.226 (HF-Technik: BZ 06.226 Besprechungszimmer (alt 6.18)) |
+| wöchentlich | Do | 08:00–12:00 | 16.04.2026–16.07.2026 | 12401.00.144 (HF-Technik 0.144 HF-Praktikum Cauerstraße 6, EG) 11501.06.226 (HF-Technik: BZ 06.226 Besprechungszimmer (alt 6.18)) |
 
 ### PR HFSS - Praktikum Hochfrequenztechnik/Mikrowellentechnik 2 - Praktikum
 
@@ -27967,7 +28694,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 14:00–18:00 | 16.04.2026–16.07.2026 | 12401.00.144 (HF-Technik 0.144 HF-Praktikum Cauerstraße 6, EG) 11501.06.226 (HF-Technik: BZ 06.226 Besprechungszimmer (alt 6.18)) |
+| wöchentlich | Do | 08:00–12:00 | 16.04.2026–16.07.2026 | 12401.00.144 (HF-Technik 0.144 HF-Praktikum Cauerstraße 6, EG) 11501.06.226 (HF-Technik: BZ 06.226 Besprechungszimmer (alt 6.18)) |
 
 ### PR HPA - Praktikum zu High-Performance Analog- und Umsetzer-Design - Praktikum
 
@@ -28082,7 +28809,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 09:00–17:00 | 03.08.2026–07.08.2026 | 11501.04.221 (EL 4.13 Praktikumsraum) |
 
 ### PR PLD - Praktikum für systematischen Entwurf programmierbarer Logikbausteine - Praktikum
 
@@ -28092,7 +28826,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 09:00–17:00 | 03.08.2026–07.08.2026 | 11501.04.221 (EL 4.13 Praktikumsraum) |
 
 ### PR PLD - Praktikum für systematischen Entwurf programmierbarer Logikbausteine - Praktikum
 
@@ -28102,7 +28843,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 09:00–17:00 | 03.08.2026–07.08.2026 | 11501.04.221 (EL 4.13 Praktikumsraum) |
 
 ### PR SEN - Sensorik-Praktikum - Praktikum
 
@@ -28276,7 +29024,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 09:00–16:00 | 17.08.2026–03.09.2026 | — |
 
 ### PR-SRE - Praktikum Stromrichter in der Energieversorgung - Praktikum
 
@@ -28286,7 +29041,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 09:00–16:00 | 17.08.2026–03.09.2026 | — |
 
 ### PR-SRE - Praktikum Stromrichter in der Energieversorgung - Praktikum
 
@@ -28296,7 +29058,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 09:00–16:00 | 17.08.2026–03.09.2026 | — |
 
 ### Pr_SYSImm - Project Systems Immunology - Projektseminar
 
@@ -28350,7 +29119,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 09:00–17:00 | 10.08.2026–14.08.2026 | 11501.04.219 (EL 4.11/12 Praktikumsraum) |
 
 ### PrADU - Praktikum Analog-Digital-Umsetzer - Praktikum
 
@@ -28360,7 +29136,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 09:00–17:00 | 10.08.2026–14.08.2026 | 11501.04.219 (EL 4.11/12 Praktikumsraum) |
 
 ### PrADU - Praktikum Analog-Digital-Umsetzer - Praktikum
 
@@ -28370,7 +29153,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 09:00–17:00 | 10.08.2026–14.08.2026 | 11501.04.219 (EL 4.11/12 Praktikumsraum) |
 
 ### Prak TeSi - Praktikum Halbleitertechnologie - Praktikum
 
@@ -28485,7 +29275,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:00–18:00 | 23.04.2026–16.07.2026 | 11501.06.021 (06.021 Labor- und Praktikumsraum) |
 
 ### PrBiViP - Laborpraktikum Bild- und Videosignalverarbeitung auf eingebetteten Plattformen - Praktikum
 
@@ -28495,7 +29292,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:00–18:00 | 23.04.2026–16.07.2026 | 11501.06.021 (06.021 Labor- und Praktikumsraum) |
 
 ### PrBiViP - Laborpraktikum Bild- und Videosignalverarbeitung auf eingebetteten Plattformen - Praktikum
 
@@ -28505,7 +29309,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:00–18:00 | 23.04.2026–16.07.2026 | 11501.06.021 (06.021 Labor- und Praktikumsraum) |
 
 ### PrDÜ - Praktikum Digitale Übertragung - Praktikum
 
@@ -28522,7 +29333,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung | — | 14:00–19:00 | 03.08.2026–07.08.2026 | — |
+| Blockveranstaltung | — | 08:00–13:00 | 03.08.2026–07.08.2026 | — |
 
 ### PrDÜ - Praktikum Digitale Übertragung - Praktikum
 
@@ -28539,7 +29350,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung | — | 14:00–19:00 | 03.08.2026–07.08.2026 | — |
+| Blockveranstaltung | — | 08:00–13:00 | 03.08.2026–07.08.2026 | — |
 
 ### PrDÜ - Praktikum Digitale Übertragung - Praktikum
 
@@ -28556,7 +29367,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung | — | 14:00–19:00 | 03.08.2026–07.08.2026 | — |
+| Blockveranstaltung | — | 08:00–13:00 | 03.08.2026–07.08.2026 | — |
 
 ### PrEMIX - Praktikum Mixed-Signal-Entwurf - Praktikum
 
@@ -28599,7 +29410,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Projekt
 - **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wird noch angekündigt | — | — | — | — |
 
 ### PRL - Project Representation Learning - Projekt
 
@@ -28609,7 +29427,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Projekt
 - **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wird noch angekündigt | — | — | — | — |
 
 ### PRL - Project Representation Learning - Projekt
 
@@ -28619,7 +29444,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Projekt
 - **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wird noch angekündigt | — | — | — | — |
 
 ### PRL - Project Representation Learning - Projekt
 
@@ -28629,7 +29461,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Projekt
 - **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wird noch angekündigt | — | — | — | — |
 
 ### PrMoKo - Praktikum Mobilkommunikation - Praktikum
 
@@ -29785,7 +30624,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 16:15–17:45 | 22.04.2026–15.07.2026 | 56901.01.015 (Meeting 01.015) |
 
 ### SEM-BRR - Seminar Biosignals in Rehabilitation Robotics - Hauptseminar
 
@@ -29795,7 +30641,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 16:15–17:45 | 22.04.2026–15.07.2026 | 56901.01.015 (Meeting 01.015) |
 
 ### SEM-BRR - Seminar Biosignals in Rehabilitation Robotics - Hauptseminar
 
@@ -29805,7 +30658,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 16:15–17:45 | 22.04.2026–15.07.2026 | 56901.01.015 (Meeting 01.015) |
 
 ### SemBioMatMT - Seminar Biomaterialien für Medizintechniker - Seminar
 
@@ -29974,7 +30834,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:15–09:45 | 14.04.2026–14.07.2026 | 07205.01.030 (01.030 Seminarraum) |
 
 ### SemQTech1 - Seminar Quantentechnologien 1 - Seminar
 
@@ -29984,7 +30851,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:15–09:45 | 14.04.2026–14.07.2026 | 07205.01.030 (01.030 Seminarraum) |
 
 ### SemQTech1 - Seminar Quantentechnologien 1 - Seminar
 
@@ -29994,7 +30868,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:15–09:45 | 14.04.2026–14.07.2026 | 07205.01.030 (01.030 Seminarraum) |
 
 ### SemQTech1 - Seminar Quantentechnologien 1 - Seminar
 
@@ -30004,7 +30885,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:15–09:45 | 14.04.2026–14.07.2026 | 07205.01.030 (01.030 Seminarraum) |
 
 ### SemQTech1 - Seminar Quantentechnologien 1 - Seminar
 
@@ -30014,7 +30902,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:15–09:45 | 14.04.2026–14.07.2026 | 07205.01.030 (01.030 Seminarraum) |
 
 ### SemRSUVI - Seminar Road Scene Understanding for the Visually Impaired - Seminar
 
@@ -30898,13 +31793,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | 11901.00.222 (H7 Hörsaal 7) |
 | wöchentlich | Mi | 10:15–11:45 | 22.04.2026–15.07.2026 | 11901.00.222 (H7 Hörsaal 7) |
 
-### SuF-Ü - Übung  zur Statik und Festigkeitslehre - Tutorium
+### SuF-Ü - Übung  zur Statik und Festigkeitslehre - Übung
 
 - **Segment:** `exam:14523144` · **unitId:** `91315`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523142|exam:14523144>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91315&periodId=589>
 
-- **Veranstaltungsart:** Tutorium
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
@@ -30914,13 +31809,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Do | 18:15–19:45 | 09.04.2026–16.07.2026 | 11901.00.222 (H7 Hörsaal 7) |
 
-### SuF-Ü - Übung  zur Statik und Festigkeitslehre - Tutorium
+### SuF-Ü - Übung  zur Statik und Festigkeitslehre - Übung
 
 - **Segment:** `exam:14527036` · **unitId:** `91315`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14527034|exam:14527036>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91315&periodId=589>
 
-- **Veranstaltungsart:** Tutorium
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
@@ -30930,13 +31825,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Do | 18:15–19:45 | 09.04.2026–16.07.2026 | 11901.00.222 (H7 Hörsaal 7) |
 
-### SuF-Ü - Übung  zur Statik und Festigkeitslehre - Tutorium
+### SuF-Ü - Übung  zur Statik und Festigkeitslehre - Übung
 
 - **Segment:** `exam:14530928` · **unitId:** `91315`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14528584|exam:14528586|exam:14528588|exam:14530926|exam:14530928>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91315&periodId=589>
 
-- **Veranstaltungsart:** Tutorium
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
@@ -30954,7 +31849,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:00–14:00 | 13.04.2026–13.07.2026 | — |
+| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | — |
 
 ### SYSImmInf - Systems Immunology and Infectiology - Vorlesung mit Übung
 
@@ -30964,7 +31867,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:00–14:00 | 13.04.2026–13.07.2026 | — |
+| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | — |
 
 ### TD II - Mi - Technische Darstellungslehre II - Kurs Mi - Praktikum
 
@@ -31125,7 +32036,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 13:00–17:00 | 16.04.2026–16.07.2026 | 07205.02.033 (CIP-Pool MB II) |
 
 ### TM (P) - Praktikum Technische Mechanik - Praktikum
 
@@ -31135,7 +32053,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 13:00–17:00 | 16.04.2026–16.07.2026 | 07205.02.033 (CIP-Pool MB II) |
 
 ### TM (P) - Praktikum Technische Mechanik - Praktikum
 
@@ -31145,7 +32070,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 13:00–17:00 | 16.04.2026–16.07.2026 | 07205.02.033 (CIP-Pool MB II) |
 
 ### TM (P) - Praktikum Technische Mechanik - Praktikum
 
@@ -31155,7 +32087,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 13:00–17:00 | 16.04.2026–16.07.2026 | 07205.02.033 (CIP-Pool MB II) |
 
 ### TPG - Technische Produktgestaltung - Vorlesung mit Übung
 
@@ -31164,7 +32103,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85784&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:15–17:45 | 13.04.2026–13.07.2026 | 11907.01.040 (H18) |
+| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 11907.01.040 (H18) |
 
 ### TPG - Technische Produktgestaltung - Vorlesung mit Übung
 
@@ -31173,7 +32120,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85784&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:15–17:45 | 13.04.2026–13.07.2026 | 11907.01.040 (H18) |
+| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 11907.01.040 (H18) |
 
 ### TRACO - Tracking Olympiad - Hauptseminar
 
@@ -31236,7 +32191,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87014&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 12104.01.421 (KS I Kurssaal I Hanns-Hofmann-Hörsaal) |
+| wöchentlich | Fr | 10:15–11:45 | 17.04.2026–17.07.2026 | 12104.01.421 (KS I Kurssaal I Hanns-Hofmann-Hörsaal) |
 
 ### TTD - Technische Thermodynamik - Vorlesung
 
@@ -31245,7 +32208,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87014&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 12104.01.421 (KS I Kurssaal I Hanns-Hofmann-Hörsaal) |
+| wöchentlich | Fr | 10:15–11:45 | 17.04.2026–17.07.2026 | 12104.01.421 (KS I Kurssaal I Hanns-Hofmann-Hörsaal) |
 
 ### TTD Ü - Technische Thermodynamik Übung - Übung
 
@@ -31294,7 +32265,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | 11501.00.155 (H15 Hans-Wilhelm-Schüßler-Hörsaal) |
+| wöchentlich | Do | 12:15–13:45 | 23.04.2026–16.07.2026 | 11501.00.156 (H16 Hörsaal 16) 11501.02.019 (02.019 Seminarraum) |
 
 ### TutAlgoKS - Übung zu Algorithmik kontinuierlicher Systeme - Übung
 
@@ -31311,7 +32282,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | 11501.00.155 (H15 Hans-Wilhelm-Schüßler-Hörsaal) |
+| wöchentlich | Do | 12:15–13:45 | 23.04.2026–16.07.2026 | 11501.00.156 (H16 Hörsaal 16) 11501.02.019 (02.019 Seminarraum) |
 
 ### TutAlgoKS - Übung zu Algorithmik kontinuierlicher Systeme - Übung
 
@@ -31328,7 +32299,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | 11501.00.155 (H15 Hans-Wilhelm-Schüßler-Hörsaal) |
+| wöchentlich | Do | 12:15–13:45 | 23.04.2026–16.07.2026 | 11501.00.156 (H16 Hörsaal 16) 11501.02.019 (02.019 Seminarraum) |
 
 ### TutAlgoKSRUE - Rechnerübung zu Algorithmik kontinuierlicher Systeme - Übung
 
@@ -31385,7 +32356,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87654&periodId=589>
 
 - **Veranstaltungsart:** Tutorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 11501.01.105 (H6 Hörsaal 6) |
 
 ### TutEMFI - Tutorium zu Elektromagnetische Felder I - Tutorium
 
@@ -31394,7 +32372,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87654&periodId=589>
 
 - **Veranstaltungsart:** Tutorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 11501.01.105 (H6 Hörsaal 6) |
 
 ### TutEMFI - Tutorium zu Elektromagnetische Felder I - Tutorium
 
@@ -31403,7 +32388,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87654&periodId=589>
 
 - **Veranstaltungsart:** Tutorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 11501.01.105 (H6 Hörsaal 6) |
 
 ### TutInCG - Tutorials to Interactive Computer Graphics - Übung
 
@@ -31413,7 +32405,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 09:00–12:00 | 16.04.2026–16.07.2026 | 11302.00.153 (00.153-113 CIP CIP-Pool Informatik (CIP3)) |
+| wöchentlich | Do | 09:00–12:00 | 16.04.2026–16.07.2026 | 11302.00.156 (00.156-113 CIP CIP-Pool Informatik (CIP4)) |
 
 ### Tutorium - Tutorium zur Nichtlinearen Kontinuumsmechanik - Tutorium
 
@@ -31422,7 +32422,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134220&periodId=589>
 
 - **Veranstaltungsart:** Tutorium
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 12:15–13:45 | 17.04.2026–17.07.2026 | 10601.00.044 (SR TM Seminarraum Technische Mechanik, Raum-Nr. 00.044 (Technische Fakultät, Campus Süd)) |
 
 ### Tutorium - Tutorium zur Nichtlinearen Kontinuumsmechanik - Tutorium
 
@@ -31431,7 +32438,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134220&periodId=589>
 
 - **Veranstaltungsart:** Tutorium
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 12:15–13:45 | 17.04.2026–17.07.2026 | 10601.00.044 (SR TM Seminarraum Technische Mechanik, Raum-Nr. 00.044 (Technische Fakultät, Campus Süd)) |
 
 ### TutSciVis - Tutorials to Scientific Visualization - Übung
 
@@ -31681,7 +32695,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 16:15–17:45 | 30.04.2026–16.07.2026 | 11302.02.133 (02.133-113 Übungsraum) |
 
 ### UE-CPS - Übung zu Cyber-Physical Systems - Übung
 
@@ -31691,7 +32712,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 16:15–17:45 | 30.04.2026–16.07.2026 | 11302.02.133 (02.133-113 Übungsraum) |
 
 ### UE-GTI - Übungen zu Grundlagen der Technischen Informatik - Übung
 
@@ -31946,7 +32974,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 16:15–17:45 | 27.04.2026–13.07.2026 | 11501.00.151 (0.151-115 Seminar) |
+| wöchentlich | Mo | 08:15–09:45 | 27.04.2026–13.07.2026 | 11302.00.151 (00.151-113 Übungsraum) |
 
 ### Ü SP1 - Systemprogrammierung 1 - Übung - Übung
 
@@ -31963,7 +32991,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 16:15–17:45 | 27.04.2026–13.07.2026 | 11501.00.151 (0.151-115 Seminar) |
+| wöchentlich | Mo | 08:15–09:45 | 27.04.2026–13.07.2026 | 11302.00.151 (00.151-113 Übungsraum) |
 
 ### Ü SP1 - Systemprogrammierung 1 - Übung - Übung
 
@@ -31980,7 +33008,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 16:15–17:45 | 27.04.2026–13.07.2026 | 11501.00.151 (0.151-115 Seminar) |
+| wöchentlich | Mo | 08:15–09:45 | 27.04.2026–13.07.2026 | 11302.00.151 (00.151-113 Übungsraum) |
 
 ### Ü SP1 - Systemprogrammierung 1 - Übung - Übung
 
@@ -31997,7 +33025,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 16:15–17:45 | 27.04.2026–13.07.2026 | 11501.00.151 (0.151-115 Seminar) |
+| wöchentlich | Mo | 08:15–09:45 | 27.04.2026–13.07.2026 | 11302.00.151 (00.151-113 Übungsraum) |
 
 ### Ü SPiC - Systemnahe Programmierung in C - Tafelübung - Übung
 
@@ -32147,7 +33175,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mo | 10:00–12:00 | 20.04.2026–13.07.2026 | 11501.00.157 (0.157-115 CIP Pool EEI) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (563)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (552)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -32460,15 +33488,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
 
-### Anwendungen von Quantentechnologien — Vorlesung
-
-- **Segment:** `unit:114490` · **unitId:** `114490`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114490&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
 ### Applied Neural Engineering: Brain and Spine Neurosurgery and Human/Machine Interfaces — Hauptseminar
 
 - **Segment:** `unit:86709` · **unitId:** `86709`
@@ -32515,7 +33534,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82393&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 11907.01.040 (H18) |
+| wöchentlich | Mi | 08:15–09:45 | 15.04.2026–15.07.2026 | 11907.01.030 (H19) |
 
 ### Artificial Intelligence II - Übung
 
@@ -32755,7 +33782,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:15–11:45 | 22.04.2026–15.07.2026 | 11401.00.116 (H14 Bernhard-Ilschner-Hörsaal (0.61)) |
 
 ### Biomechanik: Mechanische Eigenschaften biologischer Materialien — Vorlesung
 
@@ -32812,7 +33846,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 7.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 08801.01.020 ( Hörsaal ZMPT 01.[Telefon entfernt].00.020 ( Seminarraum ZMPT 00.020) |
+| wöchentlich | Do | 15:00–17:15 | 16.04.2026–16.07.2026 | 08801.01.020 ( Hörsaal ZMPT 01.020) |
 
 ### Bioreaktions- und Bioverfahrenstechnik (CBI, BT, LSE, MT) — Vorlesung
 
@@ -32890,7 +33932,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83990&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 08:30–10:00 | 15.04.2026–15.07.2026 | 12801.01.210 (H11) |
 
 ### Cell Material Interactions — Vorlesung
 
@@ -32991,7 +34040,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 08:30–09:45 | 15.04.2026–15.07.2026 | 12401.01.225 (1.225 Kursraum) |
 
 ### Computational Dynamics
 
@@ -33134,7 +34190,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| Mi | Mi | — | — | — |
 
 ### Computational Multibody Dynamics
 
@@ -33149,15 +34205,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### Computational Neural Engineering — Seminar
-
-- **Segment:** `unit:128864` · **unitId:** `128864`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128864&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
 
 ### Computational Neural Engineering — Vorlesung mit Übung
 
@@ -33299,15 +34346,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### Dataset Learning Limits DLL — Seminar
-
-- **Segment:** `unit:125831` · **unitId:** `125831`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125831&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
-
 ### Datenbanken in Rechnernetzen — Vorlesung
 
 - **Segment:** `unit:90647` · **unitId:** `90647`
@@ -33440,15 +34478,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93366&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Digital Health Psychology — Seminar
-
-- **Segment:** `unit:116395` · **unitId:** `116395`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116395&periodId=589>
-
-- **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
@@ -33602,7 +34631,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | Fr | 08:00–08:30 | — | — |
+| Fr | Fr | 08:00–08:30 | — | 11301.00.039 |
 
 ### Echtzeitsysteme 2 - Verlässliche Echtzeitsysteme — Vorlesung
 
@@ -33634,7 +34663,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93760&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 11302.01.153 (01.153-113 CIP CIP-Pool Informatik (WinCIP)) |
+| wöchentlich | Mi | 12:00–14:00 | 15.04.2026–15.07.2026 | 11302.01.153 (01.153-113 CIP CIP-Pool Informatik (WinCIP)) |
 
 ### Echtzeitsysteme 2 - Verlässliche Echtzeitsysteme - Übungen
 
@@ -34023,14 +35060,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
-### Exercise Engineering Mathematics / Probability and stochastic processes — Übung
-
-- **Segment:** `unit:94733` · **unitId:** `94733`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94733&periodId=589>
-
-- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
@@ -34038,12 +35067,28 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 11901.U1.245 (K2-119 Seminarraum) |
+| wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 11302.02.134 (02.134-113 Übungsraum) |
+
+### Exercise Engineering Mathematics / Probability and stochastic processes — Übung
+
+- **Segment:** `unit:94733` · **unitId:** `94733`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94733&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Turnus:** nur im Sommersemester
 
 ### Exercise in Optical Diagnostics in Energy and Process Engineering — Übung
 
 - **Segment:** `unit:84187` · **unitId:** `84187`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84187&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Turnus:** nur im Wintersemester
+
+### Exercise Mathematics for Engineers III — Übung
+
+- **Segment:** `unit:90033` · **unitId:** `90033`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90033&periodId=589>
 
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
@@ -34178,15 +35223,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Mo | 08:15–09:45 | 13.04.2026–13.07.2026 | 11906.01.030 (H21) |
 | wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 11906.01.030 (H21) |
 
-### Fertigungsmesstechnik II - Online — Online-Kurs
-
-- **Segment:** `unit:137719` · **unitId:** `137719`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137719&periodId=589>
-
-- **Veranstaltungsart:** Online-Kurs
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Fertigungsmesstechnik II - Übung
 
 - **Segment:** `unit:83095` · **unitId:** `83095`
@@ -34216,7 +35252,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | 11301.00.005 (H4 Hörsaal 4) |
 
 ### Functional Analysis for Engineers — Vorlesung mit Übung
 
@@ -34247,6 +35290,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90801&periodId=589>
 
 - **Veranstaltungsart:** Online-Kurs
+- **Unterrichtssprache:** Englisch
 - **Turnus:** Unregelmäßig
 
 ### Fundamentals of electrical engineering
@@ -34503,7 +35547,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:15–13:45 | 20.04.2026–13.07.2026 | — |
 
 ### Grundlagen der biologischen Strahlenwirkung 1
 
@@ -34570,15 +35621,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83250&periodId=589>
 
 - **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Grundlagen der Krankheitserkennung — Vorlesung
-
-- **Segment:** `unit:108553` · **unitId:** `108553`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=108553&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
 ### Grundlagen der Messtechnik - Übung
@@ -34720,7 +35762,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | 11901.00.226 (H8 Hörsaal 8) |
 
 ### Hardware-Beschreibungssprache VHDL — Vorlesung mit Übung
 
@@ -34752,7 +35801,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:15–09:45 | 14.04.2026–14.07.2026 | 11301.00.005 (H4 Hörsaal 4) |
 
 ### Hardware-Software-Co-Design (Lecture with extended exercise)
 
@@ -34834,7 +35890,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | 11501.05.222 (HF-Technik: SR 05.222 Seminarraum (alt 5.14)) 11501.06.226 (HF-Technik: BZ 06.226 Besprechungszimmer (alt 6.18)) |
 
 ### HF-Schaltungen und Systeme Übung
 
@@ -34860,29 +35923,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### Hochfrequenztechnik Tutorium
-
-- **Segment:** `unit:114400` · **unitId:** `114400`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114400&periodId=589>
-
-- **Veranstaltungsart:** Tutorium
-- **Turnus:** nur im Wintersemester
-
 ### Hochfrequenztechnik Übung
 
 - **Segment:** `unit:82792` · **unitId:** `82792`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82792&periodId=589>
 
 - **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Human-Machine Touch Laboratory: Exploring Sensorimotor Interfaces — Praktikum
-
-- **Segment:** `unit:131734` · **unitId:** `131734`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131734&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
 ### Human-Robot Co-Adaptation
@@ -34985,7 +36031,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 16:15–17:45 | 08.04.2026–15.07.2026 | 11501.01.104 (H5 Hörsaal 5) |
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 11501.01.104 (H5 Hörsaal 5) |
 
 ### Information Theory and Coding - Tutorial — Übung
 
@@ -35245,7 +36299,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 
-### Jüngste Entwicklungen der Medizinischen Systembiologie I — Seminar
+### Jüngste Entwicklungen der Medizinischen Systembiologie I (SoSe) — Seminar
 
 - **Segment:** `unit:91442` · **unitId:** `91442`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91442&periodId=589>
@@ -35552,7 +36606,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 11906.01.030 (H21) |
 
 ### Künstliche Intelligenz I
 
@@ -35628,8 +36689,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -35731,7 +36792,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| Sa | Sa | 14:30–16:00 | — | — |
 
 ### Machine Learning for Engineers I: Introduction to Methods and Tools — Vorlesung
 
@@ -35755,7 +36816,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| Sa | Sa | 17:00–18:00 | — | — |
 
 ### Machine Learning for Engineers II: Advanced Methods — Vorlesung
 
@@ -35995,6 +37056,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Do | Do | — | — | — |
+
+### Mathematik für Ingenieure A/E 1 — Vorlesung
+
+- **Segment:** `unit:137955` · **unitId:** `137955`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137955&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 7.5
+- **Turnus:** nur im Wintersemester
 
 ### Mathematik für Ingenieure A1: EEI, MT,CE,BP — Vorlesung
 
@@ -36244,14 +37314,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Blockveranstaltung | — | 08:30–17:00 | 10.08.2026–14.08.2026 | 07205.02.033 (CIP-Pool MB II) |
 | Blockveranstaltung | — | 08:30–17:00 | 17.08.2026–21.08.2026 | 07205.02.033 (CIP-Pool MB II) |
-
-### Mikrocontrollerpraxis mit einem portablen EKG-Monitor — Vorlesung
-
-- **Segment:** `unit:118680` · **unitId:** `118680`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118680&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** in jedem Semester
 
 ### Mikromechanik
 
@@ -36514,7 +37576,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 11501.04.023 (04.023 Hörsaal) |
+| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 11501.04.023 (04.023 Hörsaal) |
 
 ### Optische und Mechanische Gewebeanalytik für die Medizintechnik (OMG) — Vorlesung mit Übung
 
@@ -36545,7 +37615,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 08:15–09:45 | 16.04.2026–16.07.2026 | 11301.00.005 (H4 Hörsaal 4) |
 
 ### Pattern Analysis
 
@@ -36809,15 +37886,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Praktikum Photonik/Lasertechnik 1
-
-- **Segment:** `unit:107618` · **unitId:** `107618`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107618&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
 ### Praktikum Power System Operations and Control
 
 - **Segment:** `unit:84146` · **unitId:** `84146`
@@ -36876,7 +37944,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 3.75
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Di | 12:15–13:45 | 14.04.2026 | 11906.01.040 (H20) |
+| wöchentlich | Di | 12:15–13:45 | 21.04.2026–14.07.2026 | 11906.01.040 (H20) |
 
 ### Produktionssystematik
 
@@ -36950,7 +38026,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97429&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 54201.00.030 ( Hörsaal - Studienzentrum Stintzingstraße) |
 
 ### Proseminar Allgemeine Psychologie II
 
@@ -37015,7 +38098,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 11907.01.030 (H19) |
 
 ### Radar, RFID and Wireless Sensor Systems (RWS)
 
@@ -37379,7 +38469,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | Mo | 10:00–11:30 | — | — |
+| Mo | Mo | 10:00–11:30 | — | 11501.04.222 (04.222 EL4.14 &quot;Tietze-Schenk-Saal&quot;) |
 
 ### Schaltungen und Systeme der Übertragungstechnik — Vorlesung
 
@@ -37388,7 +38478,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:15–09:45 | 21.04.2026–14.07.2026 | 11501.04.222 (04.222 EL4.14 &quot;Tietze-Schenk-Saal&quot;) 11501.00.157 (0.157-115 CIP Pool EEI) |
 
 ### Schriftliche Übersetzungsleistung Latein I für Anfänger (Zulassungsvoraussetzung zu Kurs Latein II für Fortgeschrittene)
 
@@ -37403,13 +38500,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Do | Do | 14:00–16:00 | 07.06.2026 23:59:59 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
-
-### SciCom: The Fascination of Assistive Devices — Seminar
-
-- **Segment:** `unit:123700` · **unitId:** `123700`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123700&periodId=589>
-
-- **Veranstaltungsart:** Seminar
 
 ### Security in Embedded Hardware
 
@@ -37486,13 +38576,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
-
-### Seminar Programming with Large Language Models — Hauptseminar
-
-- **Segment:** `unit:113085` · **unitId:** `113085`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113085&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
 
 ### Seminar und Praktikum zur Biosignalverarbeitung
 
@@ -37697,15 +38780,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mi | Mi | — | — | — |
 
-### Statistische Signalverarbeitung — Vorlesung
-
-- **Segment:** `unit:83886` · **unitId:** `83886`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83886&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Supplements Communication Networks — Übung
 
 - **Segment:** `unit:82387` · **unitId:** `82387`
@@ -37863,7 +38937,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 11501.00.151 (0.151-115 Seminar) |
 
 ### Technologie-Startup-Seminar
 
@@ -38063,7 +39144,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 08:15–11:45 | 16.04.2026–16.07.2026 | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
 
 ### Verteilte Systeme — Vorlesung
 
@@ -38158,7 +39246,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 16:15–17:45 | 15.04.2026–15.07.2026 | 54201.00.030 ( Hörsaal - Studienzentrum Stintzingstraße) |
 
 ### Vorlesung Maschinenelemente I
 
@@ -38175,7 +39270,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 54201.00.030 ( Hörsaal - Studienzentrum Stintzingstraße) |
 
 ### Vorlesung zu Simulation  und wissenschaftliches Rechnen 1
 
@@ -38193,7 +39295,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 16:15–17:45 | 13.05.2026–15.07.2026 | 11401.00.123 (0.68 Seminarraum Werkstoffwissenschaften) |
 
 ### Werkstoffe und Verfahren der medizinischen Diagnostik I — Vorlesung
 
@@ -38344,7 +39453,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 12801.01.255 (01.255-128 Besprechungsraum) |
+| wöchentlich | Di | 14:15–15:45 | 14.04.2026–14.07.2026 | 12801.01.255 (01.255-128 Besprechungsraum) |
 
 ### Übung zu Produktionssystematik
 
@@ -38404,6 +39513,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 11501.02.224 (02.224 Cauerstr.9 Seminarraum) |
 
 ### Übungen zu Elektromagnetische Verträglichkeit
 
@@ -38516,7 +39631,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83372&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | 11501.04.222 (04.222 EL4.14 &quot;Tietze-Schenk-Saal&quot;) |
+| wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | 11501.04.221 (EL 4.13 Praktikumsraum) |
 
 ### Übungen zu Quanteninformationstechnologie
 
@@ -38524,6 +39647,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90923&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Wintersemester
 
 ### Übungen zu Schaltungen und Systeme der Übertragungstechnik

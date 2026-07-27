@@ -237,7 +237,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95282&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 15:00–16:30 | 13.04.2026–13.07.2026 | 21102.01.420 (LG H5 TeamBank-Hörsaal (384 Plätze)) |
 
 ### HNO II - Vorlesung
 
@@ -363,7 +370,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 08:00–08:45 | 16.04.2026–16.07.2026 | — |
 
 ### Praktikum Neurologie - Praktikum
 
@@ -400,6 +414,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:13848546` · **unitId:** `106027`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17975|exam:13846950|exam:13846952|exam:13846954|exam:13848544|exam:13848546>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106027&periodId=589>
+
+- **Veranstaltungsart:** Praxisseminar
+- **ECTS-Punkte:** 2.0
+- **Turnus:** nur im Sommersemester
 
 ### Waldkrankenhaus - Praxisseminar
 
@@ -694,7 +712,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17975|exam:13846950|exam:13846952|exam:13846954|exam:13848499|exam:13848502>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95709&periodId=589>
 
+- **Veranstaltungsart:** Praxisseminar
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
 
 ### Aph - Aphasiologie - Vorlesung
 
@@ -988,14 +1009,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 08:30–11:00 | 15.04.2026–15.07.2026 | — |
 
 ### Sozio - Soziologie - Seminar
 
@@ -1033,14 +1047,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 09:00–11:15 | 16.04.2026–16.07.2026 | — |
 
 ### Thera Sti - Therapie- und Ausbildungssupervision Modul 12 23230 Stimme  - Praxisseminar
 
@@ -1050,6 +1057,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praxisseminar
 - **ECTS-Punkte:** 5.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
 ### Therapie SES - Therapie + Ausbildungssupervision Aufbaumodul Praxis I SES Modul 23210 - Praxisseminar
@@ -1091,7 +1099,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Do | 12:30–13:15 | 16.04.2026–16.07.2026 | — |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (13)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (10)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -1122,14 +1130,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 4.0
 - **Turnus:** nur im Wintersemester
 
-### Audiologiepraktikum — Übung
-
-- **Segment:** `unit:106092` · **unitId:** `106092`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106092&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
 ### Klausur zum Nachweis Gesicherter Lateinkenntnisse
 
 - **Segment:** `unit:39849` · **unitId:** `39849`
@@ -1157,8 +1157,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -1200,24 +1200,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.0
-- **Turnus:** nur im Wintersemester
-
-### Phoniatrie III Übung
-
-- **Segment:** `unit:118253` · **unitId:** `118253`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118253&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 0.5
-- **Turnus:** nur im Wintersemester
-
-### Pädiatrie — Vorlesung
-
-- **Segment:** `unit:96106` · **unitId:** `96106`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96106&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 1.5
 - **Turnus:** nur im Wintersemester
 
 ### Schriftliche Übersetzungsleistung Latein I für Anfänger (Zulassungsvoraussetzung zu Kurs Latein II für Fortgeschrittene)

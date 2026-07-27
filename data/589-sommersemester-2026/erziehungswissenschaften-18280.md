@@ -5,7 +5,7 @@ campo_segment: "title:18280"
 campo_path: "title:17593|title:17595|title:18280"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280"
 po_version_count: 0
-course_count: 843
+course_count: 846
 ---
 
 # Erziehungswissenschaften
@@ -14,7 +14,7 @@ course_count: 843
 
 _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theologie_  
 
-## Veranstaltungen (843)
+## Veranstaltungen (846)
 
 ### (LA PRF) - Staatsexamensvorbereitung OC (LAnv)  - Seminar
 
@@ -105,7 +105,17 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135034&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Sa | 09:00–18:00 | 09.05.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
+| Einzeltermin | Sa | 09:00–18:00 | 20.06.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
+| Einzeltermin | Sa | 09:00–18:00 | 04.07.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
+| Einzeltermin | Fr | 14:00–18:00 | 31.07.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
 
 ### A+V Zeichnen für Fortgeschrittene - Seminar
 
@@ -211,7 +221,17 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134733&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Di | 18:30–19:30 | 05.05.2026 | — |
+| Blockveranstaltung | — | 09:30–16:30 | 30.07.2026–31.07.2026 | 75201.00.310 (St.Paul 00.310 Textilwerkstatt (40)) |
+| Einzeltermin | Sa | 10:00–12:00 | 01.08.2026 | — |
+| Einzeltermin | So | 10:00–12:00 | 02.08.2026 | — |
 
 ### Asiatisch-Afrikanische Religionen: Transkulturelle Dynamiken und Wirtschaftsinteressen im globalen Kontext - Seminar
 
@@ -255,7 +275,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 12:00–14:00 | 17.04.2026–17.07.2026 | 00501.02.012 ( KH 2.012 Hörsaal Kollegienhaus) |
 
 ### Aufbaumodul: Seminar : zentrale/ausgewählte Fragestellungen - Seminar
 
@@ -282,7 +309,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 12:00–14:00 | 17.04.2026–17.07.2026 | 00501.02.012 ( KH 2.012 Hörsaal Kollegienhaus) |
 
 ### Auftrittstraining 1 - Übung
 
@@ -291,7 +325,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128315&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 09:45–11:15 | 15.04.2026–15.07.2026 | 20302.00.139 (0.139 Musiksaal (50)) |
 
 ### Auftrittstraining 1 - Übung
 
@@ -300,7 +341,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128315&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 09:45–11:15 | 15.04.2026–15.07.2026 | 20302.00.139 (0.139 Musiksaal (50)) |
 
 ### Basisseminar: Planung und Analyse von Lehr-Lernprozessen (Angebot am Standort Nürnberg; Lehrstuhl Prof. Dr. Gläser-Zikuda) - Seminar
 
@@ -500,7 +548,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134644&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 05701.00.021 ( 00.021 Seminarraum) |
 
 ### Bildungs- und sozialwissenschaftliche Perspektiven auf Lehrer*innenprofessionalität (Angebot am Standort Erlangen) - Seminar
 
@@ -509,7 +564,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134644&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 05701.00.021 ( 00.021 Seminarraum) |
 
 ### Bildungs- und sozialwissenschaftliche Perspektiven auf Lehrer*innenprofessionalität (Angebot am Standort Erlangen) - Seminar
 
@@ -518,7 +580,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134644&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 05701.00.021 ( 00.021 Seminarraum) |
 
 ### Blockseminar - Projektseminar
 
@@ -605,6 +674,12 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **Turnus:** Unregelmäßig
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 11:30–13:00 | 17.04.2026–17.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
+
 ### Christliche Kirchen und Gruppen - Vorlesung mit Übung
 
 - **Segment:** `exam:15716720` · **unitId:** `111360`
@@ -613,6 +688,12 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 11:30–13:00 | 17.04.2026–17.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 
 ### Curriculare Themen der Fachdidaktik Informatik - Vorlesung mit Übung
 
@@ -740,7 +821,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117494&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nicht in diesem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:00–14:00 | 15.04.2026–15.07.2026 | 06201.U1.023 (TSG U1.023 Prüfungszimmer/Sitzungszimmer - intern!) |
 
 ### Eine praktische Einführung in die Welt der Podcasts: Vom Skript bis zur Produktion - Seminar
 
@@ -749,7 +837,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117494&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nicht in diesem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:00–14:00 | 15.04.2026–15.07.2026 | 06201.U1.023 (TSG U1.023 Prüfungszimmer/Sitzungszimmer - intern!) |
 
 ### Einführung in die Planung und Analyse von Lehr-Lern-Prozessen (Angebot am Standort Erlangen) - Vorlesung
 
@@ -807,7 +902,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 06201.02.020 ( TSG HS B (02.020) Theologisches Seminargebäude, Kochstraße 6) |
 
 ### Einführung in die Schulpädagogik (Angebot am Standort Erlangen) - Vorlesung
 
@@ -881,7 +983,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134411&periodId=589>
 
 - **Veranstaltungsart:** Kolloquium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 14:00–15:30 | 17.04.2026–17.07.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
 
 ### Examenskolloquium Politikwissenschaft - Kolloquium
 
@@ -890,7 +999,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134411&periodId=589>
 
 - **Veranstaltungsart:** Kolloquium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 14:00–15:30 | 17.04.2026–17.07.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
 
 ### Examenskurs Didaktik für Wirtschaftswissenschaften Lehramt an Gym und RS - Seminar
 
@@ -1133,7 +1249,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136211&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:45–15:30 | 16.04.2026–16.07.2026 | 20302.00.139 (0.139 Musiksaal (50)) |
 
 ### Fachdidaktik II - Seminar
 
@@ -1142,7 +1265,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134657&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** jedes 2. Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 06201.01.020 (TSG R. 1.020 Bibliothek Praktische Theologie) |
 
 ### Fachdidaktik II - Seminar
 
@@ -1151,7 +1281,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134657&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** jedes 2. Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 06201.01.020 (TSG R. 1.020 Bibliothek Praktische Theologie) |
 
 ### Forschungsseminar - Oberseminar
 
@@ -1201,7 +1338,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung | — | 09:00–11:15 | 17.08.2026–09.10.2026 | 06201.02.020 ( TSG HS B (02.020) Theologisches Seminargebäude, Kochstraße 6) |
+| Blockveranstaltung | — | 09:00–11:15 | 17.08.2026–09.10.2026 | 06201.02.020 ( TSG HS B (02.020) Theologisches Seminargebäude, Kochstraße 6) 06201.00.023 (TSG R. 0.023 Bibliothek Neues Testament) |
 
 ### Griechisch II - Übung
 
@@ -1458,7 +1595,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133788&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 10:00–12:00 | 17.04.2026–17.07.2026 | 05901.05.012 ( 05.012) |
 
 ### HS: Hauptseminar Ältere Kirchengeschichte - Hauptseminar
 
@@ -1549,7 +1693,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 08:00–10:00 | 17.04.2026–12.06.2026 | — |
+| Einzeltermin | Fr | 18:00–20:00 | 24.04.2026 | 06201.02.020 ( TSG HS B (02.020) Theologisches Seminargebäude, Kochstraße 6) |
+| Einzeltermin | Sa | 09:00–16:00 | 25.04.2026 | 06201.02.020 ( TSG HS B (02.020) Theologisches Seminargebäude, Kochstraße 6) |
+| Einzeltermin | Mo | 18:00–20:00 | 18.05.2026 | — |
+| Einzeltermin | Fr | 18:00–20:00 | 19.06.2026 | — |
+| Einzeltermin | Sa | 09:00–16:00 | 20.06.2026 | — |
 
 ### Interdisziplinäre Übung - Übung
 
@@ -1633,7 +1789,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134693&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:00–18:00 | 14.04.2026–14.07.2026 | 06201.01.024 (TSG R. 1.024 Bibliothek Christliche Publizistik/Syst. Theologie/Ethik) |
 
 ### Journalistische Berufsethik im digitalen Wandel - Seminar
 
@@ -1642,7 +1805,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134693&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:00–18:00 | 14.04.2026–14.07.2026 | 06201.01.024 (TSG R. 1.024 Bibliothek Christliche Publizistik/Syst. Theologie/Ethik) |
 
 ### Keramik (A+V) - Seminar
 
@@ -1651,7 +1821,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134743&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 15:45–18:00 | 22.04.2026–15.07.2026 | 75201.U1.401 (St.Paul U1.401 Tonraum) |
 
 ### Kinderchorleitung - Übung
 
@@ -1661,7 +1838,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| nach Vereinbarung | — | — | — | — |
+| Blockveranstaltung | — | 09:45–13:00 | 17.04.2026 | 20302.01.132 (1.132 Aula (780)) |
+| Blockveranstaltung | — | 16:45–20:00 | 06.05.2026 | — |
+| Blockveranstaltung | — | 09:45–13:00 | 22.05.2026 | 20302.01.132 (1.132 Aula (780)) |
+| Blockveranstaltung | — | 09:45–13:00 | 12.06.2026 | 20302.01.132 (1.132 Aula (780)) |
+| Blockveranstaltung | — | 09:45–13:00 | 03.07.2026 | — |
 
 ### Kinderchorleitung - Übung
 
@@ -1671,7 +1860,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| nach Vereinbarung | — | — | — | — |
+| Blockveranstaltung | — | 09:45–13:00 | 17.04.2026 | 20302.01.132 (1.132 Aula (780)) |
+| Blockveranstaltung | — | 16:45–20:00 | 06.05.2026 | — |
+| Blockveranstaltung | — | 09:45–13:00 | 22.05.2026 | 20302.01.132 (1.132 Aula (780)) |
+| Blockveranstaltung | — | 09:45–13:00 | 12.06.2026 | 20302.01.132 (1.132 Aula (780)) |
+| Blockveranstaltung | — | 09:45–13:00 | 03.07.2026 | — |
 
 ### Körpertechniken des Selbst: Yoga und Achtsamkeit zwischen Emanzipation und Normierung - Seminar
 
@@ -1681,7 +1882,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:00–12:00 | 13.04.2026–13.07.2026 | 07501.00.006 (Jordanweg 2) |
 
 ### Künstlerische Studienfahrt  - Seminar
 
@@ -1759,6 +1967,15 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungsart:** Seminar
 - **Turnus:** in jedem Semester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Sa | 09:00–13:00 | 25.04.2026 | — |
+| Einzeltermin | Fr | 08:30–17:30 | 08.05.2026 | 20301.U1.029 (U1.029 Seminarraum (18)) |
+| Einzeltermin | Sa | 08:30–16:00 | 09.05.2026 | 20301.U1.029 (U1.029 Seminarraum (18)) |
+| Einzeltermin | Sa | 08:30–12:00 | 16.05.2026 | — |
+
 ### LA M2 / EE-BF M6d / LA Freier Bereich: SEM "International Education (Theorien und Konzepte der internationalen Bildung) in englischer Sprache (Standort Nürnberg)" - Seminar
 
 - **Segment:** `exam:15026855` · **unitId:** `98003`
@@ -1767,6 +1984,15 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Sa | 09:00–13:00 | 25.04.2026 | — |
+| Einzeltermin | Fr | 08:30–17:30 | 08.05.2026 | 20301.U1.029 (U1.029 Seminarraum (18)) |
+| Einzeltermin | Sa | 08:30–16:00 | 09.05.2026 | 20301.U1.029 (U1.029 Seminarraum (18)) |
+| Einzeltermin | Sa | 08:30–12:00 | 16.05.2026 | — |
 
 ### LA M2 / EE-BF M6d / LA Freier Bereich: SEM "International Education (Theorien und Konzepte der internationalen Bildung) in englischer Sprache (Standort Nürnberg)" - Seminar
 
@@ -1777,6 +2003,15 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungsart:** Seminar
 - **Turnus:** in jedem Semester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Sa | 09:00–13:00 | 25.04.2026 | — |
+| Einzeltermin | Fr | 08:30–17:30 | 08.05.2026 | 20301.U1.029 (U1.029 Seminarraum (18)) |
+| Einzeltermin | Sa | 08:30–16:00 | 09.05.2026 | 20301.U1.029 (U1.029 Seminarraum (18)) |
+| Einzeltermin | Sa | 08:30–12:00 | 16.05.2026 | — |
+
 ### LA M2 / EE-BF M6d / LA Freier Bereich: SEM "International Education (Theorien und Konzepte der internationalen Bildung) in englischer Sprache (Standort Nürnberg)" - Seminar
 
 - **Segment:** `exam:15029243` · **unitId:** `98003`
@@ -1785,6 +2020,15 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Sa | 09:00–13:00 | 25.04.2026 | — |
+| Einzeltermin | Fr | 08:30–17:30 | 08.05.2026 | 20301.U1.029 (U1.029 Seminarraum (18)) |
+| Einzeltermin | Sa | 08:30–16:00 | 09.05.2026 | 20301.U1.029 (U1.029 Seminarraum (18)) |
+| Einzeltermin | Sa | 08:30–12:00 | 16.05.2026 | — |
 
 ### LA M2/ MA Päd M VI/ EE-BF M7d / ZS M4 : SEM "Handlungsfelder der internationalen Bildung: Zugänge und Erkundungen" (English-friendly) (Standort Nürnberg) - Seminar
 
@@ -1952,7 +2196,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135676&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 16:00–17:30 | 23.04.2026 | — |
+| Einzeltermin | Do | 16:00–17:30 | 21.05.2026 | — |
+| Einzeltermin | Do | 16:00–17:30 | 11.06.2026 | — |
+| Einzeltermin | Do | 16:00–17:30 | 02.07.2026 | — |
+| Einzeltermin | Do | 16:00–17:30 | 09.07.2026 | — |
+| Einzeltermin | Do | 16:00–17:30 | 16.07.2026 | — |
 
 ### Lektüreübung zur Vorbereitung auf die Lateinische Sprachprüfung für Theologiestudierende - Übung
 
@@ -1961,7 +2217,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91209&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 16:00–18:00 | 15.04.2026–15.07.2026 | 06201.01.017 (TSG R. 1.017 Bibliothek Reformierte Theologie) |
 
 ### Lektüreübung zur Vorbereitung auf die Lateinische Sprachprüfung für Theologiestudierende - Übung
 
@@ -1970,7 +2233,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91209&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 16:00–18:00 | 15.04.2026–15.07.2026 | 06201.01.017 (TSG R. 1.017 Bibliothek Reformierte Theologie) |
 
 ### MA EEBF M6/MA Pädagogik MII/Modul 2 - Semiar Allg. Päd.: Medien, Wissen, Bildung - Grundlagen der Medienpädagogik (Standort Nürnberg) - Seminar
 
@@ -2076,6 +2346,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Online-Kurs
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### Medienethik: Themen und Diskurse - Online-Kurs
@@ -2086,6 +2357,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Online-Kurs
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### Moderieren - nicht nur in Radio Fernsehen und Podcast - Seminar
@@ -2138,7 +2410,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Di | 15:45–17:15 | 14.04.2026–07.07.2026 | 20301.01.041 (1.041 großer Hörsaal (310)) |
 
 ### Modul 1 - Vorlesung: Pädagogische Anthropologie und Sozialisationstheorien (Standort Nürnberg) - Vorlesung
 
@@ -2148,7 +2427,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Di | 15:45–17:15 | 14.04.2026–07.07.2026 | 20301.01.041 (1.041 großer Hörsaal (310)) |
 
 ### Modul 1 - Vorlesung: Pädagogische Anthropologie und Sozialisationstheorien (Standort Nürnberg) - Vorlesung
 
@@ -2158,7 +2444,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Di | 15:45–17:15 | 14.04.2026–07.07.2026 | 20301.01.041 (1.041 großer Hörsaal (310)) |
 
 ### Modul 2 - Seminar: Digital Storytelling mit twine: Mit Erzählungen Medienkompetenzen fördern (Standort Nürnberg) - Seminar
 
@@ -2334,63 +2627,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Einzeltermin | Fr | 14:00–17:00 | 12.06.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
 | Einzeltermin | Fr | 14:00–17:00 | 10.07.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
 
-### Modul 2 - Seminar: Gender, Sex, Medien und Sozialisation (Standort Nürnberg) - Seminar
-
-- **Segment:** `exam:15882555` · **unitId:** `97224`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15026731|exam:15026847|exam:15882555>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97224&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 16:00–18:00 | 08.05.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
-| Einzeltermin | Sa | 09:00–18:00 | 09.05.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
-| Einzeltermin | Sa | 09:00–18:00 | 13.06.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
-
-### Modul 2 - Seminar: Gender, Sex, Medien und Sozialisation (Standort Nürnberg) - Seminar
-
-- **Segment:** `exam:15882579` · **unitId:** `97224`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15029120|exam:15029235|exam:15882579>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97224&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 16:00–18:00 | 08.05.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
-| Einzeltermin | Sa | 09:00–18:00 | 09.05.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
-| Einzeltermin | Sa | 09:00–18:00 | 13.06.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
-
-### Modul 2 - Seminar: Gender, Sex, Medien und Sozialisation (Standort Nürnberg) - Seminar
-
-- **Segment:** `exam:15882563` · **unitId:** `97224`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15030843|exam:15030844|exam:15030845|exam:15030846|exam:15030958|exam:15882563>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97224&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 16:00–18:00 | 08.05.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
-| Einzeltermin | Sa | 09:00–18:00 | 09.05.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
-| Einzeltermin | Sa | 09:00–18:00 | 13.06.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
-
 ### Modul 2 - Seminar: Medien in der Kindheit (Standort Nürnberg) - Seminar
 
 - **Segment:** `exam:15026860` · **unitId:** `113168`
@@ -2438,6 +2674,63 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 14:00–15:30 | 16.04.2026–16.07.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
+
+### Modul 2 - Seminar: Pädagogisches Handeln unter den Bedingungen sozio-technischer Systeme in der Schule (Standort Nürnberg) - Seminar
+
+- **Segment:** `exam:15882555` · **unitId:** `97224`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15026731|exam:15026847|exam:15882555>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97224&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 16:00–18:00 | 08.05.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
+| Einzeltermin | Sa | 09:00–18:00 | 09.05.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
+| Einzeltermin | Sa | 09:00–18:00 | 13.06.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
+
+### Modul 2 - Seminar: Pädagogisches Handeln unter den Bedingungen sozio-technischer Systeme in der Schule (Standort Nürnberg) - Seminar
+
+- **Segment:** `exam:15882579` · **unitId:** `97224`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15029120|exam:15029235|exam:15882579>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97224&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 16:00–18:00 | 08.05.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
+| Einzeltermin | Sa | 09:00–18:00 | 09.05.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
+| Einzeltermin | Sa | 09:00–18:00 | 13.06.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
+
+### Modul 2 - Seminar: Pädagogisches Handeln unter den Bedingungen sozio-technischer Systeme in der Schule (Standort Nürnberg) - Seminar
+
+- **Segment:** `exam:15882563` · **unitId:** `97224`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15030843|exam:15030844|exam:15030845|exam:15030846|exam:15030958|exam:15882563>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97224&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 16:00–18:00 | 08.05.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
+| Einzeltermin | Sa | 09:00–18:00 | 09.05.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
+| Einzeltermin | Sa | 09:00–18:00 | 13.06.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
 
 ### Modul 2 - Seminar: Zielgruppenübergreifende aktive Medienarbeit (Standort Nürnberg) - Seminar
 
@@ -2507,7 +2800,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Di | 15:45–17:15 | 21.04.2026–14.07.2026 | 20301.01.041 (1.041 großer Hörsaal (310)) |
 
 ### Modul 2 - Vorlesung: Erziehungswissenschaftliche Fragestellungen in einer mediatisierten und globalisierten Welt (Standort Nürnberg) - Vorlesung
 
@@ -2517,7 +2817,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Di | 15:45–17:15 | 21.04.2026–14.07.2026 | 20301.01.041 (1.041 großer Hörsaal (310)) |
 
 ### Modul 2 - Vorlesung: Erziehungswissenschaftliche Fragestellungen in einer mediatisierten und globalisierten Welt (Standort Nürnberg) - Vorlesung
 
@@ -2527,7 +2834,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Di | 15:45–17:15 | 21.04.2026–14.07.2026 | 20301.01.041 (1.041 großer Hörsaal (310)) |
 
 ### Modul II: Psychologie für Lehramt 2 - Vertiefung zur Vorlesung 96111 (ERLANGEN) - Proseminar
 
@@ -2536,7 +2850,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106855&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:15–09:45 | 14.04.2026–14.07.2026 | — |
 
 ### Modul II: Psychologie für Lehramt 2 - Vertiefung zur Vorlesung 96111 (ERLANGEN) - Proseminar
 
@@ -2545,7 +2866,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106855&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:15–09:45 | 14.04.2026–14.07.2026 | — |
 
 ### Modul II: Psychologie für Lehramt 2 - Vertiefung zur Vorlesung 96111 (ERLANGEN) - Proseminar
 
@@ -2554,7 +2882,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106855&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:15–09:45 | 14.04.2026–14.07.2026 | — |
 
 ### MODUL III - WiPra-Seminar: Medienkompetenz praxisnah! - Seminar
 
@@ -2663,7 +2998,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 16:00–18:00 | 16.04.2026–16.07.2026 | 05801.00.317 ( C 202) |
 
 ### Modul III: WiPra-Austausch&Reflexion: Motivation und Emotion. Beziehungsgestaltung und motivationale, emotionale Kompetenzen im Klassenzimmer - Seminar
 
@@ -2673,7 +3015,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 16:00–18:00 | 16.04.2026–16.07.2026 | 05801.00.317 ( C 202) |
 
 ### Modul III: WiPra-Austausch&Reflexion: Motivation und Emotion. Beziehungsgestaltung und motivationale, emotionale Kompetenzen im Klassenzimmer - Seminar
 
@@ -2683,7 +3032,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 16:00–18:00 | 16.04.2026–16.07.2026 | 05801.00.317 ( C 202) |
 
 ### Modul III: WiPra-Seminar - Life-Skills für Lehramtsstudierende - Seminar
 
@@ -2692,7 +3048,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117492&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:15–13:45 | 23.04.2026–16.07.2026 | 54201.01.009 ( Übungsraum I/9 Studienzentrum) |
 
 ### Modul III: WiPra-Seminar - Life-Skills für Lehramtsstudierende - Seminar
 
@@ -2701,7 +3064,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117492&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:15–13:45 | 23.04.2026–16.07.2026 | 54201.01.009 ( Übungsraum I/9 Studienzentrum) |
 
 ### Modul III: WiPra-Seminar - Life-Skills für Lehramtsstudierende - Seminar
 
@@ -2710,7 +3080,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117492&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:15–13:45 | 23.04.2026–16.07.2026 | 54201.01.009 ( Übungsraum I/9 Studienzentrum) |
 
 ### Musikwissenschaftliches Seminar - Seminar
 
@@ -2785,7 +3162,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 06201.01.017 (TSG R. 1.017 Bibliothek Reformierte Theologie) |
 
 ### NdL-Examenskurs (Erlangen) - Examensseminar
 
@@ -2826,7 +3210,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134065&periodId=589>
 
 - **Veranstaltungsart:** Examensseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:00–17:30 | 14.04.2026–14.07.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
 
 ### NdL-Examenskurs (Nürnberg) - Examensseminar
 
@@ -2835,7 +3226,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134065&periodId=589>
 
 - **Veranstaltungsart:** Examensseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:00–17:30 | 14.04.2026–14.07.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
 
 ### Nürnberg V/UE Grundfragen der Religionspädagogik I - Vorlesung
 
@@ -2909,7 +3307,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Oberseminar
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 06201.U1.031 (TSG U1.031 Bibliothek Systematische Theologie) |
 
 ### Oberseminar Lehrstuhl NT1 - Oberseminar
 
@@ -2919,7 +3324,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Oberseminar
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 06201.U1.031 (TSG U1.031 Bibliothek Systematische Theologie) |
 
 ### Oberseminar Lehrstuhl NT1 - Oberseminar
 
@@ -2929,7 +3341,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Oberseminar
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 06201.U1.031 (TSG U1.031 Bibliothek Systematische Theologie) |
 
 ### Oberseminar Lehrstuhl NT1 - Oberseminar
 
@@ -2939,7 +3358,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Oberseminar
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 06201.U1.031 (TSG U1.031 Bibliothek Systematische Theologie) |
 
 ### Oberseminar Lehrstuhl NT1 - Oberseminar
 
@@ -2949,7 +3375,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Oberseminar
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 06201.U1.031 (TSG U1.031 Bibliothek Systematische Theologie) |
 
 ### OS Dogmatik - Oberseminar
 
@@ -2958,7 +3391,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84691&periodId=589>
 
 - **Veranstaltungsart:** Oberseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 18:45–20:15 | 14.04.2026–14.07.2026 | 06201.U1.031 (TSG U1.031 Bibliothek Systematische Theologie) |
 
 ### OS: Oberseminar Ältere Kirchengeschichte - Oberseminar
 
@@ -3007,9 +3447,18 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134630&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-### Planspiel Demokratie:  Entwicklung einer innovativen Lehrmethode zusammen mit Schülern - Seminar
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 18:00–20:00 | 20.04.2026 | 07501.00.006 (Jordanweg 2) |
+| Blockveranstaltung+Sa | — | 09:00–19:00 | 08.05.2026–09.05.2026 | 07501.00.006 (Jordanweg 2) |
+| Einzeltermin | Mo | 18:00–20:00 | 11.05.2026 | 07501.00.006 (Jordanweg 2) |
+
+### Planspiel Demokratie:  Entwicklung einer innovativen Lehrmethode zusammen mit Schülern (Standort Erlangen) - Seminar
 
 - **Segment:** `exam:15026884` · **unitId:** `127570`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15026731|exam:15026847|exam:15026884>
@@ -3029,7 +3478,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Einzeltermin | Mo | 08:00–14:00 | 25.05.2026 | — |
 | Einzeltermin | Fr | 08:00–14:00 | 10.07.2026 | — |
 
-### Planspiel Demokratie:  Entwicklung einer innovativen Lehrmethode zusammen mit Schülern - Seminar
+### Planspiel Demokratie:  Entwicklung einer innovativen Lehrmethode zusammen mit Schülern (Standort Erlangen) - Seminar
 
 - **Segment:** `exam:15029272` · **unitId:** `127570`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15029120|exam:15029235|exam:15029272>
@@ -3049,7 +3498,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Einzeltermin | Mo | 08:00–14:00 | 25.05.2026 | — |
 | Einzeltermin | Fr | 08:00–14:00 | 10.07.2026 | — |
 
-### Planspiel Demokratie:  Entwicklung einer innovativen Lehrmethode zusammen mit Schülern - Seminar
+### Planspiel Demokratie:  Entwicklung einer innovativen Lehrmethode zusammen mit Schülern (Standort Erlangen) - Seminar
 
 - **Segment:** `exam:15030992` · **unitId:** `127570`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15030843|exam:15030844|exam:15030845|exam:15030846|exam:15030958|exam:15030992>
@@ -3076,7 +3525,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### PuGDid 5: Examenskolloquium - Seminar
 
@@ -3085,6 +3546,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85660&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
 
 ### PuGDid 5: Examenskolloquium - Seminar
@@ -3094,6 +3556,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85660&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
 
 ### Pädagogische Anthropologie und Sozialisationstheorie - Vorlesung
@@ -3200,7 +3663,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 06201.01.024 (TSG R. 1.024 Bibliothek Christliche Publizistik/Syst. Theologie/Ethik) |
 
 ### Queere Theologie für (digitale) Medien und Schule - Seminar
 
@@ -3210,7 +3680,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 06201.01.024 (TSG R. 1.024 Bibliothek Christliche Publizistik/Syst. Theologie/Ethik) |
 
 ### Quellen zur Geschichte und Religionsgeschichte Israels - Übung
 
@@ -3369,14 +3846,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134638&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 08:00–10:00 | 14.04.2026–14.07.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
 
 ### Schule im Kontext kultureller und gesellschaftlicher Transformation (Angebot am Standort Erlangen) - Seminar
 
@@ -3385,14 +3855,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134638&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 08:00–10:00 | 14.04.2026–14.07.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
 
 ### Schule im Kontext kultureller und gesellschaftlicher Transformation (Angebot am Standort Erlangen) - Seminar
 
@@ -3401,14 +3864,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134638&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 08:00–10:00 | 14.04.2026–14.07.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
 
 ### Schule und Ungleichheit(Standort Erlangen) - Seminar
 
@@ -3820,6 +4276,12 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungsart:** Seminar
 - **Turnus:** in jedem Semester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 13:30–15:00 | 14.04.2026–14.07.2026 | 20301.02.014 (2.014 Mathe-Lehrwerkstatt (40)) |
+
 ### Themen aus der mathematikdidaktischen Forschung und Lehre (Oberseminar) - Seminar
 
 - **Segment:** `exam:15028564` · **unitId:** `108722`
@@ -3829,6 +4291,12 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungsart:** Seminar
 - **Turnus:** in jedem Semester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 13:30–15:00 | 14.04.2026–14.07.2026 | 20301.02.014 (2.014 Mathe-Lehrwerkstatt (40)) |
+
 ### Tiefdruck (A+V) - Seminar
 
 - **Segment:** `exam:15029106` · **unitId:** `128381`
@@ -3836,7 +4304,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128381&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:00–15:30 | 20.04.2026–13.07.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
 
 ### Transkription und Syntaxanalyse - Übung
 
@@ -3910,7 +4385,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:00–11:00 | 14.04.2026–14.07.2026 | 06201.U1.023 (TSG U1.023 Prüfungszimmer/Sitzungszimmer - intern!) |
 
 ### UE Ethik - Übung
 
@@ -3920,7 +4402,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:00–11:00 | 14.04.2026–14.07.2026 | 06201.U1.023 (TSG U1.023 Prüfungszimmer/Sitzungszimmer - intern!) |
 
 ### UE Systematische Theologie - Übung
 
@@ -3946,7 +4435,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134246&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Englisch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.01.012 ( KH 1.012 Hörsaal Kollegienhaus) |
 
 ### US Cultural and Literary History: The 19th Century - Vorlesung
 
@@ -3955,7 +4451,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134246&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Englisch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.01.012 ( KH 1.012 Hörsaal Kollegienhaus) |
 
 ### Vertiefung schulpädagogischer Fragestellungen - Seminar
 
@@ -3964,14 +4467,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135015&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 15:45–17:15 | 23.04.2026–16.07.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
 
 ### Vertiefung schulpädagogischer Fragestellungen - Seminar
 
@@ -3980,14 +4476,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135015&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 15:45–17:15 | 23.04.2026–16.07.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
 
 ### Vertiefung schulpädagogischer Fragestellungen - Seminar
 
@@ -3996,14 +4485,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135015&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 15:45–17:15 | 23.04.2026–16.07.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
 
 ### Vertiefungsmodul Fachdidaktik Deutsch (nur Freier Bereich): Digi4all - Kompetenzen für das Unterrichten in einer digitalen Welt - Seminar
 
@@ -4013,7 +4495,15 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 08:15–09:45 | 13.04.2026 | — |
+| Einzeltermin | Mo | 08:15–09:45 | 13.07.2026 | — |
 
 ### Vertiefungsmodul Fachdidaktik Deutsch (nur Freier Bereich): Digi4all - Kompetenzen für das Unterrichten in einer digitalen Welt - Seminar
 
@@ -4023,7 +4513,15 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 08:15–09:45 | 13.04.2026 | — |
+| Einzeltermin | Mo | 08:15–09:45 | 13.07.2026 | — |
 
 ### Vertiefungsmodul Fachdidaktik Deutsch (nur Freier Bereich): Digi4all - Kompetenzen für das Unterrichten in einer digitalen Welt - Seminar
 
@@ -4033,7 +4531,15 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 08:15–09:45 | 13.04.2026 | — |
+| Einzeltermin | Mo | 08:15–09:45 | 13.07.2026 | — |
 
 ### Vertiefungsmodul Fachdidaktik Deutsch (nur Freier Bereich): Digi4all - Kompetenzen für das Unterrichten in einer digitalen Welt - Seminar
 
@@ -4043,7 +4549,15 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 08:15–09:45 | 13.04.2026 | — |
+| Einzeltermin | Mo | 08:15–09:45 | 13.07.2026 | — |
 
 ### Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar (nur LA RS, GYM) - Hauptseminar
 
@@ -4481,7 +4995,15 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:15–09:45 | 14.04.2026–14.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
+| Einzeltermin | Do | 17:15–18:30 | 15.10.2026 | 05901.00.040 ( HS C Hörsaal C - 00.[Telefon entfernt].00.210 (00.210 Seminarraum) |
 
 ### Vorlesung Physische Geographie vertieft:  - Vorlesung
 
@@ -4491,7 +5013,15 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:15–09:45 | 14.04.2026–14.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
+| Einzeltermin | Do | 17:15–18:30 | 15.10.2026 | 05901.00.040 ( HS C Hörsaal C - 00.[Telefon entfernt].00.210 (00.210 Seminarraum) |
 
 ### Vorlesung: Einführung in die Schulpädagogik (Prof. Dr. Gläser-Zikuda) (Angebot am Standort Nürnberg) - Vorlesung - Vorlesung
 
@@ -4587,6 +5117,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Kurs
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
 
 ### Zum guten Stil im wissenschaftlichen Schreiben - Kurs
@@ -4597,6 +5128,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Kurs
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
 
 ### Ü: Übung zu Texten und Themen der Neueren Kirchengeschichte - Seminar und Übung
@@ -4682,23 +5214,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mi | 08:00–10:00 | 22.04.2026–15.07.2026 | 06201.02.025 (TSG R. 2.025 Bibliothek Ältere Kirchengeschichte) |
 
-### Überblick - Ausblick: Fokus Kunstdidaktik - Seminar
-
-- **Segment:** `exam:15758523` · **unitId:** `134760`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029093|exam:15758523>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134760&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Sa | 10:00–17:00 | 13.06.2026 | 75201.00.310 (St.Paul 00.310 Textilwerkstatt (40)) |
-| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | 75201.00.310 (St.Paul 00.310 Textilwerkstatt (40)) |
-
 ### Überblick - Ausblick: Fokus Werkanalyse - Seminar
 
 - **Segment:** `exam:15777769` · **unitId:** `135188`
@@ -4714,6 +5229,23 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 09:45–11:15 | 18.06.2026–16.07.2026 | 75201.00.310 (St.Paul 00.310 Textilwerkstatt (40)) |
+
+### Überblick-Ausblick/Examenskolloquium - Seminar
+
+- **Segment:** `exam:15758523` · **unitId:** `134760`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029093|exam:15758523>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134760&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Sa | 10:00–17:00 | 13.06.2026 | 75201.00.310 (St.Paul 00.310 Textilwerkstatt (40)) |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | 75201.00.310 (St.Paul 00.310 Textilwerkstatt (40)) |
 
 ### Übung Neues Testament - Übung
 
@@ -8290,6 +8822,36 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | Mi | Mi | 09:00–15:00 | — | — |
 
+### 59731 Freier Bereich ev. Religionslehre - undefiniert
+
+- **Segment:** `exam:17797479` · **unitId:** `139274`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17797479>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139274&periodId=589>
+
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### 59731 Freier Bereich ev. Religionslehre - undefiniert
+
+- **Segment:** `exam:17797461` · **unitId:** `139274`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17797461>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139274&periodId=589>
+
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
 ### 59731 Leichtathletik 3 - Leistung
 
 - **Segment:** `exam:15943039` · **unitId:** `137956`
@@ -8297,6 +8859,36 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137956&periodId=589>
 
 - **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### 59732 Planung, Durchführung und Evaluation eines Sportevents - Leistung
+
+- **Segment:** `exam:17807625` · **unitId:** `139323`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17807625>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139323&periodId=589>
+
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### 59732 Planung, Durchführung und Evaluation eines Sportevents - Leistung
+
+- **Segment:** `exam:17807607` · **unitId:** `139323`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17807607>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139323&periodId=589>
+
+- **ECTS-Punkte:** 2.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -9078,6 +9670,12 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Segment:** `exam:15028930` · **unitId:** `64625`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028930>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=64625&periodId=589>
+
+### 76801 Musikpädagogik - Vertiefung (Freier Bereich)
+
+- **Segment:** `exam:15029038` · **unitId:** `116317`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029038>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116317&periodId=589>
 
 ### 76900 Examensvorbereitende Übung
 
@@ -9866,14 +10464,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91131&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 05801.02.110 ( A 401) |
 
 ### AN_SEPGYM - Seminar zum Studienbegleitenden Praktikum an Gymnasien - Begleitseminar
 
@@ -9882,7 +10473,16 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88157&periodId=589>
 
 - **Veranstaltungsart:** Begleitseminar
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 13:30–18:45 | 24.04.2026 | 20301.U1.031 (U1.031 Seminarraum (40)) |
+| Einzeltermin | Fr | 13:30–18:45 | 08.05.2026 | 20301.U1.031 (U1.031 Seminarraum (40)) |
+| Einzeltermin | Fr | 13:30–18:45 | 19.06.2026 | 20301.U1.031 (U1.031 Seminarraum (40)) |
 
 ### Bewegung (Theologie; Gesellschaftswissenschaften) - (Religions-)Unterricht in Bewegung - bewegter (Religions-)Unterricht  - Hauptseminar
 
@@ -9975,7 +10575,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134871&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 21.04.2026–14.07.2026 | 75201.00.301 (St.Paul 00.301 Zeichensaal (100)) |
 
 ### DDP-1 - Didaktik Einführungsvorlesung LANV (DDPNV-1) + Grundlegende Experimentiertechnik - Vorlesung mit Übung
 
@@ -10019,7 +10626,15 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Praxisseminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 08:00–12:30 | 16.04.2026–16.07.2026 | — |
+| wöchentlich | Do | 14:00–15:30 | 16.04.2026–16.07.2026 | — |
 
 ### DIDCHEM LAG II - Übungen im Schülerlabor EAM-Lab Erlangen (DIDCHEM LAG II) - Praxisseminar
 
@@ -10029,7 +10644,15 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Praxisseminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 08:00–12:30 | 16.04.2026–16.07.2026 | — |
+| wöchentlich | Do | 14:00–15:30 | 16.04.2026–16.07.2026 | — |
 
 ### Dig.Medien - Potenziale und Herausforderungen digitaler Medien im Chemieunterricht - Seminar
 
@@ -10091,7 +10714,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85779&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 17:30–19:00 | 14.04.2026–14.07.2026 | 20301.02.014 (2.014 Mathe-Lehrwerkstatt (40)) |
 
 ### Ex-RS - Staatsexamenskurs Mathematikdidaktik (RS) - Hauptseminar
 
@@ -10100,7 +10730,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85779&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 17:30–19:00 | 14.04.2026–14.07.2026 | 20301.02.014 (2.014 Mathe-Lehrwerkstatt (40)) |
 
 ### EXA: KG vertieft 1 - Vorlesung Kulturgeographie vertieft - Vorlesung
 
@@ -10145,7 +10782,15 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91106&periodId=589>
 
 - **Veranstaltungsart:** Examensseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 15:00–17:45 | 13.04.2026–13.07.2026 | — |
+| wöchentlich | Mo | 16:15–17:45 | 13.04.2026–13.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
 
 ### Examen - Hauptseminar Staatsexamen - Examensseminar
 
@@ -10154,7 +10799,15 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91106&periodId=589>
 
 - **Veranstaltungsart:** Examensseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 15:00–17:45 | 13.04.2026–13.07.2026 | — |
+| wöchentlich | Mo | 16:15–17:45 | 13.04.2026–13.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
 
 ### Examen AT - Übung zum Examen: AT - Übung
 
@@ -10200,7 +10853,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Mo | 15:45–19:00 | 20.04.2026–29.06.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
 
 ### FoEmMuPäd - Forschungskolloquium empirische Musikpädagogik - Kolloquium
 
@@ -10211,6 +10871,12 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungsart:** Kolloquium
 - **ECTS-Punkte:** 2.0
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:00–15:30 | 16.04.2026–16.07.2026 | 20302.01.109 (1.109 Musikseminarraum (40)) |
 
 ### Gehör - Gehörbildung - Proseminar
 
@@ -10233,6 +10899,23 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:15902290` · **unitId:** `100170`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15026731|exam:15026740|exam:15902290>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100170&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 54201.01.009 ( Übungsraum I/9 Studienzentrum) |
+
+### Gesprächskompetenzen Lehramt - MODUL III - Gesprächskompetenzen für Lehramtsstudierende - Seminar
+
+- **Segment:** `exam:17815910` · **unitId:** `100170`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029033|exam:17815910>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100170&periodId=589>
 
 - **Veranstaltungsart:** Seminar
@@ -10287,7 +10970,16 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92780&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:00–16:00 | 13.04.2026–13.07.2026 | 06201.02.021 ( TSG HS A (02.021) Theologisches Seminargebäude, Kochstraße 6) |
+| wöchentlich | Di | 08:00–10:00 | 14.04.2026–14.07.2026 | 00501.02.012 ( KH 2.012 Hörsaal Kollegienhaus) |
+| wöchentlich | Do | 08:00–10:00 | 16.04.2026–16.07.2026 | 00501.02.012 ( KH 2.012 Hörsaal Kollegienhaus) |
 
 ### GrundlThe - Grundlagen der Musiktheorie - Seminar
 
@@ -10297,7 +10989,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 09:45–11:15 | 15.04.2026–15.07.2026 | 20302.01.109 (1.109 Musikseminarraum (40)) |
 
 ### Guter Unterricht - MODUL III (Psychologie für LA 3) ODER Freier Bereich Psychologie: Guter Unterricht - die Perspektive der Pädagogischen Psychologie - Seminar
 
@@ -10523,7 +11222,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88991&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 09:45–11:15 | 17.04.2026–17.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 
 ### KG Themen - Kirchengeschichtliche Grundthemen - Seminar
 
@@ -10532,7 +11238,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88991&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 09:45–11:15 | 17.04.2026–17.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 
 ### LFF-KS - Kompetenzseminar zum Klimawandel (insbesondere für Lehramtsstudierende und Nebenfachstudierende) - Seminar
 
@@ -10542,7 +11255,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:45–14:15 | 14.04.2026–14.07.2026 | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
 
 ### LFF-KS - Kompetenzseminar zum Klimawandel (insbesondere für Lehramtsstudierende und Nebenfachstudierende) - Seminar
 
@@ -10552,7 +11272,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:45–14:15 | 14.04.2026–14.07.2026 | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
 
 ### LingExam - Ling Exam: Examenskurs Linguistik (Erlangen, nur LA Gym) - Examensseminar
 
@@ -10562,24 +11289,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Examensseminar
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:15–13:45 | 13.04.2026–13.07.2026 | 00501.01.013 ( KH 1.013 Hörsaal Kollegienhaus) |
-| Einzeltermin | Mo | 10:00–16:00 | 20.07.2026 | 00501.01.013 ( KH 1.013 Hörsaal Kollegienhaus) |
-
-### LingExam - Ling Exam: Examenskurs Linguistik (Nürnberg, nur LA GS, MS, RS) - Examensseminar
-
-- **Segment:** `exam:15026192` · **unitId:** `104778`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026186|exam:15026192>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104778&periodId=589>
-
-- **Veranstaltungsart:** Examensseminar
-- **ECTS-Punkte:** 2.0
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
@@ -10616,7 +11325,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 4.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | — |
 
 ### Modul 33221 Seminar - Bild und Text im Früh- und Hochmittelalter [Seminar Paläographie und Kodikologie I] - Seminar
 
@@ -10660,7 +11376,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 05901.03.010 (PSG II R 3.010 Mittellateinische Bibliothek) |
 
 ### Modul 74451 Proseminar - Einführung in die lateinische Metrik und Rhythmik I [Proseminar Das Klassische Erbe] - Proseminar
 
@@ -10839,6 +11562,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Proseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### PS 05 - Modul III: Ausgewählte Forschungsbefunde aus der Pädagogischen Psychologie: Motivationsförderung - Proseminar
@@ -10849,6 +11573,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Proseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### PS 05 - Modul III: Ausgewählte Forschungsbefunde aus der Pädagogischen Psychologie: Motivationsförderung - Proseminar
@@ -10859,6 +11584,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Proseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### PS 06 - Modul III: Differential-psychologische Aspekte des Lernens und Lehrens: Begabungsförderung - Proseminar
@@ -11097,7 +11823,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 11:30–13:00 | 13.04.2026–13.07.2026 | 20302.01.132 (1.132 Aula (780)) |
 
 ### PS02 - Modul II: Lernermerkmale: Entwicklung, soziale Einflüsse, individuelle Unterschiede und Lern- und Verhaltensstörungen (Nürnberg) - Vorlesung
 
@@ -11107,7 +11840,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 11:30–13:00 | 13.04.2026–13.07.2026 | 20302.01.132 (1.132 Aula (780)) |
 
 ### PS02 - Modul II: Lernermerkmale: Entwicklung, soziale Einflüsse, individuelle Unterschiede und Lern- und Verhaltensstörungen (Nürnberg) - Vorlesung
 
@@ -11117,7 +11857,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 11:30–13:00 | 13.04.2026–13.07.2026 | 20302.01.132 (1.132 Aula (780)) |
 
 ### PS12 - Modul III: Effektives Lernen - Seminar
 
@@ -11127,17 +11874,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 15:00–20:00 | 29.05.2026 | 75201.00.301 (St.Paul 00.301 Zeichensaal (100)) |
-| Einzeltermin | Sa | 10:00–17:00 | 30.05.2026 | 75201.00.301 (St.Paul 00.301 Zeichensaal (100)) |
-| Einzeltermin | Fr | 15:00–20:00 | 05.06.2026 | 75201.00.301 (St.Paul 00.301 Zeichensaal (100)) |
-| Einzeltermin | Sa | 10:00–17:00 | 06.06.2026 | 75201.00.301 (St.Paul 00.301 Zeichensaal (100)) |
 
 ### PS12 - Modul III: Effektives Lernen - Seminar
 
@@ -11147,17 +11884,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 15:00–20:00 | 29.05.2026 | 75201.00.301 (St.Paul 00.301 Zeichensaal (100)) |
-| Einzeltermin | Sa | 10:00–17:00 | 30.05.2026 | 75201.00.301 (St.Paul 00.301 Zeichensaal (100)) |
-| Einzeltermin | Fr | 15:00–20:00 | 05.06.2026 | 75201.00.301 (St.Paul 00.301 Zeichensaal (100)) |
-| Einzeltermin | Sa | 10:00–17:00 | 06.06.2026 | 75201.00.301 (St.Paul 00.301 Zeichensaal (100)) |
 
 ### PS12 - Modul III: Effektives Lernen - Seminar
 
@@ -11167,17 +11894,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 15:00–20:00 | 29.05.2026 | 75201.00.301 (St.Paul 00.301 Zeichensaal (100)) |
-| Einzeltermin | Sa | 10:00–17:00 | 30.05.2026 | 75201.00.301 (St.Paul 00.301 Zeichensaal (100)) |
-| Einzeltermin | Fr | 15:00–20:00 | 05.06.2026 | 75201.00.301 (St.Paul 00.301 Zeichensaal (100)) |
-| Einzeltermin | Sa | 10:00–17:00 | 06.06.2026 | 75201.00.301 (St.Paul 00.301 Zeichensaal (100)) |
 
 ### PS15 - Modul III: Elternarbeit - Grundlagen und Praxis gelungener Kooperation (Dozentin Frau Angelika Zindel) - Seminar
 
@@ -11391,7 +12108,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 11:30–13:00 | 16.04.2026–16.07.2026 | 75202.U1.512 (St.Paul U1.512 Multimedia-Studio - Seminarraum - Nicht für regulären Seminarbetrieb buchbar!) |
 
 ### PS25 - Modul III:Diversität in Schule verstehen und gestalten - Seminar
 
@@ -11401,7 +12125,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 11:30–13:00 | 16.04.2026–16.07.2026 | 75202.U1.512 (St.Paul U1.512 Multimedia-Studio - Seminarraum - Nicht für regulären Seminarbetrieb buchbar!) |
 
 ### PS25 - Modul III:Diversität in Schule verstehen und gestalten - Seminar
 
@@ -11411,7 +12142,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 11:30–13:00 | 16.04.2026–16.07.2026 | 75202.U1.512 (St.Paul U1.512 Multimedia-Studio - Seminarraum - Nicht für regulären Seminarbetrieb buchbar!) |
 
 ### PsyLA1: Lernen - Modul I: Vorlesung (vierstündig) Psychologie für Lehramt 1: Lernprozesse gestalten 95901 - Vorlesung
 
@@ -11472,7 +12210,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:00–14:00 | 13.04.2026–13.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
 
 ### PsyLA2: Lernende - Modul II: Vorlesung Psychologie für Lehramt 2: Lernendenmerkmale 96111 (ERLANGEN) - Vorlesung
 
@@ -11482,7 +12227,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:00–14:00 | 13.04.2026–13.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
 
 ### PsyLA2: Lernende - Modul II: Vorlesung Psychologie für Lehramt 2: Lernendenmerkmale 96111 (ERLANGEN) - Vorlesung
 
@@ -11492,7 +12244,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:00–14:00 | 13.04.2026–13.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
 
 ### PsyLA_Tut - Tutorium EWS Staatsexamen Psychologie im Lehramt - Tutorium
 
@@ -11670,16 +12429,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.0
-- **Turnus:** in jedem Semester
-
-### SchuPraGruppe - Schulpraktisches Instrumentalspiel in der Gruppe - Übung
-
-- **Segment:** `exam:15026181` · **unitId:** `125201`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026165|exam:15026181>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125201&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
@@ -11687,12 +12436,12 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 15:45–17:15 | 14.04.2026–14.07.2026 | 20302.01.109 (1.109 Musikseminarraum (40)) |
+| wöchentlich | Mi | 14:00–15:30 | 15.04.2026–15.07.2026 | 20302.00.139 (0.139 Musiksaal (50)) |
 
 ### SchuPraGruppe - Schulpraktisches Instrumentalspiel in der Gruppe - Übung
 
-- **Segment:** `exam:15026668` · **unitId:** `125201`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:15026668>
+- **Segment:** `exam:15026181` · **unitId:** `125201`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026165|exam:15026181>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125201&periodId=589>
 
 - **Veranstaltungsart:** Übung
@@ -11727,23 +12476,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:15028957` · **unitId:** `125201`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028941|exam:15028957>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125201&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 15:45–17:15 | 14.04.2026–14.07.2026 | 20302.01.109 (1.109 Musikseminarraum (40)) |
-
-### SchuPraGruppe - Schulpraktisches Instrumentalspiel in der Gruppe - Übung
-
-- **Segment:** `exam:15029043` · **unitId:** `125201`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029038|exam:15029043>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125201&periodId=589>
 
 - **Veranstaltungsart:** Übung
@@ -11798,7 +12530,15 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96417&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 09:45–11:15 | 13.04.2026–11.05.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
+| 14-täglich | Sa | 09:00–16:00 | 25.04.2026–09.05.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
 
 ### SEM - LA M2 / MA Päd Modul V: SEM "Internationale schulische und außerschulische Bildungsarbeit" / ZS M3 Mentorat Vor- und Nachbereitungsseminar für Auslandsaufenthalte (Standort Nürnberg) - Seminar
 
@@ -11807,7 +12547,15 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96417&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 09:45–11:15 | 13.04.2026–11.05.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
+| 14-täglich | Sa | 09:00–16:00 | 25.04.2026–09.05.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
 
 ### SEM - LA M2 / MA Päd Modul V: SEM "Internationale schulische und außerschulische Bildungsarbeit" / ZS M3 Mentorat Vor- und Nachbereitungsseminar für Auslandsaufenthalte (Standort Nürnberg) - Seminar
 
@@ -11816,7 +12564,15 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96417&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 09:45–11:15 | 13.04.2026–11.05.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
+| 14-täglich | Sa | 09:00–16:00 | 25.04.2026–09.05.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
 
 ### Sem-Did - Examensvorbereitung Geographiedidaktik | RS-GY (in ER, Do 14:15h) - Examensseminar
 
@@ -11958,7 +12714,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 09:00–18:00 | 18.08.2026–19.08.2026 | 20302.00.139 (0.139 Musiksaal (50)) |
 
 ### Studienbegleitendes Praktikum - Begleitveranstaltung zum Praktikum EvRel  - Praxisseminar
 
@@ -12158,7 +12921,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 14:00–15:30 | 13.04.2026–13.07.2026 | 06201.02.025 (TSG R. 2.025 Bibliothek Ältere Kirchengeschichte) |
+| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 06201.02.025 (TSG R. 2.025 Bibliothek Ältere Kirchengeschichte) |
 
 ### UE: ÄKG - Ü: Übung zu Texten und Themen der Älteren Kirchengeschichte - Übung
 
@@ -12174,7 +12937,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 14:00–15:30 | 13.04.2026–13.07.2026 | 06201.02.025 (TSG R. 2.025 Bibliothek Ältere Kirchengeschichte) |
+| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 06201.02.025 (TSG R. 2.025 Bibliothek Ältere Kirchengeschichte) |
 
 ### UniMotto - FAU Musicalensemble - Übung
 
@@ -12274,7 +13037,21 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Di | 16:15–17:15 | 21.04.2026 | — |
+| Einzeltermin | Di | 10:00–12:00 | 12.05.2026 | 11302.04.150 |
+| Einzeltermin | Di | 09:15–12:30 | 02.06.2026 | 11302.04.150 |
+| Einzeltermin | Di | 09:15–12:30 | 16.06.2026 | 11302.04.150 |
+| Einzeltermin | Fr | 13:00–16:15 | 03.07.2026 | 11302.05.134 (05.134 Didaktik-Labor) |
+| Einzeltermin | Di | 09:15–12:30 | 14.07.2026 | 11302.04.150 |
+| Einzeltermin | Fr | 13:00–16:15 | 17.07.2026 | 11302.05.134 (05.134 Didaktik-Labor) |
+| Einzeltermin | Di | 09:15–12:30 | 21.07.2026 | 11302.04.150 |
 
 ### Vorbereitung auf das Staatsexamen Inf - Vorbereitung auf das Staatsexamen in Informatik für Lehramtsstudierende - Seminar
 
@@ -12284,7 +13061,21 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Di | 16:15–17:15 | 21.04.2026 | — |
+| Einzeltermin | Di | 10:00–12:00 | 12.05.2026 | 11302.04.150 |
+| Einzeltermin | Di | 09:15–12:30 | 02.06.2026 | 11302.04.150 |
+| Einzeltermin | Di | 09:15–12:30 | 16.06.2026 | 11302.04.150 |
+| Einzeltermin | Fr | 13:00–16:15 | 03.07.2026 | 11302.05.134 (05.134 Didaktik-Labor) |
+| Einzeltermin | Di | 09:15–12:30 | 14.07.2026 | 11302.04.150 |
+| Einzeltermin | Fr | 13:00–16:15 | 17.07.2026 | 11302.05.134 (05.134 Didaktik-Labor) |
+| Einzeltermin | Di | 09:15–12:30 | 21.07.2026 | 11302.04.150 |
 
 ### Vorbereitung auf das Staatsexamen Inf Didaktik - Vorbereitung auf das Staatsexamen in Didaktik der Informatik - Seminar
 
@@ -12328,7 +13119,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Mo | 17:00–19:00 | 13.04.2026–06.07.2026 | — |
 
 ### Vorlesung VM - Vertiefungmodul Fachdidaktik Deutsch (ab PO 20202): Vorlesung: Deutschdidaktik als forschende Disziplin - Vorlesung
 
@@ -12338,7 +13136,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Mo | 17:00–19:00 | 13.04.2026–06.07.2026 | — |
 
 ### Werk - Werkanalyse - Hauptseminar
 
@@ -12348,7 +13153,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 11:30–13:00 | 13.04.2026–13.07.2026 | 20302.01.109 (1.109 Musikseminarraum (40)) |
 
 ### Werk - Werkanalyse - Hauptseminar
 
@@ -12358,9 +13170,16 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (209)
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 11:30–13:00 | 13.04.2026–13.07.2026 | 20302.01.109 (1.109 Musikseminarraum (40)) |
+
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (165)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -12435,28 +13254,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Oberseminar
 - **Turnus:** Unregelmäßig
 
-### After Babel. Digital Theology and Contextualities — Seminar
-
-- **Segment:** `unit:119047` · **unitId:** `119047`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119047&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-
-### Aktuelle erziehungswissenschaftliche Probleme und Fragestellungen — Vorlesung
-
-- **Segment:** `unit:115994` · **unitId:** `115994`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115994&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-
-### Aktuelle erziehungswissenschaftliche Probleme und Fragestellungen (Angebot am Standort Erlangen) — Vorlesung
-
-- **Segment:** `unit:119390` · **unitId:** `119390`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119390&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Sommersemester
-
 ### Aktuelle erziehungswissenschaftliche Probleme und Fragestellungen (Angebot am Standort Erlangen) (Ersatz für die bisherige Vorlesung „Pädagogische Anthropologie und Sozialisationstheorie“)
 
 - **Segment:** `unit:106206` · **unitId:** `106206`
@@ -12478,15 +13275,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Kurs
 - **Turnus:** nur im Sommersemester
-
-### Alttestamentliche Übung: Themen des Alten Testaments
-
-- **Segment:** `unit:118901` · **unitId:** `118901`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118901&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
-- **Turnus:** nur im Wintersemester
 
 ### Alttestamentliches Proseminar (LAGY): Einführung in die exegetischen Methoden
 
@@ -12521,14 +13309,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.0
 - **Turnus:** nur im Sommersemester
 
-### Applications of Linguistics — Seminar
-
-- **Segment:** `unit:96824` · **unitId:** `96824`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96824&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nur im Wintersemester
-
 ### Ausgewählte Schwerpunkte zum Staatsexamen in Allgemeiner Pädagogik (VHB-Kurs) — Online-Kurs
 
 - **Segment:** `unit:120703` · **unitId:** `120703`
@@ -12556,13 +13336,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:106192` · **unitId:** `106192`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106192&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-
-### Basisseminar: Planung und Analyse von Lehr-Lernprozessen (Prof. Dr. Nina Bremm) (Angebot am Standort Erlangen)
-
-- **Segment:** `unit:106201` · **unitId:** `106201`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106201&periodId=589>
 
 - **Veranstaltungsart:** Seminar
 
@@ -12620,15 +13393,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 ### Begleitveranstaltung Studienbegleitendes Praktikum an Realschulen "Praxis RS" (AE_PSPrak) — Vorlesung mit Übung
 
-- **Segment:** `unit:106000` · **unitId:** `106000`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106000&periodId=589>
+- **Segment:** `unit:106001` · **unitId:** `106001`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106001&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 
 ### Begleitveranstaltung Studienbegleitendes Praktikum an Realschulen "Praxis RS" (AE_PSPrak) — Vorlesung mit Übung
 
-- **Segment:** `unit:106001` · **unitId:** `106001`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106001&periodId=589>
+- **Segment:** `unit:106000` · **unitId:** `106000`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106000&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 
@@ -12657,14 +13430,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.0
 - **Turnus:** in jedem Semester
 
-### Chemie sprachsensibel unterrichten — Seminar
-
-- **Segment:** `unit:119980` · **unitId:** `119980`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119980&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nur im Sommersemester
-
 ### Chorklassenprojekt
 
 - **Segment:** `unit:117613` · **unitId:** `117613`
@@ -12690,13 +13455,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Turnus:** Unregelmäßig
 
-### Christentum und Demokratie (ID HS KG / STII-Ethik) — Seminar
-
-- **Segment:** `unit:106006` · **unitId:** `106006`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106006&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-
 ### Christfluencer und ihre digitale Mission: Vom Altar zum Algorithmus? — Seminar
 
 - **Segment:** `unit:119055` · **unitId:** `119055`
@@ -12717,15 +13475,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124892&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-
-### Christus (m/w/d) - Die Geschlechter der Inkarnation (KG-Spezialvorlesung)
-
-- **Segment:** `unit:119196` · **unitId:** `119196`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119196&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.0
-- **Turnus:** Unregelmäßig
 
 ### Computerspiele und Religion — Seminar
 
@@ -12764,13 +13513,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 
-### Datenbasierte Schulentwicklung — Seminar
-
-- **Segment:** `unit:127333` · **unitId:** `127333`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127333&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-
 ### Der 1. Petrusbrief und das Christentum am Ende des 1. Jahrhunderts — Hauptseminar
 
 - **Segment:** `unit:94410` · **unitId:** `94410`
@@ -12788,13 +13530,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.0
 - **Turnus:** Unregelmäßig
-
-### Der Schmalkaldische Krieg 1546/47 — Hauptseminar
-
-- **Segment:** `unit:126833` · **unitId:** `126833`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126833&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
 
 ### Deutungen des Todes Jesu — Vorlesung
 
@@ -12829,14 +13564,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Oberseminar
 - **Turnus:** nicht in diesem Semester
-
-### Digitalisierungsbezogene Kompetenzen in den naturwissenschaftlichen Fächern fördern — Kurs
-
-- **Segment:** `unit:112298` · **unitId:** `112298`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112298&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Turnus:** nur im Sommersemester
 
 ### Einführung in die Christliche Archäologie — Einführungskurs
 
@@ -12898,13 +13625,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 ### Einführung in die Planung und Analyse von Lehr-Lernprozessen — Seminar
 
-- **Segment:** `unit:124278` · **unitId:** `124278`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124278&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-
-### Einführung in die Planung und Analyse von Lehr-Lernprozessen — Seminar
-
 - **Segment:** `unit:124279` · **unitId:** `124279`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124279&periodId=589>
 
@@ -12945,15 +13665,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 3.0
 - **Turnus:** Unregelmäßig
-
-### Evangelikalismus/Pentekostalismus und die Bedrohung liberal-demokratischer Ordnungen — Übung
-
-- **Segment:** `unit:130991` · **unitId:** `130991`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130991&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
-- **Turnus:** jedes 2. Semester
 
 ### EWF-Exam Prep Text Production & Landeskunde — Übung
 
@@ -13007,46 +13718,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Examensseminar
 
-### Examenskurs NdL — Examensseminar
-
-- **Segment:** `unit:126245` · **unitId:** `126245`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126245&periodId=589>
-
-- **Veranstaltungsart:** Examensseminar
-
 ### Examenskurs NdL (Erlangen für: LA GYM/RS) — Examensseminar
 
 - **Segment:** `unit:137867` · **unitId:** `137867`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137867&periodId=589>
-
-- **Veranstaltungsart:** Examensseminar
-
-### Examenskurs NdL (Nbg) — Examensseminar
-
-- **Segment:** `unit:109903` · **unitId:** `109903`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=109903&periodId=589>
-
-- **Veranstaltungsart:** Examensseminar
-
-### Examenskurs NdL (Nbg: GS/MS/RS) — Examensseminar
-
-- **Segment:** `unit:99619` · **unitId:** `99619`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99619&periodId=589>
-
-- **Veranstaltungsart:** Examensseminar
-- **Turnus:** nur im Wintersemester
-
-### Examenskurs NdL (Nbg: GS/MS/RS) — Examensseminar
-
-- **Segment:** `unit:115140` · **unitId:** `115140`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115140&periodId=589>
-
-- **Veranstaltungsart:** Examensseminar
-
-### Examenskurs NdL (Nürnberg, nur LA GS, MS, RS, Berufl. Schulen) — Examensseminar
-
-- **Segment:** `unit:118767` · **unitId:** `118767`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118767&periodId=589>
 
 - **Veranstaltungsart:** Examensseminar
 
@@ -13063,22 +13738,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137870&periodId=589>
 
 - **Veranstaltungsart:** Examensseminar
-
-### Examenskurs NdL (Nürnberg: nur GS/MS/RS/Berufl. Schulen) — Examensseminar
-
-- **Segment:** `unit:121988` · **unitId:** `121988`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121988&periodId=589>
-
-- **Veranstaltungsart:** Examensseminar
-
-### Examenskurs Sozialkunde — Hauptseminar
-
-- **Segment:** `unit:82443` · **unitId:** `82443`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82443&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
 
 ### Examensseminar L-UF Literaturwissenschaft
 
@@ -13135,13 +13794,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **Turnus:** in jedem Semester
 
-### Examensvorbereitungskurs Sozialkunde — Übung
-
-- **Segment:** `unit:126818` · **unitId:** `126818`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126818&periodId=589>
-
-- **Veranstaltungsart:** Übung
-
 ### Forschungsgeschichte des Genozids an den Armeniern — Hauptseminar
 
 - **Segment:** `unit:105882` · **unitId:** `105882`
@@ -13158,14 +13810,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **Turnus:** in jedem Semester
-
-### Freier Bereich Allg. Pädagogik — Seminar
-
-- **Segment:** `unit:121529` · **unitId:** `121529`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121529&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** Unregelmäßig
 
 ### Freiwilliges Tutorium für LA M1 Allgemeine Pädagogik I zur (VL) Bildung und Erziehung in historischer und systematischer Perspektive (Prof. Rakhkochkine) (Standort Nürnberg)
 
@@ -13190,22 +13834,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Sonstige Lehrveranstaltung
 - **ECTS-Punkte:** 2.5
 - **Turnus:** in jedem Semester
-
-### Gender, Literature and the Public Sphere (Seminar in englischer Sprache) (Master) — Hauptseminar
-
-- **Segment:** `unit:118967` · **unitId:** `118967`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118967&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-
-### Geoinformation und Fernerkundung für den Schuleinsatz — Seminar
-
-- **Segment:** `unit:115205` · **unitId:** `115205`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115205&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Gewaltorte als Lernorte (Standort Erlangen) — Seminar
 
@@ -13247,15 +13875,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
 
-### Grundfragen der Religionswissenschaft — Seminar
-
-- **Segment:** `unit:111445` · **unitId:** `111445`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111445&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Turnus:** Unregelmäßig
-
 ### Grundlagen - Methoden - Kategorien — Seminar
 
 - **Segment:** `unit:115620` · **unitId:** `115620`
@@ -13289,28 +13908,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### Hauptseminar Mediävistik und Examenskurs
-
-- **Segment:** `unit:110017` · **unitId:** `110017`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110017&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-
 ### Hauptseminar Mediävistik und Examenskurs: Märendichtung / Novellistik
 
 - **Segment:** `unit:137698` · **unitId:** `137698`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137698&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
-### Hauptseminar Physische Geographie: Geoökologie der Tropen
-
-- **Segment:** `unit:87033` · **unitId:** `87033`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87033&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
 - **Turnus:** in jedem Semester
 
 ### HS "Kunst.Räume.Religion  Orte und Wege ästhetischer Bildung" — Hauptseminar
@@ -13347,13 +13950,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.0
 - **Turnus:** nur im Wintersemester
 
-### HS Komödie (17. bis  19. Jahrhundert) — Hauptseminar
-
-- **Segment:** `unit:115136` · **unitId:** `115136`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115136&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-
 ### HS Musik im Religionsunterricht — Hauptseminar
 
 - **Segment:** `unit:86225` · **unitId:** `86225`
@@ -13381,13 +13977,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:130840` · **unitId:** `130840`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130840&periodId=589>
-
-- **Veranstaltungsart:** Seminar und Übung
-
-### HS/Ü: Ulrike Draesner: Science & Poetry Lab Die Vorbereitung eines Romans zu Emmy Noether, Romantrilogie zu Flucht und Vertreibung — Seminar und Übung
-
-- **Segment:** `unit:130838` · **unitId:** `130838`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130838&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
 
@@ -13493,14 +14082,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 
-### KI und Chat GPT. Wissenschaftsjournalistische Herausforderungen — Seminar
-
-- **Segment:** `unit:116045` · **unitId:** `116045`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116045&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nicht in diesem Semester
-
 ### Klausur zum Nachweis Gesicherter Lateinkenntnisse
 
 - **Segment:** `unit:39849` · **unitId:** `39849`
@@ -13521,21 +14102,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131036&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-
-### Kundalini, die Schlangenkraft: Geschichten, Praktiken und Deutungen eines globalisierten Erfahrungsbegriffs — Seminar
-
-- **Segment:** `unit:138156` · **unitId:** `138156`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138156&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-
-### LA M2 / EE-BF M2 / ZS M1 / LA Freier Bereich : SEM "Theorien pädagogischen Handelns auch im internationalen Vergleich und im Kontext der Migration" (Standort Nürnberg) — Seminar
-
-- **Segment:** `unit:101497` · **unitId:** `101497`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101497&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
 
 ### LA M2 / EE-BF M6d / MA Päd M II : SEM "Theorien und Konzepte der internationalen Bildung" (in englischer Sprache) — Seminar
 
@@ -13565,8 +14131,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -13610,15 +14176,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### Mathematik für alle - experimentelle und ästhetische Zugänge im Mathematikunterricht — Seminar
-
-- **Segment:** `unit:139273` · **unitId:** `139273`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139273&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.5
-- **Turnus:** in jedem Semester
-
 ### Medienerziehung in Schule und Unterricht — Seminar
 
 - **Segment:** `unit:111536` · **unitId:** `111536`
@@ -13642,15 +14199,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **Turnus:** Unregelmäßig
-
-### Modul 2 - Seminar: Bildungsprozesse und Bildungseinrichtungen in einer zunehmend von digitalen Medien geprägten Gesellschaft
-
-- **Segment:** `unit:125223` · **unitId:** `125223`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125223&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
 
 ### Modul 2 - Seminar: Grundlagen Medienerziehung
 
@@ -13681,24 +14229,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:105289` · **unitId:** `105289`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=105289&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
-
-### Modul III (Psychologie für LA 3) ODER Freier Bereich Psychologie: Klassenmanagement (Block) — Seminar
-
-- **Segment:** `unit:106278` · **unitId:** `106278`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106278&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
-
-### Modul III (Psychologie für LA) ODER Freier Bereich Psychologie: Klassenmanagement — Seminar
-
-- **Segment:** `unit:106856` · **unitId:** `106856`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106856&periodId=589>
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
@@ -13797,14 +14327,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.0
 - **Turnus:** in jedem Semester
 
-### Qualität von Schule und Unterricht datengestützt und kooperativ weiterentwickeln (Angebot am Standort Erlangen) — Seminar
-
-- **Segment:** `unit:119395` · **unitId:** `119395`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119395&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nur im Sommersemester
-
 ### Rechtfertigungslehre: von Luther zu Paulus zurück in die Gegenwart — Übung
 
 - **Segment:** `unit:111315` · **unitId:** `111315`
@@ -13869,15 +14391,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 
-### Spezialvorlesung Kirchen- und Theologiegeschichte
-
-- **Segment:** `unit:111808` · **unitId:** `111808`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111808&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.0
-- **Turnus:** Unregelmäßig
-
 ### Staatsexamenskurs Didaktik der Physik (nicht vertieft), Teilmodul von (DDP-40) — Übung
 
 - **Segment:** `unit:85089` · **unitId:** `85089`
@@ -13885,13 +14398,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
-
-### Status: Es ist kompliziert. Was ist der Mensch? Was ist das Tier? Eine Annäherung an die Verhältnisbestimmung von Tier und Mensch in zeitgenössischen Kino-Filmen — Seminar
-
-- **Segment:** `unit:117136` · **unitId:** `117136`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117136&periodId=589>
-
-- **Veranstaltungsart:** Seminar
 
 ### Strukturoptimierung in der virtuellen Produktentwicklung
 
@@ -13933,14 +14439,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 3.0
 - **Turnus:** nur im Wintersemester
-
-### Superheroes und Fabelwesen auf Mission im Wissenschaftsuniversum: Science Comics analysieren und konzeptionieren — Seminar
-
-- **Segment:** `unit:102897` · **unitId:** `102897`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102897&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** Unregelmäßig
 
 ### Sünde im Neuen Testament — Übung
 
@@ -13993,20 +14491,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 
-### Unterrichten und Lernen mit digitalen Medien - Kompetenzen für Lehramtsstudierende (Angebot am Standort Erlangen) — Seminar
-
-- **Segment:** `unit:119554` · **unitId:** `119554`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119554&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-
-### Unterrichten und Lernen mit digitalen Medien. Kompetenzen für Lehramtsstudierende — Seminar
-
-- **Segment:** `unit:125263` · **unitId:** `125263`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125263&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-
 ### Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar: Grundlagen der Lesedidaktik (Janle)
 
 - **Segment:** `unit:106626` · **unitId:** `106626`
@@ -14053,15 +14537,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120062&periodId=589>
 
 - **Veranstaltungsart:** Übung
-- **Turnus:** Unregelmäßig
-
-### Ü: Übung zu Texten und Themen der Neueren Kirchengeschichte (ohne Sprachvoraussetzungen) — Seminar und Übung
-
-- **Segment:** `unit:135856` · **unitId:** `135856`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135856&periodId=589>
-
-- **Veranstaltungsart:** Seminar und Übung
-- **ECTS-Punkte:** 2.0
 - **Turnus:** Unregelmäßig
 
 ### Übung Neues Testament

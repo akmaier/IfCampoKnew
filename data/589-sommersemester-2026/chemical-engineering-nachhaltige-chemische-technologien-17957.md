@@ -575,7 +575,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83990&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 08:30–10:00 | 15.04.2026–15.07.2026 | 12801.01.210 (H11) |
 
 ### Characterization Techniques for Electrochemical Cells - Vorlesung
 
@@ -608,7 +615,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Fr | 12:15–13:45 | 17.04.2026–17.07.2026 | 12106.00.633 (VT-Seminarraum FST-Cauerstraße 4) |
+| wöchentlich | Fr | 08:15–09:45 | 12.06.2026–17.07.2026 | 12104.01.411 (KS II Kurssaal II) |
 
 ### Chemische Thermodynamik (TUT) - Tutorium
 
@@ -624,7 +631,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Fr | 12:15–13:45 | 17.04.2026–17.07.2026 | 12106.00.633 (VT-Seminarraum FST-Cauerstraße 4) |
+| wöchentlich | Fr | 08:15–09:45 | 12.06.2026–17.07.2026 | 12104.01.411 (KS II Kurssaal II) |
 
 ### Chemische Thermodynamik (UE) - Übung
 
@@ -682,7 +689,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 11:30–13:00 | 15.04.2026–15.07.2026 | 21102.02.429 ((27 Plätze – nicht für studentische Veranstaltungen)) |
 
 ### Electrochemical Process Engineering  - Vorlesung
 
@@ -692,7 +706,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 11501.02.236 (02.236 Cauerstr.9 Seminarraum) |
 
 ### Exercise to Characterization Techniques for Electrochemical Cells - Übung
 
@@ -701,7 +722,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122041&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 11501.02.236 (02.236 Cauerstr.9 Seminarraum) |
 
 ### Exercise to Electrochemical Process Engineering - Übung
 
@@ -727,7 +755,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 15:00–16:30 | 15.04.2026–15.07.2026 | 21101.01.114 (LG H3 GfK-Hörsaal (155 Plätze) &quot;Gesellschaft für Konsumforschung&quot;) |
 
 ### Hauptseminar - Hauptseminar / Masterseminar
 
@@ -813,14 +848,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 12104.01.421 (KS I Kurssaal I Hanns-Hofmann-Hörsaal) |
 
 ### Messtechnik 1 - Messtechnik und Analytik - Vorlesung
 
@@ -922,6 +950,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84917&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### Praktikum Thermische Verfahrenstechnik - Praktikum
@@ -931,6 +960,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84917&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### Praktikum Thermische Verfahrenstechnik - Praktikum
@@ -940,6 +970,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84917&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### Praktikum Thermische Verfahrenstechnik - Praktikum
@@ -949,6 +980,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84917&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### Praktikum Thermische Verfahrenstechnik - Praktikum
@@ -958,6 +990,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84917&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### Process Technologies Exercises - Übung
@@ -1100,7 +1133,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96531&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 14:00–15:00 | 17.04.2026–17.07.2026 | 11202.00.307 (H1 Egerlandstr.3 Anorganische Chemie) |
 
 ### Übung zur Physikalischen Chemie für CBI, CEN u. BT - Übung
 
@@ -1109,7 +1149,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96531&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 14:00–15:00 | 17.04.2026–17.07.2026 | 11202.00.307 (H1 Egerlandstr.3 Anorganische Chemie) |
 
 ### Übung zur Physikalischen Chemie für CBI, CEN u. BT - Übung
 
@@ -1118,7 +1165,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96531&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 14:00–15:00 | 17.04.2026–17.07.2026 | 11202.00.307 (H1 Egerlandstr.3 Anorganische Chemie) |
 
 ### 17101 Vertiefungsmodul Nachhaltige Chemische Technologien - Leistung
 
@@ -1562,7 +1616,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | Di | 11:00–13:00 | — | — |
+| Di | Di | 11:00–13:00 | — | 11906.01.030 (H21) |
 
 ### 24731 Technische Thermodynamik - Leistung
 
@@ -2176,7 +2230,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| Fr | Fr | 11:00–12:30 | — | — |
 
 ### 41252 Praktikum Messtechnik: Sensorik und Messverfahren - Leistung
 
@@ -3171,7 +3225,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mi | Mi | 10:00–11:30 | — | 11501.00.156 (H16 Hörsaal 16) |
+| Mi | Mi | 10:00–11:30 | — | 11907.01.040 (H18) |
 
 ### 77611 Regenerative Energien  Erzeugung, Integration, Speicherung - Leistung
 
@@ -3811,7 +3865,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91686&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | 12104.01.421 (KS I Kurssaal I Hanns-Hofmann-Hörsaal) |
+| Einzeltermin | Di | 14:15–15:45 | 30.06.2026 | — |
 
 ### EWU-VL - Vorlesung Energiewirtschaft und Umweltrecht - Vorlesung mit Übung
 
@@ -3962,7 +4024,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 11901.U1.245 (K2-119 Seminarraum) |
+| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 11501.04.023 (04.023 Hörsaal) |
 
 ### IngMathD2U - Übungen zur Mathematik für Ingenieure D2: BT, CBI, CEN - Übung
 
@@ -3979,7 +4041,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 11901.U1.245 (K2-119 Seminarraum) |
+| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 11501.04.023 (04.023 Hörsaal) |
 
 ### IngMathD2U - Übungen zur Mathematik für Ingenieure D2: BT, CBI, CEN - Übung
 
@@ -3996,7 +4058,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 11901.U1.245 (K2-119 Seminarraum) |
+| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 11501.04.023 (04.023 Hörsaal) |
 
 ### International vergleichende Sozialstrukturanalyse - International vergleichende Sozialstrukturanalyse - Vorlesung
 
@@ -4127,7 +4189,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:45–14:15 | 14.04.2026–14.07.2026 | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
 
 ### MT2-UE - Messtechnik 2 - Messmethoden und Analytik - Übung
 
@@ -4158,7 +4227,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95957&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 11201.00.245 (T 0.75 großer Seminarraum) |
 
 ### NCT -3 - Nachhaltige Chemische Technologien 3-  Katalysatoren und Funktionsmaterialien - Vorlesung
 
@@ -4167,7 +4243,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95957&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 11201.00.245 (T 0.75 großer Seminarraum) |
 
 ### NCT -3 - Nachhaltige Chemische Technologien 3-  Katalysatoren und Funktionsmaterialien - Vorlesung
 
@@ -4176,7 +4259,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95957&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 11201.00.245 (T 0.75 großer Seminarraum) |
 
 ### NCT -3 - Nachhaltige Chemische Technologien 3-  Katalysatoren und Funktionsmaterialien - Vorlesung
 
@@ -4185,7 +4275,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95957&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 11201.00.245 (T 0.75 großer Seminarraum) |
 
 ### NCT-VT - Nachhaltige Chemische Technologien (Vertiefung CEN) - Vorlesung
 
@@ -4248,7 +4345,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95252&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 10:15–11:45 | 17.04.2026–17.07.2026 | 12104.01.411 (KS II Kurssaal II) |
 
 ### NCT-VT-UE - Übung zu Nachhaltige Chemische Technologien (Vertiefung CEN) - Übung
 
@@ -4257,7 +4361,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95252&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 10:15–11:45 | 17.04.2026–17.07.2026 | 12104.01.411 (KS II Kurssaal II) |
 
 ### OC 53 - Organisch-chemisches Praktikum für Chemieingenieure - Praktikum
 
@@ -4487,7 +4598,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:15–13:45 | 14.04.2026–07.07.2026 | 12104.01.411 (KS II Kurssaal II) |
 
 ### RT Kern/B.Sc. - Reaktionstechnik  / Chemical Reaction Engineering, Kern - Vorlesung
 
@@ -4661,7 +4779,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 11907.01.030 (H19) |
 
 ### STM I V - Strömungsmechanik I - Vorlesung
 
@@ -4671,7 +4796,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 11907.01.030 (H19) |
 
 ### STM I V - Strömungsmechanik I - Vorlesung
 
@@ -4681,7 +4813,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 11907.01.030 (H19) |
 
 ### STM I V - Strömungsmechanik I - Vorlesung
 
@@ -4691,7 +4830,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 11907.01.030 (H19) |
 
 ### SuF-VL - Statik und Festigkeitslehre - Vorlesung
 
@@ -4727,13 +4873,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | 11901.00.222 (H7 Hörsaal 7) |
 | wöchentlich | Mi | 10:15–11:45 | 22.04.2026–15.07.2026 | 11901.00.222 (H7 Hörsaal 7) |
 
-### SuF-Ü - Übung  zur Statik und Festigkeitslehre - Tutorium
+### SuF-Ü - Übung  zur Statik und Festigkeitslehre - Übung
 
 - **Segment:** `exam:14716739` · **unitId:** `91315`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17957|exam:14716630|exam:14716632|exam:14716634|exam:14716736|exam:14716739>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91315&periodId=589>
 
-- **Veranstaltungsart:** Tutorium
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
@@ -4743,13 +4889,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Do | 18:15–19:45 | 09.04.2026–16.07.2026 | 11901.00.222 (H7 Hörsaal 7) |
 
-### SuF-Ü - Übung  zur Statik und Festigkeitslehre - Tutorium
+### SuF-Ü - Übung  zur Statik und Festigkeitslehre - Übung
 
 - **Segment:** `exam:14718431` · **unitId:** `91315`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17957|exam:14718273|exam:14718275|exam:14718277|exam:14718428|exam:14718431>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91315&periodId=589>
 
-- **Veranstaltungsart:** Tutorium
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
@@ -4766,6 +4912,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92109&periodId=589>
 
 - **Veranstaltungsart:** Tutorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
 ### Tutor RT Kern - Tutorium zur Vorlesung Reaktionstechnik  / Tutorial Chemical Reaction Engineering, Kern - Tutorium
@@ -4775,6 +4922,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92109&periodId=589>
 
 - **Veranstaltungsart:** Tutorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
 ### Tutor RT Kern - Tutorium zur Vorlesung Reaktionstechnik  / Tutorial Chemical Reaction Engineering, Kern - Tutorium
@@ -4784,6 +4932,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92109&periodId=589>
 
 - **Veranstaltungsart:** Tutorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
 ### Tutor RT Kern - Tutorium zur Vorlesung Reaktionstechnik  / Tutorial Chemical Reaction Engineering, Kern - Tutorium
@@ -4793,6 +4942,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92109&periodId=589>
 
 - **Veranstaltungsart:** Tutorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
 ### UENCT3 - Übung Nachhaltige Chemische Technologien - 3 - Übung
@@ -4971,7 +5121,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (195)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (193)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -5244,7 +5394,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 10:15–11:45 | 17.04.2026–17.07.2026 | 11501.00.156 (H16 Hörsaal 16) 11301.00.005 (H4 Hörsaal 4) |
 
 ### Computational Fluid Dynamics II - Exercise — Übung
 
@@ -5252,7 +5409,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82853&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 11901.00.240 (H10 Hörsaal 10) |
 
 ### Computational Fluid Dynamics II - Lab — Praktikum
 
@@ -5324,13 +5488,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
 
-### Discrete Element Simulations — Vorlesung
+### Discrete Element Simulations — Übung
 
-- **Segment:** `unit:110299` · **unitId:** `110299`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110299&periodId=589>
+- **Segment:** `unit:110301` · **unitId:** `110301`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110301&periodId=589>
 
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 7.5
+- **Veranstaltungsart:** Übung
 - **Turnus:** nur im Sommersemester
 
 ### Discrete Element Simulations — Praktikum
@@ -5339,14 +5502,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110302&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
-- **Turnus:** nur im Sommersemester
-
-### Discrete Element Simulations — Übung
-
-- **Segment:** `unit:110301` · **unitId:** `110301`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110301&periodId=589>
-
-- **Veranstaltungsart:** Übung
 - **Turnus:** nur im Sommersemester
 
 ### Einführung in die Regelungstechnik — Vorlesung mit Übung
@@ -5364,15 +5519,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87774&periodId=589>
 
 - **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Electrocatalysis — Vorlesung
-
-- **Segment:** `unit:115069` · **unitId:** `115069`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115069&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
 ### Electrocatalysis — Übung
@@ -5442,7 +5588,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 18:15–19:45 | 16.04.2026–16.07.2026 | 12104.01.421 (KS I Kurssaal I Hanns-Hofmann-Hörsaal) |
 
 ### Fluid-Feststoff-Strömungen
 
@@ -5466,6 +5619,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | 12103.00.332 |
 
 ### Grammar & Vocabulary for Erasmus students
 
@@ -5556,7 +5715,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 16:15–17:45 | 15.04.2026–15.07.2026 | 12104.01.411 (KS II Kurssaal II) |
 
 ### Impact Entrepreneurship in Theorie und Praxis mit Live Case Study — Seminar
 
@@ -5574,14 +5740,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung | — | 08:15–17:00 | 05.10.2026–08.10.2026 | — |
 
 ### Klausur zum Nachweis Gesicherter Lateinkenntnisse
 
@@ -5652,8 +5811,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -5897,6 +6056,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 12103.00.332 |
+
 ### Photon & Neutron Scattering for Structure Determination — Vorlesung
 
 - **Segment:** `unit:106334` · **unitId:** `106334`
@@ -6034,6 +6199,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
 ### Praktikum Hochdrucktrenntechnik
@@ -6067,7 +6233,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 16:15–18:30 | 16.04.2026–16.07.2026 | 07201.01.009 (AOT-Kursraum Kursraum von SAOT und MAOT) |
 
 ### Praktikum Mechanische Verfahrenstechnik (Vertiefung)
 
@@ -6458,7 +6631,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 14:15–15:45 | 17.04.2026–17.07.2026 | 11501.00.151 (0.151-115 Seminar) 11401.00.237 (0.85 Seminarraum) |
 
 ### Seminar zur Energetischen Nutzung von Biomasse und Reststoffen — Übung
 
@@ -6759,7 +6939,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 11501.00.155 (H15 Hans-Wilhelm-Schüßler-Hörsaal) |
 
 ### Turbulence I - Exercise — Übung
 

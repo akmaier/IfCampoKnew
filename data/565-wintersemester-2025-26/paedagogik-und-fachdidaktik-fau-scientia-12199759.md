@@ -58,7 +58,9 @@ _Section: FAU Scientia Gaststudium_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16766|exam:12199759|exam:12199769>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103715&periodId=565>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -180,7 +182,10 @@ _Section: FAU Scientia Gaststudium_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16766|exam:12199759|exam:12199871>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84991&periodId=565>
 
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -194,7 +199,9 @@ _Section: FAU Scientia Gaststudium_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16766|exam:12199759|exam:12199788>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85158&periodId=565>
 
+- **Veranstaltungsart:** Seminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 ### Seminar Zahlen - Seminar
 
@@ -261,7 +268,10 @@ _Section: FAU Scientia Gaststudium_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16766|exam:12199759|exam:12199862>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94351&periodId=565>
 
+- **Veranstaltungsart:** Mittelseminar (Hauptseminar, PO 2020)
+- **ECTS-Punkte:** 4.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 ### Wahlpflichtseminar MS 2 - Seminar
 
@@ -296,7 +306,10 @@ _Section: FAU Scientia Gaststudium_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16766|exam:12199759|exam:12199834>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97291&periodId=565>
 
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -342,7 +355,7 @@ _Section: FAU Scientia Gaststudium_
 | wöchentlich | Mo | 14:15–15:45 | 13.10.2025–24.11.2025 | 12801.01.230 (H13 Johann-Radon-Hörsaal) |
 | wöchentlich | Mo | 15:45–17:15 | 01.12.2025–02.02.2026 | 20301.01.042 (1.042 großer Hörsaal (230)) |
 
-### Einführung GSP - Lange / Einführungsmodul GSP: Grundlagen der Grundschulpädagogik  - Vorlesung
+### Einführungsmodul GSP - Lange / Einführungsmodul GSP: Grundlagen der Grundschulpädagogik - Vorlesung
 
 - **Segment:** `exam:12199877` · **unitId:** `102550`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16766|exam:12199759|exam:12199877>
@@ -366,7 +379,10 @@ _Section: FAU Scientia Gaststudium_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16766|exam:12199759|exam:12199873>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91081&periodId=565>
 
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -381,7 +397,10 @@ _Section: FAU Scientia Gaststudium_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16766|exam:12199759|exam:12199868>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83980&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -441,7 +460,9 @@ _Section: FAU Scientia Gaststudium_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16766|exam:12199759|exam:12199878>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89385&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 

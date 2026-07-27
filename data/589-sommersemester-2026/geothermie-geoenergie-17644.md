@@ -186,6 +186,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Sommersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 11:00–13:00 | 15.04.2026–15.07.2026 | 00301.01.140 (ÜR Mineralogie Übungsraum Mineralogie) |
+
 ### [AS-V3] + [GT-V1] Sedimentpetrographie und Diagenese  - Hauptseminar
 
 - **Segment:** `exam:15800974` · **unitId:** `86463`
@@ -196,6 +202,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Sommersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 11:00–13:00 | 15.04.2026–15.07.2026 | 00301.01.140 (ÜR Mineralogie Übungsraum Mineralogie) |
+
 ### [AS-V3] + [GT-V1] Sedimentpetrographie-Diagenese-Petrophysik: Analytische Methoden  - Hauptseminar
 
 - **Segment:** `exam:14275791` · **unitId:** `86057`
@@ -204,7 +216,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 1.5
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 13:45–14:30 | 29.04.2026–15.07.2026 | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
 
 ### [AS-V3] + [GT-V1] Sedimentpetrographie-Diagenese-Petrophysik: Analytische Methoden  - Hauptseminar
 
@@ -214,7 +233,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 1.5
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 13:45–14:30 | 29.04.2026–15.07.2026 | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
 
 ### [AS-V3] + [GT-V1] Sedimentpetrographie-Diagenese-Petrophysik: Petrophysik und Reservoirpetrologie  - Hauptseminar
 
@@ -326,14 +352,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 09:00–11:00 | 16.04.2026–16.07.2026 | — |
 
 ### [GT-V3] Reservoir-Geomechanik - Vorlesung mit Übung
 
@@ -343,14 +362,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 09:00–11:00 | 16.04.2026–16.07.2026 | — |
 
 ### [GT-V3] Spannungsfeldanalyse/Monitoring - Vorlesung mit Übung
 
@@ -428,7 +440,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83990&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 08:30–10:00 | 15.04.2026–15.07.2026 | 12801.01.210 (H11) |
 
 ### BWL für Ingenieure II - Vorlesung mit Übung
 
@@ -437,7 +456,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83990&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 08:30–10:00 | 15.04.2026–15.07.2026 | 12801.01.210 (H11) |
 
 ### Oberflächennahe Geothermie - Planung, Vorgaben, Umsetzung - Seminar
 
@@ -513,7 +539,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | Di | 11:00–13:00 | — | — |
+| Di | Di | 11:00–13:00 | — | 11906.01.030 (H21) |
 
 ### 37481 AG-V3 Angewandte Geologie - Leistung
 
@@ -970,7 +996,11 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Fr | 10:00–11:30 | 17.04.2026–17.07.2026 | — |
-| Blockveranstaltung+Sa | — | 08:00–18:00 | 07.09.2026–11.09.2026 | 07202.00.016 (Seminarraum Seminarraum Außenstelle Angewandte Geologie) |
+| Einzeltermin | Mo | 09:00–16:00 | 07.09.2026 | 07202.00.016 (Seminarraum Seminarraum Außenstelle Angewandte Geologie) |
+| Einzeltermin | Di | 08:00–11:00 | 08.09.2026 | 07202.00.016 (Seminarraum Seminarraum Außenstelle Angewandte Geologie) |
+| Einzeltermin | Mi | 08:00–11:00 | 09.09.2026 | 07202.00.016 (Seminarraum Seminarraum Außenstelle Angewandte Geologie) |
+| Einzeltermin | Do | 08:00–11:00 | 10.09.2026 | 07202.00.016 (Seminarraum Seminarraum Außenstelle Angewandte Geologie) |
+| Einzeltermin | Fr | 08:00–11:00 | 11.09.2026 | 07202.00.016 (Seminarraum Seminarraum Außenstelle Angewandte Geologie) |
 
 ### AG-V3 - [AG-V3] Tracer in Wasser- und Umweltsystemen - Übung
 
@@ -1091,7 +1121,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 16:15–17:45 | 21.04.2026–14.07.2026 | 11901.00.240 (H10 Hörsaal 10) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (18)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (16)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -1140,30 +1170,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
 
-### [AS-V1] + [GT-E1] Bohrungen und Bohrlochgeophysik — Hauptseminar
-
-- **Segment:** `unit:102345` · **unitId:** `102345`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102345&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
 ### [AS-V2] + [GT-E2] Strukturgeologie und Mikrotektonik — Hauptseminar
 
 - **Segment:** `unit:99065` · **unitId:** `99065`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99065&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
-### [AS-V2] + [GT-E2]Störungssysteme — Übungsseminar
-
-- **Segment:** `unit:95784` · **unitId:** `95784`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95784&periodId=589>
-
-- **Veranstaltungsart:** Übungsseminar
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
 
@@ -1238,8 +1250,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 

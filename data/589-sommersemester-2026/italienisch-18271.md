@@ -26,6 +26,12 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **ECTS-Punkte:** 3.0
 - **Turnus:** nur im Sommersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:15–15:45 | 21.04.2026–14.07.2026 | 05701.00.010 ( 00.010 Übungsraum 1) |
+
 ### Cultura e civiltà I - Seminar
 
 - **Segment:** `exam:15115515` · **unitId:** `111426`
@@ -35,6 +41,12 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 3.0
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:15–15:45 | 21.04.2026–14.07.2026 | 05701.00.010 ( 00.010 Übungsraum 1) |
 
 ### Einführung in die Didaktik der romanischen Sprachen - Übungsseminar
 
@@ -80,6 +92,13 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **ECTS-Punkte:** 1.0
 - **Turnus:** Unregelmäßig
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Mo | 12:00–14:00 | 13.04.2026–11.05.2026 | 00501.00.020 ( KH 0.020 Hörsaal Kollegienhaus) |
+| 14-täglich | Mo | 12:00–14:00 | 18.05.2026–13.07.2026 | 00501.00.020 ( KH 0.020 Hörsaal Kollegienhaus) |
+
 ### Examensseminar Fachdidaktik Französisch/Spanisch/Italienisch - Examensseminar
 
 - **Segment:** `exam:15690267` · **unitId:** `115457`
@@ -89,6 +108,13 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungsart:** Examensseminar
 - **ECTS-Punkte:** 1.0
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Mo | 12:00–14:00 | 13.04.2026–11.05.2026 | 00501.00.020 ( KH 0.020 Hörsaal Kollegienhaus) |
+| 14-täglich | Mo | 12:00–14:00 | 18.05.2026–13.07.2026 | 00501.00.020 ( KH 0.020 Hörsaal Kollegienhaus) |
 
 ### Fonetica pratica - Übung
 
@@ -1138,7 +1164,16 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 56701.02.036 (Mo - Fr 8:00 - 20:00 Uhr Romanistik) |
+| Einzeltermin | Fr | 15:15–16:45 | 17.07.2026 | 56701.02.036 (Mo - Fr 8:00 - 20:00 Uhr Romanistik) |
+| Einzeltermin | Do | 10:15–11:45 | 23.07.2026 | 56701.02.014 ( 02.014) |
 
 ### BS ital. Lit.wiss.  (Basismodul 72624) - Basisseminar italienische Literaturwissenschaft (Basismodul 72624) - Seminar
 
@@ -1148,7 +1183,16 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 56701.02.036 (Mo - Fr 8:00 - 20:00 Uhr Romanistik) |
+| Einzeltermin | Fr | 15:15–16:45 | 17.07.2026 | 56701.02.036 (Mo - Fr 8:00 - 20:00 Uhr Romanistik) |
+| Einzeltermin | Do | 10:15–11:45 | 23.07.2026 | 56701.02.014 ( 02.014) |
 
 ### HS frz./ital./span. Sprachwiss. - Hauptseminar französische / italienische / spanische Sprachwissenschaft - Hauptseminar
 
@@ -1371,7 +1415,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87659&periodId=589>
 
 - **Veranstaltungsart:** Tutorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Do | 12:15–13:45 | 23.04.2026–16.07.2026 | 56701.02.014 ( 02.014) |
 
 ### Tut. ital. Lit.wiss. - Tutorium zum Basisseminar italienische Literaturwissenschaft - Tutorium
 
@@ -1380,7 +1431,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87659&periodId=589>
 
 - **Veranstaltungsart:** Tutorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Do | 12:15–13:45 | 23.04.2026–16.07.2026 | 56701.02.014 ( 02.014) |
 
 ### Tut. ital. Phon. - Tutorium zu Phonetik und Phonologie des Italienischen - Tutorium
 
@@ -1484,7 +1542,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mi | 08:00–10:00 | 15.04.2026–15.07.2026 | 00501.00.023 ( KH 0.023 Hörsaal Kollegienhaus) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (26)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (24)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -1562,13 +1620,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 3.0
 - **Turnus:** nur im Wintersemester
-
-### Einführung in die Fachdidaktik der romanischen Sprachen — Seminar
-
-- **Segment:** `unit:115448` · **unitId:** `115448`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115448&periodId=589>
-
-- **Veranstaltungsart:** Seminar
 
 ### Einführungsseminar in die Didaktik der romanischen Sprachen
 
@@ -1661,8 +1712,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -1736,15 +1787,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Tutorium
 - **Turnus:** nur im Wintersemester
-
-### Vorlesung französische / italienische Sprachwissenschaft
-
-- **Segment:** `unit:95766` · **unitId:** `95766`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95766&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.0
-- **Turnus:** in jedem Semester
 
 ## Lehramts-Prüfungsordnungen
 

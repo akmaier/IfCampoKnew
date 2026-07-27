@@ -352,7 +352,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (1029)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (1017)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -806,15 +806,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
 
-### Anwendungen von Quantentechnologien — Vorlesung
-
-- **Segment:** `unit:114490` · **unitId:** `114490`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114490&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
 ### Architekturen der digitalen Signalverarbeitung
 
 - **Segment:** `unit:26367` · **unitId:** `26367`
@@ -868,7 +859,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82393&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 11907.01.040 (H18) |
+| wöchentlich | Mi | 08:15–09:45 | 15.04.2026–15.07.2026 | 11907.01.030 (H19) |
 
 ### Artificial Intelligence II - Übung
 
@@ -905,7 +904,16 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:00–18:00 | 30.04.2026–02.07.2026 | 53601.03.306 (P1 LIKE Praktikumsraum) |
+| Einzeltermin | Fr | 12:15–13:45 | 17.04.2026 | — |
+| wöchentlich | Fr | 13:00–17:00 | 29.05.2026–03.07.2026 | 53601.03.306 (P1 LIKE Praktikumsraum) |
 
 ### Audio Processing Seminar
 
@@ -934,8 +942,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 16:00–19:00 | 16.07.2026 | 53603.03.404 (3R4.04 Seminarraum AudioLabs) |
-| Einzeltermin | Fr | 10:00–13:00 | 17.07.2026 | 53603.03.404 (3R4.04 Seminarraum AudioLabs) |
+| Einzeltermin | Do | 12:15–13:45 | 16.04.2026 | — |
+| Einzeltermin | Do | 12:15–13:45 | 23.04.2026 | 53603.03.404 (3R4.04 Seminarraum AudioLabs) |
 
 ### Aufbau- und Verbindungstechnik in der Leistungselektronik — Vorlesung
 
@@ -1590,7 +1598,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83990&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 08:30–10:00 | 15.04.2026–15.07.2026 | 12801.01.210 (H11) |
 
 ### Chemistry for Fuel Cells, Batteries, and Electrolyzer
 
@@ -1605,15 +1620,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Do | Do | — | — | — |
-
-### Chemistry for Fuel Cells, Batteries, and Electrolyzer — Vorlesung
-
-- **Segment:** `unit:117461` · **unitId:** `117461`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117461&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
 
 ### Clean combustion technology
 
@@ -1754,7 +1760,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| Mi | Mi | — | — | — |
 
 ### Computational Multibody Dynamics
 
@@ -2142,6 +2148,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### Differentielle und Persönlichkeitspsychologie (Nebenfach)
@@ -2317,13 +2324,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
 
-### Discrete Element Simulations — Vorlesung
+### Discrete Element Simulations — Übung
 
-- **Segment:** `unit:110299` · **unitId:** `110299`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110299&periodId=589>
+- **Segment:** `unit:110301` · **unitId:** `110301`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110301&periodId=589>
 
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 7.5
+- **Veranstaltungsart:** Übung
 - **Turnus:** nur im Sommersemester
 
 ### Discrete Element Simulations — Praktikum
@@ -2332,14 +2338,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110302&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
-- **Turnus:** nur im Sommersemester
-
-### Discrete Element Simulations — Übung
-
-- **Segment:** `unit:110301` · **unitId:** `110301`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110301&periodId=589>
-
-- **Veranstaltungsart:** Übung
 - **Turnus:** nur im Sommersemester
 
 ### DIY - Individual Prototyping and Systems Engineering (fällt aus) — Vorlesung
@@ -2465,7 +2463,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93760&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 11302.01.153 (01.153-113 CIP CIP-Pool Informatik (WinCIP)) |
+| wöchentlich | Mi | 12:00–14:00 | 15.04.2026–15.07.2026 | 11302.01.153 (01.153-113 CIP CIP-Pool Informatik (WinCIP)) |
 
 ### Echtzeitsysteme 2 - Verlässliche Echtzeitsysteme - Übungen
 
@@ -2774,7 +2780,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 12:15–13:45 | 17.04.2026–17.07.2026 | 11501.02.224 (02.224 Cauerstr.9 Seminarraum) |
 
 ### Elektrische Energiespeichersysteme
 
@@ -3138,15 +3151,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Di | Di | 11:00–12:30 | — | 11907.01.030 (H19) |
 
-### Entwurf Integrierter Schaltungen I — Vorlesung mit Übung
-
-- **Segment:** `unit:83432` · **unitId:** `83432`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83432&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Entwurf Integrierter Schaltungen II
 
 - **Segment:** `unit:28198` · **unitId:** `28198`
@@ -3340,23 +3344,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
 
-### Exercise to Chemistry for Fuel Cells, Batteries, and Electrolyzer — Übung
-
-- **Segment:** `unit:125032` · **unitId:** `125032`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125032&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
-### Exercise to Electric Drives — Übung
-
-- **Segment:** `unit:121629` · **unitId:** `121629`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121629&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
 ### Exercises in Clean Combustion Technology — Übung
 
 - **Segment:** `unit:86882` · **unitId:** `86882`
@@ -3364,7 +3351,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 18:15–19:45 | 16.04.2026–16.07.2026 | 12104.01.421 (KS I Kurssaal I Hanns-Hofmann-Hörsaal) |
 
 ### Exercises on Power Electronics for Decentral Energy Systems — Übung
 
@@ -3372,7 +3366,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87731&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 18:15–19:45 | 14.04.2026–14.07.2026 | 12501.01.007 |
 
 ### Exercises to Reconfigurable Computing — Übung
 
@@ -3389,7 +3390,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82697&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 11501.01.105 (H6 Hörsaal 6) |
 
 ### Experimentalphysik I
 
@@ -3486,9 +3494,9 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 16:15–17:45 | 30.04.2026–16.07.2026 | 11302.04.158 (04.158 Stud. Rechner-/Arbeitsraum) 11302.00.156 (00.156-113 CIP CIP-Pool Informatik (CIP4)) |
-| Einzeltermin | Di | 14:15–15:45 | 19.05.2026 | 11302.04.158 (04.158 Stud. Rechner-/Arbeitsraum) |
-| Einzeltermin | Di | 14:15–15:45 | 09.06.2026 | 11302.04.158 (04.158 Stud. Rechner-/Arbeitsraum) |
+| wöchentlich | Do | 14:15–15:45 | 30.04.2026–16.07.2026 | 11302.04.158 (04.158 Stud. Rechner-/Arbeitsraum) 11302.00.153 (00.153-113 CIP CIP-Pool Informatik (CIP3)) |
+| Einzeltermin | Di | 10:15–11:45 | 19.05.2026 | 11302.04.158 (04.158 Stud. Rechner-/Arbeitsraum) |
+| Einzeltermin | Di | 10:15–11:45 | 09.06.2026 | 11302.04.158 (04.158 Stud. Rechner-/Arbeitsraum) |
 
 ### Fertigungsmesstechnik I
 
@@ -3561,15 +3569,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 08:15–09:45 | 13.04.2026–13.07.2026 | 11906.01.030 (H21) |
 | wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 11906.01.030 (H21) |
-
-### Fertigungsmesstechnik II - Online — Online-Kurs
-
-- **Segment:** `unit:137719` · **unitId:** `137719`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137719&periodId=589>
-
-- **Veranstaltungsart:** Online-Kurs
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Fertigungsmesstechnik II - Übung
 
@@ -4256,7 +4255,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mi | Mi | — | — | — |
+| Mi | Mi | 14:00–15:30 | — | 11901.00.236 (K1-119 Brose-Saal) |
 
 ### Halbleitertechnik II - CMOS-Technik — Vorlesung
 
@@ -4439,7 +4438,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | 11901.00.226 (H8 Hörsaal 8) |
 
 ### Hardware-Beschreibungssprache VHDL — Vorlesung mit Übung
 
@@ -4485,7 +4491,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:15–09:45 | 14.04.2026–14.07.2026 | 11301.00.005 (H4 Hörsaal 4) |
 
 ### Hardware-Software-Co-Design
 
@@ -4619,7 +4632,16 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 10:00–11:30 | 17.04.2026 | — |
+| Einzeltermin | Mo | 13:00–17:00 | 06.07.2026 | 11501.02.236 (02.236 Cauerstr.9 Seminarraum) |
+| Einzeltermin | Mo | 13:00–17:00 | 13.07.2026 | 11501.02.236 (02.236 Cauerstr.9 Seminarraum) |
 
 ### Hauptseminar Fertigungsautomatisierung und Produktionssystematik
 
@@ -4637,6 +4659,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### Hauptseminar Leistungselektronik (BA)
@@ -4770,7 +4793,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | 11501.05.222 (HF-Technik: SR 05.222 Seminarraum (alt 5.14)) 11501.06.226 (HF-Technik: BZ 06.226 Besprechungszimmer (alt 6.18)) |
 
 ### HF-Schaltungen und Systeme Übung
 
@@ -4808,7 +4838,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 08:30–11:30 | 15.04.2026–08.07.2026 | 11501.05.222 (HF-Technik: SR 05.222 Seminarraum (alt 5.14)) |
 
 ### Hochfrequenztechnik
 
@@ -4831,14 +4868,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Hochfrequenztechnik Tutorium
-
-- **Segment:** `unit:114400` · **unitId:** `114400`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114400&periodId=589>
-
-- **Veranstaltungsart:** Tutorium
 - **Turnus:** nur im Wintersemester
 
 ### Hochfrequenztechnik Übung
@@ -4918,7 +4947,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 1.25
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | 56201.00.010 (00.010 MaD-Lab Seminarraum, Carl-Thiersch-Str. 2b) |
 
 ### Human Factors in Security and Privacy
 
@@ -4954,7 +4990,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 12801.01.210 (H11) |
 
 ### Human-centered Mechatronics and Robotics (Exercise) — Übung
 
@@ -5000,14 +5043,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Do | Do | — | — | — |
 
-### Höhere Festigkeitslehre — Vorlesung
-
-- **Segment:** `unit:83756` · **unitId:** `83756`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83756&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
-
 ### Industrie 4.0 - Anwendungsszenarien in Design und Engineering
 
 - **Segment:** `unit:69713` · **unitId:** `69713`
@@ -5020,7 +5055,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | Fr | 08:00–09:00 | — | 11901.00.226 (H8 Hörsaal 8) |
+| Mo | Mo | 15:00–16:00 | — | 11002.00.020 (H17 Maschinenbau Hörsaal Maschinenbau) |
 
 ### Industrie 4.0 - Anwendungsszenarien in Design und Engineering — Vorlesung
 
@@ -5179,6 +5214,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
 
 ### Internationale Energiewirtschaft und Unternehmensführung
@@ -5322,7 +5358,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85128&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:15–17:45 | 13.04.2026–13.07.2026 | 10601.00.044 (SR TM Seminarraum Technische Mechanik, Raum-Nr. 00.044 (Technische Fakultät, Campus Süd)) |
 
 ### Issues in international political economy (written examination)
 
@@ -5366,15 +5409,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Di | Di | — | — | — |
 
-### Karosseriebau - Warmumformung und Korrosionsschutz — Vorlesung
-
-- **Segment:** `unit:86974` · **unitId:** `86974`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86974&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
 ### Karosseriebau - Werkzeugtechnik
 
 - **Segment:** `unit:69323` · **unitId:** `69323`
@@ -5405,6 +5439,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Mo | 15:00–18:00 | 08.06.2026 | 11001.00.036 (SR LFT Seminarraum Lehrstuhl f. Fertigungstechnologie) |
 | Einzeltermin | Mo | 15:00–18:00 | 22.06.2026 | 11001.00.036 (SR LFT Seminarraum Lehrstuhl f. Fertigungstechnologie) |
 | Einzeltermin | Mo | 15:00–18:00 | 13.07.2026 | 11001.00.036 (SR LFT Seminarraum Lehrstuhl f. Fertigungstechnologie) |
+
+### Karosseriebau 2 - Kalt- und Warmumformung — Vorlesung
+
+- **Segment:** `unit:86974` · **unitId:** `86974`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86974&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.5
+- **Turnus:** nur im Wintersemester
 
 ### Klausur zum Nachweis Gesicherter Lateinkenntnisse
 
@@ -5722,15 +5765,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-### Kurzexkursion zu Betriebsmittel und Komponenten elektrischer Energiesysteme
+#### Termine
 
-- **Segment:** `unit:103416` · **unitId:** `103416`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103416&periodId=589>
-
-- **Veranstaltungsart:** Exkursion
-- **Turnus:** nur im Wintersemester
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 11906.01.030 (H21) |
 
 ### Künstliche Intelligenz I
 
@@ -5758,6 +5800,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Fr | Fr | — | — | — |
+
+### Lab course machine learning in signal processing
+
+- **Segment:** `unit:50436` · **unitId:** `50436`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50436&periodId=589>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Lab Course Machine Learning in Signal Processing — Praktikum
 
@@ -5857,12 +5913,33 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 ### Laborpraktikum Bild- und Videosignalverarbeitung auf eingebetteten Plattformen
 
+- **Segment:** `unit:47945` · **unitId:** `47945`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47945&periodId=589>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### Laborpraktikum Bild- und Videosignalverarbeitung auf eingebetteten Plattformen
+
 - **Segment:** `unit:83066` · **unitId:** `83066`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83066&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:00–18:00 | 23.04.2026–16.07.2026 | 11501.06.021 (06.021 Labor- und Praktikumsraum) |
 
 ### Laborpraktikum Digitale Signalverarbeitung
 
@@ -5976,7 +6053,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | Fr | — | — | — |
+| Fr | Fr | 08:00–10:00 | — | 07205.02.028 (BR MB1 Besprechungsraum 1 Department Maschinenbau) |
 
 ### Laser in der Medizintechnik — Vorlesung
 
@@ -6113,8 +6190,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -6312,7 +6389,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| Sa | Sa | 14:30–16:00 | — | — |
 
 ### Machine Learning for Engineers I: Introduction to Methods and Tools — Vorlesung
 
@@ -6336,7 +6413,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| Sa | Sa | 17:00–18:00 | — | — |
 
 ### Machine Learning for Engineers II: Advanced Methods — Vorlesung
 
@@ -6737,7 +6814,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | Mo | — | — | — |
+| Mi | Mi | — | — | — |
 
 ### Mathematik E 1
 
@@ -6780,6 +6857,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mi | Mi | — | — | — |
+
+### Mathematik für Ingenieure A/E 1 — Vorlesung
+
+- **Segment:** `unit:137955` · **unitId:** `137955`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137955&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 7.5
+- **Turnus:** nur im Wintersemester
 
 ### Mathematik für Ingenieure E1: ET,IuK,ME — Vorlesung
 
@@ -7099,7 +7185,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133539&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:15–15:45 | 22.04.2026–15.07.2026 | 11901.00.236 (K1-119 Brose-Saal) |
 
 ### Menschenzentrierte IT-Sicherheit Übung
 
@@ -7201,7 +7294,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82227&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:15–09:45 | 14.04.2026–14.07.2026 | 11901.00.226 (H8 Hörsaal 8) |
 
 ### Methodische Analyse zur Qualitätsverbesserung von Fertigungsprozessen
 
@@ -7658,7 +7758,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86334&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | 11901.00.240 (H10 Hörsaal 10) |
 
 ### Nonlinear Control Systems
 
@@ -7680,7 +7787,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | 11501.01.104 (H5 Hörsaal 5) |
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 11501.01.105 (H6 Hörsaal 6) |
 
 ### Nonlinear Light-Matter Interactions for Photonic Applications — Vorlesung mit Übung
 
@@ -7781,7 +7896,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 3.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 08:15–11:45 | 15.04.2026–15.07.2026 | 12102.00.231 (LSTM-SR LSTM-Seminarraum) |
 
 ### Numerische und experimentelle Modalanalyse
 
@@ -7834,7 +7956,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 11501.04.023 (04.023 Hörsaal) |
+| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 11501.04.023 (04.023 Hörsaal) |
 
 ### Optische Übertragungstechnik
 
@@ -7857,7 +7987,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 10:15–11:45 | 17.04.2026–17.07.2026 | 11501.05.222 (HF-Technik: SR 05.222 Seminarraum (alt 5.14)) |
 
 ### Optische Übertragungstechnik Übung
 
@@ -7894,7 +8031,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 08:15–09:45 | 16.04.2026–16.07.2026 | 11301.00.005 (H4 Hörsaal 4) |
 
 ### Parallele Systeme (Vorlesung mit erweiterten Übungen)
 
@@ -8016,6 +8160,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 09:00–10:30 | 21.05.2026–16.07.2026 | — |
+| wöchentlich | Di | 15:00–16:30 | 19.05.2026–14.07.2026 | — |
 
 ### PCP Projektarbeit
 
@@ -8194,7 +8345,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 10:15–11:15 | 20.04.2026–13.07.2026 | 11201.03.219 (P 3.70 Handbibliothek der Physikalischen Chemie) |
+| wöchentlich | Mo | 10:15–11:15 | 27.04.2026–13.07.2026 | 11201.03.228 (P 3.88 Seminarraum der Physikalischen Chemie) |
 
 ### Physikalische Chemie 2 (Kinetik u. Aufbau der Materie) für LA Gymnasium (PC Ib), Lebensmittelchemie und Biologie (PC II) — Vorlesung
 
@@ -8272,7 +8423,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 09:00–17:00 | 10.08.2026–14.08.2026 | 11501.04.219 (EL 4.11/12 Praktikumsraum) |
 
 ### Praktikum Automatisierungstechnik
 
@@ -8347,7 +8505,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung | — | 14:00–19:00 | 03.08.2026–07.08.2026 | — |
+| Blockveranstaltung | — | 08:00–13:00 | 03.08.2026–07.08.2026 | — |
 
 ### Praktikum Digitaler ASIC-Entwurf (Blockpraktikum)
 
@@ -8471,7 +8629,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| nach Vereinbarung | — | — | — | — |
+| Einzeltermin | Mi | 09:00–13:00 | 13.05.2026 | — |
+| Einzeltermin | Mo | 15:00–17:00 | 18.05.2026 | — |
+| Einzeltermin | Mi | 09:00–15:00 | 20.05.2026 | 07205.02.033 (CIP-Pool MB II) |
+| Einzeltermin | Mi | 09:00–18:00 | 10.06.2026 | — |
+| Einzeltermin | Mi | 09:00–18:00 | 17.06.2026 | — |
+| Einzeltermin | Mi | 09:00–18:00 | 24.06.2026 | — |
+| Einzeltermin | Mi | 09:00–18:00 | 01.07.2026 | — |
 
 ### Praktikum für systematischen Entwurf programmierbarer Logikbausteine
 
@@ -8480,7 +8652,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 09:00–17:00 | 03.08.2026–07.08.2026 | 11501.04.221 (EL 4.13 Praktikumsraum) |
 
 ### Praktikum Grundlagen der Elektrischen Antriebstechnik
 
@@ -8534,7 +8713,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=105234&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:00–12:00 | 14.04.2026–14.07.2026 | 11501.00.150 (0.150-115 GET Praktikum) |
 
 ### Praktikum Grundlagen der Elektrotechnik I für Mechatronik
 
@@ -8635,7 +8821,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 14:00–18:00 | 16.04.2026–16.07.2026 | 12401.00.144 (HF-Technik 0.144 HF-Praktikum Cauerstraße 6, EG) 11501.06.226 (HF-Technik: BZ 06.226 Besprechungszimmer (alt 6.18)) |
+| wöchentlich | Do | 08:00–12:00 | 16.04.2026–16.07.2026 | 12401.00.144 (HF-Technik 0.144 HF-Praktikum Cauerstraße 6, EG) 11501.06.226 (HF-Technik: BZ 06.226 Besprechungszimmer (alt 6.18)) |
 
 ### Praktikum Hochspannungstechnik
 
@@ -8808,15 +8994,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Praktikum Photonik/Lasertechnik 1
-
-- **Segment:** `unit:107618` · **unitId:** `107618`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107618&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
 ### Praktikum Photonik/Lasertechnik 2
 
 - **Segment:** `unit:84027` · **unitId:** `84027`
@@ -8871,7 +9048,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86383&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:00–18:00 | 15.04.2026–15.07.2026 | 11501.02.028 |
 
 ### Praktikum Regelungstechnik II / Lab Course Automatic Control II
 
@@ -8934,7 +9118,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 09:00–16:00 | 17.08.2026–03.09.2026 | — |
 
 ### Praktikum Technische Dynamik
 
@@ -8980,7 +9171,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 13:00–17:00 | 16.04.2026–16.07.2026 | 07205.02.033 (CIP-Pool MB II) |
 
 ### Praktikum zu High-Performance Analog- und Umsetzer-Design
 
@@ -9015,7 +9213,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:00–12:00 | 22.04.2026–08.07.2026 | 07205.03.018 (CIP-Pool MB Konrad-Zuse-Str. 3) |
 
 ### Praktische Produktentwicklung mit 3D-CAD-Systemen
 
@@ -9336,7 +9541,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97429&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 54201.00.030 ( Hörsaal - Studienzentrum Stintzingstraße) |
 
 ### Proseminar Allgemeine Psychologie II
 
@@ -9399,7 +9611,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 08:15–09:45 | 16.04.2026–16.07.2026 | 11501.02.224 (02.224 Cauerstr.9 Seminarraum) |
 
 ### Quality Management 2
 
@@ -9537,15 +9756,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Sommersemester
 
-### Quantenelektronik I - Tunnel- und "Quantum Well"-Bauelemente — Vorlesung
-
-- **Segment:** `unit:98828` · **unitId:** `98828`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98828&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
 ### Quantenelektronik I - Tunnel-Bauelemente
 
 - **Segment:** `unit:127380` · **unitId:** `127380`
@@ -9576,6 +9786,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:15–15:45 | 14.04.2026–14.07.2026 | 12401.00.111 (0.111 Seminarraum 0.111) |
 
 ### Quantenelektronik II - Spintronik und Quantum Computation
 
@@ -9694,7 +9910,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 11907.01.030 (H19) |
 
 ### Radar, RFID and Wireless Sensor Systems (RWS)
 
@@ -10020,7 +10243,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 11002.00.020 (H17 Maschinenbau Hörsaal Maschinenbau) |
 
 ### Ressourceneffiziente Produktionssysteme - Übung
 
@@ -10204,7 +10434,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 11501.01.105 (H6 Hörsaal 6) |
 
 ### Satellite Communications
 
@@ -10313,7 +10550,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | Mo | 10:00–11:30 | — | — |
+| Mo | Mo | 10:00–11:30 | — | 11501.04.222 (04.222 EL4.14 &quot;Tietze-Schenk-Saal&quot;) |
 
 ### Schaltungen und Systeme der Übertragungstechnik — Vorlesung
 
@@ -10322,7 +10559,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:15–09:45 | 21.04.2026–14.07.2026 | 11501.04.222 (04.222 EL4.14 &quot;Tietze-Schenk-Saal&quot;) 11501.00.157 (0.157-115 CIP Pool EEI) |
 
 ### Schaltungstechnik
 
@@ -10380,7 +10624,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | — | — | — |
+| Do | Do | 11:00–12:30 | — | 11901.00.240 (H10 Hörsaal 10) |
 
 ### Schätzverfahren in der Regelungstechnik — Vorlesung mit Übung
 
@@ -10459,6 +10703,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### Seminar Ausgewählte Kapitel der Multimediakommunikation und Signalverarbeitung
+
+- **Segment:** `unit:39679` · **unitId:** `39679`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39679&periodId=589>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
 
 #### Termine
 
@@ -10557,6 +10815,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### Seminar Elektrische Maschinen
@@ -10610,7 +10869,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 12:15–13:45 | 17.04.2026–17.07.2026 | 11501.06.226 (HF-Technik: BZ 06.226 Besprechungszimmer (alt 6.18)) |
 
 ### Seminar Hochspannungs- und Diagnosetechnik — Hauptseminar
 
@@ -10688,7 +10954,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | — |
 
 ### Seminar Moderne Trends in der elektrischen Energieversorgung — Hauptseminar
 
@@ -10697,7 +10970,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 12101.00.135 (EE 0.135 Seminarraum) |
 
 ### Seminar Nachhaltige Energiesysteme
 
@@ -10720,7 +11000,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 14:15–15:45 | 17.04.2026–17.07.2026 | 12101.00.135 (EE 0.135 Seminarraum) |
 
 ### Seminar on Advanced Power Electronics Topics
 
@@ -10769,7 +11056,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:15–09:45 | 14.04.2026–14.07.2026 | 07205.01.030 (01.030 Seminarraum) |
 
 ### Seminar Strategisches Kühlschmierstoffmanagement in der Produktionstechnik
 
@@ -10822,7 +11116,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 23.04.2026–16.07.2026 | 07204.01.030 (SR 01.030 Seminarraum des LZS) |
 
 ### Seminar über ausgewählte Aspekte der technischen Entwicklungszusammenarbeit auf dem Gebiet der elektrischen Energieversorgung — Hauptseminar
 
@@ -10924,7 +11225,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Sa | Sa | 10:00–11:30 | — | 11907.01.030 (H19) 11907.01.040 (H18) |
+| Sa | Sa | 10:00–11:30 | — | 11907.01.040 (H18) |
 
 ### Sichere Systeme Übung
 
@@ -11103,6 +11404,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### Sozialpsychologie (Nebenfach)
@@ -11464,7 +11766,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85784&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:15–17:45 | 13.04.2026–13.07.2026 | 11907.01.040 (H18) |
+| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 11907.01.040 (H18) |
 
 ### Technische Schwingungslehre
 
@@ -11515,7 +11825,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87014&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 12104.01.421 (KS I Kurssaal I Hanns-Hofmann-Hörsaal) |
+| wöchentlich | Fr | 10:15–11:45 | 17.04.2026–17.07.2026 | 12104.01.421 (KS I Kurssaal I Hanns-Hofmann-Hörsaal) |
 
 ### Technische Thermodynamik Übung
 
@@ -11539,7 +11857,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 11501.00.151 (0.151-115 Seminar) |
 
 ### Technologie-Startup-Seminar
 
@@ -11639,7 +11964,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | — |
 
 ### Tribologie und Oberflächentechnik — Vorlesung
 
@@ -11655,6 +11987,19 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 08:30–10:00 | 20.04.2026–29.06.2026 | 07204.00.029 (KTmfk-SR, PGS Großer Seminarraum KTmfk, 00.029) |
+
+### Tribologie und Oberflächentechnik
+
+- **Segment:** `unit:114314` · **unitId:** `114314`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114314&periodId=589>
+
+- **ECTS-Punkte:** 2.5
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Turbomaschinen
 
@@ -11716,7 +12061,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87654&periodId=589>
 
 - **Veranstaltungsart:** Tutorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 11501.01.105 (H6 Hörsaal 6) |
 
 ### Tutorium zu Grundlagen der Elektrotechnik I (MT und ME)
 
@@ -11758,14 +12110,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Tutorium
 - **Turnus:** nur im Wintersemester
 
-### Tutorium zur Höheren Festigkeitslehre
-
-- **Segment:** `unit:86756` · **unitId:** `86756`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86756&periodId=589>
-
-- **Veranstaltungsart:** Tutorium
-- **Turnus:** nur im Wintersemester
-
 ### Tutorium zur Linearen Kontinuumsmechanik / Linear Continuum Mechanics - Tutorials
 
 - **Segment:** `unit:82537` · **unitId:** `82537`
@@ -11780,7 +12124,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82643&periodId=589>
 
 - **Veranstaltungsart:** Tutorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 11907.01.040 (H18) |
 
 ### Tutorium zur Nichtlinearen Kontinuumsmechanik
 
@@ -11788,7 +12139,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134220&periodId=589>
 
 - **Veranstaltungsart:** Tutorium
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 12:15–13:45 | 17.04.2026–17.07.2026 | 10601.00.044 (SR TM Seminarraum Technische Mechanik, Raum-Nr. 00.044 (Technische Fakultät, Campus Süd)) |
 
 ### Tutorium zur Statik und Festigkeitslehre
 
@@ -11834,7 +12192,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 08:15–11:45 | 16.04.2026–16.07.2026 | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
 
 ### Umformtechnik Vertiefung
 
@@ -12049,7 +12414,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 16:15–17:45 | 15.04.2026–15.07.2026 | 54201.00.030 ( Hörsaal - Studienzentrum Stintzingstraße) |
 
 ### Vorlesung Maschinenelemente I
 
@@ -12066,7 +12438,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 54201.00.030 ( Hörsaal - Studienzentrum Stintzingstraße) |
 
 ### Vorlesung zu Simulation  und wissenschaftliches Rechnen 1
 
@@ -12231,7 +12610,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91686&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | 12104.01.421 (KS I Kurssaal I Hanns-Hofmann-Hörsaal) |
+| Einzeltermin | Di | 14:15–15:45 | 30.06.2026 | — |
 
 ### Wärmekraftanlagen und Kraftwerkstechnik — Vorlesung
 
@@ -12242,12 +12629,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 3.0
 - **Turnus:** nur im Wintersemester
 
-### Übung  zur Statik und Festigkeitslehre — Tutorium
+### Übung  zur Statik und Festigkeitslehre
 
 - **Segment:** `unit:91315` · **unitId:** `91315`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91315&periodId=589>
 
-- **Veranstaltungsart:** Tutorium
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
@@ -12395,7 +12782,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 16:15–17:45 | 30.04.2026–16.07.2026 | 11302.02.133 (02.133-113 Übungsraum) |
 
 ### Übung zu Eingebettete Systeme
 
@@ -12453,7 +12847,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90310&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:15–13:45 | 20.04.2026–13.07.2026 | 12401.00.111 (0.111 Seminarraum 0.111) |
 
 ### Übung zu Handhabungs- und Montagetechnik
 
@@ -12517,7 +12918,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 12801.01.255 (01.255-128 Besprechungsraum) |
+| wöchentlich | Di | 14:15–15:45 | 14.04.2026–14.07.2026 | 12801.01.255 (01.255-128 Besprechungsraum) |
 
 ### Übung zu Produktionsprozesse in der Elektronik
 
@@ -12543,15 +12944,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:82721` · **unitId:** `82721`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82721&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
-### Übung zu Quantenelektronik I - Tunnelbauelemente
-
-- **Segment:** `unit:128949` · **unitId:** `128949`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128949&periodId=589>
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
@@ -12714,6 +13106,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 11501.02.224 (02.224 Cauerstr.9 Seminarraum) |
+
 ### Übungen zu Betriebsmittel und Komponenten elektrischer Energiesysteme
 
 - **Segment:** `unit:86492` · **unitId:** `86492`
@@ -12798,7 +13196,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83952&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:15–13:45 | 21.04.2026–14.07.2026 | 11501.00.154 (0.154-115 Seminar) |
 
 ### Übungen zu Entwurf Integrierter Schaltungen I
 
@@ -12877,7 +13282,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84135&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 12401.00.111 (0.111 Seminarraum 0.111) |
 
 ### Übungen zu Hardware-Software-Co-Design
 
@@ -12951,7 +13363,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83372&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | 11501.04.222 (04.222 EL4.14 &quot;Tietze-Schenk-Saal&quot;) |
+| wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | 11501.04.221 (EL 4.13 Praktikumsraum) |
 
 ### Übungen zu Planung elektrischer Energieversorgungsnetze
 
@@ -12991,21 +13411,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 12401.00.111 (0.111 Seminarraum 0.111) |
 
-### Übungen zu Quantenelektronik IV - Spintronik und "Quantum Computation"
-
-- **Segment:** `unit:109962` · **unitId:** `109962`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=109962&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
 ### Übungen zu Quanteninformationstechnologie
 
 - **Segment:** `unit:90923` · **unitId:** `90923`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90923&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Wintersemester
 
 ### Übungen zu Schaltnetzteile
@@ -13135,14 +13547,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
 
-### Übungen zur Höheren Festigkeitslehre
-
-- **Segment:** `unit:85758` · **unitId:** `85758`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85758&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
 ### Übungen zur Linearen Kontinuumsmechanik / Linear Continuum Mechanics - Exercises
 
 - **Segment:** `unit:84512` · **unitId:** `84512`
@@ -13166,14 +13570,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 10:15–11:45 | 20.04.2026–13.07.2026 | 11901.00.236 (K1-119 Brose-Saal) |
 
-### Übungen zur Mathematik für Ingenieure E3: ET, IuK, ME
-
-- **Segment:** `unit:83192` · **unitId:** `83192`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83192&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
 ### Übungen zur Mehrkörperdynamik
 
 - **Segment:** `unit:82710` · **unitId:** `82710`
@@ -13188,7 +13584,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83439&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
 
 ### Übungen zur Nichtlinearen Kontinuumsmechanik
 
@@ -13196,7 +13599,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83905&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 11901.00.226 (H8 Hörsaal 8) |
 
 ### Übungen zur Numerik II für Ingenieure
 

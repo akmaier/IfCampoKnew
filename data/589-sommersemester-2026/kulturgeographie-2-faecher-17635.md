@@ -1169,8 +1169,8 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 14:15–15:15 | 05.02.2026 | 55801.00.215 (00.215 Seminarraum) |
-| wöchentlich | Mo | 14:15–15:45 | 20.04.2026–13.07.2026 | 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
+| Einzeltermin | Mo | 16:00–17:00 | 13.04.2026 | — |
+| wöchentlich | Do | 14:15–17:45 | 23.04.2026–28.05.2026 | 55801.00.210 (00.210 Seminarraum) 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
 
 ### Sem-KG - Hauptseminar Kulturgeographie - Hauptseminar
 
@@ -1187,8 +1187,8 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 14:15–15:15 | 05.02.2026 | 55801.00.215 (00.215 Seminarraum) |
-| wöchentlich | Mo | 14:15–15:45 | 20.04.2026–13.07.2026 | 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
+| Einzeltermin | Mo | 16:00–17:00 | 13.04.2026 | — |
+| wöchentlich | Do | 14:15–17:45 | 23.04.2026–28.05.2026 | 55801.00.210 (00.210 Seminarraum) 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
 
 ### Sem-KG - Hauptseminar Kulturgeographie - Hauptseminar
 
@@ -1205,8 +1205,8 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 14:15–15:15 | 05.02.2026 | 55801.00.215 (00.215 Seminarraum) |
-| wöchentlich | Mo | 14:15–15:45 | 20.04.2026–13.07.2026 | 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
+| Einzeltermin | Mo | 16:00–17:00 | 13.04.2026 | — |
+| wöchentlich | Do | 14:15–17:45 | 23.04.2026–28.05.2026 | 55801.00.210 (00.210 Seminarraum) 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
 
 ### VL St - Vorlesung Methodologie und Statistik (Vorlesung Qualitative und quantitative Methoden) (PO2022) - Vorlesung
 
@@ -1216,7 +1216,16 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
+| Einzeltermin | Do | 08:15–09:45 | 30.07.2026 | 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
+| Einzeltermin | Mi | 10:15–11:45 | 07.10.2026 | 55801.00.210 (00.210 Seminarraum) |
 
 ### VL St - Vorlesung Methodologie und Statistik (Vorlesung Qualitative und quantitative Methoden) (PO2022) - Vorlesung
 
@@ -1226,7 +1235,16 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
+| Einzeltermin | Do | 08:15–09:45 | 30.07.2026 | 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
+| Einzeltermin | Mi | 10:15–11:45 | 07.10.2026 | 55801.00.210 (00.210 Seminarraum) |
 
 ### VL St - Vorlesung Methodologie und Statistik (Vorlesung Qualitative und quantitative Methoden) (PO2022) - Vorlesung
 
@@ -1236,7 +1254,16 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
+| Einzeltermin | Do | 08:15–09:45 | 30.07.2026 | 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
+| Einzeltermin | Mi | 10:15–11:45 | 07.10.2026 | 55801.00.210 (00.210 Seminarraum) |
 
 ### VL St - Vorlesung Methodologie und Statistik (Vorlesung Qualitative und quantitative Methoden) (PO2022) - Vorlesung
 
@@ -1246,4 +1273,13 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
+| Einzeltermin | Do | 08:15–09:45 | 30.07.2026 | 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
+| Einzeltermin | Mi | 10:15–11:45 | 07.10.2026 | 55801.00.210 (00.210 Seminarraum) |

@@ -122,7 +122,14 @@ _Section: Frühstudium_
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 18:15–19:45 | 16.04.2026–16.07.2026 | 08901.00.112 ( 00.112 Seminarraum 2) |
 
 ### Ba-Vorl: International Politics (only IBS/IES, WiWi) - Vorlesung
 
@@ -198,7 +205,14 @@ _Section: Frühstudium_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83990&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 08:30–10:00 | 15.04.2026–15.07.2026 | 12801.01.210 (H11) |
 
 ### Chinesisch I  für Studierende aller Fachrichtungen - Übung
 
@@ -215,8 +229,8 @@ _Section: Frühstudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 17:45–19:15 | 15.04.2026–15.07.2026 | 00501.00.014 ( KH 0.014 Hörsaal Kollegienhaus (SR) - 42 Plätze) |
-| wöchentlich | Mo | 17:45–19:15 | 20.04.2026–13.07.2026 | 00501.00.014 ( KH 0.014 Hörsaal Kollegienhaus (SR) - 42 Plätze) |
+| wöchentlich | Mi | 16:00–17:30 | 15.04.2026–15.07.2026 | 00501.00.014 ( KH 0.014 Hörsaal Kollegienhaus (SR) - 42 Plätze) |
+| wöchentlich | Mo | 16:00–17:30 | 20.04.2026–13.07.2026 | 00501.02.018 ( KH 2.018 Hörsaal Kollegienhaus (SR)) |
 
 ### Communication orale et civilisation - Übung
 
@@ -292,7 +306,14 @@ _Section: Frühstudium_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91021&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| nach Vereinbarung | — | — | — | — |
 
 ### Español intermedio I - Übung
 
@@ -349,7 +370,15 @@ _Section: Frühstudium_
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:30–18:00 | 20.04.2026–13.07.2026 | — |
+| wöchentlich | Mi | 16:30–18:00 | 15.04.2026–15.07.2026 | — |
 
 ### Grundseminar Culture - Grundseminar
 
@@ -365,7 +394,7 @@ _Section: Frühstudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
+| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 00501.00.020 ( KH 0.020 Hörsaal Kollegienhaus) |
 
 ### Grundseminar English Linguistics I (Erlangen) - Grundseminar
 
@@ -381,7 +410,7 @@ _Section: Frühstudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Fr | 10:00–12:00 | 17.04.2026–17.07.2026 | 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
+| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 00501.01.013 ( KH 1.013 Hörsaal Kollegienhaus) |
 
 ### Grundseminar English Linguistics I (Nürnberg) - Grundseminar
 
@@ -477,7 +506,14 @@ _Section: Frühstudium_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94895&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| nach Vereinbarung | — | — | — | — |
 
 ### JazzRockPop-Chor (Schneider) - Übung
 
@@ -487,7 +523,14 @@ _Section: Frühstudium_
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 19:30–21:30 | 16.04.2026–16.07.2026 | 00901.00.031 (Orangerie - Eingang C, Musiksaal) |
 
 ### Lateinisch-deutsche Übersetzungsübungen - Unterstufe  - Übung
 
@@ -513,7 +556,14 @@ _Section: Frühstudium_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 11:30–13:00 | 13.04.2026–13.07.2026 | 21101.01.213 (LG H4 (814 Plätze) Hörsaal) |
 
 ### Mikroökonomie - Vorlesung
 
@@ -539,7 +589,15 @@ _Section: Frühstudium_
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 4.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:00–12:45 | 14.04.2026–14.07.2026 | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
+| wöchentlich | Do | 13:00–14:30 | 16.04.2026–16.07.2026 | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
 
 ### Musiktheorie und Gehörbildung - Übung
 
@@ -654,7 +712,15 @@ _Section: Frühstudium_
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:15–17:45 | 13.04.2026–13.07.2026 | 54801.02.012 (SP 02.012 Schlossplatz 1) |
+| wöchentlich | Mi | 16:15–17:45 | 15.04.2026–15.07.2026 | 54801.02.012 (SP 02.012 Schlossplatz 1) |
 
 ### Russisch A2: Elementarkurs II - Übung
 
@@ -664,7 +730,15 @@ _Section: Frühstudium_
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 54201.01.008 ( Übungsraum I/8 Studienzentrum) |
+| wöchentlich | Do | 16:15–17:45 | 16.04.2026–16.07.2026 | 54201.01.008 ( Übungsraum I/8 Studienzentrum) |
 
 ### Russisch online A1 - Übung
 
@@ -684,7 +758,14 @@ _Section: Frühstudium_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87900&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
 
 ### Schwedisch: EK IV (GeR B2) - Übung
 
@@ -736,7 +817,7 @@ _Section: Frühstudium_
 |---|---|---|---|---|
 | nach Vereinbarung | — | — | — | — |
 
-### Stimmbildung und Sprecherziehung (Bobe) - Übung
+### Stimmbildung und Sprecherziehung (Eismont) - Übung
 
 - **Segment:** `exam:13838261` · **unitId:** `87079`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17596|exam:13837955|exam:13838261>
@@ -825,7 +906,15 @@ _Section: Frühstudium_
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 16:15–17:45 | 15.04.2026–15.07.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
+| wöchentlich | Mo | 16:15–17:45 | 20.04.2026–13.07.2026 | 00501.00.020 ( KH 0.020 Hörsaal Kollegienhaus) |
 
 ### Türkisch: Elementarkurs III - Übung
 
@@ -835,7 +924,15 @@ _Section: Frühstudium_
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 18:15–19:45 | 14.04.2026–14.07.2026 | 54801.01.013 (SP 01.013 Schlossplatz 1) |
+| wöchentlich | Do | 18:15–19:45 | 16.04.2026–16.07.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
 
 ### Türkisch: Elementarkus II - Übung
 
@@ -948,7 +1045,19 @@ _Section: Frühstudium_
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:15–13:00 | 16.04.2026–16.07.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
+| wöchentlich | Do | 13:30–15:30 | 16.04.2026–16.07.2026 | — |
+| wöchentlich | Do | 16:00–18:00 | 16.04.2026–16.07.2026 | — |
+| wöchentlich | Fr | 12:15–13:00 | 17.04.2026–17.07.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
+| wöchentlich | Fr | 13:30–15:30 | 17.04.2026–17.07.2026 | — |
+| wöchentlich | Fr | 16:00–18:00 | 17.04.2026–17.07.2026 | — |
 
 ### Ökologie und Diversität B: Übungen zur Biologie und Systematik einheimischer Pflanzen - Vorlesung mit Übung
 
@@ -1032,7 +1141,14 @@ _Section: Frühstudium_
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 16:15–17:45 | 16.04.2026–16.07.2026 | 11901.U1.245 (K2-119 Seminarraum) |
 
 ### BS franz. Lit.wiss. - Basisseminar französische Literaturwissenschaft A - Einführungskurs
 
@@ -1077,6 +1193,13 @@ _Section: Frühstudium_
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:15–13:45 | 20.04.2026–13.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+| wöchentlich | Mi | 16:15–17:45 | 22.04.2026–08.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
 ### CA: Ikonographie - Einführung in die christliche Ikonographie - Einführungskurs
 
@@ -1235,7 +1358,14 @@ _Section: Frühstudium_
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:45–14:15 | 14.04.2026–14.07.2026 | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
 
 ### Ling BM-2 - Ling BM-2: Einführung in die historische Sprachwissenschaft (Erlangen, nur für BA, LA Gym, LA RS) - Kurs
 
@@ -1351,7 +1481,14 @@ _Section: Frühstudium_
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 4.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | — |
 
 ### Modul 33221 Seminar - Bild und Text im Früh- und Hochmittelalter [Seminar Paläographie und Kodikologie I] - Seminar
 
@@ -1414,7 +1551,14 @@ _Section: Frühstudium_
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 05901.03.010 (PSG II R 3.010 Mittellateinische Bibliothek) |
 
 ### Modul 74421 Hauptseminar - Schiller, Shakespeare, Hans Sachs u.v.m. Die Gesta Romanorum, eine mittelalterliche Fundgrube berühmter Erzählstoffe [Hauptseminar Mittellateinische Philologie] - Hauptseminar
 
@@ -1474,7 +1618,16 @@ _Section: Frühstudium_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85749&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 18:00–19:00 | 14.04.2026–14.07.2026 | 13003.00.874 (HD Hörsaal Physikum) |
+| wöchentlich | Di | 18:00–19:00 | 14.04.2026–14.07.2026 | 13003.00.836 (HF Hörsaal Physikum) |
+| wöchentlich | Fr | 17:00–18:00 | 17.04.2026–17.07.2026 | 13003.00.874 (HD Hörsaal Physikum) |
 
 ### NW-1 - Einführung in die Astronomie 2 - Vorlesung
 
@@ -1495,6 +1648,7 @@ _Section: Frühstudium_
 | Einzeltermin | Di | 16:00–19:00 | 14.07.2026 | 13003.00.827 (HG Hörsaal Physikum) |
 | Einzeltermin | Di | 16:00–19:00 | 14.07.2026 | 13003.00.877 (HC Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 | Einzeltermin | Di | 16:00–19:00 | 14.07.2026 | 13003.00.836 (HF Hörsaal Physikum) |
+| Einzeltermin | Fr | 13:00–16:00 | 25.09.2026 | — |
 
 ### ORGWST - Organische Werkstoffe - Vorlesung mit Übung
 
@@ -1644,6 +1798,7 @@ _Section: Frühstudium_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### SuF-VL - Statik und Festigkeitslehre - Vorlesung
@@ -1663,13 +1818,13 @@ _Section: Frühstudium_
 | wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | 11901.00.222 (H7 Hörsaal 7) |
 | wöchentlich | Mi | 10:15–11:45 | 22.04.2026–15.07.2026 | 11901.00.222 (H7 Hörsaal 7) |
 
-### SuF-Ü - Übung  zur Statik und Festigkeitslehre - Tutorium
+### SuF-Ü - Übung  zur Statik und Festigkeitslehre - Übung
 
 - **Segment:** `exam:13838154` · **unitId:** `91315`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17596|exam:13837955|exam:13838154>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91315&periodId=589>
 
-- **Veranstaltungsart:** Tutorium
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 

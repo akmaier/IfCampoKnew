@@ -4,7 +4,7 @@ period_name: "Wintersemester 2025/26"
 campo_segment: "title:16774"
 campo_path: "title:16758|title:16768|title:16774"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774"
-po_version_count: 317
+po_version_count: 331
 course_count: 528
 fau_studiengang:
   - title: "Medizin (Staatsexamen)"
@@ -149,7 +149,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (317)
+## Prüfungsordnungs-Versionen (331)
 
 ### 23500 Vorbereitung Wissenschaftliches Arbeiten
 
@@ -615,6 +615,76 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Campo-Segment:** `exam:15761821`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12176974|exam:12177312|exam:12177512|exam:15761821>
+
+### 24755 Die Pfeile Apolls. Seuchen in der Antike von Troja bis zur Justinianischen Pest.
+
+- **Campo-Segment:** `exam:17788679`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12176974|exam:12176976|exam:12177085|exam:17788679>
+
+### 24760 Die Pfeile Apolls. Seuchen in der Antike von Troja bis zur Justinianischen Pest.
+
+- **Campo-Segment:** `exam:17788739`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12176974|exam:12177312|exam:12177512|exam:17788739>
+
+### 24765 Klinische Untersuchung bei schwerstkranken Patientinnen/Patienten; Schwerpunkte Innere Medizin, Trauma und Notfall, Neurologie
+
+- **Campo-Segment:** `exam:17788871`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12176974|exam:12177312|exam:12177512|exam:17788871>
+
+### 24770 Seminar zum Schreiben wissenschaftlicher Arbeiten in der Palliativversorgung
+
+- **Campo-Segment:** `exam:17788992`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12176974|exam:12177312|exam:12177512|exam:17788992>
+
+### 24775 Forschungswerkstatt I, Projektplanung: State-of-the-Art, Forschungsfragen, Ethik und Datenschutz
+
+- **Campo-Segment:** `exam:17788972`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12176974|exam:12177312|exam:12177512|exam:17788972>
+
+### 24780 Praktische Kindergastro für Foodies
+
+- **Campo-Segment:** `exam:17789042`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12176974|exam:12177312|exam:12177512|exam:17789042>
+
+### 24785 Kommunikationstraining für Studierende in Gesundheitsberufen
+
+- **Campo-Segment:** `exam:17789072`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12176974|exam:12177312|exam:12177512|exam:17789072>
+
+### 24790 Peer Support in Medical Education
+
+- **Campo-Segment:** `exam:17789233`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12176974|exam:12177312|exam:12177512|exam:17789233>
+
+### 24795 Innere Medizin - Lernen fürs wirkliche medizinische Leben und das Staatsexamen
+
+- **Campo-Segment:** `exam:17796175`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12176974|exam:12177312|exam:12177512|exam:17796175>
+
+### 24800 Von Atomen zur Therapien: Die Rolle von Physik und Chemie in der modernen Medizin
+
+- **Campo-Segment:** `exam:17796205`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12176974|exam:12177312|exam:12177512|exam:17796205>
+
+### 24805 Theranostik: Personalisierte Medizin
+
+- **Campo-Segment:** `exam:17796235`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12176974|exam:12177312|exam:12177512|exam:17796235>
+
+### 24810 Medizinphysik
+
+- **Campo-Segment:** `exam:17796285`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12176974|exam:12177312|exam:12177512|exam:17796285>
+
+### 24815 Studentisches Tumorboard
+
+- **Campo-Segment:** `exam:17796328`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12176974|exam:12177312|exam:12177512|exam:17796328>
+
+### 24820 Moderne Medizin machen mit Daten: Digitale Onkologie zwischen Register, KI und Vibe-Coding
+
+- **Campo-Segment:** `exam:17796366`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12176974|exam:12177312|exam:12177512|exam:17796366>
 
 ### 24956 Ärztliche Gesprächsführung
 
@@ -1776,7 +1846,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12179865|exam:12180331|exam:13728000>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132399&periodId=565>
 
+- **Veranstaltungsart:** Kurs
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -1790,7 +1862,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12179865|exam:12180134|exam:13728024>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132400&periodId=565>
 
+- **Veranstaltungsart:** Kurs
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -1932,7 +2006,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12179865|exam:12180441|exam:13729097>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132412&periodId=565>
 
+- **Veranstaltungsart:** Kurs
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -1962,7 +2038,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12179865|exam:12179932|exam:13729145>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132414&periodId=565>
 
+- **Veranstaltungsart:** Kurs
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -2057,14 +2135,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132424&periodId=565>
 
 - **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Do | 17:30–20:00 | 30.10.2025 | — |
 
 ### 023 PERLE Sonografie für Anfängerinnen und Anfänger, Do., 30.10.2025, 17:00 - 19:30 Uhr, Skillslab Perle - Kurs
 
@@ -2072,7 +2143,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12179865|exam:12180331|exam:13729366>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132425&periodId=565>
 
+- **Veranstaltungsart:** Kurs
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -2567,14 +2640,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132596&periodId=565>
 
 - **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 16:45–19:00 | 21.11.2025 | — |
 
 ### 057 PERLE Nahkturs 1, Sa., 22.11.2025, 10:00 - 12:00 Uhr, Skillslab Perle - Kurs
 
@@ -2582,7 +2648,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12179865|exam:12179932|exam:13731925>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132597&periodId=565>
 
+- **Veranstaltungsart:** Kurs
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -2612,7 +2680,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12179865|exam:12180008|exam:13741110>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132736&periodId=565>
 
+- **Veranstaltungsart:** Kurs
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -2627,14 +2697,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132738&periodId=565>
 
 - **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | So | 10:00–13:00 | 23.11.2025 | — |
 
 ### 063 PERLE Blutkurs 1, Mo., 24.11.2025, 17:00 - 19:30 Uhr, SkillsLab Perle - Kurs
 
@@ -2786,7 +2849,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12179865|exam:12180169|exam:13741324>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132765&periodId=565>
 
+- **Veranstaltungsart:** Kurs
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -2880,7 +2945,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12179865|exam:12180039|exam:13741508>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132774&periodId=565>
 
+- **Veranstaltungsart:** Kurs
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -2910,7 +2977,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12179865|exam:12180427|exam:13741634>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132777&periodId=565>
 
+- **Veranstaltungsart:** Kurs
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -2956,7 +3025,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12179865|exam:12179932|exam:13742129>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132802&periodId=565>
 
+- **Veranstaltungsart:** Kurs
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -3130,7 +3201,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12179865|exam:12179903|exam:13816863>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133824&periodId=565>
 
+- **Veranstaltungsart:** Kurs
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -3176,7 +3249,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12179865|exam:12180433|exam:13744918>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132831&periodId=565>
 
+- **Veranstaltungsart:** Kurs
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -3222,7 +3297,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12179865|exam:12180008|exam:13745009>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132835&periodId=565>
 
+- **Veranstaltungsart:** Kurs
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -3354,6 +3431,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179105>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113143&periodId=565>
 
+- **Veranstaltungsart:** Sonstige Lehrveranstaltung
+- **Turnus:** in jedem Semester
+
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
@@ -3366,7 +3446,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12178753>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82669&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -3497,7 +3580,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12178837>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88835&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -3639,7 +3725,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12178960>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93280&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -3683,7 +3772,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12178797>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85977&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -3716,7 +3808,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12178829>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88248&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -3824,7 +3919,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12178943>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127477&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -3892,7 +3990,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12178917>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91732&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -3986,7 +4087,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12178754>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82734&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -4103,7 +4207,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12178933>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124768&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -4116,6 +4223,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:12179100` · **unitId:** `113007`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179100>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113007&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -4144,7 +4254,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179048>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107140&periodId=565>
 
+- **Veranstaltungsart:** Kurs
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -4196,7 +4308,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12178953>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92847&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -4262,7 +4377,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12178864>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89029&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -4429,7 +4547,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12178990>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95731&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -4662,6 +4783,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179075>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111541&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 4.0
+- **Turnus:** in jedem Semester
+
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
@@ -4674,7 +4799,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12178799>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86009&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -4687,6 +4815,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:12179071` · **unitId:** `111533`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179071>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111533&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -4752,7 +4884,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12178807>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86547&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 7.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -4836,7 +4971,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12178985>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95042&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -4887,7 +5025,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12178852>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89739&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Französisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -4937,7 +5078,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12178833>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87842&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Französisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -5019,7 +5163,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12178819>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87095&periodId=565>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -5085,13 +5231,20 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179110>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113240&periodId=565>
 
+- **Veranstaltungsart:** Online-Kurs
+- **ECTS-Punkte:** 2.0
+- **Turnus:** in jedem Semester
+
 ### Isländisch: Elementarkurs I - ONLINE (GeR A1) - Kurs
 
 - **Segment:** `exam:12178924` · **unitId:** `92069`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12178924>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92069&periodId=565>
 
+- **Veranstaltungsart:** Kurs
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -5106,11 +5259,19 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179121>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113458&periodId=565>
 
+- **Veranstaltungsart:** Online-Kurs
+- **ECTS-Punkte:** 4.0
+- **Turnus:** in jedem Semester
+
 ### ItaliaNet A2 NUR ONLINE - VHB-Kurs  - Online-Kurs
 
 - **Segment:** `exam:12179122` · **unitId:** `113461`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179122>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113461&periodId=565>
+
+- **Veranstaltungsart:** Online-Kurs
+- **ECTS-Punkte:** 4.0
+- **Turnus:** in jedem Semester
 
 ### ItaliaNet B1 NUR ONLINE - VHB-Kurs  - Online-Kurs
 
@@ -5118,11 +5279,19 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179123>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113462&periodId=565>
 
+- **Veranstaltungsart:** Online-Kurs
+- **ECTS-Punkte:** 4.0
+- **Turnus:** in jedem Semester
+
 ### ItaliaNet B2 NUR ONLINE - VHB-Kurs  - Online-Kurs
 
 - **Segment:** `exam:12179124` · **unitId:** `113464`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179124>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113464&periodId=565>
+
+- **Veranstaltungsart:** Online-Kurs
+- **ECTS-Punkte:** 4.0
+- **Turnus:** in jedem Semester
 
 ### Italienisch: Elementarkurs 2 ItaliaNet A2 (Blended Learning Kurs) - Übung
 
@@ -5147,7 +5316,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:13650336>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89884&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Italienisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -5178,7 +5350,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12178910>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90992&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Italienisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -5432,7 +5607,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12178853>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88569&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -5465,7 +5643,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179020>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100126&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -5515,7 +5696,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12178761>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83383&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
 
 #### Termine
 
@@ -5530,7 +5714,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12178854>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89769&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.0
 - **Unterrichtssprache:** Französisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -5886,6 +6073,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179107>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113236&periodId=565>
 
+- **Veranstaltungsart:** Online-Kurs
+- **ECTS-Punkte:** 4.0
+- **Turnus:** in jedem Semester
+
 ### Spanisch: ELE.O B1 - virtueller Kurs B1  - Online-Kurs
 
 - **Segment:** `exam:12179108` · **unitId:** `113238`
@@ -5966,7 +6157,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12178987>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95424&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Spanisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -6007,7 +6201,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12178855>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89833&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Französisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -6072,7 +6269,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12178973>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94315&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -6122,7 +6322,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12178912>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91300&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -6189,7 +6392,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12178751>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82635&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -6221,6 +6427,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179146>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37395&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -6235,6 +6442,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179147>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37396&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -6294,6 +6502,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179153>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37402&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -6382,6 +6591,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179161>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37410&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -6426,6 +6636,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179172>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37422&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -6500,6 +6711,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179201>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37451&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -6559,6 +6771,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179217>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37467&periodId=565>
 
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -6618,6 +6831,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179244>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37494&periodId=565>
 
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -6677,6 +6891,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179267>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37517&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -6735,6 +6950,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179272>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37522&periodId=565>
 
+- **ECTS-Punkte:** 5.0
+
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
@@ -6774,6 +6991,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:12179278` · **unitId:** `37528`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179278>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37528&periodId=565>
+
+- **ECTS-Punkte:** 2.5
 
 #### Termine
 
@@ -6858,6 +7077,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179292>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37539&periodId=565>
 
+- **ECTS-Punkte:** 5.0
+
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
@@ -6897,6 +7118,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:12179295` · **unitId:** `37542`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179295>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37542&periodId=565>
+
+- **ECTS-Punkte:** 2.5
 
 #### Termine
 
@@ -6955,6 +7178,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179316>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37553&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -7028,6 +7252,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179356>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37594&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -7087,6 +7312,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179365>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37603&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -7145,6 +7371,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179384>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37622&periodId=565>
 
+- **ECTS-Punkte:** 2.5
+
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
@@ -7185,6 +7413,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:12179397` · **unitId:** `37635`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179397>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37635&periodId=565>
+
+- **ECTS-Punkte:** 5.0
 
 #### Termine
 
@@ -7243,6 +7473,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179405>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37645&periodId=565>
 
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -7301,6 +7532,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179411>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37651&periodId=565>
 
+- **ECTS-Punkte:** 5.0
+
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
@@ -7326,6 +7559,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:12179415` · **unitId:** `37655`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179415>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37655&periodId=565>
+
+- **ECTS-Punkte:** 2.5
 
 #### Termine
 
@@ -7383,6 +7618,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179429>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37670&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -7471,6 +7707,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179484>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43877&periodId=565>
 
+- **ECTS-Punkte:** 2.5
+
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
@@ -7527,6 +7765,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179501>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44944&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -7584,6 +7823,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179524>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47042&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -7628,6 +7868,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179529>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47077&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -7657,6 +7898,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179532>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47084&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -7701,6 +7943,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179556>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47127&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -7715,6 +7958,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179567>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=48063&periodId=565>
 
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -7774,6 +8018,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179620>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55011&periodId=565>
 
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -7832,6 +8077,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179640>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74770&periodId=565>
 
+- **ECTS-Punkte:** 2.0
+
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
@@ -7874,6 +8121,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179661>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78744&periodId=565>
 
+- **ECTS-Punkte:** 4.0
 - **Unterrichtssprache:** Spanisch
 
 #### Termine
@@ -8256,6 +8504,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179729>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123894&periodId=565>
 
+- **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -8285,6 +8534,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179731>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123896&periodId=565>
 
+- **ECTS-Punkte:** 4.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -8344,6 +8594,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179740>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123905&periodId=565>
 
+- **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -8372,6 +8623,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179750>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125763&periodId=565>
 
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -8401,6 +8653,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179759>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125772&periodId=565>
 
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -8430,6 +8683,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179763>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125776&periodId=565>
 
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -8561,6 +8815,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:15943010>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133458&periodId=565>
 
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -8766,6 +9021,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179812>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47718&periodId=565>
 
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Spanisch
 
 #### Termine
@@ -8810,6 +9066,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179830>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44622&periodId=565>
 
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -8837,6 +9094,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:12179832` · **unitId:** `20809`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179832>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20809&periodId=565>
+
+- **ECTS-Punkte:** 5.0
 
 #### Termine
 
@@ -8924,6 +9183,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179838>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20816&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Italienisch
 
 #### Termine
@@ -9028,6 +9288,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12179846>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20834&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Spanisch
 
 #### Termine
@@ -9132,6 +9393,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12179865|exam:12180039|exam:12180046>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=40134&periodId=565>
 
+- **ECTS-Punkte:** 0.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -9251,6 +9513,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12179865|exam:12180186|exam:12180187>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=48405&periodId=565>
 
+- **ECTS-Punkte:** 0.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -9365,6 +9628,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12179865|exam:12180398|exam:12180399>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120916&periodId=565>
 
+- **ECTS-Punkte:** 0.0
+
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
@@ -9447,6 +9712,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12179865|exam:12180441|exam:12180442>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128687&periodId=565>
 
+- **ECTS-Punkte:** 0.0
+
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
@@ -9458,6 +9725,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:12180446` · **unitId:** `128689`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12179865|exam:12180445|exam:12180446>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128689&periodId=565>
+
+- **ECTS-Punkte:** 0.0
 
 #### Termine
 
@@ -9542,7 +9811,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12178970>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93946&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 10.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -9624,7 +9896,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12180461|exam:12180463>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96547&periodId=565>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -9655,7 +9929,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12180461|exam:12180462>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83014&periodId=565>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -9687,7 +9963,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12178868>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89230&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Italienisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -9701,7 +9980,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16774|exam:12176969|exam:12176970|exam:12178739|exam:12178742|exam:12178874>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89518&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -9811,7 +10093,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Fr | 16:15–17:45 | 24.10.2025–06.02.2026 | 05701.00.010 ( 00.010 Übungsraum 1) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (396)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (373)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -10079,14 +10361,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Application Workshop — Übung
-
-- **Segment:** `unit:127196` · **unitId:** `127196`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127196&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** in jedem Semester
-
 ### Arabisch II (B.A. Islamisch-Religiöse Studien) — Übung
 
 - **Segment:** `unit:103644` · **unitId:** `103644`
@@ -10096,7 +10370,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 10.0
 - **Turnus:** nur im Sommersemester
 
-### Arabisch III  (B. A. Islamisch-Religiöse Studien) - 2 SWS Online — Übung
+### Arabisch III  (B. A. Islamisch-Religiöse Studien) — Übung
 
 - **Segment:** `unit:85322` · **unitId:** `85322`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85322&periodId=565>
@@ -10421,15 +10695,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
-### Englisch Level 2: Editing Scientific Documents in English — Übung
-
-- **Segment:** `unit:98028` · **unitId:** `98028`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98028&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
 ### Englisch Level 3: Applying for Positions in English — Übung
 
 - **Segment:** `unit:88850` · **unitId:** `88850`
@@ -10461,15 +10726,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:98161` · **unitId:** `98161`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98161&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** in jedem Semester
-
-### Englisch Level 3: Writing and Editing Scientific Documents — Übung
-
-- **Segment:** `unit:98932` · **unitId:** `98932`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98932&periodId=565>
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
@@ -10552,51 +10808,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** in jedem Semester
 
-### English: Level 1 - Introduction to English in Engineering: Focus on Reading and Writing — Übung
-
-- **Segment:** `unit:111953` · **unitId:** `111953`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111953&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** in jedem Semester
-
-### English: Level 1 - Introduction to Scientific English — Übung
-
-- **Segment:** `unit:119868` · **unitId:** `119868`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119868&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** in jedem Semester
-
-### English: Level 1 - Technology and Engineering in Media: Focus on Listening and Speaking — Übung
-
-- **Segment:** `unit:111954` · **unitId:** `111954`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111954&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** in jedem Semester
-
-### English: Level 2 - Discussing Scientific Research — Übung
-
-- **Segment:** `unit:115695` · **unitId:** `115695`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115695&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Turnus:** in jedem Semester
-
-### English: Level 2 - Spoken English for Students of Natural Science — Übung
-
-- **Segment:** `unit:127206` · **unitId:** `127206`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127206&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Turnus:** in jedem Semester
-
 ### English: Level 2 - Writing and Presenting for Natural Scientists — Übung
 
 - **Segment:** `unit:131251` · **unitId:** `131251`
@@ -10613,37 +10824,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Do | 10:15–11:45 | 23.10.2025–05.02.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
 
-### English: Level 2 - Written English for Engineers — Übung
-
-- **Segment:** `unit:88846` · **unitId:** `88846`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88846&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Turnus:** in jedem Semester
-
-### English: Level 2 - Written English for Students of Natural Science — Übung
-
-- **Segment:** `unit:94642` · **unitId:** `94642`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94642&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 4.0
-- **Turnus:** in jedem Semester
-
 ### English: Level 3 - A Guide to Podcasting in English — Übung
 
 - **Segment:** `unit:111537` · **unitId:** `111537`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111537&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** in jedem Semester
-
-### English: Level 3 - Discovering Technology and Engineering through Podcasts — Übung
-
-- **Segment:** `unit:111538` · **unitId:** `111538`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111538&periodId=565>
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
@@ -10665,14 +10849,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Do | 10:15–11:45 | 23.10.2025–05.02.2026 | 00501.00.014 ( KH 0.014 Hörsaal Kollegienhaus (SR) - 42 Plätze) 00501.01.014 ( KH 1.014 Hörsaal Kollegienhaus) |
 
-### English: Level 3 - How to Win Any Argument — Kurs
-
-- **Segment:** `unit:134561` · **unitId:** `134561`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134561&periodId=565>
-
-- **Veranstaltungsart:** Kurs
-- **Turnus:** in jedem Semester
-
 ### English: Level 3 - Perfect your English Pronunciation and Intonation — Kurs
 
 - **Segment:** `unit:132309` · **unitId:** `132309`
@@ -10688,15 +10864,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 16:15–17:45 | 23.10.2025–05.02.2026 | 00501.00.014 ( KH 0.014 Hörsaal Kollegienhaus (SR) - 42 Plätze) |
-
-### English: Level 3 - Spoken English and Presentation Skills for Engineers — Übung
-
-- **Segment:** `unit:86425` · **unitId:** `86425`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86425&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Turnus:** in jedem Semester
 
 ### English: Level 4 -  English through Music — Übung
 
@@ -10770,15 +10937,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 12:15–13:45 | 21.10.2025–03.02.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
-
-### English: Level 4 - Writing Research Papers — Übung
-
-- **Segment:** `unit:111532` · **unitId:** `111532`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111532&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
 
 ### Erkenntnis aus Leichen(teilen): Forschen und Lehren mit menschlichen Überresten
 
@@ -11043,6 +11201,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 16:15–17:45 | 21.10.2025–03.02.2026 | 05801.04.112 ( A 602) |
+
+### Grundlagen der experimentellen Forschung für die medizinische Doktorarbeit
+
+- **Segment:** `unit:127399` · **unitId:** `127399`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127399&periodId=565>
+
+- **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Hands-on Simulation einer praktischen Doktorarbeit für Zahnmediziner
 
@@ -11328,25 +11500,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Blockveranstaltung | — | 08:30–13:05 | 06.10.2025–13.10.2025 | — |
 
-### K-P7 Praktikum Psychosomatik und Psychotherapie
-
-- **Segment:** `unit:107169` · **unitId:** `107169`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107169&periodId=565>
-
-- **Veranstaltungsart:** Praktikum
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 10:00–12:00 | 07.10.2025 | — |
-| Einzeltermin | Di | 13:00–16:00 | 07.10.2025 | — |
-| Einzeltermin | Mi | 09:00–12:00 | 08.10.2025 | — |
-| Einzeltermin | Do | 09:00–12:00 | 09.10.2025 | — |
-| Einzeltermin | Do | 13:00–16:00 | 09.10.2025 | — |
-
 ### K-P8 Blockpraktikum nach AO Chirurgie  (Chir-065)
 
 - **Segment:** `unit:83395` · **unitId:** `83395`
@@ -11524,21 +11677,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Do | 16:15–19:15 | 06.11.2025–22.01.2026 | 00501.00.023 ( KH 0.023 Hörsaal Kollegienhaus) |
 
-### K-PS19 Blockpraktikum Rechtsmedizin — Übung
-
-- **Segment:** `unit:95097` · **unitId:** `95097`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95097&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 09:00–16:00 | 22.10.2025 | 02301.00.020 (KR 1) |
-
 ### K-PS20 Bild am Dienstag - Medizin in Röntgenbildern MED 85501 — Vorlesung
 
 - **Segment:** `unit:101008` · **unitId:** `101008`
@@ -11578,14 +11716,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-### K-PS4 Epidemiologie & Medizinische Informatik /Teil Informatik, Q1 — Übung
-
-- **Segment:** `unit:92134` · **unitId:** `92134`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92134&periodId=565>
-
-- **Veranstaltungsart:** Übung
 - **Turnus:** in jedem Semester
 
 ### K-PS6 Übungen Humangenetik
@@ -11848,20 +11978,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Mi | 09:15–10:00 | 22.10.2025–28.01.2026 | — |
 | wöchentlich | Do | 10:15–11:45 | 23.10.2025–29.01.2026 | — |
 
-### K-V22 Vorlesung Rechtsmedizin
-
-- **Segment:** `unit:105972` · **unitId:** `105972`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=105972&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 08:15–09:45 | 13.10.2025–26.01.2026 | 02301.01.020 (HS Rechtsmedizin) 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
-
 ### K-V24 Ringvorlesung Prävention und Gesundheitsförderung, Q10
 
 - **Segment:** `unit:91415` · **unitId:** `91415`
@@ -11957,23 +12073,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 09:15–10:00 | 20.10.2025–02.02.2026 | — |
-
-### K-V33 Vorlesung Psychosomatik und Psychotherapie
-
-- **Segment:** `unit:87588` · **unitId:** `87588`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87588&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 09:15–10:00 | 22.10.2025–28.01.2026 | 07901.00.052 (Ernst-Freiberger-sen.-Hörsaal) |
-| wöchentlich | Do | 09:15–10:00 | 23.10.2025–29.01.2026 | 07901.00.052 (Ernst-Freiberger-sen.-Hörsaal) |
 
 ### K-V34  Ringvorlesung Gesundheitsökonomie, Gesundheitssystem, öffentliches Gesundheitswesen, Q3
 
@@ -12122,13 +12221,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
-
-### Kursbuchungstest - Blockpraktikum 5 (Recht)
-
-- **Segment:** `unit:138192` · **unitId:** `138192`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138192&periodId=565>
-
-- **Veranstaltungsart:** Praktikum
 
 ### L' italiano per il lavoro: tipologie testuali — Übung
 
@@ -12341,6 +12433,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120718&periodId=565>
 
 - **Veranstaltungsart:** Seminar
+
+### MED 44351 Hands-on Simulation einer praktischen Doktorarbeit für Zahnmediziner — Kurs
+
+- **Segment:** `unit:124057` · **unitId:** `124057`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124057&periodId=565>
+
+- **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 08:00–16:00 | 09.02.2026–13.02.2026 | — |
 
 ### MED 45041: Deutsche Emigration nach Brasilien — Seminar
 
@@ -12803,6 +12910,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mi | 17:15–18:45 | 22.10.2025–04.02.2026 | — |
 
+### MED 80871  Ist eine experimentelle Doktorarbeit das Richtige für mich? — Seminar
+
+- **Segment:** `unit:90111` · **unitId:** `90111`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90111&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
 ### MED 80871  Ist eine experimentelle Doktorarbeit das Richtige für mich?- Wahlpflichtfach im 2. Studienabschnitt — Anleitung zu wiss. Arbeiten
 
 - **Segment:** `unit:97300` · **unitId:** `97300`
@@ -13006,14 +13122,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-### MED 87001 Suchtdrogen und die Neurochemie der Sucht — Seminar
-
-- **Segment:** `unit:103116` · **unitId:** `103116`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103116&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nur im Sommersemester
-
 ### MED 87351 Moderne Strahlentherapie — Seminar
 
 - **Segment:** `unit:83279` · **unitId:** `83279`
@@ -13029,6 +13137,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Fr | 14:00–15:00 | 24.10.2025–06.02.2026 | — |
 
+### MED 87501 Neurologische Differentialdiagnosen am Patientenbett — Seminar
+
+- **Segment:** `unit:95781` · **unitId:** `95781`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95781&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
 ### MED 87751 Phoniatrie und Pädaudiologie in der Praxis — Seminar
 
 - **Segment:** `unit:90760` · **unitId:** `90760`
@@ -13043,51 +13160,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Blockveranstaltung | — | 08:00–16:00 | 16.03.2026–19.03.2026 | — |
-
-### MED 88101 Psychiatrische Grundlagenforschung - Tiermodelle gesunden und pathologischen Verhaltens — Seminar
-
-- **Segment:** `unit:83851` · **unitId:** `83851`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83851&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 11:00–13:00 | 22.10.2025–04.02.2026 | — |
-
-### MED 88601 Tiermodelle psychiatrischer Hirnforschung - Praktikum Teil I zur in vivo Mikrodialyse und HPLC-EC
-
-- **Segment:** `unit:103877` · **unitId:** `103877`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103877&periodId=565>
-
-- **Veranstaltungsart:** Praktikum
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 14:00–16:00 | 24.10.2025–06.02.2026 | — |
-
-### MED 88651 Tiermodelle psychiatrischer Hirnforschung - Praktikum Teil II - Verstärkereffekte von Suchtdrogen
-
-- **Segment:** `unit:88144` · **unitId:** `88144`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88144&periodId=565>
-
-- **Veranstaltungsart:** Praktikum
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 16:00–18:00 | 24.10.2025–06.02.2026 | — |
 
 ### MED 88751 Tropenmedizin einschließlich Impfungen — Vorlesung
 
@@ -13231,21 +13303,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:00–16:00 | 13.10.2025–02.02.2026 | — |
-
-### MED 89961 Die Neurotransmittersysteme des Gehirns: Struktur und Funktion — Seminar
-
-- **Segment:** `unit:91107` · **unitId:** `91107`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91107&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| 14-täglich | Do | 16:00–20:00 | 23.10.2025–29.01.2026 | 07902.00.842 (Konferenzraum Psychiatrische Klinik) |
 
 ### MED 89971: Gendermedizin: Wege zu einer geschlechtersensiblen Medizin — Seminar
 
@@ -13439,14 +13496,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-### MED76651 Spezielle Gynäkologie / Gebursthilfe und Reproduktionsmedizin — Seminar
-
-- **Segment:** `unit:87087` · **unitId:** `87087`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87087&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nur im Sommersemester
-
 ### MED82651 How to get a Nobel Prize - Interaktive Vorstellung der vergangenen Medizin-Nobelpreise — Seminar
 
 - **Segment:** `unit:86044` · **unitId:** `86044`
@@ -13477,24 +13526,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Fr | 14:00–16:00 | 17.10.2025–30.01.2026 | — |
-
-### MED85201 Anatomische Grundlagen der plastischen und Handchirurgie — Seminar
-
-- **Segment:** `unit:86683` · **unitId:** `86683`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86683&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 14:45–16:00 | 24.10.2025 | — |
-| wöchentlich | Fr | 14:45–16:00 | 05.12.2025–19.12.2025 | — |
-| wöchentlich | Fr | 14:45–16:00 | 09.01.2026–16.01.2026 | — |
-| Einzeltermin | Di | 14:45–16:00 | 27.01.2026 | — |
 
 ### MED89431 Diagnostik und Therapie kinderorthopädischer Krankheitsbilder — Vorlesung mit Übung
 
@@ -13850,15 +13881,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Sommersemester
-
-### Spanisch: ELE.O A2 - virtueller Kurs A2 L — Online-Kurs
-
-- **Segment:** `unit:113311` · **unitId:** `113311`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113311&periodId=565>
-
-- **Veranstaltungsart:** Online-Kurs
-- **ECTS-Punkte:** 1.0
-- **Turnus:** in jedem Semester
 
 ### Spanisch: Elementarkurs I (Blended Learning-Kurs - 2 SWS in Präsenz) — Übung
 
@@ -14329,6 +14351,28 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Mi | 09:15–10:00 | 15.10.2025–28.01.2026 | 06701.00.014 (Hörsaal Physiologie 2) |
 | wöchentlich | Do | 09:15–10:00 | 16.10.2025–29.01.2026 | 06701.00.014 (Hörsaal Physiologie 2) |
 | wöchentlich | Fr | 09:15–10:00 | 17.10.2025–30.01.2026 | 06701.00.014 (Hörsaal Physiologie 2) |
+
+### V-V12/1-V7 Vorlesung Neurophysiologie — Hauptvorlesung
+
+- **Segment:** `unit:82572` · **unitId:** `82572`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82572&periodId=565>
+
+- **Veranstaltungsart:** Hauptvorlesung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 09:15–10:00 | 13.10.2025–02.02.2026 | 00601.00.012 (Hörsaal Physiologie) |
+| wöchentlich | Mo | 09:15–10:00 | 13.10.2025–02.02.2026 | 00801.00.112 (H Anatomie I (Eingang über Universitätsstraße 19)) |
+| wöchentlich | Di | 09:15–10:00 | 14.10.2025–03.02.2026 | 00601.00.012 (Hörsaal Physiologie) |
+| wöchentlich | Di | 09:15–10:00 | 14.10.2025–03.02.2026 | 00801.00.112 (H Anatomie I (Eingang über Universitätsstraße 19)) |
+| wöchentlich | Mi | 09:15–10:00 | 15.10.2025–04.02.2026 | 00601.00.012 (Hörsaal Physiologie) |
+| wöchentlich | Mi | 09:15–10:00 | 15.10.2025–04.02.2026 | 00801.00.112 (H Anatomie I (Eingang über Universitätsstraße 19)) |
+| wöchentlich | Do | 09:15–10:00 | 16.10.2025–05.02.2026 | 00601.00.012 (Hörsaal Physiologie) |
+| wöchentlich | Do | 09:15–10:00 | 16.10.2025–05.02.2026 | 00801.00.112 (H Anatomie I (Eingang über Universitätsstraße 19)) |
 
 ### V-V13/1-V10 Vorlesung Allgemeine Histologie und Embryologie
 

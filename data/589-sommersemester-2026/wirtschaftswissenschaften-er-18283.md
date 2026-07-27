@@ -229,7 +229,17 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 09:30–16:15 | 08.05.2026 | 05901.05.054 ( 05.054) |
+| Einzeltermin | Sa | 09:30–14:45 | 09.05.2026 | 05902.00.006 ( 00.6 PSG) |
+| Einzeltermin | Fr | 09:30–16:15 | 15.05.2026 | 05901.05.054 ( 05.054) |
+| Einzeltermin | Sa | 09:30–14:45 | 16.05.2026 | 05902.00.006 ( 00.6 PSG) |
 
 ### "Medienseminar II: Money Matters! - Finanzielle Bildung für Studium und Schule - Ein Seminar mit doppeltem Mehrwert" - Seminar
 
@@ -239,7 +249,17 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 09:30–16:15 | 08.05.2026 | 05901.05.054 ( 05.054) |
+| Einzeltermin | Sa | 09:30–14:45 | 09.05.2026 | 05902.00.006 ( 00.6 PSG) |
+| Einzeltermin | Fr | 09:30–16:15 | 15.05.2026 | 05901.05.054 ( 05.054) |
+| Einzeltermin | Sa | 09:30–14:45 | 16.05.2026 | 05902.00.006 ( 00.6 PSG) |
 
 ### "Medienseminar II: Money Matters! - Finanzielle Bildung für Studium und Schule - Ein Seminar mit doppeltem Mehrwert" - Seminar
 
@@ -249,7 +269,17 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 09:30–16:15 | 08.05.2026 | 05901.05.054 ( 05.054) |
+| Einzeltermin | Sa | 09:30–14:45 | 09.05.2026 | 05902.00.006 ( 00.6 PSG) |
+| Einzeltermin | Fr | 09:30–16:15 | 15.05.2026 | 05901.05.054 ( 05.054) |
+| Einzeltermin | Sa | 09:30–14:45 | 16.05.2026 | 05902.00.006 ( 00.6 PSG) |
 
 ### "Medienseminar II: Money Matters! - Finanzielle Bildung für Studium und Schule - Ein Seminar mit doppeltem Mehrwert" - Seminar
 
@@ -259,7 +289,17 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 09:30–16:15 | 08.05.2026 | 05901.05.054 ( 05.054) |
+| Einzeltermin | Sa | 09:30–14:45 | 09.05.2026 | 05902.00.006 ( 00.6 PSG) |
+| Einzeltermin | Fr | 09:30–16:15 | 15.05.2026 | 05901.05.054 ( 05.054) |
+| Einzeltermin | Sa | 09:30–14:45 | 16.05.2026 | 05902.00.006 ( 00.6 PSG) |
 
 ### "Medienseminar II: Money Matters! - Finanzielle Bildung für Studium und Schule - Ein Seminar mit doppeltem Mehrwert" - Seminar
 
@@ -269,7 +309,17 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 09:30–16:15 | 08.05.2026 | 05901.05.054 ( 05.054) |
+| Einzeltermin | Sa | 09:30–14:45 | 09.05.2026 | 05902.00.006 ( 00.6 PSG) |
+| Einzeltermin | Fr | 09:30–16:15 | 15.05.2026 | 05901.05.054 ( 05.054) |
+| Einzeltermin | Sa | 09:30–14:45 | 16.05.2026 | 05902.00.006 ( 00.6 PSG) |
 
 ### Abschlussarbeiten-Seminar Betriebswirtschaftslehre - Seminar
 
@@ -278,7 +328,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89184&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 09:00–15:00 | 16.04.2026 | 05901.01.055 ( 01.055) |
+| Einzeltermin | Do | 09:00–15:00 | 23.04.2026 | 05901.01.055 ( 01.055) |
 
 ### Abschlussarbeiten-Seminar Betriebswirtschaftslehre - Seminar
 
@@ -287,7 +345,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89184&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 09:00–15:00 | 16.04.2026 | 05901.01.055 ( 01.055) |
+| Einzeltermin | Do | 09:00–15:00 | 23.04.2026 | 05901.01.055 ( 01.055) |
 
 ### Abschlussarbeiten-Seminar Betriebswirtschaftslehre - Seminar
 
@@ -296,7 +362,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89184&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 09:00–15:00 | 16.04.2026 | 05901.01.055 ( 01.055) |
+| Einzeltermin | Do | 09:00–15:00 | 23.04.2026 | 05901.01.055 ( 01.055) |
 
 ### Abschlussarbeiten-Seminar Betriebswirtschaftslehre - Seminar
 
@@ -305,7 +379,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89184&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 09:00–15:00 | 16.04.2026 | 05901.01.055 ( 01.055) |
+| Einzeltermin | Do | 09:00–15:00 | 23.04.2026 | 05901.01.055 ( 01.055) |
 
 ### Abschlussarbeiten-Seminar Betriebswirtschaftslehre - Seminar
 
@@ -314,7 +396,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89184&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 09:00–15:00 | 16.04.2026 | 05901.01.055 ( 01.055) |
+| Einzeltermin | Do | 09:00–15:00 | 23.04.2026 | 05901.01.055 ( 01.055) |
 
 ### BWL-Hauptseminar: Strategisches Management - Seminar
 
@@ -359,7 +449,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90403&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 05902.00.006 ( 00.6 PSG) |
 
 ### Examenskurs für Betriebl. Rechnungswesen für Realschule - Übung
 
@@ -368,7 +465,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90403&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 05902.00.006 ( 00.6 PSG) |
 
 ### Examenskurs für Betriebl. Rechnungswesen für Realschule - Übung
 
@@ -377,7 +481,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90403&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 05902.00.006 ( 00.6 PSG) |
 
 ### Examenskurs Lehramt VWL - Übung
 
@@ -634,7 +745,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 11:30–13:00 | 13.04.2026–13.07.2026 | 21101.01.213 (LG H4 (814 Plätze) Hörsaal) |
 
 ### Makroökonomie - Vorlesung
 
@@ -644,7 +762,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 11:30–13:00 | 13.04.2026–13.07.2026 | 21101.01.213 (LG H4 (814 Plätze) Hörsaal) |
 
 ### Medien im Wirtschaftsunterricht (für Realschulen und Gymnasien) - Seminar
 
@@ -654,7 +779,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:00–15:30 | 14.04.2026–14.07.2026 | 05902.00.005 ( 00.5 PSG) |
 
 ### Medien im Wirtschaftsunterricht (für Realschulen und Gymnasien) - Seminar
 
@@ -664,7 +796,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:00–15:30 | 14.04.2026–14.07.2026 | 05902.00.005 ( 00.5 PSG) |
 
 ### Medien im Wirtschaftsunterricht (für Realschulen und Gymnasien) - Seminar
 
@@ -674,7 +813,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:00–15:30 | 14.04.2026–14.07.2026 | 05902.00.005 ( 00.5 PSG) |
 
 ### Medien im Wirtschaftsunterricht (für Realschulen und Gymnasien) - Seminar
 
@@ -684,7 +830,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:00–15:30 | 14.04.2026–14.07.2026 | 05902.00.005 ( 00.5 PSG) |
 
 ### Medien im Wirtschaftsunterricht (für Realschulen und Gymnasien) - Seminar
 
@@ -694,7 +847,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:00–15:30 | 14.04.2026–14.07.2026 | 05902.00.005 ( 00.5 PSG) |
 
 ### Planung, Durchführung und Reflexion ökonomischen Fachunterrichts (für RS und Gym.) - Seminar
 
@@ -711,7 +871,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 11:30–13:00 | 14.04.2026–14.07.2026 | 05901.05.054 ( 05.054) |
+| wöchentlich | Mi | 15:30–17:00 | 15.04.2026–15.07.2026 | 05901.05.054 ( 05.054) |
 
 ### Planung, Durchführung und Reflexion ökonomischen Fachunterrichts (für RS und Gym.) - Seminar
 
@@ -728,7 +888,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 11:30–13:00 | 14.04.2026–14.07.2026 | 05901.05.054 ( 05.054) |
+| wöchentlich | Mi | 15:30–17:00 | 15.04.2026–15.07.2026 | 05901.05.054 ( 05.054) |
 
 ### Planung, Durchführung und Reflexion ökonomischen Fachunterrichts (für RS und Gym.) - Seminar
 
@@ -745,7 +905,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 11:30–13:00 | 14.04.2026–14.07.2026 | 05901.05.054 ( 05.054) |
+| wöchentlich | Mi | 15:30–17:00 | 15.04.2026–15.07.2026 | 05901.05.054 ( 05.054) |
 
 ### Planung, Durchführung und Reflexion ökonomischen Fachunterrichts (für RS und Gym.) - Seminar
 
@@ -762,7 +922,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 11:30–13:00 | 14.04.2026–14.07.2026 | 05901.05.054 ( 05.054) |
+| wöchentlich | Mi | 15:30–17:00 | 15.04.2026–15.07.2026 | 05901.05.054 ( 05.054) |
 
 ### Planung, Durchführung und Reflexion ökonomischen Fachunterrichts (für RS und Gym.) - Seminar
 
@@ -779,7 +939,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 11:30–13:00 | 14.04.2026–14.07.2026 | 05901.05.054 ( 05.054) |
+| wöchentlich | Mi | 15:30–17:00 | 15.04.2026–15.07.2026 | 05901.05.054 ( 05.054) |
 
 ### VL Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) - Vorlesung
 
@@ -870,7 +1030,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Proseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 13:00–17:00 | 07.05.2026 | 05902.00.005 ( 00.5 PSG) |
+| Einzeltermin | Do | 09:30–18:00 | 18.06.2026 | 05902.00.005 ( 00.5 PSG) |
 
 ### VWL-Seminar:  - Proseminar
 
@@ -935,7 +1103,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Proseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 13:00–17:00 | 07.05.2026 | 05902.00.005 ( 00.5 PSG) |
+| Einzeltermin | Do | 09:30–18:00 | 18.06.2026 | 05902.00.005 ( 00.5 PSG) |
 
 ### VWL-Seminar:  - Proseminar
 
@@ -1000,7 +1176,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Proseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 13:00–17:00 | 07.05.2026 | 05902.00.005 ( 00.5 PSG) |
+| Einzeltermin | Do | 09:30–18:00 | 18.06.2026 | 05902.00.005 ( 00.5 PSG) |
 
 ### VWL-Seminar:  - Proseminar
 
@@ -1065,7 +1249,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Proseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 13:00–17:00 | 07.05.2026 | 05902.00.005 ( 00.5 PSG) |
+| Einzeltermin | Do | 09:30–18:00 | 18.06.2026 | 05902.00.005 ( 00.5 PSG) |
 
 ### VWL-Seminar:  - Proseminar
 
@@ -1130,7 +1322,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Proseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 13:00–17:00 | 07.05.2026 | 05902.00.005 ( 00.5 PSG) |
+| Einzeltermin | Do | 09:30–18:00 | 18.06.2026 | 05902.00.005 ( 00.5 PSG) |
 
 ### VWL-Seminar:  - Proseminar
 
@@ -1206,7 +1406,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 13:15–14:00 | 23.04.2026–16.07.2026 | 05901.05.054 ( 05.[Telefon entfernt].00.040 ( HS C Hörsaal C - 00.040) |
+| wöchentlich | Mi | 11:15–12:00 | 22.04.2026–15.07.2026 | 05901.05.054 ( 05.054) |
 
 ### Übungen zur Vorlesung "Betriebliches Rechnungswesen II" - Übung
 
@@ -1222,7 +1422,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 13:15–14:00 | 23.04.2026–16.07.2026 | 05901.05.054 ( 05.[Telefon entfernt].00.040 ( HS C Hörsaal C - 00.040) |
+| wöchentlich | Mi | 11:15–12:00 | 22.04.2026–15.07.2026 | 05901.05.054 ( 05.054) |
 
 ### Übungen zur Vorlesung "Betriebliches Rechnungswesen II" - Übung
 
@@ -1238,7 +1438,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 13:15–14:00 | 23.04.2026–16.07.2026 | 05901.05.054 ( 05.[Telefon entfernt].00.040 ( HS C Hörsaal C - 00.040) |
+| wöchentlich | Mi | 11:15–12:00 | 22.04.2026–15.07.2026 | 05901.05.054 ( 05.054) |
 
 ### Übungen zur Vorlesung "Betriebliches Rechnungswesen II" - Übung
 
@@ -1254,7 +1454,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 13:15–14:00 | 23.04.2026–16.07.2026 | 05901.05.054 ( 05.[Telefon entfernt].00.040 ( HS C Hörsaal C - 00.040) |
+| wöchentlich | Mi | 11:15–12:00 | 22.04.2026–15.07.2026 | 05901.05.054 ( 05.054) |
 
 ### Übungen zur Vorlesung "Betriebliches Rechnungswesen II" - Übung
 
@@ -1270,7 +1470,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 13:15–14:00 | 23.04.2026–16.07.2026 | 05901.05.054 ( 05.[Telefon entfernt].00.040 ( HS C Hörsaal C - 00.040) |
+| wöchentlich | Mi | 11:15–12:00 | 22.04.2026–15.07.2026 | 05901.05.054 ( 05.054) |
 
 ### Übungen zur Vorlesung "Sozialpolitik" - Übung
 
@@ -1303,7 +1503,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 11:00–11:45 | 23.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Do | 12:00–12:45 | 23.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
 
 ### Übungen zur Vorlesung Makroökonomie Erlangen - Übung
 
@@ -2360,7 +2560,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 16.04.2026–09.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
 
 ### BRW II - Betriebliches Rechnungswesen II - Vorlesung
 
@@ -2370,7 +2577,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 16.04.2026–09.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
 
 ### BRW II - Betriebliches Rechnungswesen II - Vorlesung
 
@@ -2380,7 +2594,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 16.04.2026–09.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
 
 ### BRW II - Betriebliches Rechnungswesen II - Vorlesung
 
@@ -2390,7 +2611,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 16.04.2026–09.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
 
 ### BRW II - Betriebliches Rechnungswesen II - Vorlesung
 
@@ -2400,7 +2628,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 16.04.2026–09.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
 
 ### BWL  - Betriebswirtschaftslehre II - Vorlesung
 
@@ -2412,6 +2647,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:15–13:45 | 20.04.2026–13.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+| wöchentlich | Mi | 16:15–17:45 | 22.04.2026–08.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+
 ### BWL  - Betriebswirtschaftslehre II - Vorlesung
 
 - **Segment:** `exam:15304822` · **unitId:** `112347`
@@ -2421,6 +2663,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:15–13:45 | 20.04.2026–13.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+| wöchentlich | Mi | 16:15–17:45 | 22.04.2026–08.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
 ### BWL  - Betriebswirtschaftslehre II - Vorlesung
 
@@ -2432,6 +2681,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:15–13:45 | 20.04.2026–13.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+| wöchentlich | Mi | 16:15–17:45 | 22.04.2026–08.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+
 ### BWL  - Betriebswirtschaftslehre II - Vorlesung
 
 - **Segment:** `exam:15306513` · **unitId:** `112347`
@@ -2442,6 +2698,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:15–13:45 | 20.04.2026–13.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+| wöchentlich | Mi | 16:15–17:45 | 22.04.2026–08.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+
 ### BWL  - Betriebswirtschaftslehre II - Vorlesung
 
 - **Segment:** `exam:15306600` · **unitId:** `112347`
@@ -2451,6 +2714,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:15–13:45 | 20.04.2026–13.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+| wöchentlich | Mi | 16:15–17:45 | 22.04.2026–08.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
 ### Recht I - Grundlagen des öffentlichen Rechts und des Zivilrechts - Vorlesung - Vorlesung
 
@@ -2764,14 +3034,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 17:15–19:30 | 16.04.2026–09.07.2026 | 05901.05.054 ( 05.054) |
 
 ### Recht III/IV - Recht  für Wirtschaftswissenschaftler III/IV (Examenskurs für Lehramt GY) - Seminar
 
@@ -2781,14 +3044,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 17:15–19:30 | 16.04.2026–09.07.2026 | 05901.05.054 ( 05.054) |
 
 ### Soz.Pol. - Sozialpolitik - Vorlesung
 
@@ -3072,7 +3328,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:00–14:45 | 27.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (26)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (21)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -3177,14 +3433,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### Examenskurs BWL — Übung
-
-- **Segment:** `unit:87372` · **unitId:** `87372`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87372&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
 ### Grundlagen der Fachdidaktik Wirtschaftswissenschaften — Vorlesung
 
 - **Segment:** `unit:82881` · **unitId:** `82881`
@@ -3193,13 +3441,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
-
-### Grundzüge des Handelsrechts — Vorlesung
-
-- **Segment:** `unit:119008` · **unitId:** `119008`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119008&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
 
 ### IT und E-Business — Vorlesung
 
@@ -3237,8 +3478,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -3264,15 +3505,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Turnus:** Unregelmäßig
 
-### Mikroökonomie — Vorlesung
-
-- **Segment:** `unit:87436` · **unitId:** `87436`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87436&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Schriftliche Übersetzungsleistung Latein I für Anfänger (Zulassungsvoraussetzung zu Kurs Latein II für Fortgeschrittene)
 
 - **Segment:** `unit:39848` · **unitId:** `39848`
@@ -3294,15 +3526,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Tutorium
 - **Turnus:** jedes 2. Semester
-
-### V: Business and Information Systems Engineering — Vorlesung
-
-- **Segment:** `unit:98473` · **unitId:** `98473`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98473&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### VWL-Seminar: — Proseminar
 
@@ -3333,14 +3556,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:84995` · **unitId:** `84995`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84995&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Übungen zur Vorlesung "Einführung in die Volkswirtschaftslehre"
-
-- **Segment:** `unit:98991` · **unitId:** `98991`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98991&periodId=589>
 
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester

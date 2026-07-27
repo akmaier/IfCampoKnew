@@ -243,7 +243,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117494&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nicht in diesem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:00–14:00 | 15.04.2026–15.07.2026 | 06201.U1.023 (TSG U1.023 Prüfungszimmer/Sitzungszimmer - intern!) |
 
 ### Frauen als Auftraggeberinnen in der Frühen Neuzeit: Malerei - Skulptur - Architektur - Seminar
 
@@ -289,7 +296,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134693&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:00–18:00 | 14.04.2026–14.07.2026 | 06201.01.024 (TSG R. 1.024 Bibliothek Christliche Publizistik/Syst. Theologie/Ethik) |
 
 ### Klimakrise im zeitgenössischen Kino-Film oder: Wie das Unbegreifliche und Absehbare erfahrbar werden lassen - Seminar
 
@@ -404,7 +418,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Masterseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 00501.01.014 ( KH 1.014 Hörsaal Kollegienhaus) |
 
 ### MA Medien 2. FS - Modul 6: Spezialisierungsseminar visuelle Medien - Masterseminar
 
@@ -475,6 +496,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Online-Kurs
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### Moderieren - nicht nur in Radio Fernsehen und Podcast - Seminar
@@ -539,7 +561,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Ober- und Hauptseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:00–16:00 | 13.04.2026–13.07.2026 | 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
 
 ### Video-Journalismus: Eine praktische Einführung ins visuelle Storytelling, Texten und Produzieren - Seminar
 
@@ -736,24 +765,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 14:15–15:45 | 14.04.2026–14.07.2026 | 56701.02.014 ( 02.014) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (44)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (36)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
-
-### "Heimat.Herd.Hetero." Sexualethik rechter Influencer:innen — Seminar
-
-- **Segment:** `unit:130868` · **unitId:** `130868`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130868&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** Unregelmäßig
-
-### After Babel. Digital Theology and Contextualities — Seminar
-
-- **Segment:** `unit:119047` · **unitId:** `119047`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119047&periodId=589>
-
-- **Veranstaltungsart:** Seminar
 
 ### Automatisch Publizieren. Ethische und journalistische Perspektiven zum Einsatz von KI in Medienunternehmen — Seminar
 
@@ -852,13 +866,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### Endlich spielend lernen mit Exkursion an die Gaming Schule Hobro (Dänemark) — Seminar
-
-- **Segment:** `unit:111468` · **unitId:** `111468`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111468&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-
 ### Feministische Kunstgeschichte, Gender und Queer Studies: Methoden, Erträge, Konflikte — Ober- und Hauptseminar
 
 - **Segment:** `unit:122849` · **unitId:** `122849`
@@ -923,14 +930,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 
-### KI und Chat GPT. Wissenschaftsjournalistische Herausforderungen — Seminar
-
-- **Segment:** `unit:116045` · **unitId:** `116045`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116045&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nicht in diesem Semester
-
 ### Kirchner und der Expressionismus — Ober- und Hauptseminar
 
 - **Segment:** `unit:105935` · **unitId:** `105935`
@@ -954,13 +953,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | 15:00–18:00 | 07.06.2026 23:59:59 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
 
-### Konstruktiver Journalismus & Co. - Neue Formen des Textjournalismus in Praxis, Theorie und Medienethik — Seminar
-
-- **Segment:** `unit:127259` · **unitId:** `127259`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127259&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-
 ### Latein I für Anfänger (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
 - **Segment:** `unit:96547` · **unitId:** `96547`
@@ -974,8 +966,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -1026,24 +1018,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 7.0
 - **Turnus:** Unregelmäßig
 
-### MA Medien 3. FS - Modul VIII: Vertiefungsseminar — Masterseminar
-
-- **Segment:** `unit:106288` · **unitId:** `106288`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106288&periodId=589>
-
-- **Veranstaltungsart:** Masterseminar
-- **ECTS-Punkte:** 8.0
-- **Turnus:** Unregelmäßig
-
-### Mensch - Natur - Kunst: Welt-Bilder und Gegen-Welten — Ober- und Hauptseminar
-
-- **Segment:** `unit:122847` · **unitId:** `122847`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122847&periodId=589>
-
-- **Veranstaltungsart:** Ober- und Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
 ### Protest*Aktionen*Straße Zur medialen Inszenierung von Straßenaktionen — Seminar
 
 - **Segment:** `unit:111458` · **unitId:** `111458`
@@ -1092,13 +1066,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
-
-### Status: Es ist kompliziert. Was ist der Mensch? Was ist das Tier? Eine Annäherung an die Verhältnisbestimmung von Tier und Mensch in zeitgenössischen Kino-Filmen — Seminar
-
-- **Segment:** `unit:117136` · **unitId:** `117136`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117136&periodId=589>
-
-- **Veranstaltungsart:** Seminar
 
 ### Weltuntergang mit Publikum Narrationen und mediale Inszenierungen dystopischen Empfindens und Denkens in Krisenzeiten — Seminar
 

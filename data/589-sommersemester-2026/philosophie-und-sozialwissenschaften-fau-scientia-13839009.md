@@ -24,16 +24,7 @@ _Section: FAU Scientia Gaststudium_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| Einzeltermin | Do | 10:00–12:00 | 23.07.2026 | — |
-| Einzeltermin | Fr | 10:00–12:00 | 24.07.2026 | — |
 
 ### Analytische Philosophie der Kunst - Proseminar / Mittelseminar
 
@@ -123,7 +114,14 @@ _Section: FAU Scientia Gaststudium_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134446&periodId=589>
 
 - **Veranstaltungsart:** Proseminar / Mittelseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 05801.02.111 ( PSG A 402) |
 
 ### Epikur, Stoa, Skepsis: Einführung in die hellenistische Ethik - Proseminar / Mittelseminar
 
@@ -150,7 +148,14 @@ _Section: FAU Scientia Gaststudium_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 05801.01.110 ( PSG A 301) |
 
 ### Glück und Moral: Tugenden in der Philosophie als Lebenskunst - Proseminar / Mittelseminar
 
@@ -192,7 +197,14 @@ _Section: FAU Scientia Gaststudium_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133925&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
 
 ### Introduction to Philosophy of Technology - Proseminar / Mittelseminar
 
@@ -201,7 +213,19 @@ _Section: FAU Scientia Gaststudium_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134593&periodId=589>
 
 - **Veranstaltungsart:** Proseminar / Mittelseminar
+- **Unterrichtssprache:** Englisch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–18:00 | 12.06.2026 | 05801.01.110 ( PSG A 301) |
+| Einzeltermin | Sa | 10:00–14:00 | 13.06.2026 | 05801.01.110 ( PSG A 301) |
+| Einzeltermin | Fr | 14:00–18:00 | 26.06.2026 | 05801.01.110 ( PSG A 301) |
+| Einzeltermin | Sa | 10:00–14:00 | 27.06.2026 | 05801.01.110 ( PSG A 301) |
+| Einzeltermin | Fr | 14:00–18:00 | 10.07.2026 | 05801.01.110 ( PSG A 301) |
+| Einzeltermin | Sa | 10:00–14:00 | 11.07.2026 | 05801.01.110 ( PSG A 301) |
 
 ### John Stuart Mill: Utilitarismus - Proseminar / Mittelseminar
 
@@ -210,7 +234,14 @@ _Section: FAU Scientia Gaststudium_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134451&periodId=589>
 
 - **Veranstaltungsart:** Proseminar / Mittelseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 10:15–12:45 | 17.04.2026–17.07.2026 | 05801.01.110 ( PSG A 301) |
 
 ### Lyotard: Der Widerstreit - Proseminar / Mittelseminar
 
@@ -268,7 +299,14 @@ _Section: FAU Scientia Gaststudium_
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 05901.01.059 ( 01.059) |
 
 ### Platon: Gorgias - Proseminar / Mittelseminar
 
@@ -277,7 +315,14 @@ _Section: FAU Scientia Gaststudium_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134042&periodId=589>
 
 - **Veranstaltungsart:** Proseminar / Mittelseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:00–12:00 | 13.04.2026–13.07.2026 | 05801.01.110 ( PSG A 301) |
 
 ### Politik geht alle an? Politiktheoretische und ideengeschichtliche Diskurse um politische Öffentlichkeit - Proseminar
 
@@ -319,7 +364,14 @@ _Section: FAU Scientia Gaststudium_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96355&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 15:45–17:15 | 15.04.2026–15.07.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
 
 ### Statistische Analyseverfahren III - Hauptseminar
 
@@ -346,6 +398,12 @@ _Section: FAU Scientia Gaststudium_
 - **Veranstaltungsart:** Proseminar / Mittelseminar
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:00–15:30 | 15.04.2026–15.07.2026 | 05801.02.111 ( PSG A 402) |
 
 ### Von Anderen lernen - Zeugnisse in der Erkenntnistheorie - Proseminar / Mittelseminar
 
@@ -419,7 +477,14 @@ _Section: FAU Scientia Gaststudium_
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 09:00–11:00 | 15.04.2026–15.07.2026 | 56901.00.027 (Übungsraum 2 (Vorbelegungsrecht HTA Departments für WS bis 15.07.26))) |
 
 ### Ling BM-2 - Ling BM-2: Geschichte der deutschen Sprache (Erlangen, geöffnet für alle Studiengänge) - Kurs
 

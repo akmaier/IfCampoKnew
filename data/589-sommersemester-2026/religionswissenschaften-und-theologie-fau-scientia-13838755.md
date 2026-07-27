@@ -196,7 +196,14 @@ _Section: FAU Scientia Gaststudium_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134693&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:00–18:00 | 14.04.2026–14.07.2026 | 06201.01.024 (TSG R. 1.024 Bibliothek Christliche Publizistik/Syst. Theologie/Ethik) |
 
 ### MA 2.FS Islamische Ethik im Kontext von Geschichte und Gegenwart, Vorlesung - Vorlesung
 
@@ -256,7 +263,14 @@ _Section: FAU Scientia Gaststudium_
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 06201.01.024 (TSG R. 1.024 Bibliothek Christliche Publizistik/Syst. Theologie/Ethik) |
 
 ### Quellen zur Geschichte und Religionsgeschichte Israels - Übung
 
@@ -331,14 +345,7 @@ _Section: FAU Scientia Gaststudium_
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 10:00–12:00 | 17.04.2026–17.07.2026 | 06201.02.020 ( TSG HS B (02.020) Theologisches Seminargebäude, Kochstraße 6) |
 
 ### VL: Kirchen- und Theologiegeschichte im Überblick KG III: Spätmittelalter und Reformationszeit - Vorlesung
 
@@ -456,7 +463,16 @@ _Section: FAU Scientia Gaststudium_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92780&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:00–16:00 | 13.04.2026–13.07.2026 | 06201.02.021 ( TSG HS A (02.021) Theologisches Seminargebäude, Kochstraße 6) |
+| wöchentlich | Di | 08:00–10:00 | 14.04.2026–14.07.2026 | 00501.02.012 ( KH 2.012 Hörsaal Kollegienhaus) |
+| wöchentlich | Do | 08:00–10:00 | 16.04.2026–16.07.2026 | 00501.02.012 ( KH 2.012 Hörsaal Kollegienhaus) |
 
 ### Heb1-SK - Hebräisch I: Einführung in die hebräische Grammatik - Sommerferienblockveranstaltung - Vorlesung mit Übung
 
@@ -475,8 +491,8 @@ _Section: FAU Scientia Gaststudium_
 | wöchentlich | Mo | 10:00–13:00 | 20.07.2026–05.10.2026 | 06201.02.021 ( TSG HS A (02.021) Theologisches Seminargebäude, Kochstraße 6) |
 | wöchentlich | Di | 10:00–13:00 | 21.07.2026–06.10.2026 | 06201.02.021 ( TSG HS A (02.021) Theologisches Seminargebäude, Kochstraße 6) |
 | wöchentlich | Mi | 10:00–13:00 | 22.07.2026–07.10.2026 | 06201.02.021 ( TSG HS A (02.021) Theologisches Seminargebäude, Kochstraße 6) |
-| wöchentlich | Do | 10:00–13:00 | 23.07.2026–08.10.2026 | 06201.02.021 ( TSG HS A (02.021) Theologisches Seminargebäude, Kochstraße 6) |
-| wöchentlich | Fr | 10:00–13:00 | 24.07.2026–09.10.2026 | 06201.02.021 ( TSG HS A (02.021) Theologisches Seminargebäude, Kochstraße 6) |
+| wöchentlich | Do | 10:00–13:00 | 23.07.2026–08.10.2026 | 06201.02.021 ( TSG HS A (02.021) Theologisches Seminargebäude, Kochstraße 6) 06201.00.025 (TSG R. 0.025 Bibliothek Altes Testament) |
+| wöchentlich | Fr | 10:00–13:00 | 24.07.2026–09.10.2026 | 06201.02.021 ( TSG HS A (02.021) Theologisches Seminargebäude, Kochstraße 6) 06201.00.025 (TSG R. 0.025 Bibliothek Altes Testament) |
 
 ### KG I: VL - VL: Kirchen- und Theologiegeschichte im Überblick I: das Christentum in der Antike - Vorlesung
 

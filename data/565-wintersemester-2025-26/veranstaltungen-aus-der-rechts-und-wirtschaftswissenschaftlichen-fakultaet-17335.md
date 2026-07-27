@@ -5,7 +5,7 @@ campo_segment: "title:17335"
 campo_path: "title:16758|title:16760|title:17335"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17335"
 po_version_count: 0
-course_count: 18
+course_count: 17
 ---
 
 # Veranstaltungen aus der Rechts- und Wirtschaftswissenschaftlichen Fakultät
@@ -14,24 +14,7 @@ course_count: 18
 
 _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprachkurse_  
 
-## Veranstaltungen (18)
-
-### An Introduction to Science Technology Studies - Seminar
-
-- **Segment:** `exam:13802263` · **unitId:** `131547`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17335|exam:12189986|exam:13802263>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131547&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 7.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 16:00–19:00 | 15.10.2025–04.02.2026 | — |
+## Veranstaltungen (17)
 
 ### Data Science: Ökonometrie - Softskills - Übung
 
@@ -181,7 +164,9 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17335|exam:12189986|exam:12190000>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87754&periodId=565>
 
+- **Veranstaltungsart:** Tutorium
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 

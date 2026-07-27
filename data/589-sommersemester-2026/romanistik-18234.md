@@ -162,6 +162,12 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **ECTS-Punkte:** 3.0
 - **Turnus:** nur im Sommersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:15–15:45 | 21.04.2026–14.07.2026 | 05701.00.010 ( 00.010 Übungsraum 1) |
+
 ### Cultura e civiltà I - Seminar
 
 - **Segment:** `exam:15463074` · **unitId:** `111426`
@@ -172,6 +178,12 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **ECTS-Punkte:** 3.0
 - **Turnus:** nur im Sommersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:15–15:45 | 21.04.2026–14.07.2026 | 05701.00.010 ( 00.010 Übungsraum 1) |
+
 ### Cultura e civiltà I - Seminar
 
 - **Segment:** `exam:15463161` · **unitId:** `111426`
@@ -181,6 +193,12 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 3.0
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:15–15:45 | 21.04.2026–14.07.2026 | 05701.00.010 ( 00.010 Übungsraum 1) |
 
 ### Español intermedio II - Übung
 
@@ -507,7 +525,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Spanisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | 00501.00.015 ( KH 0.015 Hörsaal Kollegienhaus (SR)) |
 
 ### Spanische Kulturwissenschaft und Landeskunde - Übung
 
@@ -517,7 +542,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Spanisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | 00501.00.015 ( KH 0.015 Hörsaal Kollegienhaus (SR)) |
 
 ### Spanische Kulturwissenschaft und Landeskunde - Übung
 
@@ -527,7 +559,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Spanisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | 00501.00.015 ( KH 0.015 Hörsaal Kollegienhaus (SR)) |
 
 ### Spanische Kulturwissenschaft und Landeskunde - Übung
 
@@ -537,7 +576,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Spanisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | 00501.00.015 ( KH 0.015 Hörsaal Kollegienhaus (SR)) |
 
 ### Tecniche di lettura - Übung
 
@@ -733,7 +779,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Französisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 54606.01.003 (F 13 (IFA)) |
 
 ### Traduction version  (F - A)  - Übung
 
@@ -743,7 +796,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Französisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 54606.01.003 (F 13 (IFA)) |
 
 ### Traduction version  (F - A)  - Übung
 
@@ -753,7 +813,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Französisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 54606.01.003 (F 13 (IFA)) |
 
 ### 1999 Masterarbeit (M.A. Romanistik 20172)
 
@@ -1600,12 +1667,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 16:00–18:00 | 24.04.2026 | 56701.02.014 ( 02.014) |
-| Einzeltermin | Sa | 09:00–16:00 | 25.04.2026 | 56701.02.014 ( 02.014) |
-| Einzeltermin | Fr | 16:00–18:00 | 29.05.2026 | 56701.02.014 ( 02.014) |
-| Einzeltermin | Sa | 09:00–16:00 | 30.05.2026 | 56701.02.014 ( 02.014) |
-| Einzeltermin | Fr | 16:00–18:00 | 26.06.2026 | 56701.02.014 ( 02.014) |
-| Einzeltermin | Sa | 09:00–16:00 | 27.06.2026 | 56701.02.014 ( 02.014) |
+| wöchentlich | Mi | 08:15–09:45 | 15.04.2026–15.07.2026 | 56701.02.036 (Mo - Fr 8:00 - 20:00 Uhr Romanistik) |
 
 ### SZITMCPoII - Comprensione e produzione orale 2 - Übung
 
@@ -1666,7 +1728,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Spanisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 14:15–15:45 | 17.04.2026–17.07.2026 | 00501.00.015 ( KH 0.015 Hörsaal Kollegienhaus (SR)) |
 
 ### SZSPPGrEstIa - Gramática y estilística  I - Übung
 
@@ -1676,7 +1745,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Spanisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 14:15–15:45 | 17.04.2026–17.07.2026 | 00501.00.015 ( KH 0.015 Hörsaal Kollegienhaus (SR)) |
 
 ### SZSPPGrEstIa - Gramática y estilística  I - Übung
 
@@ -1686,7 +1762,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Spanisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 14:15–15:45 | 17.04.2026–17.07.2026 | 00501.00.015 ( KH 0.015 Hörsaal Kollegienhaus (SR)) |
 
 ### VL rom. Sprachwiss. - Vorlesung Romanistik Sprachwissenschaft - Vorlesung
 
@@ -1705,18 +1788,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mi | 08:00–10:00 | 15.04.2026–15.07.2026 | 00501.00.023 ( KH 0.023 Hörsaal Kollegienhaus) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (18)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (16)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
-
-### Aromas y olores. Geruchsästhetik in der iberoamerikanischen Literaturgeschichte — Proseminar
-
-- **Segment:** `unit:95423` · **unitId:** `95423`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95423&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-- **ECTS-Punkte:** 4.0
-- **Turnus:** nur im Wintersemester
 
 ### Comprensione e produzione orale 2
 
@@ -1813,14 +1887,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 8.0
 - **Turnus:** in jedem Semester
 
-### HS: Aktuelle Intermedialitätstheorien (MA Literaturstudien) — Masterseminar
-
-- **Segment:** `unit:86016` · **unitId:** `86016`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86016&periodId=589>
-
-- **Veranstaltungsart:** Masterseminar
-- **Turnus:** nur im Wintersemester
-
 ### Italiano intermedio I — Übung
 
 - **Segment:** `unit:85786` · **unitId:** `85786`
@@ -1857,8 +1923,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 

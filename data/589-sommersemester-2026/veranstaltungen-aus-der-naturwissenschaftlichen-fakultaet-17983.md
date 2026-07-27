@@ -158,7 +158,15 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:15–09:45 | 14.04.2026–14.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
+| Einzeltermin | Do | 17:15–18:30 | 15.10.2026 | 05901.00.040 ( HS C Hörsaal C - 00.[Telefon entfernt].00.210 (00.210 Seminarraum) |
 
 ### ADS - Applied Data Science in Medicine & Psychology - Vorlesung mit Übung
 
@@ -660,7 +668,14 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:45–14:15 | 14.04.2026–14.07.2026 | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
 
 ### SQ: Latex - Einführung in die Gestaltung wissenschaftlicher Texte mit LaTeX - Einführungskurs
 
@@ -702,4 +717,13 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
+| Einzeltermin | Do | 08:15–09:45 | 30.07.2026 | 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
+| Einzeltermin | Mi | 10:15–11:45 | 07.10.2026 | 55801.00.210 (00.210 Seminarraum) |

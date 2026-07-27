@@ -24,7 +24,20 @@ _Section: FAU Scientia Gaststudium_
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 10:00–11:30 | 27.04.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
+| Einzeltermin | Mo | 10:00–11:30 | 11.05.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
+| Einzeltermin | Mo | 10:00–11:30 | 18.05.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
+| Einzeltermin | Mo | 10:00–11:30 | 01.06.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
+| Einzeltermin | Mo | 10:00–11:30 | 15.06.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
+| Einzeltermin | Mo | 10:00–11:30 | 06.07.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
+| Einzeltermin | Mo | 10:00–11:30 | 20.07.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### Advanced Laser - Vorlesung mit Übung
 
@@ -74,6 +87,7 @@ _Section: FAU Scientia Gaststudium_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101333&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### FAU Scientia Vorlesungsreihe - Vorlesung
@@ -125,7 +139,14 @@ _Section: FAU Scientia Gaststudium_
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 09:00–11:00 | 15.04.2026–15.07.2026 | 56901.00.027 (Übungsraum 2 (Vorbelegungsrecht HTA Departments für WS bis 15.07.26))) |
 
 ### AnaPhys_MT - Grundlagen der Anatomie und Physiologie für Medizintechniker, Naturwissenschaftler und Ingenieure - Vorlesung
 
@@ -216,7 +237,14 @@ _Section: FAU Scientia Gaststudium_
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:15–09:45 | 14.04.2026–14.07.2026 | 56901.00.026 (Seminarraum 3 (Vorbelegungsrecht HTA Departments fürfür WS bis 15.07.26))) |
 
 ### INS-Lab - Interfacing the Neuromuscular System: Laboratory - Praktikum
 
@@ -226,7 +254,6 @@ _Section: FAU Scientia Gaststudium_
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
 
 ### IWGS (TUT) - Tutorium zu Informatische Werkzeuge in den Geistes- und Sozialwissenschaften - Tutorium
@@ -236,7 +263,14 @@ _Section: FAU Scientia Gaststudium_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85116&periodId=589>
 
 - **Veranstaltungsart:** Tutorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:00–17:30 | 14.04.2026–14.07.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
 
 ### MLinMRI - Machine Learning in MRI - Hauptseminar
 
@@ -246,7 +280,14 @@ _Section: FAU Scientia Gaststudium_
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 56901.00.014 (Seminarraum 1 (Vorbelegungsrecht HTA Departments für WS bis 15.07.26))) |
 
 ### MRIpulseq - Magnetic Resonance Imaging sequence programming [MRIpulseq] - Seminar
 
@@ -311,7 +352,14 @@ _Section: FAU Scientia Gaststudium_
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 1.25
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | 11907.01.030 (H19) |
 
 ### Neuro-Project - Neurotechnology Project - Praktikum
 
@@ -320,7 +368,14 @@ _Section: FAU Scientia Gaststudium_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90988&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 09:00–17:00 | 15.04.2026–15.07.2026 | — |
 
 ### SusTech - Chemical technologies for energy transition - Vorlesung
 

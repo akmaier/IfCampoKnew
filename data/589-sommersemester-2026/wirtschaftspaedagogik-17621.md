@@ -238,7 +238,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 09:45–11:15 | 13.04.2026–13.07.2026 | 21102.01.420 (LG H5 TeamBank-Hörsaal (384 Plätze)) |
 
 ### Ba-Vorl.: Global Governance - Vorlesung
 
@@ -248,7 +255,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 09:45–11:15 | 13.04.2026–13.07.2026 | 21102.01.420 (LG H5 TeamBank-Hörsaal (384 Plätze)) |
 
 ### Badminton 2 - Seminar
 
@@ -260,6 +274,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **ECTS-Punkte:** 3.0
 - **Turnus:** in jedem Semester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 11:15–12:45 | 17.04.2026–17.07.2026 | 10106.00.630 (DOHA Doppelhalle) |
+
 ### Badminton 2 - Seminar
 
 - **Segment:** `exam:15853688` · **unitId:** `112656`
@@ -270,6 +290,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **ECTS-Punkte:** 3.0
 - **Turnus:** in jedem Semester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 11:15–12:45 | 17.04.2026–17.07.2026 | 10106.00.630 (DOHA Doppelhalle) |
+
 ### Badminton 2 - Seminar
 
 - **Segment:** `exam:15853690` · **unitId:** `112656`
@@ -279,6 +305,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 3.0
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 11:15–12:45 | 17.04.2026–17.07.2026 | 10106.00.630 (DOHA Doppelhalle) |
 
 ### Basketball 1 - Seminar
 
@@ -380,9 +412,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 11:30–14:45 | 07.05.2026 | 21101.04.156 |
-| Einzeltermin | Do | 11:30–14:45 | 18.06.2026 | 21101.04.156 |
-| Einzeltermin | Do | 11:30–14:45 | 09.07.2026 | 21101.04.156 |
+| Einzeltermin | Do | 08:00–11:15 | 07.05.2026 | 21101.04.156 |
+| Einzeltermin | Do | 08:00–11:15 | 18.06.2026 | 21101.04.156 |
+| Einzeltermin | Do | 08:00–11:15 | 09.07.2026 | 21101.04.156 |
 
 ### Berufs- und Wirtschaftspädagogische Didaktik II - Präsenztermine - Seminar
 
@@ -399,9 +431,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 11:30–14:45 | 07.05.2026 | 21101.04.156 |
-| Einzeltermin | Do | 11:30–14:45 | 18.06.2026 | 21101.04.156 |
-| Einzeltermin | Do | 11:30–14:45 | 09.07.2026 | 21101.04.156 |
+| Einzeltermin | Do | 08:00–11:15 | 07.05.2026 | 21101.04.156 |
+| Einzeltermin | Do | 08:00–11:15 | 18.06.2026 | 21101.04.156 |
+| Einzeltermin | Do | 08:00–11:15 | 09.07.2026 | 21101.04.156 |
 
 ### Berufs- und Wirtschaftspädagogische Didaktik II - Präsenztermine - Seminar
 
@@ -418,9 +450,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 11:30–14:45 | 07.05.2026 | 21101.04.156 |
-| Einzeltermin | Do | 11:30–14:45 | 18.06.2026 | 21101.04.156 |
-| Einzeltermin | Do | 11:30–14:45 | 09.07.2026 | 21101.04.156 |
+| Einzeltermin | Do | 08:00–11:15 | 07.05.2026 | 21101.04.156 |
+| Einzeltermin | Do | 08:00–11:15 | 18.06.2026 | 21101.04.156 |
+| Einzeltermin | Do | 08:00–11:15 | 09.07.2026 | 21101.04.156 |
 
 ### Change Management - Vorlesung mit Übung
 
@@ -430,7 +462,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:45–18:15 | 13.04.2026–29.06.2026 | 21101.01.112 (LG H1 (446 Plätze) Hörsaal) |
+| Einzeltermin | Mo | 16:45–18:15 | 06.07.2026 | 21101.01.114 (LG H3 GfK-Hörsaal (155 Plätze) &quot;Gesellschaft für Konsumforschung&quot;) |
+| Einzeltermin | Mo | 16:45–18:15 | 13.07.2026 | 21101.01.114 (LG H3 GfK-Hörsaal (155 Plätze) &quot;Gesellschaft für Konsumforschung&quot;) |
 
 ### Change Management - Vorlesung mit Übung
 
@@ -440,7 +481,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:45–18:15 | 13.04.2026–29.06.2026 | 21101.01.112 (LG H1 (446 Plätze) Hörsaal) |
+| Einzeltermin | Mo | 16:45–18:15 | 06.07.2026 | 21101.01.114 (LG H3 GfK-Hörsaal (155 Plätze) &quot;Gesellschaft für Konsumforschung&quot;) |
+| Einzeltermin | Mo | 16:45–18:15 | 13.07.2026 | 21101.01.114 (LG H3 GfK-Hörsaal (155 Plätze) &quot;Gesellschaft für Konsumforschung&quot;) |
 
 ### Change Management - Vorlesung mit Übung
 
@@ -450,7 +500,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:45–18:15 | 13.04.2026–29.06.2026 | 21101.01.112 (LG H1 (446 Plätze) Hörsaal) |
+| Einzeltermin | Mo | 16:45–18:15 | 06.07.2026 | 21101.01.114 (LG H3 GfK-Hörsaal (155 Plätze) &quot;Gesellschaft für Konsumforschung&quot;) |
+| Einzeltermin | Mo | 16:45–18:15 | 13.07.2026 | 21101.01.114 (LG H3 GfK-Hörsaal (155 Plätze) &quot;Gesellschaft für Konsumforschung&quot;) |
 
 ### Current Issues in Sustainability Management - Seminar
 
@@ -460,7 +519,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 11:30–13:00 | 15.04.2026–15.07.2026 | 21102.02.429 ((27 Plätze – nicht für studentische Veranstaltungen)) |
 
 ### Current Issues in Sustainability Management - Seminar
 
@@ -470,7 +536,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 11:30–13:00 | 15.04.2026–15.07.2026 | 21102.02.429 ((27 Plätze – nicht für studentische Veranstaltungen)) |
 
 ### Current Issues in Sustainability Management - Seminar
 
@@ -480,7 +553,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 11:30–13:00 | 15.04.2026–15.07.2026 | 21102.02.429 ((27 Plätze – nicht für studentische Veranstaltungen)) |
 
 ### E-Business and E-Commerce - Vorlesung mit Übung
 
@@ -785,7 +865,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–13:00 | 14.04.2026–14.07.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
 
 ### Englisch: Aufbaukurs WiPäd - Übung
 
@@ -795,7 +882,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–13:00 | 14.04.2026–14.07.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
 
 ### Englisch: Einführung in die Sprachmittlung Englisch-Deutsch - Übung
 
@@ -805,7 +899,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 15:00–16:30 | 21.04.2026–14.07.2026 | — |
 
 ### Englisch: Einführung in die Sprachmittlung Englisch-Deutsch - Übung
 
@@ -815,7 +916,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 15:00–16:30 | 21.04.2026–14.07.2026 | — |
 
 ### Englisch: Grundkurs (Grammar) - Übung
 
@@ -904,8 +1012,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 09:45–11:30 | 20.04.2026 | 21101.05.152 (LG 5.152 (24 Plätze) Seminarraum, freitags und samstags nur für Blockveranstaltungen (ab 6 Std.) vorgesehen) |
-| wöchentlich | Mo | 08:00–18:00 | 27.04.2026–11.05.2026 | 21101.05.153 (LG 5.153 (24 Plätze) Seminarraum) |
+| Einzeltermin | Mo | 11:30–13:00 | 20.04.2026 | 21101.05.152 (LG 5.152 (24 Plätze) Seminarraum, freitags und samstags nur für Blockveranstaltungen (ab 6 Std.) vorgesehen) |
+| wöchentlich | Mo | 08:00–18:00 | 27.04.2026–11.05.2026 | 21101.05.152 (LG 5.152 (24 Plätze) Seminarraum, freitags und samstags nur für Blockveranstaltungen (ab 6 Std.) vorgesehen) |
 
 ### Fallstudienseminar Finanz- und Nachhaltigkeitsberichterstattung - Seminar
 
@@ -922,8 +1030,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 09:45–11:30 | 20.04.2026 | 21101.05.152 (LG 5.152 (24 Plätze) Seminarraum, freitags und samstags nur für Blockveranstaltungen (ab 6 Std.) vorgesehen) |
-| wöchentlich | Mo | 08:00–18:00 | 27.04.2026–11.05.2026 | 21101.05.153 (LG 5.153 (24 Plätze) Seminarraum) |
+| Einzeltermin | Mo | 11:30–13:00 | 20.04.2026 | 21101.05.152 (LG 5.152 (24 Plätze) Seminarraum, freitags und samstags nur für Blockveranstaltungen (ab 6 Std.) vorgesehen) |
+| wöchentlich | Mo | 08:00–18:00 | 27.04.2026–11.05.2026 | 21101.05.152 (LG 5.152 (24 Plätze) Seminarraum, freitags und samstags nur für Blockveranstaltungen (ab 6 Std.) vorgesehen) |
 
 ### Fallstudienseminar Finanz- und Nachhaltigkeitsberichterstattung - Seminar
 
@@ -940,8 +1048,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 09:45–11:30 | 20.04.2026 | 21101.05.152 (LG 5.152 (24 Plätze) Seminarraum, freitags und samstags nur für Blockveranstaltungen (ab 6 Std.) vorgesehen) |
-| wöchentlich | Mo | 08:00–18:00 | 27.04.2026–11.05.2026 | 21101.05.153 (LG 5.153 (24 Plätze) Seminarraum) |
+| Einzeltermin | Mo | 11:30–13:00 | 20.04.2026 | 21101.05.152 (LG 5.152 (24 Plätze) Seminarraum, freitags und samstags nur für Blockveranstaltungen (ab 6 Std.) vorgesehen) |
+| wöchentlich | Mo | 08:00–18:00 | 27.04.2026–11.05.2026 | 21101.05.152 (LG 5.152 (24 Plätze) Seminarraum, freitags und samstags nur für Blockveranstaltungen (ab 6 Std.) vorgesehen) |
 
 ### Fußball 1 - Seminar
 
@@ -1521,7 +1629,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung | — | 09:00–16:00 | 07.09.2026–11.09.2026 | — |
+| Blockveranstaltung | — | 15:00–21:00 | 08.06.2026–26.06.2026 | — |
 
 ### Klettern 2 - Seminar
 
@@ -1538,7 +1646,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung | — | 09:00–16:00 | 07.09.2026–11.09.2026 | — |
+| Blockveranstaltung | — | 15:00–21:00 | 08.06.2026–26.06.2026 | — |
 
 ### Klettern 2 - Seminar
 
@@ -1555,7 +1663,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung | — | 09:00–16:00 | 07.09.2026–11.09.2026 | — |
+| Blockveranstaltung | — | 15:00–21:00 | 08.06.2026–26.06.2026 | — |
 
 ### Mountainbiking 1 - Seminar
 
@@ -1866,6 +1974,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **ECTS-Punkte:** 10.0
 - **Turnus:** Unregelmäßig
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 15:00–16:30 | 28.04.2026–14.07.2026 | — |
+
 ### S: Projektseminar Wirtschaftsinformatik - Seminar
 
 - **Segment:** `exam:14054268` · **unitId:** `106909`
@@ -1875,6 +1989,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 10.0
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 15:00–16:30 | 28.04.2026–14.07.2026 | — |
 
 ### Seminar Empirische Forschung qualitativ - Seminar
 
@@ -2078,7 +2198,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Spanisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 13:15–14:45 | 29.04.2026–15.07.2026 | 21101.05.153 (LG 5.153 (24 Plätze) Seminarraum) |
 
 ### Spanisch: Español académico - Übung
 
@@ -2088,7 +2215,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Spanisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 13:15–14:45 | 29.04.2026–15.07.2026 | 21101.05.153 (LG 5.153 (24 Plätze) Seminarraum) |
 
 ### Spanisch: Mediación - Español económico - Übung
 
@@ -2098,7 +2232,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Spanisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 21.04.2026–14.07.2026 | — |
 
 ### Spanisch: Mediación - Español económico - Übung
 
@@ -2108,7 +2249,82 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Spanisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 21.04.2026–14.07.2026 | — |
+
+### Sprachliche Bildung im Fachunterricht - Seminar
+
+- **Segment:** `exam:15799613` · **unitId:** `93847`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17621|exam:14046344|exam:14046345|exam:14048884|exam:14048944|exam:15799613>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93847&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
+
+### Sprachliche Bildung im Fachunterricht - Seminar
+
+- **Segment:** `exam:15799381` · **unitId:** `93847`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17621|exam:14046344|exam:14046345|exam:14048884|exam:14049107|exam:15799381>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93847&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
+
+### Sprachliche Bildung im Fachunterricht - Seminar
+
+- **Segment:** `exam:15799614` · **unitId:** `93847`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17621|exam:14051292|exam:14051293|exam:14053923|exam:14053983|exam:15799614>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93847&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
+
+### Sprachliche Bildung im Fachunterricht - Seminar
+
+- **Segment:** `exam:15799382` · **unitId:** `93847`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17621|exam:14051292|exam:14051293|exam:14053923|exam:14054146|exam:15799382>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93847&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 
 ### Sprachsystem und Deutsch als Zweitsprache (vhb-Vorlesung) - Vorlesung
 
@@ -2153,74 +2369,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **ECTS-Punkte:** 2.0
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-### Sprachvermittlung und Lernen in fachlichen Kontexten - Seminar
-
-- **Segment:** `exam:15799613` · **unitId:** `93847`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17621|exam:14046344|exam:14046345|exam:14048884|exam:14048944|exam:15799613>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93847&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
-
-### Sprachvermittlung und Lernen in fachlichen Kontexten - Seminar
-
-- **Segment:** `exam:15799381` · **unitId:** `93847`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17621|exam:14046344|exam:14046345|exam:14048884|exam:14049107|exam:15799381>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93847&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
-
-### Sprachvermittlung und Lernen in fachlichen Kontexten - Seminar
-
-- **Segment:** `exam:15799614` · **unitId:** `93847`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17621|exam:14051292|exam:14051293|exam:14053923|exam:14053983|exam:15799614>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93847&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
-
-### Sprachvermittlung und Lernen in fachlichen Kontexten - Seminar
-
-- **Segment:** `exam:15799382` · **unitId:** `93847`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17621|exam:14051292|exam:14051293|exam:14053923|exam:14054146|exam:15799382>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93847&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 
 ### Systematische Theologie und ihre Didaktik - elementar - Vorlesung mit Übung
 
@@ -2403,6 +2551,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 09:45–11:15 | 13.04.2026–13.07.2026 | 21101.00.143 (LG 0.143 (42 Plätze) Übungsraum) |
+
 ### Transferseminar Betriebliche Ausbildung gestalten - Seminar
 
 - **Segment:** `exam:14049021` · **unitId:** `95258`
@@ -2414,6 +2568,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 09:45–11:15 | 13.04.2026–13.07.2026 | 21101.00.143 (LG 0.143 (42 Plätze) Übungsraum) |
+
 ### Transferseminar Betriebliche Ausbildung gestalten - Seminar
 
 - **Segment:** `exam:14054060` · **unitId:** `95258`
@@ -2424,6 +2584,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 09:45–11:15 | 13.04.2026–13.07.2026 | 21101.00.143 (LG 0.143 (42 Plätze) Übungsraum) |
 
 ### Transferseminar Disziplinstörungen im Unterricht - Seminar
 
@@ -2776,7 +2942,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| 14-täglich | Di | 08:30–10:00 | 14.04.2026–07.07.2026 | 10106.00.630 (DOHA Doppelhalle) |
+| 14-täglich | Mo | 14:15–15:45 | 13.04.2026–11.05.2026 | 10106.00.630 (DOHA Doppelhalle) |
 
 ### Volleyball 1 - Seminar
 
@@ -2793,7 +2959,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| 14-täglich | Di | 08:30–10:00 | 14.04.2026–07.07.2026 | 10106.00.630 (DOHA Doppelhalle) |
+| 14-täglich | Mo | 14:15–15:45 | 13.04.2026–11.05.2026 | 10106.00.630 (DOHA Doppelhalle) |
 
 ### Volleyball 1 - Seminar
 
@@ -2810,7 +2976,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| 14-täglich | Di | 08:30–10:00 | 14.04.2026–07.07.2026 | 10106.00.630 (DOHA Doppelhalle) |
+| 14-täglich | Mo | 14:15–15:45 | 13.04.2026–11.05.2026 | 10106.00.630 (DOHA Doppelhalle) |
 
 ### Volleyball 1 - Seminar
 
@@ -2827,7 +2993,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| 14-täglich | Di | 08:30–10:00 | 14.04.2026–07.07.2026 | 10106.00.630 (DOHA Doppelhalle) |
+| 14-täglich | Mo | 14:15–15:45 | 13.04.2026–11.05.2026 | 10106.00.630 (DOHA Doppelhalle) |
 
 ### Volleyball 1 - Seminar
 
@@ -2844,7 +3010,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| 14-täglich | Di | 08:30–10:00 | 14.04.2026–07.07.2026 | 10106.00.630 (DOHA Doppelhalle) |
+| 14-täglich | Mo | 14:15–15:45 | 13.04.2026–11.05.2026 | 10106.00.630 (DOHA Doppelhalle) |
 
 ### Wahlseminar D - Resilienz und Stressmanagement für den Lehrberuf - Seminar
 
@@ -2854,7 +3020,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 21101.04.154 ((33 Plätze – nicht für studentische Veranstaltungen)) |
 
 ### Wahlseminar D - Resilienz und Stressmanagement für den Lehrberuf - Seminar
 
@@ -2864,7 +3037,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 21101.04.154 ((33 Plätze – nicht für studentische Veranstaltungen)) |
 
 ### Wahlseminar D - Resilienz und Stressmanagement für den Lehrberuf - Seminar
 
@@ -2874,7 +3054,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 21101.04.154 ((33 Plätze – nicht für studentische Veranstaltungen)) |
 
 ### Wahlseminar E - Lernsituationen digital transformieren und gestalten - Seminar
 
@@ -3034,7 +3221,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:30–14:00 | 16.04.2026–16.07.2026 | 10105.00.572 (TuHaSpoz Turnhalle im DSS) |
 
 ### Zirkuskünste 1 - Seminar
 
@@ -3044,7 +3238,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:30–14:00 | 16.04.2026–16.07.2026 | 10105.00.572 (TuHaSpoz Turnhalle im DSS) |
 
 ### Zirkuskünste 1 - Seminar
 
@@ -3054,7 +3255,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:30–14:00 | 16.04.2026–16.07.2026 | 10105.00.572 (TuHaSpoz Turnhalle im DSS) |
 
 ### Zirkuskünste 2 - Seminar
 
@@ -9528,7 +9736,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87291&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mi | 11:30–13:00 | 15.04.2026 | 75202.00.513 (St.Paul 00.513 (24)) |
+| wöchentlich | Mi | 11:30–13:00 | 15.04.2026–15.07.2026 | — |
 
 ### EinfNT2 - Einführung NT 2 - Vorlesung mit Übung
 
@@ -9537,7 +9753,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87291&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mi | 11:30–13:00 | 15.04.2026 | 75202.00.513 (St.Paul 00.513 (24)) |
+| wöchentlich | Mi | 11:30–13:00 | 15.04.2026–15.07.2026 | — |
 
 ### FEST (ÜB) - Financial Engineering und Structured Finance (ÜB) - Übung
 
@@ -9604,7 +9828,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 13:15–14:45 | 13.04.2026–13.07.2026 | 21101.01.114 (LG H3 GfK-Hörsaal (155 Plätze) &quot;Gesellschaft für Konsumforschung&quot;) |
+| wöchentlich | Mo | 15:00–16:30 | 13.04.2026–13.07.2026 | — |
 
 ### FEST - Financial Engineering und Structured Finance (VL) - Vorlesung
 
@@ -9614,7 +9846,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 13:15–14:45 | 13.04.2026–13.07.2026 | 21101.01.114 (LG H3 GfK-Hörsaal (155 Plätze) &quot;Gesellschaft für Konsumforschung&quot;) |
+| wöchentlich | Mo | 15:00–16:30 | 13.04.2026–13.07.2026 | — |
 
 ### FEST - Financial Engineering und Structured Finance (VL) - Vorlesung
 
@@ -9624,7 +9864,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 13:15–14:45 | 13.04.2026–13.07.2026 | 21101.01.114 (LG H3 GfK-Hörsaal (155 Plätze) &quot;Gesellschaft für Konsumforschung&quot;) |
+| wöchentlich | Mo | 15:00–16:30 | 13.04.2026–13.07.2026 | — |
 
 ### IM - Industrielles Management - Vorlesung
 
@@ -9954,6 +10202,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 09:00–10:30 | 21.05.2026–16.07.2026 | — |
+| wöchentlich | Di | 15:00–16:30 | 19.05.2026–14.07.2026 | — |
+
 ### PCP - PC-Praktikum - Praktikum
 
 - **Segment:** `exam:14054083` · **unitId:** `100368`
@@ -9964,6 +10219,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 09:00–10:30 | 21.05.2026–16.07.2026 | — |
+| wöchentlich | Di | 15:00–16:30 | 19.05.2026–14.07.2026 | — |
 
 ### PraktWi - Praktikum Wirtschaftsinformatik - Praktikum
 
@@ -10231,7 +10493,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mi | 09:45–11:15 | 15.04.2026–15.07.2026 | 20301.01.042 (1.042 großer Hörsaal (230)) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (695)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (666)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -10293,14 +10555,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Do | 09:45–11:15 | 16.04.2026–16.07.2026 | 75201.00.202 (St.Paul(V) 00.202 Seminarraum (20)) |
 
-### (Schul)kanon und Kinder- und Jugendliteratur (Nürnberg: nur GS/MS/RS/Berufl.Schulen) — Seminar
-
-- **Segment:** `unit:123938` · **unitId:** `123938`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123938&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
 ### a HINWEIS: Jedes LitG-AM Seminar kann entweder als Lektüreseminar oder als Seminar belegt werden. Dies ist keine Lehrveranstaltung. — Einzelunterricht
 
 - **Segment:** `unit:107654` · **unitId:** `107654`
@@ -10348,15 +10602,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### Advanced Sustainability Management and Corporate Functions — Übung
-
-- **Segment:** `unit:99764` · **unitId:** `99764`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99764&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### AI & Data in Business and Management — Seminar
 
 - **Segment:** `unit:87340` · **unitId:** `87340`
@@ -10364,7 +10609,16 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 09:45–11:45 | 03.07.2026 | 21102.05.452 ((14 Plätze)) |
+| Einzeltermin | Fr | 09:45–11:45 | 03.07.2026 | 21102.05.430 ((16 Plätze)) |
+| Einzeltermin | Fr | 09:45–11:45 | 03.07.2026 | — |
 
 ### AI and Data in Business and Management (presentation)
 
@@ -10701,7 +10955,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 15:45–17:15 | 13.04.2026–13.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
+| Einzeltermin | Mo | 15:45–17:15 | 13.07.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
 
 ### Aufbaumodul Linguistik 2 (Ling AM-2)
 
@@ -10744,15 +11006,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | — | — | — |
-
-### Ausgewählte  Aspekte des Schulsports — Seminar
-
-- **Segment:** `unit:84311` · **unitId:** `84311`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84311&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Turnus:** nur im Wintersemester
 
 ### Autorinnen des 19. Jahrhunderts (Lit AM-L) — Seminar
 
@@ -10873,6 +11126,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
+### Basketball 2 — Seminar
+
+- **Segment:** `unit:84454` · **unitId:** `84454`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84454&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 1.0
+- **Turnus:** in jedem Semester
+
 ### Bayesian econometrics (written examination)
 
 - **Segment:** `unit:51957` · **unitId:** `51957`
@@ -10925,6 +11187,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 
+### Bewegungs- und Spielerziehung/Kleine Spiele — Seminar
+
+- **Segment:** `unit:82300` · **unitId:** `82300`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82300&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.0
+- **Turnus:** nur im Wintersemester
+
 ### Bewegungsbeobachtung / Motorisches Lernen
 
 - **Segment:** `unit:23808` · **unitId:** `23808`
@@ -10967,14 +11238,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Blockveranstaltung | — | 09:00–18:00 | 20.07.2026–23.07.2026 | 05801.01.110 ( PSG A 301) |
-
-### Bewusstsein, Gedächtnis, Emotion - Einführung in die Philosophie der Psychologie — Proseminar / Mittelseminar
-
-- **Segment:** `unit:122277` · **unitId:** `122277`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122277&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Turnus:** Unregelmäßig
 
 ### Biblische Themen im Religionsunterricht — Seminar
 
@@ -11045,15 +11308,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Do | Do | — | — | — |
-
-### Business Strategy — Vorlesung mit Übung
-
-- **Segment:** `unit:90338` · **unitId:** `90338`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90338&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Business-to-Business Marketing (Case Study) — Seminar
 
@@ -11151,6 +11405,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **Turnus:** Unregelmäßig
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 11:30–13:00 | 17.04.2026–17.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
+
 ### Classroom discourse
 
 - **Segment:** `unit:27587` · **unitId:** `27587`
@@ -11201,15 +11461,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
-
-### Controlling and Reporting — Vorlesung mit Übung
-
-- **Segment:** `unit:97268` · **unitId:** `97268`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97268&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Controlling and reporting (Klausur)
 
@@ -11272,7 +11523,17 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–16:00 | 10.07.2026 | 21102.00.423 ((33 Plätze – nicht für studentische Veranstaltungen)) |
+| Einzeltermin | Do | 14:00–16:00 | 28.01.2027 | 21102.00.423 ((33 Plätze – nicht für studentische Veranstaltungen)) |
+| Einzeltermin | Mo | 14:00–16:00 | 01.02.2027 | 21102.00.423 ((33 Plätze – nicht für studentische Veranstaltungen)) |
+| Einzeltermin | Do | 14:00–16:00 | 04.02.2027 | 21102.00.423 ((33 Plätze – nicht für studentische Veranstaltungen)) |
 
 ### Das Innovationsseminar (Hausarbeit)
 
@@ -11336,14 +11597,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118761&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
-
-### Descartes, Meditationen über die erste Philosophie PS/MS — Kombiseminar
-
-- **Segment:** `unit:115702` · **unitId:** `115702`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115702&periodId=589>
-
-- **Veranstaltungsart:** Kombiseminar
-- **Turnus:** Unregelmäßig
 
 ### Design Thinking and Product Design — Seminar
 
@@ -11874,7 +12127,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95719&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 11:30–13:00 | 14.04.2026–14.07.2026 | 20303.01.205 (SemRSportNbg Seminarraum Sport an der Regensburger Str (40)) |
 
 ### Didaktik im Bereich Zahl und Operation, Struktur und funktionaler Zusammenhang (Didaktik der Zahlbereiche, Arithmetik) — Vorlesung
 
@@ -12060,6 +12320,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
 ### Digital Marketing — Vorlesung
@@ -12080,20 +12341,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### Dramatik der Gegenwart — Hauptseminar
-
-- **Segment:** `unit:121943` · **unitId:** `121943`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121943&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-
-### Dramen der Gegenwart (Lit AM-L) — Seminar
-
-- **Segment:** `unit:126406` · **unitId:** `126406`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126406&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-
 ### Dänisch: Elementarkurs IV
 
 - **Segment:** `unit:44063` · **unitId:** `44063`
@@ -12107,13 +12354,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mi | Mi | 10:15–11:45 | — | — |
-
-### E.T.A. Hoffmanns Schauerroman "Die Elixiere des Teufels" (Nürnberg: für LA GS/MS/RS) (VM NdL-1/VM NdL-2) — Hauptseminar
-
-- **Segment:** `unit:137869` · **unitId:** `137869`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137869&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
 
 ### Ein kurtzweilig Lesen von Dil Ulenspiegel — Seminar
 
@@ -12222,18 +12462,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 ### Einführung in das politische System der Bundesrepublik Deutschland — Proseminar
 
-- **Segment:** `unit:130232` · **unitId:** `130232`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130232&periodId=589>
+- **Segment:** `unit:138303` · **unitId:** `138303`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138303&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
-
-### Einführung in die analytische Philosophie — Proseminar / Mittelseminar
-
-- **Segment:** `unit:122647` · **unitId:** `122647`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122647&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Turnus:** Unregelmäßig
 
 ### Einführung in die Angewandte Ethik — Proseminar / Mittelseminar
 
@@ -12241,7 +12473,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134446&periodId=589>
 
 - **Veranstaltungsart:** Proseminar / Mittelseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 05801.02.111 ( PSG A 402) |
 
 ### Einführung in die Angewandte Ethik — Proseminar / Mittelseminar
 
@@ -12454,7 +12693,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:00–16:00 | 13.04.2026–13.07.2026 | 12801.01.230 (H13 Johann-Radon-Hörsaal) |
 
 ### Einführung in die Wissenschaftsphilosophie — Proseminar / Mittelseminar
 
@@ -12463,13 +12709,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Proseminar / Mittelseminar
 - **Turnus:** Unregelmäßig
-
-### Einführung in die Wissenschaftsphilosophie (PS/MS) — Kombiseminar
-
-- **Segment:** `unit:111933` · **unitId:** `111933`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111933&periodId=589>
-
-- **Veranstaltungsart:** Kombiseminar
 
 ### Einführung in Theologie und wissenschaftliches Arbeiten (LAGS/LAMS/LARS/LABS) — Seminar
 
@@ -12567,7 +12806,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 6.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 09:45–11:15 | 17.04.2026–17.07.2026 | 20301.01.041 (1.041 großer Hörsaal (310)) |
+| wöchentlich | Fr | 11:45–13:15 | 17.04.2026–17.07.2026 | 20301.01.041 (1.041 großer Hörsaal (310)) |
 
 ### Energy meets Crisis. Climate Fiction in der Gegenwart (Praxisseminar)
 
@@ -12624,7 +12871,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 09:45–11:15 | 13.04.2026–13.07.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
 
 ### Englisch: Historical Insights — Übung
 
@@ -12699,7 +12953,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 28.04.2026–14.07.2026 | — |
 
 ### Englisch: Writing lab1 (English for special purposes 1) — Übung
 
@@ -12708,7 +12969,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 11:30–13:00 | 20.04.2026–13.07.2026 | 21101.03.155 (LG 3.155 (24 Plätze) Seminarraum) |
+| Einzeltermin | Mo | 11:30–13:00 | 18.05.2026 | 21101.05.153 (LG 5.153 (24 Plätze) Seminarraum) |
 
 ### Englisch: Writing lab2 (English for special purposes 2) — Übung
 
@@ -12717,7 +12986,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 13:15–14:45 | 20.04.2026–13.07.2026 | 21101.03.155 (LG 3.155 (24 Plätze) Seminarraum) |
+| Einzeltermin | Mo | 13:15–14:45 | 18.05.2026 | 21101.05.153 (LG 5.153 (24 Plätze) Seminarraum) |
 
 ### English for business purposes
 
@@ -12818,13 +13095,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 05801.04.112 ( A 602) |
 | Einzeltermin | Mi | 10:00–12:00 | 20.05.2026 | 05801.04.111 ( A 603) |
 
-### Epochen im Überblick vom Barock bis zur Gegenwart (Lit AM-G) (Erlangen für BA/LA GY/RS) — Kolleg
-
-- **Segment:** `unit:137843` · **unitId:** `137843`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137843&periodId=589>
-
-- **Veranstaltungsart:** Kolleg
-
 ### Erzählungen der Romantik — Hauptseminar
 
 - **Segment:** `unit:133783` · **unitId:** `133783`
@@ -12840,13 +13110,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:00–16:00 | 13.04.2026–13.07.2026 | 05801.00.318 ( C 203) |
 | Einzeltermin | Mo | 16:00–18:00 | 13.07.2026 | 05801.00.318 ( C 203) |
-
-### Ethik der künstlichen Intelligenz: eine Einführung / Introduction to ethics of AI (PS / MS) — Kombiseminar
-
-- **Segment:** `unit:106362` · **unitId:** `106362`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106362&periodId=589>
-
-- **Veranstaltungsart:** Kombiseminar
 
 ### Ethische Bildung — Vorlesung mit Übung
 
@@ -13010,15 +13273,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Di | Di | — | — | — |
 
-### Fanfiction: Zugänge der digitalen Literaturwissenschaft — Seminar
-
-- **Segment:** `unit:123805` · **unitId:** `123805`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123805&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
 ### Finanz- & Bankmanagement (MA) — Vorlesung
 
 - **Segment:** `unit:89278` · **unitId:** `89278`
@@ -13161,7 +13415,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| 14-täglich | Do | 08:30–10:00 | 23.04.2026–16.07.2026 | — |
+| 14-täglich | Do | 08:30–10:00 | 16.04.2026–09.07.2026 | — |
 
 ### Fußball II
 
@@ -13279,21 +13533,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Proseminar / Mittelseminar
 - **Turnus:** Unregelmäßig
 
-### Glaube gegen Gewissheit? Die Aufklärung im 18. Jahrhundert — Proseminar
-
-- **Segment:** `unit:119106` · **unitId:** `119106`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119106&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-
-### Gleichheit und Gleichverteilung — Proseminar / Mittelseminar
-
-- **Segment:** `unit:126987` · **unitId:** `126987`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126987&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Turnus:** Unregelmäßig
-
 ### Glück und Moral: Tugenden in der Philosophie als Lebenskunst — Proseminar / Mittelseminar
 
 - **Segment:** `unit:134058` · **unitId:** `134058`
@@ -13329,15 +13568,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Hauptseminar
 
-### Grundfragen der Religionswissenschaft — Seminar
-
-- **Segment:** `unit:111445` · **unitId:** `111445`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111445&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Turnus:** Unregelmäßig
-
 ### Grundkurs Theoretische Philosophie
 
 - **Segment:** `unit:45367` · **unitId:** `45367`
@@ -13367,22 +13597,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 08:30–10:00 | 15.04.2026–15.07.2026 | 05801.01.110 ( PSG A 301) |
-
-### Grundkurs Theoretische Philosophie — Proseminar
-
-- **Segment:** `unit:111728` · **unitId:** `111728`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111728&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-
-### Grundkurs Theoretische Philosophie
-
-- **Segment:** `unit:119025` · **unitId:** `119025`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119025&periodId=589>
-
-- **Veranstaltungsart:** Grundkurs
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
 
 ### Grundkurs Theoretische Philosophie — Proseminar
 
@@ -13426,15 +13640,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 ### Grundlagen der Ethik (Philosophie 1) — Vorlesung mit Übung
 
-- **Segment:** `unit:121597` · **unitId:** `121597`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121597&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 4.0
-- **Turnus:** in jedem Semester
-
-### Grundlagen der Ethik (Philosophie 1) — Vorlesung mit Übung
-
 - **Segment:** `unit:125981` · **unitId:** `125981`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125981&periodId=589>
 
@@ -13455,15 +13660,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### Grundlagen der Sportbiologie/Sportmedizin 1 — Vorlesung
-
-- **Segment:** `unit:132013` · **unitId:** `132013`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132013&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.0
-- **Turnus:** Unregelmäßig
 
 ### Grundlagen der Sportpädagogik und Sportdidaktik — Vorlesung
 
@@ -13578,7 +13774,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:15–11:00 | 16.04.2026–16.07.2026 | 10105.00.551 (BASPH Ballspielhalle) |
 
 ### Handball II
 
@@ -13601,7 +13804,16 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 11:30–14:45 | 10.04.2026 | 21102.00.424 (LG 0.424 (92 Plätze) Übungsraum) |
+| Einzeltermin | Mi | 11:30–14:45 | 10.06.2026 | 21101.00.224 (LG 0.224 (98 Plätze) Übungsraum) |
+| Einzeltermin | Do | 13:15–16:30 | 09.07.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
 
 ### Hauptseminar Auditing (Seminararbeit und Präsentation)
 
@@ -13624,7 +13836,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 18:30–20:00 | 14.04.2026–14.07.2026 | 21101.00.141 (LG 0.141 (48 Plätze) Übungsraum) |
 
 ### Hauptseminar Betriebswirtschaftliche Steuerlehre (Seminararbeit und Präsentation)
 
@@ -13923,13 +14142,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Interdisziplinäres Projekt — Seminar
-
-- **Segment:** `unit:122250` · **unitId:** `122250`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122250&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-
 ### Interkulturelle Bildung, Werteerziehung — Seminar
 
 - **Segment:** `unit:122735` · **unitId:** `122735`
@@ -13972,6 +14184,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:130231` · **unitId:** `130231`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130231&periodId=589>
+
+- **Veranstaltungsart:** Proseminar
+
+### Internationale Beziehungen — Proseminar
+
+- **Segment:** `unit:138116` · **unitId:** `138116`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138116&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
 
@@ -14041,7 +14260,19 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134593&periodId=589>
 
 - **Veranstaltungsart:** Proseminar / Mittelseminar
+- **Unterrichtssprache:** Englisch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–18:00 | 12.06.2026 | 05801.01.110 ( PSG A 301) |
+| Einzeltermin | Sa | 10:00–14:00 | 13.06.2026 | 05801.01.110 ( PSG A 301) |
+| Einzeltermin | Fr | 14:00–18:00 | 26.06.2026 | 05801.01.110 ( PSG A 301) |
+| Einzeltermin | Sa | 10:00–14:00 | 27.06.2026 | 05801.01.110 ( PSG A 301) |
+| Einzeltermin | Fr | 14:00–18:00 | 10.07.2026 | 05801.01.110 ( PSG A 301) |
+| Einzeltermin | Sa | 10:00–14:00 | 11.07.2026 | 05801.01.110 ( PSG A 301) |
 
 ### Introduction to philosophy of technology — Proseminar / Mittelseminar
 
@@ -14215,7 +14446,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134451&periodId=589>
 
 - **Veranstaltungsart:** Proseminar / Mittelseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 10:15–12:45 | 17.04.2026–17.07.2026 | 05801.01.110 ( PSG A 301) |
 
 ### Kant: Prolegomena (PS/MS) — Kombiseminar
 
@@ -14272,13 +14510,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 
-### Kino, Konsum und Massenkultur: Siegfried Kracauer und die 1920er Jahre — Hauptseminar
-
-- **Segment:** `unit:132876` · **unitId:** `132876`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132876&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-
 ### Kirchengeschichte im Überblick — Vorlesung
 
 - **Segment:** `unit:103164` · **unitId:** `103164`
@@ -14286,7 +14517,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 09:45–11:15 | 20.04.2026–13.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
+| Einzeltermin | Mo | 09:45–11:15 | 18.05.2026 | 20301.U1.012 (U1.012 Seminarraum (40)) |
 
 ### Kirchengeschichtliche Grundthemen — Seminar
 
@@ -14294,7 +14533,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88991&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 09:45–11:15 | 17.04.2026–17.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 
 ### Klassische Werke der Ethik
 
@@ -14323,14 +14569,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | 15:00–18:00 | 07.06.2026 23:59:59 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
-
-### Kohletexte. Literatur und Energie in der Gegenwart — Seminar
-
-- **Segment:** `unit:110450` · **unitId:** `110450`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110450&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nicht in diesem Semester
 
 ### Kontroversen zur Kinder- und Jugendliteratur (Nürnberg: nur GS/MS/RS/Berufl.Schulen) — Hauptseminar
 
@@ -14390,7 +14628,16 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mi | 08:00–16:30 | 27.05.2026 | 21101.04.109 (4.109, nur für Lehrstuhl-interne Veranstaltungen nutzbar) |
+| Einzeltermin | Do | 08:00–14:45 | 28.05.2026 | 21101.04.109 (4.109, nur für Lehrstuhl-interne Veranstaltungen nutzbar) |
+| Einzeltermin | Fr | 08:00–14:45 | 29.05.2026 | 21101.04.109 (4.109, nur für Lehrstuhl-interne Veranstaltungen nutzbar) |
 
 ### Kostenträger II: Private Krankenversicherung (Klausur)
 
@@ -14513,8 +14760,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -14646,13 +14893,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### Ling AM-1: Tutorium "Syntax der deutschen Gegenwartssprache" (Erlangen)
-
-- **Segment:** `unit:116786` · **unitId:** `116786`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116786&periodId=589>
-
-- **Veranstaltungsart:** Tutorium
-
 ### Ling AM-1: Tutorium "Syntax der deutschen Gegenwartssprache" (Nürnberg)
 
 - **Segment:** `unit:116621` · **unitId:** `116621`
@@ -14696,15 +14936,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** in jedem Semester
 
-### Ling AM-2: Seminar Linguistik
-
-- **Segment:** `unit:106655` · **unitId:** `106655`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106655&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
-
 ### Ling AM-2: Wortbildung der deutschen Gegenwartssprache — Seminar
 
 - **Segment:** `unit:109968` · **unitId:** `109968`
@@ -14719,13 +14950,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 08:30–10:00 | 13.04.2026–13.07.2026 | 05902.00.015 ( 00.15 PSG) |
-
-### Ling AM: Briefe von Psychiatriepatienten aus soziolinguistischer Perspektive — Seminar
-
-- **Segment:** `unit:118633` · **unitId:** `118633`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118633&periodId=589>
-
-- **Veranstaltungsart:** Seminar
 
 ### Ling BM-1: Einführung in die germanistische  Linguistik (Erlangen, geöffnet für alle Studiengänge) — Einführungskurs
 
@@ -14795,7 +15019,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 05801.01.211 ( B 302) |
 
-### Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA und LA Gym)
+### Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA, LA Gym, WiPäd, DiDaZ)
 
 - **Segment:** `unit:103936` · **unitId:** `103936`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103936&periodId=589>
@@ -14831,7 +15055,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103826&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
 
 ### Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen)
 
@@ -14929,13 +15160,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 11:30–13:00 | 14.04.2026–14.07.2026 | 20301.02.047 (2.047 Seminarraum (40)) |
 
-### Lit AM-G: "Die Welt ist ein Dorf, oder: Heinrich Wittenwilers 'Der Ring'" — Seminar
-
-- **Segment:** `unit:125928` · **unitId:** `125928`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125928&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-
 ### Lit AM-G: Lilienweiß und Rosenrot - Erotik und Sexualität in mittelhochdeutscher Dichtung — Kolleg
 
 - **Segment:** `unit:133739` · **unitId:** `133739`
@@ -14955,14 +15179,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:129870` · **unitId:** `129870`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=129870&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
-### Lit AM-L (Nürnberg: GS/MS/RS/Berufl. S.): Nibelungenlied — Seminar
-
-- **Segment:** `unit:137578` · **unitId:** `137578`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137578&periodId=589>
 
 - **Veranstaltungsart:** Seminar
 - **Turnus:** in jedem Semester
@@ -15004,27 +15220,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 10:00–12:00 | 13.04.2026–13.07.2026 | 05801.04.310 ( C 603) |
 
+### Lit AM-L: Aufbaumodul Literatur, Lektüren und Kontexte — Proseminar
+
+- **Segment:** `unit:137580` · **unitId:** `137580`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137580&periodId=589>
+
+- **Veranstaltungsart:** Proseminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** in jedem Semester
+
 ### Lit AM-L: Die interkulturelle Dimension von Goethes West-östlichem Divan — Proseminar
 
 - **Segment:** `unit:115209` · **unitId:** `115209`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115209&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
-
-### Lit AM-L: Die Sprache der Tiere im Mittelalter — Seminar
-
-- **Segment:** `unit:110055` · **unitId:** `110055`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110055&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-
-### Lit AM-L: Ecken und Kanten. Provokantes und Irritierendes in mittelalterlicher Dichtung — Seminar
-
-- **Segment:** `unit:129871` · **unitId:** `129871`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=129871&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
 
 ### Lit AM-L: Fragile Figuren oder heroische Heldenbilder? Das Nibelungenlied — Seminar
 
@@ -15171,15 +15381,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 13:15–14:45 | 17.04.2026 | 21101.00.144 (LG 0.144 (38 Plätze) Übungsraum) |
-| Einzeltermin | Fr | 09:00–18:00 | 10.07.2026 | 21102.01.420 (LG H5 TeamBank-Hörsaal (384 Plätze)) |
 
 ### Macroeconomics: Economic growth (written examination)
 
@@ -15320,20 +15522,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **Turnus:** Unregelmäßig
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 17:00–18:30 | 13.04.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
+| wöchentlich | Sa | 09:00–16:00 | 18.04.2026–11.07.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
+
 ### Mathematisches Seminar in elementarer Zahlentheorie — Hauptseminar
 
 - **Segment:** `unit:106342` · **unitId:** `106342`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106342&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 12801.01.150 (01.150-128 Seminarraum) |
 
 ### Mathematisches Seminar: Grundlagen des IT-Einsatzes im Mathematikunterricht
 
@@ -15465,6 +15667,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **Turnus:** Unregelmäßig
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 17:00–20:00 | 20.04.2026 | — |
+| Blockveranstaltung+SaundSo | — | 16:00–19:00 | 08.05.2026–10.05.2026 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
+
 ### Moralismus — Proseminar / Mittelseminar
 
 - **Segment:** `unit:134180` · **unitId:** `134180`
@@ -15487,7 +15696,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 08:00–10:15 | 17.04.2026–19.06.2026 | — |
 
 ### Multivariate time series analysis (written examination)
 
@@ -15676,6 +15892,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 3.0
 - **Turnus:** nur im Wintersemester
 
+### Otfried Preußler (Nürnberg: für LA GS/MS/RS) — Hauptseminar
+
+- **Segment:** `unit:137790` · **unitId:** `137790`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137790&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
+
 ### People Analytics — Vorlesung
 
 - **Segment:** `unit:107551` · **unitId:** `107551`
@@ -15806,15 +16029,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Wintersemester
 
-### Personalpsychologie — Vorlesung
-
-- **Segment:** `unit:106324` · **unitId:** `106324`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106324&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 3.0
-- **Turnus:** nur im Wintersemester
-
 ### Personalpsychologie (Klausur)
 
 - **Segment:** `unit:27244` · **unitId:** `27244`
@@ -15894,14 +16108,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 08:00–09:30 | 15.04.2026–15.07.2026 | 21101.01.113 (LG H2 Hörsaal (155 Plätze)) |
 
 ### Pharmamanagement II: Arzneimittel (Klausur)
 
@@ -15938,13 +16145,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Proseminar / Mittelseminar
 - **Turnus:** Unregelmäßig
-
-### Philosophy of Artificial Intelligence. An Introduction (PS/MS) — Kombiseminar
-
-- **Segment:** `unit:115755` · **unitId:** `115755`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115755&periodId=589>
-
-- **Veranstaltungsart:** Kombiseminar
 
 ### Phonetik
 
@@ -15995,7 +16195,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134042&periodId=589>
 
 - **Veranstaltungsart:** Proseminar / Mittelseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:00–12:00 | 13.04.2026–13.07.2026 | 05801.01.110 ( PSG A 301) |
 
 ### Platon: Gorgias (PS / MS) — Kombiseminar
 
@@ -16005,21 +16212,25 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Kombiseminar
 - **Turnus:** nur im Wintersemester
 
-### Platon: Politeia — Proseminar / Mittelseminar
-
-- **Segment:** `unit:131380` · **unitId:** `131380`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131380&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Turnus:** Unregelmäßig
-
 ### Poetik-Kolleg: Ann Cotten — Seminar und Übung
 
 - **Segment:** `unit:133784` · **unitId:** `133784`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Politische Systeme — Proseminar
 
@@ -16035,13 +16246,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 20301.U1.038 (U1.038 Seminarraum (50)) |
-
-### Politische Systeme — Proseminar
-
-- **Segment:** `unit:122393` · **unitId:** `122393`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122393&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
 
 ### Politische Systeme — Proseminar
 
@@ -16396,6 +16600,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Blockveranstaltung | — | 10:00–19:00 | 01.07.2026–02.07.2026 | — |
 | Einzeltermin | Mi | 14:00–18:00 | 08.07.2026 | — |
 
+### PuGDiD1: Einführung in die Analyse und Planung von Politik- und Gesellschaftsunterricht — Proseminar
+
+- **Segment:** `unit:91003` · **unitId:** `91003`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91003&periodId=589>
+
+- **Veranstaltungsart:** Proseminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
+
 ### PuGDid1: VORLESUNG: Einführung in die Fachdidaktik Sozialkunde / Politik und Gesellschaft
 
 - **Segment:** `unit:89385` · **unitId:** `89385`
@@ -16404,13 +16617,27 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Wintersemester
 
+### Raumtheoretische Zugänge zur Literatur (Erlangen für MA/BA/LA GY/RS) — Seminar und Übung
+
+- **Segment:** `unit:137788` · **unitId:** `137788`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137788&periodId=589>
+
+- **Veranstaltungsart:** Seminar und Übung
+
 ### Religionsdidaktik im System beruflicher Schulen — Seminar
 
 - **Segment:** `unit:120913` · **unitId:** `120913`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120913&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wird noch angekündigt | — | — | — | — |
 
 ### Religionswissenschaftliche Grundfragen — Vorlesung mit Übung
 
@@ -16704,14 +16931,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Seminar Empirische Forschung quantitativ — Übung
-
-- **Segment:** `unit:104158` · **unitId:** `104158`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104158&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Sommersemester
-
 ### Seminar Klettern oder Wassersport oder MTB oder Inlineskaten oder Triathlon oder Zirkuskünste oder Kampfkünste oder entsprechende Angebote - Praktisch-didaktische Prüfung
 
 - **Segment:** `unit:36702` · **unitId:** `36702`
@@ -16819,7 +17038,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 10:00–11:30 | 23.04.2026 | 21102.00.423 ((33 Plätze – nicht für studentische Veranstaltungen)) |
 
 ### Seminar zum Genossenschaftswesen (Hausarbeit)
 
@@ -17053,6 +17279,24 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
+### Sonderpädagogische Förderung im Teilhabefeld Beruf und Arbeit — Seminar
+
+- **Segment:** `unit:120127` · **unitId:** `120127`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120127&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–18:00 | 24.04.2026 | 21101.04.156 |
+| Einzeltermin | Sa | 10:00–16:00 | 25.04.2026 | 21101.04.156 |
+| Einzeltermin | Fr | 14:00–18:00 | 03.07.2026 | 21101.04.156 |
+| Einzeltermin | Sa | 10:00–16:00 | 04.07.2026 | 21101.04.156 |
+
 ### Sonderpädagogisches Handeln im Teilhabefeld Beruf und Arbeit
 
 - **Segment:** `unit:116962` · **unitId:** `116962`
@@ -17174,7 +17418,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Spanisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 09:45–11:15 | 22.04.2026–15.07.2026 | — |
 
 ### Spanisch: Master Evaluación y Medición — Übung
 
@@ -17363,7 +17614,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 15:00–16:30 | 27.04.2026–13.07.2026 | 21101.00.144 (LG 0.144 (38 Plätze) Übungsraum) |
+| Einzeltermin | Mo | 16:45–18:15 | 01.06.2026 | — |
 
 ### Strategic Supply Management — Vorlesung
 
@@ -17475,7 +17734,19 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 15:00–16:30 | 27.04.2026 | 21101.03.155 (LG 3.155 (24 Plätze) Seminarraum) |
+| Einzeltermin | Mo | 15:00–16:30 | 11.05.2026 | 21101.00.143 (LG 0.143 (42 Plätze) Übungsraum) |
+| Einzeltermin | Mo | 15:00–16:30 | 08.06.2026 | 21101.05.153 (LG 5.153 (24 Plätze) Seminarraum) |
+| Einzeltermin | Mo | 15:00–16:30 | 22.06.2026 | 21101.00.225 (LG 0.225 (44 Plätze) Übungsraum) |
+| Einzeltermin | Mo | 15:00–16:30 | 13.07.2026 | 21101.00.143 (LG 0.143 (42 Plätze) Übungsraum) |
+| Einzeltermin | Fr | 09:00–12:00 | 07.08.2026 | 21102.00.423 ((33 Plätze – nicht für studentische Veranstaltungen)) |
 
 ### Supply chain Management research seminar (Präsentation)
 
@@ -17637,6 +17908,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### Transzendentale Argumente gegen den Skeptizismus — Proseminar / Mittelseminar
@@ -17647,6 +17919,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Proseminar / Mittelseminar
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:00–15:30 | 15.04.2026–15.07.2026 | 05801.02.111 ( PSG A 402) |
 
 ### Tschechisch: Elementarkurs II
 
@@ -17770,7 +18048,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134143&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Vampirinnen als subversive Figuren von 1800 bis zur Gegenwart (Lit AM-L) — Seminar
 
@@ -17778,7 +18063,19 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134050&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–16:00 | 24.04.2026 | 05902.00.005 ( 00.5 PSG) |
+| Einzeltermin | Fr | 14:00–19:00 | 12.06.2026 | 05902.00.005 ( 00.5 PSG) |
+| Einzeltermin | Sa | 10:00–15:00 | 13.06.2026 | 05902.00.005 ( 00.5 PSG) |
+| Einzeltermin | Fr | 14:00–19:00 | 03.07.2026 | 05902.00.005 ( 00.5 PSG) |
+| Einzeltermin | Sa | 10:00–15:00 | 04.07.2026 | 05902.00.005 ( 00.5 PSG) |
+| Einzeltermin | Fr | 14:00–16:00 | 17.07.2026 | — |
 
 ### Variationen des Phantastischen in der Gegenwart: Fantasy, Science Fiction, Horror — Hauptseminar
 
@@ -17793,7 +18090,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133779&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 08:00–10:00 | 15.04.2026–15.07.2026 | 05801.01.210 ( B 301) |
 
 ### Versicherungs- und Risikotheorie (Klausur)
 
@@ -17829,7 +18133,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119515&periodId=589>
 
 - **Veranstaltungsart:** Sonstige Lehrveranstaltung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| nach Vereinbarung | — | — | — | — |
 
 ### Vertiefungmodul Fachdidaktik Deutsch (ab PO 20202): Vorlesung: Deutschdidaktik als forschende Disziplin
 
@@ -17838,7 +18149,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Mo | 17:00–19:00 | 13.04.2026–06.07.2026 | — |
 
 ### Vertiefungsmodul Fachdidaktik Deutsch
 
@@ -18057,7 +18375,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| nach Vereinbarung | — | — | — | — |
 
 ### VHB-Kurs "Performance Management in Teams" — Seminar
 

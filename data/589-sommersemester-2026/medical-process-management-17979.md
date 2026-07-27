@@ -89,7 +89,14 @@ _Section: Studiengänge der Medizinischen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121279&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | — |
 
 ### Medizinisches Qualitätsmanagement - Vorlesung mit Übung
 
@@ -98,7 +105,14 @@ _Section: Studiengänge der Medizinischen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121279&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | — |
 
 ### Public Health und evidenzbasierte Medizin, Teil von Modul 2.2 Medizinmanagement II - Vorlesung
 
@@ -108,7 +122,15 @@ _Section: Studiengänge der Medizinischen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 13:15–14:45 | 13.04.2026–13.07.2026 | — |
+| wöchentlich | Do | 10:30–12:00 | 16.04.2026–16.07.2026 | — |
 
 ### Public Health und evidenzbasierte Medizin, Teil von Modul 2.2 Medizinmanagement II - Vorlesung
 
@@ -118,7 +140,15 @@ _Section: Studiengänge der Medizinischen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 13:15–14:45 | 13.04.2026–13.07.2026 | — |
+| wöchentlich | Do | 10:30–12:00 | 16.04.2026–16.07.2026 | — |
 
 ### Spezielle Aspekte des deutschen Gesundheitssystems - Seminar
 
@@ -128,7 +158,14 @@ _Section: Studiengänge der Medizinischen Fakultät_
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:30–14:00 | 14.04.2026–14.07.2026 | — |
 
 ### Spezielle Aspekte des deutschen Gesundheitssystems - Seminar
 
@@ -138,7 +175,14 @@ _Section: Studiengänge der Medizinischen Fakultät_
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:30–14:00 | 14.04.2026–14.07.2026 | — |
 
 ### 1995 Praktikum 1 (M.Sc. Medical Process Management 2008) - Leistung
 
@@ -155,11 +199,20 @@ _Section: Studiengänge der Medizinischen Fakultät_
 |---|---|---|---|---|
 | Do | Do | — | — | — |
 
-### 1995 Praktikum 1 (M.Sc. Medical Process Management 20242)
+### 1995 Praktikum 1 (M.Sc. Medical Process Management 20242) - Leistung
 
-- **Segment:** `exam:13867219` · **unitId:** `124128`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17979|exam:13867178|exam:13867179|exam:13867181|exam:13867219>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124128&periodId=589>
+- **Segment:** `exam:13867220` · **unitId:** `124129`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17979|exam:13867178|exam:13867179|exam:13867181|exam:13867219|exam:13867220>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124129&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### 1996 Praktikum 2 (M.Sc. Medical Process Management 2008) - Leistung
 
@@ -176,11 +229,20 @@ _Section: Studiengänge der Medizinischen Fakultät_
 |---|---|---|---|---|
 | Do | Do | — | — | — |
 
-### 1996 Praktikum 2 (M.Sc. Medical Process Management 20242)
+### 1996 Praktikum 2 (M.Sc. Medical Process Management 20242) - Leistung
 
-- **Segment:** `exam:13867221` · **unitId:** `124130`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17979|exam:13867178|exam:13867179|exam:13867181|exam:13867221>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124130&periodId=589>
+- **Segment:** `exam:13867222` · **unitId:** `124131`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17979|exam:13867178|exam:13867179|exam:13867181|exam:13867221|exam:13867222>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124131&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### 1997 Praktikum 3 (M.Sc. Medical Process Management 2008) - Leistung
 
@@ -197,11 +259,20 @@ _Section: Studiengänge der Medizinischen Fakultät_
 |---|---|---|---|---|
 | Do | Do | — | — | — |
 
-### 1997 Praktikum 3 (M.Sc. Medical Process Management 20242)
+### 1997 Praktikum 3 (M.Sc. Medical Process Management 20242) - Leistung
 
-- **Segment:** `exam:13867223` · **unitId:** `124132`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17979|exam:13867178|exam:13867179|exam:13867181|exam:13867223>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124132&periodId=589>
+- **Segment:** `exam:13867224` · **unitId:** `124133`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17979|exam:13867178|exam:13867179|exam:13867181|exam:13867223|exam:13867224>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124133&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### 1999 Masterarbeit (M.Sc. Medical Process Management 2008)
 
@@ -763,7 +834,7 @@ _Section: Studiengänge der Medizinischen Fakultät_
 | Einzeltermin | Fr | 13:00–16:30 | 12.06.2026 | — |
 | Einzeltermin | Fr | 13:00–16:30 | 19.06.2026 | — |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (11)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (10)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -818,15 +889,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Sa | Sa | 13:00–19:00 | — | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
-### Grundlagen der Krankheitserkennung — Vorlesung
-
-- **Segment:** `unit:108553` · **unitId:** `108553`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=108553&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Klausur zum Nachweis Gesicherter Lateinkenntnisse
 
 - **Segment:** `unit:39849` · **unitId:** `39849`
@@ -854,8 +916,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 

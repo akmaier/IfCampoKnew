@@ -770,7 +770,7 @@ _Section: Studiengänge der Rechts- und Wirtschaftswissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17611|exam:14056452|exam:14056454|exam:14056455|exam:14056456|exam:14056542|exam:14056557>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=41927&periodId=589>
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (288)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (285)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -781,7 +781,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 11:30–13:00 | 15.04.2026–15.07.2026 | 21101.03.155 (LG 3.155 (24 Plätze) Seminarraum) |
+| wöchentlich | Mi | 13:15–14:45 | 22.04.2026–17.06.2026 | 21101.03.155 (LG 3.155 (24 Plätze) Seminarraum) |
 
 ### Aktuelle Kommunikationswissenschaft — Seminar
 
@@ -1009,7 +1017,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 09:45–11:15 | 13.04.2026–13.07.2026 | 21102.01.420 (LG H5 TeamBank-Hörsaal (384 Plätze)) |
 
 ### Ba-Vorl: Internationale Wirtschaft — Vorlesung mit Übung
 
@@ -1121,6 +1136,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121225&periodId=589>
 
 - **Veranstaltungsart:** Online-Kurs
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### Buchführung (Klausur)
@@ -1144,6 +1160,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Tutorium
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 11:30–13:00 | 29.04.2026–15.07.2026 | — |
 
 ### Business English for information systems 1 (written examination)
 
@@ -1437,6 +1459,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### Deutsch B1.1: Allgemeinkurs
@@ -1714,6 +1737,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
 ### Dänisch: Elementarkurs IV
@@ -2322,13 +2346,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Unterrichtssprache:** Französisch
 - **Turnus:** in jedem Semester
 
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 18:30–20:00 | 13.04.2026–13.07.2026 | 21102.00.424 (LG 0.424 (92 Plätze) Übungsraum) |
-| wöchentlich | Mo | 16:45–18:15 | 20.04.2026–06.07.2026 | 21102.00.424 (LG 0.424 (92 Plätze) Übungsraum) |
-
 ### Französisch: Elementarkurs 2 — Übung
 
 - **Segment:** `unit:90483` · **unitId:** `90483`
@@ -2515,7 +2532,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 13:15–18:15 | 19.06.2026 | 21102.00.424 (LG 0.424 (92 Plätze) Übungsraum) |
+| Einzeltermin | Sa | 09:45–14:45 | 20.06.2026 | 21101.00.143 (LG 0.143 (42 Plätze) Übungsraum) |
+| Einzeltermin | Mo | 16:45–18:15 | 22.06.2026 | 21101.00.141 (LG 0.141 (48 Plätze) Übungsraum) |
+| Einzeltermin | Di | 16:45–18:15 | 23.06.2026 | 21101.00.144 (LG 0.144 (38 Plätze) Übungsraum) |
+| Einzeltermin | Fr | 13:15–18:15 | 26.06.2026 | 21101.00.224 (LG 0.224 (98 Plätze) Übungsraum) |
+| Einzeltermin | Sa | 09:45–14:45 | 27.06.2026 | 21101.00.143 (LG 0.143 (42 Plätze) Übungsraum) |
+| wöchentlich | Mo | 16:45–18:15 | 29.06.2026–13.07.2026 | 21101.00.141 (LG 0.141 (48 Plätze) Übungsraum) |
+| Einzeltermin | Di | 16:45–18:15 | 30.06.2026 | 21101.00.141 (LG 0.141 (48 Plätze) Übungsraum) |
+| Einzeltermin | Fr | 08:00–09:30 | 03.07.2026 | 21102.00.424 (LG 0.424 (92 Plätze) Übungsraum) |
 
 ### Grundzüge der Umweltökonomik (Klausur)
 
@@ -2530,13 +2562,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### Grundzüge des Handelsrechts — Vorlesung
-
-- **Segment:** `unit:119008` · **unitId:** `119008`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119008&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
 
 ### Hot Topics in International Communication Research — Seminar
 
@@ -2587,7 +2612,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 11:30–13:00 | 23.04.2026–16.07.2026 | 21102.01.421 (LG H6 BISSANTZ-Hörsaal (240 Plätze)) |
 
 ### Innovation (Klausur)
 
@@ -2756,15 +2788,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Fr | Fr | — | — | — |
 
-### Internationale Unternehmensführung — Vorlesung
-
-- **Segment:** `unit:86360` · **unitId:** `86360`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86360&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
-
 ### Internationale Wirtschaft (Klausur)
 
 - **Segment:** `unit:31316` · **unitId:** `31316`
@@ -2831,7 +2854,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 21101.01.213 (LG H4 (814 Plätze) Hörsaal) |
 
 ### Investition und Finanzierung (ÜB) — Übung
 
@@ -3058,8 +3088,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -3092,7 +3122,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 11:30–13:00 | 13.04.2026–13.07.2026 | 21101.01.213 (LG H4 (814 Plätze) Hörsaal) |
 
 ### Makroökonomie (Klausur)
 
@@ -3154,7 +3191,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 15:00–16:30 | 13.04.2026–13.07.2026 | 21101.01.114 (LG H3 GfK-Hörsaal (155 Plätze) &quot;Gesellschaft für Konsumforschung&quot;) |
 
 ### Mathematik — Vorlesung
 
@@ -3180,7 +3224,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 13:15–14:45 | 14.04.2026–14.07.2026 | 21101.00.222 (LG 0.222/3 (94 Plätze) Übungsraum) 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
+| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 21101.00.222 (LG 0.222/3 (94 Plätze) Übungsraum) 21101.00.225 (LG 0.225 (44 Plätze) Übungsraum) |
 
 ### Methoden und Instrumente der Personalarbeit (Thesenpapier)
 
@@ -3397,6 +3441,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 09:00–10:30 | 21.05.2026–16.07.2026 | — |
+| wöchentlich | Di | 15:00–16:30 | 19.05.2026–14.07.2026 | — |
 
 ### PCP Projektarbeit
 
@@ -3883,7 +3934,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 08:00–18:00 | 03.07.2026 | 21101.01.114 (LG H3 GfK-Hörsaal (155 Plätze) &quot;Gesellschaft für Konsumforschung&quot;) |
+| Einzeltermin | Fr | 08:00–18:00 | 10.07.2026 | 21101.00.143 (LG 0.143 (42 Plätze) Übungsraum) |
 
 ### Seminar zur Wirtschaftstheorie (Präsentation)
 
@@ -3933,18 +3992,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83677&periodId=589>
 
 - **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 09:45–11:15 | 16.04.2026–28.05.2026 | 21102.00.422 (CIP-Pool 2 (RRZE-IZN)) |
-| Einzeltermin | Do | 09:45–11:15 | 11.06.2026 | 21101.00.215 (CIP-Pool 1 (RRZE-IZN)) |
-| Einzeltermin | Do | 09:45–11:15 | 18.06.2026 | 21102.00.422 (CIP-Pool 2 (RRZE-IZN)) |
-| Einzeltermin | Do | 09:45–11:15 | 25.06.2026 | 21102.00.421 (CIP-Pool 2 (RRZE-IZN)) |
-| wöchentlich | Do | 09:45–11:15 | 02.07.2026–16.07.2026 | 21102.00.422 (CIP-Pool 2 (RRZE-IZN)) |
 
 ### Social Data Science III / Empirische Methoden + Statistik I - Übung 2
 
@@ -4008,15 +4056,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 16:30–18:00 | 17.04.2026–17.07.2026 | 21101.00.222 (LG 0.222/3 (94 Plätze) Übungsraum) |
-| wöchentlich | Fr | 15:00–16:30 | 24.04.2026–17.07.2026 | 21101.00.222 (LG 0.222/3 (94 Plätze) Übungsraum) |
 
 ### Software reliability (mündliche Prüfung)
 
@@ -4030,7 +4070,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| Di | Di | 16:00–16:30 | — | 21101.04.109 (4.109, nur für Lehrstuhl-interne Veranstaltungen nutzbar) |
 
 ### Sozialpolitische Grundlagen (Klausur)
 
@@ -4260,7 +4300,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 15:00–16:30 | 14.04.2026–14.07.2026 | 21101.01.114 (LG H3 GfK-Hörsaal (155 Plätze) &quot;Gesellschaft für Konsumforschung&quot;) |
 
 ### Unternehmensbesteuerung (Klausur)
 
@@ -4332,7 +4379,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 15:00–16:30 | 13.04.2026–13.07.2026 | 21101.01.113 (LG H2 Hörsaal (155 Plätze)) |
 
 ### Wettbewerbstheorie und -politik — Vorlesung mit Übung
 
@@ -4511,7 +4565,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 13:15–14:45 | 21.04.2026–14.07.2026 | 21101.00.142 (LG 0.142 (98 Plätze) Übungsraum) |
+| wöchentlich | Mi | 13:15–14:45 | 22.04.2026–15.07.2026 | 21101.01.113 (LG H2 Hörsaal (155 Plätze)) |
 
 ### Übung zu Grundlagen der Wirtschafts- und Betriebspädagogik
 
@@ -4527,15 +4581,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 08:00–09:30 | 15.04.2026–15.07.2026 | 21101.00.141 (LG 0.141 (48 Plätze) Übungsraum) |
-
-### Übung zur Arbeitsmarktpolitik
-
-- **Segment:** `unit:105918` · **unitId:** `105918`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=105918&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
 
 ### Übung zur Makroökonomie
 

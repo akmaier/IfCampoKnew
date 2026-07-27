@@ -627,6 +627,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17184|exam:13292567|exam:13292570|exam:13292571|exam:13293998|exam:13294710|exam:13294711>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45581&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -641,6 +642,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17184|exam:13298168|exam:13298171|exam:13298172|exam:13298173|exam:13298885|exam:13298886>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45581&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -716,6 +718,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45588&periodId=565>
 
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | 08:00–10:00 | — | 05901.04.012 |
 
 ### 32311 Klausur zu weitere indogermanische Sprachen I - Leistung
 
@@ -724,6 +733,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45588&periodId=565>
 
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | 08:00–10:00 | — | 05901.04.012 |
 
 ### 32421 Hausarbeit zu Rekonstruktion der indogermanischen Grundsprache - Leistung
 
@@ -2111,17 +2127,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17184|exam:13298168|exam:13298171|exam:13298172|exam:13298173|exam:13298174|exam:13298856>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=63048&periodId=565>
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (227)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (258)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
-
-### (Schul)kanon und Kinder- und Jugendliteratur (Nürnberg: nur GS/MS/RS/Berufl.Schulen) — Seminar
-
-- **Segment:** `unit:123938` · **unitId:** `123938`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123938&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
 
 ### a HINWEIS: Jedes LitG-AM Seminar kann entweder als Lektüreseminar oder als Seminar belegt werden. Dies ist keine Lehrveranstaltung. — Einzelunterricht
 
@@ -2204,6 +2212,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
+
+### Aufbaumodul Lit AM-L: Literatur, Lektüren und Kontexte (Erlangen für: BA/LA GYM/RS) — Seminar
+
+- **Segment:** `unit:137785` · **unitId:** `137785`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137785&periodId=565>
+
+- **Veranstaltungsart:** Seminar
 
 ### Aufbauseminar
 
@@ -2367,6 +2382,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
+### Aufbauseminar spanische Literaturwissenschaft
+
+- **Segment:** `unit:101280` · **unitId:** `101280`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101280&periodId=565>
+
+- **Veranstaltungsart:** Aufbauseminar
+- **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:15–13:45 | 13.10.2025–02.02.2026 | 56701.02.036 (Mo - Fr 8:00 - 20:00 Uhr Romanistik) |
+
 ### Aufbauseminar zur spanischen Sprachwissenschaft: Sprachhistorischer Kurs Spanisch I
 
 - **Segment:** `unit:105385` · **unitId:** `105385`
@@ -2501,6 +2532,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Di | 08:30–10:00 | 14.10.2025–03.02.2026 | 05801.04.213 ( B 604) |
 | wöchentlich | Mo | 10:15–11:45 | 20.10.2025–02.02.2026 | 05801.04.310 ( C 603) |
 
+### BA 5: Arabische Sprachwissenschaft und Dialektologie - Einführung — Seminar
+
+- **Segment:** `unit:85736` · **unitId:** `85736`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85736&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 3.5
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:15–11:45 | 15.10.2025–04.02.2026 | 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
+
 ### BA 6. FS: [Modul Arabische Literatur]  Klassische Literatur — Seminar
 
 - **Segment:** `unit:86664` · **unitId:** `86664`
@@ -2595,6 +2642,23 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Sa | Sa | 12:00–14:00 | 07.12.2025 23:59:59 | 56701.02.014 ( 02.014) |
 
+### Basisseminar italienische Sprachwissenschaft  (Basismodul 72623)
+
+- **Segment:** `unit:92270` · **unitId:** `92270`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92270&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.10.2025–05.02.2026 | 56701.03.011 |
+| Einzeltermin | Mo | 10:00–12:00 | 01.12.2025 | — |
+
 ### Basisseminar spanische Literaturwissenschaft — Einführungskurs
 
 - **Segment:** `unit:101324` · **unitId:** `101324`
@@ -2633,6 +2697,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 12:00–14:00 | 14.10.2025–03.02.2026 | 56701.02.014 ( 02.014) |
+
+### Basisvorlesung English Linguistics II
+
+- **Segment:** `unit:130623` · **unitId:** `130623`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130623&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 18:00–19:00 | 14.10.2025–03.02.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
 
 ### Basisvorlesung English Linguistics II
 
@@ -2714,6 +2793,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mi | 12:15–13:45 | 15.10.2025–04.02.2026 | 05801.04.112 ( A 602) |
 
+### Compréhension orale — Übung
+
+- **Segment:** `unit:84972` · **unitId:** `84972`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84972&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Französisch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:15–11:45 | 22.10.2025–04.02.2026 | 05801.U1.0232 (SL 104, Bismarckstr. 1 Multimedia-Sprachlabor (Belegung nur nach Rücksprache mit den Raumverantwortlichen)) |
+
 ### Contemporary Asian-American Writing — Mittelseminar
 
 - **Segment:** `unit:130673` · **unitId:** `130673`
@@ -2745,6 +2840,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 3.0
 - **Turnus:** nur im Sommersemester
 
+### Cultura e civiltà II — Übung
+
+- **Segment:** `unit:89518` · **unitId:** `89518`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89518&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:15–13:45 | 22.10.2025–04.02.2026 | 05701.00.010 ( 00.010 Übungsraum 1) |
+
 ### Cultures of Breathing: From John Donne to Darth Vader and Beyond — Mittelseminar
 
 - **Segment:** `unit:130679` · **unitId:** `130679`
@@ -2762,15 +2873,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Blockveranstaltung+Sa | — | 10:15–17:00 | 13.12.2025 | 05801.01.310 ( C 301 Übungsraum) |
 | Blockveranstaltung+Sa | — | 10:15–17:00 | 10.01.2026 | 05801.01.310 ( C 301 Übungsraum) |
 | Blockveranstaltung+Sa | — | 10:15–17:00 | 31.01.2026 | 05801.01.310 ( C 301 Übungsraum) |
-
-### Das italische Verb — Mittelseminar
-
-- **Segment:** `unit:134568` · **unitId:** `134568`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134568&periodId=565>
-
-- **Veranstaltungsart:** Mittelseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
 
 ### Das Wissen der Literatur: Ansätze, Kontexte, Perspektiven (neuer BA: Lit AM-W) — Seminar
 
@@ -2803,6 +2905,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
+
+### Dimensions of Power in William Shakespeare's Plays — Mittelseminar
+
+- **Segment:** `unit:130596` · **unitId:** `130596`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130596&periodId=565>
+
+- **Veranstaltungsart:** Mittelseminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:15–15:45 | 15.10.2025–04.02.2026 | 00501.00.023 ( KH 0.023 Hörsaal Kollegienhaus) |
 
 ### Dramatik der Gegenwart — Hauptseminar
 
@@ -2845,6 +2962,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mi | Mi | 14:15–15:45 | — | — |
+
+### Dänisch: Landeskunde
+
+- **Segment:** `unit:55011` · **unitId:** `55011`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55011&periodId=565>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | 12:15–13:15 | — | — |
 
 ### Early First Language Acquisition — Proseminar (Mittelseminar, PO 2020)
 
@@ -2930,6 +3061,23 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133783&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar
+
+### Español intermedio II — Übung
+
+- **Segment:** `unit:86547` · **unitId:** `86547`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86547&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 7.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:15–11:45 | 14.10.2025–03.02.2026 | 54801.01.013 (SP 01.013 Schlossplatz 1) |
+| wöchentlich | Do | 14:15–15:45 | 16.10.2025–05.02.2026 | 54606.01.003 (F 13 (IFA)) |
 
 ### EWF: Writing Skills / Writing in Academic Contexts — Übung
 
@@ -3020,14 +3168,19 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Do | 08:15–09:45 | 16.10.2025–05.02.2026 | 54606.01.003 (F 13 (IFA)) |
 
-### Fonética práctica B — Übung
+### Französische Sprachpraxis 1
 
-- **Segment:** `unit:89664` · **unitId:** `89664`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89664&periodId=565>
+- **Segment:** `unit:47810` · **unitId:** `47810`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47810&periodId=565>
 
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
-- **Turnus:** nur im Wintersemester
+- **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | 10:15–11:45 | — | 05901.00.040 ( HS C Hörsaal C - 00.040) |
 
 ### Freiwilliges Zusatzangebot: Online-Ringvorlesung "Systematische Aspekte der Literaturwissenschaft"
 
@@ -3037,6 +3190,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+### Friedrich Schiller- Werk und Rezeption (NDL VM-1&NDL VM-2) — Hauptseminar
+
+- **Segment:** `unit:130328` · **unitId:** `130328`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130328&periodId=565>
+
+- **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:00–12:00 | 13.10.2025–02.02.2026 | 05801.00.317 ( C 202) |
 
 ### Gabriele Reuter - Neuentdeckungen einer Bestsellerautorin (VM) — Hauptseminar
 
@@ -3067,6 +3235,35 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Mittelseminar
 
+### Genres der digitalen Literatur — Seminar
+
+- **Segment:** `unit:131963` · **unitId:** `131963`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131963&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:00–12:00 | 13.10.2025–02.02.2026 | — |
+
+### Germanistische Mediävistik
+
+- **Segment:** `unit:40836` · **unitId:** `40836`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=40836&periodId=565>
+
+- **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | — | — | — |
+
 ### Graecum I
 
 - **Segment:** `unit:24575` · **unitId:** `24575`
@@ -3088,6 +3285,19 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **ECTS-Punkte:** 10.0
 - **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | 10:00–11:30 | 07.12.2025 23:59:59 | 05801.04.112 ( A 602) |
+
+### Grammatik und Übung Arabisch III
+
+- **Segment:** `unit:21272` · **unitId:** `21272`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=21272&periodId=565>
+
+- **ECTS-Punkte:** 10.0
 
 #### Termine
 
@@ -3151,6 +3361,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Hauptseminar
 
+### Grundlagen der Germanistischen Linguistik 1
+
+- **Segment:** `unit:46465` · **unitId:** `46465`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46465&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | 16:15–17:15 | 07.12.2025 23:59:59 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
+
 ### Grundlagen der Germanistischen Mediävistik 1
 
 - **Segment:** `unit:46467` · **unitId:** `46467`
@@ -3164,6 +3388,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | 10:30–11:30 | — | — |
+
+### Grundlagen der Neueren deutschen Literaturwissenschaft 1
+
+- **Segment:** `unit:46469` · **unitId:** `46469`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46469&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Grundlagen der Neueren deutschen Literaturwissenschaft 2
 
@@ -3289,6 +3527,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **Turnus:** in jedem Semester
+
+### Hausarbeit zu Geschichte der islamischen Welt
+
+- **Segment:** `unit:39435` · **unitId:** `39435`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39435&periodId=565>
+
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Hebräisch: Elementarkurs I
 
@@ -3443,6 +3695,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Do | Do | 11:30–13:00 | 07.12.2025 23:59:59 | 05801.04.213 ( B 604) |
 
+### Klausur zu Geschichte der islamischen Welt
+
+- **Segment:** `unit:39352` · **unitId:** `39352`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39352&periodId=565>
+
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | Fr | 12:00–14:00 | — | 05801.04.112 ( A 602) |
+
 ### Klausur zum Nachweis Gesicherter Lateinkenntnisse
 
 - **Segment:** `unit:39849` · **unitId:** `39849`
@@ -3518,6 +3784,38 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 3.0
 - **Turnus:** nur im Sommersemester
 
+### Latein I für Anfänger (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
+
+- **Segment:** `unit:96547` · **unitId:** `96547`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96547&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:00–16:00 | 13.10.2025–02.02.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.10.2025–04.02.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
+
+### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
+
+- **Segment:** `unit:83014` · **unitId:** `83014`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83014&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.10.2025–02.02.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 16:00–18:00 | 15.10.2025–04.02.2026 | 05701.00.017 ( Kl. Hörsaal) |
+
 ### Latein II für Fortgeschrittene - Intensivkurs (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
 - **Segment:** `unit:89729` · **unitId:** `89729`
@@ -3583,6 +3881,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 ### Ling AM-2: Seminar Linguistik
 
+- **Segment:** `unit:82593` · **unitId:** `82593`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82593&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:15–13:45 | 20.10.2025–02.02.2026 | 05801.01.211 ( B 302) |
+
+### Ling AM-2: Seminar Linguistik
+
 - **Segment:** `unit:89742` · **unitId:** `89742`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89742&periodId=565>
 
@@ -3617,6 +3931,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** in jedem Semester
 
+### Ling AM-2: Wortbildung der deutschen Gegenwartssprache — Seminar
+
+- **Segment:** `unit:109968` · **unitId:** `109968`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=109968&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 08:30–10:00 | 15.10.2025–04.02.2026 | 05902.00.003 ( 00.3 PSG) |
+
 ### Ling AM: Briefe von Psychiatriepatienten aus soziolinguistischer Perspektive — Seminar
 
 - **Segment:** `unit:118633` · **unitId:** `118633`
@@ -3639,22 +3969,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 08:30–11:00 | 14.10.2025–03.02.2026 | 00501.01.012 ( KH 1.012 Hörsaal Kollegienhaus) |
-
-### Ling BM-1: Einführung in die germanistische Linguistik (nur für LA GS, MS, RS und Berufliche Schulen) — Einführungskurs
-
-- **Segment:** `unit:86863` · **unitId:** `86863`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86863&periodId=565>
-
-- **Veranstaltungsart:** Einführungskurs
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 10:30–13:00 | 17.10.2025–06.02.2026 | 20301.U1.038 (U1.038 Seminarraum (50)) |
 
 ### Ling BM-1: Tutorium (Erlangen)
 
@@ -3737,7 +4051,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 08:30–10:00 | 20.10.2025–02.02.2026 | 05902.00.003 ( 00.3 PSG) |
 
-### Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA und LA Gym)
+### Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA, LA Gym, WiPäd, DiDaZ)
 
 - **Segment:** `unit:103936` · **unitId:** `103936`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103936&periodId=565>
@@ -3751,36 +4065,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Fr | 14:15–15:45 | 17.10.2025–06.02.2026 | 00501.00.015 ( KH 0.015 Hörsaal Kollegienhaus (SR)) |
-
-### Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Nürnberg, nur für LA GS, MS, RS, Berufl. Schulen)
-
-- **Segment:** `unit:90525` · **unitId:** `90525`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90525&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 09:45–11:15 | 14.10.2025–03.02.2026 | 20301.U1.029 (U1.029 Seminarraum (18)) |
-
-### Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Nürnberg, nur für LA GS, MS, RS, Berufl. Schulen)
-
-- **Segment:** `unit:103826` · **unitId:** `103826`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103826&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 08:45–10:15 | 17.10.2025–06.02.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
 
 ### Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen)
 
@@ -3805,6 +4089,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:15–15:45 | 20.10.2025–02.02.2026 | 05801.01.211 ( B 302) |
 
+### Ling VM-Hauptseminar: Sprachwandel/Variation (Erlangen, nur für BA, LA Gym und Berufliche Schulen)
+
+- **Segment:** `unit:119353` · **unitId:** `119353`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119353&periodId=565>
+
+- **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 16:00–17:30 | 16.10.2025–05.02.2026 | 05801.00.317 ( C 202) |
+
 ### Ling VM-Kolleg (Erlangen, Live-Stream zum Campus Regensburger Straße in Nbg.)
 
 - **Segment:** `unit:87183` · **unitId:** `87183`
@@ -3813,10 +4112,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Kolleg
 - **Turnus:** in jedem Semester
 
-### Ling VM-Kolleg: Gegenwartssprache/DaF (Nürnberg, nur LA GS, MS, RS, Berufl. Schulen)
+### Ling VM-Kolleg: Bereich Gegenwartssprache/DaF (Erlangen, nur für BA und LA Gym)
 
-- **Segment:** `unit:96263` · **unitId:** `96263`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96263&periodId=565>
+- **Segment:** `unit:87078` · **unitId:** `87078`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87078&periodId=565>
 
 - **Veranstaltungsart:** Kolleg
 - **Unterrichtssprache:** Deutsch
@@ -3826,7 +4125,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 11:30–13:00 | 14.10.2025–03.02.2026 | 20301.02.047 (2.047 Seminarraum (40)) |
+| wöchentlich | Fr | 12:15–13:45 | 17.10.2025–06.02.2026 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
+
+### Ling VM-Kolleg: Bereich Sprachwandel/Variation, Gegenwartssprache/DaF (in Erlangen, geöffnet für alle Studiengänge)
+
+- **Segment:** `unit:87232` · **unitId:** `87232`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87232&periodId=565>
+
+- **Veranstaltungsart:** Kolleg
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:30–18:00 | 20.10.2025–02.02.2026 | 05801.01.211 ( B 302) |
 
 ### Linguistik
 
@@ -3841,6 +4155,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | — | — | — |
+
+### Linguistisches Mittelseminar (Erlangen)
+
+- **Segment:** `unit:111384` · **unitId:** `111384`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111384&periodId=565>
+
+- **Veranstaltungsart:** Mittelseminar
+- **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 00501.00.020 ( KH 0.020 Hörsaal Kollegienhaus) |
 
 ### Lit AM (alter BA): Gender Studies und Literaturwissenschaft — Proseminar
 
@@ -3918,6 +4247,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 ### Literaturgeschichte
 
+- **Segment:** `unit:46476` · **unitId:** `46476`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46476&periodId=565>
+
+- **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | — | — | — |
+
+### Literaturgeschichte
+
 - **Segment:** `unit:46495` · **unitId:** `46495`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46495&periodId=565>
 
@@ -3938,13 +4281,35 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **Turnus:** Unregelmäßig
 
-### M/SM: Das Nibelungenlied — Seminar
+### M/SM: Heldenepisches Erzählen in höfischer Zersetzung? Wolframs von Eschenbach "Willehalm" (und die "Chanson d'Aliscans") — Hauptseminar / Masterseminar
 
-- **Segment:** `unit:110062` · **unitId:** `110062`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110062&periodId=565>
+- **Segment:** `unit:128978` · **unitId:** `128978`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128978&periodId=565>
 
-- **Veranstaltungsart:** Seminar
-- **Turnus:** Unregelmäßig
+- **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:00–16:00 | 16.10.2025–05.02.2026 | 05801.02.260 ( B 4A1) |
+
+### M/SM: Toxische Weiblichkeit? Meinungen, Argumente und Wissenstraditionen in der Literatur des Mittelalters — Hauptseminar / Masterseminar
+
+- **Segment:** `unit:128977` · **unitId:** `128977`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128977&periodId=565>
+
+- **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:00–14:00 | 14.10.2025–03.02.2026 | 05801.01.210 ( B 301) |
 
 ### M/SM: Würste, Braten und Bier - Kulinarische Motivfelder in der vormodernen Literatur — Hauptseminar / Masterseminar
 
@@ -3953,6 +4318,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
 - **Turnus:** in jedem Semester
+
+### Med AM-Mhd: Aufbaumodul Mittelhochdeutsch — Aufbauseminar
+
+- **Segment:** `unit:129868` · **unitId:** `129868`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=129868&periodId=565>
+
+- **Veranstaltungsart:** Aufbauseminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:00–13:00 | 13.10.2025–02.02.2026 | 05902.00.004 ( 00.4 PSG) |
 
 ### Med AM-Mhd: Aufbaumodul Mittelhochdeutsch — Aufbauseminar
 
@@ -4056,13 +4436,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Proseminar (Mittelseminar, PO 2020)
 - **Turnus:** nur im Wintersemester
 
-### Muse?! Modell?! Malerin! Weibliches Kunstschaffen in Literatur und Film (NdL VM-1/NdL VM-2 und Master) — Hauptseminar
-
-- **Segment:** `unit:137844` · **unitId:** `137844`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137844&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-
 ### Natur und Industrie. Die DDR-Literatur mit den Environmental Humanities gelesen (Lit AM-L) — Seminar
 
 - **Segment:** `unit:130929` · **unitId:** `130929`
@@ -4141,6 +4514,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Proseminar
 
+### Otfried Preußler (Nürnberg: für LA GS/MS/RS) — Hauptseminar
+
+- **Segment:** `unit:137790` · **unitId:** `137790`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137790&periodId=565>
+
+- **Veranstaltungsart:** Hauptseminar
+
 ### Parcours grammatical et lexical II / Grammatik und Wortschatz II — Übung
 
 - **Segment:** `unit:88424` · **unitId:** `88424`
@@ -4158,19 +4538,37 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Mi | 08:30–10:00 | 22.10.2025–04.02.2026 | 05203.02.215 (SZ 02.215 (Bismarckstr. 10) Belegung nur nach Rücksprache mit der Raumverantwortlichen) |
 | wöchentlich | Fr | 14:15–15:45 | 24.10.2025–06.02.2026 | 54801.01.013 (SP 01.013 Schlossplatz 1) |
 
+### Parcours grammatical II
+
+- **Segment:** `unit:47817` · **unitId:** `47817`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47817&periodId=565>
+
+- **ECTS-Punkte:** 4.0
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### Persisch: Elementarkurs I
+
+- **Segment:** `unit:37603` · **unitId:** `37603`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37603&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | 18:00–19:30 | — | 05701.U1.008 () |
+
 ### Phonetik und Phonologie des Französischen — Übung
 
 - **Segment:** `unit:87814` · **unitId:** `87814`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87814&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
-- **Turnus:** nur im Sommersemester
-
-### Phonetik und Phonologie des Italienischen — Übung
-
-- **Segment:** `unit:82807` · **unitId:** `82807`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82807&periodId=565>
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.0
@@ -4399,6 +4797,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
+### Proseminar spanische Literaturwissenschaft
+
+- **Segment:** `unit:94631` · **unitId:** `94631`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94631&periodId=565>
+
+- **Veranstaltungsart:** Proseminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:15–15:45 | 13.10.2025–02.02.2026 | 56701.02.036 (Mo - Fr 8:00 - 20:00 Uhr Romanistik) |
+
 ### Proseminar Spanische Sprachwissenschaft 1
 
 - **Segment:** `unit:40419` · **unitId:** `40419`
@@ -4427,6 +4841,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 14:00–16:00 | 15.10.2025–04.02.2026 | 56901.01.032 (CIP-Pool 4 (aktuell noch keine Rechnerausstattung - Vorbelegungsrecht HTA Departments für WS bis 15.07.26))) |
+
+### Raumtheoretische Zugänge zur Literatur (Erlangen für MA/BA/LA GY/RS) — Seminar und Übung
+
+- **Segment:** `unit:137788` · **unitId:** `137788`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137788&periodId=565>
+
+- **Veranstaltungsart:** Seminar und Übung
 
 ### Referat zu Geschichte der islamischen Welt
 
@@ -4464,6 +4885,23 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Do | Do | 14:00–16:00 | 07.12.2025 23:59:59 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
+
+### Schriftstellerinnen der Weimarer Republik (Lit AM-L) — Seminar
+
+- **Segment:** `unit:130306` · **unitId:** `130306`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130306&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Di | 19:00–21:00 | 21.10.2025 | — |
+| Einzeltermin | Sa | 09:00–18:30 | 29.11.2025 | 05801.01.211 ( B 302) |
+| Einzeltermin | Sa | 09:00–18:30 | 21.02.2026 | 05801.01.210 ( B 301) |
 
 ### Schwedisch: Elementarkurs I
 
@@ -4556,6 +4994,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 10:00–10:45 | 13.10.2025–02.02.2026 | 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
 
+### Sprachwandel und Variation
+
+- **Segment:** `unit:46479` · **unitId:** `46479`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46479&periodId=565>
+
+- **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | — | — | — |
+
 ### The (Post)Colonial in Victorian Literature and Culture — Mittelseminar
 
 - **Segment:** `unit:134530` · **unitId:** `134530`
@@ -4577,6 +5029,37 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 12:15–13:45 | 15.10.2025–04.02.2026 | 00501.01.012 ( KH 1.012 Hörsaal Kollegienhaus) |
+
+### Thomas Manns Erzählungen (LitAM-L GS/MS/RS) (Nürnberg: nur GS/MS/RS/Berufl.Schulen) — Seminar
+
+- **Segment:** `unit:130312` · **unitId:** `130312`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130312&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 11:30–13:00 | 15.10.2025–04.02.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
+
+### Thème (D-F) — Übung
+
+- **Segment:** `unit:89833` · **unitId:** `89833`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89833&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Französisch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:15–11:45 | 14.10.2025–03.02.2026 | 05203.00.216 (SZ 00.216 (Bismarckstr. 10) Belegung nur nach Rücksprache mit der Raumverantwortlichen) |
 
 ### Traduction thème (A - F)
 
@@ -4637,6 +5120,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | 16:15–17:45 | — | — |
+
+### Türkisch: Elementarkurs II
+
+- **Segment:** `unit:37670` · **unitId:** `37670`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37670&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | 16:15–17:45 | — | — |
 
 ### Utopien und Dystopien in Literatur, Kunst und Film (VM) — Hauptseminar
 
@@ -4782,15 +5279,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 10:00–12:00 | 13.10.2025–02.02.2026 | 05801.01.211 ( B 302) |
 
-### Westgermanisch und Norgermanisch vergleichend — Mittelseminar
-
-- **Segment:** `unit:127224` · **unitId:** `127224`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127224&periodId=565>
-
-- **Veranstaltungsart:** Mittelseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
 ### Wiener Moderne — Hauptseminar
 
 - **Segment:** `unit:130308` · **unitId:** `130308`
@@ -4806,3 +5294,19 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:00–16:00 | 13.10.2025–02.02.2026 | 05801.01.110 ( PSG A 301) 05801.02.111 ( PSG A 402) |
 | Einzeltermin | Mo | 16:00–18:00 | 02.02.2026 | 05801.00.317 ( C 202) |
+
+### Writing Skills — Übung
+
+- **Segment:** `unit:87515` · **unitId:** `87515`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87515&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 08:15–09:45 | 17.10.2025–06.02.2026 | 00501.00.024 (KH 0.024 Kollegienhaus - Belegung ausschließlich durch das Institut Politische Wissenschaft) 00501.00.015 ( KH 0.015 Hörsaal Kollegienhaus (SR)) |

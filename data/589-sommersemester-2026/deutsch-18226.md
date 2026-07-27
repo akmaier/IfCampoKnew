@@ -5,7 +5,7 @@ campo_segment: "title:18226"
 campo_path: "title:17593|title:17595|title:18226"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226"
 po_version_count: 22
-course_count: 1081
+course_count: 1039
 ---
 
 # Deutsch
@@ -126,7 +126,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Campo-Segment:** `title:18407`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|title:18405|title:18407>
 
-## Veranstaltungen (1081)
+## Veranstaltungen (1039)
 
 ### Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten) - Seminar
 
@@ -170,14 +170,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 4.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 13:15–15:30 | 13.04.2026–13.07.2026 | 20301.U1.031 (U1.031 Seminarraum (40)) |
 
 ### Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten): Sprache, Literatur, Medien - Seminar
 
@@ -236,14 +229,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 4.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 13:15–15:30 | 13.04.2026–13.07.2026 | 20301.U1.031 (U1.031 Seminarraum (40)) |
 
 ### Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten): Sprache, Literatur, Medien - Seminar
 
@@ -301,7 +287,18 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88682&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mi | 10:15–18:00 | 08.04.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
+| Einzeltermin | Mo | 08:00–12:00 | 01.06.2026 | — |
+| Einzeltermin | Fr | 09:00–18:00 | 19.06.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Fr | 08:30–10:00 | 03.07.2026 | 20301.01.029 (1.029 Seminarraum (40)) |
+| Einzeltermin | Do | 11:30–13:00 | 23.07.2026 | 20301.01.029 (1.029 Seminarraum (40)) |
 
 ### Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur MS): Literatur- und Mediendidaktik - Seminar
 
@@ -310,7 +307,18 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88682&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mi | 10:15–18:00 | 08.04.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
+| Einzeltermin | Mo | 08:00–12:00 | 01.06.2026 | — |
+| Einzeltermin | Fr | 09:00–18:00 | 19.06.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Fr | 08:30–10:00 | 03.07.2026 | 20301.01.029 (1.029 Seminarraum (40)) |
+| Einzeltermin | Do | 11:30–13:00 | 23.07.2026 | 20301.01.029 (1.029 Seminarraum (40)) |
 
 ### Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur MS): Literatur- und Mediendidaktik - Seminar
 
@@ -319,7 +327,18 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88682&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mi | 10:15–18:00 | 08.04.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
+| Einzeltermin | Mo | 08:00–12:00 | 01.06.2026 | — |
+| Einzeltermin | Fr | 09:00–18:00 | 19.06.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Fr | 08:30–10:00 | 03.07.2026 | 20301.01.029 (1.029 Seminarraum (40)) |
+| Einzeltermin | Do | 11:30–13:00 | 23.07.2026 | 20301.01.029 (1.029 Seminarraum (40)) |
 
 ### Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur MS): Literatur- und Mediendidaktik - Seminar
 
@@ -328,7 +347,18 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88682&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mi | 10:15–18:00 | 08.04.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
+| Einzeltermin | Mo | 08:00–12:00 | 01.06.2026 | — |
+| Einzeltermin | Fr | 09:00–18:00 | 19.06.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Fr | 08:30–10:00 | 03.07.2026 | 20301.01.029 (1.029 Seminarraum (40)) |
+| Einzeltermin | Do | 11:30–13:00 | 23.07.2026 | 20301.01.029 (1.029 Seminarraum (40)) |
 
 ### Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur MS): Sprachdidaktik - Seminar
 
@@ -429,8 +459,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–18:30 | 08.05.2026 | 20301.U1.030 (U1.030 Seminarraum (30)) |
-| Einzeltermin | Fr | 14:00–18:30 | 19.06.2026 | 20301.U1.030 (U1.030 Seminarraum (30)) |
+| 14-täglich | Fr | 11:30–13:00 | 24.04.2026–17.07.2026 | 20301.U1.031 (U1.031 Seminarraum (40)) |
 
 ### Aufbaumodul Fachdidaktik Deutsch-Übung (nur GS) - Übung
 
@@ -462,8 +491,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–18:30 | 08.05.2026 | 20301.U1.030 (U1.030 Seminarraum (30)) |
-| Einzeltermin | Fr | 14:00–18:30 | 19.06.2026 | 20301.U1.030 (U1.030 Seminarraum (30)) |
+| 14-täglich | Fr | 11:30–13:00 | 24.04.2026–17.07.2026 | 20301.U1.031 (U1.031 Seminarraum (40)) |
 
 ### Aufbaumodul Fachdidaktik Deutsch-Übung (nur GS) - Übung
 
@@ -2042,7 +2070,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133788&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 10:00–12:00 | 17.04.2026–17.07.2026 | 05901.05.012 ( 05.012) |
 
 ### HS/Ü: Wie ediert man einen vergessenen Autor? Das Beispiel des jüdischen Berliner Schriftstellers und Künstlers Edmund Edel (1863-1934) - Seminar und Übung
 
@@ -2051,7 +2086,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133788&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 10:00–12:00 | 17.04.2026–17.07.2026 | 05901.05.012 ( 05.012) |
 
 ### HS/Ü: Wie ediert man einen vergessenen Autor? Das Beispiel des jüdischen Berliner Schriftstellers und Künstlers Edmund Edel (1863-1934) - Seminar und Übung
 
@@ -2060,7 +2102,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133788&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 10:00–12:00 | 17.04.2026–17.07.2026 | 05901.05.012 ( 05.012) |
 
 ### HS/Ü: Wie ediert man einen vergessenen Autor? Das Beispiel des jüdischen Berliner Schriftstellers und Künstlers Edmund Edel (1863-1934) - Seminar und Übung
 
@@ -2069,7 +2118,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133788&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 10:00–12:00 | 17.04.2026–17.07.2026 | 05901.05.012 ( 05.012) |
 
 ### HS/Ü: Wie ediert man einen vergessenen Autor? Das Beispiel des jüdischen Berliner Schriftstellers und Künstlers Edmund Edel (1863-1934) - Seminar und Übung
 
@@ -2078,7 +2134,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133788&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 10:00–12:00 | 17.04.2026–17.07.2026 | 05901.05.012 ( 05.012) |
 
 ### HS/Ü: Wie ediert man einen vergessenen Autor? Das Beispiel des jüdischen Berliner Schriftstellers und Künstlers Edmund Edel (1863-1934) - Seminar und Übung
 
@@ -2087,7 +2150,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133788&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 10:00–12:00 | 17.04.2026–17.07.2026 | 05901.05.012 ( 05.012) |
 
 ### HS/Ü: Wie ediert man einen vergessenen Autor? Das Beispiel des jüdischen Berliner Schriftstellers und Künstlers Edmund Edel (1863-1934) - Seminar und Übung
 
@@ -2096,7 +2166,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133788&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 10:00–12:00 | 17.04.2026–17.07.2026 | 05901.05.012 ( 05.012) |
 
 ### HS/Ü: Wie ediert man einen vergessenen Autor? Das Beispiel des jüdischen Berliner Schriftstellers und Künstlers Edmund Edel (1863-1934) - Seminar und Übung
 
@@ -2105,7 +2182,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133788&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 10:00–12:00 | 17.04.2026–17.07.2026 | 05901.05.012 ( 05.012) |
 
 ### HS/Ü: Wie ediert man einen vergessenen Autor? Das Beispiel des jüdischen Berliner Schriftstellers und Künstlers Edmund Edel (1863-1934) - Seminar und Übung
 
@@ -2114,7 +2198,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133788&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 10:00–12:00 | 17.04.2026–17.07.2026 | 05901.05.012 ( 05.012) |
 
 ### HS/Ü: Wie ediert man einen vergessenen Autor? Das Beispiel des jüdischen Berliner Schriftstellers und Künstlers Edmund Edel (1863-1934) - Seminar und Übung
 
@@ -2123,7 +2214,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133788&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 10:00–12:00 | 17.04.2026–17.07.2026 | 05901.05.012 ( 05.012) |
 
 ### HS/Ü: Wie ediert man einen vergessenen Autor? Das Beispiel des jüdischen Berliner Schriftstellers und Künstlers Edmund Edel (1863-1934) - Seminar und Übung
 
@@ -2132,7 +2230,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133788&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 10:00–12:00 | 17.04.2026–17.07.2026 | 05901.05.012 ( 05.012) |
 
 ### HS/Ü: Wie ediert man einen vergessenen Autor? Das Beispiel des jüdischen Berliner Schriftstellers und Künstlers Edmund Edel (1863-1934) - Seminar und Übung
 
@@ -2141,7 +2246,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133788&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 10:00–12:00 | 17.04.2026–17.07.2026 | 05901.05.012 ( 05.012) |
 
 ### HS/Ü: Wikipedia lesen, analysieren, bearbeiten, schreiben - Seminar und Übung
 
@@ -2492,7 +2604,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133749&periodId=589>
 
 - **Veranstaltungsart:** Kolleg
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Kolleg/Übung Mediävistik: Meistersang - eine Blütenlese - Kolleg
 
@@ -2501,7 +2620,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133749&periodId=589>
 
 - **Veranstaltungsart:** Kolleg
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Kolleg/Übung Mediävistik: Meistersang - eine Blütenlese - Kolleg
 
@@ -2510,7 +2636,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133749&periodId=589>
 
 - **Veranstaltungsart:** Kolleg
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Lektüreübung "Arabel" / "Willehalm" - Kolleg
 
@@ -2766,7 +2899,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Fr | 13:15–14:00 | 24.04.2026–17.07.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
+| wöchentlich | Fr | 08:45–09:30 | 24.04.2026–17.07.2026 | 20301.U1.038 (U1.038 Seminarraum (50)) |
 
 ### Ling BM-2: Tutorium (Nürnberg) - Übung
 
@@ -2782,7 +2915,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Fr | 13:15–14:00 | 24.04.2026–17.07.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
+| wöchentlich | Fr | 08:45–09:30 | 24.04.2026–17.07.2026 | 20301.U1.038 (U1.038 Seminarraum (50)) |
 
 ### Ling BM-2: Tutorium (Nürnberg) - Übung
 
@@ -2798,7 +2931,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Fr | 13:15–14:00 | 24.04.2026–17.07.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
+| wöchentlich | Fr | 08:45–09:30 | 24.04.2026–17.07.2026 | 20301.U1.038 (U1.038 Seminarraum (50)) |
 
 ### Ling BM-2: Tutorium (Nürnberg) - Übung
 
@@ -2814,7 +2947,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Fr | 13:15–14:00 | 24.04.2026–17.07.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
+| wöchentlich | Fr | 08:45–09:30 | 24.04.2026–17.07.2026 | 20301.U1.038 (U1.038 Seminarraum (50)) |
 
 ### Ling BM-2: Tutorium (Nürnberg) - Übung
 
@@ -2830,7 +2963,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Fr | 13:15–14:00 | 24.04.2026–17.07.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
+| wöchentlich | Fr | 08:45–09:30 | 24.04.2026–17.07.2026 | 20301.U1.038 (U1.038 Seminarraum (50)) |
 
 ### Ling BM-2: Tutorium (Nürnberg) - Übung
 
@@ -2846,7 +2979,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Fr | 13:15–14:00 | 24.04.2026–17.07.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
+| wöchentlich | Fr | 08:45–09:30 | 24.04.2026–17.07.2026 | 20301.U1.038 (U1.038 Seminarraum (50)) |
 
 ### Ling BM-2: Tutorium (Nürnberg) - Übung
 
@@ -2862,7 +2995,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Fr | 13:15–14:00 | 24.04.2026–17.07.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
+| wöchentlich | Fr | 08:45–09:30 | 24.04.2026–17.07.2026 | 20301.U1.038 (U1.038 Seminarraum (50)) |
 
 ### Ling BM-2: Tutorium (Nürnberg) - Übung
 
@@ -2878,7 +3011,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Fr | 13:15–14:00 | 24.04.2026–17.07.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
+| wöchentlich | Fr | 08:45–09:30 | 24.04.2026–17.07.2026 | 20301.U1.038 (U1.038 Seminarraum (50)) |
 
 ### Ling BM-2: Tutorium (Nürnberg) - Übung
 
@@ -2894,7 +3027,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Fr | 13:15–14:00 | 24.04.2026–17.07.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
+| wöchentlich | Fr | 08:45–09:30 | 24.04.2026–17.07.2026 | 20301.U1.038 (U1.038 Seminarraum (50)) |
 
 ### Ling BM-2: Tutorium (Nürnberg) - Übung
 
@@ -2910,7 +3043,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Fr | 13:15–14:00 | 24.04.2026–17.07.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
+| wöchentlich | Fr | 08:45–09:30 | 24.04.2026–17.07.2026 | 20301.U1.038 (U1.038 Seminarraum (50)) |
 
 ### Ling BM-2: Tutorium (Nürnberg) - Übung
 
@@ -2926,7 +3059,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Fr | 13:15–14:00 | 24.04.2026–17.07.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
+| wöchentlich | Fr | 08:45–09:30 | 24.04.2026–17.07.2026 | 20301.U1.038 (U1.038 Seminarraum (50)) |
 
 ### Ling BM-2: Tutorium (Nürnberg) - Übung
 
@@ -2942,7 +3075,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Fr | 13:15–14:00 | 24.04.2026–17.07.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
+| wöchentlich | Fr | 08:45–09:30 | 24.04.2026–17.07.2026 | 20301.U1.038 (U1.038 Seminarraum (50)) |
 
 ### Lit AM-G: Lilienweiß und Rosenrot - Erotik und Sexualität in mittelhochdeutscher Dichtung - Kolleg
 
@@ -2983,14 +3116,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133740&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 75201.00.202 (St.Paul(V) 00.202 Seminarraum (20)) |
 
 ### Lit AM-L GSMS: Moderne Blicke auf alte Texte - Seminar
 
@@ -2999,14 +3125,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133740&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 75201.00.202 (St.Paul(V) 00.202 Seminarraum (20)) |
 
 ### Lit AM-L: Annemarie Schwarzenbach: „Winter in Vorderasien“ (1934) und andere Reiseprosa (ER: für RS/BA/LA GYM) - Proseminar
 
@@ -3113,7 +3232,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133741&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:00–16:30 | 15.04.2026–15.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Lit AM-W: Von der Leerstelle über den hermeneutischen Zirkel bis zum Tod des Autors. Grundlegende Konzepte der Literaturwissenschaft - Proseminar
 
@@ -3145,7 +3271,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 08:00–10:00 | 14.04.2026–14.07.2026 | 05801.01.210 ( B 301) |
+| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05801.01.210 ( B 301) |
 
 ### Lit BM: Grundlagen des wissenschaftlichen Arbeitens (DIESER KURS FINDET NICHT STATT) - Einführungskurs
 
@@ -3410,7 +3536,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133745&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### M/SM: Bild und Text in illustrierten Handschriften des Mittelalters - Hauptseminar / Masterseminar
 
@@ -3419,7 +3552,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133745&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### M/SM: Bild und Text in illustrierten Handschriften des Mittelalters - Hauptseminar / Masterseminar
 
@@ -3428,7 +3568,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133745&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### M/SM: Bild und Text in illustrierten Handschriften des Mittelalters - Hauptseminar / Masterseminar
 
@@ -3437,7 +3584,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133745&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### M/SM: Bild und Text in illustrierten Handschriften des Mittelalters - Hauptseminar / Masterseminar
 
@@ -3446,7 +3600,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133745&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### M/SM: Bild und Text in illustrierten Handschriften des Mittelalters - Hauptseminar / Masterseminar
 
@@ -3455,7 +3616,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133745&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### M/SM: Bild und Text in illustrierten Handschriften des Mittelalters - Hauptseminar / Masterseminar
 
@@ -3464,7 +3632,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133745&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### M/SM: Bild und Text in illustrierten Handschriften des Mittelalters - Hauptseminar / Masterseminar
 
@@ -3473,7 +3648,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133745&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### M/SM: Bild und Text in illustrierten Handschriften des Mittelalters - Hauptseminar / Masterseminar
 
@@ -3482,7 +3664,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133745&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### M/SM: Bild und Text in illustrierten Handschriften des Mittelalters - Hauptseminar / Masterseminar
 
@@ -3491,7 +3680,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133745&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### M/SM: Bild und Text in illustrierten Handschriften des Mittelalters - Hauptseminar / Masterseminar
 
@@ -3500,7 +3696,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133745&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### M/SM: Bild und Text in illustrierten Handschriften des Mittelalters - Hauptseminar / Masterseminar
 
@@ -3509,7 +3712,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133745&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### M/SM: Bild und Text in illustrierten Handschriften des Mittelalters - Hauptseminar / Masterseminar
 
@@ -3518,7 +3728,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133745&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### M/SM: Bild und Text in illustrierten Handschriften des Mittelalters - Hauptseminar / Masterseminar
 
@@ -3527,7 +3744,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133745&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### M/SM: Klugheit und Weiblichkeit: Herrscherinnen, Ratgeberinnen und Mütter in der mittelalterlichen Literatur - Hauptseminar / Masterseminar
 
@@ -4149,7 +4373,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 10:00–13:00 | 13.04.2026–13.07.2026 | 05801.01.210 ( B 301) |
+| wöchentlich | Di | 10:00–13:00 | 14.04.2026–14.07.2026 | 05801.01.211 ( B 302) |
 
 ### Med BM: Grundlagen der Germanistischen Mediävistik - Kurs
 
@@ -4165,7 +4389,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 10:00–13:00 | 13.04.2026–13.07.2026 | 05801.01.210 ( B 301) |
+| wöchentlich | Di | 10:00–13:00 | 14.04.2026–14.07.2026 | 05801.01.211 ( B 302) |
 
 ### Med BM: Grundlagen der Germanistischen Mediävistik - Kurs
 
@@ -4181,7 +4405,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 10:00–13:00 | 13.04.2026–13.07.2026 | 05801.01.210 ( B 301) |
+| wöchentlich | Di | 10:00–13:00 | 14.04.2026–14.07.2026 | 05801.01.211 ( B 302) |
 
 ### Med Finit: Übung zur Besprechung der BA-Arbeit (Glauch) - Übung
 
@@ -4576,7 +4800,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134065&periodId=589>
 
 - **Veranstaltungsart:** Examensseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:00–17:30 | 14.04.2026–14.07.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
 
 ### NdL-Examenskurs (Nürnberg) - Examensseminar
 
@@ -4585,7 +4816,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134065&periodId=589>
 
 - **Veranstaltungsart:** Examensseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:00–17:30 | 14.04.2026–14.07.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
 
 ### NdL-Examenskurs (Nürnberg) - Examensseminar
 
@@ -4594,7 +4832,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134065&periodId=589>
 
 - **Veranstaltungsart:** Examensseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:00–17:30 | 14.04.2026–14.07.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
 
 ### NdL-Examenskurs (Nürnberg) - Examensseminar
 
@@ -4603,7 +4848,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134065&periodId=589>
 
 - **Veranstaltungsart:** Examensseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:00–17:30 | 14.04.2026–14.07.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -4612,7 +4864,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -4621,7 +4885,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -4630,7 +4906,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -4639,7 +4927,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -4648,7 +4948,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -4657,7 +4969,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -4666,7 +4990,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -4675,7 +5011,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -4684,7 +5032,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -4693,7 +5053,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -4702,7 +5074,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -4711,7 +5095,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -4720,7 +5116,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -4729,7 +5137,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -4738,7 +5158,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -4747,7 +5179,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -4756,7 +5200,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -4765,7 +5221,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -4774,7 +5242,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -4783,7 +5263,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -4792,7 +5284,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -4801,7 +5305,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -4810,7 +5326,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -4819,7 +5347,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -4828,7 +5368,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -4837,7 +5389,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -4846,7 +5410,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -4855,7 +5431,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -4864,7 +5452,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -4873,7 +5473,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -4882,7 +5494,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -4891,7 +5515,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -4900,7 +5536,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -4909,7 +5557,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -4918,7 +5578,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -4927,7 +5599,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -4936,7 +5620,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -4945,7 +5641,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -4954,7 +5662,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -4963,7 +5683,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Poetik-Kolleg: Ann Cotten - Seminar und Übung
 
@@ -4972,7 +5704,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
 
 - **Veranstaltungsart:** Seminar und Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
+| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
 
 ### Schön ist, Mutter Natur, deiner Erfindung Pracht. Naturlyrik von der Aufklärung bis ins Anthropozän - Hauptseminar
 
@@ -5349,7 +6093,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134143&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Utopien und Dystopien in Literatur, Kunst und Film (VM) - Hauptseminar
 
@@ -5358,7 +6109,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134143&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Utopien und Dystopien in Literatur, Kunst und Film (VM) - Hauptseminar
 
@@ -5367,7 +6125,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134143&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Utopien und Dystopien in Literatur, Kunst und Film (VM) - Hauptseminar
 
@@ -5376,7 +6141,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134143&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Utopien und Dystopien in Literatur, Kunst und Film (VM) - Hauptseminar
 
@@ -5385,7 +6157,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134143&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Utopien und Dystopien in Literatur, Kunst und Film (VM) - Hauptseminar
 
@@ -5394,7 +6173,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134143&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Utopien und Dystopien in Literatur, Kunst und Film (VM) - Hauptseminar
 
@@ -5403,7 +6189,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134143&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Utopien und Dystopien in Literatur, Kunst und Film (VM) - Hauptseminar
 
@@ -5412,7 +6205,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134143&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Utopien und Dystopien in Literatur, Kunst und Film (VM) - Hauptseminar
 
@@ -5421,7 +6221,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134143&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Utopien und Dystopien in Literatur, Kunst und Film (VM) - Hauptseminar
 
@@ -5430,7 +6237,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134143&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Utopien und Dystopien in Literatur, Kunst und Film (VM) - Hauptseminar
 
@@ -5439,7 +6253,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134143&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Utopien und Dystopien in Literatur, Kunst und Film (VM) - Hauptseminar
 
@@ -5448,7 +6269,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134143&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Utopien und Dystopien in Literatur, Kunst und Film (VM) - Hauptseminar
 
@@ -5457,7 +6285,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134143&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Utopien und Dystopien in Literatur, Kunst und Film (VM) - Hauptseminar
 
@@ -5466,7 +6301,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134143&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Utopien und Dystopien in Literatur, Kunst und Film (VM) - Hauptseminar
 
@@ -5475,7 +6317,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134143&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Utopien und Dystopien in Literatur, Kunst und Film (VM) - Hauptseminar
 
@@ -5484,7 +6333,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134143&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Utopien und Dystopien in Literatur, Kunst und Film (VM) - Hauptseminar
 
@@ -5493,7 +6349,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134143&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Utopien und Dystopien in Literatur, Kunst und Film (VM) - Hauptseminar
 
@@ -5502,7 +6365,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134143&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Utopien und Dystopien in Literatur, Kunst und Film (VM) - Hauptseminar
 
@@ -5511,7 +6381,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134143&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Utopien und Dystopien in Literatur, Kunst und Film (VM) - Hauptseminar
 
@@ -5520,7 +6397,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134143&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Utopien und Dystopien in Literatur, Kunst und Film (VM) - Hauptseminar
 
@@ -5529,7 +6413,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134143&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Utopien und Dystopien in Literatur, Kunst und Film (VM) - Hauptseminar
 
@@ -5538,7 +6429,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134143&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Utopien und Dystopien in Literatur, Kunst und Film (VM) - Hauptseminar
 
@@ -5547,7 +6445,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134143&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Utopien und Dystopien in Literatur, Kunst und Film (VM) - Hauptseminar
 
@@ -5556,7 +6461,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134143&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Utopien und Dystopien in Literatur, Kunst und Film (VM) - Hauptseminar
 
@@ -5565,7 +6477,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134143&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Utopien und Dystopien in Literatur, Kunst und Film (VM) - Hauptseminar
 
@@ -5574,7 +6493,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134143&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Utopien und Dystopien in Literatur, Kunst und Film (VM) - Hauptseminar
 
@@ -5583,7 +6509,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134143&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Utopien und Dystopien in Literatur, Kunst und Film (VM) - Hauptseminar
 
@@ -5592,7 +6525,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134143&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Utopien und Dystopien in Literatur, Kunst und Film (VM) - Hauptseminar
 
@@ -5601,7 +6541,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134143&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.02.260 ( B 4A1) |
 
 ### Vampirinnen als subversive Figuren von 1800 bis zur Gegenwart (Lit AM-L) - Seminar
 
@@ -5610,7 +6557,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134050&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–16:00 | 24.04.2026 | 05902.00.005 ( 00.5 PSG) |
+| Einzeltermin | Fr | 14:00–19:00 | 12.06.2026 | 05902.00.005 ( 00.5 PSG) |
+| Einzeltermin | Sa | 10:00–15:00 | 13.06.2026 | 05902.00.005 ( 00.5 PSG) |
+| Einzeltermin | Fr | 14:00–19:00 | 03.07.2026 | 05902.00.005 ( 00.5 PSG) |
+| Einzeltermin | Sa | 10:00–15:00 | 04.07.2026 | 05902.00.005 ( 00.5 PSG) |
+| Einzeltermin | Fr | 14:00–16:00 | 17.07.2026 | — |
 
 ### Vampirinnen als subversive Figuren von 1800 bis zur Gegenwart (Lit AM-L) - Seminar
 
@@ -5619,7 +6578,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134050&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–16:00 | 24.04.2026 | 05902.00.005 ( 00.5 PSG) |
+| Einzeltermin | Fr | 14:00–19:00 | 12.06.2026 | 05902.00.005 ( 00.5 PSG) |
+| Einzeltermin | Sa | 10:00–15:00 | 13.06.2026 | 05902.00.005 ( 00.5 PSG) |
+| Einzeltermin | Fr | 14:00–19:00 | 03.07.2026 | 05902.00.005 ( 00.5 PSG) |
+| Einzeltermin | Sa | 10:00–15:00 | 04.07.2026 | 05902.00.005 ( 00.5 PSG) |
+| Einzeltermin | Fr | 14:00–16:00 | 17.07.2026 | — |
 
 ### Vernunft, Gefühl und Gesellschaft. Literatur des 18. Jahrhunderts - Proseminar
 
@@ -5628,7 +6599,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133779&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 08:00–10:00 | 15.04.2026–15.07.2026 | 05801.01.210 ( B 301) |
 
 ### Vernunft, Gefühl und Gesellschaft. Literatur des 18. Jahrhunderts - Proseminar
 
@@ -5637,7 +6615,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133779&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 08:00–10:00 | 15.04.2026–15.07.2026 | 05801.01.210 ( B 301) |
 
 ### Vertiefungsmodul Fachdidaktik Deutsch (nur Freier Bereich): Digi4all - Kompetenzen für das Unterrichten in einer digitalen Welt - Seminar
 
@@ -5647,7 +6632,15 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 08:15–09:45 | 13.04.2026 | — |
+| Einzeltermin | Mo | 08:15–09:45 | 13.07.2026 | — |
 
 ### Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar (LA GS/MS): Ethische Bildung im Deutschunterricht - Seminar
 
@@ -11934,7 +12927,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Mo | 15:45–19:00 | 20.04.2026–29.06.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
 
 ### Examenskurs Deutschdidaktik - Examensvorbereitung "Didaktik der deutschen Sprache und Literatur" - Hauptseminar
 
@@ -11944,7 +12944,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Mo | 15:45–19:00 | 20.04.2026–29.06.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
 
 ### Examenskurs Deutschdidaktik - Examensvorbereitung "Didaktik der deutschen Sprache und Literatur" - Hauptseminar
 
@@ -11954,7 +12961,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Mo | 15:45–19:00 | 20.04.2026–29.06.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
 
 ### Examenskurs Deutschdidaktik - Examensvorbereitung "Didaktik der deutschen Sprache und Literatur" - Hauptseminar
 
@@ -11964,7 +12978,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Mo | 15:45–19:00 | 20.04.2026–29.06.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
 
 ### Examenskurs Deutschdidaktik - Examensvorbereitung "Didaktik der deutschen Sprache und Literatur" - Hauptseminar
 
@@ -11974,7 +12995,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Mo | 15:45–19:00 | 20.04.2026–29.06.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
 
 ### Examenskurs Deutschdidaktik - Examensvorbereitung "Didaktik der deutschen Sprache und Literatur" - Hauptseminar
 
@@ -11984,7 +13012,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Mo | 15:45–19:00 | 20.04.2026–29.06.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
 
 ### Examenskurs Deutschdidaktik - Examensvorbereitung "Didaktik der deutschen Sprache und Literatur" - Hauptseminar
 
@@ -11994,7 +13029,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Mo | 15:45–19:00 | 20.04.2026–29.06.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
 
 ### Examenskurs Deutschdidaktik - Examensvorbereitung "Didaktik der deutschen Sprache und Literatur" - Hauptseminar
 
@@ -12004,7 +13046,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Mo | 15:45–19:00 | 20.04.2026–29.06.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
 
 ### Examenskurs Deutschdidaktik - Examensvorbereitung "Didaktik der deutschen Sprache und Literatur" - Hauptseminar
 
@@ -12014,7 +13063,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Mo | 15:45–19:00 | 20.04.2026–29.06.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
 
 ### Examenskurs Deutschdidaktik - Examensvorbereitung "Didaktik der deutschen Sprache und Literatur" - Hauptseminar
 
@@ -12024,7 +13080,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Mo | 15:45–19:00 | 20.04.2026–29.06.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
 
 ### Examenskurs Deutschdidaktik - Examensvorbereitung "Didaktik der deutschen Sprache und Literatur" - Hauptseminar
 
@@ -12034,16 +13097,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 2.0
-- **Turnus:** in jedem Semester
-
-### Ling AM-2 - Ling AM-2: Seminar Linguistik - Seminar
-
-- **Segment:** `exam:14923806` · **unitId:** `82593`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14923293|exam:14923300|exam:14923803|exam:14923806>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82593&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
@@ -12051,26 +13104,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | 05801.01.210 ( B 301) |
-| Einzeltermin | Mi | 16:00–18:00 | 20.05.2026 | — |
-
-### Ling AM-2 - Ling AM-2: Seminar Linguistik - Seminar
-
-- **Segment:** `exam:14924416` · **unitId:** `82593`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14923902|exam:14923910|exam:14924413|exam:14924416>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82593&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | 05801.01.210 ( B 301) |
-| Einzeltermin | Mi | 16:00–18:00 | 20.05.2026 | — |
+| 14-täglich | Mo | 15:45–19:00 | 20.04.2026–29.06.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
 
 ### Ling AM-2 - Ling AM-2: Seminar Linguistik - Seminar
 
@@ -12768,54 +13802,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA und LA Gym)  - Hauptseminar
 
-- **Segment:** `exam:14922121` · **unitId:** `89348`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14922097|exam:14922103|exam:14922104|exam:14922105|exam:14922113|exam:14922121>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89348&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 05801.01.211 ( B 302) |
-
-### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA und LA Gym)  - Hauptseminar
-
-- **Segment:** `exam:14922301` · **unitId:** `89348`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14922277|exam:14922283|exam:14922284|exam:14922285|exam:14922293|exam:14922301>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89348&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 05801.01.211 ( B 302) |
-
-### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA und LA Gym)  - Hauptseminar
-
-- **Segment:** `exam:14922518` · **unitId:** `89348`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14922457|exam:14922463|exam:14922515|exam:14922518>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89348&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 05801.01.211 ( B 302) |
-
-### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA und LA Gym)  - Hauptseminar
-
 - **Segment:** `exam:14923318` · **unitId:** `89348`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14923293|exam:14923300|exam:14923301|exam:14923302|exam:14923310|exam:14923318>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89348&periodId=589>
@@ -12862,151 +13848,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 05801.01.211 ( B 302) |
 
-### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA und LA Gym)  - Hauptseminar
-
-- **Segment:** `exam:14925008` · **unitId:** `89348`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14924984|exam:14924990|exam:14924991|exam:14924992|exam:14925000|exam:14925008>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89348&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 05801.01.211 ( B 302) |
-
-### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA und LA Gym)  - Hauptseminar
-
-- **Segment:** `exam:14925197` · **unitId:** `89348`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14925173|exam:14925179|exam:14925180|exam:14925181|exam:14925189|exam:14925197>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89348&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 05801.01.211 ( B 302) |
-
-### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA und LA Gym)  - Hauptseminar
-
-- **Segment:** `exam:14925415` · **unitId:** `89348`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14925354|exam:14925360|exam:14925412|exam:14925415>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89348&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 05801.01.211 ( B 302) |
-
-### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA und LA Gym)  - Hauptseminar
-
-- **Segment:** `exam:14925610` · **unitId:** `89348`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14925588|exam:14925592|exam:14925593|exam:14925594|exam:14925602|exam:14925610>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89348&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 05801.01.211 ( B 302) |
-
-### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA und LA Gym)  - Hauptseminar
-
-- **Segment:** `exam:14925809` · **unitId:** `89348`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14925787|exam:14925791|exam:14925792|exam:14925793|exam:14925801|exam:14925809>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89348&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 05801.01.211 ( B 302) |
-
-### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA und LA Gym)  - Hauptseminar
-
-- **Segment:** `exam:14926082` · **unitId:** `89348`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14925986|exam:14925990|exam:14926079|exam:14926082>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89348&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 05801.01.211 ( B 302) |
-
-### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA und LA Gym) - Hauptseminar
-
-- **Segment:** `exam:14922122` · **unitId:** `103936`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14922097|exam:14922103|exam:14922104|exam:14922105|exam:14922113|exam:14922122>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103936&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 05902.00.004 ( 00.4 PSG) 05801.00.318 ( C 203) |
-
-### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA und LA Gym) - Hauptseminar
-
-- **Segment:** `exam:14922302` · **unitId:** `103936`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14922277|exam:14922283|exam:14922284|exam:14922285|exam:14922293|exam:14922302>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103936&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 05902.00.004 ( 00.4 PSG) 05801.00.318 ( C 203) |
-
-### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA und LA Gym) - Hauptseminar
-
-- **Segment:** `exam:14922521` · **unitId:** `103936`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14922457|exam:14922463|exam:14922515|exam:14922521>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103936&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 05902.00.004 ( 00.4 PSG) 05801.00.318 ( C 203) |
-
-### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA und LA Gym) - Hauptseminar
+### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA, LA Gym, WiPäd, DiDaZ) - Hauptseminar
 
 - **Segment:** `exam:14923319` · **unitId:** `103936`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14923293|exam:14923300|exam:14923301|exam:14923302|exam:14923310|exam:14923319>
@@ -13022,7 +13864,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 05902.00.004 ( 00.4 PSG) 05801.00.318 ( C 203) |
 
-### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA und LA Gym) - Hauptseminar
+### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA, LA Gym, WiPäd, DiDaZ) - Hauptseminar
 
 - **Segment:** `exam:14923929` · **unitId:** `103936`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14923902|exam:14923910|exam:14923920|exam:14923929>
@@ -13038,7 +13880,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 05902.00.004 ( 00.4 PSG) 05801.00.318 ( C 203) |
 
-### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA und LA Gym) - Hauptseminar
+### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA, LA Gym, WiPäd, DiDaZ) - Hauptseminar
 
 - **Segment:** `exam:14924529` · **unitId:** `103936`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14924512|exam:14924520|exam:14924523|exam:14924529>
@@ -13054,55 +13896,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 05902.00.004 ( 00.4 PSG) 05801.00.318 ( C 203) |
 
-### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA und LA Gym) - Hauptseminar
-
-- **Segment:** `exam:14925009` · **unitId:** `103936`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14924984|exam:14924990|exam:14924991|exam:14924992|exam:14925000|exam:14925009>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103936&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 05902.00.004 ( 00.4 PSG) 05801.00.318 ( C 203) |
-
-### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA und LA Gym) - Hauptseminar
-
-- **Segment:** `exam:14925198` · **unitId:** `103936`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14925173|exam:14925179|exam:14925180|exam:14925181|exam:14925189|exam:14925198>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103936&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 05902.00.004 ( 00.4 PSG) 05801.00.318 ( C 203) |
-
-### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA und LA Gym) - Hauptseminar
-
-- **Segment:** `exam:14925418` · **unitId:** `103936`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14925354|exam:14925360|exam:14925412|exam:14925418>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103936&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 05902.00.004 ( 00.4 PSG) 05801.00.318 ( C 203) |
-
-### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA und LA Gym) - Hauptseminar
+### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA, LA Gym, WiPäd, DiDaZ) - Hauptseminar
 
 - **Segment:** `exam:14925611` · **unitId:** `103936`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14925588|exam:14925592|exam:14925593|exam:14925594|exam:14925602|exam:14925611>
@@ -13118,7 +13912,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 05902.00.004 ( 00.4 PSG) 05801.00.318 ( C 203) |
 
-### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA und LA Gym) - Hauptseminar
+### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA, LA Gym, WiPäd, DiDaZ) - Hauptseminar
 
 - **Segment:** `exam:14925810` · **unitId:** `103936`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14925787|exam:14925791|exam:14925792|exam:14925793|exam:14925801|exam:14925810>
@@ -13134,7 +13928,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 05902.00.004 ( 00.4 PSG) 05801.00.318 ( C 203) |
 
-### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA und LA Gym) - Hauptseminar
+### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA, LA Gym, WiPäd, DiDaZ) - Hauptseminar
 
 - **Segment:** `exam:14926085` · **unitId:** `103936`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14925986|exam:14925990|exam:14926079|exam:14926085>
@@ -13157,7 +13951,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103826&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
 
 ### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Nürnberg, nur für LA GS, MS, RS, Berufl. Schulen) - Hauptseminar
 
@@ -13182,7 +13983,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103826&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
 
 ### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Nürnberg, nur für LA GS, MS, RS, Berufl. Schulen) - Hauptseminar
 
@@ -13223,24 +14031,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103826&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
-- **Turnus:** in jedem Semester
-
-### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Nürnberg, nur für LA GS, MS, RS, Berufl. Schulen) - Hauptseminar
-
-- **Segment:** `exam:14923313` · **unitId:** `103826`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14923293|exam:14923300|exam:14923301|exam:14923302|exam:14923310|exam:14923313>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103826&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** in jedem Semester
-
-### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Nürnberg, nur für LA GS, MS, RS, Berufl. Schulen) - Hauptseminar
-
-- **Segment:** `exam:14923315` · **unitId:** `90525`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14923293|exam:14923300|exam:14923301|exam:14923302|exam:14923310|exam:14923315>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90525&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
@@ -13248,57 +14038,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Fr | 09:45–11:15 | 17.04.2026–17.07.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
-
-### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Nürnberg, nur für LA GS, MS, RS, Berufl. Schulen) - Hauptseminar
-
-- **Segment:** `exam:14923923` · **unitId:** `103826`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14923902|exam:14923910|exam:14923920|exam:14923923>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103826&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** in jedem Semester
-
-### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Nürnberg, nur für LA GS, MS, RS, Berufl. Schulen) - Hauptseminar
-
-- **Segment:** `exam:14923925` · **unitId:** `90525`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14923902|exam:14923910|exam:14923920|exam:14923925>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90525&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 09:45–11:15 | 17.04.2026–17.07.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
-
-### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Nürnberg, nur für LA GS, MS, RS, Berufl. Schulen) - Hauptseminar
-
-- **Segment:** `exam:14924528` · **unitId:** `90525`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14924512|exam:14924520|exam:14924523|exam:14924528>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90525&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 09:45–11:15 | 17.04.2026–17.07.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
-
-### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Nürnberg, nur für LA GS, MS, RS, Berufl. Schulen) - Hauptseminar
-
-- **Segment:** `exam:14924532` · **unitId:** `103826`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14924512|exam:14924520|exam:14924523|exam:14924532>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103826&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** in jedem Semester
+| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
 
 ### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Nürnberg, nur für LA GS, MS, RS, Berufl. Schulen) - Hauptseminar
 
@@ -13307,7 +14047,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103826&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
 
 ### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Nürnberg, nur für LA GS, MS, RS, Berufl. Schulen) - Hauptseminar
 
@@ -13332,7 +14079,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103826&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
 
 ### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Nürnberg, nur für LA GS, MS, RS, Berufl. Schulen) - Hauptseminar
 
@@ -13373,7 +14127,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103826&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
 
 ### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Nürnberg, nur für LA GS, MS, RS, Berufl. Schulen) - Hauptseminar
 
@@ -13382,7 +14143,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103826&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
 
 ### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Nürnberg, nur für LA GS, MS, RS, Berufl. Schulen) - Hauptseminar
 
@@ -13407,7 +14175,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103826&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
 
 ### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Nürnberg, nur für LA GS, MS, RS, Berufl. Schulen) - Hauptseminar
 
@@ -13448,15 +14223,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103826&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
-- **Turnus:** in jedem Semester
-
-### Ling VM - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) - Hauptseminar
-
-- **Segment:** `exam:14922109` · **unitId:** `83620`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14922097|exam:14922103|exam:14922104|exam:14922105|exam:14922106|exam:14922109>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83620&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
@@ -13464,48 +14230,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 14:15–17:45 | 17.04.2026 | 05201.00.007 |
-| Einzeltermin | Sa | 09:15–16:45 | 18.04.2026 | 05201.00.007 |
-| Einzeltermin | Fr | 14:15–17:45 | 24.04.2026 | 05201.00.007 |
-| Einzeltermin | Sa | 09:15–16:45 | 25.04.2026 | 05201.00.007 |
-
-### Ling VM - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) - Hauptseminar
-
-- **Segment:** `exam:14922289` · **unitId:** `83620`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14922277|exam:14922283|exam:14922284|exam:14922285|exam:14922286|exam:14922289>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83620&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 14:15–17:45 | 17.04.2026 | 05201.00.007 |
-| Einzeltermin | Sa | 09:15–16:45 | 18.04.2026 | 05201.00.007 |
-| Einzeltermin | Fr | 14:15–17:45 | 24.04.2026 | 05201.00.007 |
-| Einzeltermin | Sa | 09:15–16:45 | 25.04.2026 | 05201.00.007 |
-
-### Ling VM - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) - Hauptseminar
-
-- **Segment:** `exam:14922522` · **unitId:** `83620`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14922457|exam:14922463|exam:14922515|exam:14922522>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83620&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 14:15–17:45 | 17.04.2026 | 05201.00.007 |
-| Einzeltermin | Sa | 09:15–16:45 | 18.04.2026 | 05201.00.007 |
-| Einzeltermin | Fr | 14:15–17:45 | 24.04.2026 | 05201.00.007 |
-| Einzeltermin | Sa | 09:15–16:45 | 25.04.2026 | 05201.00.007 |
+| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
 
 ### Ling VM - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) - Hauptseminar
 
@@ -13549,63 +14274,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:14924530` · **unitId:** `83620`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14924512|exam:14924520|exam:14924523|exam:14924530>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83620&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 14:15–17:45 | 17.04.2026 | 05201.00.007 |
-| Einzeltermin | Sa | 09:15–16:45 | 18.04.2026 | 05201.00.007 |
-| Einzeltermin | Fr | 14:15–17:45 | 24.04.2026 | 05201.00.007 |
-| Einzeltermin | Sa | 09:15–16:45 | 25.04.2026 | 05201.00.007 |
-
-### Ling VM - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) - Hauptseminar
-
-- **Segment:** `exam:14924996` · **unitId:** `83620`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14924984|exam:14924990|exam:14924991|exam:14924992|exam:14924993|exam:14924996>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83620&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 14:15–17:45 | 17.04.2026 | 05201.00.007 |
-| Einzeltermin | Sa | 09:15–16:45 | 18.04.2026 | 05201.00.007 |
-| Einzeltermin | Fr | 14:15–17:45 | 24.04.2026 | 05201.00.007 |
-| Einzeltermin | Sa | 09:15–16:45 | 25.04.2026 | 05201.00.007 |
-
-### Ling VM - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) - Hauptseminar
-
-- **Segment:** `exam:14925185` · **unitId:** `83620`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14925173|exam:14925179|exam:14925180|exam:14925181|exam:14925182|exam:14925185>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83620&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 14:15–17:45 | 17.04.2026 | 05201.00.007 |
-| Einzeltermin | Sa | 09:15–16:45 | 18.04.2026 | 05201.00.007 |
-| Einzeltermin | Fr | 14:15–17:45 | 24.04.2026 | 05201.00.007 |
-| Einzeltermin | Sa | 09:15–16:45 | 25.04.2026 | 05201.00.007 |
-
-### Ling VM - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) - Hauptseminar
-
-- **Segment:** `exam:14925419` · **unitId:** `83620`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14925354|exam:14925360|exam:14925412|exam:14925419>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83620&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
@@ -13680,54 +14348,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### Ling VM - Ling VM-Kolleg: Bereich Gegenwartssprache/DaF (Erlangen, nur für BA und LA Gym) - Kolleg
 
-- **Segment:** `exam:14922119` · **unitId:** `87078`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14922097|exam:14922103|exam:14922104|exam:14922105|exam:14922113|exam:14922119>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87078&periodId=589>
-
-- **Veranstaltungsart:** Kolleg
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 05801.01.211 ( B 302) |
-
-### Ling VM - Ling VM-Kolleg: Bereich Gegenwartssprache/DaF (Erlangen, nur für BA und LA Gym) - Kolleg
-
-- **Segment:** `exam:14922299` · **unitId:** `87078`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14922277|exam:14922283|exam:14922284|exam:14922285|exam:14922293|exam:14922299>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87078&periodId=589>
-
-- **Veranstaltungsart:** Kolleg
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 05801.01.211 ( B 302) |
-
-### Ling VM - Ling VM-Kolleg: Bereich Gegenwartssprache/DaF (Erlangen, nur für BA und LA Gym) - Kolleg
-
-- **Segment:** `exam:14922528` · **unitId:** `87078`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14922457|exam:14922463|exam:14922526|exam:14922528>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87078&periodId=589>
-
-- **Veranstaltungsart:** Kolleg
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 05801.01.211 ( B 302) |
-
-### Ling VM - Ling VM-Kolleg: Bereich Gegenwartssprache/DaF (Erlangen, nur für BA und LA Gym) - Kolleg
-
 - **Segment:** `exam:14923316` · **unitId:** `87078`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14923293|exam:14923300|exam:14923301|exam:14923302|exam:14923310|exam:14923316>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87078&periodId=589>
@@ -13762,54 +14382,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:14924536` · **unitId:** `87078`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14924512|exam:14924520|exam:14924534|exam:14924536>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87078&periodId=589>
-
-- **Veranstaltungsart:** Kolleg
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 05801.01.211 ( B 302) |
-
-### Ling VM - Ling VM-Kolleg: Bereich Gegenwartssprache/DaF (Erlangen, nur für BA und LA Gym) - Kolleg
-
-- **Segment:** `exam:14925006` · **unitId:** `87078`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14924984|exam:14924990|exam:14924991|exam:14924992|exam:14925000|exam:14925006>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87078&periodId=589>
-
-- **Veranstaltungsart:** Kolleg
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 05801.01.211 ( B 302) |
-
-### Ling VM - Ling VM-Kolleg: Bereich Gegenwartssprache/DaF (Erlangen, nur für BA und LA Gym) - Kolleg
-
-- **Segment:** `exam:14925195` · **unitId:** `87078`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14925173|exam:14925179|exam:14925180|exam:14925181|exam:14925189|exam:14925195>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87078&periodId=589>
-
-- **Veranstaltungsart:** Kolleg
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 05801.01.211 ( B 302) |
-
-### Ling VM - Ling VM-Kolleg: Bereich Gegenwartssprache/DaF (Erlangen, nur für BA und LA Gym) - Kolleg
-
-- **Segment:** `exam:14925425` · **unitId:** `87078`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14925354|exam:14925360|exam:14925423|exam:14925425>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87078&periodId=589>
 
 - **Veranstaltungsart:** Kolleg
@@ -14240,54 +14812,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### Ling VM - Ling VM-Kolleg: Gegenwartssprache/DaF (Nürnberg, nur LA GS, MS, RS, Berufl. Schulen) - Kolleg
 
-- **Segment:** `exam:14923317` · **unitId:** `96263`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14923293|exam:14923300|exam:14923301|exam:14923302|exam:14923310|exam:14923317>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96263&periodId=589>
-
-- **Veranstaltungsart:** Kolleg
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 11:30–13:00 | 14.04.2026–14.07.2026 | 20301.02.047 (2.047 Seminarraum (40)) |
-
-### Ling VM - Ling VM-Kolleg: Gegenwartssprache/DaF (Nürnberg, nur LA GS, MS, RS, Berufl. Schulen) - Kolleg
-
-- **Segment:** `exam:14923927` · **unitId:** `96263`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14923902|exam:14923910|exam:14923920|exam:14923927>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96263&periodId=589>
-
-- **Veranstaltungsart:** Kolleg
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 11:30–13:00 | 14.04.2026–14.07.2026 | 20301.02.047 (2.047 Seminarraum (40)) |
-
-### Ling VM - Ling VM-Kolleg: Gegenwartssprache/DaF (Nürnberg, nur LA GS, MS, RS, Berufl. Schulen) - Kolleg
-
-- **Segment:** `exam:14924537` · **unitId:** `96263`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14924512|exam:14924520|exam:14924534|exam:14924537>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96263&periodId=589>
-
-- **Veranstaltungsart:** Kolleg
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 11:30–13:00 | 14.04.2026–14.07.2026 | 20301.02.047 (2.047 Seminarraum (40)) |
-
-### Ling VM - Ling VM-Kolleg: Gegenwartssprache/DaF (Nürnberg, nur LA GS, MS, RS, Berufl. Schulen) - Kolleg
-
 - **Segment:** `exam:14925007` · **unitId:** `96263`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14924984|exam:14924990|exam:14924991|exam:14924992|exam:14925000|exam:14925007>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96263&periodId=589>
@@ -14458,78 +14982,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:14921958` · **unitId:** `104778`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14921954|exam:14921958>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104778&periodId=589>
-
-- **Veranstaltungsart:** Examensseminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:15–13:45 | 13.04.2026–13.07.2026 | 00501.01.013 ( KH 1.013 Hörsaal Kollegienhaus) |
-| Einzeltermin | Mo | 10:00–16:00 | 20.07.2026 | 00501.01.013 ( KH 1.013 Hörsaal Kollegienhaus) |
-
-### LingExam - Ling Exam: Examenskurs Linguistik (Nürnberg, nur LA GS, MS, RS) - Examensseminar
-
-- **Segment:** `exam:14923257` · **unitId:** `104778`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14922602|exam:14922603|exam:14922604|exam:14922606|exam:14923251|exam:14923257>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104778&periodId=589>
-
-- **Veranstaltungsart:** Examensseminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:15–13:45 | 13.04.2026–13.07.2026 | 00501.01.013 ( KH 1.013 Hörsaal Kollegienhaus) |
-| Einzeltermin | Mo | 10:00–16:00 | 20.07.2026 | 00501.01.013 ( KH 1.013 Hörsaal Kollegienhaus) |
-
-### LingExam - Ling Exam: Examenskurs Linguistik (Nürnberg, nur LA GS, MS, RS) - Examensseminar
-
-- **Segment:** `exam:14923868` · **unitId:** `104778`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14923293|exam:14923300|exam:14923862|exam:14923868>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104778&periodId=589>
-
-- **Veranstaltungsart:** Examensseminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:15–13:45 | 13.04.2026–13.07.2026 | 00501.01.013 ( KH 1.013 Hörsaal Kollegienhaus) |
-| Einzeltermin | Mo | 10:00–16:00 | 20.07.2026 | 00501.01.013 ( KH 1.013 Hörsaal Kollegienhaus) |
-
-### LingExam - Ling Exam: Examenskurs Linguistik (Nürnberg, nur LA GS, MS, RS) - Examensseminar
-
-- **Segment:** `exam:14924478` · **unitId:** `104778`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14923902|exam:14923910|exam:14924472|exam:14924478>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104778&periodId=589>
-
-- **Veranstaltungsart:** Examensseminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:15–13:45 | 13.04.2026–13.07.2026 | 00501.01.013 ( KH 1.013 Hörsaal Kollegienhaus) |
-| Einzeltermin | Mo | 10:00–16:00 | 20.07.2026 | 00501.01.013 ( KH 1.013 Hörsaal Kollegienhaus) |
-
-### LingExam - Ling Exam: Examenskurs Linguistik (Nürnberg, nur LA GS, MS, RS) - Examensseminar
-
-- **Segment:** `exam:14924846` · **unitId:** `104778`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18226|exam:14924512|exam:14924520|exam:14924840|exam:14924846>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104778&periodId=589>
 
 - **Veranstaltungsart:** Examensseminar
@@ -14727,7 +15179,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99011&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:15–15:45 | 20.04.2026–13.07.2026 | 05801.01.211 ( B 302) |
 
 ### M-LingHist - M-LingHist - UE zum HS: Historische Linguistik und Sprachwandel - Übung
 
@@ -14736,7 +15195,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99011&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:15–15:45 | 20.04.2026–13.07.2026 | 05801.01.211 ( B 302) |
 
 ### Med Finit - Med Finit: Abschlussmodul (Dimpel) - Übung
 
@@ -15448,7 +15914,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Mo | 17:00–19:00 | 13.04.2026–06.07.2026 | — |
 
 ### Vorlesung VM - Vertiefungmodul Fachdidaktik Deutsch (ab PO 20202): Vorlesung: Deutschdidaktik als forschende Disziplin - Vorlesung
 
@@ -15458,7 +15931,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Mo | 17:00–19:00 | 13.04.2026–06.07.2026 | — |
 
 ### Vorlesung VM - Vertiefungmodul Fachdidaktik Deutsch (ab PO 20202): Vorlesung: Deutschdidaktik als forschende Disziplin - Vorlesung
 
@@ -15468,7 +15948,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Mo | 17:00–19:00 | 13.04.2026–06.07.2026 | — |
 
 ### Vorlesung VM - Vertiefungmodul Fachdidaktik Deutsch (ab PO 20202): Vorlesung: Deutschdidaktik als forschende Disziplin - Vorlesung
 
@@ -15478,7 +15965,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Mo | 17:00–19:00 | 13.04.2026–06.07.2026 | — |
 
 ### Vorlesung VM - Vertiefungmodul Fachdidaktik Deutsch (ab PO 20202): Vorlesung: Deutschdidaktik als forschende Disziplin - Vorlesung
 
@@ -15488,7 +15982,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Mo | 17:00–19:00 | 13.04.2026–06.07.2026 | — |
 
 ### Vorlesung VM - Vertiefungmodul Fachdidaktik Deutsch (ab PO 20202): Vorlesung: Deutschdidaktik als forschende Disziplin - Vorlesung
 
@@ -15498,7 +15999,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Mo | 17:00–19:00 | 13.04.2026–06.07.2026 | — |
 
 ### Vorlesung VM - Vertiefungmodul Fachdidaktik Deutsch (ab PO 20202): Vorlesung: Deutschdidaktik als forschende Disziplin - Vorlesung
 
@@ -15508,7 +16016,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Mo | 17:00–19:00 | 13.04.2026–06.07.2026 | — |
 
 ### Vorlesung VM - Vertiefungmodul Fachdidaktik Deutsch (ab PO 20202): Vorlesung: Deutschdidaktik als forschende Disziplin - Vorlesung
 
@@ -15518,7 +16033,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Mo | 17:00–19:00 | 13.04.2026–06.07.2026 | — |
 
 ### Vorlesung VM - Vertiefungmodul Fachdidaktik Deutsch (ab PO 20202): Vorlesung: Deutschdidaktik als forschende Disziplin - Vorlesung
 
@@ -15528,7 +16050,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Mo | 17:00–19:00 | 13.04.2026–06.07.2026 | — |
 
 ### Vorlesung VM - Vertiefungmodul Fachdidaktik Deutsch (ab PO 20202): Vorlesung: Deutschdidaktik als forschende Disziplin - Vorlesung
 
@@ -15538,7 +16067,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Mo | 17:00–19:00 | 13.04.2026–06.07.2026 | — |
 
 ### Vorlesung VM - Vertiefungmodul Fachdidaktik Deutsch (ab PO 20202): Vorlesung: Deutschdidaktik als forschende Disziplin - Vorlesung
 
@@ -15548,7 +16084,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Mo | 17:00–19:00 | 13.04.2026–06.07.2026 | — |
 
 ### Vorlesung VM - Vertiefungmodul Fachdidaktik Deutsch (ab PO 20202): Vorlesung: Deutschdidaktik als forschende Disziplin - Vorlesung
 
@@ -15558,7 +16101,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Mo | 17:00–19:00 | 13.04.2026–06.07.2026 | — |
 
 ### Vorlesung VM - Vertiefungmodul Fachdidaktik Deutsch (ab PO 20202): Vorlesung: Deutschdidaktik als forschende Disziplin - Vorlesung
 
@@ -15568,7 +16118,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Mo | 17:00–19:00 | 13.04.2026–06.07.2026 | — |
 
 ### Vorlesung VM - Vertiefungmodul Fachdidaktik Deutsch (ab PO 20202): Vorlesung: Deutschdidaktik als forschende Disziplin - Vorlesung
 
@@ -15578,7 +16135,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Mo | 17:00–19:00 | 13.04.2026–06.07.2026 | — |
 
 ### Vorlesung VM - Vertiefungmodul Fachdidaktik Deutsch (ab PO 20202): Vorlesung: Deutschdidaktik als forschende Disziplin - Vorlesung
 
@@ -15588,7 +16152,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Mo | 17:00–19:00 | 13.04.2026–06.07.2026 | — |
 
 ### Vorlesung VM - Vertiefungmodul Fachdidaktik Deutsch (ab PO 20202): Vorlesung: Deutschdidaktik als forschende Disziplin - Vorlesung
 
@@ -15598,7 +16169,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Mo | 17:00–19:00 | 13.04.2026–06.07.2026 | — |
 
 ### Vorlesung VM - Vertiefungmodul Fachdidaktik Deutsch (ab PO 20202): Vorlesung: Deutschdidaktik als forschende Disziplin - Vorlesung
 
@@ -15608,7 +16186,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Mo | 17:00–19:00 | 13.04.2026–06.07.2026 | — |
 
 ### Vorlesung VM - Vertiefungmodul Fachdidaktik Deutsch (ab PO 20202): Vorlesung: Deutschdidaktik als forschende Disziplin - Vorlesung
 
@@ -15618,19 +16203,18 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (156)
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Mo | 17:00–19:00 | 13.04.2026–06.07.2026 | — |
+
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (126)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
-
-### (Schul)kanon und Kinder- und Jugendliteratur (Nürnberg: nur GS/MS/RS/Berufl.Schulen) — Seminar
-
-- **Segment:** `unit:123938` · **unitId:** `123938`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123938&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
 
 ### a HINWEIS: Jedes LitG-AM Seminar kann entweder als Lektüreseminar oder als Seminar belegt werden. Dies ist keine Lehrveranstaltung. — Einzelunterricht
 
@@ -15639,13 +16223,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Einzelunterricht
 
-### AM: — Seminar
-
-- **Segment:** `unit:113518` · **unitId:** `113518`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113518&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-
 ### AM: Wiener Moderne — Seminar
 
 - **Segment:** `unit:94263` · **unitId:** `94263`
@@ -15653,13 +16230,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **Turnus:** nur im Wintersemester
-
-### Aufbaumodul Fachdidaktik Deutsch Übung (nur GS)
-
-- **Segment:** `unit:115470` · **unitId:** `115470`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115470&periodId=589>
-
-- **Veranstaltungsart:** Übung
 
 ### Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (alte FPO, nur GS): Sprache, Literatur, Medien
 
@@ -15727,13 +16297,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 
-### Das Wissen der Literatur: Ansätze, Kontexte, Perspektiven (neuer BA: Lit AM-W) — Seminar
-
-- **Segment:** `unit:126333` · **unitId:** `126333`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126333&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-
 ### Der Inkle und Yariko-Stoff im 18. Jahrhundert (Lit AM-L) — Seminar
 
 - **Segment:** `unit:118963` · **unitId:** `118963`
@@ -15771,27 +16334,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
-### Dramatik der Gegenwart — Hauptseminar
-
-- **Segment:** `unit:121943` · **unitId:** `121943`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121943&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-
-### Dramen der Gegenwart (Lit AM-L) — Seminar
-
-- **Segment:** `unit:126406` · **unitId:** `126406`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126406&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-
-### E.T.A. Hoffmanns Schauerroman "Die Elixiere des Teufels" (Nürnberg: für LA GS/MS/RS) (VM NdL-1/VM NdL-2) — Hauptseminar
-
-- **Segment:** `unit:137869` · **unitId:** `137869`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137869&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-
 ### Ein kurtzweilig Lesen von Dil Ulenspiegel — Seminar
 
 - **Segment:** `unit:118755` · **unitId:** `118755`
@@ -15806,12 +16348,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Praxisseminar
 
-### Epochen im Überblick vom Barock bis zur Gegenwart (Lit AM-G) (Erlangen für BA/LA GY/RS) — Kolleg
+### Erzähltexte von 1945-60 — Seminar und Übung
 
-- **Segment:** `unit:137843` · **unitId:** `137843`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137843&periodId=589>
+- **Segment:** `unit:137792` · **unitId:** `137792`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137792&periodId=589>
 
-- **Veranstaltungsart:** Kolleg
+- **Veranstaltungsart:** Seminar und Übung
 
 ### EXAM NdL: — Examensseminar
 
@@ -15842,24 +16384,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Examensseminar
 
-### Examenskurs NdL — Examensseminar
-
-- **Segment:** `unit:126245` · **unitId:** `126245`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126245&periodId=589>
-
-- **Veranstaltungsart:** Examensseminar
-
 ### Examenskurs NdL (Erlangen für: LA GYM/RS) — Examensseminar
 
 - **Segment:** `unit:137867` · **unitId:** `137867`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137867&periodId=589>
-
-- **Veranstaltungsart:** Examensseminar
-
-### Examenskurs NdL (Nbg: GS/MS/RS) — Examensseminar
-
-- **Segment:** `unit:115140` · **unitId:** `115140`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115140&periodId=589>
 
 - **Veranstaltungsart:** Examensseminar
 
@@ -15874,13 +16402,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:137870` · **unitId:** `137870`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137870&periodId=589>
-
-- **Veranstaltungsart:** Examensseminar
-
-### Examenskurs NdL (Nürnberg: nur GS/MS/RS/Berufl. Schulen) — Examensseminar
-
-- **Segment:** `unit:121988` · **unitId:** `121988`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121988&periodId=589>
 
 - **Veranstaltungsart:** Examensseminar
 
@@ -15931,26 +16452,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.0
 - **Turnus:** in jedem Semester
 
-### Fanfiction: Zugänge der digitalen Literaturwissenschaft — Seminar
-
-- **Segment:** `unit:123805` · **unitId:** `123805`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123805&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
 ### Friedrich Schiller- Werk und Rezeption (NDL VM-1&NDL VM-2) — Hauptseminar
 
 - **Segment:** `unit:130328` · **unitId:** `130328`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130328&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-
-### Gender, Literature and the Public Sphere (Seminar in englischer Sprache) (Master) — Hauptseminar
-
-- **Segment:** `unit:118967` · **unitId:** `118967`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118967&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
 
@@ -15960,22 +16465,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131963&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-
-### Globale Literatur? Die Entwicklung des 'Öko-Krimis' seit dem 19. Jahrhundert — Hauptseminar
-
-- **Segment:** `unit:105548` · **unitId:** `105548`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=105548&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** nur im Wintersemester
-
-### Globale Literatur? Die Entwicklung des 'Öko-Krimis' seit dem 19. Jahrhundert! — Hauptseminar
-
-- **Segment:** `unit:90696` · **unitId:** `90696`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90696&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** nur im Sommersemester
 
 ### Goethe im Kontext: Wahlverwandtschaften und Wissenschaftsreflexion (Lit AM-W) — Seminar
 
@@ -15992,14 +16481,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126240&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
-
-### Hauptseminar (MA Literaturstudien)
-
-- **Segment:** `unit:116094` · **unitId:** `116094`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116094&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** nur im Wintersemester
 
 ### Hauptseminar Mediävistik
 
@@ -16025,22 +16506,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **Turnus:** Unregelmäßig
 
-### Hauptseminar Mediävistik
-
-- **Segment:** `unit:121816` · **unitId:** `121816`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121816&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
-
-### Hauptseminar Mediävistik und Examenskurs
-
-- **Segment:** `unit:110017` · **unitId:** `110017`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110017&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-
 ### Hauptseminar Mediävistik und Examenskurs: Märendichtung / Novellistik
 
 - **Segment:** `unit:137698` · **unitId:** `137698`
@@ -16055,20 +16520,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126248&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-
-### HS /Ü: Adam Olearius und die Wunderkammer von Schloss Gottorf (mit Exkursion) — Seminar und Übung
-
-- **Segment:** `unit:130309` · **unitId:** `130309`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130309&periodId=589>
-
-- **Veranstaltungsart:** Seminar und Übung
-
-### HS Komödie (17. bis  19. Jahrhundert) — Hauptseminar
-
-- **Segment:** `unit:115136` · **unitId:** `115136`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115136&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
 
 ### HS/Ü Schwarzer Markt für rote Bücher — Hauptseminar
 
@@ -16105,13 +16556,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Hauptseminar
 
-### HS/Ü: Ulrike Draesner: Science & Poetry Lab Die Vorbereitung eines Romans zu Emmy Noether, Romantrilogie zu Flucht und Vertreibung — Seminar und Übung
-
-- **Segment:** `unit:130838` · **unitId:** `130838`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130838&periodId=589>
-
-- **Veranstaltungsart:** Seminar und Übung
-
 ### Kinder- und Hausmärchen digital: Quellen, Analysen, theoretische Zugänge — Seminar
 
 - **Segment:** `unit:123803` · **unitId:** `123803`
@@ -16128,13 +16572,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 
-### Kino, Konsum und Massenkultur: Siegfried Kracauer und die 1920er Jahre — Hauptseminar
-
-- **Segment:** `unit:132876` · **unitId:** `132876`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132876&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-
 ### Klausur zum Nachweis Gesicherter Lateinkenntnisse
 
 - **Segment:** `unit:39849` · **unitId:** `39849`
@@ -16148,14 +16585,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | 15:00–18:00 | 07.06.2026 23:59:59 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
-
-### Kohletexte. Literatur und Energie in der Gegenwart — Seminar
-
-- **Segment:** `unit:110450` · **unitId:** `110450`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110450&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nicht in diesem Semester
 
 ### Kontroversen zur Kinder- und Jugendliteratur (Nürnberg: nur GS/MS/RS/Berufl.Schulen) — Hauptseminar
 
@@ -16184,8 +16613,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -16229,13 +16658,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### Ling AM-1: Tutorium "Syntax der deutschen Gegenwartssprache" (Erlangen)
-
-- **Segment:** `unit:116786` · **unitId:** `116786`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116786&periodId=589>
-
-- **Veranstaltungsart:** Tutorium
-
 ### Ling AM-1: Tutorium "Syntax der deutschen Gegenwartssprache" (Nürnberg)
 
 - **Segment:** `unit:116621` · **unitId:** `116621`
@@ -16261,22 +16683,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** in jedem Semester
-
-### Ling AM-2: Seminar Linguistik
-
-- **Segment:** `unit:106655` · **unitId:** `106655`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106655&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
-
-### Ling AM: Briefe von Psychiatriepatienten aus soziolinguistischer Perspektive — Seminar
-
-- **Segment:** `unit:118633` · **unitId:** `118633`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118633&periodId=589>
-
-- **Veranstaltungsart:** Seminar
 
 ### Ling BM-1: Einführung in die germanistische  Linguistik (Erlangen, geöffnet für alle Studiengänge) — Einführungskurs
 
@@ -16364,20 +16770,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Kolleg
 - **Turnus:** in jedem Semester
 
-### Lit AM (alter BA): Gender Studies und Literaturwissenschaft — Proseminar
-
-- **Segment:** `unit:115211` · **unitId:** `115211`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115211&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-
-### Lit AM-G: "Die Welt ist ein Dorf, oder: Heinrich Wittenwilers 'Der Ring'" — Seminar
-
-- **Segment:** `unit:125928` · **unitId:** `125928`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125928&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-
 ### Lit AM-L (Nürnberg: GS/MS/RS/Berufl. S.) — Seminar
 
 - **Segment:** `unit:129870` · **unitId:** `129870`
@@ -16385,21 +16777,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **Turnus:** in jedem Semester
-
-### Lit AM-L (Nürnberg: GS/MS/RS/Berufl. S.): Nibelungenlied — Seminar
-
-- **Segment:** `unit:137578` · **unitId:** `137578`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137578&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
-### Lit AM-L GSMS: Tracy Deonn, Donald Duck und der König auf Camelot - die Rezeption mittelalterlicher Literatur im modernen Kinder- und Jugendbuch — Seminar
-
-- **Segment:** `unit:126232` · **unitId:** `126232`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126232&periodId=589>
-
-- **Veranstaltungsart:** Seminar
 
 ### Lit AM-L: — Seminar
 
@@ -16423,27 +16800,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 
+### Lit AM-L: Aufbaumodul Literatur, Lektüren und Kontexte — Proseminar
+
+- **Segment:** `unit:137580` · **unitId:** `137580`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137580&periodId=589>
+
+- **Veranstaltungsart:** Proseminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** in jedem Semester
+
 ### Lit AM-L: Die interkulturelle Dimension von Goethes West-östlichem Divan — Proseminar
 
 - **Segment:** `unit:115209` · **unitId:** `115209`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115209&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
-
-### Lit AM-L: Die Sprache der Tiere im Mittelalter — Seminar
-
-- **Segment:** `unit:110055` · **unitId:** `110055`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110055&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-
-### Lit AM-L: Ecken und Kanten. Provokantes und Irritierendes in mittelalterlicher Dichtung — Seminar
-
-- **Segment:** `unit:129871` · **unitId:** `129871`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=129871&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
 
 ### Lit AM-L: Fragile Figuren oder heroische Heldenbilder? Das Nibelungenlied — Seminar
 
@@ -16662,6 +17033,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Proseminar
 
+### Otfried Preußler (Nürnberg: für LA GS/MS/RS) — Hauptseminar
+
+- **Segment:** `unit:137790` · **unitId:** `137790`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137790&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
+
+### Raumtheoretische Zugänge zur Literatur (Erlangen für MA/BA/LA GY/RS) — Seminar und Übung
+
+- **Segment:** `unit:137788` · **unitId:** `137788`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137788&periodId=589>
+
+- **Veranstaltungsart:** Seminar und Übung
+
 ### Schriftliche Übersetzungsleistung Latein I für Anfänger (Zulassungsvoraussetzung zu Kurs Latein II für Fortgeschrittene)
 
 - **Segment:** `unit:39848` · **unitId:** `39848`
@@ -16723,14 +17108,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 3.0
 - **Turnus:** nur im Wintersemester
-
-### Unreliable Narrators / Unzuverlässige Erzähler in Literatur und Film — Hauptseminar
-
-- **Segment:** `unit:101974` · **unitId:** `101974`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101974&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** in jedem Semester
 
 ### Variationen des Phantastischen in der Gegenwart: Fantasy, Science Fiction, Horror — Hauptseminar
 
@@ -16810,13 +17187,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121866&periodId=589>
 
 - **Veranstaltungsart:** Übung
-
-### Übung Mediävistik: Berühmte Beispielgeschichten - aus der Welt der Bibel und der Bibel der Welt — Kolleg
-
-- **Segment:** `unit:137701` · **unitId:** `137701`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137701&periodId=589>
-
-- **Veranstaltungsart:** Kolleg
 
 ### Übung Mediävistik: Deutsche und französische Liederhandschriften
 

@@ -774,6 +774,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Sommersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 18:00–20:00 | 14.04.2026–14.07.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
+
 ### Arbeitsgerichtl. Verfahren - Vorlesung
 
 - **Segment:** `exam:14061669` · **unitId:** `108630`
@@ -782,6 +788,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 18:00–20:00 | 14.04.2026–14.07.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
 
 ### Arbeitsgerichtl. Verfahren - Vorlesung
 
@@ -792,6 +804,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Sommersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 18:00–20:00 | 14.04.2026–14.07.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
+
 ### Arbeitsgerichtl. Verfahren - Vorlesung
 
 - **Segment:** `exam:14065521` · **unitId:** `108630`
@@ -800,6 +818,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 18:00–20:00 | 14.04.2026–14.07.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
 
 ### BGB AT - Vorlesung mit Übung
 
@@ -996,7 +1020,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134574&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Sa | 09:00–21:00 | 09.05.2026 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
 
 ### Einführung in das Recht der Verkehrswende und der Energiewende - Vorlesung
 
@@ -1005,7 +1036,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134574&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Sa | 09:00–21:00 | 09.05.2026 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
 
 ### Einführung in das Recht der Verkehrswende und der Energiewende - Vorlesung
 
@@ -1014,7 +1052,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134574&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Sa | 09:00–21:00 | 09.05.2026 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
 
 ### Einführung in das Recht der Verkehrswende und der Energiewende - Vorlesung
 
@@ -1023,7 +1068,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134574&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Sa | 09:00–21:00 | 09.05.2026 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
 
 ### Einführung in das Recht des Weltraumes - Vorlesung
 
@@ -1032,7 +1084,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133945&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** jedes 2. Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Sa | 09:00–21:00 | 04.07.2026 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
 
 ### Einführung in das Recht des Weltraumes - Vorlesung
 
@@ -1041,7 +1100,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133945&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** jedes 2. Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Sa | 09:00–21:00 | 04.07.2026 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
 
 ### Einführung in das Recht des Weltraumes - Vorlesung
 
@@ -1050,7 +1116,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133945&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** jedes 2. Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Sa | 09:00–21:00 | 04.07.2026 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
 
 ### Einführung in das Recht des Weltraumes - Vorlesung
 
@@ -1059,7 +1132,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133945&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** jedes 2. Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Sa | 09:00–21:00 | 04.07.2026 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
 
 ### English: JUR - Academic and Legal Writing for Law Students - Kurs
 
@@ -1229,7 +1309,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Kurs
 - **ECTS-Punkte:** 4.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 00501.00.014 ( KH 0.014 Hörsaal Kollegienhaus (SR) - 42 Plätze) |
 
 ### English: Level 4 (JUR) - Presenting Skills in the Legal Context - Kurs
 
@@ -1266,7 +1353,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 7.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
 ### Erbrecht - Vorlesung
 
@@ -1276,7 +1370,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 7.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
 ### Erbrecht - Vorlesung
 
@@ -1286,7 +1387,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 7.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
 ### Erbrecht - Vorlesung
 
@@ -1296,7 +1404,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 7.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
 ### Europäische Grundrechte (Europarecht III) ( Schwerpunktbereich 5+11 )  - Vorlesung
 
@@ -1661,7 +1776,18 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133346&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 09:00–13:00 | 04.05.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
+| Einzeltermin | Mo | 09:00–13:00 | 11.05.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
+| Einzeltermin | Mo | 09:00–13:00 | 01.06.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
+| Einzeltermin | Mo | 09:00–13:00 | 08.06.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
+| Einzeltermin | Mo | 09:00–13:00 | 15.06.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
 
 ### Examenskurs Öffentliches Recht I - Vorlesung
 
@@ -1670,7 +1796,18 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133346&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 09:00–13:00 | 04.05.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
+| Einzeltermin | Mo | 09:00–13:00 | 11.05.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
+| Einzeltermin | Mo | 09:00–13:00 | 01.06.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
+| Einzeltermin | Mo | 09:00–13:00 | 08.06.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
+| Einzeltermin | Mo | 09:00–13:00 | 15.06.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
 
 ### Examenskurs Öffentliches Recht I - Vorlesung
 
@@ -1679,7 +1816,18 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133346&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 09:00–13:00 | 04.05.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
+| Einzeltermin | Mo | 09:00–13:00 | 11.05.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
+| Einzeltermin | Mo | 09:00–13:00 | 01.06.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
+| Einzeltermin | Mo | 09:00–13:00 | 08.06.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
+| Einzeltermin | Mo | 09:00–13:00 | 15.06.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
 
 ### Examenskurs Öffentliches Recht I - Vorlesung
 
@@ -1688,7 +1836,18 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133346&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 09:00–13:00 | 04.05.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
+| Einzeltermin | Mo | 09:00–13:00 | 11.05.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
+| Einzeltermin | Mo | 09:00–13:00 | 01.06.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
+| Einzeltermin | Mo | 09:00–13:00 | 08.06.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
+| Einzeltermin | Mo | 09:00–13:00 | 15.06.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
 
 ### Examenskurs: Handels- und Gesellschaftsrecht - Repetitorium
 
@@ -1822,15 +1981,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86143&periodId=589>
 
 - **Veranstaltungsart:** Workshop
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 09:00–17:00 | 08.05.2026 | 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
-| Einzeltermin | Sa | 10:00–17:00 | 09.05.2026 | 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
 
 ### Gespräche wirkungsvoll gestalten - Gesprächsrhetorik für Jurastudierende - Workshop
 
@@ -1839,15 +1990,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86143&periodId=589>
 
 - **Veranstaltungsart:** Workshop
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 09:00–17:00 | 08.05.2026 | 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
-| Einzeltermin | Sa | 10:00–17:00 | 09.05.2026 | 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
 
 ### Gespräche wirkungsvoll gestalten - Gesprächsrhetorik für Jurastudierende - Workshop
 
@@ -1856,15 +1999,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86143&periodId=589>
 
 - **Veranstaltungsart:** Workshop
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 09:00–17:00 | 08.05.2026 | 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
-| Einzeltermin | Sa | 10:00–17:00 | 09.05.2026 | 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
 
 ### Gespräche wirkungsvoll gestalten - Gesprächsrhetorik für Jurastudierende - Workshop
 
@@ -1873,15 +2008,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86143&periodId=589>
 
 - **Veranstaltungsart:** Workshop
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 09:00–17:00 | 08.05.2026 | 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
-| Einzeltermin | Sa | 10:00–17:00 | 09.05.2026 | 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
 
 ### Grundzüge Personengesellschaftsrecht - Vorlesung
 
@@ -1954,7 +2081,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127364&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** jedes 2. Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:00–10:00 | 14.04.2026–14.07.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
 
 ### Handelsrecht - Vorlesung
 
@@ -1963,7 +2097,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127364&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** jedes 2. Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:00–10:00 | 14.04.2026–14.07.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
 
 ### Handelsrecht - Vorlesung
 
@@ -1972,7 +2113,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127364&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** jedes 2. Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:00–10:00 | 14.04.2026–14.07.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
 
 ### Handelsrecht - Vorlesung
 
@@ -1981,7 +2129,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127364&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** jedes 2. Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:00–10:00 | 14.04.2026–14.07.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
 
 ### Human Rights in International Organisations: Law & Politics - Masterseminar
 
@@ -2387,7 +2542,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
 
 ### Islam und Recht in Europa (NOS 22 und 51/52) - Vorlesung
 
@@ -2397,7 +2559,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
 
 ### Islam und Recht in Europa (NOS 22 und 51/52) - Vorlesung
 
@@ -2407,7 +2576,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
 
 ### Islam und Recht in Europa (NOS 22 und 51/52) - Vorlesung
 
@@ -2417,7 +2593,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
 
 ### Islam und Recht in Europa (NOS 22 und 51/52) - Vorlesung
 
@@ -2427,7 +2610,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
 
 ### Islam und Recht in Europa (NOS 22 und 51/52) - Vorlesung
 
@@ -2437,7 +2627,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
 
 ### Islam und Recht in Europa (NOS 22 und 51/52) - Vorlesung
 
@@ -2447,7 +2644,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
 
 ### Islamisches Recht II - Vorlesung mit Übung
 
@@ -3028,7 +3232,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120083&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Polizei- und Sicherheitsrecht - Vorlesung
 
@@ -3037,7 +3248,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120083&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Polizei- und Sicherheitsrecht - Vorlesung
 
@@ -3046,7 +3264,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120083&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Polizei- und Sicherheitsrecht - Vorlesung
 
@@ -3055,7 +3280,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120083&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Propädeutische Übung BGB AT - Propädeutische Übung
 
@@ -3684,7 +3916,17 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134524&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 14:00–18:00 | 16.04.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
+| Einzeltermin | Do | 14:00–18:00 | 23.04.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
+| Einzeltermin | Do | 15:00–19:00 | 11.06.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
+| Einzeltermin | Fr | 09:00–13:00 | 12.06.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Proseminar: Kennen Menschenrechte Grenzen? - Proseminar
 
@@ -3693,7 +3935,17 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134524&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 14:00–18:00 | 16.04.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
+| Einzeltermin | Do | 14:00–18:00 | 23.04.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
+| Einzeltermin | Do | 15:00–19:00 | 11.06.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
+| Einzeltermin | Fr | 09:00–13:00 | 12.06.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Proseminar: Kennen Menschenrechte Grenzen? - Proseminar
 
@@ -3702,7 +3954,17 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134524&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 14:00–18:00 | 16.04.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
+| Einzeltermin | Do | 14:00–18:00 | 23.04.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
+| Einzeltermin | Do | 15:00–19:00 | 11.06.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
+| Einzeltermin | Fr | 09:00–13:00 | 12.06.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Proseminar: Kennen Menschenrechte Grenzen? - Proseminar
 
@@ -3711,7 +3973,17 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134524&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 14:00–18:00 | 16.04.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
+| Einzeltermin | Do | 14:00–18:00 | 23.04.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
+| Einzeltermin | Do | 15:00–19:00 | 11.06.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
+| Einzeltermin | Fr | 09:00–13:00 | 12.06.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Psychologische Grundlagen des Entscheidens - Der Jurist im Spannungsfeld zwischen Vernunft und Intuition - Vorlesung
 
@@ -3720,7 +3992,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82900&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 11:00–17:00 | 15.05.2026 | 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
 
 ### Psychologische Grundlagen des Entscheidens - Der Jurist im Spannungsfeld zwischen Vernunft und Intuition - Vorlesung
 
@@ -3729,7 +4008,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82900&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 11:00–17:00 | 15.05.2026 | 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
 
 ### Psychologische Grundlagen des Entscheidens - Der Jurist im Spannungsfeld zwischen Vernunft und Intuition - Vorlesung
 
@@ -3738,7 +4024,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82900&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 11:00–17:00 | 15.05.2026 | 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
 
 ### Psychologische Grundlagen des Entscheidens - Der Jurist im Spannungsfeld zwischen Vernunft und Intuition - Vorlesung
 
@@ -3747,7 +4040,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82900&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 11:00–17:00 | 15.05.2026 | 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
 
 ### Psychologische Grundlagen des Verhandelns - Workshop
 
@@ -3938,6 +4238,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** jedes 2. Semester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:00–10:00 | 14.04.2026–14.07.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
+
 ### Rechtstheorie und juristische Methodenlehre - Vorlesung
 
 - **Segment:** `exam:14059653` · **unitId:** `110335`
@@ -3946,6 +4252,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** jedes 2. Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:00–10:00 | 14.04.2026–14.07.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
 
 ### Rechtstheorie und juristische Methodenlehre - Vorlesung
 
@@ -3956,6 +4268,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** jedes 2. Semester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:00–10:00 | 14.04.2026–14.07.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
+
 ### Rechtstheorie und juristische Methodenlehre - Vorlesung
 
 - **Segment:** `exam:14061508` · **unitId:** `110335`
@@ -3964,6 +4282,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** jedes 2. Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:00–10:00 | 14.04.2026–14.07.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
 
 ### Rechtstheorie und juristische Methodenlehre - Vorlesung
 
@@ -3974,6 +4298,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** jedes 2. Semester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:00–10:00 | 14.04.2026–14.07.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
+
 ### Rechtstheorie und juristische Methodenlehre - Vorlesung
 
 - **Segment:** `exam:14061780` · **unitId:** `110335`
@@ -3982,6 +4312,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** jedes 2. Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:00–10:00 | 14.04.2026–14.07.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
 
 ### Rechtstheorie und juristische Methodenlehre - Vorlesung
 
@@ -3992,6 +4328,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** jedes 2. Semester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:00–10:00 | 14.04.2026–14.07.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
+
 ### Rechtstheorie und juristische Methodenlehre - Vorlesung
 
 - **Segment:** `exam:14063733` · **unitId:** `110335`
@@ -4000,6 +4342,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** jedes 2. Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:00–10:00 | 14.04.2026–14.07.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
 
 ### Rechtstheorie und juristische Methodenlehre - Vorlesung
 
@@ -4010,6 +4358,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** jedes 2. Semester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:00–10:00 | 14.04.2026–14.07.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
+
 ### Rechtstheorie und juristische Methodenlehre - Vorlesung
 
 - **Segment:** `exam:14065378` · **unitId:** `110335`
@@ -4018,6 +4372,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** jedes 2. Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:00–10:00 | 14.04.2026–14.07.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
 
 ### Rechtstheorie und juristische Methodenlehre - Vorlesung
 
@@ -4028,6 +4388,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** jedes 2. Semester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:00–10:00 | 14.04.2026–14.07.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
+
 ### Rechtstheorie und juristische Methodenlehre - Vorlesung
 
 - **Segment:** `exam:14065555` · **unitId:** `110335`
@@ -4036,6 +4402,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** jedes 2. Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:00–10:00 | 14.04.2026–14.07.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
 
 ### Research Seminar Legal Theory - Seminar
 
@@ -4108,7 +4480,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87900&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
 
 ### Römisches Privatrecht; zugleich auch Übung zum Römischen Privatrecht i.S.d. SPB-Prüfungsordnung, SPB  8 (NEU) - Vorlesung
 
@@ -4117,7 +4496,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87900&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
 
 ### Römisches Privatrecht; zugleich auch Übung zum Römischen Privatrecht i.S.d. SPB-Prüfungsordnung, SPB  8 (NEU) - Vorlesung
 
@@ -4126,7 +4512,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87900&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
 
 ### Römisches Privatrecht; zugleich auch Übung zum Römischen Privatrecht i.S.d. SPB-Prüfungsordnung, SPB  8 (NEU) - Vorlesung
 
@@ -4135,7 +4528,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87900&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
 
 ### Schuldrecht AT - Vorlesung
 
@@ -4208,7 +4608,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119198&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Sa | 09:30–16:30 | 27.06.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### Seminar im SPB 8 und 9 (vorher 4 und 5) - Seminar
 
@@ -4217,7 +4624,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119198&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Sa | 09:30–16:30 | 27.06.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### Seminar im SPB 8 und 9 (vorher 4 und 5) - Seminar
 
@@ -4226,7 +4640,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119198&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Sa | 09:30–16:30 | 27.06.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### Seminar im SPB 8 und 9 (vorher 4 und 5) - Seminar
 
@@ -4235,7 +4656,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119198&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Sa | 09:30–16:30 | 27.06.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### Seminar Rechtsphilosophie (SPB 4, 5, 7;neu: 8, 9, 11) - Seminar
 
@@ -4320,6 +4748,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92571&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### SPB-Seminar zum Völkerrecht  - Seminar
@@ -4329,6 +4758,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92571&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### SPB-Seminar zum Völkerrecht  - Seminar
@@ -4338,6 +4768,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92571&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### SPB-Seminar zum Völkerrecht  - Seminar
@@ -4347,6 +4778,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92571&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### Staat, Verfassung, Menschenrechte - Vorlesung
@@ -4418,6 +4850,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** Unregelmäßig
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
+
 ### Strafvollzugsrecht - Vorlesung
 
 - **Segment:** `exam:14061835` · **unitId:** `109227`
@@ -4426,6 +4864,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
 
 ### Strafvollzugsrecht - Vorlesung
 
@@ -4436,6 +4880,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** Unregelmäßig
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
+
 ### Strafvollzugsrecht - Vorlesung
 
 - **Segment:** `exam:14065432` · **unitId:** `109227`
@@ -4444,6 +4894,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
 
 ### Streitlösung ohne Urteil - Vergleich, Güterichterverfahren, Mediation, Streitschlichtung - Vorlesung
 
@@ -4884,7 +5340,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101595&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:00–18:00 | 14.04.2026–14.07.2026 | 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
 
 ### Wirtschaftsstrafrecht - Vorlesung
 
@@ -4893,7 +5356,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101595&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:00–18:00 | 14.04.2026–14.07.2026 | 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
 
 ### Wirtschaftsstrafrecht - Vorlesung
 
@@ -4902,7 +5372,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101595&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:00–18:00 | 14.04.2026–14.07.2026 | 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
 
 ### Wirtschaftsstrafrecht - Vorlesung
 
@@ -4911,7 +5388,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101595&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:00–18:00 | 14.04.2026–14.07.2026 | 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
 
 ### Workshop Stressmanagement - Raus aus dem Hamsterrad - Workshop
 
@@ -4920,7 +5404,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93512&periodId=589>
 
 - **Veranstaltungsart:** Workshop
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 09:00–17:00 | 17.07.2026 | — |
 
 ### Workshop Stressmanagement - Raus aus dem Hamsterrad - Workshop
 
@@ -4929,7 +5420,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93512&periodId=589>
 
 - **Veranstaltungsart:** Workshop
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 09:00–17:00 | 17.07.2026 | — |
 
 ### Workshop Stressmanagement - Raus aus dem Hamsterrad - Workshop
 
@@ -4938,7 +5436,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93512&periodId=589>
 
 - **Veranstaltungsart:** Workshop
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 09:00–17:00 | 17.07.2026 | — |
 
 ### Workshop Stressmanagement - Raus aus dem Hamsterrad - Workshop
 
@@ -4947,7 +5452,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93512&periodId=589>
 
 - **Veranstaltungsart:** Workshop
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 09:00–17:00 | 17.07.2026 | — |
 
 ### ZPO - Vorlesung
 
@@ -5027,8 +5539,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Fr | 14:00–16:00 | 17.04.2026–17.07.2026 | 05701.00.017 ( Kl. Hörsaal) |
-| wöchentlich | Fr | 16:15–18:15 | 17.04.2026–17.07.2026 | 05701.00.017 ( Kl. Hörsaal) |
+| wöchentlich | Fr | 14:00–16:00 | 17.04.2026–17.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
+| wöchentlich | Fr | 16:15–18:15 | 17.04.2026–17.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
+| Einzeltermin | Di | 10:00–14:00 | 28.07.2026 | 05701.00.017 ( Kl. Hörsaal) |
 
 ### Zusatzstudien "Praxisorientiertes betriebswirtschaftliches Basiswissen" - Vorlesung mit Übung
 
@@ -5044,8 +5557,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Fr | 14:00–16:00 | 17.04.2026–17.07.2026 | 05701.00.017 ( Kl. Hörsaal) |
-| wöchentlich | Fr | 16:15–18:15 | 17.04.2026–17.07.2026 | 05701.00.017 ( Kl. Hörsaal) |
+| wöchentlich | Fr | 14:00–16:00 | 17.04.2026–17.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
+| wöchentlich | Fr | 16:15–18:15 | 17.04.2026–17.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
+| Einzeltermin | Di | 10:00–14:00 | 28.07.2026 | 05701.00.017 ( Kl. Hörsaal) |
 
 ### Überzeugend auftreten vor anderen  Rederhetorik für Jurastudierende - Vorlesung
 
@@ -5170,7 +5684,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107588&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 09:00–12:00 | 15.04.2026–15.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
 ### Übung für Fortgeschrittene im Öffentlichen Recht - Vorlesung mit Übung
 
@@ -5179,7 +5700,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107588&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 09:00–12:00 | 15.04.2026–15.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
 ### Übung für Fortgeschrittene im Öffentlichen Recht - Vorlesung mit Übung
 
@@ -5188,7 +5716,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107588&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 09:00–12:00 | 15.04.2026–15.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
 ### Übung für Fortgeschrittene im Öffentlichen Recht - Vorlesung mit Übung
 
@@ -5197,7 +5732,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107588&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 09:00–12:00 | 15.04.2026–15.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
 ### Übung im Individualarbeitsrecht - Übung
 
@@ -6824,7 +7366,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97751&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 10:00–12:00 | 17.04.2026–10.07.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
 
 ### EU-PRG - Europäische Privatrechtsgeschichte der Neuzeit - Vorlesung
 
@@ -6833,7 +7382,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97751&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 10:00–12:00 | 17.04.2026–10.07.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
 
 ### EU-PRG - Europäische Privatrechtsgeschichte der Neuzeit - Vorlesung
 
@@ -6842,7 +7398,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97751&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 10:00–12:00 | 17.04.2026–10.07.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
 
 ### EU-PRG - Europäische Privatrechtsgeschichte der Neuzeit - Vorlesung
 
@@ -6851,7 +7414,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97751&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 10:00–12:00 | 17.04.2026–10.07.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
 
 ### EuR II UE - Europarecht II - Übung zur Vertiefung im Europarecht (SPB 5 und SPB 9) - geeignet für 5. und 6. Semester - Vorlesung mit Übung
 
@@ -6861,7 +7431,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
 
 ### EuR II UE - Europarecht II - Übung zur Vertiefung im Europarecht (SPB 5 und SPB 9) - geeignet für 5. und 6. Semester - Vorlesung mit Übung
 
@@ -6871,7 +7448,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
 
 ### EuR II UE - Europarecht II - Übung zur Vertiefung im Europarecht (SPB 5 und SPB 9) - geeignet für 5. und 6. Semester - Vorlesung mit Übung
 
@@ -6881,7 +7465,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
 
 ### EuR II UE - Europarecht II - Übung zur Vertiefung im Europarecht (SPB 5 und SPB 9) - geeignet für 5. und 6. Semester - Vorlesung mit Übung
 
@@ -6891,7 +7482,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
 
 ### FamR - Grundzüge des Familienrechts - Vorlesung
 
@@ -6900,7 +7498,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102307&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:15–16:15 | 13.04.2026–13.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+| Einzeltermin | Di | 14:00–18:00 | 21.07.2026 | 06101.U1.155 (JDC CIP-Raum) |
+| Einzeltermin | Di | 14:00–18:00 | 21.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
 ### FamR - Grundzüge des Familienrechts - Vorlesung
 
@@ -6909,7 +7516,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102307&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:15–16:15 | 13.04.2026–13.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+| Einzeltermin | Di | 14:00–18:00 | 21.07.2026 | 06101.U1.155 (JDC CIP-Raum) |
+| Einzeltermin | Di | 14:00–18:00 | 21.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
 ### FamR - Grundzüge des Familienrechts - Vorlesung
 
@@ -6918,7 +7534,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102307&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:15–16:15 | 13.04.2026–13.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+| Einzeltermin | Di | 14:00–18:00 | 21.07.2026 | 06101.U1.155 (JDC CIP-Raum) |
+| Einzeltermin | Di | 14:00–18:00 | 21.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
 ### FamR - Grundzüge des Familienrechts - Vorlesung
 
@@ -6927,7 +7552,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102307&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:15–16:15 | 13.04.2026–13.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+| Einzeltermin | Di | 14:00–18:00 | 21.07.2026 | 06101.U1.155 (JDC CIP-Raum) |
+| Einzeltermin | Di | 14:00–18:00 | 21.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
 ### FamR - Grundzüge des Familienrechts - Vorlesung
 
@@ -6936,7 +7570,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102307&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:15–16:15 | 13.04.2026–13.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+| Einzeltermin | Di | 14:00–18:00 | 21.07.2026 | 06101.U1.155 (JDC CIP-Raum) |
+| Einzeltermin | Di | 14:00–18:00 | 21.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
 ### FamR - Grundzüge des Familienrechts - Vorlesung
 
@@ -6945,7 +7588,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102307&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:15–16:15 | 13.04.2026–13.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+| Einzeltermin | Di | 14:00–18:00 | 21.07.2026 | 06101.U1.155 (JDC CIP-Raum) |
+| Einzeltermin | Di | 14:00–18:00 | 21.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
 ### FamR - Grundzüge des Familienrechts - Vorlesung
 
@@ -6954,7 +7606,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102307&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:15–16:15 | 13.04.2026–13.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+| Einzeltermin | Di | 14:00–18:00 | 21.07.2026 | 06101.U1.155 (JDC CIP-Raum) |
+| Einzeltermin | Di | 14:00–18:00 | 21.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
 ### Forensik - Forensische Psychiatrie für Juristen - Vorlesung
 
@@ -7095,7 +7756,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91875&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:00–14:00 | 15.04.2026–15.07.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
+| wöchentlich | Do | 08:00–10:00 | 16.04.2026–16.07.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
 
 ### GS - Gesetzliche Schuldverhältnisse - Vorlesung
 
@@ -7104,7 +7773,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91875&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:00–14:00 | 15.04.2026–15.07.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
+| wöchentlich | Do | 08:00–10:00 | 16.04.2026–16.07.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
 
 ### GS - Gesetzliche Schuldverhältnisse - Vorlesung
 
@@ -7113,7 +7790,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91875&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:00–14:00 | 15.04.2026–15.07.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
+| wöchentlich | Do | 08:00–10:00 | 16.04.2026–16.07.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
 
 ### GS - Gesetzliche Schuldverhältnisse - Vorlesung
 
@@ -7122,7 +7807,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91875&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:00–14:00 | 15.04.2026–15.07.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
+| wöchentlich | Do | 08:00–10:00 | 16.04.2026–16.07.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
 
 ### KommR - Kommunalrecht - Vorlesung
 
@@ -7131,7 +7824,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96775&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### KommR - Kommunalrecht - Vorlesung
 
@@ -7140,7 +7840,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96775&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### KommR - Kommunalrecht - Vorlesung
 
@@ -7149,7 +7856,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96775&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### KommR - Kommunalrecht - Vorlesung
 
@@ -7158,7 +7872,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96775&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### MarkenR - Markenrecht (SPB 4) - Vorlesung
 
@@ -7492,7 +8213,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 16:00–18:00 | 21.04.2026–14.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
+| wöchentlich | Di | 14:00–16:00 | 21.04.2026–14.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### PÜ SiPOR - Propädeutische Übung zum Sicherheits- und Polizeirecht - Propädeutische Übung
 
@@ -7508,7 +8229,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 16:00–18:00 | 21.04.2026–14.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
+| wöchentlich | Di | 14:00–16:00 | 21.04.2026–14.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### PÜ SiPOR - Propädeutische Übung zum Sicherheits- und Polizeirecht - Propädeutische Übung
 
@@ -7524,7 +8245,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 16:00–18:00 | 21.04.2026–14.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
+| wöchentlich | Di | 14:00–16:00 | 21.04.2026–14.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### PÜ SiPOR - Propädeutische Übung zum Sicherheits- und Polizeirecht - Propädeutische Übung
 
@@ -7540,7 +8261,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 16:00–18:00 | 21.04.2026–14.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
+| wöchentlich | Di | 14:00–16:00 | 21.04.2026–14.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Rep IPR - Repetitorium IPR, IZPR und Rechtsvergleichung - Repetitorium
 
@@ -7549,7 +8270,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94568&periodId=589>
 
 - **Veranstaltungsart:** Repetitorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:15–17:45 | 20.04.2026–13.07.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### Rep IPR - Repetitorium IPR, IZPR und Rechtsvergleichung - Repetitorium
 
@@ -7558,7 +8286,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94568&periodId=589>
 
 - **Veranstaltungsart:** Repetitorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:15–17:45 | 20.04.2026–13.07.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### Rep IPR - Repetitorium IPR, IZPR und Rechtsvergleichung - Repetitorium
 
@@ -7567,7 +8302,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94568&periodId=589>
 
 - **Veranstaltungsart:** Repetitorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:15–17:45 | 20.04.2026–13.07.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### Rep IPR - Repetitorium IPR, IZPR und Rechtsvergleichung - Repetitorium
 
@@ -7576,7 +8318,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94568&periodId=589>
 
 - **Veranstaltungsart:** Repetitorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:15–17:45 | 20.04.2026–13.07.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### Rep IPR - Repetitorium IPR, IZPR und Rechtsvergleichung - Repetitorium
 
@@ -7585,7 +8334,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94568&periodId=589>
 
 - **Veranstaltungsart:** Repetitorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:15–17:45 | 20.04.2026–13.07.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### Rep IPR - Repetitorium IPR, IZPR und Rechtsvergleichung - Repetitorium
 
@@ -7594,7 +8350,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94568&periodId=589>
 
 - **Veranstaltungsart:** Repetitorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:15–17:45 | 20.04.2026–13.07.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### Rep IPR - Repetitorium IPR, IZPR und Rechtsvergleichung - Repetitorium
 
@@ -7603,7 +8366,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94568&periodId=589>
 
 - **Veranstaltungsart:** Repetitorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:15–17:45 | 20.04.2026–13.07.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### Rep IPR - Repetitorium IPR, IZPR und Rechtsvergleichung - Repetitorium
 
@@ -7612,7 +8382,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94568&periodId=589>
 
 - **Veranstaltungsart:** Repetitorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:15–17:45 | 20.04.2026–13.07.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### Rep IPR - Repetitorium IPR, IZPR und Rechtsvergleichung - Repetitorium
 
@@ -7621,7 +8398,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94568&periodId=589>
 
 - **Veranstaltungsart:** Repetitorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:15–17:45 | 20.04.2026–13.07.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### Rep IPR - Repetitorium IPR, IZPR und Rechtsvergleichung - Repetitorium
 
@@ -7630,7 +8414,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94568&periodId=589>
 
 - **Veranstaltungsart:** Repetitorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:15–17:45 | 20.04.2026–13.07.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### Rep IPR - Repetitorium IPR, IZPR und Rechtsvergleichung - Repetitorium
 
@@ -7639,7 +8430,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94568&periodId=589>
 
 - **Veranstaltungsart:** Repetitorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:15–17:45 | 20.04.2026–13.07.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### Rep IPR - Repetitorium IPR, IZPR und Rechtsvergleichung - Repetitorium
 
@@ -7648,7 +8446,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94568&periodId=589>
 
 - **Veranstaltungsart:** Repetitorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:15–17:45 | 20.04.2026–13.07.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### Rep IPR - Repetitorium IPR, IZPR und Rechtsvergleichung - Repetitorium
 
@@ -7657,7 +8462,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94568&periodId=589>
 
 - **Veranstaltungsart:** Repetitorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:15–17:45 | 20.04.2026–13.07.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### Rep IPR - Repetitorium IPR, IZPR und Rechtsvergleichung - Repetitorium
 
@@ -7666,7 +8478,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94568&periodId=589>
 
 - **Veranstaltungsart:** Repetitorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:15–17:45 | 20.04.2026–13.07.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### Rep IPR - Repetitorium IPR, IZPR und Rechtsvergleichung - Repetitorium
 
@@ -7675,7 +8494,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94568&periodId=589>
 
 - **Veranstaltungsart:** Repetitorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:15–17:45 | 20.04.2026–13.07.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### Rep IPR - Repetitorium IPR, IZPR und Rechtsvergleichung - Repetitorium
 
@@ -7684,7 +8510,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94568&periodId=589>
 
 - **Veranstaltungsart:** Repetitorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:15–17:45 | 20.04.2026–13.07.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### Rep IPR - Repetitorium IPR, IZPR und Rechtsvergleichung - Repetitorium
 
@@ -7693,7 +8526,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94568&periodId=589>
 
 - **Veranstaltungsart:** Repetitorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:15–17:45 | 20.04.2026–13.07.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### Rep IPR - Repetitorium IPR, IZPR und Rechtsvergleichung - Repetitorium
 
@@ -7702,7 +8542,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94568&periodId=589>
 
 - **Veranstaltungsart:** Repetitorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:15–17:45 | 20.04.2026–13.07.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### Rep IPR - Repetitorium IPR, IZPR und Rechtsvergleichung - Repetitorium
 
@@ -7711,7 +8558,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94568&periodId=589>
 
 - **Veranstaltungsart:** Repetitorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:15–17:45 | 20.04.2026–13.07.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### Rep IPR - Repetitorium IPR, IZPR und Rechtsvergleichung - Repetitorium
 
@@ -7720,7 +8574,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94568&periodId=589>
 
 - **Veranstaltungsart:** Repetitorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:15–17:45 | 20.04.2026–13.07.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### Rvgl - Rechtsvergleichung - Vorlesung
 
@@ -8088,7 +8949,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91265&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:00–12:00 | 13.04.2026–13.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
 ### StR II - Strafrecht II - Vorlesung
 
@@ -8097,7 +8967,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91265&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:00–12:00 | 13.04.2026–13.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
 ### StR II - Strafrecht II - Vorlesung
 
@@ -8106,7 +8985,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91265&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:00–12:00 | 13.04.2026–13.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
 ### StR II - Strafrecht II - Vorlesung
 
@@ -8115,7 +9003,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91265&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:00–12:00 | 13.04.2026–13.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
 ### TR I - Einführung in das Türkische Recht I (Blockveranstaltung) - Übung
 
@@ -8421,7 +9318,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104063&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### VerwProzR - Verwaltungsprozessrecht - Vorlesung
 
@@ -8430,7 +9334,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104063&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### VerwProzR - Verwaltungsprozessrecht - Vorlesung
 
@@ -8439,7 +9350,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104063&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### VerwProzR - Verwaltungsprozessrecht - Vorlesung
 
@@ -8448,7 +9366,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104063&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### VL - Staatskirchenrecht (Religionsverfassungsrecht) - Vorlesung
 
@@ -8457,7 +9382,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96048&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:15–15:45 | 14.04.2026–14.07.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### VL - Staatskirchenrecht (Religionsverfassungsrecht) - Vorlesung
 
@@ -8466,7 +9398,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96048&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:15–15:45 | 14.04.2026–14.07.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### VL - Staatskirchenrecht (Religionsverfassungsrecht) - Vorlesung
 
@@ -8475,7 +9414,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96048&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:15–15:45 | 14.04.2026–14.07.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### VL - Staatskirchenrecht (Religionsverfassungsrecht) - Vorlesung
 
@@ -8484,7 +9430,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96048&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:15–15:45 | 14.04.2026–14.07.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### VorlBGBATEinfBR - Vorlesung BGB Allgemeiner Teil und Einführung in das Bürgerliche Recht - Vorlesung
 
@@ -8566,7 +9519,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
 
 ### VR II - Völkerrecht II - Vorlesung
 
@@ -8576,7 +9536,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
 
 ### VR II - Völkerrecht II - Vorlesung
 
@@ -8586,7 +9553,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
 
 ### VR II - Völkerrecht II - Vorlesung
 
@@ -8596,7 +9570,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
 
 ### VStrR - Völkerstrafrecht - Vorlesung
 
@@ -8726,7 +9707,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (176)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (152)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -8756,14 +9737,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:91727` · **unitId:** `91727`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91727&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
-
-### Allgemeines Verwaltungsrecht — Vorlesung
-
-- **Segment:** `unit:102193` · **unitId:** `102193`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102193&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Wintersemester
@@ -8798,13 +9771,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 
-### Bayer. Sicherheits- und Polizeirecht — Vorlesung mit Übung
-
-- **Segment:** `unit:107591` · **unitId:** `107591`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107591&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-
 ### Besprechung Abschlussklausur Sachenrecht — Sonstige Lehrveranstaltung
 
 - **Segment:** `unit:125525` · **unitId:** `125525`
@@ -8816,13 +9782,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:111669` · **unitId:** `111669`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111669&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-
-### Crashkurs zum Bayerischen Verfassungsrecht — Vorlesung
-
-- **Segment:** `unit:130809` · **unitId:** `130809`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130809&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
 
@@ -8885,13 +9844,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Wintersemester
 
-### Einführung in das Sozialversicherungsrecht — Vorlesung
-
-- **Segment:** `unit:125920` · **unitId:** `125920`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125920&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-
 ### Einführung in das Türkische Recht — Vorlesung mit Übung
 
 - **Segment:** `unit:108050` · **unitId:** `108050`
@@ -8922,14 +9874,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
-
-### Einführung in die Rechtsökonomik — Vorlesung
-
-- **Segment:** `unit:96060` · **unitId:** `96060`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96060&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Sommersemester
 
 ### Einführungswoche Rechtswissenschaften — Sonstige Lehrveranstaltung
 
@@ -8981,14 +9925,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 
-### Europäisches Arbeitsrecht SPB 7 — Vorlesung
-
-- **Segment:** `unit:122788` · **unitId:** `122788`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122788&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** Unregelmäßig
-
 ### Europäisches Strafrecht — Vorlesung
 
 - **Segment:** `unit:85251` · **unitId:** `85251`
@@ -9004,14 +9940,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Klausurenkurs
 - **Turnus:** in jedem Semester
-
-### Examenskurs "Strafprozessrecht" — Vorlesung
-
-- **Segment:** `unit:103239` · **unitId:** `103239`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103239&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
 
 ### Examenskurs Aktuelle Rechtsprechung Zivilrecht — Vorlesung
 
@@ -9080,14 +10008,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84479&periodId=589>
 
 - **Veranstaltungsart:** Repetitorium
-- **Turnus:** nur im Wintersemester
-
-### Examenskurs Strafrecht AT — Vorlesung
-
-- **Segment:** `unit:98344` · **unitId:** `98344`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98344&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Wintersemester
 
 ### Examenskurs Zivilrecht: Sachenrecht — Vorlesung
@@ -9176,13 +10096,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Wintersemester
 
-### GmbH-Recht — Vorlesung
-
-- **Segment:** `unit:123934` · **unitId:** `123934`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123934&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-
 ### Grammar & Vocabulary for Erasmus students
 
 - **Segment:** `unit:110306` · **unitId:** `110306`
@@ -9212,24 +10125,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Sommersemester
 
-### Grundzüge des Gesellschaftsrechts — Vorlesung
-
-- **Segment:** `unit:111781` · **unitId:** `111781`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111781&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-
 ### Grundzüge des Handelsrechts — Vorlesung
 
 - **Segment:** `unit:111782` · **unitId:** `111782`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111782&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-
-### Grundzüge des Handelsrechts — Vorlesung
-
-- **Segment:** `unit:119008` · **unitId:** `119008`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119008&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
 
@@ -9281,13 +10180,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Wintersemester
-
-### Individualarbeitsrecht — Vorlesung
-
-- **Segment:** `unit:137886` · **unitId:** `137886`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137886&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
 
 ### Interkulturelle Kommunikation — Seminar
 
@@ -9445,8 +10337,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -9576,13 +10468,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Propädeutische Übung
 
-### Propädeutische Übung Gesetzliche Schuldverhältnisse
-
-- **Segment:** `unit:111701` · **unitId:** `111701`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111701&periodId=589>
-
-- **Veranstaltungsart:** Propädeutische Übung
-
 ### Propädeutische Übung Grundrechte (GKÖRII)
 
 - **Segment:** `unit:111653` · **unitId:** `111653`
@@ -9602,14 +10487,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:86951` · **unitId:** `86951`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86951&periodId=589>
-
-- **Veranstaltungsart:** Propädeutische Übung
-- **Turnus:** in jedem Semester
-
-### Propädeutische Übung Schuldrecht AT
-
-- **Segment:** `unit:123069` · **unitId:** `123069`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123069&periodId=589>
 
 - **Veranstaltungsart:** Propädeutische Übung
 - **Turnus:** in jedem Semester
@@ -9645,27 +10522,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Propädeutische Übung
 - **Turnus:** nur im Wintersemester
 
-### Propädeutische Übungen Europarecht
-
-- **Segment:** `unit:97227` · **unitId:** `97227`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97227&periodId=589>
-
-- **Veranstaltungsart:** Propädeutische Übung
-- **Turnus:** nur im Wintersemester
-
 ### Proseminar
 
 - **Segment:** `unit:124934` · **unitId:** `124934`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124934&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
-
-### Proseminar
-
-- **Segment:** `unit:130698` · **unitId:** `130698`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130698&periodId=589>
-
-- **Veranstaltungsart:** Seminar
 
 ### Proseminar
 
@@ -9688,13 +10550,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Proseminar
 
-### Proseminar Strafrecht
-
-- **Segment:** `unit:127154` · **unitId:** `127154`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127154&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-
 ### Proseminar von Hyun Jung LEE — Vorlesung
 
 - **Segment:** `unit:91137` · **unitId:** `91137`
@@ -9710,13 +10565,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **Turnus:** Unregelmäßig
-
-### Proseminar zum Zivilrecht / zur Rechtsgeschichte
-
-- **Segment:** `unit:111952` · **unitId:** `111952`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111952&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
 
 ### Proseminar „Die ‘weibliche Geschlechtsehre’ als ersatzfähiger Schaden“
 
@@ -9736,14 +10584,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:97899` · **unitId:** `97899`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97899&periodId=589>
-
-- **Veranstaltungsart:** Propädeutische Übung
-- **Turnus:** nur im Wintersemester
-
-### PÜ Baurecht — Propädeutische Übung
-
-- **Segment:** `unit:100540` · **unitId:** `100540`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100540&periodId=589>
 
 - **Veranstaltungsart:** Propädeutische Übung
 - **Turnus:** nur im Wintersemester
@@ -9777,13 +10617,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 
-### Recht durch Maschinen und Künstliche Intelligenz - Vom Compliance Bot zum digitalen Assistenten für das Registergericht — Vorlesung
-
-- **Segment:** `unit:106142` · **unitId:** `106142`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106142&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-
 ### Recht gegen den unlauteren Wettbewerb — Vorlesung
 
 - **Segment:** `unit:85885` · **unitId:** `85885`
@@ -9807,13 +10640,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115726&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
-
-### Rechtsphilosophie II — Vorlesung mit Übung
-
-- **Segment:** `unit:114741` · **unitId:** `114741`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114741&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
 
 ### Rechtssoziologie — Vorlesung
 
@@ -9943,14 +10769,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 
-### Seminar Aktuelle Fragen des Europarechts (Alte PO SPB 2, 5, 7) (Neue PO SPB 5, 9, 11)
-
-- **Segment:** `unit:95343` · **unitId:** `95343`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95343&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
 ### Seminar Neue menschenrechtliche Entscheidungen (des IAGMR, AfrGMR, EGMR) SPB 8, 9, 11
 
 - **Segment:** `unit:110537` · **unitId:** `110537`
@@ -10002,14 +10820,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107498&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
-
-### Strafrecht III — Vorlesung
-
-- **Segment:** `unit:105432` · **unitId:** `105432`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=105432&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
 
 ### V: Einführung in das Handels- und Gesellschaftsrecht (in Bamberg) — Vorlesung
 
@@ -10105,13 +10915,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:112148` · **unitId:** `112148`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112148&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-
-### Öffentliches Dienstrecht — Vorlesung
-
-- **Segment:** `unit:122626` · **unitId:** `122626`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122626&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
 

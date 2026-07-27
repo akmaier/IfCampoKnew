@@ -23,6 +23,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82210&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### Astronomisches Praktikum (LAG) - Praktikum
@@ -133,7 +134,15 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:15–13:00 | 15.04.2026–15.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Do | 14:30–16:00 | 16.04.2026–16.07.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
 
 ### Dynamik des Systems Erde - System Erde III - Vorlesung mit Übung
 
@@ -143,7 +152,15 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:15–13:00 | 15.04.2026–15.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Do | 14:30–16:00 | 16.04.2026–16.07.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
 
 ### Einführung in das Nachhaltigkeitsmanagement - Vorlesung
 
@@ -187,14 +204,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 12801.01.220 (H12 Emmy-Noether-Hörsaal) |
 
 ### FAU Ringvorlesung "Sustainability" - Vorlesung
 
@@ -351,14 +361,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 05801.02.110 ( A 401) |
 
 ### Minerale und Gesteine für Geographie Studierende und Modulstudium Naturale - Seminar
 
@@ -390,7 +393,15 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 4.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:00–12:45 | 14.04.2026–14.07.2026 | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
+| wöchentlich | Do | 13:00–14:30 | 16.04.2026–16.07.2026 | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
 
 ### Minerale und Gesteine für Studierende der Geographie (und Mod. Nat.) - Seminar
 
@@ -400,7 +411,15 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 4.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:00–12:45 | 14.04.2026–14.07.2026 | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
+| wöchentlich | Do | 13:00–14:30 | 16.04.2026–16.07.2026 | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
 
 ### Paläobiologie I - Allgemeine Paläontologie - Vorlesung
 
@@ -554,7 +573,8 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
+| 14-täglich | Mi | 14:00–16:00 | 29.04.2026–08.07.2026 | 12801.00.325 (Praktikum 1 - PC-Pool / 00.325-128) |
+| Einzeltermin | Mi | 14:00–16:00 | 22.07.2026 | 12801.00.325 (Praktikum 1 - PC-Pool / 00.325-128) |
 
 ### 20211 Toxikologie und Rechtskunde - Leistung
 
@@ -1858,7 +1878,14 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | 08801.01.020 ( Hörsaal ZMPT 01.020) |
 
 ### BIA - Bioanalytik - Vorlesung
 
@@ -1868,7 +1895,14 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | 08801.01.020 ( Hörsaal ZMPT 01.020) |
 
 ### BIA-Pr - Bioanalytik - Praktikum - Praktikum
 
@@ -1878,7 +1912,14 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 08:00–14:00 | 15.04.2026–15.07.2026 | — |
 
 ### BIA-Pr - Bioanalytik - Praktikum - Praktikum
 
@@ -1888,7 +1929,14 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 08:00–14:00 | 15.04.2026–15.07.2026 | — |
 
 ### BIA-Üb - Bioanalytik - Übung - Übung
 
@@ -1897,14 +1945,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92115&periodId=589>
 
 - **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 07204.02.028 (SR 02.028 Seminarraum der LS Autonome Systeme und Mechatronik u. Medizinische Biotechnologie) |
 
 ### BIA-Üb - Bioanalytik - Übung - Übung
 
@@ -1913,14 +1954,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92115&periodId=589>
 
 - **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 07204.02.028 (SR 02.028 Seminarraum der LS Autonome Systeme und Mechatronik u. Medizinische Biotechnologie) |
 
 ### EDB - Einführung in Datenbanken  - Vorlesung
 
@@ -2074,7 +2108,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Fr | 12:00–14:00 | 17.04.2026–17.07.2026 | 13003.00.882 (HB Hörsaal -Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) 13101.00.103 (SR 00.103 Seminarraum der Angewandten Physik) |
+| wöchentlich | Mo | 14:00–16:00 | 13.04.2026–13.07.2026 | 13003.00.874 (HD Hörsaal Physikum) |
 
 ### EPN-U - Übungen zu Experimentalphysik für Nebenfächler (LA Biologie/Chemie) - Übung
 
@@ -2090,7 +2124,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Fr | 12:00–14:00 | 17.04.2026–17.07.2026 | 13003.00.882 (HB Hörsaal -Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) 13101.00.103 (SR 00.103 Seminarraum der Angewandten Physik) |
+| wöchentlich | Mo | 14:00–16:00 | 13.04.2026–13.07.2026 | 13003.00.874 (HD Hörsaal Physikum) |
 
 ### GIS I - (GIS I) Einführung in die Geographischen Informationssysteme für Geologen - Seminar
 
@@ -2117,7 +2151,15 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 08:15–09:50 | 15.04.2026–15.07.2026 | 11907.01.040 (H18) |
+| wöchentlich | Fr | 08:15–09:50 | 17.04.2026–17.07.2026 | 11907.01.040 (H18) |
 
 ### ILS-C1-V - Allgemeine Chemie (für ILS) - Vorlesung
 
@@ -2127,7 +2169,15 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 08:15–09:50 | 15.04.2026–15.07.2026 | 11907.01.040 (H18) |
+| wöchentlich | Fr | 08:15–09:50 | 17.04.2026–17.07.2026 | 11907.01.040 (H18) |
 
 ### ILS-C1-Ü - Übung Allgemeine Chemie (für ILS) - Übungsseminar
 
@@ -2157,7 +2207,14 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:45–14:15 | 14.04.2026–14.07.2026 | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
 
 ### LFF-KS - Kompetenzseminar zum Klimawandel (insbesondere für Lehramtsstudierende und Nebenfachstudierende) - Seminar
 
@@ -2167,7 +2224,14 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:45–14:15 | 14.04.2026–14.07.2026 | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
 
 ### NW - Übung zur Einführung in die Astronomie 2 - Übung
 
@@ -2176,7 +2240,16 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85749&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 18:00–19:00 | 14.04.2026–14.07.2026 | 13003.00.874 (HD Hörsaal Physikum) |
+| wöchentlich | Di | 18:00–19:00 | 14.04.2026–14.07.2026 | 13003.00.836 (HF Hörsaal Physikum) |
+| wöchentlich | Fr | 17:00–18:00 | 17.04.2026–17.07.2026 | 13003.00.874 (HD Hörsaal Physikum) |
 
 ### NW-1 - Einführung in die Astronomie 2 - Vorlesung
 
@@ -2197,6 +2270,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 | Einzeltermin | Di | 16:00–19:00 | 14.07.2026 | 13003.00.827 (HG Hörsaal Physikum) |
 | Einzeltermin | Di | 16:00–19:00 | 14.07.2026 | 13003.00.877 (HC Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 | Einzeltermin | Di | 16:00–19:00 | 14.07.2026 | 13003.00.836 (HF Hörsaal Physikum) |
+| Einzeltermin | Fr | 13:00–16:00 | 25.09.2026 | — |
 
 ### OC1 - Organische Chemie 1 - Vorlesung mit Übung
 
@@ -2377,7 +2451,22 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 13:15–18:15 | 19.06.2026 | 21102.00.424 (LG 0.424 (92 Plätze) Übungsraum) |
+| Einzeltermin | Sa | 09:45–14:45 | 20.06.2026 | 21101.00.143 (LG 0.143 (42 Plätze) Übungsraum) |
+| Einzeltermin | Mo | 16:45–18:15 | 22.06.2026 | 21101.00.141 (LG 0.141 (48 Plätze) Übungsraum) |
+| Einzeltermin | Di | 16:45–18:15 | 23.06.2026 | 21101.00.144 (LG 0.144 (38 Plätze) Übungsraum) |
+| Einzeltermin | Fr | 13:15–18:15 | 26.06.2026 | 21101.00.224 (LG 0.224 (98 Plätze) Übungsraum) |
+| Einzeltermin | Sa | 09:45–14:45 | 27.06.2026 | 21101.00.143 (LG 0.143 (42 Plätze) Übungsraum) |
+| wöchentlich | Mo | 16:45–18:15 | 29.06.2026–13.07.2026 | 21101.00.141 (LG 0.141 (48 Plätze) Übungsraum) |
+| Einzeltermin | Di | 16:45–18:15 | 30.06.2026 | 21101.00.141 (LG 0.141 (48 Plätze) Übungsraum) |
+| Einzeltermin | Fr | 08:00–09:30 | 03.07.2026 | 21102.00.424 (LG 0.424 (92 Plätze) Übungsraum) |
 
 ### V/UE - Grundzüge der Umweltökonomik - Vorlesung mit Übung
 
@@ -2387,9 +2476,24 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (45)
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 13:15–18:15 | 19.06.2026 | 21102.00.424 (LG 0.424 (92 Plätze) Übungsraum) |
+| Einzeltermin | Sa | 09:45–14:45 | 20.06.2026 | 21101.00.143 (LG 0.143 (42 Plätze) Übungsraum) |
+| Einzeltermin | Mo | 16:45–18:15 | 22.06.2026 | 21101.00.141 (LG 0.141 (48 Plätze) Übungsraum) |
+| Einzeltermin | Di | 16:45–18:15 | 23.06.2026 | 21101.00.144 (LG 0.144 (38 Plätze) Übungsraum) |
+| Einzeltermin | Fr | 13:15–18:15 | 26.06.2026 | 21101.00.224 (LG 0.224 (98 Plätze) Übungsraum) |
+| Einzeltermin | Sa | 09:45–14:45 | 27.06.2026 | 21101.00.143 (LG 0.143 (42 Plätze) Übungsraum) |
+| wöchentlich | Mo | 16:45–18:15 | 29.06.2026–13.07.2026 | 21101.00.141 (LG 0.141 (48 Plätze) Übungsraum) |
+| Einzeltermin | Di | 16:45–18:15 | 30.06.2026 | 21101.00.141 (LG 0.141 (48 Plätze) Übungsraum) |
+| Einzeltermin | Fr | 08:00–09:30 | 03.07.2026 | 21102.00.424 (LG 0.424 (92 Plätze) Übungsraum) |
+
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (44)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -2593,8 +2697,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -2620,23 +2724,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Turnus:** Unregelmäßig
 
-### Logisch-philosophische Propädeutik — Proseminar
-
-- **Segment:** `unit:115717` · **unitId:** `115717`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115717&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-- **Turnus:** nur im Wintersemester
-
-### Logisch-philosophische Propädeutik — Proseminar
-
-- **Segment:** `unit:121918` · **unitId:** `121918`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121918&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Mathematik für Data Science 1 / Physikstudierende A — Vorlesung
 
 - **Segment:** `unit:85414` · **unitId:** `85414`
@@ -2645,14 +2732,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Wintersemester
 
-### Mikroökonomie — Vorlesung
+### Methoden für die mathematische Datenanalyse — Vorlesung
 
-- **Segment:** `unit:87436` · **unitId:** `87436`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87436&periodId=589>
+- **Segment:** `unit:137571` · **unitId:** `137571`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137571&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
+- **Turnus:** Unregelmäßig
 
 ### Nachhaltige Chemische Technologien 1 -Rohstoffe — Vorlesung
 
@@ -2764,6 +2851,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
+
+### Übung zu Methoden für die mathematische Datenanalyse
+
+- **Segment:** `unit:137572` · **unitId:** `137572`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137572&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Turnus:** Unregelmäßig
 
 ### Übungen zu Konzeptionelle Modellierung
 

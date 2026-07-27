@@ -585,7 +585,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86829&periodId=589>
 
 - **Veranstaltungsart:** Masterseminar
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 16:00–18:00 | 16.04.2026–16.07.2026 | 00501.02.012 ( KH 2.012 Hörsaal Kollegienhaus) |
 
 ### Readings in North American Literary Studies - Masterseminar
 
@@ -594,7 +601,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86829&periodId=589>
 
 - **Veranstaltungsart:** Masterseminar
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 16:00–18:00 | 16.04.2026–16.07.2026 | 00501.02.012 ( KH 2.012 Hörsaal Kollegienhaus) |
 
 ### Readings in North American Literary Studies - Masterseminar
 
@@ -603,7 +617,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86829&periodId=589>
 
 - **Veranstaltungsart:** Masterseminar
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 16:00–18:00 | 16.04.2026–16.07.2026 | 00501.02.012 ( KH 2.012 Hörsaal Kollegienhaus) |
 
 ### Readings in North American Literary Studies - Masterseminar
 
@@ -612,7 +633,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86829&periodId=589>
 
 - **Veranstaltungsart:** Masterseminar
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 16:00–18:00 | 16.04.2026–16.07.2026 | 00501.02.012 ( KH 2.012 Hörsaal Kollegienhaus) |
 
 ### State-centric and cosmopolitan conceptions of human rights - Hauptseminar / Masterseminar
 
@@ -653,7 +681,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134246&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Englisch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.01.012 ( KH 1.012 Hörsaal Kollegienhaus) |
 
 ### US Cultural and Literary History: The 19th Century - Vorlesung
 
@@ -662,7 +697,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134246&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Englisch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.01.012 ( KH 1.012 Hörsaal Kollegienhaus) |
 
 ### 1999 Masterarbeit (M.A. The Americas/Las Américas 20162)
 
@@ -975,12 +1017,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 16:00–18:00 | 24.04.2026 | 56701.02.014 ( 02.014) |
-| Einzeltermin | Sa | 09:00–16:00 | 25.04.2026 | 56701.02.014 ( 02.014) |
-| Einzeltermin | Fr | 16:00–18:00 | 29.05.2026 | 56701.02.014 ( 02.014) |
-| Einzeltermin | Sa | 09:00–16:00 | 30.05.2026 | 56701.02.014 ( 02.014) |
-| Einzeltermin | Fr | 16:00–18:00 | 26.06.2026 | 56701.02.014 ( 02.014) |
-| Einzeltermin | Sa | 09:00–16:00 | 27.06.2026 | 56701.02.014 ( 02.014) |
+| wöchentlich | Mi | 08:15–09:45 | 15.04.2026–15.07.2026 | 56701.02.036 (Mo - Fr 8:00 - 20:00 Uhr Romanistik) |
 
 ### PS span. Lit.wiss. - Proseminar spanische Literaturwissenschaft - Proseminar
 
@@ -997,12 +1034,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 16:00–18:00 | 24.04.2026 | 56701.02.014 ( 02.014) |
-| Einzeltermin | Sa | 09:00–16:00 | 25.04.2026 | 56701.02.014 ( 02.014) |
-| Einzeltermin | Fr | 16:00–18:00 | 29.05.2026 | 56701.02.014 ( 02.014) |
-| Einzeltermin | Sa | 09:00–16:00 | 30.05.2026 | 56701.02.014 ( 02.014) |
-| Einzeltermin | Fr | 16:00–18:00 | 26.06.2026 | 56701.02.014 ( 02.014) |
-| Einzeltermin | Sa | 09:00–16:00 | 27.06.2026 | 56701.02.014 ( 02.014) |
+| wöchentlich | Mi | 08:15–09:45 | 15.04.2026–15.07.2026 | 56701.02.036 (Mo - Fr 8:00 - 20:00 Uhr Romanistik) |
 
 ### VL rom. Sprachwiss. - Vorlesung Romanistik Sprachwissenschaft - Vorlesung
 
@@ -1038,25 +1070,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mi | 08:00–10:00 | 15.04.2026–15.07.2026 | 00501.00.023 ( KH 0.023 Hörsaal Kollegienhaus) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (35)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (28)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
-
-### 21st Century Feminist Life Writing in North America — Hauptseminar
-
-- **Segment:** `unit:111373` · **unitId:** `111373`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111373&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** Unregelmäßig
-
-### 24/7 Everything and the Poetics of Deceleration — Hauptseminar
-
-- **Segment:** `unit:122563` · **unitId:** `122563`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122563&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** Unregelmäßig
 
 ### Academic Discourse
 
@@ -1081,14 +1097,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### American Journeys: Travel in Literary and Cultural Texts — Hauptseminar
-
-- **Segment:** `unit:111368` · **unitId:** `111368`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111368&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** Unregelmäßig
-
 ### American Literary and Cultural History, 20th Century — Vorlesung
 
 - **Segment:** `unit:111371` · **unitId:** `111371`
@@ -1111,15 +1119,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84806&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
-- **Turnus:** nur im Wintersemester
-
-### Aromas y olores. Geruchsästhetik in der iberoamerikanischen Literaturgeschichte — Proseminar
-
-- **Segment:** `unit:95423` · **unitId:** `95423`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95423&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-- **ECTS-Punkte:** 4.0
 - **Turnus:** nur im Wintersemester
 
 ### Authors as Fans: American Prose Fiction and Its Intertexts — Hauptseminar
@@ -1168,7 +1167,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
 
 ### Eco-Apocalypse, Extinction and Endings in American Literature and Culture — Hauptseminar
 
@@ -1193,13 +1199,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Hauptseminar
 - **Turnus:** Unregelmäßig
-
-### Forschungswerkstatt: Wissenschaftsfreiheit und internationaler Menschenrechtsschutz — Hauptseminar
-
-- **Segment:** `unit:122339` · **unitId:** `122339`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122339&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
 
 ### Grammar & Vocabulary for Erasmus students
 
@@ -1239,27 +1238,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### Interamerican Studies — Masterseminar
-
-- **Segment:** `unit:96483` · **unitId:** `96483`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96483&periodId=589>
-
-- **Veranstaltungsart:** Masterseminar
-- **Turnus:** nur im Wintersemester
-
 ### International Business Ethics II — Masterseminar
 
 - **Segment:** `unit:87604` · **unitId:** `87604`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87604&periodId=589>
-
-- **Veranstaltungsart:** Masterseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### International Business Ethics II (2. Seminar) — Masterseminar
-
-- **Segment:** `unit:103087` · **unitId:** `103087`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103087&periodId=589>
 
 - **Veranstaltungsart:** Masterseminar
 - **ECTS-Punkte:** 5.0
@@ -1292,8 +1274,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 

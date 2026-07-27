@@ -31,7 +31,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 15:45–17:15 | 13.04.2026–13.07.2026 | 20301.U1.012 (U1.012 Seminarraum (40)) |
+| wöchentlich | Mo | 14:00–15:30 | 13.04.2026–13.07.2026 | 20301.U1.012 (U1.012 Seminarraum (40)) |
 
 ### Basismodul: Vorlesung - Grundlagen des Unterrichtens und Erziehens in der Mittelschule - Vorlesung
 
@@ -58,14 +58,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Kolloquium
 - **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 17:30–19:00 | 14.04.2026–14.07.2026 | — |
 
 ### HeIn: Inklusion - Aufgabe für Schule und Schulsystem (Online) - Seminar
 
@@ -75,6 +68,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### HeIn: Schüler mit Förderschwerpunkten in der Mittelschule - Umgang mit Hörschädigungen, Autismus, Mutismus, Lernbehinderungen und ADHS - Seminar
@@ -105,7 +99,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:00–15:30 | 16.04.2026–16.07.2026 | 75201.00.310 (St.Paul 00.310 Textilwerkstatt (40)) |
 
 ### PäDiMe: Spielend Lernen - Teamkompetenz fördern - Seminar
 

@@ -39,7 +39,18 @@ _Section: FAU Scientia Gaststudium_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88682&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mi | 10:15–18:00 | 08.04.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
+| Einzeltermin | Mo | 08:00–12:00 | 01.06.2026 | — |
+| Einzeltermin | Fr | 09:00–18:00 | 19.06.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
+| Einzeltermin | Fr | 08:30–10:00 | 03.07.2026 | 20301.01.029 (1.029 Seminarraum (40)) |
+| Einzeltermin | Do | 11:30–13:00 | 23.07.2026 | 20301.01.029 (1.029 Seminarraum (40)) |
 
 ### Aufbaumodul Fachdidaktik Deutsch-Übung (nur GS) (Albrecht) - Übung
 
@@ -72,8 +83,7 @@ _Section: FAU Scientia Gaststudium_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–18:30 | 08.05.2026 | 20301.U1.030 (U1.030 Seminarraum (30)) |
-| Einzeltermin | Fr | 14:00–18:30 | 19.06.2026 | 20301.U1.030 (U1.030 Seminarraum (30)) |
+| 14-täglich | Fr | 11:30–13:00 | 24.04.2026–17.07.2026 | 20301.U1.031 (U1.031 Seminarraum (40)) |
 
 ### Aufbaumodul Fachdidaktik Deutsch-Übung (nur GS) - Übung
 
@@ -241,6 +251,7 @@ _Section: FAU Scientia Gaststudium_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85660&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
 
 ### Teaching Methods and Materials in the FLC - Proseminar (Mittelseminar, PO 2020)
@@ -309,7 +320,14 @@ _Section: FAU Scientia Gaststudium_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103676&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 09:45–11:15 | 15.04.2026–15.07.2026 | 20301.U1.031 (U1.031 Seminarraum (40)) |
 
 ### AT-Überblick - AT - Einführung in das AT & Pentateuch - Vorlesung mit Übung
 
@@ -319,7 +337,15 @@ _Section: FAU Scientia Gaststudium_
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 15:45–17:15 | 13.04.2026–13.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
+| Einzeltermin | Mo | 15:45–17:15 | 13.07.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
 
 ### Dogmatik - Systematische Theologie 1: Dogmatik - Seminar
 
@@ -399,7 +425,14 @@ _Section: FAU Scientia Gaststudium_
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 09:45–11:15 | 15.04.2026–15.07.2026 | 20303.01.205 (SemRSportNbg Seminarraum Sport an der Regensburger Str (40)) |
 
 ### GeomRuFDid - Didaktik im Bereich Raum und Form (Didaktik der Geometrie, Raum  und Form)  - Seminar
 
@@ -408,7 +441,14 @@ _Section: FAU Scientia Gaststudium_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95719&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 11:30–13:00 | 14.04.2026–14.07.2026 | 20303.01.205 (SemRSportNbg Seminarraum Sport an der Regensburger Str (40)) |
 
 ### GFD-Vorl - Grundlagen der Fachdidaktik Beruf und Wirtschaft - Vorlesung - Vorlesung
 

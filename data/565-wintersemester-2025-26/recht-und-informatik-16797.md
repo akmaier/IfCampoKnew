@@ -22,7 +22,10 @@ _Section: Studiengänge der Rechts- und Wirtschaftswissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16797|exam:12101312|exam:12101313|exam:12101314|exam:12101344|exam:12101346>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115185&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -97,6 +100,7 @@ _Section: Studiengänge der Rechts- und Wirtschaftswissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16797|exam:12101312|exam:12101313|exam:12101314|exam:12101339|exam:12101343>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71971&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -111,6 +115,7 @@ _Section: Studiengänge der Rechts- und Wirtschaftswissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16797|exam:12101312|exam:12101313|exam:12101314|exam:12101335|exam:12101338>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=79218&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -141,6 +146,13 @@ _Section: Studiengänge der Rechts- und Wirtschaftswissenschaftlichen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=72646&periodId=565>
 
 - **ECTS-Punkte:** 7.5
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | Do | 09:00–12:00 | — | — |
 
 ### 34581 Business Analytics: Technologien, Methoden und Konzepte (Klausur) - Leistung
 
@@ -238,6 +250,8 @@ _Section: Studiengänge der Rechts- und Wirtschaftswissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16797|exam:12101312|exam:12101313|exam:12101314|exam:12101315|exam:13796366|exam:13796368>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50495&periodId=565>
 
+- **ECTS-Punkte:** 5.0
+
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
@@ -259,7 +273,7 @@ _Section: Studiengänge der Rechts- und Wirtschaftswissenschaftlichen Fakultät_
 |---|---|---|---|---|
 | Fr | Fr | — | — | — |
 
-### ECCM - Enterprise Content and Collaboration Management - Vorlesung mit Übung
+### ECCM___ - Enterprise Content and Collaboration Management - Vorlesung mit Übung
 
 - **Segment:** `exam:13796367` · **unitId:** `98736`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16797|exam:12101312|exam:12101313|exam:12101314|exam:12101315|exam:13796366|exam:13796367>
@@ -322,7 +336,10 @@ _Section: Studiengänge der Rechts- und Wirtschaftswissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16797|exam:12101312|exam:12101313|exam:12101314|exam:12101335|exam:12101337>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89366&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 

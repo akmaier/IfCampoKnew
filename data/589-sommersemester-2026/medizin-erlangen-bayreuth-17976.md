@@ -453,7 +453,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Campo-Segment:** `exam:17788753`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13868776|exam:13868778|exam:13868882|exam:17788753>
 
-### 24760 Die Pfeile Apolls. Seuchen in der Antike von Troja bis zur Justinianischen Pest.
+### 24822 Problemorientiertes Lernen - Herzchirurgische Intensivmedizin
 
 - **Campo-Segment:** `exam:17788783`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13868776|exam:13869088|exam:13869305|exam:17788783>
@@ -1080,7 +1080,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135876&periodId=589>
 
 - **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 19:00–21:00 | 20.04.2026 | — |
 
 ### 005 PERLE Sonografie für Anfängerinnen und Anfänger, Di., 21.04.2026, 16:30 - 19:00 Uhr - Kurs
 
@@ -1137,7 +1144,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135880&periodId=589>
 
 - **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 17:00–19:00 | 23.04.2026 | — |
 
 ### 010 PERLE Bettenprüfungskurs, Sa., 25.04.2026, 15:30 - 18:00 Uhr, SimPatiK - Kurs
 
@@ -1226,7 +1240,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135888&periodId=589>
 
 - **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | So | 10:30–13:30 | 26.04.2026 | — |
 
 ### 016 PERLE Leichenschau, So., 26.04.2026, 14:30 - 17:00 Uhr, SimPatiK - Kurs
 
@@ -1283,7 +1304,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136841&periodId=589>
 
 - **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Di | 15:00–19:00 | 28.04.2026 | — |
 
 ### 020 PERLE Bettenprüfungskurs, Di., 28.04.2026, 17:30 - 20:00 Uhr, SimPatiK - Kurs
 
@@ -1388,7 +1416,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136842&periodId=589>
 
 - **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Di | 15:00–19:00 | 05.05.2026 | — |
 
 ### 028.2 PERLE Fit für die Notaufnahme, Mo., 04.05.2026, 16:45 - 20:30 Uhr, Seminarraum Donau/SkillsLab Perle B-00.221 - Kurs
 
@@ -1397,7 +1432,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137451&periodId=589>
 
 - **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 16:45–20:30 | 04.05.2026 | — |
 
 ### 028.2 PERLE medical skills fpr foreign students, (Teil A), Di., 28.04.2026, 16:30 - 18:30 Uhr, SkillsLab Perle - Kurs
 
@@ -1454,7 +1496,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136007&periodId=589>
 
 - **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 17:30–20:00 | 07.05.2026 | — |
 
 ### 029.2 PERLE medical skills for foreign students (Teil B), Do., 07.05.2026, 18:15 - 20:15 Uhr, SkillsLab Perle - Kurs
 
@@ -1495,14 +1544,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136022&periodId=589>
 
 - **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 19:30–21:00 | 08.05.2026 | — |
 
 ### 032.2 PERLE Drug skills,  Fr., 08.05.2026, 16:30 - 19:00 Uhr. SkillsLab Perle - Kurs
 
@@ -1559,14 +1601,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136053&periodId=589>
 
 - **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | So | 10:00–12:30 | 10.05.2026 | — |
 
 ### 032.6 PERLE Bettenprüfungskurs, So., 10.05.2026, 14:30 - 17:00 Uhr, SimPatiK - Kurs
 
@@ -1591,7 +1626,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136055&periodId=589>
 
 - **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | So | 10:30–12:30 | 10.05.2026 | — |
 
 ### 034 PERLE Nahtkurs 1, So., 10.05.2026, 13:00 - 15:00 Uhr, SkillsLab Perle - Kurs
 
@@ -1664,7 +1706,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136059&periodId=589>
 
 - **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 17:00–19:30 | 15.05.2026 | — |
 
 ### 038 PERLE Thoraxdrainage-Kurs, Fr., 15.05.2026, 17:30 - 20:15 Uhr, SkillsLab Perle - Kurs
 
@@ -1753,7 +1802,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136065&periodId=589>
 
 - **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | So | 10:30–13:00 | 17.05.2026 | — |
 
 ### 044 PERLE ZVK-Kurs, So., 17.05.2026, 10:00 -12:45 Uhr, SkillsLab Perle - Kurs
 
@@ -1826,7 +1882,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136109&periodId=589>
 
 - **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 17:00–20:00 | 18.05.2026 | — |
 
 ### 049 PERLE Sonografie für Anfängerinnen und Anfänger, Fr., 22.05.2026, 16:30 - 19:00 Uhr, SimPatiK - Kurs
 
@@ -1835,7 +1898,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136110&periodId=589>
 
 - **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 16:30–19:00 | 18.05.2026 | — |
 
 ### 050 PERLE Basics körperliche Untersuchung, Fr., 22.05.2026, 16:45 - 19:00 Uhr, SkillsLab Perle - Kurs
 
@@ -1844,7 +1914,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136488&periodId=589>
 
 - **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 16:45–19:00 | 22.05.2026 | — |
 
 ### 051 PERLE Thoraxdrainage-Kurs, Sa., 23.05.2026, 11:00 - 13:45 Uhr, SkillsLab Perle - Kurs
 
@@ -2029,7 +2106,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136128&periodId=589>
 
 - **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | So | 14:00–18:00 | 31.05.2026 | — |
 
 ### 062 PERLE Sonografie für Anfängerinnen und Anfänger, Di., 02.06.2026, 16:30 - 19:00 Uhr, SimPatiK - Kurs
 
@@ -2054,14 +2138,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136130&periodId=589>
 
 - **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | So | 16:00–18:30 | 07.06.2026 | — |
 
 ### 065 PERLE Basics HNO, Mo., 08.06.2026, 17:00- 19:30 Uhr - Kurs
 
@@ -2086,7 +2163,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136132&periodId=589>
 
 - **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 17:15–19:45 | 08.06.2026 | — |
 
 ### 066.2 PERLE Röntgenthorax-Kurs, Mi., 10.06.2026, 17:00 - 18:30 Uhr, INZ -A U1 971 Schulung - Kurs
 
@@ -2095,14 +2179,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136138&periodId=589>
 
 - **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 17:00–18:30 | 10.06.2026 | — |
 
 ### 066.3 PERLE Röntgenthorax-Kurs, Mi,. 10.06.2026, 18:30 - 20:00 Uhr, INZ- A U1 971 Schulung - Kurs
 
@@ -2127,7 +2204,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136140&periodId=589>
 
 - **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 16:30–19:00 | 11.06.2026 | — |
 
 ### 069 PERLE Basics körperliche Untersuchung, Sa., 13.06.2026, 10:30 - 12:45 Uhr, SkillsLab Perle - Kurs
 
@@ -2168,7 +2252,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136167&periodId=589>
 
 - **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 16:30–18:30 | 15.06.2026 | — |
 
 ### 072 PERLE Nahtkurs 1, Mo., 15.06.2026, 19:00 - 21:00 Uhr, SkillsLab Perle - Kurs
 
@@ -2225,7 +2316,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136181&periodId=589>
 
 - **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mi | 18:30–20:00 | 17.06.2026 | — |
 
 ### 074 PERLE Untersuchungskurs: obere Extremität, Do., 18.06.2026, 17:00 - 19:30 Uhr, SimPatiK - Kurs
 
@@ -2266,7 +2364,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136227&periodId=589>
 
 - **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Sa | 10:30–12:30 | 20.06.2026 | — |
 
 ### 077.2 PERLE Leichenschau, Fr., 19.06.2026, 17:00 - 19:30 Uhr, SkillsLab Perle - Kurs
 
@@ -2291,7 +2396,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136228&periodId=589>
 
 - **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Sa | 13:00–15:00 | 20.06.2026 | — |
 
 ### 079 PERLE Basics HNO, Sa., 20.06.2026, 11:00 - 13:00 Uhr, Skillslab Perle - Kurs
 
@@ -2300,7 +2412,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136259&periodId=589>
 
 - **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Sa | 11:00–13:00 | 20.06.2026 | — |
 
 ### 080 PERLE Untersuchungskurs Kopf-Fuß, 2 tlg., Sa., 20.06.2026 und So., 21.06.2026, jeweils vpn 14.00 - 17:00 Uhr, SkillsLab Perle - Kurs
 
@@ -2341,7 +2460,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136279&periodId=589>
 
 - **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | So | 13:30–15:30 | 21.06.2026 | — |
 
 ### 083 PERLE Blutkurs 1, So., 21.06.2026, 10:30 - 13:00 Uhr, SkillsLab Perle - Kurs
 
@@ -2382,7 +2508,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136300&periodId=589>
 
 - **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 17:00–19:30 | 26.06.2026 | — |
 
 ### 087 PERLE Untersuchungskurs: untere Extremität, Fr. 26.06.2026, 17:30 - 20:00 Uhr, SkillsLab Perle - Kurs
 
@@ -2557,7 +2690,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:15–15:45 | 21.04.2026–14.07.2026 | 54801.02.012 (SP 02.012 Schlossplatz 1) |
+| wöchentlich | Do | 14:15–15:45 | 23.04.2026–16.07.2026 | 54801.02.012 (SP 02.012 Schlossplatz 1) |
 
 ### Arabisch: Konversation für Fortgeschrittene - Übung
 
@@ -2590,8 +2731,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 17:45–19:15 | 15.04.2026–15.07.2026 | 00501.00.014 ( KH 0.014 Hörsaal Kollegienhaus (SR) - 42 Plätze) |
-| wöchentlich | Mo | 17:45–19:15 | 20.04.2026–13.07.2026 | 00501.00.014 ( KH 0.014 Hörsaal Kollegienhaus (SR) - 42 Plätze) |
+| wöchentlich | Mi | 16:00–17:30 | 15.04.2026–15.07.2026 | 00501.00.014 ( KH 0.014 Hörsaal Kollegienhaus (SR) - 42 Plätze) |
+| wöchentlich | Mo | 16:00–17:30 | 20.04.2026–13.07.2026 | 00501.02.018 ( KH 2.018 Hörsaal Kollegienhaus (SR)) |
 
 ### Chinesisch II (für Studierende aller Fachrichtungen) - Übung
 
@@ -2702,6 +2843,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **ECTS-Punkte:** 3.0
 - **Turnus:** nur im Sommersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:15–15:45 | 21.04.2026–14.07.2026 | 05701.00.010 ( 00.010 Übungsraum 1) |
+
 ### Deutsch A1.1: Allgemeinkurs - Übung
 
 - **Segment:** `exam:13870623` · **unitId:** `88835`
@@ -2764,7 +2911,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 7.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 08:30–10:00 | 20.04.2026–13.07.2026 | 05701.U1.008 () |
+| wöchentlich | Mi | 08:30–10:00 | 22.04.2026–15.07.2026 | 05701.U1.008 () |
+| wöchentlich | Fr | 08:30–10:00 | 24.04.2026–17.07.2026 | 05701.U1.008 () |
 
 ### Deutsch A1: Allgemeinkurs - Übung
 
@@ -2774,7 +2930,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:15–15:45 | 20.04.2026–13.07.2026 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:15–15:45 | 22.04.2026–15.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
 
 ### Deutsch A2.1: Allgemeinkurs - Übung
 
@@ -2858,6 +3022,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### Deutsch B1.1: Allgemeinkurs - Übung
@@ -2875,8 +3040,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 12:15–13:45 | 20.04.2026–13.07.2026 | 05701.U1.008 () |
-| wöchentlich | Mi | 12:15–13:45 | 22.04.2026–15.07.2026 | 05701.U1.008 () |
+| wöchentlich | Mo | 10:15–11:45 | 20.04.2026–13.07.2026 | 05203.02.215 (SZ 02.215 (Bismarckstr. 10) Belegung nur nach Rücksprache mit der Raumverantwortlichen) 05801.U1.0232 (SL 104, Bismarckstr. 1 Multimedia-Sprachlabor (Belegung nur nach Rücksprache mit den Raumverantwortlichen)) |
+| wöchentlich | Mi | 10:15–11:45 | 22.04.2026–15.07.2026 | 05203.00.216 (SZ 00.216 (Bismarckstr. 10) Belegung nur nach Rücksprache mit der Raumverantwortlichen) |
 
 ### Deutsch B1.1: Allgemeinkurs - Übung
 
@@ -2886,7 +3051,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:45–18:15 | 20.04.2026–13.07.2026 | 21102.02.431 (LG 2.431 Multimediasprachlabor) |
+| wöchentlich | Mi | 16:45–18:15 | 22.04.2026–15.07.2026 | 21102.02.431 (LG 2.431 Multimediasprachlabor) |
 
 ### Deutsch B1.2: Allgemeinkurs - Übung
 
@@ -3046,6 +3219,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### Deutsch B2.1: Allgemeinkurs - Übung
@@ -3081,8 +3255,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 18:15–19:45 | 20.04.2026–13.07.2026 | 54801.02.011 (SP 02.011 Schlossplatz 1) |
-| wöchentlich | Mi | 18:15–19:45 | 22.04.2026–15.07.2026 | 54801.02.011 (SP 02.011 Schlossplatz 1) |
+| wöchentlich | Di | 16:15–17:45 | 21.04.2026–14.07.2026 | 54801.02.011 (SP 02.011 Schlossplatz 1) |
+| wöchentlich | Do | 16:15–17:45 | 23.04.2026–16.07.2026 | 54801.02.011 (SP 02.011 Schlossplatz 1) |
 
 ### Deutsch B2: Allgemeinkurs - Übung
 
@@ -3110,7 +3284,17 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 11:30–13:00 | 21.04.2026–14.07.2026 | 21101.00.225 (LG 0.225 (44 Plätze) Übungsraum) |
+| wöchentlich | Do | 11:30–13:00 | 23.04.2026–16.07.2026 | 21101.00.225 (LG 0.225 (44 Plätze) Übungsraum) |
+| Einzeltermin | Di | 11:30–13:00 | 09.06.2026 | 21101.00.141 (LG 0.141 (48 Plätze) Übungsraum) |
+| Einzeltermin | Do | 11:30–13:00 | 25.06.2026 | 21101.05.152 (LG 5.152 (24 Plätze) Seminarraum, freitags und samstags nur für Blockveranstaltungen (ab 6 Std.) vorgesehen) |
 
 ### Deutsch B2: Grammatik - Übung
 
@@ -3208,7 +3392,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:15–11:45 | 23.04.2026–16.07.2026 | 05801.U1.0232 (SL 104, Bismarckstr. 1 Multimedia-Sprachlabor (Belegung nur nach Rücksprache mit den Raumverantwortlichen)) |
 
 ### Deutsch C1: Mündlicher Ausdruck (Interkulturelle Landeskunde) - Übung
 
@@ -3267,10 +3458,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 12:15–15:45 | 24.08.2026–14.09.2026 | 54801.01.013 (SP 01.013 Schlossplatz 1) |
-| wöchentlich | Di | 12:15–15:45 | 25.08.2026–15.09.2026 | 54801.01.013 (SP 01.013 Schlossplatz 1) |
-| wöchentlich | Mi | 14:15–17:45 | 26.08.2026–16.09.2026 | 54801.01.013 (SP 01.013 Schlossplatz 1) |
-| wöchentlich | Do | 14:15–17:45 | 27.08.2026–17.09.2026 | 54801.01.013 (SP 01.013 Schlossplatz 1) |
+| wöchentlich | Mo | 12:15–15:45 | 24.08.2026–14.09.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
+| wöchentlich | Di | 12:15–15:45 | 25.08.2026–15.09.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
+| wöchentlich | Mi | 14:15–17:45 | 26.08.2026–16.09.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
+| wöchentlich | Do | 14:15–17:45 | 27.08.2026–17.09.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
 
 ### DSH-Prüfungsvorbereitungskurs (Voranmeldung obligatorisch) - Übung
 
@@ -3285,7 +3476,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung | — | 08:30–14:00 | 23.03.2026–26.03.2026 | 54801.01.013 (SP 01.013 Schlossplatz 1) |
+| Blockveranstaltung | — | 08:30–14:00 | 23.03.2026–26.03.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
 
 ### DSH-Semesterkurs (Voranmeldung obligatorisch) - Kurs
 
@@ -3301,10 +3492,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 12:15–15:45 | 20.04.2026–13.07.2026 | 54201.01.008 ( Übungsraum I/8 Studienzentrum) |
-| wöchentlich | Di | 12:15–15:45 | 21.04.2026–14.07.2026 | 54201.01.008 ( Übungsraum I/8 Studienzentrum) |
-| wöchentlich | Do | 12:15–15:45 | 23.04.2026–16.07.2026 | 54201.01.008 ( Übungsraum I/8 Studienzentrum) |
-| wöchentlich | Fr | 12:15–15:45 | 24.04.2026–17.07.2026 | 54201.01.008 ( Übungsraum I/8 Studienzentrum) |
+| wöchentlich | Mo | 12:15–15:45 | 20.04.2026–13.07.2026 | — |
+| wöchentlich | Di | 12:15–15:45 | 21.04.2026–14.07.2026 | — |
+| wöchentlich | Do | 12:15–15:45 | 23.04.2026–16.07.2026 | — |
+| wöchentlich | Fr | 12:15–15:45 | 24.04.2026–17.07.2026 | — |
 
 ### Dänisch: Elementarkurs II / SK II (GeR A2) - Übung
 
@@ -3314,7 +3505,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:15–17:45 | 14.04.2026–21.07.2026 | 54801.02.012 (SP 02.012 Schlossplatz 1) |
+| wöchentlich | Fr | 12:15–13:45 | 17.04.2026–24.07.2026 | 54801.02.012 (SP 02.012 Schlossplatz 1) |
 
 ### Dänisch: Elementarkurs IV / SK IV  (GeR B2) - Übung
 
@@ -3366,7 +3565,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Fr | 08:15–09:45 | 24.04.2026–17.07.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
+| wöchentlich | Di | 10:15–11:45 | 21.04.2026–14.07.2026 | 54201.01.007 ( Übungsraum I/7 Studienzentrum) |
 
 ### English: Level 1 - Focus on Academic Writing  - Übung
 
@@ -3604,7 +3803,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 14:15–15:45 | 23.04.2026–16.07.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
+| wöchentlich | Mo | 12:15–13:45 | 20.04.2026–13.07.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
 
 ### English: Level 3 - Discussing Scientific Research - Übung
 
@@ -3615,6 +3814,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:15–13:45 | 20.04.2026–13.07.2026 | 13003.U1.850 (SR Biologie Seminarraum Biologie Nr. U1.850 (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 
 ### English: Level 3 - English for Engineering and Technology - Übung
 
@@ -3742,7 +3947,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Kurs
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 16:15–17:45 | 23.04.2026–16.07.2026 | 00501.00.014 ( KH 0.014 Hörsaal Kollegienhaus (SR) - 42 Plätze) |
 
 ### English: Level 3 - Presenting Scientific Papers for Natural Scientists - Übung
 
@@ -3854,7 +4066,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:15–11:45 | 21.04.2026–14.07.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
 
 ### English: Level 4 - Global Topics for Academic Discourse  - Übung
 
@@ -3880,14 +4099,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:15–15:45 | 23.04.2026–16.07.2026 | 05701.U1.008 () |
 
 ### English: Level 4 - Writing and Presenting Articles - Übung
 
@@ -3946,7 +4158,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:15–17:45 | 20.04.2026–13.07.2026 | 54606.02.021 (F 21 (IFA)) |
 
 ### Esercitazioni di espressione orale  - Übung
 
@@ -3956,7 +4175,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | 05701.00.010 ( 00.010 Übungsraum 1) |
 
 ### Español intermedio I - Übung
 
@@ -3995,14 +4221,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Spanisch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 18:15–19:45 | 15.04.2026–15.07.2026 | 54801.01.013 (SP 01.013 Schlossplatz 1) |
 
 ### Examensvorbereitung: Textproduktion Spanisch - Übung
 
@@ -4044,7 +4263,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:30–18:00 | 20.04.2026–13.07.2026 | — |
+| wöchentlich | Mi | 16:30–18:00 | 15.04.2026–15.07.2026 | — |
 
 ### Fonetica pratica - Übung
 
@@ -4078,8 +4305,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 08:00–09:30 | 14.04.2026–14.07.2026 | — |
-| wöchentlich | Do | 08:00–09:30 | 16.04.2026–16.07.2026 | — |
+| wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 54606.02.002 (F 22 (IFA)) |
+| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 54606.01.003 (F 13 (IFA)) |
 
 ### Französisch: Elementarkurs II   - Übung
 
@@ -4125,7 +4352,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Französisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 18:00–19:30 | 14.04.2026–14.07.2026 | 05801.U1.0232 (SL 104, Bismarckstr. 1 Multimedia-Sprachlabor (Belegung nur nach Rücksprache mit den Raumverantwortlichen)) |
+| wöchentlich | Do | 18:00–19:30 | 16.04.2026–16.07.2026 | 05801.U1.0232 (SL 104, Bismarckstr. 1 Multimedia-Sprachlabor (Belegung nur nach Rücksprache mit den Raumverantwortlichen)) |
 
 ### Französisch: Grammatik B2: Auffrischung und Vertiefung, VHB Kurs - ONLINE - Übung
 
@@ -4135,7 +4370,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| nach Vereinbarung | — | — | — | — |
 
 ### Französisch: Pratique de l'oral - Übung
 
@@ -4195,7 +4437,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Französisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 54201.01.007 ( Übungsraum I/7 Studienzentrum) |
 
 ### Grammatica e stilistica II - Übung
 
@@ -4342,7 +4591,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 11:30–13:00 | 20.04.2026–06.07.2026 | 21101.00.142 (LG 0.142 (98 Plätze) Übungsraum) |
+| Einzeltermin | Mo | 11:30–13:00 | 13.07.2026 | 21101.00.225 (LG 0.225 (44 Plätze) Übungsraum) |
 
 ### Italienisch: Elementarkurs 3 - ItaliaNet B1 (Blended Learning Kurs) - Übung
 
@@ -4352,7 +4609,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Italienisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 13:15–14:45 | 21.04.2026–14.07.2026 | 21102.02.431 (LG 2.431 Multimediasprachlabor) |
 
 ### Italienisch: Elementarkurs 4 - ItaliaNet B2 (Blended Learning Kurs) - Übung
 
@@ -4413,7 +4677,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 18:00–19:30 | 22.04.2026–15.07.2026 | — |
 
 ### Italienische Kulturwissenschaft und Landeskunde - Übung
 
@@ -4469,7 +4740,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 54801.02.012 (SP 02.012 Schlossplatz 1) |
+| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 54801.02.012 (SP 02.012 Schlossplatz 1) |
 
 ### L' italiano per il lavoro: tipologie testuali - Übung
 
@@ -4587,7 +4866,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:15–17:45 | 13.04.2026–13.07.2026 | 00501.00.015 ( KH 0.015 Hörsaal Kollegienhaus (SR)) |
+| wöchentlich | Mi | 16:15–17:45 | 15.04.2026–15.07.2026 | 00501.00.015 ( KH 0.015 Hörsaal Kollegienhaus (SR)) |
 
 ### Niederländisch: Elementarkurs I - Übung
 
@@ -4651,7 +4938,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 54606.02.002 (F 22 (IFA)) |
+| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 54606.02.002 (F 22 (IFA)) |
 
 ### Persisch II - Übung
 
@@ -4708,7 +5003,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Portugiesisch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 54201.01.010 ( Übungsraum I/10 Studienzentrum) |
+| wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | 54201.01.010 ( Übungsraum I/10 Studienzentrum) |
 
 ### Portugiesisch: Elementarkurs II  - Übung
 
@@ -4770,7 +5073,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:15–17:45 | 13.04.2026–13.07.2026 | 54801.02.012 (SP 02.012 Schlossplatz 1) |
+| wöchentlich | Mi | 16:15–17:45 | 15.04.2026–15.07.2026 | 54801.02.012 (SP 02.012 Schlossplatz 1) |
 
 ### Russisch A2: Elementarkurs II - Übung
 
@@ -4780,7 +5091,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 54201.01.008 ( Übungsraum I/8 Studienzentrum) |
+| wöchentlich | Do | 16:15–17:45 | 16.04.2026–16.07.2026 | 54201.01.008 ( Übungsraum I/8 Studienzentrum) |
 
 ### Russisch online A1 - Übung
 
@@ -5052,7 +5371,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Di | 18:15–20:15 | 12.05.2026 | — |
+| Einzeltermin | Do | 17:00–19:30 | 30.04.2026 | — |
 
 ### SkillsLab MCO_Ultraschallkurs 3 - Kurs
 
@@ -5084,7 +5403,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 17:30–19:30 | 07.05.2026 | — |
+| Einzeltermin | Do | 17:30–19:30 | 18.06.2026 | — |
 
 ### SkillsLab MCO_Untersuchungskurs Herz/ Lunge - Kurs
 
@@ -5302,7 +5621,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 05801.U1.021 (SL 102, Bismarckstr.1 Multimedia-Sprachlabor (Belegung nur nach Rücksprache mit den Raumverantwortlichen)) 05801.U1.316 (C 102, Bismarckstr. 1, Multimedia Sprachlabor / Sprachenzentrum (Belegung nur nach Rücksprache mit den Raumverantworlichen)) |
+| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 05701.00.010 ( 00.010 Übungsraum 1) |
+| wöchentlich | Fr | 12:15–13:45 | 17.04.2026–17.07.2026 | 00501.00.015 ( KH 0.015 Hörsaal Kollegienhaus (SR)) |
 
 ### Spanisch: Elementarkurs IV  - Übung
 
@@ -5330,7 +5650,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Spanisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 09:45–11:15 | 22.04.2026–15.07.2026 | — |
 
 ### Spanisch: Mediación - Español económico - Übung
 
@@ -5340,7 +5667,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Spanisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 21.04.2026–14.07.2026 | — |
 
 ### Tecniche di lettura - Übung
 
@@ -5412,7 +5746,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Französisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 54606.01.003 (F 13 (IFA)) |
 
 ### Traduction version niveau avancé (F - A) Examenskurs  - Übung
 
@@ -5475,6 +5816,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:15–17:45 | 20.04.2026–13.07.2026 | 05203.00.216 (SZ 00.216 (Bismarckstr. 10) Belegung nur nach Rücksprache mit der Raumverantwortlichen) |
+| wöchentlich | Mi | 16:15–17:45 | 22.04.2026–15.07.2026 | 05203.00.216 (SZ 00.216 (Bismarckstr. 10) Belegung nur nach Rücksprache mit der Raumverantwortlichen) |
+
 ### Türkisch: Elementarkurs I - Übung
 
 - **Segment:** `exam:13869643` · **unitId:** `86788`
@@ -5483,7 +5831,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 16:15–17:45 | 15.04.2026–15.07.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
+| wöchentlich | Mo | 16:15–17:45 | 20.04.2026–13.07.2026 | 00501.00.020 ( KH 0.020 Hörsaal Kollegienhaus) |
 
 ### Türkisch: Elementarkurs III - Übung
 
@@ -5493,7 +5849,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 18:15–19:45 | 14.04.2026–14.07.2026 | 54801.01.013 (SP 01.013 Schlossplatz 1) |
+| wöchentlich | Do | 18:15–19:45 | 16.04.2026–16.07.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
 
 ### Türkisch: Elementarkus II - Übung
 
@@ -8323,6 +8687,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13871414|exam:15805135|exam:15805144>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135559&periodId=589>
 
+- **ECTS-Punkte:** 0.0
+
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
@@ -8377,8 +8743,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene - Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) - Übung
 
@@ -8412,7 +8778,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 16:45–18:15 | 21.04.2026–14.07.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
+| wöchentlich | Mo | 13:15–14:45 | 27.04.2026–13.07.2026 | 21101.00.143 (LG 0.143 (42 Plätze) Übungsraum) |
+| Einzeltermin | Mo | 13:15–14:45 | 22.06.2026 | 21101.05.155 (LG 5.155 (30 Plätze) Seminarraum) |
 
 ### SZITMCPoII - Comprensione e produzione orale 2 - Übung
 
@@ -8439,7 +8806,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Spanisch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 54801.01.013 (SP 01.013 Schlossplatz 1) 05801.U1.316 (C 102, Bismarckstr. 1, Multimedia Sprachlabor / Sprachenzentrum (Belegung nur nach Rücksprache mit den Raumverantworlichen)) |
 
 ### SZSPHOEKIIa - Spanisch: Elementarkurs II  - Übung
 
@@ -8456,8 +8830,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | 54801.01.013 (SP 01.013 Schlossplatz 1) |
-| wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | 54801.01.013 (SP 01.013 Schlossplatz 1) |
+| wöchentlich | Di | 18:15–19:45 | 14.04.2026–14.07.2026 | 00501.00.014 ( KH 0.014 Hörsaal Kollegienhaus (SR) - 42 Plätze) |
 
 ### SZSPPGrEstIa - Gramática y estilística  I - Übung
 
@@ -8467,9 +8840,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Spanisch
 - **Turnus:** in jedem Semester
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (331)
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 14:15–15:45 | 17.04.2026–17.07.2026 | 00501.00.015 ( KH 0.015 Hörsaal Kollegienhaus (SR)) |
+
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (286)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -8529,27 +8909,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Kurs
 
-### 023 PERLE PJ-Vorbereitungskurs - Schwerpunkt Innere Medizin, So., 12.11.2023, 14:00 - 19:30 Uhr, SkillsLab Perle
-
-- **Segment:** `unit:116828` · **unitId:** `116828`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116828&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-
-### 026 PERLE Untersuchungskurs Neurologie, So., 11.05.25, 10:00 - 13:00 Uhr, SkillsLab Perle
-
-- **Segment:** `unit:128702` · **unitId:** `128702`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128702&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-
-### 028 PERLE Famulaturvorbereitungskurs Innere Medizin, So., 07.05.2023, 10:00 - 15:30 Uhr, SkillsLab Perle
-
-- **Segment:** `unit:112691` · **unitId:** `112691`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112691&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-
 ### 037.2 PERLE Röntgenthorax - Kurs, Mo., 10.11.2025, 17:00 - 18:30 Uhr, Internistische Notaufnahme, Raum: U1.977 (ISI-Meetingraum
 
 - **Segment:** `unit:133339` · **unitId:** `133339`
@@ -8578,13 +8937,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Kurs
 
-### 054.1 PERLE Mikrochirurgiekurs, Di. 28.05.2024, 15:00 - 19:00 Uhr
-
-- **Segment:** `unit:121028` · **unitId:** `121028`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121028&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-
 ### 057.1 PERLE PJ Vorbereitungskurs - Schwerpunkt Innere Medizin, Sa., 01.06.2024, 10:00 - 15:30 Uhr, SkillsLab Perle
 
 - **Segment:** `unit:121052` · **unitId:** `121052`
@@ -8607,13 +8959,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Kurs
 - **Turnus:** nur im Sommersemester
 
-### 063.2 PERLE Röntgenthorax - Kurs, Mo., 24.11.2025, 17:00 - 18:30 Uhr, Internistische Notaufnahme, Raum: U1.977 (ISI-Meetingraum)
-
-- **Segment:** `unit:133341` · **unitId:** `133341`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133341&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-
 ### 063.3 PERLE Röntgenthorax - Kurs, Mo., 24.11.2025, 18:30 - 20:00 Uhr, Internistische Notaufnahme, Raum U1.977 (ISI-Meetingraum)
 
 - **Segment:** `unit:133342` · **unitId:** `133342`
@@ -8632,20 +8977,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:112881` · **unitId:** `112881`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112881&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-
-### 074 PERLE Famulaturkurs mit Schwerpunkt Innere Medizin, Sa., 22.06.2024, 10:00 - 15:30 Uhr, SkillsLab Perle-
-
-- **Segment:** `unit:121073` · **unitId:** `121073`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121073&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-
-### 088.2 PERLE Mikrochirurgiekurs, Di., 16.12.2025, 15:00 - 19:00 Uhr, Station B2-2 im chirurgischen Bettenhaus, Raum 226
-
-- **Segment:** `unit:133603` · **unitId:** `133603`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133603&periodId=589>
 
 - **Veranstaltungsart:** Kurs
 
@@ -8746,7 +9077,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 10.0
 - **Turnus:** nur im Wintersemester
 
-### Arabisch III  (B. A. Islamisch-Religiöse Studien) - 2 SWS Online — Übung
+### Arabisch III  (B. A. Islamisch-Religiöse Studien) — Übung
 
 - **Segment:** `unit:85322` · **unitId:** `85322`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85322&periodId=589>
@@ -8754,15 +9085,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 10.0
 - **Turnus:** nur im Wintersemester
-
-### Arabisch: Elementarkurs I — Übung
-
-- **Segment:** `unit:104291` · **unitId:** `104291`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104291&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
 
 ### Arabisch: Grammatik für Herkunftssprecher — Übung
 
@@ -8786,13 +9108,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### Begleitetes Selbststudium — Sonstige Lehrveranstaltung
-
-- **Segment:** `unit:113143` · **unitId:** `113143`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113143&periodId=589>
-
-- **Veranstaltungsart:** Sonstige Lehrveranstaltung
 
 ### Betriebsärztliche Untersuchung
 
@@ -8916,7 +9231,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 14:00–18:00 | 23.04.2026–16.07.2026 | 00801.03.024 (KS Anatomie II) |
+| wöchentlich | Do | 14:00–18:00 | 23.04.2026–16.07.2026 | — |
 
 ### Deutsch als Fremdsprache C1/C1+: Fachsprache Wirtschaft — Online-Kurs
 
@@ -9006,15 +9321,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
-### Englisch Level 2: Editing Scientific Documents in English — Übung
-
-- **Segment:** `unit:98028` · **unitId:** `98028`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98028&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
 ### Englisch Level 3: Applying for Positions in English — Übung
 
 - **Segment:** `unit:88850` · **unitId:** `88850`
@@ -9023,15 +9329,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
 - **Turnus:** in jedem Semester
-
-### Englisch Level 3: Current Affairs — Übung
-
-- **Segment:** `unit:105154` · **unitId:** `105154`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=105154&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
 
 ### Englisch Level 3: Focus on Academic Speaking — Übung
 
@@ -9096,15 +9393,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.5
 - **Turnus:** in jedem Semester
 
-### Englisch: Level 2 - English for Natural Scientists — Kurs
-
-- **Segment:** `unit:138634` · **unitId:** `138634`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138634&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **ECTS-Punkte:** 2.5
-- **Turnus:** in jedem Semester
-
 ### English: Level 0 - Preparation Course — Übung
 
 - **Segment:** `unit:89377` · **unitId:** `89377`
@@ -9123,15 +9411,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.5
 - **Turnus:** in jedem Semester
 
-### English: Level 1 - Introduction to Scientific English — Übung
-
-- **Segment:** `unit:119868` · **unitId:** `119868`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119868&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** in jedem Semester
-
 ### English: Level 1 - Technology and Engineering in Media: Focus on Listening and Speaking — Übung
 
 - **Segment:** `unit:111954` · **unitId:** `111954`
@@ -9139,15 +9418,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
-- **Turnus:** in jedem Semester
-
-### English: Level 2 - Discussing Scientific Research — Übung
-
-- **Segment:** `unit:115695` · **unitId:** `115695`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115695&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
 - **Turnus:** in jedem Semester
 
 ### English: Level 2 - Spoken English for Students of Natural Science — Übung
@@ -9204,24 +9474,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 3.0
 - **Turnus:** in jedem Semester
 
-### English: Level 4 -  English through Music — Übung
-
-- **Segment:** `unit:113417` · **unitId:** `113417`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113417&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** Unregelmäßig
-
-### English: Level 4 - Writing Research Papers — Übung
-
-- **Segment:** `unit:111532` · **unitId:** `111532`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111532&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
-
 ### Erkenntnis aus Leichen(teilen): Forschen und Lehren mit menschlichen Überresten
 
 - **Segment:** `unit:75911` · **unitId:** `75911`
@@ -9269,7 +9521,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90102&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:15–10:00 | 21.04.2026–14.07.2026 | 11202.00.307 (H1 Egerlandstr.3 Anorganische Chemie) |
+| wöchentlich | Do | 10:45–12:30 | 16.04.2026–16.07.2026 | 11202.00.307 (H1 Egerlandstr.3 Anorganische Chemie) |
 
 ### Ferienintensivkurs Französisch: Auffrischung EK I / Einstieg EK II — Übung
 
@@ -9278,24 +9538,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
-### Ferienintensivkurs Französisch: Langue française et civilisation en chansons  Auffrischungskurs B1-B2 vom 28.03.2022 bis 01.04.2022 (09:30-15:00 Uhr). — Übung
-
-- **Segment:** `unit:96341` · **unitId:** `96341`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96341&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
-### Ferienintensivkurs in Erlangen:  Italiano - Intermedio I / Elementarkurs III (Niveau B1) — Übung
-
-- **Segment:** `unit:126924` · **unitId:** `126924`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126924&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 8.0
 - **Turnus:** Unregelmäßig
 
 ### Finnisch: Elementarkurs I - Online — Übung
@@ -9477,10 +9719,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 09:00–15:30 | 22.06.2026 | — |
-| Einzeltermin | Di | 09:00–15:30 | 23.06.2026 | — |
-| Einzeltermin | Mi | 08:00–14:30 | 24.06.2026 | — |
-| Einzeltermin | Do | 09:00–15:30 | 25.06.2026 | — |
+| Einzeltermin | Mo | 09:00–15:30 | 27.04.2026 | — |
+| Einzeltermin | Di | 09:00–15:30 | 28.04.2026 | — |
+| Einzeltermin | Mi | 08:00–14:30 | 29.04.2026 | — |
+| Einzeltermin | Do | 09:00–15:30 | 30.04.2026 | — |
 
 ### K-P10_BT Innere Medizin, Teil I (BPK)_FG 2 Kardiologie — Praktikum
 
@@ -9513,10 +9755,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 08:00–14:00 | 22.06.2026 | — |
-| Einzeltermin | Di | 08:00–14:00 | 23.06.2026 | — |
-| Einzeltermin | Mi | 08:00–14:00 | 24.06.2026 | — |
-| Einzeltermin | Do | 08:00–14:00 | 25.06.2026 | — |
+| Einzeltermin | Mo | 08:00–14:00 | 27.04.2026 | — |
+| Einzeltermin | Di | 08:00–14:00 | 28.04.2026 | — |
+| Einzeltermin | Mi | 08:00–14:00 | 29.04.2026 | — |
+| Einzeltermin | Do | 08:00–14:00 | 30.04.2026 | — |
 
 ### K-P10_BT Innere Medizin, Teil I (BPK)_FG 4 Hämatologie/Onkologie — Praktikum
 
@@ -9535,24 +9777,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Di | 07:30–15:30 | 28.04.2026 | — |
 | Einzeltermin | Mi | 08:30–14:30 | 29.04.2026 | — |
 | Einzeltermin | Do | 08:00–14:30 | 30.04.2026 | — |
-
-### K-P10_BT Innere Medizin, Teil I (BPK)_FG 5 Nephrologie/Rheumatologie — Praktikum
-
-- **Segment:** `unit:117459` · **unitId:** `117459`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117459&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 08:30–14:45 | 07.04.2026 | — |
-| Einzeltermin | Mi | 08:30–14:45 | 08.04.2026 | — |
-| Einzeltermin | Do | 08:30–14:45 | 09.04.2026 | — |
-| Einzeltermin | Fr | 08:30–14:45 | 10.04.2026 | — |
 
 ### K-P10_BT Innere Medizin, Teil I (BPK)_FG 6 Pneumologie — Praktikum
 
@@ -9584,10 +9808,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 07:30–13:30 | 18.05.2026 | — |
-| Einzeltermin | Di | 07:30–14:00 | 19.05.2026 | — |
-| Einzeltermin | Mi | 07:30–11:00 | 20.05.2026 | — |
-| Einzeltermin | Do | 07:30–12:30 | 21.05.2026 | — |
+| Einzeltermin | Mo | 07:30–13:30 | 04.05.2026 | — |
+| Einzeltermin | Di | 07:30–14:00 | 05.05.2026 | — |
+| Einzeltermin | Mi | 07:30–11:00 | 06.05.2026 | — |
+| Einzeltermin | Do | 07:30–12:30 | 07.05.2026 | — |
 
 ### K-P12_BT Urologie (BPK) — Praktikum
 
@@ -9610,7 +9834,17 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128641&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 07:30–16:30 | 15.06.2026 | — |
+| Einzeltermin | Di | 07:30–16:30 | 16.06.2026 | — |
+| Einzeltermin | Mi | 07:30–15:30 | 17.06.2026 | — |
+| Einzeltermin | Do | 07:30–16:30 | 18.06.2026 | — |
 
 ### K-P13_BT Innere Medizin, Teil II (BPK)_FG 1 Gastroenterologie — Praktikum
 
@@ -9625,10 +9859,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 08:00–16:30 | 15.06.2026 | — |
-| Einzeltermin | Di | 08:00–15:30 | 16.06.2026 | — |
-| Einzeltermin | Mi | 08:00–15:30 | 17.06.2026 | — |
-| Einzeltermin | Do | 08:00–16:30 | 18.06.2026 | — |
+| Einzeltermin | Mo | 08:00–16:30 | 08.06.2026 | — |
+| Einzeltermin | Di | 08:00–15:30 | 09.06.2026 | — |
+| Einzeltermin | Mi | 08:00–15:30 | 10.06.2026 | — |
+| Einzeltermin | Do | 08:00–16:30 | 11.06.2026 | — |
 
 ### K-P13_BT Innere Medizin, Teil II (BPK)_FG 2 Kardiologie — Praktikum
 
@@ -9661,11 +9895,11 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 08:00–15:00 | 18.05.2026 | — |
-| Einzeltermin | Di | 08:00–15:00 | 19.05.2026 | — |
-| Einzeltermin | Mi | 08:00–15:00 | 20.05.2026 | — |
-| Einzeltermin | Do | 08:00–15:00 | 21.05.2026 | — |
-| Einzeltermin | Fr | 08:00–15:00 | 22.05.2026 | — |
+| Einzeltermin | Mo | 08:00–15:00 | 04.05.2026 | — |
+| Einzeltermin | Di | 08:00–15:00 | 05.05.2026 | — |
+| Einzeltermin | Mi | 08:00–15:00 | 06.05.2026 | — |
+| Einzeltermin | Do | 08:00–15:00 | 07.05.2026 | — |
+| Einzeltermin | Fr | 08:00–15:00 | 08.05.2026 | — |
 
 ### K-P13_BT Innere Medizin, Teil II (BPK)_FG 4 Hämatologie/Onkologie — Praktikum
 
@@ -9736,10 +9970,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Mi | 08:00–12:00 | 15.04.2026 | — |
 | Einzeltermin | Do | 08:00–12:00 | 16.04.2026 | — |
 | Einzeltermin | Fr | 08:00–12:00 | 17.04.2026 | — |
-| Einzeltermin | Mo | 08:00–14:30 | 11.05.2026 | — |
-| Einzeltermin | Di | 08:00–14:30 | 12.05.2026 | — |
-| Einzeltermin | Mi | 08:00–14:30 | 13.05.2026 | — |
-| Einzeltermin | Fr | 08:00–11:00 | 15.05.2026 | — |
+| Einzeltermin | Di | 08:00–14:30 | 05.05.2026 | — |
+| Einzeltermin | Mi | 08:00–14:30 | 06.05.2026 | — |
+| Einzeltermin | Do | 08:00–14:30 | 07.05.2026 | — |
+| Einzeltermin | Fr | 08:00–11:00 | 08.05.2026 | — |
 
 ### K-P16_BT Neurologie, Neurochirurgie (BPK) — Praktikum
 
@@ -9772,34 +10006,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 08:00–14:00 | 11.05.2026 | — |
-| Einzeltermin | Di | 07:30–14:00 | 12.05.2026 | — |
-| Einzeltermin | Mi | 07:30–14:00 | 13.05.2026 | — |
-| Einzeltermin | Fr | 08:00–11:00 | 15.05.2026 | — |
-
-### K-P1_BT Allgemeinmedizin (BPK) — Praktikum
-
-- **Segment:** `unit:113515` · **unitId:** `113515`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113515&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **Turnus:** in jedem Semester
-
-### K-P3_BT Notfallmedizin — Praktikum
-
-- **Segment:** `unit:102801` · **unitId:** `102801`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102801&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 14:00–18:00 | 27.05.2026 | — |
-| Einzeltermin | Do | 14:00–18:00 | 28.05.2026 | — |
+| Einzeltermin | Mo | 08:00–14:00 | 04.05.2026 | — |
+| Einzeltermin | Di | 07:30–14:00 | 05.05.2026 | — |
+| Einzeltermin | Mi | 07:30–14:00 | 06.05.2026 | — |
+| Einzeltermin | Do | 08:00–11:00 | 07.05.2026 | — |
 
 ### K-P5_BT Augenheilkunde — Praktikum
 
@@ -9852,10 +10062,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 08:00–14:00 | 04.05.2026 | — |
-| Einzeltermin | Di | 08:00–12:00 | 05.05.2026 | — |
-| Einzeltermin | Mi | 07:45–15:00 | 06.05.2026 | — |
-| Einzeltermin | Do | 07:45–12:00 | 07.05.2026 | — |
+| Einzeltermin | Mo | 07:45–15:00 | 04.05.2026 | — |
+| Einzeltermin | Di | 07:45–12:00 | 05.05.2026 | — |
+| Einzeltermin | Mi | 08:00–14:00 | 06.05.2026 | — |
+| Einzeltermin | Do | 08:00–12:00 | 07.05.2026 | — |
 
 ### K-P8_BT Chirurgie (BPK)_Plastische-, Rekonstruktive-, Ästhetische- und Handchirurgie, Unfall- und Wiederherstellungschirurgie — Praktikum
 
@@ -9921,13 +10131,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 13:00–14:30 | 17.04.2026 | — |
-| Einzeltermin | Mi | 10:45–12:15 | 27.05.2026 | — |
+| Einzeltermin | Mi | 09:00–10:30 | 27.05.2026 | — |
 | Einzeltermin | Mi | 13:00–14:30 | 27.05.2026 | — |
 | Einzeltermin | Mi | 14:45–16:15 | 27.05.2026 | — |
 | Einzeltermin | Fr | 08:15–09:45 | 29.05.2026 | — |
-| Einzeltermin | Fr | 10:15–11:45 | 29.05.2026 | — |
-| Einzeltermin | Di | 15:45–17:15 | 02.06.2026 | — |
+| Einzeltermin | Fr | 10:00–11:30 | 29.05.2026 | — |
+| Einzeltermin | Fr | 12:30–14:00 | 29.05.2026 | — |
+| Einzeltermin | Di | 14:00–15:30 | 02.06.2026 | — |
 | Einzeltermin | Mi | 13:00–14:30 | 03.06.2026 | — |
 | Einzeltermin | Mi | 14:45–16:15 | 03.06.2026 | — |
 | Einzeltermin | Mi | 13:00–14:30 | 17.06.2026 | — |
@@ -9960,7 +10170,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120233&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 09:00–12:00 | 13.04.2026 | — |
+| Einzeltermin | Di | 08:00–12:00 | 14.04.2026 | — |
+| Einzeltermin | Di | 13:00–16:00 | 14.04.2026 | — |
+| Einzeltermin | Mi | 09:00–12:00 | 15.04.2026 | — |
+| Einzeltermin | Mi | 13:00–16:00 | 15.04.2026 | — |
+| Einzeltermin | Do | 08:00–12:00 | 16.04.2026 | — |
+| Einzeltermin | Do | 13:00–16:00 | 16.04.2026 | — |
+| Einzeltermin | Fr | 09:00–12:00 | 17.04.2026 | — |
+| Einzeltermin | Fr | 13:00–17:00 | 17.04.2026 | — |
 
 ### K-PS15_BT Übung Histopathologie und Makropathologie
 
@@ -10035,22 +10260,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Mi | 09:00–12:00 | 22.04.2026 | — |
-
-### K-PS1_BT Arbeits- und Sozialmedizin (Seminar)
-
-- **Segment:** `unit:120232` · **unitId:** `120232`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120232&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 09:30–15:00 | 20.04.2026 | — |
-| Einzeltermin | Di | 09:30–15:00 | 21.04.2026 | — |
 
 ### K-PS21_BT Palliativmedizin, Q13 — Seminar
 
@@ -10145,25 +10354,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Do | 10:15–13:15 | 25.06.2026 | — |
 | Einzeltermin | Do | 10:15–13:15 | 02.07.2026 | — |
 
-### K-PS7_BT Innere Pathophysiologie — Seminar
-
-- **Segment:** `unit:108030` · **unitId:** `108030`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=108030&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 14:15–15:45 | 20.04.2026 | — |
-| Einzeltermin | Mo | 14:15–15:45 | 27.04.2026 | — |
-| Einzeltermin | Mo | 14:15–15:45 | 04.05.2026 | — |
-| Einzeltermin | Mo | 14:15–15:45 | 11.05.2026 | — |
-| Einzeltermin | Mo | 14:15–15:45 | 18.05.2026 | — |
-| Einzeltermin | Mo | 14:15–15:45 | 01.06.2026 | — |
-
 ### K-PS8 Praktikum (Medizincampus Oberfranken, Bayreuth  für 1. Kl. Semester) Klinische Chemie, Hämatologie, Transfusionsmedizin und Hämostaseologie
 
 - **Segment:** `unit:88485` · **unitId:** `88485`
@@ -10197,21 +10387,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-### K-V11 & K-PS4 (MCO) Epidemiologie, medizinische Biometrie& Medizinische Informatik,Teil Informatik Q1 — Vorlesung mit Übung
-
-- **Segment:** `unit:97529` · **unitId:** `97529`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97529&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 13:15–14:00 | 24.04.2026–17.07.2026 | 08105.00.915 (Großer Hörsaal - Hörsäle Medizin) |
 
 ### K-V12_BT Vorlesung der Inneren Medizin, Teil 1 für das 2. und 3. klinische Semester
 
@@ -10265,6 +10440,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** in jedem Semester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 07:30–09:00 | 21.04.2026–30.06.2026 | — |
+| wöchentlich | Do | 07:30–08:15 | 23.04.2026–02.07.2026 | — |
+| Einzeltermin | Do | 11:15–12:45 | 23.04.2026 | — |
+| wöchentlich | Fr | 07:30–09:00 | 24.04.2026–26.06.2026 | — |
+| Einzeltermin | Do | 11:15–12:45 | 30.04.2026 | — |
+| Einzeltermin | Do | 11:15–12:45 | 07.05.2026 | — |
+| Einzeltermin | Do | 11:15–12:45 | 28.05.2026 | — |
+| Einzeltermin | Mo | 13:00–15:15 | 29.06.2026 | — |
+| Einzeltermin | Fr | 07:30–09:00 | 03.07.2026 | — |
+| Einzeltermin | Fr | 11:15–13:30 | 03.07.2026 | — |
+| Einzeltermin | Di | 07:30–09:45 | 07.07.2026 | — |
+
 ### K-V16_BT Urologie — Vorlesung
 
 - **Segment:** `unit:108025` · **unitId:** `108025`
@@ -10294,21 +10485,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Mo | 08:00–09:30 | 20.04.2026 | — |
 | wöchentlich | Mo | 08:15–09:45 | 27.04.2026–06.07.2026 | — |
 
-### K-V18_BT Infektiologie, Immunologie, Q4 — Vorlesung
-
-- **Segment:** `unit:108015` · **unitId:** `108015`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=108015&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 11:15–12:45 | 20.04.2026–13.07.2026 | — |
-| Einzeltermin | Mo | 13:00–14:30 | 06.07.2026 | — |
-
 ### K-V19_BT Innere Medizin II für das 2. und 3. klinische Semester — Vorlesung
 
 - **Segment:** `unit:108020` · **unitId:** `108020`
@@ -10316,21 +10492,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Wintersemester
-
-### K-V1_BT Allgemeinmedizin — Vorlesung
-
-- **Segment:** `unit:105539` · **unitId:** `105539`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=105539&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:30–16:00 | 20.04.2026–06.07.2026 | — |
 
 ### K-V2(MCO) Vorlesung (für 5.Semester Humanmedizin) Epidemiologie, Medizinische Biometrie und Medizinische Informatik / Teil Epidemiologie, Q1
 
@@ -10388,6 +10549,19 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** in jedem Semester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 08:00–09:30 | 13.04.2026 | — |
+| Einzeltermin | Mo | 09:45–11:15 | 13.04.2026 | — |
+| Einzeltermin | Mo | 11:30–12:15 | 13.04.2026 | — |
+| Einzeltermin | Mi | 08:00–09:30 | 15.04.2026 | — |
+| Einzeltermin | Mi | 09:45–11:15 | 15.04.2026 | — |
+| Einzeltermin | Mi | 11:30–13:00 | 15.04.2026 | — |
+| Einzeltermin | Fr | 08:00–09:30 | 17.04.2026 | — |
+| Einzeltermin | Fr | 09:45–11:15 | 17.04.2026 | — |
+
 ### K-V24_BT Ringvorlesung Prävention und Gesundheitsförderung, Q10
 
 - **Segment:** `unit:89117` · **unitId:** `89117`
@@ -10409,23 +10583,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Di | 13:00–14:45 | 09.06.2026 | — |
 | Einzeltermin | Di | 13:00–14:45 | 16.06.2026 | — |
 | Einzeltermin | Fr | 08:15–09:00 | 26.06.2026 | — |
-
-### K-V25_BT Dermatologie — Vorlesung
-
-- **Segment:** `unit:113070` · **unitId:** `113070`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113070&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 11:00–11:30 | 13.04.2026 | — |
-| wöchentlich | Mo | 10:15–11:00 | 20.04.2026–13.07.2026 | — |
-| wöchentlich | Di | 10:15–11:00 | 21.04.2026–07.07.2026 | — |
-| wöchentlich | Mi | 10:15–11:00 | 22.04.2026–08.07.2026 | — |
 
 ### K-V26_BT Arbeitsmedizin, Sozialmedizin und Umweltmedizin — Vorlesung
 
@@ -10472,20 +10629,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 13:15–14:45 | 22.04.2026–01.07.2026 | — |
-
-### K-V30_BT Augenheilkunde — Vorlesung
-
-- **Segment:** `unit:113078` · **unitId:** `113078`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113078&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 17:00–18:30 | 22.04.2026–08.07.2026 | — |
 
 ### K-V31_BT Neurologie (incl. Neurochirurgie) — Vorlesung
 
@@ -10628,25 +10771,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Do | 09:15–10:00 | 23.04.2026–09.07.2026 | 03006.00.607 (Hörsaal 1 - Östliche Stadtmauerstraße 11) |
 | wöchentlich | Fr | 09:15–10:00 | 24.04.2026–10.07.2026 | 08105.00.915 (Großer Hörsaal - Hörsäle Medizin) |
 
-### K-V5A_BT Vorlesung Pathologie
-
-- **Segment:** `unit:105804` · **unitId:** `105804`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=105804&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 09:15–10:00 | 20.04.2026–13.07.2026 | — |
-| wöchentlich | Di | 09:15–10:00 | 21.04.2026–14.07.2026 | — |
-| wöchentlich | Mi | 09:15–10:00 | 22.04.2026–15.07.2026 | — |
-| wöchentlich | Do | 09:15–10:00 | 23.04.2026–16.07.2026 | — |
-| wöchentlich | Fr | 09:15–10:00 | 24.04.2026–17.07.2026 | — |
-
 ### K-V5B_BT spezielle Pathologie Vorlesung
 
 - **Segment:** `unit:108028` · **unitId:** `108028`
@@ -10718,13 +10842,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | — |
-
-### MED 42051: "Amors vergifteter Pfeil." Die Geschichte der Syphilis — Seminar
-
-- **Segment:** `unit:127582` · **unitId:** `127582`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127582&periodId=589>
-
-- **Veranstaltungsart:** Seminar
 
 ### MED 42101: Aufklärung über Gesundheit, Sex und Geschlechterrollen in Filmen und Liedern der DDR — Seminar
 
@@ -10824,14 +10941,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Praxisseminar
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-### MED 45301 Einführung in die Medizinethik — Seminar
-
-- **Segment:** `unit:107547` · **unitId:** `107547`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107547&periodId=589>
-
-- **Veranstaltungsart:** Seminar
 - **Turnus:** in jedem Semester
 
 ### MED 45301 Einführung in die Medizinethik (K-PS20) — Seminar
@@ -10959,13 +11068,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 3.0
 - **Turnus:** nicht in diesem Semester
 
-### MED 46101: Sammeln & Wissen - Medizingeschichte 3D — Seminar
-
-- **Segment:** `unit:113237` · **unitId:** `113237`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113237&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-
 ### MED 46151 Moderne Methoden der neurowissenschaftlichen Grundlagenforschung: Laborseminar — Praxisseminar
 
 - **Segment:** `unit:87334` · **unitId:** `87334`
@@ -11062,21 +11164,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:00–17:00 | 13.04.2026–27.07.2026 | — |
 
-### MED 47201 Superorgan Immunsystem - Biologie, Fehlfunktion und therapeutische Ansätze — Seminar
-
-- **Segment:** `unit:135295` · **unitId:** `135295`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135295&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:00–17:00 | 13.04.2026–13.07.2026 | — |
-
 ### MED 80061: Medizinstudium im Nationalsozialismus — Seminar
 
 - **Segment:** `unit:107122` · **unitId:** `107122`
@@ -11155,7 +11242,16 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91551&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 18:00–20:00 | 11.06.2026 | — |
+| Einzeltermin | Fr | 16:00–20:00 | 19.06.2026 | — |
+| Einzeltermin | Sa | 08:00–12:00 | 20.06.2026 | — |
 
 ### MED 89861"Aufklärung Organspende" — Seminar
 
@@ -11219,7 +11315,16 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132130&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–18:30 | 19.06.2026 | — |
+| Einzeltermin | Sa | 09:00–18:30 | 20.06.2026 | — |
+| Einzeltermin | So | 09:00–17:00 | 21.06.2026 | — |
 
 ### MED43201 Wahlpflichtfach - SPAM - Sportmedizin in der Allgemeinmedizin: Bewegung als Medizin erleben — Seminar
 
@@ -11372,6 +11477,16 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **Turnus:** in jedem Semester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 10.04.2026 | — |
+| Einzeltermin | Sa | 09:00–16:00 | 11.04.2026 | — |
+| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
+| Einzeltermin | Sa | 09:00–16:00 | 25.04.2026 | — |
+| Einzeltermin | Fr | 14:00–16:00 | 08.05.2026 | — |
+
 ### MED46541 Wahlpflichtfach - Hands ON !- (Ganzkörper-)Untersuchungkurs Allgemeinmedizin — Seminar
 
 - **Segment:** `unit:113415` · **unitId:** `113415`
@@ -11404,26 +11519,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Fr | 14:30–18:30 | 24.04.2026–22.05.2026 | — |
 | Einzeltermin | Fr | 14:30–19:30 | 29.05.2026 | — |
 
-### MED46611 Wahlpflichtfach - Einführung in die Kinder- und Jugendpsychiatrie, -psychotherapie — Seminar
-
-- **Segment:** `unit:120911` · **unitId:** `120911`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120911&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 15:00–18:00 | 08.05.2026 | — |
-| Einzeltermin | Fr | 15:00–18:00 | 15.05.2026 | — |
-| Einzeltermin | Fr | 15:00–18:00 | 22.05.2026 | — |
-| Einzeltermin | Fr | 15:00–18:00 | 29.05.2026 | — |
-| Einzeltermin | Fr | 15:00–18:00 | 19.06.2026 | — |
-| Einzeltermin | Fr | 15:00–18:00 | 26.06.2026 | — |
-
 ### MED46751 Anatomie am Lebenden — Seminar
 
 - **Segment:** `unit:82595` · **unitId:** `82595`
@@ -11446,7 +11541,17 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93712&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 16:30–18:30 | 20.04.2026 | — |
+| Einzeltermin | Mo | 16:30–18:30 | 18.05.2026 | — |
+| Blockveranstaltung+Sa | — | 00:00–00:01 | 13.06.2026 | — |
+| Einzeltermin | Mo | 16:30–18:30 | 15.06.2026 | — |
 
 ### MED76701 Wahlpflichtfach - Differentialdiagnosen in der Pathologie: Mikroskopieren leicht gemacht - Wahlpflichtfach Angebot 01 — Seminar
 
@@ -11638,15 +11743,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
-### Persisch II — Übung
-
-- **Segment:** `unit:112358` · **unitId:** `112358`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112358&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
 ### Polnisch: Elementarkurs I — Übung
 
 - **Segment:** `unit:88090` · **unitId:** `88090`
@@ -11773,15 +11869,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.5
 - **Turnus:** Unregelmäßig
 
-### Russisch C1: Schriftlicher Ausdruck II - Dieser Kurs entfällt leider!!! — Übung
-
-- **Segment:** `unit:96379` · **unitId:** `96379`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96379&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
 ### Russisch: Schriftlicher Ausdruck 1 — Übung
 
 - **Segment:** `unit:98903` · **unitId:** `98903`
@@ -11861,15 +11948,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
-### Spanisch 1f (Niveau A1) — Übung
-
-- **Segment:** `unit:92625` · **unitId:** `92625`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92625&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
 ### Spanisch 1g (Niveau A1) — Übung
 
 - **Segment:** `unit:92641` · **unitId:** `92641`
@@ -11879,37 +11957,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### Spanisch 2a  (Niveau A2) — Übung
-
-- **Segment:** `unit:95479` · **unitId:** `95479`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95479&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### Spanisch 2b (Niveau A2) — Übung
-
-- **Segment:** `unit:86137` · **unitId:** `86137`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86137&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nicht in diesem Semester
-
 ### Spanisch 2c (Niveau A2) — Übung
 
 - **Segment:** `unit:85619` · **unitId:** `85619`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85619&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
-
-### Spanisch 2d (Niveau A2) online — Übung
-
-- **Segment:** `unit:85552` · **unitId:** `85552`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85552&periodId=589>
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
@@ -11933,15 +11984,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Sommersemester
 
-### Spanisch: Elementarkurs I  B (Blended Learning-Kurs - 2 SWS in Präsenz) — Übung
-
-- **Segment:** `unit:98588` · **unitId:** `98588`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98588&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
-
 ### Spanisch: Elementarkurs I (Blended Learning-Kurs - 2 SWS in Präsenz) — Übung
 
 - **Segment:** `unit:82394` · **unitId:** `82394`
@@ -11964,15 +12006,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:88089` · **unitId:** `88089`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88089&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
-
-### Spanisch: Elementarkurs I G (Blended Learning-Kurs - 2 SWS in Präsenz) — Übung
-
-- **Segment:** `unit:104654` · **unitId:** `104654`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104654&periodId=589>
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
@@ -12014,15 +12047,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** in jedem Semester
 
-### Spanisch: Elementarkurs IV B (Blended-Learning-Kurs - 2 SWS in Präsenz) — Übung
-
-- **Segment:** `unit:95890` · **unitId:** `95890`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95890&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
-
 ### Spanisch: España actual — Übung
 
 - **Segment:** `unit:94149` · **unitId:** `94149`
@@ -12054,15 +12078,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Swahili I Online — Kurs
-
-- **Segment:** `unit:111616` · **unitId:** `111616`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111616&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **ECTS-Punkte:** 2.5
-- **Turnus:** in jedem Semester
-
 ### Testkurs — Übung
 
 - **Segment:** `unit:105966` · **unitId:** `105966`
@@ -12089,15 +12104,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
-
-### Tschechisch: Elementarkurs III — Übung
-
-- **Segment:** `unit:116923` · **unitId:** `116923`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116923&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** Unregelmäßig
 
 ### V-PS 16 Medizinische Terminologie für Human- und Zahnmediziner - Ferienblockkurs als Kurs vor Beginn der Vorlesungszeit
 
@@ -12237,7 +12243,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 13:15–18:00 | 14.04.2026–14.07.2026 | 06701.00.015 (Kurs- und Seminarraum Physiologie 2) |
+| wöchentlich | Di | 13:15–18:00 | 14.04.2026–14.07.2026 | 06701.00.014 (Hörsaal Physiologie 2) |
 
 ### V-PS4B/1-P4 Praktikum Neurophysiologie
 
@@ -12245,7 +12251,38 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88140&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 08:00–19:00 | 07.04.2026–10.04.2026 | 00601.00.015 (KR 1, Physio 1) |
+| Blockveranstaltung | — | 08:00–19:00 | 07.04.2026–10.04.2026 | 00601.00.016 (Prak_Physio 1) |
+| Blockveranstaltung | — | 08:00–19:00 | 07.04.2026–10.04.2026 | 00601.00.017 |
+| Blockveranstaltung | — | 08:00–19:00 | 07.04.2026–10.04.2026 | 00601.00.018 |
+| Blockveranstaltung | — | 08:00–19:00 | 07.04.2026–10.04.2026 | 00601.00.011 |
+| wöchentlich | Mo | 14:15–18:00 | 13.04.2026–27.04.2026 | 00601.00.015 (KR 1, Physio 1) |
+| wöchentlich | Mo | 14:15–18:00 | 13.04.2026–27.04.2026 | 00601.00.016 (Prak_Physio 1) |
+| wöchentlich | Mo | 14:15–18:00 | 13.04.2026–27.04.2026 | 00601.00.017 |
+| wöchentlich | Mo | 14:15–18:00 | 13.04.2026–27.04.2026 | 00601.00.018 |
+| wöchentlich | Mo | 14:15–18:00 | 13.04.2026–27.04.2026 | 00601.00.011 |
+| wöchentlich | Di | 14:15–18:00 | 14.04.2026–12.05.2026 | 00601.00.015 (KR 1, Physio 1) |
+| wöchentlich | Di | 14:15–18:00 | 14.04.2026–12.05.2026 | 00601.00.016 (Prak_Physio 1) |
+| wöchentlich | Di | 14:15–18:00 | 14.04.2026–12.05.2026 | 00601.00.017 |
+| wöchentlich | Di | 14:15–18:00 | 14.04.2026–12.05.2026 | 00601.00.018 |
+| wöchentlich | Di | 14:15–18:00 | 14.04.2026–12.05.2026 | 00601.00.011 |
+| wöchentlich | Mi | 14:15–18:00 | 15.04.2026–29.04.2026 | 00601.00.016 (Prak_Physio 1) |
+| wöchentlich | Mi | 14:15–18:00 | 15.04.2026–29.04.2026 | 00601.00.017 |
+| wöchentlich | Mi | 14:15–18:00 | 15.04.2026–29.04.2026 | 00601.00.011 |
+| wöchentlich | Mi | 14:15–18:00 | 15.04.2026–06.05.2026 | 00601.00.015 (KR 1, Physio 1) |
+| wöchentlich | Mi | 14:15–18:00 | 15.04.2026–06.05.2026 | 00601.00.018 |
+| wöchentlich | Do | 14:15–18:00 | 16.04.2026–07.05.2026 | 00601.00.017 |
+| wöchentlich | Do | 14:15–18:00 | 16.04.2026–07.05.2026 | 00601.00.018 |
+| wöchentlich | Do | 14:15–18:00 | 16.04.2026–07.05.2026 | 00601.00.011 |
+| wöchentlich | Do | 14:15–18:00 | 16.04.2026–07.05.2026 | 00601.00.015 (KR 1, Physio 1) |
+| wöchentlich | Do | 14:15–18:00 | 16.04.2026–07.05.2026 | 00601.00.016 (Prak_Physio 1) |
 
 ### V-PS5A Seminar Vegetative Physiologie
 
@@ -12457,7 +12494,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87366&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 08:00–10:00 | 15.04.2026–08.07.2026 | 11907.01.040 (H18) |
+| wöchentlich | Fr | 08:00–10:00 | 17.04.2026–10.07.2026 | 11907.01.040 (H18) |
 
 ### V-V4 Vorlesung zur Biochemischen Propädeutik
 
@@ -12499,7 +12544,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89906&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:15–11:00 | 20.04.2026–06.07.2026 | 03006.00.607 (Hörsaal 1 - Östliche Stadtmauerstraße 11) |
+| wöchentlich | Di | 10:15–12:00 | 21.04.2026–07.07.2026 | 03006.00.607 (Hörsaal 1 - Östliche Stadtmauerstraße 11) |
 
 ### V-V7 Vorlesung Topographische Anatomie (2. Sem. Humanmedizin)
 

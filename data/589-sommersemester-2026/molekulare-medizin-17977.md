@@ -1852,15 +1852,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92673&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 13:15–18:30 | 13.04.2026–13.07.2026 | 06901.00.029 (Kursraum Biochemie) |
-| wöchentlich | Mo | 13:15–18:30 | 13.04.2026–13.07.2026 | 06901.00.024 (Kursraum Biochemie) |
 
 ### BiochemPraktMM - Praktikum II Biochemie/Molekularbiologie Molekulare Medizin - SS - Praktikum
 
@@ -1869,15 +1861,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92673&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 13:15–18:30 | 13.04.2026–13.07.2026 | 06901.00.029 (Kursraum Biochemie) |
-| wöchentlich | Mo | 13:15–18:30 | 13.04.2026–13.07.2026 | 06901.00.024 (Kursraum Biochemie) |
 
 ### BiochemPraktMM - Praktikum II Biochemie/Molekularbiologie Molekulare Medizin - SS - Praktikum
 
@@ -1886,15 +1870,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92673&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 13:15–18:30 | 13.04.2026–13.07.2026 | 06901.00.029 (Kursraum Biochemie) |
-| wöchentlich | Mo | 13:15–18:30 | 13.04.2026–13.07.2026 | 06901.00.024 (Kursraum Biochemie) |
 
 ### BiochemPropäd - V-V4 Vorlesung zur Biochemischen Propädeutik - Vorlesung
 
@@ -2105,7 +2081,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 08:00–16:00 | 21.09.2026–09.10.2026 | — |
 
 ### F-MolMed (in Gruppen) - F-Praktikum Virologie (in Gruppen)  - Übung
 
@@ -2115,7 +2098,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 08:00–16:00 | 21.09.2026–09.10.2026 | — |
 
 ### F1-MM - Humangenetisches Blockpraktikum (F1) für BSc-Studiengang Molekulare Medizin - Praktikum
 
@@ -2146,14 +2136,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93116&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 11:15–13:00 | 16.04.2026–16.07.2026 | 06901.01.0231 (Großer Seminarraum Biochemie) |
 
 ### Grundzüge der Mol Med - Grundzüge - Molekulare Medizin - SS - Seminar
 
@@ -2162,14 +2145,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93116&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 11:15–13:00 | 16.04.2026–16.07.2026 | 06901.01.0231 (Großer Seminarraum Biochemie) |
 
 ### Grundzüge der Mol Med - Grundzüge - Molekulare Medizin - SS - Seminar
 
@@ -2178,14 +2154,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93116&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 11:15–13:00 | 16.04.2026–16.07.2026 | 06901.01.0231 (Großer Seminarraum Biochemie) |
 
 ### K-PS 5 - K-PS 5 Vorlesung und Seminar Geschichte, Theorie, Ethik der Medizin (GTE), Q2 - Seminar
 
@@ -2248,7 +2217,20 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93485&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Di | 16:15–17:45 | 05.05.2026 | — |
+| Einzeltermin | Di | 16:15–17:45 | 12.05.2026 | — |
+| Einzeltermin | Di | 16:15–17:45 | 19.05.2026 | — |
+| Einzeltermin | Di | 16:15–17:45 | 09.06.2026 | — |
+| Einzeltermin | Di | 16:15–17:45 | 16.06.2026 | — |
+| Einzeltermin | Di | 16:15–17:45 | 23.06.2026 | — |
+| Einzeltermin | Di | 16:15–17:45 | 30.06.2026 | — |
 
 ### K-PS15 - K-PS15 Übung Histopathologie - Übung
 
@@ -2257,7 +2239,20 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93485&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Di | 16:15–17:45 | 05.05.2026 | — |
+| Einzeltermin | Di | 16:15–17:45 | 12.05.2026 | — |
+| Einzeltermin | Di | 16:15–17:45 | 19.05.2026 | — |
+| Einzeltermin | Di | 16:15–17:45 | 09.06.2026 | — |
+| Einzeltermin | Di | 16:15–17:45 | 16.06.2026 | — |
+| Einzeltermin | Di | 16:15–17:45 | 23.06.2026 | — |
+| Einzeltermin | Di | 16:15–17:45 | 30.06.2026 | — |
 
 ### K-PS15 - K-PS15 Übung Histopathologie - Übung
 
@@ -2266,7 +2261,20 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93485&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Di | 16:15–17:45 | 05.05.2026 | — |
+| Einzeltermin | Di | 16:15–17:45 | 12.05.2026 | — |
+| Einzeltermin | Di | 16:15–17:45 | 19.05.2026 | — |
+| Einzeltermin | Di | 16:15–17:45 | 09.06.2026 | — |
+| Einzeltermin | Di | 16:15–17:45 | 16.06.2026 | — |
+| Einzeltermin | Di | 16:15–17:45 | 23.06.2026 | — |
+| Einzeltermin | Di | 16:15–17:45 | 30.06.2026 | — |
 
 ### K-PS15 - K-PS15 Übung Makropathologie (PathoÄAppO2) - Übung
 
@@ -2330,7 +2338,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 12:15–13:00 | 20.04.2026–13.07.2026 | — |
+| wöchentlich | Mo | 11:15–12:00 | 20.04.2026–13.07.2026 | — |
 
 ### K-PS16 - K-PS16 Übung Histopathologie - Übung
 
@@ -2346,7 +2354,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 12:15–13:00 | 20.04.2026–13.07.2026 | — |
+| wöchentlich | Mo | 11:15–12:00 | 20.04.2026–13.07.2026 | — |
 
 ### K-PS16 - K-PS16 Übung Histopathologie - Übung
 
@@ -2362,7 +2370,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 12:15–13:00 | 20.04.2026–13.07.2026 | — |
+| wöchentlich | Mo | 11:15–12:00 | 20.04.2026–13.07.2026 | — |
 
 ### K-V6 - K-V6 Vorlesung Pharmakologie - Vorlesung
 
@@ -2422,14 +2430,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85188&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 06901.01.0231 (Großer Seminarraum Biochemie) |
 
 ### KomSemMM - Kompaktseminar Biochemie - Molekulare Medizin - WS - Seminar
 
@@ -2438,14 +2439,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85188&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 06901.01.0231 (Großer Seminarraum Biochemie) |
 
 ### Methodenseminar MM - Methodenseminar - Molekulare Medizin - SS - Seminar
 
@@ -2454,7 +2448,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85577&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | 06901.01.0231 (Großer Seminarraum Biochemie) |
 
 ### Methodenseminar MM - Methodenseminar - Molekulare Medizin - SS - Seminar
 
@@ -2463,7 +2464,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85577&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | 06901.01.0231 (Großer Seminarraum Biochemie) |
 
 ### MikMol.KU - Vorlesung und Praktikum der Molekularen Mikrobiologie u. Infektionsimmunologie f. Studenten d. Molekularen Medizin (Bachelorstudiengang) - Kurs
 
@@ -2530,7 +2538,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 16:00–19:00 | 23.04.2026–16.07.2026 | 06902.00.205 (SR Pharmakologie) |
 
 ### OC 34 - Organisch-chemisches Praktikum für Studierende der Biologie und der Molekularen Medizin - Praktikum
 
@@ -2587,15 +2602,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86433&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 14.04.2026–19.05.2026 | 06901.00.035 (Hörsaal Biochemie) |
-| wöchentlich | Do | 14:15–15:45 | 16.04.2026–07.05.2026 | 06901.00.035 (Hörsaal Biochemie) |
 
 ### PC II Mol. Med. - V - Physikalische Chemie II für Mol. Med. - Vorlesung
 
@@ -2604,15 +2611,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86433&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 14.04.2026–19.05.2026 | 06901.00.035 (Hörsaal Biochemie) |
-| wöchentlich | Do | 14:15–15:45 | 16.04.2026–07.05.2026 | 06901.00.035 (Hörsaal Biochemie) |
 
 ### PC II Mol. Med. - V - Physikalische Chemie II für Mol. Med. - Vorlesung
 
@@ -2621,15 +2620,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86433&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 14.04.2026–19.05.2026 | 06901.00.035 (Hörsaal Biochemie) |
-| wöchentlich | Do | 14:15–15:45 | 16.04.2026–07.05.2026 | 06901.00.035 (Hörsaal Biochemie) |
 
 ### PC Mol. Med. - PR - Physikalisch-chemisches Praktikum für Mol. Med. - Praktikum
 
@@ -2678,7 +2669,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 13:15–18:00 | 14.04.2026–14.07.2026 | 06701.00.015 (Kurs- und Seminarraum Physiologie 2) |
+| wöchentlich | Di | 13:15–18:00 | 14.04.2026–14.07.2026 | 06701.00.014 (Hörsaal Physiologie 2) |
 
 ### V-PS4A/1-P3 - V-PS4A/1-P3 Praktikum Vegetative Physiologie - Praktikum
 
@@ -2694,7 +2685,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 13:15–18:00 | 14.04.2026–14.07.2026 | 06701.00.015 (Kurs- und Seminarraum Physiologie 2) |
+| wöchentlich | Di | 13:15–18:00 | 14.04.2026–14.07.2026 | 06701.00.014 (Hörsaal Physiologie 2) |
 
 ### V-PS4A/1-P3 - V-PS4A/1-P3 Praktikum Vegetative Physiologie - Praktikum
 
@@ -2710,7 +2701,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 13:15–18:00 | 14.04.2026–14.07.2026 | 06701.00.015 (Kurs- und Seminarraum Physiologie 2) |
+| wöchentlich | Di | 13:15–18:00 | 14.04.2026–14.07.2026 | 06701.00.014 (Hörsaal Physiologie 2) |
 
 ### V-PS4B/1-P4 - V-PS4B/1-P4 Praktikum Neurophysiologie - Praktikum
 
@@ -2719,7 +2710,38 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88140&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 08:00–19:00 | 07.04.2026–10.04.2026 | 00601.00.015 (KR 1, Physio 1) |
+| Blockveranstaltung | — | 08:00–19:00 | 07.04.2026–10.04.2026 | 00601.00.016 (Prak_Physio 1) |
+| Blockveranstaltung | — | 08:00–19:00 | 07.04.2026–10.04.2026 | 00601.00.017 |
+| Blockveranstaltung | — | 08:00–19:00 | 07.04.2026–10.04.2026 | 00601.00.018 |
+| Blockveranstaltung | — | 08:00–19:00 | 07.04.2026–10.04.2026 | 00601.00.011 |
+| wöchentlich | Mo | 14:15–18:00 | 13.04.2026–27.04.2026 | 00601.00.015 (KR 1, Physio 1) |
+| wöchentlich | Mo | 14:15–18:00 | 13.04.2026–27.04.2026 | 00601.00.016 (Prak_Physio 1) |
+| wöchentlich | Mo | 14:15–18:00 | 13.04.2026–27.04.2026 | 00601.00.017 |
+| wöchentlich | Mo | 14:15–18:00 | 13.04.2026–27.04.2026 | 00601.00.018 |
+| wöchentlich | Mo | 14:15–18:00 | 13.04.2026–27.04.2026 | 00601.00.011 |
+| wöchentlich | Di | 14:15–18:00 | 14.04.2026–12.05.2026 | 00601.00.015 (KR 1, Physio 1) |
+| wöchentlich | Di | 14:15–18:00 | 14.04.2026–12.05.2026 | 00601.00.016 (Prak_Physio 1) |
+| wöchentlich | Di | 14:15–18:00 | 14.04.2026–12.05.2026 | 00601.00.017 |
+| wöchentlich | Di | 14:15–18:00 | 14.04.2026–12.05.2026 | 00601.00.018 |
+| wöchentlich | Di | 14:15–18:00 | 14.04.2026–12.05.2026 | 00601.00.011 |
+| wöchentlich | Mi | 14:15–18:00 | 15.04.2026–29.04.2026 | 00601.00.016 (Prak_Physio 1) |
+| wöchentlich | Mi | 14:15–18:00 | 15.04.2026–29.04.2026 | 00601.00.017 |
+| wöchentlich | Mi | 14:15–18:00 | 15.04.2026–29.04.2026 | 00601.00.011 |
+| wöchentlich | Mi | 14:15–18:00 | 15.04.2026–06.05.2026 | 00601.00.015 (KR 1, Physio 1) |
+| wöchentlich | Mi | 14:15–18:00 | 15.04.2026–06.05.2026 | 00601.00.018 |
+| wöchentlich | Do | 14:15–18:00 | 16.04.2026–07.05.2026 | 00601.00.017 |
+| wöchentlich | Do | 14:15–18:00 | 16.04.2026–07.05.2026 | 00601.00.018 |
+| wöchentlich | Do | 14:15–18:00 | 16.04.2026–07.05.2026 | 00601.00.011 |
+| wöchentlich | Do | 14:15–18:00 | 16.04.2026–07.05.2026 | 00601.00.015 (KR 1, Physio 1) |
+| wöchentlich | Do | 14:15–18:00 | 16.04.2026–07.05.2026 | 00601.00.016 (Prak_Physio 1) |
 
 ### V-PS4B/1-P4 - V-PS4B/1-P4 Praktikum Neurophysiologie - Praktikum
 
@@ -2728,7 +2750,38 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88140&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 08:00–19:00 | 07.04.2026–10.04.2026 | 00601.00.015 (KR 1, Physio 1) |
+| Blockveranstaltung | — | 08:00–19:00 | 07.04.2026–10.04.2026 | 00601.00.016 (Prak_Physio 1) |
+| Blockveranstaltung | — | 08:00–19:00 | 07.04.2026–10.04.2026 | 00601.00.017 |
+| Blockveranstaltung | — | 08:00–19:00 | 07.04.2026–10.04.2026 | 00601.00.018 |
+| Blockveranstaltung | — | 08:00–19:00 | 07.04.2026–10.04.2026 | 00601.00.011 |
+| wöchentlich | Mo | 14:15–18:00 | 13.04.2026–27.04.2026 | 00601.00.015 (KR 1, Physio 1) |
+| wöchentlich | Mo | 14:15–18:00 | 13.04.2026–27.04.2026 | 00601.00.016 (Prak_Physio 1) |
+| wöchentlich | Mo | 14:15–18:00 | 13.04.2026–27.04.2026 | 00601.00.017 |
+| wöchentlich | Mo | 14:15–18:00 | 13.04.2026–27.04.2026 | 00601.00.018 |
+| wöchentlich | Mo | 14:15–18:00 | 13.04.2026–27.04.2026 | 00601.00.011 |
+| wöchentlich | Di | 14:15–18:00 | 14.04.2026–12.05.2026 | 00601.00.015 (KR 1, Physio 1) |
+| wöchentlich | Di | 14:15–18:00 | 14.04.2026–12.05.2026 | 00601.00.016 (Prak_Physio 1) |
+| wöchentlich | Di | 14:15–18:00 | 14.04.2026–12.05.2026 | 00601.00.017 |
+| wöchentlich | Di | 14:15–18:00 | 14.04.2026–12.05.2026 | 00601.00.018 |
+| wöchentlich | Di | 14:15–18:00 | 14.04.2026–12.05.2026 | 00601.00.011 |
+| wöchentlich | Mi | 14:15–18:00 | 15.04.2026–29.04.2026 | 00601.00.016 (Prak_Physio 1) |
+| wöchentlich | Mi | 14:15–18:00 | 15.04.2026–29.04.2026 | 00601.00.017 |
+| wöchentlich | Mi | 14:15–18:00 | 15.04.2026–29.04.2026 | 00601.00.011 |
+| wöchentlich | Mi | 14:15–18:00 | 15.04.2026–06.05.2026 | 00601.00.015 (KR 1, Physio 1) |
+| wöchentlich | Mi | 14:15–18:00 | 15.04.2026–06.05.2026 | 00601.00.018 |
+| wöchentlich | Do | 14:15–18:00 | 16.04.2026–07.05.2026 | 00601.00.017 |
+| wöchentlich | Do | 14:15–18:00 | 16.04.2026–07.05.2026 | 00601.00.018 |
+| wöchentlich | Do | 14:15–18:00 | 16.04.2026–07.05.2026 | 00601.00.011 |
+| wöchentlich | Do | 14:15–18:00 | 16.04.2026–07.05.2026 | 00601.00.015 (KR 1, Physio 1) |
+| wöchentlich | Do | 14:15–18:00 | 16.04.2026–07.05.2026 | 00601.00.016 (Prak_Physio 1) |
 
 ### V-PS4B/1-P4 - V-PS4B/1-P4 Praktikum Neurophysiologie - Praktikum
 
@@ -2737,7 +2790,38 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88140&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 08:00–19:00 | 07.04.2026–10.04.2026 | 00601.00.015 (KR 1, Physio 1) |
+| Blockveranstaltung | — | 08:00–19:00 | 07.04.2026–10.04.2026 | 00601.00.016 (Prak_Physio 1) |
+| Blockveranstaltung | — | 08:00–19:00 | 07.04.2026–10.04.2026 | 00601.00.017 |
+| Blockveranstaltung | — | 08:00–19:00 | 07.04.2026–10.04.2026 | 00601.00.018 |
+| Blockveranstaltung | — | 08:00–19:00 | 07.04.2026–10.04.2026 | 00601.00.011 |
+| wöchentlich | Mo | 14:15–18:00 | 13.04.2026–27.04.2026 | 00601.00.015 (KR 1, Physio 1) |
+| wöchentlich | Mo | 14:15–18:00 | 13.04.2026–27.04.2026 | 00601.00.016 (Prak_Physio 1) |
+| wöchentlich | Mo | 14:15–18:00 | 13.04.2026–27.04.2026 | 00601.00.017 |
+| wöchentlich | Mo | 14:15–18:00 | 13.04.2026–27.04.2026 | 00601.00.018 |
+| wöchentlich | Mo | 14:15–18:00 | 13.04.2026–27.04.2026 | 00601.00.011 |
+| wöchentlich | Di | 14:15–18:00 | 14.04.2026–12.05.2026 | 00601.00.015 (KR 1, Physio 1) |
+| wöchentlich | Di | 14:15–18:00 | 14.04.2026–12.05.2026 | 00601.00.016 (Prak_Physio 1) |
+| wöchentlich | Di | 14:15–18:00 | 14.04.2026–12.05.2026 | 00601.00.017 |
+| wöchentlich | Di | 14:15–18:00 | 14.04.2026–12.05.2026 | 00601.00.018 |
+| wöchentlich | Di | 14:15–18:00 | 14.04.2026–12.05.2026 | 00601.00.011 |
+| wöchentlich | Mi | 14:15–18:00 | 15.04.2026–29.04.2026 | 00601.00.016 (Prak_Physio 1) |
+| wöchentlich | Mi | 14:15–18:00 | 15.04.2026–29.04.2026 | 00601.00.017 |
+| wöchentlich | Mi | 14:15–18:00 | 15.04.2026–29.04.2026 | 00601.00.011 |
+| wöchentlich | Mi | 14:15–18:00 | 15.04.2026–06.05.2026 | 00601.00.015 (KR 1, Physio 1) |
+| wöchentlich | Mi | 14:15–18:00 | 15.04.2026–06.05.2026 | 00601.00.018 |
+| wöchentlich | Do | 14:15–18:00 | 16.04.2026–07.05.2026 | 00601.00.017 |
+| wöchentlich | Do | 14:15–18:00 | 16.04.2026–07.05.2026 | 00601.00.018 |
+| wöchentlich | Do | 14:15–18:00 | 16.04.2026–07.05.2026 | 00601.00.011 |
+| wöchentlich | Do | 14:15–18:00 | 16.04.2026–07.05.2026 | 00601.00.015 (KR 1, Physio 1) |
+| wöchentlich | Do | 14:15–18:00 | 16.04.2026–07.05.2026 | 00601.00.016 (Prak_Physio 1) |
 
 ### V-PS5B - V-PS5B Seminar Neurophysiologie - Seminar
 
@@ -3289,7 +3373,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | wöchentlich | Di | 13:30–15:00 | 14.04.2026–14.07.2026 | 01501.01.057 (Seminarraum Virologie) |
 | wöchentlich | Do | 12:30–14:00 | 16.04.2026–16.07.2026 | 01501.01.057 (Seminarraum Virologie) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (36)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (34)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -3300,14 +3384,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Advanced Lectures in Molecular Medicine 1 - Part Immunology — Vorlesung
-
-- **Segment:** `unit:108956` · **unitId:** `108956`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=108956&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Wintersemester
 
 ### Allgemeine Histologie und Embryologie (Teilleistung 1) — Kurs
@@ -3457,14 +3533,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Kurs
 - **Turnus:** nur im Wintersemester
 
-### Kurs der mikroskopischen Anatomie für 2. Sem. Molekulare Medizin
-
-- **Segment:** `unit:100203` · **unitId:** `100203`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100203&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Turnus:** in jedem Semester
-
 ### Kurs Humangenetik für BSc-Studiengang Molekulare Medizin (Gruppenunterricht)
 
 - **Segment:** `unit:105335` · **unitId:** `105335`
@@ -3486,8 +3554,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 

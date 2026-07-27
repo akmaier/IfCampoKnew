@@ -1,7 +1,7 @@
 ---
 period_id: 565
 period_name: "Wintersemester 2025/26"
-program_count: 235
+program_count: 237
 ---
 
 # Wintersemester 2025/26 — Studiengänge
@@ -215,6 +215,8 @@ Dieses Verzeichnis enthält pro Campo-Studiengang **eine** Markdown-Datei mit al
 - [Theater- und Medienwissenschaft](theater-und-medienwissenschaft-17221.md)
 - [Theaterpädagogik](theaterpaedagogik-17212.md)
 - [Wirtschaftswissenschaften (ER)](wirtschaftswissenschaften-er-17189.md)
+- [Zusatzstudien "Gender 1 2 3"](zusatzstudien-gender-1-2-3-19479.md)
+- [Zusatzstudien "Inklusion: Vielfalt und Teilhabe im schulischen Kontext gestalten"](zusatzstudien-inklusion-vielfalt-und-teilhabe-im-schulischen-kontext-gestalten-19480.md)
 - [Ökonomie](oekonomie-17166.md)
 
 ## Studiengänge der Rechts- und Wirtschaftswissenschaftlichen Fakultät

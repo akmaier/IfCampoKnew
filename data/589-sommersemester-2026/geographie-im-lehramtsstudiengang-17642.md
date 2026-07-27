@@ -31,7 +31,14 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 11:30–13:00 | 13.04.2026–13.07.2026 | 20301.01.029 (1.029 Seminarraum (40)) 20301.U1.031 (U1.031 Seminarraum (40)) |
 
 ### Einführung in die Planung und Analyse von Geographieunterricht (P&A) Kurs D | GS-MS-RS-GY (in N, Mo 11:30h) - Seminar
 
@@ -41,7 +48,14 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 11:30–13:00 | 13.04.2026–13.07.2026 | 20301.01.029 (1.029 Seminarraum (40)) 20301.U1.031 (U1.031 Seminarraum (40)) |
 
 ### Einführung in die Planung und Analyse von Geographieunterricht (P&A) Kurs D | GS-MS-RS-GY (in N, Mo 11:30h) - Seminar
 
@@ -51,7 +65,14 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 11:30–13:00 | 13.04.2026–13.07.2026 | 20301.01.029 (1.029 Seminarraum (40)) 20301.U1.031 (U1.031 Seminarraum (40)) |
 
 ### Einführung in die Planung und Analyse von Geographieunterricht (P&A) Kurs D | GS-MS-RS-GY (in N, Mo 11:30h) - Seminar
 
@@ -61,7 +82,14 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 11:30–13:00 | 13.04.2026–13.07.2026 | 20301.01.029 (1.029 Seminarraum (40)) 20301.U1.031 (U1.031 Seminarraum (40)) |
 
 ### Einführung in die Planung und Analyse von Geographieunterricht GS-MS-RS-GY | Kurs A (in ER / Do 10:15h) - Seminar
 
@@ -132,6 +160,12 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Veranstaltungsart:** Seminar
 - **Turnus:** nur im Sommersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 05901.01.053 ( 01.053) |
+
 ### Einführung in die Planung und Analyse von Geographieunterricht | GS-MS-RS-GY | Kurs B (in ER / Do 12:15h) - Seminar
 
 - **Segment:** `exam:14244969` · **unitId:** `109406`
@@ -140,6 +174,12 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Seminar
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 05901.01.053 ( 01.053) |
 
 ### Einführung in die Planung und Analyse von Geographieunterricht | GS-MS-RS-GY | Kurs B (in ER / Do 12:15h) - Seminar
 
@@ -150,6 +190,12 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Veranstaltungsart:** Seminar
 - **Turnus:** nur im Sommersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 05901.01.053 ( 01.053) |
+
 ### Einführung in die Planung und Analyse von Geographieunterricht | GS-MS-RS-GY | Kurs B (in ER / Do 12:15h) - Seminar
 
 - **Segment:** `exam:14245454` · **unitId:** `109406`
@@ -158,6 +204,12 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Seminar
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 05901.01.053 ( 01.053) |
 
 ### Einführung in die Planung und Analyse von Geographieunterricht |GS-MS-RS-GY Kurs C (in ER / Do 14:15h) - Seminar
 
@@ -479,7 +531,15 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:15–09:45 | 14.04.2026–14.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
+| Einzeltermin | Do | 17:15–18:30 | 15.10.2026 | 05901.00.040 ( HS C Hörsaal C - 00.[Telefon entfernt].00.210 (00.210 Seminarraum) |
 
 ### 40321 Grundvorlesung Kulturgeographie II - Leistung
 
@@ -3385,7 +3445,15 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91106&periodId=589>
 
 - **Veranstaltungsart:** Examensseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 15:00–17:45 | 13.04.2026–13.07.2026 | — |
+| wöchentlich | Mo | 16:15–17:45 | 13.04.2026–13.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
 
 ### Examen - Hauptseminar Staatsexamen - Examensseminar
 
@@ -3394,7 +3462,15 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91106&periodId=589>
 
 - **Veranstaltungsart:** Examensseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 15:00–17:45 | 13.04.2026–13.07.2026 | — |
+| wöchentlich | Mo | 16:15–17:45 | 13.04.2026–13.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
 
 ### Exkursionstag_Geodid - Fachdidaktischer Exkursionstag - historisch-genetische Stadtentwicklung Nürnbergs | FGGS (Sa, 30.05.26, 8-19h) Dozenten Kerscher, Stoller - Exkursion
 
@@ -3919,7 +3995,9 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
+| Einzeltermin | Di | 18:15–19:45 | 12.05.2026 | 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
+| Einzeltermin | Sa | 09:00–19:00 | 13.06.2026 | 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
+| Einzeltermin | Sa | 09:00–19:00 | 20.06.2026 | 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
 
 ### HS-Gl-Sem - Hauptseminar zum Großen Geländeseminar - Hauptseminar
 
@@ -4498,7 +4576,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 08:00–09:30 | 15.04.2026–15.07.2026 | 20301.01.029 (1.029 Seminarraum (40)) 20301.01.033 (1.033 Seminarraum (40)) |
+| wöchentlich | Do | 16:15–17:45 | 16.04.2026–16.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) 00501.01.021 ( KH 1.021 Hörsaal Kollegienhaus (SR)) |
 
 ### LvO_Geodid - Lernen vor Ort (Exkursionsdidaktik) | GS-MS-RS-GY - Seminar
 
@@ -4514,7 +4592,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 08:00–09:30 | 15.04.2026–15.07.2026 | 20301.01.029 (1.029 Seminarraum (40)) 20301.01.033 (1.033 Seminarraum (40)) |
+| wöchentlich | Do | 16:15–17:45 | 16.04.2026–16.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) 00501.01.021 ( KH 1.021 Hörsaal Kollegienhaus (SR)) |
 
 ### LvO_Geodid - Lernen vor Ort (Exkursionsdidaktik) | GS-MS-RS-GY - Seminar
 
@@ -4530,7 +4608,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 08:00–09:30 | 15.04.2026–15.07.2026 | 20301.01.029 (1.029 Seminarraum (40)) 20301.01.033 (1.033 Seminarraum (40)) |
+| wöchentlich | Do | 16:15–17:45 | 16.04.2026–16.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) 00501.01.021 ( KH 1.021 Hörsaal Kollegienhaus (SR)) |
 
 ### LvO_Geodid - Lernen vor Ort (Exkursionsdidaktik) | GS-MS-RS-GY - Seminar
 
@@ -4546,7 +4624,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 08:00–09:30 | 15.04.2026–15.07.2026 | 20301.01.029 (1.029 Seminarraum (40)) 20301.01.033 (1.033 Seminarraum (40)) |
+| wöchentlich | Do | 16:15–17:45 | 16.04.2026–16.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) 00501.01.021 ( KH 1.021 Hörsaal Kollegienhaus (SR)) |
 
 ### LvO_Geodid - Lernen vor Ort (Exkursionsdidaktik) | GS-MS-RS-GY - Seminar
 
@@ -4562,7 +4640,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 08:00–09:30 | 15.04.2026–15.07.2026 | 20301.01.029 (1.029 Seminarraum (40)) 20301.01.033 (1.033 Seminarraum (40)) |
+| wöchentlich | Do | 16:15–17:45 | 16.04.2026–16.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) 00501.01.021 ( KH 1.021 Hörsaal Kollegienhaus (SR)) |
 
 ### LvO_Geodid - Lernen vor Ort (Exkursionsdidaktik) | GS-MS-RS-GY - Seminar
 
@@ -4578,7 +4656,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 08:00–09:30 | 15.04.2026–15.07.2026 | 20301.01.029 (1.029 Seminarraum (40)) 20301.01.033 (1.033 Seminarraum (40)) |
+| wöchentlich | Do | 16:15–17:45 | 16.04.2026–16.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) 00501.01.021 ( KH 1.021 Hörsaal Kollegienhaus (SR)) |
 
 ### LvO_Geodid - Lernen vor Ort (Exkursionsdidaktik) | GS-MS-RS-GY - Seminar
 
@@ -4594,7 +4672,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 08:00–09:30 | 15.04.2026–15.07.2026 | 20301.01.029 (1.029 Seminarraum (40)) 20301.01.033 (1.033 Seminarraum (40)) |
+| wöchentlich | Do | 16:15–17:45 | 16.04.2026–16.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) 00501.01.021 ( KH 1.021 Hörsaal Kollegienhaus (SR)) |
 
 ### LvO_Geodid - Lernen vor Ort (Exkursionsdidaktik) | GS-MS-RS-GY - Seminar
 
@@ -4610,7 +4688,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 08:00–09:30 | 15.04.2026–15.07.2026 | 20301.01.029 (1.029 Seminarraum (40)) 20301.01.033 (1.033 Seminarraum (40)) |
+| wöchentlich | Do | 16:15–17:45 | 16.04.2026–16.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) 00501.01.021 ( KH 1.021 Hörsaal Kollegienhaus (SR)) |
 
 ### LvO_Geodid - Lernen vor Ort (Exkursionsdidaktik) | GS-MS-RS-GY - Seminar
 
@@ -4626,7 +4704,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 08:00–09:30 | 15.04.2026–15.07.2026 | 20301.01.029 (1.029 Seminarraum (40)) 20301.01.033 (1.033 Seminarraum (40)) |
+| wöchentlich | Do | 16:15–17:45 | 16.04.2026–16.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) 00501.01.021 ( KH 1.021 Hörsaal Kollegienhaus (SR)) |
 
 ### LvO_Geodid - Lernen vor Ort (Exkursionsdidaktik) | GS-MS-RS-GY - Seminar
 
@@ -4642,7 +4720,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 08:00–09:30 | 15.04.2026–15.07.2026 | 20301.01.029 (1.029 Seminarraum (40)) 20301.01.033 (1.033 Seminarraum (40)) |
+| wöchentlich | Do | 16:15–17:45 | 16.04.2026–16.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) 00501.01.021 ( KH 1.021 Hörsaal Kollegienhaus (SR)) |
 
 ### LvO_Geodid - Lernen vor Ort (Exkursionsdidaktik) | GS-MS-RS-GY - Seminar
 
@@ -4658,7 +4736,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 08:00–09:30 | 15.04.2026–15.07.2026 | 20301.01.029 (1.029 Seminarraum (40)) 20301.01.033 (1.033 Seminarraum (40)) |
+| wöchentlich | Do | 16:15–17:45 | 16.04.2026–16.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) 00501.01.021 ( KH 1.021 Hörsaal Kollegienhaus (SR)) |
 
 ### LvO_Geodid - Lernen vor Ort (Exkursionsdidaktik) | GS-MS-RS-GY - Seminar
 
@@ -4674,7 +4752,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 08:00–09:30 | 15.04.2026–15.07.2026 | 20301.01.029 (1.029 Seminarraum (40)) 20301.01.033 (1.033 Seminarraum (40)) |
+| wöchentlich | Do | 16:15–17:45 | 16.04.2026–16.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) 00501.01.021 ( KH 1.021 Hörsaal Kollegienhaus (SR)) |
 
 ### P&A_GS_e - Einführung in die Planung und Analyse von Geographieunterricht (P&A) Kurs E | GS-MS-RS-GY (in N / Mo, 14:00h) - Seminar
 
@@ -5263,8 +5341,8 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 14:15–15:15 | 05.02.2026 | 55801.00.215 (00.215 Seminarraum) |
-| wöchentlich | Mo | 14:15–15:45 | 20.04.2026–13.07.2026 | 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
+| Einzeltermin | Mo | 16:00–17:00 | 13.04.2026 | — |
+| wöchentlich | Do | 14:15–17:45 | 23.04.2026–28.05.2026 | 55801.00.210 (00.210 Seminarraum) 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
 
 ### Sem-KG - Hauptseminar Kulturgeographie - Hauptseminar
 
@@ -5281,8 +5359,8 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 14:15–15:15 | 05.02.2026 | 55801.00.215 (00.215 Seminarraum) |
-| wöchentlich | Mo | 14:15–15:45 | 20.04.2026–13.07.2026 | 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
+| Einzeltermin | Mo | 16:00–17:00 | 13.04.2026 | — |
+| wöchentlich | Do | 14:15–17:45 | 23.04.2026–28.05.2026 | 55801.00.210 (00.210 Seminarraum) 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
 
 ### Sem-KG - Hauptseminar Kulturgeographie - Hauptseminar
 
@@ -5299,8 +5377,8 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 14:15–15:15 | 05.02.2026 | 55801.00.215 (00.215 Seminarraum) |
-| wöchentlich | Mo | 14:15–15:45 | 20.04.2026–13.07.2026 | 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
+| Einzeltermin | Mo | 16:00–17:00 | 13.04.2026 | — |
+| wöchentlich | Do | 14:15–17:45 | 23.04.2026–28.05.2026 | 55801.00.210 (00.210 Seminarraum) 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
 
 ### Sem-KG - Hauptseminar Kulturgeographie - Hauptseminar
 
@@ -5317,8 +5395,8 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 14:15–15:15 | 05.02.2026 | 55801.00.215 (00.215 Seminarraum) |
-| wöchentlich | Mo | 14:15–15:45 | 20.04.2026–13.07.2026 | 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
+| Einzeltermin | Mo | 16:00–17:00 | 13.04.2026 | — |
+| wöchentlich | Do | 14:15–17:45 | 23.04.2026–28.05.2026 | 55801.00.210 (00.210 Seminarraum) 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
 
 ### Sem-KG - Hauptseminar Kulturgeographie - Hauptseminar
 
@@ -5335,8 +5413,8 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 14:15–15:15 | 05.02.2026 | 55801.00.215 (00.215 Seminarraum) |
-| wöchentlich | Mo | 14:15–15:45 | 20.04.2026–13.07.2026 | 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
+| Einzeltermin | Mo | 16:00–17:00 | 13.04.2026 | — |
+| wöchentlich | Do | 14:15–17:45 | 23.04.2026–28.05.2026 | 55801.00.210 (00.210 Seminarraum) 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
 
 ### Sem-KG - Hauptseminar Kulturgeographie - Hauptseminar
 
@@ -5353,8 +5431,8 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 14:15–15:15 | 05.02.2026 | 55801.00.215 (00.215 Seminarraum) |
-| wöchentlich | Mo | 14:15–15:45 | 20.04.2026–13.07.2026 | 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
+| Einzeltermin | Mo | 16:00–17:00 | 13.04.2026 | — |
+| wöchentlich | Do | 14:15–17:45 | 23.04.2026–28.05.2026 | 55801.00.210 (00.210 Seminarraum) 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
 
 ### Sem-PG - Hauptseminar Physische Geographie - Hauptseminar
 
@@ -5400,7 +5478,16 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
+| Einzeltermin | Do | 08:15–09:45 | 30.07.2026 | 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
+| Einzeltermin | Mi | 10:15–11:45 | 07.10.2026 | 55801.00.210 (00.210 Seminarraum) |
 
 ### Wasser_Geodid - Wasser als Thema im HSU | GS - Block - Seminar
 

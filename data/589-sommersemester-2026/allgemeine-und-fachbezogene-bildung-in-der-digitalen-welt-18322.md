@@ -596,44 +596,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Fr | 14:00–17:00 | 12.06.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
 | Einzeltermin | Fr | 14:00–17:00 | 10.07.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
 
-### Modul 2 - Seminar: Gender, Sex, Medien und Sozialisation (Standort Nürnberg) - Seminar
-
-- **Segment:** `exam:15905271` · **unitId:** `97224`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18322|exam:15619376|exam:15619377|exam:15619378|exam:15619379|exam:15905271>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97224&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 16:00–18:00 | 08.05.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
-| Einzeltermin | Sa | 09:00–18:00 | 09.05.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
-| Einzeltermin | Sa | 09:00–18:00 | 13.06.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
-
-### Modul 2 - Seminar: Gender, Sex, Medien und Sozialisation (Standort Nürnberg) - Seminar
-
-- **Segment:** `exam:15905275` · **unitId:** `97224`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18322|exam:15619420|exam:15619421|exam:15619422|exam:15619423|exam:15905275>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97224&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 16:00–18:00 | 08.05.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
-| Einzeltermin | Sa | 09:00–18:00 | 09.05.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
-| Einzeltermin | Sa | 09:00–18:00 | 13.06.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
-
 ### Modul 2 - Seminar: Medien in der Kindheit (Standort Nürnberg) - Seminar
 
 - **Segment:** `exam:15905286` · **unitId:** `113168`
@@ -665,6 +627,44 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 14:00–15:30 | 16.04.2026–16.07.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
+
+### Modul 2 - Seminar: Pädagogisches Handeln unter den Bedingungen sozio-technischer Systeme in der Schule (Standort Nürnberg) - Seminar
+
+- **Segment:** `exam:15905271` · **unitId:** `97224`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18322|exam:15619376|exam:15619377|exam:15619378|exam:15619379|exam:15905271>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97224&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 16:00–18:00 | 08.05.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
+| Einzeltermin | Sa | 09:00–18:00 | 09.05.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
+| Einzeltermin | Sa | 09:00–18:00 | 13.06.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
+
+### Modul 2 - Seminar: Pädagogisches Handeln unter den Bedingungen sozio-technischer Systeme in der Schule (Standort Nürnberg) - Seminar
+
+- **Segment:** `exam:15905275` · **unitId:** `97224`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18322|exam:15619420|exam:15619421|exam:15619422|exam:15619423|exam:15905275>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97224&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 16:00–18:00 | 08.05.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
+| Einzeltermin | Sa | 09:00–18:00 | 09.05.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
+| Einzeltermin | Sa | 09:00–18:00 | 13.06.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
 
 ### Modul 2 - Seminar: Zielgruppenübergreifende aktive Medienarbeit (Standort Nürnberg) - Seminar
 
@@ -714,7 +714,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 08:15–09:45 | 13.04.2026 | — |
+| Einzeltermin | Mo | 08:15–09:45 | 13.07.2026 | — |
 
 ### Vertiefungsmodul Fachdidaktik Deutsch (nur Freier Bereich): Digi4all - Kompetenzen für das Unterrichten in einer digitalen Welt - Seminar
 
@@ -724,7 +732,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 08:15–09:45 | 13.04.2026 | — |
+| Einzeltermin | Mo | 08:15–09:45 | 13.07.2026 | — |
 
 ### DDI-BSI - Fit für die Lehre von morgen  Ohne Angst vor Technik mit Bits und Bytes Bus-fahren" - Vorlesung mit Übung
 
@@ -734,6 +750,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### DDI-BSI - Fit für die Lehre von morgen  Ohne Angst vor Technik mit Bits und Bytes Bus-fahren" - Vorlesung mit Übung
@@ -744,6 +761,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### Dig.Medien - Potenziale und Herausforderungen digitaler Medien im Chemieunterricht - Seminar
@@ -816,7 +834,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Di | 09:45–11:15 | 14.04.2026 | 75202.00.513 (St.Paul 00.513 (24)) |
 | wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 75201.00.202 (St.Paul(V) 00.202 Seminarraum (20)) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (9)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (6)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -844,31 +862,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.3
-- **Turnus:** in jedem Semester
-
-### Digitalisierungsbezogene Kompetenzen in den naturwissenschaftlichen Fächern fördern — Kurs
-
-- **Segment:** `unit:112298` · **unitId:** `112298`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112298&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Turnus:** nur im Sommersemester
-
-### MA EEBF M6/MA Pädagogik MII: Lernen und mediendidaktisches Handeln in mediatisierten Kontexten — Seminar
-
-- **Segment:** `unit:92830` · **unitId:** `92830`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92830&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
-### Modul 2 - Seminar: Bildungsprozesse und Bildungseinrichtungen in einer zunehmend von digitalen Medien geprägten Gesellschaft
-
-- **Segment:** `unit:125223` · **unitId:** `125223`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125223&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
 - **Turnus:** in jedem Semester
 
 ### Unterrichten und Lernen mit digitalen Medien - Kompetenzen für Lehramtsstudierende — Seminar

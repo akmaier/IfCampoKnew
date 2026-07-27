@@ -310,6 +310,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 20.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### Forschungs-/Vertiefungsmodul Mikrobiologie: Übungen (Prof. Burkovski) - Übung
@@ -320,6 +321,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 20.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### Forschungs-/Vertiefungsmodul Strukturbiologie: Seminar - Seminar
@@ -505,6 +507,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar und Übung
 - **ECTS-Punkte:** 7.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
 ### Scientific Presentations Module for Cell- and Molecular Biology - Seminar
@@ -1101,6 +1104,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88732&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### FMA-S-Ebio - Forschungs-/Vertiefungsmodul Entwicklungsbiologie: Seminar - Seminar
@@ -1110,6 +1114,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88732&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### FMA-S-Gen - Forschungs-/Vertiefungsmodul Genetik: Seminar - Vorlesung
@@ -1179,6 +1184,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89352&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### FMA-S-MPP - Forschungs-/Vertiefungsmodul Molekulare Pflanzenphysiologie: Seminar - Seminar
@@ -1188,6 +1194,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89352&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### FMA-Ü-BC - Forschungs-/Vertiefungsmodul Biochemie: Übungen - Übung
@@ -1198,7 +1205,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 20.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### FMA-Ü-BC - Forschungs-/Vertiefungsmodul Biochemie: Übungen - Übung
@@ -1209,7 +1215,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 20.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### FMA-Ü-CB - Forschungs-/Vertiefungsmodul Computational Biology: Übungen - Übung
@@ -1284,6 +1289,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 20.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### FMA-Ü-Mibi-Ba - Forschungs-/Vertiefungsmodul Mikrobiologie: Übungen (Backert) - Übung
@@ -1294,6 +1300,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 20.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### FMA-Ü-MPP - Forschungs-/Vertiefungsmodul Molekulare Pflanzenphysiologie: Übungen - Übung
@@ -1326,7 +1333,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar und Übung
 - **ECTS-Punkte:** 7.5
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:00–19:00 | 14.04.2026–14.07.2026 | 13001.U1.131 (CIP Biologie Raumnummer U1.131) |
 
 ### MA-Ebio - Masterarbeiten Entwicklungsbiologie - Sonstige Lehrveranstaltung
 
@@ -1378,6 +1392,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Sonstige Lehrveranstaltung
 - **ECTS-Punkte:** 30.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### MA-Mibi - Masterarbeiten Mikrobiologie (Prof. Burkovski) - Sonstige Lehrveranstaltung
@@ -1388,6 +1403,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Sonstige Lehrveranstaltung
 - **ECTS-Punkte:** 30.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### MA-MPP - Masterarbeiten Molekulare Pflanzenphysiologie - Sonstige Lehrveranstaltung
@@ -1420,6 +1436,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Sonstige Lehrveranstaltung
 - **ECTS-Punkte:** 30.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
 ### MA-PB - Masterarbeiten Pharmazeutische Biologie - Sonstige Lehrveranstaltung
@@ -1430,6 +1447,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Sonstige Lehrveranstaltung
 - **ECTS-Punkte:** 30.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
 ### MA-Strukturbio - Masterarbeiten Strukturbiologie - Sonstige Lehrveranstaltung
@@ -1496,6 +1514,22 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **ECTS-Punkte:** 7.5
 - **Turnus:** nur im Sommersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 12:15–13:00 | 20.04.2026 | 08801.00.020 ( Seminarraum ZMPT 00.020) |
+| Einzeltermin | Di | 10:15–11:45 | 21.04.2026 | 08801.01.020 ( Hörsaal ZMPT 01.020) |
+| Einzeltermin | Di | 14:15–15:00 | 21.04.2026 | 08801.00.020 ( Seminarraum ZMPT 00.020) |
+| Einzeltermin | Di | 15:15–16:00 | 21.04.2026 | 08801.00.020 ( Seminarraum ZMPT 00.020) |
+| Einzeltermin | Fr | 10:15–11:45 | 24.04.2026 | 08801.00.020 ( Seminarraum ZMPT 00.020) |
+| Einzeltermin | Mo | 09:15–10:00 | 27.04.2026 | 08801.00.020 ( Seminarraum ZMPT 00.020) |
+| Einzeltermin | Mi | 09:15–10:45 | 29.04.2026 | 08801.00.020 ( Seminarraum ZMPT 00.020) |
+| Einzeltermin | Do | 09:15–10:00 | 07.05.2026 | 08801.00.020 ( Seminarraum ZMPT 00.020) |
+| Einzeltermin | Fr | 09:15–10:00 | 08.05.2026 | 08801.00.020 ( Seminarraum ZMPT 00.020) |
+| Einzeltermin | Mo | 14:15–16:00 | 11.05.2026 | 08801.01.020 ( Hörsaal ZMPT 01.020) |
+| Einzeltermin | Fr | 11:15–12:00 | 15.05.2026 | 08801.00.020 ( Seminarraum ZMPT 00.020) |
+
 ### Scientific Presentations - Scientific Presentations - Seminar
 
 - **Segment:** `exam:14336003` · **unitId:** `114539`
@@ -1505,6 +1539,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 09:00–12:30 | 13.05.2026–03.06.2026 | 13002.00.581 (00.581 Seminarraum Zellbiologie im Biologikum) |
+| Einzeltermin | Mi | 09:00–12:30 | 20.05.2026 | — |
 
 ### Scientific Presentations - Scientific Presentations - Seminar
 
@@ -1516,6 +1557,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **ECTS-Punkte:** 5.0
 - **Turnus:** in jedem Semester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 09:00–12:30 | 13.05.2026–03.06.2026 | 13002.00.581 (00.581 Seminarraum Zellbiologie im Biologikum) |
+| Einzeltermin | Mi | 09:00–12:30 | 20.05.2026 | — |
+
 ### Spez. Virologie-Antivir.Ther. - Spezielle Virologie, Teil 3: Targets, drugs and mechanisms of antiviral therapy - Vorlesung
 
 - **Segment:** `exam:14336029` · **unitId:** `88309`
@@ -1524,14 +1572,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 08:30–10:00 | 16.04.2026–16.07.2026 | 01501.01.027 (Konferenzraum Virologie) |
 
 ### Spez. Virologie-Antivir.Ther. - Spezielle Virologie, Teil 3: Targets, drugs and mechanisms of antiviral therapy - Vorlesung
 
@@ -1541,14 +1582,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 08:30–10:00 | 16.04.2026–16.07.2026 | 01501.01.027 (Konferenzraum Virologie) |
 
 ### Spez. Virologie-HIV - Spezielle Virologie, Teil 2: Schwerpunkt HIV - Vorlesung
 
@@ -1675,7 +1709,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Do | 08:00–12:00 | 09.07.2026 | 13002.00.774 (Kursraum J Fluoreszenzmikroskopraum) |
 | Einzeltermin | Do | 12:00–18:00 | 09.07.2026 | 13002.00.774 (Kursraum J Fluoreszenzmikroskopraum) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (61)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (60)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -1732,7 +1766,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 14:15–15:45 | 23.04.2026–16.07.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
+| wöchentlich | Mo | 12:15–13:45 | 20.04.2026–13.07.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
 
 ### English: Level 3 - Discussing Scientific Research — Übung
 
@@ -1742,6 +1776,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:15–13:45 | 20.04.2026–13.07.2026 | 13003.U1.850 (SR Biologie Seminarraum Biologie Nr. U1.850 (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 
 ### English: Level 3 - English through Music, Movies, and Literature — Übung
 
@@ -2019,7 +2059,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:15–11:45 | 21.04.2026–14.07.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
 
 ### English: Level 4 - Global Topics for Academic Discourse — Übung
 
@@ -2150,15 +2197,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### English: Level 4 - Writing Research Papers — Übung
-
-- **Segment:** `unit:111532` · **unitId:** `111532`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111532&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
 
 ### Forschungs-/Vertiefungsmodul Neurobiologie: Seminar — Repetitorium
 
@@ -2292,8 +2330,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 

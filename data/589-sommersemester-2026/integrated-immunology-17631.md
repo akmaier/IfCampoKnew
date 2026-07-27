@@ -521,10 +521,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 13:00–15:30 | 16.04.2026 | 01501.01.027 (Konferenzraum Virologie) |
-| Einzeltermin | Do | 13:00–15:30 | 23.04.2026 | 01501.01.027 (Konferenzraum Virologie) |
-| Einzeltermin | Do | 13:00–15:30 | 30.04.2026 | 01501.01.027 (Konferenzraum Virologie) |
-| Einzeltermin | Do | 13:00–15:30 | 07.05.2026 | 01501.01.027 (Konferenzraum Virologie) |
+| Einzeltermin | Do | 13:00–15:30 | 16.04.2026 | 04801.02.021 (SR 02.021) |
+| Einzeltermin | Do | 13:00–15:30 | 23.04.2026 | 04801.02.021 (SR 02.021) |
+| Einzeltermin | Do | 13:00–15:30 | 30.04.2026 | 04801.02.021 (SR 02.021) |
+| Einzeltermin | Do | 13:00–15:30 | 07.05.2026 | 04801.02.021 (SR 02.021) |
 
 ### iI-TLI Lab Sem - Translational Immunology Integrated Laboratory Course - Seminar - Seminar
 
@@ -549,7 +549,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100934&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 01501.01.057 (Seminarraum Virologie) 01101.01.034 (SR Wasserturmstr. 3/5) |
+| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 01501.01.057 (Seminarraum Virologie) 01101.01.034 (SR Wasserturmstr. 3/5) |
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 01501.01.057 (Seminarraum Virologie) 01101.01.034 (SR Wasserturmstr. 3/5) |
 
 ### iI-TLI Lecture - Translational Immunology - Lecture - Vorlesung
 
@@ -558,7 +567,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100934&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 01501.01.057 (Seminarraum Virologie) 01101.01.034 (SR Wasserturmstr. 3/5) |
+| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 01501.01.057 (Seminarraum Virologie) 01101.01.034 (SR Wasserturmstr. 3/5) |
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 01501.01.057 (Seminarraum Virologie) 01101.01.034 (SR Wasserturmstr. 3/5) |
 
 ### iI-TLI Sem - Translational Immunology - Seminar - Seminar
 
@@ -567,7 +585,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98480&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 13:15–15:30 | 15.04.2026–03.06.2026 | 01501.01.057 (Seminarraum Virologie) 01101.01.034 (SR Wasserturmstr. 3/5) |
 
 ### iI-TLI Tut - Translational Immunology - Tutorials - Tutorium
 
@@ -583,7 +608,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 13:30–15:00 | 14.04.2026–09.06.2026 | 13002.00.581 (00.581 Seminarraum Zellbiologie im Biologikum) |
+| wöchentlich | Di | 13:30–15:30 | 14.04.2026–09.06.2026 | 01501.01.043 (Konferenzraum Virologie) |
 
 ## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (10)
 
@@ -625,8 +650,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 

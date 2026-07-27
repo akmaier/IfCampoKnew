@@ -5,7 +5,7 @@ campo_segment: "title:16814"
 campo_path: "title:16758|title:16765|title:16814"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814"
 po_version_count: 5
-course_count: 767
+course_count: 568
 fau_studiengang:
   - title: "Physics (M.Sc.)"
     rel_path: "studiengang/physics-m-sc.md"
@@ -179,7 +179,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Campo-Segment:** `exam:11902873`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11902040|exam:11902041|exam:11902044|exam:11902531|exam:11902873>
 
-## Veranstaltungen (767)
+## Veranstaltungen (568)
 
 ### A practical course in molecular materials modelling - Seminar und Übung
 
@@ -429,7 +429,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16994|exam:11904430|exam:11904539|exam:13742429>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128848&periodId=565>
 
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
 
 #### Termine
 
@@ -544,14 +547,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:00–16:00 | 13.10.2025–02.02.2026 | 10402.02.132 |
 
 ### Physics of Stars - Hauptseminar
 
@@ -625,7 +621,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16998|exam:11904772|exam:11904848|exam:11904849>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85468&periodId=565>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -657,19 +655,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16992|exam:11904541|exam:11904564|exam:11904566>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82905&periodId=565>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 08:00–10:00 | 16.10.2025–05.02.2026 | 11501.00.154 (0.154-115 Seminar) |
-
-### 122337 Magnetic Resonance Imaging
-
-- **Segment:** `exam:11898285` · **unitId:** `60844`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898285>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=60844&periodId=565>
 
 ### 122337 Magnetic Resonance Imaging
 
@@ -691,12 +685,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Fr | Fr | 13:00–15:00 | — | 08105.00.915 (Großer Hörsaal - Hörsäle Medizin) |
-
-### 149391 Einführung in die Biomedizinische Technik
-
-- **Segment:** `exam:11898289` · **unitId:** `52826`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898289>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=52826&periodId=565>
 
 ### 149391 Einführung in die Biomedizinische Technik
 
@@ -737,12 +725,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11902040|exam:11902041|exam:11902044|exam:11902056|exam:11902057>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119613&periodId=565>
 
-### 1996 Specialisation phase (M.Sc. Physics 20151)
-
-- **Segment:** `exam:11898035` · **unitId:** `42189`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898035>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=42189&periodId=565>
-
 ### 1996 Specialisation phase (M.Sc. Physics 20182)
 
 - **Segment:** `exam:11900038` · **unitId:** `51193`
@@ -754,24 +736,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:11902051` · **unitId:** `119615`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11902040|exam:11902041|exam:11902044|exam:11902051>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119615&periodId=565>
-
-### 1997 Project planning and preparation (M.Sc. Physics 20151)
-
-- **Segment:** `exam:11898037` · **unitId:** `42190`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898037>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=42190&periodId=565>
-
-### 1998 Master's colloquium (M.Sc. Physics 20151)
-
-- **Segment:** `exam:11898039` · **unitId:** `42191`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898039>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=42191&periodId=565>
-
-### 1999 Master's thesis (M.Sc. Physics 20151)
-
-- **Segment:** `exam:11898041` · **unitId:** `42192`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898041>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=42192&periodId=565>
 
 ### 1999 Module Master's Thesis (M.Sc. Physics 20182)
 
@@ -787,12 +751,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 22800 Anatomie und Physiologie für Nichtmediziner
 
-- **Segment:** `exam:11898515` · **unitId:** `66839`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898508|exam:11898515>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66839&periodId=565>
-
-### 22800 Anatomie und Physiologie für Nichtmediziner
-
 - **Segment:** `exam:11900539` · **unitId:** `66839`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900532|exam:11900539>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66839&periodId=565>
@@ -802,12 +760,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:11902901` · **unitId:** `66839`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11902040|exam:11902041|exam:11902044|exam:11902894|exam:11902901>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66839&periodId=565>
-
-### 232733 Introduction to medical physics in radiation therapy
-
-- **Segment:** `exam:11898292` · **unitId:** `53237`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898292>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53237&periodId=565>
 
 ### 232733 Introduction to medical physics in radiation therapy
 
@@ -821,6 +773,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16998|exam:11904772|exam:11905002|exam:11905004>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46730&periodId=565>
 
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -835,6 +788,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16992|exam:11904541|exam:11904542|exam:11904544>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27290&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -842,12 +796,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Do | Do | 11:00–12:00 | — | 12801.01.210 (H11) |
-
-### 293365 Principles of stellar evolution and nucleosynthesis
-
-- **Segment:** `exam:11898295` · **unitId:** `52809`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898295>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=52809&periodId=565>
 
 ### 293365 Principles of stellar evolution and nucleosynthesis
 
@@ -884,12 +832,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 353947 Detektoren für Teilchen und Strahlung 2
 
-- **Segment:** `exam:11898297` · **unitId:** `53356`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898297>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53356&periodId=565>
-
-### 353947 Detektoren für Teilchen und Strahlung 2
-
 - **Segment:** `exam:11900321` · **unitId:** `53356`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900321>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53356&periodId=565>
@@ -900,6 +842,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16992|exam:11904541|exam:11904602|exam:11904605>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45945&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -916,12 +859,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 409727 Seminar zur Biophysik
 
-- **Segment:** `exam:11898464` · **unitId:** `61935`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898464>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=61935&periodId=565>
-
-### 409727 Seminar zur Biophysik
-
 - **Segment:** `exam:11900488` · **unitId:** `61935`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900421|exam:11900488>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=61935&periodId=565>
@@ -930,12 +867,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11904489` · **unitId:** `58993`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16994|exam:11904430|exam:11904489>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=58993&periodId=565>
-
-### 415970 Seminar: Touchstones of gravitational physics
-
-- **Segment:** `exam:11898456` · **unitId:** `58993`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898456>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=58993&periodId=565>
 
 ### 415970 Seminar: Touchstones of gravitational physics
@@ -952,21 +883,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 42190 Modern Concepts in Optics
 
-- **Segment:** `exam:11898399` · **unitId:** `55310`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898399>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55310&periodId=565>
-
-### 42190 Modern Concepts in Optics
-
 - **Segment:** `exam:11900423` · **unitId:** `55310`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900421|exam:11900423>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55310&periodId=565>
-
-### 44445 Cognitive Neuroscience for AI Developers
-
-- **Segment:** `exam:11898581` · **unitId:** `115846`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898508|exam:11898581>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115846&periodId=565>
 
 ### 44445 Cognitive Neuroscience for AI Developers
 
@@ -979,12 +898,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:11902967` · **unitId:** `115846`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11902040|exam:11902041|exam:11902044|exam:11902894|exam:11902967>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115846&periodId=565>
-
-### 470398 Seminar: Physik in der Medizin
-
-- **Segment:** `exam:11898466` · **unitId:** `56692`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898466>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56692&periodId=565>
 
 ### 470398 Seminar: Physik in der Medizin
 
@@ -1006,12 +919,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 47615 Numerische und physikalische Grundlagen von Bildgebungsalgorithmen für die CT-basierte Strahlentherapieplanung
 
-- **Segment:** `exam:11898518` · **unitId:** `79726`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898508|exam:11898518>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=79726&periodId=565>
-
-### 47615 Numerische und physikalische Grundlagen von Bildgebungsalgorithmen für die CT-basierte Strahlentherapieplanung
-
 - **Segment:** `exam:11900542` · **unitId:** `79726`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900532|exam:11900542>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=79726&periodId=565>
@@ -1021,12 +928,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:11902904` · **unitId:** `79726`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11902040|exam:11902041|exam:11902044|exam:11902894|exam:11902904>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=79726&periodId=565>
-
-### 47663 Magnetic Resonance Imaging sequence programming [MRIpulseq]
-
-- **Segment:** `exam:11898565` · **unitId:** `110515`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898508|exam:11898565>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110515&periodId=565>
 
 ### 47663 Magnetic Resonance Imaging sequence programming [MRIpulseq]
 
@@ -1048,12 +949,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 47689 Special topics of medical physics in radiation therapy
 
-- **Segment:** `exam:11898063` · **unitId:** `78703`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898063>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78703&periodId=565>
-
-### 47689 Special topics of medical physics in radiation therapy
-
 - **Segment:** `exam:11900087` · **unitId:** `78703`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900087>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78703&periodId=565>
@@ -1062,12 +957,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11905093` · **unitId:** `125900`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16998|exam:11904772|exam:11905093>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125900&periodId=565>
-
-### 47699 Introduction to Medical Physics II
-
-- **Segment:** `exam:11898383` · **unitId:** `125900`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898383>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125900&periodId=565>
 
 ### 47699 Introduction to Medical Physics II
@@ -1084,21 +973,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 481871 Seminar: Soft Matter Journal Club: Self-Organization
 
-- **Segment:** `exam:11898469` · **unitId:** `52528`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898469>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=52528&periodId=565>
-
-### 481871 Seminar: Soft Matter Journal Club: Self-Organization
-
 - **Segment:** `exam:11900493` · **unitId:** `52528`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900421|exam:11900493>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=52528&periodId=565>
-
-### 48201 Complex Systems I
-
-- **Segment:** `exam:11898066` · **unitId:** `65290`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898066>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65290&periodId=565>
 
 ### 48201 Complex Systems I
 
@@ -1110,12 +987,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11904779` · **unitId:** `69814`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16998|exam:11904772|exam:11904779>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69814&periodId=565>
-
-### 48211 Complex Systems II
-
-- **Segment:** `exam:11898069` · **unitId:** `69814`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898069>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69814&periodId=565>
 
 ### 48211 Complex Systems II
@@ -1138,12 +1009,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 48216 Complex Systems III
 
-- **Segment:** `exam:11898072` · **unitId:** `59036`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898072>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59036&periodId=565>
-
-### 48216 Complex Systems III
-
 - **Segment:** `exam:11900096` · **unitId:** `59036`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900096>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59036&periodId=565>
@@ -1162,21 +1027,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 48217 Complex Systems IV
 
-- **Segment:** `exam:11898075` · **unitId:** `68404`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898075>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68404&periodId=565>
-
-### 48217 Complex Systems IV
-
 - **Segment:** `exam:11900099` · **unitId:** `68404`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900099>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68404&periodId=565>
-
-### 48251 Introduction to X-ray and Neutron Scattering I
-
-- **Segment:** `exam:11898078` · **unitId:** `57116`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898078>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57116&periodId=565>
 
 ### 48251 Introduction to X-ray and Neutron Scattering I
 
@@ -1192,21 +1045,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 48261 Introduction to X-ray and Neutron Scattering II
 
-- **Segment:** `exam:11898082` · **unitId:** `59575`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898082>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59575&periodId=565>
-
-### 48261 Introduction to X-ray and Neutron Scattering II
-
 - **Segment:** `exam:11900106` · **unitId:** `59575`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900106>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59575&periodId=565>
-
-### 48311 Modern Optics 1: Advanced Optics
-
-- **Segment:** `exam:11898085` · **unitId:** `60356`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898085>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=60356&periodId=565>
 
 ### 48311 Modern Optics 1: Advanced Optics
 
@@ -1228,12 +1069,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 48313 Modern Optics 3: Quantum Optics
 
-- **Segment:** `exam:11898089` · **unitId:** `65238`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898089>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65238&periodId=565>
-
-### 48313 Modern Optics 3: Quantum Optics
-
 - **Segment:** `exam:11900113` · **unitId:** `65238`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900113>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65238&periodId=565>
@@ -1252,12 +1087,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 483846 Struktur kristalliner Materie I
 
-- **Segment:** `exam:11898299` · **unitId:** `69303`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898299>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69303&periodId=565>
-
-### 483846 Struktur kristalliner Materie I
-
 - **Segment:** `exam:11900323` · **unitId:** `69303`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900323>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69303&periodId=565>
@@ -1266,12 +1095,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11905013` · **unitId:** `52840`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16998|exam:11904772|exam:11905013>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=52840&periodId=565>
-
-### 520257 Polarization of light in classical, nonlinear, and quantum optics
-
-- **Segment:** `exam:11898303` · **unitId:** `52840`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898303>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=52840&periodId=565>
 
 ### 520257 Polarization of light in classical, nonlinear, and quantum optics
@@ -1288,21 +1111,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 538980 Interstellar medium
 
-- **Segment:** `exam:11898305` · **unitId:** `58842`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898305>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=58842&periodId=565>
-
-### 538980 Interstellar medium
-
 - **Segment:** `exam:11900329` · **unitId:** `58842`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900329>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=58842&periodId=565>
-
-### 568977 Magnetic Resonance Imaging 2 + Übung
-
-- **Segment:** `exam:11898308` · **unitId:** `64917`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898308>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=64917&periodId=565>
 
 ### 568977 Magnetic Resonance Imaging 2 + Übung
 
@@ -1354,12 +1165,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 582360 Modern Optics 2: Nonlinear Optics
 
-- **Segment:** `exam:11898312` · **unitId:** `53036`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898312>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53036&periodId=565>
-
-### 582360 Modern Optics 2: Nonlinear Optics
-
 - **Segment:** `exam:11900336` · **unitId:** `53036`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900336>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53036&periodId=565>
@@ -1378,12 +1183,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Do | Do | 10:00–12:00 | — | 12801.01.220 (H12 Emmy-Noether-Hörsaal) |
-
-### 639157 Seminar: Teilchenphysik und Astrophysik
-
-- **Segment:** `exam:11898471` · **unitId:** `59821`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898471>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59821&periodId=565>
 
 ### 639157 Seminar: Teilchenphysik und Astrophysik
 
@@ -1435,12 +1234,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 645913 Supersymmetric Quantum Mechanics
 
-- **Segment:** `exam:11898315` · **unitId:** `52976`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898315>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=52976&periodId=565>
-
-### 645913 Supersymmetric Quantum Mechanics
-
 - **Segment:** `exam:11900339` · **unitId:** `52976`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900339>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=52976&periodId=565>
@@ -1449,12 +1242,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11904559` · **unitId:** `78650`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16992|exam:11904541|exam:11904559>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78650&periodId=565>
-
-### 65077 Spektraltheorie
-
-- **Segment:** `exam:11898532` · **unitId:** `78650`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898508|exam:11898532>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78650&periodId=565>
 
 ### 65077 Spektraltheorie
@@ -1477,12 +1264,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 65937 Numerik partieller Differentialgleichungen II
 
-- **Segment:** `exam:11898535` · **unitId:** `75595`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898508|exam:11898535>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75595&periodId=565>
-
-### 65937 Numerik partieller Differentialgleichungen II
-
 - **Segment:** `exam:11900559` · **unitId:** `75595`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900532|exam:11900559>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75595&periodId=565>
@@ -1495,12 +1276,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 65966 Klassische Mechanik
 
-- **Segment:** `exam:11898537` · **unitId:** `65577`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898508|exam:11898537>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65577&periodId=565>
-
-### 65966 Klassische Mechanik
-
 - **Segment:** `exam:11900561` · **unitId:** `65577`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900532|exam:11900561>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65577&periodId=565>
@@ -1510,12 +1285,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:11902923` · **unitId:** `65577`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11902040|exam:11902041|exam:11902044|exam:11902894|exam:11902923>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65577&periodId=565>
-
-### 65993 Numerics of Partial Differential Equations
-
-- **Segment:** `exam:11898539` · **unitId:** `74193`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898508|exam:11898539>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74193&periodId=565>
 
 ### 65993 Numerics of Partial Differential Equations
 
@@ -1537,12 +1306,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 66204 Interpreting astronomical spectra
 
-- **Segment:** `exam:11898100` · **unitId:** `54807`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898100>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54807&periodId=565>
-
-### 66204 Interpreting astronomical spectra
-
 - **Segment:** `exam:11900124` · **unitId:** `54807`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900124>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54807&periodId=565>
@@ -1555,12 +1318,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 66206 Struktur kristalliner Materie II
 
-- **Segment:** `exam:11898103` · **unitId:** `61941`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898103>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=61941&periodId=565>
-
-### 66206 Struktur kristalliner Materie II
-
 - **Segment:** `exam:11900127` · **unitId:** `61941`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900127>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=61941&periodId=565>
@@ -1569,12 +1326,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11904817` · **unitId:** `65358`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16998|exam:11904772|exam:11904817>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65358&periodId=565>
-
-### 66800 Vertiefung Astronomie
-
-- **Segment:** `exam:11898107` · **unitId:** `65358`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898107>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65358&periodId=565>
 
 ### 66800 Vertiefung Astronomie
@@ -1605,12 +1356,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11904754` · **unitId:** `53489`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:17000|exam:11904754>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53489&periodId=565>
-
-### 668977 Machine Learning for Physicists
-
-- **Segment:** `exam:11898318` · **unitId:** `53489`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898318>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53489&periodId=565>
 
 ### 668977 Machine Learning for Physicists
@@ -1669,12 +1414,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 66987 From Quantum Field Theory in Curved Spacetime to Loop Quantum Gravity
 
-- **Segment:** `exam:15911475` · **unitId:** `137071`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:15911475>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137071&periodId=565>
-
-### 66987 From Quantum Field Theory in Curved Spacetime to Loop Quantum Gravity
-
 - **Segment:** `exam:15911491` · **unitId:** `137071`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900421|exam:15911491>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137071&periodId=565>
@@ -1689,12 +1428,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:15911786` · **unitId:** `137083`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16998|exam:11904772|exam:15911786>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137083&periodId=565>
-
-### 66991 Quantum Information Theory
-
-- **Segment:** `exam:15911764` · **unitId:** `137083`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:15911764>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137083&periodId=565>
 
 ### 66991 Quantum Information Theory
@@ -1717,12 +1450,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 66995 Computertomographie - eine theoretische und praktische Einführung
 
-- **Segment:** `exam:11898544` · **unitId:** `70189`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898508|exam:11898544>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70189&periodId=565>
-
-### 66995 Computertomographie - eine theoretische und praktische Einführung
-
 - **Segment:** `exam:11900568` · **unitId:** `70189`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900532|exam:11900568>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70189&periodId=565>
@@ -1732,12 +1459,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:11902930` · **unitId:** `70189`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11902040|exam:11902041|exam:11902044|exam:11902894|exam:11902930>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70189&periodId=565>
-
-### 67003 Semiconductor Physics
-
-- **Segment:** `exam:11898353` · **unitId:** `117115`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898353>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117115&periodId=565>
 
 ### 67003 Semiconductor Physics
 
@@ -1765,12 +1486,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67004 Implementations of Quantum Error Correction
 
-- **Segment:** `exam:11898478` · **unitId:** `117523`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898478>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117523&periodId=565>
-
-### 67004 Implementations of Quantum Error Correction
-
 - **Segment:** `exam:11900502` · **unitId:** `117523`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900421|exam:11900502>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117523&periodId=565>
@@ -1783,12 +1498,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67005 Experimental physics of modern materials Part A
 
-- **Segment:** `exam:11898109` · **unitId:** `65070`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898109>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65070&periodId=565>
-
-### 67005 Experimental physics of modern materials Part A
-
 - **Segment:** `exam:11900133` · **unitId:** `65070`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900133>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65070&periodId=565>
@@ -1797,12 +1506,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11904821` · **unitId:** `66383`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16998|exam:11904772|exam:11904821>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66383&periodId=565>
-
-### 67006 Experimental physics of modern materials Part B
-
-- **Segment:** `exam:11898111` · **unitId:** `66383`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898111>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66383&periodId=565>
 
 ### 67006 Experimental physics of modern materials Part B
@@ -1825,12 +1528,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67007 Being creative in physics
 
-- **Segment:** `exam:11898351` · **unitId:** `116165`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898351>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116165&periodId=565>
-
-### 67007 Being creative in physics
-
 - **Segment:** `exam:11900375` · **unitId:** `116165`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900375>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116165&periodId=565>
@@ -1839,12 +1536,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11904509` · **unitId:** `113453`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16994|exam:11904430|exam:11904509>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113453&periodId=565>
-
-### 67008 Nobel Prizes in Theory of Light and Matter
-
-- **Segment:** `exam:11898476` · **unitId:** `113453`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898476>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113453&periodId=565>
 
 ### 67008 Nobel Prizes in Theory of Light and Matter
@@ -1861,21 +1552,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67009 Novel techniques in ultrafast spectroscopy
 
-- **Segment:** `exam:11898474` · **unitId:** `113444`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898474>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113444&periodId=565>
-
-### 67009 Novel techniques in ultrafast spectroscopy
-
 - **Segment:** `exam:11900498` · **unitId:** `113444`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900421|exam:11900498>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113444&periodId=565>
-
-### 67012 Praktische Einführung in die molekulare Modellierung von Materialien
-
-- **Segment:** `exam:11898348` · **unitId:** `113665`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898348>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113665&periodId=565>
 
 ### 67012 Praktische Einführung in die molekulare Modellierung von Materialien
 
@@ -1893,12 +1572,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11904685` · **unitId:** `117966`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16997|exam:11904685>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117966&periodId=565>
-
-### 67013 Time in Physics
-
-- **Segment:** `exam:11898483` · **unitId:** `117966`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898483>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117966&periodId=565>
 
 ### 67013 Time in Physics
@@ -1927,12 +1600,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67014 Introduction to Theoretical Cosmology
 
-- **Segment:** `exam:11898355` · **unitId:** `117970`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898355>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117970&periodId=565>
-
-### 67014 Introduction to Theoretical Cosmology
-
 - **Segment:** `exam:11900379` · **unitId:** `117970`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900379>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117970&periodId=565>
@@ -1957,12 +1624,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67015 Electronic structure and strong light-matter coupling in materials in optical cavities
 
-- **Segment:** `exam:11898485` · **unitId:** `117973`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898485>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117973&periodId=565>
-
-### 67015 Electronic structure and strong light-matter coupling in materials in optical cavities
-
 - **Segment:** `exam:11900509` · **unitId:** `117973`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900421|exam:11900509>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117973&periodId=565>
@@ -1981,12 +1642,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67016 Photonic Machine Learning
 
-- **Segment:** `exam:11898481` · **unitId:** `117923`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898481>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117923&periodId=565>
-
-### 67016 Photonic Machine Learning
-
 - **Segment:** `exam:11900505` · **unitId:** `117923`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900421|exam:11900505>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117923&periodId=565>
@@ -1999,21 +1654,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67019 Cavity quantum electrodynamics for the control of complex matter
 
-- **Segment:** `exam:11898494` · **unitId:** `121266`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898494>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121266&periodId=565>
-
-### 67019 Cavity quantum electrodynamics for the control of complex matter
-
 - **Segment:** `exam:11900518` · **unitId:** `121266`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900421|exam:11900518>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121266&periodId=565>
-
-### 67022 Advances in Spin and Photon-Based Quantum Technologies
-
-- **Segment:** `exam:13710806` · **unitId:** `132254`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:13710806>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132254&periodId=565>
 
 ### 67022 Advances in Spin and Photon-Based Quantum Technologies
 
@@ -2023,21 +1666,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67023 Optical properties of solids
 
-- **Segment:** `exam:13710984` · **unitId:** `132257`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:13710984>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132257&periodId=565>
-
-### 67023 Optical properties of solids
-
 - **Segment:** `exam:13710986` · **unitId:** `132257`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:13710986>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132257&periodId=565>
-
-### 67024 Concepts and Implementations of Quantum Error Correction
-
-- **Segment:** `exam:13711172` · **unitId:** `132260`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:13711172>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132260&periodId=565>
 
 ### 67024 Concepts and Implementations of Quantum Error Correction
 
@@ -2047,21 +1678,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67027 Geschichte der Physik - Fachdidaktische Erkundung des Deutschen Museums
 
-- **Segment:** `exam:13753518` · **unitId:** `132875`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:13753518>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132875&periodId=565>
-
-### 67027 Geschichte der Physik - Fachdidaktische Erkundung des Deutschen Museums
-
 - **Segment:** `exam:13753520` · **unitId:** `132875`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:13753520>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132875&periodId=565>
-
-### 67028 Current Trends in Correlated Quantum Systems
-
-- **Segment:** `exam:15767583` · **unitId:** `135019`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:15767583>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135019&periodId=565>
 
 ### 67028 Current Trends in Correlated Quantum Systems
 
@@ -2071,33 +1690,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67032 Mathematical Foundations of Second Quantization
 
-- **Segment:** `exam:13815967` · **unitId:** `133800`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:13815967>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133800&periodId=565>
-
-### 67032 Mathematical Foundations of Second Quantization
-
 - **Segment:** `exam:13815969` · **unitId:** `133800`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:13815969>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133800&periodId=565>
 
 ### 67080 Computerphysik und numerische Methoden
 
-- **Segment:** `exam:11898113` · **unitId:** `59662`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898113>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59662&periodId=565>
-
-### 67080 Computerphysik und numerische Methoden
-
 - **Segment:** `exam:11900137` · **unitId:** `59662`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900137>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59662&periodId=565>
-
-### 67088 Weltbild der Physik
-
-- **Segment:** `exam:15691813` · **unitId:** `134022`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:15691813>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134022&periodId=565>
 
 ### 67088 Weltbild der Physik
 
@@ -2109,12 +1710,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11905105` · **unitId:** `129123`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16998|exam:11904772|exam:11905105>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=129123&periodId=565>
-
-### 67089 Mathematical Foundations of Quantum Theory
-
-- **Segment:** `exam:11898395` · **unitId:** `129123`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898395>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=129123&periodId=565>
 
 ### 67089 Mathematical Foundations of Quantum Theory
@@ -2131,12 +1726,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67090 Mathematical methods of quantum mechanics
 
-- **Segment:** `exam:11898491` · **unitId:** `120767`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898491>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120767&periodId=565>
-
-### 67090 Mathematical methods of quantum mechanics
-
 - **Segment:** `exam:11900515` · **unitId:** `120767`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900421|exam:11900515>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120767&periodId=565>
@@ -2145,12 +1734,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11904522` · **unitId:** `120763`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16994|exam:11904430|exam:11904522>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120763&periodId=565>
-
-### 67091 Quantum Algorithms
-
-- **Segment:** `exam:11898489` · **unitId:** `120763`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898489>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120763&periodId=565>
 
 ### 67091 Quantum Algorithms
@@ -2167,21 +1750,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67092 Introduction to Quantum Communication
 
-- **Segment:** `exam:11898357` · **unitId:** `120760`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898357>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120760&periodId=565>
-
-### 67092 Introduction to Quantum Communication
-
 - **Segment:** `exam:11900381` · **unitId:** `120760`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900381>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120760&periodId=565>
-
-### 67093 From Artificial Intelligence to Artificial Scientists
-
-- **Segment:** `exam:11898372` · **unitId:** `121211`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898372>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121211&periodId=565>
 
 ### 67093 From Artificial Intelligence to Artificial Scientists
 
@@ -2193,12 +1764,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11904520` · **unitId:** `119123`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16994|exam:11904430|exam:11904520>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119123&periodId=565>
-
-### 67094 Biophysics of Cellular Building Blocks
-
-- **Segment:** `exam:11898487` · **unitId:** `119123`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898487>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119123&periodId=565>
 
 ### 67094 Biophysics of Cellular Building Blocks
@@ -2227,12 +1792,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67095 Quantum Control
 
-- **Segment:** `exam:11898282` · **unitId:** `112252`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898282>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112252&periodId=565>
-
-### 67095 Quantum Control
-
 - **Segment:** `exam:11900306` · **unitId:** `112252`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900306>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112252&periodId=565>
@@ -2241,12 +1800,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11904530` · **unitId:** `124007`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16994|exam:11904430|exam:11904530>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124007&periodId=565>
-
-### 67097 Seminar on Quantum Control
-
-- **Segment:** `exam:11898497` · **unitId:** `124007`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898497>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124007&periodId=565>
 
 ### 67097 Seminar on Quantum Control
@@ -2269,12 +1822,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67098 Astrophysical Radiation Processes
 
-- **Segment:** `exam:11898381` · **unitId:** `125531`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898381>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125531&periodId=565>
-
-### 67098 Astrophysical Radiation Processes
-
 - **Segment:** `exam:11900405` · **unitId:** `125531`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900405>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125531&periodId=565>
@@ -2289,12 +1836,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11905089` · **unitId:** `125483`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16998|exam:11904772|exam:11905089>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125483&periodId=565>
-
-### 67099 Astrophysics with Gravitational Waves
-
-- **Segment:** `exam:11898379` · **unitId:** `125483`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898379>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125483&periodId=565>
 
 ### 67099 Astrophysics with Gravitational Waves
@@ -2323,21 +1864,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67101 Theory of Soft Matter and Biological Physics
 
-- **Segment:** `exam:11898280` · **unitId:** `111091`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898280>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111091&periodId=565>
-
-### 67101 Theory of Soft Matter and Biological Physics
-
 - **Segment:** `exam:11900304` · **unitId:** `111091`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900304>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111091&periodId=565>
-
-### 67102 Cell Adhesion and Cytoskeleton: Cell Biological, Biophysical, and Medical Aspects
-
-- **Segment:** `exam:11898561` · **unitId:** `109363`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898508|exam:11898561>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=109363&periodId=565>
 
 ### 67102 Cell Adhesion and Cytoskeleton: Cell Biological, Biophysical, and Medical Aspects
 
@@ -2359,21 +1888,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67103 Quantum and/or classical algorithms
 
-- **Segment:** `exam:11898461` · **unitId:** `108257`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898461>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=108257&periodId=565>
-
-### 67103 Quantum and/or classical algorithms
-
 - **Segment:** `exam:11900485` · **unitId:** `108257`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900421|exam:11900485>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=108257&periodId=565>
-
-### 67104 Quantum materials
-
-- **Segment:** `exam:11898458` · **unitId:** `107818`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898458>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107818&periodId=565>
 
 ### 67104 Quantum materials
 
@@ -2401,12 +1918,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67105 Non-equilibrium approaches to complex quantum materials
 
-- **Segment:** `exam:11898277` · **unitId:** `107814`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898277>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107814&periodId=565>
-
-### 67105 Non-equilibrium approaches to complex quantum materials
-
 - **Segment:** `exam:11900301` · **unitId:** `107814`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900301>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107814&periodId=565>
@@ -2425,12 +1936,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67106 Physics of surfaces and molecular nanostructures
 
-- **Segment:** `exam:11898275` · **unitId:** `107808`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898275>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107808&periodId=565>
-
-### 67106 Physics of surfaces and molecular nanostructures
-
 - **Segment:** `exam:11900299` · **unitId:** `107808`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900299>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107808&periodId=565>
@@ -2439,12 +1944,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11904983` · **unitId:** `107691`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16998|exam:11904772|exam:11904983>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107691&periodId=565>
-
-### 67107 Nanostructures and low-dimensional materials: electronic structure, transport and magnetism
-
-- **Segment:** `exam:11898273` · **unitId:** `107691`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898273>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107691&periodId=565>
 
 ### 67107 Nanostructures and low-dimensional materials: electronic structure, transport and magnetism
@@ -2461,12 +1960,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67108 Allgemeine Relativitätstheorie II
 
-- **Segment:** `exam:11898271` · **unitId:** `107682`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898271>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107682&periodId=565>
-
-### 67108 Allgemeine Relativitätstheorie II
-
 - **Segment:** `exam:11900295` · **unitId:** `107682`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900295>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107682&periodId=565>
@@ -2479,21 +1972,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67109 Methods of data analysis II and Introduction to machine learning
 
-- **Segment:** `exam:11898267` · **unitId:** `107528`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898267>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107528&periodId=565>
-
-### 67109 Methods of data analysis II and Introduction to machine learning
-
 - **Segment:** `exam:11900291` · **unitId:** `107528`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900291>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107528&periodId=565>
-
-### 67111 Arduino hard- and software for lab applications and beyond
-
-- **Segment:** `exam:11898558` · **unitId:** `107148`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898508|exam:11898558>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107148&periodId=565>
 
 ### 67111 Arduino hard- and software for lab applications and beyond
 
@@ -2511,12 +1992,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11904827` · **unitId:** `80440`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16998|exam:11904772|exam:11904827>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=80440&periodId=565>
-
-### 67112 Advanced microscopic techniques
-
-- **Segment:** `exam:11898117` · **unitId:** `80440`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898117>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=80440&periodId=565>
 
 ### 67112 Advanced microscopic techniques
@@ -2545,12 +2020,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67114 Theoretical surface physics
 
-- **Segment:** `exam:11898120` · **unitId:** `80204`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898120>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=80204&periodId=565>
-
-### 67114 Theoretical surface physics
-
 - **Segment:** `exam:11900144` · **unitId:** `80204`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900144>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=80204&periodId=565>
@@ -2559,12 +2028,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11904434` · **unitId:** `79723`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16994|exam:11904430|exam:11904434>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=79723&periodId=565>
-
-### 67116 Nanostrukturen - Herstellung, Kristallstruktur und Eigenschaften
-
-- **Segment:** `exam:11898401` · **unitId:** `79723`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898401>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=79723&periodId=565>
 
 ### 67116 Nanostrukturen - Herstellung, Kristallstruktur und Eigenschaften
@@ -2581,12 +2044,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67117 Allgemeine Relativitätstheorie
 
-- **Segment:** `exam:11898124` · **unitId:** `79719`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898124>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=79719&periodId=565>
-
-### 67117 Allgemeine Relativitätstheorie
-
 - **Segment:** `exam:11900148` · **unitId:** `79719`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900148>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=79719&periodId=565>
@@ -2595,12 +2052,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11904838` · **unitId:** `78607`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16998|exam:11904772|exam:11904838>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78607&periodId=565>
-
-### 67118 Theoretical Quantum Optics
-
-- **Segment:** `exam:11898128` · **unitId:** `78607`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898128>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78607&periodId=565>
 
 ### 67118 Theoretical Quantum Optics
@@ -2617,12 +2068,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67119 Advanced Machine Learning for Physics and Scientific Discovery
 
-- **Segment:** `exam:11898132` · **unitId:** `78204`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898132>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78204&periodId=565>
-
-### 67119 Advanced Machine Learning for Physics and Scientific Discovery
-
 - **Segment:** `exam:11900156` · **unitId:** `78204`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900156>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78204&periodId=565>
@@ -2631,12 +2076,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11904486` · **unitId:** `105879`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16994|exam:11904430|exam:11904486>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=105879&periodId=565>
-
-### 67121 Materie in intensiven Laserfeldern
-
-- **Segment:** `exam:11898453` · **unitId:** `105879`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898453>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=105879&periodId=565>
 
 ### 67121 Materie in intensiven Laserfeldern
@@ -2653,12 +2092,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67124 Light as a versatile tool in biology and biophysics
 
-- **Segment:** `exam:11898403` · **unitId:** `77616`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898403>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=77616&periodId=565>
-
-### 67124 Light as a versatile tool in biology and biophysics
-
 - **Segment:** `exam:11900427` · **unitId:** `77616`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900421|exam:11900427>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=77616&periodId=565>
@@ -2671,21 +2104,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67125 Konzepte und Methoden in der Physikalischen Biologie
 
-- **Segment:** `exam:11898135` · **unitId:** `77612`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898135>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=77612&periodId=565>
-
-### 67125 Konzepte und Methoden in der Physikalischen Biologie
-
 - **Segment:** `exam:11900159` · **unitId:** `77612`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900159>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=77612&periodId=565>
-
-### 67126 Introduction to Loop Quantum Gravity
-
-- **Segment:** `exam:11898138` · **unitId:** `77607`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898138>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=77607&periodId=565>
 
 ### 67126 Introduction to Loop Quantum Gravity
 
@@ -2701,21 +2122,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67127 Nonlinear and Quantum Optics
 
-- **Segment:** `exam:11898406` · **unitId:** `77589`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898406>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=77589&periodId=565>
-
-### 67127 Nonlinear and Quantum Optics
-
 - **Segment:** `exam:11900430` · **unitId:** `77589`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900421|exam:11900430>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=77589&periodId=565>
-
-### 67128 Multiwavelength Astronomy
-
-- **Segment:** `exam:11898142` · **unitId:** `77584`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898142>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=77584&periodId=565>
 
 ### 67128 Multiwavelength Astronomy
 
@@ -2743,12 +2152,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67129 Superconducting Qubits
 
-- **Segment:** `exam:11898145` · **unitId:** `77579`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898145>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=77579&periodId=565>
-
-### 67129 Superconducting Qubits
-
 - **Segment:** `exam:11900169` · **unitId:** `77579`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900169>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=77579&periodId=565>
@@ -2757,12 +2160,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11905084` · **unitId:** `121569`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16998|exam:11904772|exam:11905084>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121569&periodId=565>
-
-### 67130 Advanced Programming in Python for research projects
-
-- **Segment:** `exam:11898374` · **unitId:** `121569`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898374>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121569&periodId=565>
 
 ### 67130 Advanced Programming in Python for research projects
@@ -2779,12 +2176,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67131 Neural Networks in Quantum Science: From Fundamentals to Applications
 
-- **Segment:** `exam:11898500` · **unitId:** `125167`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898500>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125167&periodId=565>
-
-### 67131 Neural Networks in Quantum Science: From Fundamentals to Applications
-
 - **Segment:** `exam:11900524` · **unitId:** `125167`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900421|exam:11900524>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125167&periodId=565>
@@ -2797,21 +2188,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67132 Group Theory for Physicists
 
-- **Segment:** `exam:11898148` · **unitId:** `77574`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898148>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=77574&periodId=565>
-
-### 67132 Group Theory for Physicists
-
 - **Segment:** `exam:11900172` · **unitId:** `77574`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900172>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=77574&periodId=565>
-
-### 67133 Nanophysics using scanning probe microscopy
-
-- **Segment:** `exam:11898152` · **unitId:** `77569`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898152>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=77569&periodId=565>
 
 ### 67133 Nanophysics using scanning probe microscopy
 
@@ -2823,12 +2202,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11904442` · **unitId:** `75161`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16994|exam:11904430|exam:11904442>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75161&periodId=565>
-
-### 67135 Non-equilibrium many-particle dynamics
-
-- **Segment:** `exam:11898409` · **unitId:** `75161`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898409>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75161&periodId=565>
 
 ### 67135 Non-equilibrium many-particle dynamics
@@ -2845,12 +2218,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67136 Non-equilibrium quantum and classical statistical physics
 
-- **Segment:** `exam:11898156` · **unitId:** `75155`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898156>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75155&periodId=565>
-
-### 67136 Non-equilibrium quantum and classical statistical physics
-
 - **Segment:** `exam:11900180` · **unitId:** `75155`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900180>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75155&periodId=565>
@@ -2859,12 +2226,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11904444` · **unitId:** `74912`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16994|exam:11904430|exam:11904444>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74912&periodId=565>
-
-### 67138 Ultraschnelle Licht-Materie-Wechselwirkung
-
-- **Segment:** `exam:11898411` · **unitId:** `74912`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898411>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74912&periodId=565>
 
 ### 67138 Ultraschnelle Licht-Materie-Wechselwirkung
@@ -2881,21 +2242,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67139 General Relativity II
 
-- **Segment:** `exam:11898158` · **unitId:** `74909`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898158>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74909&periodId=565>
-
-### 67139 General Relativity II
-
 - **Segment:** `exam:11900182` · **unitId:** `74909`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900182>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74909&periodId=565>
-
-### 67141 Elements of Artificial Intelligence for Scientific Discovery
-
-- **Segment:** `exam:11898376` · **unitId:** `125281`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898376>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125281&periodId=565>
 
 ### 67141 Elements of Artificial Intelligence for Scientific Discovery
 
@@ -2923,21 +2272,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67142 Advanced Optical Spectroscopy in Solids
 
-- **Segment:** `exam:11898160` · **unitId:** `74905`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898160>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74905&periodId=565>
-
-### 67142 Advanced Optical Spectroscopy in Solids
-
 - **Segment:** `exam:11900184` · **unitId:** `74905`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900184>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74905&periodId=565>
-
-### 67143 Advanced nonlinear optics
-
-- **Segment:** `exam:11898162` · **unitId:** `74901`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898162>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74901&periodId=565>
 
 ### 67143 Advanced nonlinear optics
 
@@ -2953,21 +2290,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67144 Theoretical Biophysics
 
-- **Segment:** `exam:11898165` · **unitId:** `73910`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898165>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73910&periodId=565>
-
-### 67144 Theoretical Biophysics
-
 - **Segment:** `exam:11900189` · **unitId:** `73910`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900189>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73910&periodId=565>
-
-### 67145 Waveguides, optical fibres and photonic crystal fibres
-
-- **Segment:** `exam:11898168` · **unitId:** `73809`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898168>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73809&periodId=565>
 
 ### 67145 Waveguides, optical fibres and photonic crystal fibres
 
@@ -2983,12 +2308,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67146 Foundations of Quantum Mechanics
 
-- **Segment:** `exam:15896407` · **unitId:** `73805`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:15896407>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73805&periodId=565>
-
-### 67146 Foundations of Quantum Mechanics
-
 - **Segment:** `exam:15896423` · **unitId:** `73805`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900421|exam:15896423>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73805&periodId=565>
@@ -2997,12 +2316,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11904883` · **unitId:** `73806`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16998|exam:11904772|exam:11904883>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73806&periodId=565>
-
-### 67147 Path Integrals
-
-- **Segment:** `exam:11898173` · **unitId:** `73806`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898173>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73806&periodId=565>
 
 ### 67147 Path Integrals
@@ -3031,21 +2344,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67148 Quantum Field Theory in Condensed Matter
 
-- **Segment:** `exam:11898176` · **unitId:** `73579`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898176>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73579&periodId=565>
-
-### 67148 Quantum Field Theory in Condensed Matter
-
 - **Segment:** `exam:11900200` · **unitId:** `73579`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900200>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73579&periodId=565>
-
-### 67149 General Relativity I
-
-- **Segment:** `exam:11898180` · **unitId:** `73577`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898180>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73577&periodId=565>
 
 ### 67149 General Relativity I
 
@@ -3067,33 +2368,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67152 Data acquisition and digital processing of analog signals
 
-- **Segment:** `exam:11898183` · **unitId:** `56418`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898183>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56418&periodId=565>
-
-### 67152 Data acquisition and digital processing of analog signals
-
 - **Segment:** `exam:11900207` · **unitId:** `56418`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900207>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56418&periodId=565>
 
 ### 67153 Attosekundenphysik
 
-- **Segment:** `exam:11898187` · **unitId:** `68139`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898187>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68139&periodId=565>
-
-### 67153 Attosekundenphysik
-
 - **Segment:** `exam:11900211` · **unitId:** `68139`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900211>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68139&periodId=565>
-
-### 67154 Introduction to Astroparticle Physics
-
-- **Segment:** `exam:11898191` · **unitId:** `58719`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898191>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=58719&periodId=565>
 
 ### 67154 Introduction to Astroparticle Physics
 
@@ -3109,12 +2392,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67155 Recent Publications in Astroparticle Physics
 
-- **Segment:** `exam:11898195` · **unitId:** `56845`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898195>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56845&periodId=565>
-
-### 67155 Recent Publications in Astroparticle Physics
-
 - **Segment:** `exam:11900219` · **unitId:** `56845`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900219>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56845&periodId=565>
@@ -3123,12 +2400,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11904907` · **unitId:** `61552`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16998|exam:11904772|exam:11904907>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=61552&periodId=565>
-
-### 67156 Quantum Computing
-
-- **Segment:** `exam:11898197` · **unitId:** `61552`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898197>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=61552&periodId=565>
 
 ### 67156 Quantum Computing
@@ -3151,12 +2422,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67157 Neutrino Astronomy
 
-- **Segment:** `exam:11898202` · **unitId:** `55782`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898202>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55782&periodId=565>
-
-### 67157 Neutrino Astronomy
-
 - **Segment:** `exam:11900226` · **unitId:** `55782`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900226>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55782&periodId=565>
@@ -3175,12 +2440,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67158 Detektoren für Teilchen und Strahlung
 
-- **Segment:** `exam:11898206` · **unitId:** `64118`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898206>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=64118&periodId=565>
-
-### 67158 Detektoren für Teilchen und Strahlung
-
 - **Segment:** `exam:11900230` · **unitId:** `64118`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900230>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=64118&periodId=565>
@@ -3189,12 +2448,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11904920` · **unitId:** `56368`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16998|exam:11904772|exam:11904920>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56368&periodId=565>
-
-### 67159 Galaxien und Kosmologie
-
-- **Segment:** `exam:11898210` · **unitId:** `56368`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898210>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56368&periodId=565>
 
 ### 67159 Galaxien und Kosmologie
@@ -3211,12 +2464,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67160 Moderne Methoden der Strahlentherapie
 
-- **Segment:** `exam:11898213` · **unitId:** `63958`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898213>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=63958&periodId=565>
-
-### 67160 Moderne Methoden der Strahlentherapie
-
 - **Segment:** `exam:11900237` · **unitId:** `63958`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900237>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=63958&periodId=565>
@@ -3229,21 +2476,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67161 Topologie und Frustration in Quantensystemen
 
-- **Segment:** `exam:11898215` · **unitId:** `66851`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898215>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66851&periodId=565>
-
-### 67161 Topologie und Frustration in Quantensystemen
-
 - **Segment:** `exam:11900239` · **unitId:** `66851`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900239>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66851&periodId=565>
-
-### 67162 Seminar: Problems of the International Physicists' Tournament
-
-- **Segment:** `exam:11898413` · **unitId:** `65546`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898413>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65546&periodId=565>
 
 ### 67162 Seminar: Problems of the International Physicists' Tournament
 
@@ -3259,21 +2494,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67163 Seminar: Soft Matter Journal Club: Complex Fluids
 
-- **Segment:** `exam:11898218` · **unitId:** `63593`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898218>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=63593&periodId=565>
-
-### 67163 Seminar: Soft Matter Journal Club: Complex Fluids
-
 - **Segment:** `exam:11900242` · **unitId:** `63593`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900242>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=63593&periodId=565>
-
-### 67164 Seminar: Physik in der Medizin
-
-- **Segment:** `exam:11898416` · **unitId:** `66901`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898416>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66901&periodId=565>
 
 ### 67164 Seminar: Physik in der Medizin
 
@@ -3285,12 +2508,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11904452` · **unitId:** `59996`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16994|exam:11904430|exam:11904452>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59996&periodId=565>
-
-### 67165 Seminar: Modern Optics: Recent trends in nonlinear optics, classical and quantum optics
-
-- **Segment:** `exam:11898419` · **unitId:** `59996`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898419>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59996&periodId=565>
 
 ### 67165 Seminar: Modern Optics: Recent trends in nonlinear optics, classical and quantum optics
@@ -3307,12 +2524,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67166 Seminar: Starkfeld- und Attosekundenphysik
 
-- **Segment:** `exam:11898421` · **unitId:** `56221`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898421>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56221&periodId=565>
-
-### 67166 Seminar: Starkfeld- und Attosekundenphysik
-
 - **Segment:** `exam:11900445` · **unitId:** `56221`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900421|exam:11900445>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56221&periodId=565>
@@ -3321,12 +2532,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11904930` · **unitId:** `68078`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16998|exam:11904772|exam:11904930>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68078&periodId=565>
-
-### 67167 Seminar: Strukturen auf verschiedenen Zeitskalen
-
-- **Segment:** `exam:11898220` · **unitId:** `68078`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898220>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68078&periodId=565>
 
 ### 67167 Seminar: Strukturen auf verschiedenen Zeitskalen
@@ -3349,21 +2554,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67168 Seminar zu aktuellen Problemen der Biomedizinischen Technik
 
-- **Segment:** `exam:11898423` · **unitId:** `61434`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898423>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=61434&periodId=565>
-
-### 67168 Seminar zu aktuellen Problemen der Biomedizinischen Technik
-
 - **Segment:** `exam:11900447` · **unitId:** `61434`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900421|exam:11900447>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=61434&periodId=565>
-
-### 67169 Topologie und Frustration in Quantensystemen
-
-- **Segment:** `exam:11898222` · **unitId:** `68881`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898222>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68881&periodId=565>
 
 ### 67169 Topologie und Frustration in Quantensystemen
 
@@ -3379,12 +2572,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67170 Introduction to X-ray astronomy
 
-- **Segment:** `exam:11898226` · **unitId:** `69817`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898226>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69817&periodId=565>
-
-### 67170 Introduction to X-ray astronomy
-
 - **Segment:** `exam:11900250` · **unitId:** `69817`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900250>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69817&periodId=565>
@@ -3393,12 +2580,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11904938` · **unitId:** `69822`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16998|exam:11904772|exam:11904938>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69822&periodId=565>
-
-### 67171 Simulationsmethoden in der Optik
-
-- **Segment:** `exam:11898228` · **unitId:** `69822`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898228>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69822&periodId=565>
 
 ### 67171 Simulationsmethoden in der Optik
@@ -3421,12 +2602,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67172 Methods of Data Analysis I
 
-- **Segment:** `exam:11898230` · **unitId:** `69829`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898230>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69829&periodId=565>
-
-### 67172 Methods of Data Analysis I
-
 - **Segment:** `exam:11900254` · **unitId:** `69829`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900254>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69829&periodId=565>
@@ -3435,12 +2610,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11904942` · **unitId:** `69834`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16998|exam:11904772|exam:11904942>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69834&periodId=565>
-
-### 67173 Interpreting astronomical spectra 2
-
-- **Segment:** `exam:11898232` · **unitId:** `69834`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898232>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69834&periodId=565>
 
 ### 67173 Interpreting astronomical spectra 2
@@ -3463,12 +2632,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67174 Extreme Astrophysics
 
-- **Segment:** `exam:11898235` · **unitId:** `69838`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898235>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69838&periodId=565>
-
-### 67174 Extreme Astrophysics
-
 - **Segment:** `exam:11900259` · **unitId:** `69838`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900259>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69838&periodId=565>
@@ -3481,12 +2644,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67175 Seminar: Recent publications in Astrophysics
 
-- **Segment:** `exam:11898238` · **unitId:** `69843`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898238>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69843&periodId=565>
-
-### 67175 Seminar: Recent publications in Astrophysics
-
 - **Segment:** `exam:11900262` · **unitId:** `69843`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900262>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69843&periodId=565>
@@ -3495,12 +2652,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11904459` · **unitId:** `69848`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16994|exam:11904430|exam:11904459>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69848&periodId=565>
-
-### 67176 Cavity spintronics
-
-- **Segment:** `exam:11898426` · **unitId:** `69848`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898426>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69848&periodId=565>
 
 ### 67176 Cavity spintronics
@@ -3523,12 +2674,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67181 Biophysik und Biomechanik
 
-- **Segment:** `exam:11898240` · **unitId:** `70238`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898240>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70238&periodId=565>
-
-### 67181 Biophysik und Biomechanik
-
 - **Segment:** `exam:11900264` · **unitId:** `70238`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900264>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70238&periodId=565>
@@ -3537,12 +2682,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11904953` · **unitId:** `70391`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16998|exam:11904772|exam:11904953>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70391&periodId=565>
-
-### 67182 Methoden der Angewandten Physik
-
-- **Segment:** `exam:11898243` · **unitId:** `70391`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898243>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70391&periodId=565>
 
 ### 67182 Methoden der Angewandten Physik
@@ -3559,12 +2698,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67183 Seminar: Soft Matter Journal Club: Phase-field models
 
-- **Segment:** `exam:11898428` · **unitId:** `70527`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898428>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70527&periodId=565>
-
-### 67183 Seminar: Soft Matter Journal Club: Phase-field models
-
 - **Segment:** `exam:11900452` · **unitId:** `70527`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900421|exam:11900452>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70527&periodId=565>
@@ -3573,12 +2706,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11904463` · **unitId:** `73255`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16994|exam:11904430|exam:11904463>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73255&periodId=565>
-
-### 67185 Soft Matter Journal Club: The physics of networks
-
-- **Segment:** `exam:11898430` · **unitId:** `73255`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898430>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73255&periodId=565>
 
 ### 67185 Soft Matter Journal Club: The physics of networks
@@ -3601,12 +2728,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67186 Neue zweidimensionale Materialien
 
-- **Segment:** `exam:11898247` · **unitId:** `73259`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898247>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73259&periodId=565>
-
-### 67186 Neue zweidimensionale Materialien
-
 - **Segment:** `exam:11900271` · **unitId:** `73259`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900271>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73259&periodId=565>
@@ -3615,12 +2736,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11904465` · **unitId:** `73268`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16994|exam:11904430|exam:11904465>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73268&periodId=565>
-
-### 67187 Superconducting Circuits and Qubits
-
-- **Segment:** `exam:11898432` · **unitId:** `73268`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898432>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73268&periodId=565>
 
 ### 67187 Superconducting Circuits and Qubits
@@ -3637,12 +2752,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67188 Quantum Communication
 
-- **Segment:** `exam:11898434` · **unitId:** `73271`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898434>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73271&periodId=565>
-
-### 67188 Quantum Communication
-
 - **Segment:** `exam:11900458` · **unitId:** `73271`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900421|exam:11900458>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73271&periodId=565>
@@ -3655,21 +2764,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67189 Noncommutative Geometry
 
-- **Segment:** `exam:11898437` · **unitId:** `73275`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898437>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73275&periodId=565>
-
-### 67189 Noncommutative Geometry
-
 - **Segment:** `exam:11900461` · **unitId:** `73275`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900421|exam:11900461>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73275&periodId=565>
-
-### 67190 Materials beyond the single particle picture
-
-- **Segment:** `exam:11898439` · **unitId:** `73279`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898439>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73279&periodId=565>
 
 ### 67190 Materials beyond the single particle picture
 
@@ -3681,12 +2778,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11904475` · **unitId:** `73285`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16994|exam:11904430|exam:11904475>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73285&periodId=565>
-
-### 67191 Physics of low-dimensional materials
-
-- **Segment:** `exam:11898442` · **unitId:** `73285`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898442>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73285&periodId=565>
 
 ### 67191 Physics of low-dimensional materials
@@ -3703,12 +2794,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67192 Modern Optics - Recent advances in nonlinear photonics and communications
 
-- **Segment:** `exam:11898445` · **unitId:** `73286`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898445>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73286&periodId=565>
-
-### 67192 Modern Optics - Recent advances in nonlinear photonics and communications
-
 - **Segment:** `exam:11900469` · **unitId:** `73286`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900421|exam:11900469>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73286&periodId=565>
@@ -3717,12 +2802,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11904480` · **unitId:** `73292`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16994|exam:11904430|exam:11904480>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73292&periodId=565>
-
-### 67193 Modern Optics - Advanced microscopy and biophotonics
-
-- **Segment:** `exam:11898447` · **unitId:** `73292`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898447>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73292&periodId=565>
 
 ### 67193 Modern Optics - Advanced microscopy and biophotonics
@@ -3745,12 +2824,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67194 Binary stars and extrasolar planets
 
-- **Segment:** `exam:11898250` · **unitId:** `73296`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898250>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73296&periodId=565>
-
-### 67194 Binary stars and extrasolar planets
-
 - **Segment:** `exam:11900274` · **unitId:** `73296`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900274>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73296&periodId=565>
@@ -3759,12 +2832,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11904962` · **unitId:** `73300`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16998|exam:11904772|exam:11904962>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73300&periodId=565>
-
-### 67195 Introduction to X-ray astronomy II: Extragalactic Astronomy
-
-- **Segment:** `exam:11898252` · **unitId:** `73300`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898252>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73300&periodId=565>
 
 ### 67195 Introduction to X-ray astronomy II: Extragalactic Astronomy
@@ -3781,12 +2848,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67196 Finite Projective Physics
 
-- **Segment:** `exam:11898254` · **unitId:** `73360`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898254>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73360&periodId=565>
-
-### 67196 Finite Projective Physics
-
 - **Segment:** `exam:11900278` · **unitId:** `73360`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900278>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73360&periodId=565>
@@ -3795,12 +2856,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11904966` · **unitId:** `73573`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16998|exam:11904772|exam:11904966>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73573&periodId=565>
-
-### 67197 X-ray quantum optics
-
-- **Segment:** `exam:11898256` · **unitId:** `73573`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898256>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73573&periodId=565>
 
 ### 67197 X-ray quantum optics
@@ -3817,12 +2872,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67198 Laser matter interaction
 
-- **Segment:** `exam:11898449` · **unitId:** `73583`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898449>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73583&periodId=565>
-
-### 67198 Laser matter interaction
-
 - **Segment:** `exam:11900473` · **unitId:** `73583`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900421|exam:11900473>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73583&periodId=565>
@@ -3835,21 +2884,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67199 Ringseminar Astroteilchenphysik
 
-- **Segment:** `exam:11898451` · **unitId:** `73584`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898451>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73584&periodId=565>
-
-### 67199 Ringseminar Astroteilchenphysik
-
 - **Segment:** `exam:11900475` · **unitId:** `73584`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900421|exam:11900475>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73584&periodId=565>
-
-### 67201 Moderne Therapien mit Gamma- und Ionenstrahlen
-
-- **Segment:** `exam:11898360` · **unitId:** `120841`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898360>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120841&periodId=565>
 
 ### 67201 Moderne Therapien mit Gamma- und Ionenstrahlen
 
@@ -3861,12 +2898,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11905073` · **unitId:** `120846`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16998|exam:11904772|exam:11905073>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120846&periodId=565>
-
-### 67202 Moderne diagnostische Verfahren mit Röntgen- und Gammastrahlen
-
-- **Segment:** `exam:11898363` · **unitId:** `120846`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898363>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120846&periodId=565>
 
 ### 67202 Moderne diagnostische Verfahren mit Röntgen- und Gammastrahlen
@@ -3883,12 +2914,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67203 Moderne diagnostische Verfahren mit Ultraschall und Magnetresonanz
 
-- **Segment:** `exam:11898366` · **unitId:** `120850`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898366>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120850&periodId=565>
-
-### 67203 Moderne diagnostische Verfahren mit Ultraschall und Magnetresonanz
-
 - **Segment:** `exam:11900390` · **unitId:** `120850`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900390>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120850&periodId=565>
@@ -3897,12 +2922,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11905079` · **unitId:** `120855`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16998|exam:11904772|exam:11905079>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120855&periodId=565>
-
-### 67204 Laserbasierte diagnostische und therapeutische Verfahren in der Medizin
-
-- **Segment:** `exam:11898369` · **unitId:** `120855`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898369>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120855&periodId=565>
 
 ### 67204 Laserbasierte diagnostische und therapeutische Verfahren in der Medizin
@@ -3919,12 +2938,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67205 Classical and Quantum Optomechanics
 
-- **Segment:** `exam:11898502` · **unitId:** `125741`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898502>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125741&periodId=565>
-
-### 67205 Classical and Quantum Optomechanics
-
 - **Segment:** `exam:11900526` · **unitId:** `125741`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900421|exam:11900526>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125741&periodId=565>
@@ -3937,21 +2950,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67206 Physics for the Clinic
 
-- **Segment:** `exam:11898504` · **unitId:** `128737`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898504>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128737&periodId=565>
-
-### 67206 Physics for the Clinic
-
 - **Segment:** `exam:11900528` · **unitId:** `128737`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900421|exam:11900528>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128737&periodId=565>
-
-### 67207 Logical foundations of empirical knowledge
-
-- **Segment:** `exam:11898506` · **unitId:** `128784`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898397|exam:11898506>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128784&periodId=565>
 
 ### 67207 Logical foundations of empirical knowledge
 
@@ -3963,12 +2964,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11905095` · **unitId:** `128755`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16998|exam:11904772|exam:11905095>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128755&periodId=565>
-
-### 67208 Bubbling, squeezing, conducting: the physics of chemically reactive systems
-
-- **Segment:** `exam:11898385` · **unitId:** `128755`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898385>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128755&periodId=565>
 
 ### 67208 Bubbling, squeezing, conducting: the physics of chemically reactive systems
@@ -3985,12 +2980,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67209 Open Quantum Systems
 
-- **Segment:** `exam:11898388` · **unitId:** `128763`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898388>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128763&periodId=565>
-
-### 67209 Open Quantum Systems
-
 - **Segment:** `exam:11900412` · **unitId:** `128763`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900412>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128763&periodId=565>
@@ -4003,21 +2992,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67211 Quantum Information Processing: Implementations
 
-- **Segment:** `exam:11898390` · **unitId:** `128773`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898390>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128773&periodId=565>
-
-### 67211 Quantum Information Processing: Implementations
-
 - **Segment:** `exam:11900414` · **unitId:** `128773`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900414>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128773&periodId=565>
-
-### 67212 Methods in theoretical quantum optics
-
-- **Segment:** `exam:11898392` · **unitId:** `128778`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898392>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128778&periodId=565>
 
 ### 67212 Methods in theoretical quantum optics
 
@@ -4029,36 +3006,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11904739` · **unitId:** `42162`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16999|exam:11904731|exam:11904739>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=42162&periodId=565>
-
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | 12:00–14:00 | — | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
-
-### 69411 Advanced experimental physics - Leistung
-
-- **Segment:** `exam:11898044` · **unitId:** `42162`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898043|exam:11898044>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=42162&periodId=565>
-
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | 12:00–14:00 | — | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
-
-### 69411 Advanced experimental physics - Leistung
-
-- **Segment:** `exam:11898592` · **unitId:** `42162`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898584|exam:11898592>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=42162&periodId=565>
 
 - **ECTS-Punkte:** 10.0
@@ -4147,36 +3094,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 69611 Advanced theoretical physics - Leistung
 
-- **Segment:** `exam:11898050` · **unitId:** `42164`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898045|exam:11898050>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=42164&periodId=565>
-
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | 08:15–10:15 | — | 13003.00.874 (HD Hörsaal Physikum) |
-
-### 69611 Advanced theoretical physics - Leistung
-
-- **Segment:** `exam:15691283` · **unitId:** `42164`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:15691261|exam:15691283>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=42164&periodId=565>
-
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | 08:15–10:15 | — | 13003.00.874 (HD Hörsaal Physikum) |
-
-### 69611 Advanced theoretical physics - Leistung
-
 - **Segment:** `exam:11900059` · **unitId:** `42164`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900054|exam:11900059>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=42164&periodId=565>
@@ -4239,21 +3156,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11904614` · **unitId:** `42166`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:17001|exam:11904606|exam:11904614>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=42166&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 69811 Advanced lab courses and projects - Leistung
-
-- **Segment:** `exam:11898059` · **unitId:** `42166`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898051|exam:11898059>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=42166&periodId=565>
 
 - **ECTS-Punkte:** 5.0
@@ -4331,6 +3233,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16998|exam:11904772|exam:11905058|exam:11905059>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113666&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch oder Englisch
 
 #### Termine
@@ -4510,6 +3413,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16998|exam:11904772|exam:11904848|exam:11904851>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=77608&periodId=565>
 
+- **ECTS-Punkte:** 10.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -4691,12 +3595,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 715117 Gamma ray telescopes in the class room
 
-- **Segment:** `exam:11898320` · **unitId:** `68347`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898320>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68347&periodId=565>
-
-### 715117 Gamma ray telescopes in the class room
-
 - **Segment:** `exam:11900344` · **unitId:** `68347`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900344>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68347&periodId=565>
@@ -4707,6 +3605,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16998|exam:11904772|exam:11904897|exam:11904900>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54944&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch oder Englisch
 
 #### Termine
@@ -4766,6 +3665,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16998|exam:11904772|exam:11904932|exam:11904935>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68779&periodId=565>
 
+- **ECTS-Punkte:** 7.5
 - **Unterrichtssprache:** Deutsch oder Englisch
 
 #### Termine
@@ -4812,12 +3712,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 745913 Quantum Physics of Light-Matter Interactions
 
-- **Segment:** `exam:11898323` · **unitId:** `52982`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898323>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=52982&periodId=565>
-
-### 745913 Quantum Physics of Light-Matter Interactions
-
 - **Segment:** `exam:11900347` · **unitId:** `52982`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900347>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=52982&periodId=565>
@@ -4851,12 +3745,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Fr | Fr | — | — | — |
-
-### 768977 Neutrinophysik
-
-- **Segment:** `exam:11898325` · **unitId:** `53485`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898325>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53485&periodId=565>
 
 ### 768977 Neutrinophysik
 
@@ -4902,12 +3790,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 778342 Oberflächenphysik
 
-- **Segment:** `exam:11898330` · **unitId:** `65479`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898330>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65479&periodId=565>
-
-### 778342 Oberflächenphysik
-
 - **Segment:** `exam:11900354` · **unitId:** `65479`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900354>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65479&periodId=565>
@@ -4916,12 +3798,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11905042` · **unitId:** `68877`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16998|exam:11904772|exam:11905042>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68877&periodId=565>
-
-### 783846 Dimensionsanalyse und experimentelles Arbeiten
-
-- **Segment:** `exam:11898332` · **unitId:** `68877`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898332>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68877&periodId=565>
 
 ### 783846 Dimensionsanalyse und experimentelles Arbeiten
@@ -4940,12 +3816,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11905046` · **unitId:** `53154`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16998|exam:11904772|exam:11905046>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53154&periodId=565>
-
-### 818341 Interpreting astronomical spectra
-
-- **Segment:** `exam:11898336` · **unitId:** `53154`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898336>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53154&periodId=565>
 
 ### 818341 Interpreting astronomical spectra
@@ -5080,6 +3950,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16998|exam:11904772|exam:11904799|exam:11904801>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50425&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -5092,12 +3963,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11904588` · **unitId:** `70131`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16992|exam:11904541|exam:11904588>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70131&periodId=565>
-
-### 848299 Medical physics in radiation therapy - special topic
-
-- **Segment:** `exam:11898568` · **unitId:** `70131`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898508|exam:11898568>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70131&periodId=565>
 
 ### 848299 Medical physics in radiation therapy - special topic
@@ -5120,21 +3985,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 849969 Lectures on Quantum Field Theory
 
-- **Segment:** `exam:11898338` · **unitId:** `53009`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898338>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53009&periodId=565>
-
-### 849969 Lectures on Quantum Field Theory
-
 - **Segment:** `exam:11900362` · **unitId:** `53009`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900362>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53009&periodId=565>
-
-### 855580 Grundlagen der biologischen Strahlenwirkung 3
-
-- **Segment:** `exam:11898570` · **unitId:** `58862`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898508|exam:11898570>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=58862&periodId=565>
 
 ### 855580 Grundlagen der biologischen Strahlenwirkung 3
 
@@ -5171,12 +4024,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 865025 Laserbasierte diagnostische und therapeutische Verfahren in der Medizin
 
-- **Segment:** `exam:11898340` · **unitId:** `52978`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898340>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=52978&periodId=565>
-
-### 865025 Laserbasierte diagnostische und therapeutische Verfahren in der Medizin
-
 - **Segment:** `exam:11900364` · **unitId:** `52978`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900364>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=52978&periodId=565>
@@ -5185,12 +4032,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11904592` · **unitId:** `70129`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16992|exam:11904541|exam:11904592>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70129&periodId=565>
-
-### 869515 Medical physics in radiation therapy - lab
-
-- **Segment:** `exam:11898572` · **unitId:** `70129`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898508|exam:11898572>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70129&periodId=565>
 
 ### 869515 Medical physics in radiation therapy - lab
@@ -5213,12 +4054,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 883846 Journal Club: Recent Publications in Astroparticle Physics
 
-- **Segment:** `exam:11898342` · **unitId:** `53016`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898342>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53016&periodId=565>
-
-### 883846 Journal Club: Recent Publications in Astroparticle Physics
-
 - **Segment:** `exam:11900366` · **unitId:** `53016`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900366>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53016&periodId=565>
@@ -5231,21 +4066,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 909727 Quantum Magnetism, Spin Waves, and Light
 
-- **Segment:** `exam:11898344` · **unitId:** `52983`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898344>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=52983&periodId=565>
-
-### 909727 Quantum Magnetism, Spin Waves, and Light
-
 - **Segment:** `exam:11900368` · **unitId:** `52983`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900086|exam:11900368>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=52983&periodId=565>
-
-### 93100 Grundlagen der systemnahen Programmierung in C
-
-- **Segment:** `exam:11898509` · **unitId:** `122399`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898508|exam:11898509>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122399&periodId=565>
 
 ### 93100 Grundlagen der systemnahen Programmierung in C
 
@@ -5267,12 +4090,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 932939 Medical physics in radiation therapy
 
-- **Segment:** `exam:11898574` · **unitId:** `70128`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898508|exam:11898574>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70128&periodId=565>
-
-### 932939 Medical physics in radiation therapy
-
 - **Segment:** `exam:11900598` · **unitId:** `70128`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900532|exam:11900598>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70128&periodId=565>
@@ -5282,12 +4099,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:11902960` · **unitId:** `70128`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11902040|exam:11902041|exam:11902044|exam:11902894|exam:11902960>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70128&periodId=565>
-
-### 948057 Grundlagen der biologischen Strahlenwirkung 1
-
-- **Segment:** `exam:11898576` · **unitId:** `69034`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898508|exam:11898576>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69034&periodId=565>
 
 ### 948057 Grundlagen der biologischen Strahlenwirkung 1
 
@@ -5309,12 +4120,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 948058 Grundlagen der biologischen Strahlenwirkung 2
 
-- **Segment:** `exam:11898578` · **unitId:** `69039`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898508|exam:11898578>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69039&periodId=565>
-
-### 948058 Grundlagen der biologischen Strahlenwirkung 2
-
 - **Segment:** `exam:11900602` · **unitId:** `69039`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900532|exam:11900602>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69039&periodId=565>
@@ -5329,12 +4134,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11905056` · **unitId:** `52648`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16998|exam:11904772|exam:11905056>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=52648&periodId=565>
-
-### 997394 Methods of data analysis II and Introduction to machine learning
-
-- **Segment:** `exam:11898346` · **unitId:** `52648`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898062|exam:11898346>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=52648&periodId=565>
 
 ### 997394 Methods of data analysis II and Introduction to machine learning
@@ -5383,7 +4182,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16997|exam:11904663|exam:11904665>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95563&periodId=565>
 
+- **Veranstaltungsart:** Hauptseminar
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -5398,7 +4200,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16998|exam:11904772|exam:11904823|exam:11904825>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95563&periodId=565>
 
+- **Veranstaltungsart:** Hauptseminar
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -5526,24 +4331,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### EV-A - Advanced Course in Experimental Physics  (Lasers, Atomic Physics and Quantum Optics) - Vorlesung
 
-- **Segment:** `exam:11898585` · **unitId:** `82498`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898584|exam:11898585>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82498&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 12:00–14:00 | 23.10.2025–05.02.2026 | 13003.00.807 (HH Hörsaal Physikum) |
-| wöchentlich | Di | 12:00–14:00 | 21.10.2025–03.02.2026 | 13003.00.807 (HH Hörsaal Physikum) |
-
-### EV-A - Advanced Course in Experimental Physics  (Lasers, Atomic Physics and Quantum Optics) - Vorlesung
-
 - **Segment:** `exam:11900044` · **unitId:** `82498`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900043|exam:11900044>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82498&periodId=565>
@@ -5590,16 +4377,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### EV-AL - Advanced Course in Experimental Physics  (Lasers, Atomic Physics and Quantum Optics)(Laser exercise lab)(EV-AL) - Übung
 
-- **Segment:** `exam:11898586` · **unitId:** `84291`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898584|exam:11898586>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84291&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Wintersemester
-
-### EV-AL - Advanced Course in Experimental Physics  (Lasers, Atomic Physics and Quantum Optics)(Laser exercise lab)(EV-AL) - Übung
-
 - **Segment:** `exam:11900045` · **unitId:** `84291`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900043|exam:11900045>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84291&periodId=565>
@@ -5622,24 +4399,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:11904734` · **unitId:** `84886`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16999|exam:11904731|exam:11904734>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84886&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 10:00–12:00 | 24.10.2025–06.02.2026 | 13101.00.732 (SR 00.732 Seminarraum der Didaktik der Physik) |
-| wöchentlich | Fr | 10:00–12:00 | 24.10.2025–06.02.2026 | 13003.00.836 (HF Hörsaal Physikum) |
-| wöchentlich | Fr | 10:00–12:00 | 24.10.2025–06.02.2026 | 13101.01.683 (SR 01.683 Seminarraum der Theoretischen Physik I) |
-
-### EV-AU - Advanced Course in Experimental Physics (Lasers, Atomic Physics and Quantum Optics) (Excercise class) - Übung
-
-- **Segment:** `exam:11898587` · **unitId:** `84886`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898584|exam:11898587>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84886&periodId=565>
 
 - **Veranstaltungsart:** Übung
@@ -5696,7 +4455,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16998|exam:11904772|exam:13753526|exam:13784326>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93105&periodId=565>
 
+- **Veranstaltungsart:** Hauptseminar
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -5765,7 +4527,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16992|exam:11904541|exam:11904602|exam:11904603>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82706&periodId=565>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -5779,7 +4543,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16998|exam:11904772|exam:11904995|exam:11904997>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88402&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -5793,7 +4560,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16998|exam:11904772|exam:11904995|exam:11904996>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87143&periodId=565>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -5966,7 +4736,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16994|exam:11904430|exam:11904446|exam:11904447>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90877&periodId=565>
 
+- **Veranstaltungsart:** Hauptseminar
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -6111,7 +4884,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16995|exam:11904623|exam:11904625>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83200&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch oder Englisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -6125,7 +4901,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16996|exam:11904691|exam:11904693>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83200&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch oder Englisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -6139,7 +4918,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16998|exam:11904772|exam:11904788|exam:11904790>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83200&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch oder Englisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -6201,7 +4983,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16993|exam:11904420|exam:11904422>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88880&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -6215,7 +5000,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:16998|exam:11904772|exam:11904795|exam:11904797>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88880&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -6229,7 +5017,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16989|title:17000|exam:11904756|exam:11904758>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88880&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -6406,29 +5197,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### TV-A - Advanced theoretical physics: Advanced quantum mechanics - Vorlesung
 
-- **Segment:** `exam:11898049` · **unitId:** `91909`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898045|exam:11898049>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91909&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 14.10.2025–03.02.2026 | 13003.00.874 (HD Hörsaal Physikum) |
-| wöchentlich | Do | 10:00–12:00 | 16.10.2025–05.02.2026 | 13003.00.874 (HD Hörsaal Physikum) |
-| Einzeltermin | Di | 08:30–10:00 | 11.11.2025 | 13003.00.874 (HD Hörsaal Physikum) |
-| Einzeltermin | Di | 08:30–10:00 | 25.11.2025 | 13003.00.874 (HD Hörsaal Physikum) |
-| Einzeltermin | Do | 16:15–18:00 | 11.12.2025 | 13003.00.827 (HG Hörsaal Physikum) |
-| Einzeltermin | Do | 16:15–18:00 | 11.12.2025 | 13003.00.807 (HH Hörsaal Physikum) |
-| Einzeltermin | Do | 16:15–18:00 | 11.12.2025 | — |
-
-### TV-A - Advanced theoretical physics: Advanced quantum mechanics - Vorlesung
-
 - **Segment:** `exam:11900058` · **unitId:** `91909`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900054|exam:11900058>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91909&periodId=565>
@@ -6497,28 +5265,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### TV-AU - Advanced theoretical physics: Advanced quantum mechanics (Exercise class) - Übung
 
-- **Segment:** `exam:11898047` · **unitId:** `88568`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11898031|exam:11898032|exam:11898033|exam:11898045|exam:11898047>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88568&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 09:00–12:00 | 15.10.2025–04.02.2026 | 13101.02.729 (SR 02.729 Seminarraum der Theoretischen Physik III) |
-| wöchentlich | Do | 13:00–19:00 | 16.10.2025–05.02.2026 | 13101.01.779 (SR 01.779 Seminarraum des Instituts für Optik, Information und Photonik) |
-| wöchentlich | Do | 13:00–19:00 | 16.10.2025–05.02.2026 | 13003.00.882 (HB Hörsaal -Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
-| wöchentlich | Do | 16:00–19:00 | 16.10.2025–05.02.2026 | 13101.02.779 (SR 02.779 Seminarraum der Theoretischen Physik II) |
-| wöchentlich | Fr | 14:00–17:00 | 17.10.2025–06.02.2026 | 13101.00.732 (SR 00.732 Seminarraum der Didaktik der Physik) |
-| wöchentlich | Do | 13:00–20:00 | 23.10.2025–05.02.2026 | 13101.02.729 (SR 02.729 Seminarraum der Theoretischen Physik III) |
-| Einzeltermin | Mi | 14:00–17:00 | 17.12.2025 | 13101.02.729 (SR 02.729 Seminarraum der Theoretischen Physik III) |
-
-### TV-AU - Advanced theoretical physics: Advanced quantum mechanics (Exercise class) - Übung
-
 - **Segment:** `exam:11900056` · **unitId:** `88568`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16814|title:16990|exam:11900025|exam:11900026|exam:11900028|exam:11900054|exam:11900056>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88568&periodId=565>
@@ -6561,7 +5307,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | wöchentlich | Do | 13:00–20:00 | 23.10.2025–05.02.2026 | 13101.02.729 (SR 02.729 Seminarraum der Theoretischen Physik III) |
 | Einzeltermin | Mi | 14:00–17:00 | 17.12.2025 | 13101.02.729 (SR 02.729 Seminarraum der Theoretischen Physik III) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (92)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (86)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -6702,23 +5448,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
-### Attosecond Physics — Hauptseminar
-
-- **Segment:** `unit:122440` · **unitId:** `122440`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122440&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** Unregelmäßig
-
-### Attosekundenphysik — Vorlesung
-
-- **Segment:** `unit:85923` · **unitId:** `85923`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85923&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
 ### Being creative in physics — Hauptseminar
 
 - **Segment:** `unit:115170` · **unitId:** `115170`
@@ -6835,15 +5564,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
-### Dimensionsanalyse und experimentelles Arbeiten — Vorlesung
-
-- **Segment:** `unit:85810` · **unitId:** `85810`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85810&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
 ### Electronic structure and strong light-matter coupling in materials in optical cavities — Seminar
 
 - **Segment:** `unit:113555` · **unitId:** `113555`
@@ -6860,13 +5580,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
-
-### Exercise to Attosecond  Physics — Übung
-
-- **Segment:** `unit:134675` · **unitId:** `134675`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134675&periodId=565>
-
-- **Veranstaltungsart:** Übung
 
 ### Exercises for Theory of Soft Matter and Biological Physics — Übung
 
@@ -7014,6 +5727,38 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
+### Latein I für Anfänger (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
+
+- **Segment:** `unit:96547` · **unitId:** `96547`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96547&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:00–16:00 | 13.10.2025–02.02.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.10.2025–04.02.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
+
+### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
+
+- **Segment:** `unit:83014` · **unitId:** `83014`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83014&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.10.2025–02.02.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 16:00–18:00 | 15.10.2025–04.02.2026 | 05701.00.017 ( Kl. Hörsaal) |
+
 ### Latein II für Fortgeschrittene - Intensivkurs (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
 - **Segment:** `unit:89729` · **unitId:** `89729`
@@ -7139,12 +5884,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Hauptseminar
 - **Turnus:** nur im Wintersemester
 
-### Novel 2D Materials / Neue zweidimensionale Materialien — Vorlesung mit Übung
+### Novel 2D Materials / Neue zweidimensionale Materialien — Hauptseminar
 
 - **Segment:** `unit:111071` · **unitId:** `111071`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111071&periodId=565>
 
-- **Veranstaltungsart:** Vorlesung mit Übung
+- **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
@@ -7201,33 +5946,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
-
-### Physikalisches Experimentieren in der Medizin 1 — Praktikum
-
-- **Segment:** `unit:86929` · **unitId:** `86929`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86929&periodId=565>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Physikalisches Experimentieren in der Medizin 2 — Praktikum
-
-- **Segment:** `unit:86295` · **unitId:** `86295`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86295&periodId=565>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Physikalisches Seminar: Materie in intensiven Laserfeldern — Hauptseminar
-
-- **Segment:** `unit:88034` · **unitId:** `88034`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88034&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
 
 ### Physikalisches Seminar: Nonlinear and Quantum Optics — Hauptseminar
 
@@ -7307,15 +6025,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** in jedem Semester
-
-### Struktur kristalliner Materie I — Vorlesung
-
-- **Segment:** `unit:84622` · **unitId:** `84622`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84622&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
 
 ### Superconducting Qubits — Hauptseminar
 

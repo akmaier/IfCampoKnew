@@ -246,7 +246,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 08:30–12:00 | 16.04.2026–28.05.2026 | 54301.02.313 ( 02.313 Seminarraum) |
+| wöchentlich | Do | 08:30–12:00 | 11.06.2026–16.07.2026 | 54301.02.313 ( 02.313 Seminarraum) |
 
 ### Berufsqualifizierende Tätigkeit [III]: Praktikum ambulant 150 Stunden Präsenzzeit - Praktikum
 
@@ -285,7 +285,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | — |
+| Einzeltermin | Fr | 12:15–13:45 | 17.04.2026 | 54201.00.030 ( Hörsaal - Studienzentrum Stintzingstraße) |
 
 ### Forschungsorientiertes Praktikum II - Psychotherapieforschung - Praktikum
 
@@ -302,7 +302,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | — |
+| Einzeltermin | Fr | 12:15–13:45 | 17.04.2026 | 54201.00.030 ( Hörsaal - Studienzentrum Stintzingstraße) |
 
 ### Hauptseminar Gutachtenerstellung  - Hauptseminar
 
@@ -319,7 +319,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 16:15–17:45 | 21.04.2026–14.07.2026 | 54301.02.216 ( 02.216 Seminarraum, Nägelsbachstr. 49b) |
+| wöchentlich | Mo | 10:15–11:45 | 20.04.2026–13.07.2026 | 54301.02.216 ( 02.216 Seminarraum, Nägelsbachstr. 49b) |
 
 ### Kolloquium: Interdisciplinary Psychotherapy Research (KliPs-BHT) - Kolloquium
 
@@ -781,7 +781,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:15–15:45 | 21.04.2026–14.07.2026 | 54201.00.020 ( SR 2 Studienzentrum) |
 
 ### Vorlesung Grundlagen Pharmakotherapie - K-V Vorlesung 'Grundlagen der Pharmakotherapie' Modul 11 (Polyvalenter Bachelor of Science Psychologie) - Vorlesung
 

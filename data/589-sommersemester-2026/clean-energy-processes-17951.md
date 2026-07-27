@@ -527,6 +527,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Sommersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:15–11:45 | 20.05.2026–15.07.2026 | 11901.00.236 (K1-119 Brose-Saal) |
+
 ### Chemical Thermodynamics CEP (Exercise) - Übung
 
 - **Segment:** `exam:14645727` · **unitId:** `110458`
@@ -536,6 +542,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Sommersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:15–11:45 | 20.05.2026–15.07.2026 | 11901.00.236 (K1-119 Brose-Saal) |
+
 ### Chemical Thermodynamics CEP (Exercise) - Übung
 
 - **Segment:** `exam:14648872` · **unitId:** `110458`
@@ -544,6 +556,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:15–11:45 | 20.05.2026–15.07.2026 | 11901.00.236 (K1-119 Brose-Saal) |
 
 ### Chemical Thermodynamics CEP - Vorlesung
 
@@ -736,7 +754,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 08:15–09:45 | 13.04.2026–13.07.2026 | 11201.00.245 (T 0.75 großer Seminarraum) |
+| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 11201.00.245 (T 0.75 großer Seminarraum) |
 
 ### Fundamentals of energy resources - Vorlesung mit Übung
 
@@ -746,7 +772,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 08:15–09:45 | 13.04.2026–13.07.2026 | 11201.00.245 (T 0.75 großer Seminarraum) |
+| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 11201.00.245 (T 0.75 großer Seminarraum) |
 
 ### Fundamentals of energy resources - Vorlesung mit Übung
 
@@ -756,7 +790,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 08:15–09:45 | 13.04.2026–13.07.2026 | 11201.00.245 (T 0.75 großer Seminarraum) |
+| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 11201.00.245 (T 0.75 großer Seminarraum) |
 
 ### Laboratory course process engineering - Praktikum
 
@@ -816,6 +858,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **ECTS-Punkte:** 2.0
 - **Turnus:** nur im Sommersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 08:15–09:45 | 16.04.2026–16.07.2026 | 11401.00.116 (H14 Bernhard-Ilschner-Hörsaal (0.61)) |
+
 ### Materials and Structure (CEP, Seminar) - Seminar
 
 - **Segment:** `exam:14645698` · **unitId:** `111337`
@@ -826,6 +874,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **ECTS-Punkte:** 2.0
 - **Turnus:** nur im Sommersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 08:15–09:45 | 16.04.2026–16.07.2026 | 11401.00.116 (H14 Bernhard-Ilschner-Hörsaal (0.61)) |
+
 ### Materials and Structure (CEP, Seminar) - Seminar
 
 - **Segment:** `exam:14648844` · **unitId:** `111337`
@@ -835,6 +889,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.0
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 08:15–09:45 | 16.04.2026–16.07.2026 | 11401.00.116 (H14 Bernhard-Ilschner-Hörsaal (0.61)) |
 
 ### Mathematics for Engineers II - Vorlesung
 
@@ -1073,6 +1133,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Sommersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 11501.04.023 (04.023 Hörsaal) |
+
 ### Scientific computing in engineering - Vorlesung
 
 - **Segment:** `exam:14645741` · **unitId:** `110404`
@@ -1082,6 +1148,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Sommersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 11501.04.023 (04.023 Hörsaal) |
+
 ### Scientific computing in engineering - Vorlesung
 
 - **Segment:** `exam:14648835` · **unitId:** `110404`
@@ -1090,6 +1162,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 11501.04.023 (04.023 Hörsaal) |
 
 ### 1995 Internship (M.Sc. Clean Energy Processes 20212) - Leistung
 
@@ -2103,7 +2181,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| Mo | Mo | 10:00–11:30 | — | 11201.00.245 (T 0.75 großer Seminarraum) |
 
 ### 27891 Storage technologies - Leistung
 
@@ -2118,7 +2196,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| Mo | Mo | 10:00–11:30 | — | 11201.00.245 (T 0.75 großer Seminarraum) |
 
 ### 27891 Storage technologies - Leistung
 
@@ -2133,7 +2211,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| Mo | Mo | 10:00–11:30 | — | 11201.00.245 (T 0.75 großer Seminarraum) |
 
 ### 27901 Laboratory course process engineering - Leistung
 
@@ -2283,7 +2361,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | Mo | 14:00–15:30 | — | — |
+| Mo | Mo | 15:30–17:00 | — | — |
 
 ### 27941 Introduction to interface engineering - Leistung
 
@@ -2298,7 +2376,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | Mo | 14:00–15:30 | — | — |
+| Mo | Mo | 15:30–17:00 | — | — |
 
 ### 42900 Process simulation with laboratory course
 
@@ -2904,7 +2982,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | 11401.00.123 (0.68 Seminarraum Werkstoffwissenschaften) |
 
 ### DSE-L - Data Science for Engineers - Vorlesung
 
@@ -2914,7 +2999,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | 11401.00.123 (0.68 Seminarraum Werkstoffwissenschaften) |
 
 ### DSE-L - Data Science for Engineers - Vorlesung
 
@@ -2924,7 +3016,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | 11401.00.123 (0.68 Seminarraum Werkstoffwissenschaften) |
 
 ### FEE - Fundamentals of Electrical Engineering - Vorlesung
 
@@ -3084,7 +3183,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 16:15–17:45 | 15.04.2026–15.07.2026 | 11401.00.116 (H14 Bernhard-Ilschner-Hörsaal (0.61)) 11401.00.123 (0.68 Seminarraum Werkstoffwissenschaften) |
+| wöchentlich | Fr | 12:15–13:45 | 17.04.2026–17.07.2026 | 12104.01.411 (KS II Kurssaal II) |
+| Einzeltermin | Mi | 15:30–17:00 | 22.04.2026 | 11401.00.116 (H14 Bernhard-Ilschner-Hörsaal (0.61)) |
 
 ### MS-L/Ex - Measurement Systems - Vorlesung mit Übung
 
@@ -3094,7 +3202,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 16:15–17:45 | 15.04.2026–15.07.2026 | 11401.00.116 (H14 Bernhard-Ilschner-Hörsaal (0.61)) 11401.00.123 (0.68 Seminarraum Werkstoffwissenschaften) |
+| wöchentlich | Fr | 12:15–13:45 | 17.04.2026–17.07.2026 | 12104.01.411 (KS II Kurssaal II) |
+| Einzeltermin | Mi | 15:30–17:00 | 22.04.2026 | 11401.00.116 (H14 Bernhard-Ilschner-Hörsaal (0.61)) |
 
 ### MS-L/Ex - Measurement Systems - Vorlesung mit Übung
 
@@ -3104,7 +3221,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 16:15–17:45 | 15.04.2026–15.07.2026 | 11401.00.116 (H14 Bernhard-Ilschner-Hörsaal (0.61)) 11401.00.123 (0.68 Seminarraum Werkstoffwissenschaften) |
+| wöchentlich | Fr | 12:15–13:45 | 17.04.2026–17.07.2026 | 12104.01.411 (KS II Kurssaal II) |
+| Einzeltermin | Mi | 15:30–17:00 | 22.04.2026 | 11401.00.116 (H14 Bernhard-Ilschner-Hörsaal (0.61)) |
 
 ### PCEP-2 - Physics II (Clean Energy Processes) - Vorlesung
 
@@ -3205,7 +3331,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 11401.00.116 (H14 Bernhard-Ilschner-Hörsaal (0.61)) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (282)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (277)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -3237,15 +3363,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Fr | Fr | — | — | — |
-
-### Advanced Semiconductor Technologies - Photovoltaic Systems for Power Generation - Design Implementation and Characterization — Vorlesung mit Übung
-
-- **Segment:** `unit:85047` · **unitId:** `85047`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85047&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 3.0
-- **Turnus:** nur im Wintersemester
 
 ### Advanced Topics in Deep Learning
 
@@ -4172,7 +4289,16 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 08:15–09:45 | 13.04.2026–13.07.2026 | 11501.01.104 (H5 Hörsaal 5) |
+| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 11501.01.104 (H5 Hörsaal 5) |
+| wöchentlich | Fr | 12:15–13:45 | 17.04.2026–17.07.2026 | 11501.01.104 (H5 Hörsaal 5) |
 
 ### Einführung in die Algorithmik
 
@@ -4201,15 +4327,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Di | Di | — | — | — |
-
-### Electrocatalysis — Vorlesung
-
-- **Segment:** `unit:115069` · **unitId:** `115069`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115069&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Electrocatalysis — Übung
 
@@ -4746,15 +4863,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Excercises Photovoltaic systems - Fundamentals — Übung
-
-- **Segment:** `unit:96447` · **unitId:** `96447`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96447&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
-- **Turnus:** nur im Wintersemester
-
 ### Exercices Phosphors for Light Conversion in Photovoltaic Devices and LEDs (CEP) (Ex-PVS-LC) — Übung
 
 - **Segment:** `unit:85857` · **unitId:** `85857`
@@ -4813,6 +4921,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Turnus:** in jedem Semester
 
+### Exercise Mathematics for Engineers III — Übung
+
+- **Segment:** `unit:90033` · **unitId:** `90033`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90033&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Turnus:** nur im Wintersemester
+
 ### Exercises in Clean Combustion Technology — Übung
 
 - **Segment:** `unit:86882` · **unitId:** `86882`
@@ -4820,7 +4936,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 18:15–19:45 | 16.04.2026–16.07.2026 | 12104.01.421 (KS I Kurssaal I Hanns-Hofmann-Hörsaal) |
 
 ### Exercises on Power Electronics for Decentral Energy Systems — Übung
 
@@ -4828,7 +4951,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87731&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 18:15–19:45 | 14.04.2026–14.07.2026 | 12501.01.007 |
 
 ### Experimental fluid mechanics
 
@@ -4898,14 +5028,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Foundations of chemical reaction engineering (Excercises) — Übung
-
-- **Segment:** `unit:99564` · **unitId:** `99564`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99564&periodId=589>
-
-- **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
 
 ### Französisch: Elementarkurs I
@@ -5468,7 +5590,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 08:00–14:00 | 03.06.2026–08.07.2026 | — |
 
 ### Laboratory course: Power electronics for decentral energy systems
 
@@ -5496,8 +5625,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -5848,13 +5977,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mi | Mi | 18:00–19:30 | — | — |
 
-### Polymer Recycling — Vorlesung mit Übung
-
-- **Segment:** `unit:111060` · **unitId:** `111060`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111060&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-
 ### Polymer Science and Processing
 
 - **Segment:** `unit:42900` · **unitId:** `42900`
@@ -6043,13 +6165,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nicht in diesem Semester
 
-### Process systems dynamics 1 — Vorlesung
-
-- **Segment:** `unit:114561` · **unitId:** `114561`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114561&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-
 ### Produzione testuale per la preparazioneall'esame di stato
 
 - **Segment:** `unit:41364` · **unitId:** `41364`
@@ -6123,7 +6238,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| Fr | Fr | 10:00–12:00 | — | — |
 
 ### Recycling of Electronic Wastes — Vorlesung mit Übung
 
@@ -6344,7 +6459,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 14:15–15:45 | 17.04.2026–17.07.2026 | 11501.00.151 (0.151-115 Seminar) 11401.00.237 (0.85 Seminarraum) |
 
 ### Seminar The AMOS Project (PO-Role)
 
@@ -6696,7 +6818,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 11501.00.155 (H15 Hans-Wilhelm-Schüßler-Hörsaal) |
 
 ### Turbulence I - Exercise — Übung
 

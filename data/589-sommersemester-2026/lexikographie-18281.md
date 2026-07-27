@@ -567,7 +567,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | 14-täglich | Di | 14:15–15:45 | 14.04.2026–07.07.2026 | 00501.01.014 ( KH 1.014 Hörsaal Kollegienhaus) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (15)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (14)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -579,13 +579,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Hauptseminar
 - **Turnus:** nur im Wintersemester
 
-### Bilingual Lexicography — Hauptseminar
+### EMLex B 1: Kurs: Lexikographische Grundlagen (online) — Grundkurs
 
-- **Segment:** `unit:130626` · **unitId:** `130626`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130626&periodId=589>
+- **Segment:** `unit:98333` · **unitId:** `98333`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98333&periodId=589>
 
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** Unregelmäßig
+- **Veranstaltungsart:** Grundkurs
+- **ECTS-Punkte:** 10.0
+- **Turnus:** nur im Wintersemester
 
 ### EMLex V 1: Kolloquium mit Vorträgen: Ausgewählte Probleme des Wörterbuchs, der Lexikographie und der Wörterbuchforschung
 
@@ -639,15 +640,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | 15:00–18:00 | 07.06.2026 23:59:59 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
 
-### Kurs: Lexikographische Grundlagen (online) — Grundkurs
-
-- **Segment:** `unit:98333` · **unitId:** `98333`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98333&periodId=589>
-
-- **Veranstaltungsart:** Grundkurs
-- **ECTS-Punkte:** 10.0
-- **Turnus:** nur im Wintersemester
-
 ### Latein I für Anfänger (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
 - **Segment:** `unit:96547` · **unitId:** `96547`
@@ -661,8 +653,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -705,12 +697,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Hauptseminar
 - **Turnus:** in jedem Semester
 
-### Phraseology and Psycholinguistic Aspects — Proseminar (Mittelseminar, PO 2020)
+### M-LingLex - UE zum HS: Lexikographie und Lexikologie — Übung
 
-- **Segment:** `unit:103903` · **unitId:** `103903`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103903&periodId=589>
+- **Segment:** `unit:114397` · **unitId:** `114397`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114397&periodId=589>
 
-- **Veranstaltungsart:** Proseminar (Mittelseminar, PO 2020)
+- **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
 
 ### Schriftliche Übersetzungsleistung Latein I für Anfänger (Zulassungsvoraussetzung zu Kurs Latein II für Fortgeschrittene)

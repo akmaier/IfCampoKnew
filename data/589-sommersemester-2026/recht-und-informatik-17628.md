@@ -103,7 +103,7 @@ _Section: Studiengänge der Rechts- und Wirtschaftswissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Sa | Sa | 10:00–11:30 | — | 11907.01.030 (H19) 11907.01.040 (H18) |
+| Sa | Sa | 10:00–11:30 | — | 11907.01.040 (H18) |
 
 ### 34011 Informatik 1 für Nebenfachstudierende - Grundmodul - Leistung
 
@@ -291,14 +291,7 @@ _Section: Studiengänge der Rechts- und Wirtschaftswissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 12:15–14:30 | 15.04.2026–24.06.2026 | 11501.01.105 (H6 Hörsaal 6) |
 
 ### ÜInf2NF - Informatik 2 für Nebenfachstudierende Übungen - Übung
 
@@ -317,18 +310,9 @@ _Section: Studiengänge der Rechts- und Wirtschaftswissenschaftlichen Fakultät_
 |---|---|---|---|---|
 | wöchentlich | Mi | 10:15–11:45 | 22.04.2026–15.07.2026 | 11302.04.158 (04.158 Stud. Rechner-/Arbeitsraum) 11302.00.153 (00.153-113 CIP CIP-Pool Informatik (CIP3)) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (7)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (6)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
-
-### Datenschutz-, Daten- und Informationsrecht — Vorlesung
-
-- **Segment:** `unit:115185` · **unitId:** `115185`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115185&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Informatik 1 für Nebenfachstudierende - Grundmodul — Vorlesung
 

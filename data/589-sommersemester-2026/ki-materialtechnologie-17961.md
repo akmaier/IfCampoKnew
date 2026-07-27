@@ -185,7 +185,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:00–12:00 | 13.04.2026–13.07.2026 | 12801.01.220 (H12 Emmy-Noether-Hörsaal) |
+| 14-täglich | Mi | 12:00–14:00 | 06.05.2026–15.07.2026 | 12801.01.251 (Übung 2 / 01.251-128) |
+| 14-täglich | Mi | 12:00–14:00 | 13.05.2026–08.07.2026 | 12801.00.325 (Praktikum 1 - PC-Pool / 00.325-128) |
 
 ### Computer lab classes "Introduction to Statistics and Statistical Programming" - Übung
 
@@ -213,7 +222,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 7.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 12801.01.253 (Übung 4 / 01.253-128) |
+| wöchentlich | Mi | 12:00–14:00 | 15.04.2026–15.07.2026 | 12801.01.253 (Übung 4 / 01.253-128) |
+| Einzeltermin | Mi | 09:00–10:00 | 23.09.2026 | 12801.01.252 (Übung 3 / 01.252-128) |
 
 ### Eigenschaften und Charakterisierung von Funktionsmaterialien I - Vorlesung mit Übung
 
@@ -255,14 +273,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 12801.01.220 (H12 Emmy-Noether-Hörsaal) |
 
 ### Introduction to Statistics and Statistical Programming - Vorlesung
 
@@ -340,7 +351,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
+| wöchentlich | Do | 16:00–18:00 | 16.04.2026–16.07.2026 | 12801.01.253 (Übung 4 / 01.253-128) |
 
 ### Maschinelles Lernen in Charakterisierung und Fertigung - Vorlesung mit Übung
 
@@ -419,7 +438,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118630&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 11501.00.156 (H16 Hörsaal 16) |
 
 ### Tafelübung zu Lineare und nichtlineare Systeme - Übung
 
@@ -463,7 +489,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Tutorium
 - **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 12801.00.327 (Praktikum 2 - PC-Pool / 00.327-128) |
 
 ### Wissenschaftliches Rechnen - Vorlesung mit Übung
 
@@ -496,7 +529,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
+| 14-täglich | Mi | 14:00–16:00 | 29.04.2026–08.07.2026 | 12801.00.325 (Praktikum 1 - PC-Pool / 00.325-128) |
+| Einzeltermin | Mi | 14:00–16:00 | 22.07.2026 | 12801.00.325 (Praktikum 1 - PC-Pool / 00.325-128) |
 
 ### Übungen zu Charakterisierung und Eigenschaften - Übung
 
@@ -523,7 +557,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:00–16:00 | 13.04.2026–13.07.2026 | 12801.01.250 (Übung 1 / 01.250-128) |
+| wöchentlich | Mi | 16:00–18:00 | 15.04.2026–15.07.2026 | 12801.01.251 (Übung 2 / 01.251-128) |
 
 ### Übungen zu Lineare und nichtlineare Systeme (Querschnittmodul) - Übung
 
@@ -713,12 +755,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134400&periodId=589>
 
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| Do | Do | 09:00–10:00 | — | — |
 
 ### 50671 Machine Learning for Engineers I - Introduction to Methods and Tools - Leistung
 
@@ -733,7 +776,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| Sa | Sa | 14:30–16:00 | — | — |
 
 ### 50721 Lineare und nichtlineare Systeme - Leistung
 
@@ -778,7 +821,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mi | Mi | 10:15–11:45 | — | — |
+| Mi | Mi | 10:15–11:45 | — | 12801.01.230 (H13 Johann-Radon-Hörsaal) |
 
 ### 52312 Übungsleistung: Diskretisierung und Numerische Optimierung - Leistung
 
@@ -898,7 +941,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | 14:00–15:30 | — | 11901.00.240 (H10 Hörsaal 10) |
+| Fr | Fr | 14:00–15:30 | — | 11901.00.240 (H10 Hörsaal 10) |
 
 ### 57561 Maschinelles Lernen in den Materialwissenschaften - Leistung
 
@@ -1343,7 +1386,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | 11501.00.155 (H15 Hans-Wilhelm-Schüßler-Hörsaal) |
+| wöchentlich | Do | 12:15–13:45 | 23.04.2026–16.07.2026 | 11501.00.156 (H16 Hörsaal 16) 11501.02.019 (02.019 Seminarraum) |
 
 ### TutAlgoKSRUE - Rechnerübung zu Algorithmik kontinuierlicher Systeme - Übung
 
@@ -1448,13 +1491,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 ### Einführung in Simulationsverfahren — Vorlesung mit Übung
 
-- **Segment:** `unit:121862` · **unitId:** `121862`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121862&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-
-### Einführung in Simulationsverfahren — Vorlesung mit Übung
-
 - **Segment:** `unit:130549` · **unitId:** `130549`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130549&periodId=589>
 
@@ -1523,14 +1559,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 
-### Labworks für KIM II — Praktikum
-
-- **Segment:** `unit:129857` · **unitId:** `129857`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=129857&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **Turnus:** nur im Wintersemester
-
 ### Lineare und Kombinatorische Optimierung — Vorlesung
 
 - **Segment:** `unit:85118` · **unitId:** `85118`
@@ -1556,6 +1584,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Wintersemester
+
+### Methoden für die mathematische Datenanalyse — Vorlesung
+
+- **Segment:** `unit:137571` · **unitId:** `137571`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137571&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** Unregelmäßig
 
 ### Mikro- und Nanostrukturforschung — Vorlesung mit Übung
 
@@ -1599,6 +1636,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **Turnus:** in jedem Semester
+
+### Übung zu Methoden für die mathematische Datenanalyse
+
+- **Segment:** `unit:137572` · **unitId:** `137572`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137572&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Turnus:** Unregelmäßig
 
 ### Übungen zu Berechenbarkeit und Formale Sprachen
 

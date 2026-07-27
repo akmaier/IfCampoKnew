@@ -5,7 +5,7 @@ campo_segment: "title:18251"
 campo_path: "title:17593|title:17595|title:18251"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251"
 po_version_count: 2
-course_count: 354
+course_count: 342
 ---
 
 # Deutsch als Zweitsprache
@@ -26,7 +26,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Campo-Segment:** `exam:15909619`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14926263|exam:14926265|exam:14926266|exam:14926269|exam:14926309|exam:15909619>
 
-## Veranstaltungen (354)
+## Veranstaltungen (342)
 
 ### Alphabetisierung für Jugendliche und junge Erwachsene (vhb-Seminar) - Online-Kurs
 
@@ -845,6 +845,16 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungsart:** Seminar
 - **Turnus:** nur im Sommersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 14:00–17:15 | 08.05.2026 | — |
+| Blockveranstaltung | — | 14:00–17:15 | 12.06.2026 | — |
+| Blockveranstaltung | — | 14:00–17:15 | 26.06.2026 | — |
+| Blockveranstaltung | — | 14:00–17:15 | 10.07.2026 | — |
+| Blockveranstaltung | — | 14:00–17:15 | 31.07.2026 | — |
+
 ### Sprachförderung im Sommercamp - Vorbereitungsseminar - Seminar
 
 - **Segment:** `exam:14931879` · **unitId:** `111580`
@@ -854,6 +864,16 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungsart:** Seminar
 - **Turnus:** nur im Sommersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 14:00–17:15 | 08.05.2026 | — |
+| Blockveranstaltung | — | 14:00–17:15 | 12.06.2026 | — |
+| Blockveranstaltung | — | 14:00–17:15 | 26.06.2026 | — |
+| Blockveranstaltung | — | 14:00–17:15 | 10.07.2026 | — |
+| Blockveranstaltung | — | 14:00–17:15 | 31.07.2026 | — |
+
 ### Sprachförderung im Sommercamp - Vorbereitungsseminar - Seminar
 
 - **Segment:** `exam:14933643` · **unitId:** `111580`
@@ -862,6 +882,203 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 14:00–17:15 | 08.05.2026 | — |
+| Blockveranstaltung | — | 14:00–17:15 | 12.06.2026 | — |
+| Blockveranstaltung | — | 14:00–17:15 | 26.06.2026 | — |
+| Blockveranstaltung | — | 14:00–17:15 | 10.07.2026 | — |
+| Blockveranstaltung | — | 14:00–17:15 | 31.07.2026 | — |
+
+### Sprachliche Bildung im Fachunterricht - Seminar
+
+- **Segment:** `exam:15799660` · **unitId:** `93847`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14926166|exam:14926168|exam:14926169|exam:14926172|exam:14926199|exam:15799660>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93847&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
+
+### Sprachliche Bildung im Fachunterricht - Seminar
+
+- **Segment:** `exam:15799245` · **unitId:** `93847`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14926263|exam:14926265|exam:14926266|exam:14926269|exam:14926296|exam:15799245>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93847&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
+
+### Sprachliche Bildung im Fachunterricht - Seminar
+
+- **Segment:** `exam:15799166` · **unitId:** `93847`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14926349|exam:14926350|exam:14926351|exam:14926352|exam:14926353|exam:15799166>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93847&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
+
+### Sprachliche Bildung im Fachunterricht - Seminar
+
+- **Segment:** `exam:15799330` · **unitId:** `93847`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14926384|exam:14926385|exam:14926386|exam:14926387|exam:14926388|exam:15799330>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93847&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
+
+### Sprachliche Bildung im Fachunterricht - Seminar
+
+- **Segment:** `exam:15799519` · **unitId:** `93847`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14926413|exam:14926414|exam:14926415|exam:14926416|exam:14926417|exam:15799519>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93847&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
+
+### Sprachliche Bildung im Fachunterricht - Seminar
+
+- **Segment:** `exam:15799352` · **unitId:** `93847`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14926436|exam:14926437|exam:14926438|exam:14926439|exam:14926440|exam:15799352>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93847&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
+
+### Sprachliche Bildung im Fachunterricht - Seminar
+
+- **Segment:** `exam:15799181` · **unitId:** `93847`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14926460|exam:14926461|exam:14926462|exam:14926463|exam:14926464|exam:15799181>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93847&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
+
+### Sprachliche Bildung im Fachunterricht - Seminar
+
+- **Segment:** `exam:15799550` · **unitId:** `93847`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14928227|exam:14928228|exam:14928229|exam:14928230|exam:14928231|exam:15799550>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93847&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
+
+### Sprachliche Bildung im Fachunterricht - Seminar
+
+- **Segment:** `exam:15799655` · **unitId:** `93847`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14929985|exam:14929986|exam:14929987|exam:14929988|exam:14929989|exam:15799655>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93847&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
+
+### Sprachliche Bildung im Fachunterricht - Seminar
+
+- **Segment:** `exam:15799283` · **unitId:** `93847`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14931756|exam:14931757|exam:14931758|exam:14931759|exam:14931760|exam:15799283>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93847&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
+
+### Sprachliche Bildung im Fachunterricht - Seminar
+
+- **Segment:** `exam:15799242` · **unitId:** `93847`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933535|exam:14933536|exam:15799242>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93847&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 
 ### Sprachsystem und Deutsch als Zweitsprache (vhb-Tutorium) - Tutorium
 
@@ -983,193 +1200,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **ECTS-Punkte:** 2.0
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-### Sprachvermittlung und Lernen in fachlichen Kontexten - Seminar
-
-- **Segment:** `exam:15799660` · **unitId:** `93847`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14926166|exam:14926168|exam:14926169|exam:14926172|exam:14926199|exam:15799660>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93847&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
-
-### Sprachvermittlung und Lernen in fachlichen Kontexten - Seminar
-
-- **Segment:** `exam:15799245` · **unitId:** `93847`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14926263|exam:14926265|exam:14926266|exam:14926269|exam:14926296|exam:15799245>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93847&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
-
-### Sprachvermittlung und Lernen in fachlichen Kontexten - Seminar
-
-- **Segment:** `exam:15799166` · **unitId:** `93847`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14926349|exam:14926350|exam:14926351|exam:14926352|exam:14926353|exam:15799166>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93847&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
-
-### Sprachvermittlung und Lernen in fachlichen Kontexten - Seminar
-
-- **Segment:** `exam:15799330` · **unitId:** `93847`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14926384|exam:14926385|exam:14926386|exam:14926387|exam:14926388|exam:15799330>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93847&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
-
-### Sprachvermittlung und Lernen in fachlichen Kontexten - Seminar
-
-- **Segment:** `exam:15799519` · **unitId:** `93847`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14926413|exam:14926414|exam:14926415|exam:14926416|exam:14926417|exam:15799519>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93847&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
-
-### Sprachvermittlung und Lernen in fachlichen Kontexten - Seminar
-
-- **Segment:** `exam:15799352` · **unitId:** `93847`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14926436|exam:14926437|exam:14926438|exam:14926439|exam:14926440|exam:15799352>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93847&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
-
-### Sprachvermittlung und Lernen in fachlichen Kontexten - Seminar
-
-- **Segment:** `exam:15799181` · **unitId:** `93847`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14926460|exam:14926461|exam:14926462|exam:14926463|exam:14926464|exam:15799181>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93847&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
-
-### Sprachvermittlung und Lernen in fachlichen Kontexten - Seminar
-
-- **Segment:** `exam:15799550` · **unitId:** `93847`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14928227|exam:14928228|exam:14928229|exam:14928230|exam:14928231|exam:15799550>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93847&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
-
-### Sprachvermittlung und Lernen in fachlichen Kontexten - Seminar
-
-- **Segment:** `exam:15799655` · **unitId:** `93847`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14929985|exam:14929986|exam:14929987|exam:14929988|exam:14929989|exam:15799655>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93847&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
-
-### Sprachvermittlung und Lernen in fachlichen Kontexten - Seminar
-
-- **Segment:** `exam:15799283` · **unitId:** `93847`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14931756|exam:14931757|exam:14931758|exam:14931759|exam:14931760|exam:15799283>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93847&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
-
-### Sprachvermittlung und Lernen in fachlichen Kontexten - Seminar
-
-- **Segment:** `exam:15799242` · **unitId:** `93847`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933535|exam:14933536|exam:15799242>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93847&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 
 ### 74031 Vertiefungsmodul Linguistik 1 (Ling VM-1) - Leistung
 
@@ -3195,42 +3225,10 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | Mi | Mi | — | 07.06.2026 23:59:59 | — |
 
-### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA und LA Gym)  - Hauptseminar
+### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA, LA Gym, WiPäd, DiDaZ) - Hauptseminar
 
-- **Segment:** `exam:14926231` · **unitId:** `89348`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14926166|exam:14926168|exam:14926169|exam:14926172|exam:14926228|exam:14926231>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89348&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 05801.01.211 ( B 302) |
-
-### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA und LA Gym)  - Hauptseminar
-
-- **Segment:** `exam:14926329` · **unitId:** `89348`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14926263|exam:14926265|exam:14926266|exam:14926269|exam:14926326|exam:14926329>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89348&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 05801.01.211 ( B 302) |
-
-### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA und LA Gym) - Hauptseminar
-
-- **Segment:** `exam:14926234` · **unitId:** `103936`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14926166|exam:14926168|exam:14926169|exam:14926172|exam:14926228|exam:14926234>
+- **Segment:** `exam:17818815` · **unitId:** `103936`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14926166|exam:14926168|exam:14926169|exam:14926172|exam:14926228|exam:17818815>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103936&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
@@ -3243,10 +3241,10 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 05902.00.004 ( 00.4 PSG) 05801.00.318 ( C 203) |
 
-### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA und LA Gym) - Hauptseminar
+### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Erlangen, nur für BA, LA Gym, WiPäd, DiDaZ) - Hauptseminar
 
-- **Segment:** `exam:14926332` · **unitId:** `103936`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14926263|exam:14926265|exam:14926266|exam:14926269|exam:14926326|exam:14926332>
+- **Segment:** `exam:17818813` · **unitId:** `103936`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14926263|exam:14926265|exam:14926266|exam:14926269|exam:14926326|exam:17818813>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103936&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
@@ -3258,131 +3256,11 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 05902.00.004 ( 00.4 PSG) 05801.00.318 ( C 203) |
-
-### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Nürnberg, nur für LA GS, MS, RS, Berufl. Schulen) - Hauptseminar
-
-- **Segment:** `exam:14926233` · **unitId:** `90525`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14926166|exam:14926168|exam:14926169|exam:14926172|exam:14926228|exam:14926233>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90525&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 09:45–11:15 | 17.04.2026–17.07.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
-
-### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Nürnberg, nur für LA GS, MS, RS, Berufl. Schulen) - Hauptseminar
-
-- **Segment:** `exam:14926237` · **unitId:** `103826`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14926166|exam:14926168|exam:14926169|exam:14926172|exam:14926228|exam:14926237>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103826&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** in jedem Semester
-
-### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Nürnberg, nur für LA GS, MS, RS, Berufl. Schulen) - Hauptseminar
-
-- **Segment:** `exam:14926331` · **unitId:** `90525`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14926263|exam:14926265|exam:14926266|exam:14926269|exam:14926326|exam:14926331>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90525&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 09:45–11:15 | 17.04.2026–17.07.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
-
-### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Nürnberg, nur für LA GS, MS, RS, Berufl. Schulen) - Hauptseminar
-
-- **Segment:** `exam:14926335` · **unitId:** `103826`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14926263|exam:14926265|exam:14926266|exam:14926269|exam:14926326|exam:14926335>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103826&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** in jedem Semester
-
-### Ling VM - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) - Hauptseminar
-
-- **Segment:** `exam:14926235` · **unitId:** `83620`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14926166|exam:14926168|exam:14926169|exam:14926172|exam:14926228|exam:14926235>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83620&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 14:15–17:45 | 17.04.2026 | 05201.00.007 |
-| Einzeltermin | Sa | 09:15–16:45 | 18.04.2026 | 05201.00.007 |
-| Einzeltermin | Fr | 14:15–17:45 | 24.04.2026 | 05201.00.007 |
-| Einzeltermin | Sa | 09:15–16:45 | 25.04.2026 | 05201.00.007 |
-
-### Ling VM - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) - Hauptseminar
-
-- **Segment:** `exam:14926333` · **unitId:** `83620`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14926263|exam:14926265|exam:14926266|exam:14926269|exam:14926326|exam:14926333>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83620&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 14:15–17:45 | 17.04.2026 | 05201.00.007 |
-| Einzeltermin | Sa | 09:15–16:45 | 18.04.2026 | 05201.00.007 |
-| Einzeltermin | Fr | 14:15–17:45 | 24.04.2026 | 05201.00.007 |
-| Einzeltermin | Sa | 09:15–16:45 | 25.04.2026 | 05201.00.007 |
-
-### Ling VM - Ling VM-Kolleg: Bereich Gegenwartssprache/DaF (Erlangen, nur für BA und LA Gym) - Kolleg
-
-- **Segment:** `exam:14926241` · **unitId:** `87078`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14926166|exam:14926168|exam:14926169|exam:14926172|exam:14926239|exam:14926241>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87078&periodId=589>
-
-- **Veranstaltungsart:** Kolleg
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 05801.01.211 ( B 302) |
-
-### Ling VM - Ling VM-Kolleg: Bereich Gegenwartssprache/DaF (Erlangen, nur für BA und LA Gym) - Kolleg
-
-- **Segment:** `exam:14926339` · **unitId:** `87078`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14926263|exam:14926265|exam:14926266|exam:14926269|exam:14926337|exam:14926339>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87078&periodId=589>
-
-- **Veranstaltungsart:** Kolleg
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 05801.01.211 ( B 302) |
 
 ### Ling VM - Ling VM-Kolleg: Bereich Sprachwandel/Variation, Gegenwartssprache/DaF (in Erlangen, geöffnet für alle Studiengänge) - Kolleg
 
-- **Segment:** `exam:14926244` · **unitId:** `87232`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14926166|exam:14926168|exam:14926169|exam:14926172|exam:14926239|exam:14926244>
+- **Segment:** `exam:17818811` · **unitId:** `87232`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14926166|exam:14926168|exam:14926169|exam:14926172|exam:14926239|exam:17818811>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87232&periodId=589>
 
 - **Veranstaltungsart:** Kolleg
@@ -3397,8 +3275,8 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### Ling VM - Ling VM-Kolleg: Bereich Sprachwandel/Variation, Gegenwartssprache/DaF (in Erlangen, geöffnet für alle Studiengänge) - Kolleg
 
-- **Segment:** `exam:14926342` · **unitId:** `87232`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14926263|exam:14926265|exam:14926266|exam:14926269|exam:14926337|exam:14926342>
+- **Segment:** `exam:17818807` · **unitId:** `87232`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14926263|exam:14926265|exam:14926266|exam:14926269|exam:14926337|exam:17818807>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87232&periodId=589>
 
 - **Veranstaltungsart:** Kolleg
@@ -3411,39 +3289,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | 05902.00.015 ( 00.15 PSG) |
 
-### Ling VM - Ling VM-Kolleg: Gegenwartssprache/DaF (Nürnberg, nur LA GS, MS, RS, Berufl. Schulen) - Kolleg
-
-- **Segment:** `exam:14926242` · **unitId:** `96263`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14926166|exam:14926168|exam:14926169|exam:14926172|exam:14926239|exam:14926242>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96263&periodId=589>
-
-- **Veranstaltungsart:** Kolleg
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 11:30–13:00 | 14.04.2026–14.07.2026 | 20301.02.047 (2.047 Seminarraum (40)) |
-
-### Ling VM - Ling VM-Kolleg: Gegenwartssprache/DaF (Nürnberg, nur LA GS, MS, RS, Berufl. Schulen) - Kolleg
-
-- **Segment:** `exam:14926340` · **unitId:** `96263`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14926263|exam:14926265|exam:14926266|exam:14926269|exam:14926337|exam:14926340>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96263&periodId=589>
-
-- **Veranstaltungsart:** Kolleg
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 11:30–13:00 | 14.04.2026–14.07.2026 | 20301.02.047 (2.047 Seminarraum (40)) |
-
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (69)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (65)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -3483,29 +3329,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Aufbaumodul:Seminar : zentrale /ausgewählte Fragestellungen
-
-- **Segment:** `unit:127085` · **unitId:** `127085`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127085&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-
 ### Basiswissen Weltreligionen (VHB) Modul II — Hauptseminar
 
 - **Segment:** `unit:120234` · **unitId:** `120234`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120234&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-### Berlin, Brüssel …  Erlangen? Umweltpolitik im politischen Mehrebenensystem — Proseminar
+#### Termine
 
-- **Segment:** `unit:122872` · **unitId:** `122872`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122872&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Di | 17:30–19:00 | 14.04.2026 | — |
 
 ### Berufsbezogene Kommunikation — Seminar
 
@@ -3584,20 +3421,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **Turnus:** nur im Wintersemester
-
-### Dramatik der Gegenwart — Hauptseminar
-
-- **Segment:** `unit:121943` · **unitId:** `121943`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121943&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-
-### Einführung in die Kommunalpolitik — Proseminar
-
-- **Segment:** `unit:130829` · **unitId:** `130829`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130829&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
 
 ### Französisch Elementarkurs 1
 
@@ -3796,8 +3619,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 

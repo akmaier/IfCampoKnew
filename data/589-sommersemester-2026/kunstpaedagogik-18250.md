@@ -195,7 +195,17 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135034&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Sa | 09:00–18:00 | 09.05.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
+| Einzeltermin | Sa | 09:00–18:00 | 20.06.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
+| Einzeltermin | Sa | 09:00–18:00 | 04.07.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
+| Einzeltermin | Fr | 14:00–18:00 | 31.07.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
 
 ### A+V 3D-Druck - Seminar
 
@@ -204,7 +214,17 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135034&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Sa | 09:00–18:00 | 09.05.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
+| Einzeltermin | Sa | 09:00–18:00 | 20.06.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
+| Einzeltermin | Sa | 09:00–18:00 | 04.07.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
+| Einzeltermin | Fr | 14:00–18:00 | 31.07.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
 
 ### A+V 3D-Druck - Seminar
 
@@ -213,7 +233,17 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135034&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Sa | 09:00–18:00 | 09.05.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
+| Einzeltermin | Sa | 09:00–18:00 | 20.06.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
+| Einzeltermin | Sa | 09:00–18:00 | 04.07.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
+| Einzeltermin | Fr | 14:00–18:00 | 31.07.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
 
 ### A+V 3D-Druck - Seminar
 
@@ -222,7 +252,17 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135034&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Sa | 09:00–18:00 | 09.05.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
+| Einzeltermin | Sa | 09:00–18:00 | 20.06.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
+| Einzeltermin | Sa | 09:00–18:00 | 04.07.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
+| Einzeltermin | Fr | 14:00–18:00 | 31.07.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
 
 ### A+V Zeichnen für Fortgeschrittene - Seminar
 
@@ -360,7 +400,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Ober- und Hauptseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:30–16:00 | 13.04.2026–13.07.2026 | — |
 
 ### Amerikanische Fotografie des 20. Jahrhunderts - Ober- und Hauptseminar
 
@@ -370,7 +417,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Ober- und Hauptseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:30–16:00 | 13.04.2026–13.07.2026 | — |
 
 ### Aquarell (A+V)  - Seminar
 
@@ -379,7 +433,17 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134733&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Di | 18:30–19:30 | 05.05.2026 | — |
+| Blockveranstaltung | — | 09:30–16:30 | 30.07.2026–31.07.2026 | 75201.00.310 (St.Paul 00.310 Textilwerkstatt (40)) |
+| Einzeltermin | Sa | 10:00–12:00 | 01.08.2026 | — |
+| Einzeltermin | So | 10:00–12:00 | 02.08.2026 | — |
 
 ### Aquarell (A+V)  - Seminar
 
@@ -388,7 +452,17 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134733&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Di | 18:30–19:30 | 05.05.2026 | — |
+| Blockveranstaltung | — | 09:30–16:30 | 30.07.2026–31.07.2026 | 75201.00.310 (St.Paul 00.310 Textilwerkstatt (40)) |
+| Einzeltermin | Sa | 10:00–12:00 | 01.08.2026 | — |
+| Einzeltermin | So | 10:00–12:00 | 02.08.2026 | — |
 
 ### Aquarell (A+V)  - Seminar
 
@@ -397,7 +471,17 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134733&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Di | 18:30–19:30 | 05.05.2026 | — |
+| Blockveranstaltung | — | 09:30–16:30 | 30.07.2026–31.07.2026 | 75201.00.310 (St.Paul 00.310 Textilwerkstatt (40)) |
+| Einzeltermin | Sa | 10:00–12:00 | 01.08.2026 | — |
+| Einzeltermin | So | 10:00–12:00 | 02.08.2026 | — |
 
 ### Aquarell (A+V)  - Seminar
 
@@ -406,7 +490,17 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134733&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Di | 18:30–19:30 | 05.05.2026 | — |
+| Blockveranstaltung | — | 09:30–16:30 | 30.07.2026–31.07.2026 | 75201.00.310 (St.Paul 00.310 Textilwerkstatt (40)) |
+| Einzeltermin | Sa | 10:00–12:00 | 01.08.2026 | — |
+| Einzeltermin | So | 10:00–12:00 | 02.08.2026 | — |
 
 ### Basis Malen  - Seminar
 
@@ -456,8 +550,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 13:00–15:15 | 20.04.2026–13.07.2026 | 75201.00.310 (St.Paul 00.310 Textilwerkstatt (40)) |
-| Einzeltermin | Sa | 09:00–12:45 | 27.06.2026 | 75201.00.310 (St.Paul 00.310 Textilwerkstatt (40)) |
+| wöchentlich | Mo | 15:45–18:00 | 20.04.2026–13.07.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
 
 ### Basis Papier - Seminar
 
@@ -473,8 +566,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 13:00–15:15 | 20.04.2026–13.07.2026 | 75201.00.310 (St.Paul 00.310 Textilwerkstatt (40)) |
-| Einzeltermin | Sa | 09:00–12:45 | 27.06.2026 | 75201.00.310 (St.Paul 00.310 Textilwerkstatt (40)) |
+| wöchentlich | Mo | 15:45–18:00 | 20.04.2026–13.07.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
 
 ### Basis Textiles Gestalten - Seminar
 
@@ -631,7 +723,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134106&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 05901.05.052 ( 05.052) |
 
 ### Ethnographic Reading and Writing - Seminar
 
@@ -656,14 +755,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134761&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| 14-täglich | Di | 17:30–19:00 | 21.04.2026–14.07.2026 | — |
 
 ### Frauen als Auftraggeberinnen in der Frühen Neuzeit: Malerei - Skulptur - Architektur - Seminar
 
@@ -771,40 +863,20 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134743&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 15:45–18:00 | 22.04.2026–15.07.2026 | 75201.U1.401 (St.Paul U1.401 Tonraum) |
 
 ### Keramik (A+V) - Seminar
 
 - **Segment:** `exam:15770085` · **unitId:** `134743`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836334|exam:15770085>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134743&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
-### Keramik (A+V) - Seminar
-
-- **Segment:** `exam:15769946` · **unitId:** `134743`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836396|exam:15769946>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134743&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
-### Keramik (A+V) - Seminar
-
-- **Segment:** `exam:15769970` · **unitId:** `134743`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836412|exam:15769970>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134743&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
-### Kunstpädagogische Forschung - Seminar
-
-- **Segment:** `exam:15760233` · **unitId:** `134754`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836320|exam:15760233>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134754&periodId=589>
 
 - **Veranstaltungsart:** Seminar
 - **Unterrichtssprache:** Deutsch
@@ -814,7 +886,48 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 15:45–17:15 | 21.04.2026–14.07.2026 | 75201.00.310 (St.Paul 00.310 Textilwerkstatt (40)) |
+| wöchentlich | Mi | 15:45–18:00 | 22.04.2026–15.07.2026 | 75201.U1.401 (St.Paul U1.401 Tonraum) |
+
+### Keramik (A+V) - Seminar
+
+- **Segment:** `exam:15769946` · **unitId:** `134743`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836396|exam:15769946>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134743&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 15:45–18:00 | 22.04.2026–15.07.2026 | 75201.U1.401 (St.Paul U1.401 Tonraum) |
+
+### Keramik (A+V) - Seminar
+
+- **Segment:** `exam:15769970` · **unitId:** `134743`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836412|exam:15769970>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134743&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 15:45–18:00 | 22.04.2026–15.07.2026 | 75201.U1.401 (St.Paul U1.401 Tonraum) |
+
+### Kunstpädagogische Forschung - Seminar
+
+- **Segment:** `exam:15760233` · **unitId:** `134754`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836320|exam:15760233>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134754&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Turnus:** in jedem Semester
 
 ### Kuratorische Praxis der zeitgenössischen Kunst - Seminar
 
@@ -961,7 +1074,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124262&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | — |
 
 ### Schlüsselkonzepte zeitgenössischer Kunst: Von Happening bis Hydrofeminismus - Vorlesung
 
@@ -1131,7 +1251,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 10:00–17:00 | 22.09.2026–25.09.2026 | — |
 
 ### Texte(n) im Museum - Seminar
 
@@ -1141,7 +1268,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 10:00–17:00 | 22.09.2026–25.09.2026 | — |
 
 ### Tiefdruck (A+V) - Seminar
 
@@ -1150,7 +1284,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128381&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:00–15:30 | 20.04.2026–13.07.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
 
 ### Tiefdruck (A+V) - Seminar
 
@@ -1159,7 +1300,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128381&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:00–15:30 | 20.04.2026–13.07.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
 
 ### Typologien des materialisierten Totengedächtnisses - Ober- und Hauptseminar
 
@@ -1169,7 +1317,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Ober- und Hauptseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:00–16:00 | 13.04.2026–13.07.2026 | 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
 
 ### Typologien des materialisierten Totengedächtnisses - Ober- und Hauptseminar
 
@@ -1179,7 +1334,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Ober- und Hauptseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:00–16:00 | 13.04.2026–13.07.2026 | 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
 
 ### Vorlesung: Einführung in die Methoden der empirischen Sozialforschung - Vorlesung
 
@@ -1213,7 +1375,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
 
-### Werken I (F. Wedel) - Seminar
+### Werken I  - Seminar
 
 - **Segment:** `exam:15770447` · **unitId:** `134746`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836323|exam:15770447>
@@ -1229,7 +1391,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mi | 15:45–18:00 | 22.04.2026–15.07.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
 
-### Werken I (F. Wedel) - Seminar
+### Werken I  - Seminar
 
 - **Segment:** `exam:15770449` · **unitId:** `134746`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836334|exam:15770449>
@@ -1252,7 +1414,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134748&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 15:45–18:00 | 23.04.2026–16.07.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
 
 ### Werken II mit verschiedenen Materialien (nur RS) - Seminar
 
@@ -1261,7 +1430,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134748&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 15:45–18:00 | 23.04.2026–16.07.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
 
 ### Zwischen Canova und Rodin. Skulptur in Rom von 1822 bis 1871 unter der besonderen Berücksichtigung globaler Verflechtungen - Vorlesung
 
@@ -1567,7 +1743,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134871&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 21.04.2026–14.07.2026 | 75201.00.301 (St.Paul 00.301 Zeichensaal (100)) |
 
 ### Das Seminar berücksichtigt auch die Schnittstelle von digtial/analog- - Mixed-Media (A+V) - Seminar
 
@@ -1576,7 +1759,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134871&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 21.04.2026–14.07.2026 | 75201.00.301 (St.Paul 00.301 Zeichensaal (100)) |
 
 ### Das Seminar berücksichtigt auch die Schnittstelle von digtial/analog- - Mixed-Media (A+V) - Seminar
 
@@ -1585,7 +1775,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134871&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 21.04.2026–14.07.2026 | 75201.00.301 (St.Paul 00.301 Zeichensaal (100)) |
 
 ### Das Seminar berücksichtigt auch die Schnittstelle von digtial/analog- - Mixed-Media (A+V) - Seminar
 
@@ -1594,11 +1791,27 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134871&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (38)
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 21.04.2026–14.07.2026 | 75201.00.301 (St.Paul 00.301 Zeichensaal (100)) |
+
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (35)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
+
+### "Fare stupire il mondo" - Veit Stoß und die Skulptur der Dürerzeit in Nürnberg — Vorlesung
+
+- **Segment:** `unit:138362` · **unitId:** `138362`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138362&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** Unregelmäßig
 
 ### Allgemeine Psychologie I (Nebenfach)
 
@@ -1658,13 +1871,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **Turnus:** in jedem Semester
-
-### Berufsbiographien qualitativ erforschen — Seminar
-
-- **Segment:** `unit:122454` · **unitId:** `122454`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122454&periodId=589>
-
-- **Veranstaltungsart:** Seminar
 
 ### Bild und Biografie — Seminar
 
@@ -1777,13 +1983,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Di | Di | 14:00–16:00 | — | — |
 
-### Forschungs-/Masterkolloquium — Seminar
-
-- **Segment:** `unit:131285` · **unitId:** `131285`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131285&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-
 ### Forschungsseminar Einführung in die Ethnographie / Research Seminar Introduction into Ethnography
 
 - **Segment:** `unit:118298` · **unitId:** `118298`
@@ -1837,13 +2036,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | 15:00–18:00 | 07.06.2026 23:59:59 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
 
-### Kultursoziologie und Qualitative Methoden — Seminar
-
-- **Segment:** `unit:119428` · **unitId:** `119428`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119428&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-
 ### Kunst und Politik — Seminar
 
 - **Segment:** `unit:131231` · **unitId:** `131231`
@@ -1874,8 +2066,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -1901,14 +2093,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Turnus:** Unregelmäßig
 
-### MA EEBF M6/MA Pädagogik MII: Lernen und mediendidaktisches Handeln in mediatisierten Kontexten — Seminar
-
-- **Segment:** `unit:92830` · **unitId:** `92830`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92830&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
 ### Nürnberg Global (GNM). Realisation einer Sonderausstellung — Seminar
 
 - **Segment:** `unit:131230` · **unitId:** `131230`
@@ -1924,7 +2108,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97429&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 54201.00.030 ( Hörsaal - Studienzentrum Stintzingstraße) |
 
 ### Proseminar Allgemeine Psychologie II
 
@@ -1993,7 +2184,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 16:15–17:45 | 15.04.2026–15.07.2026 | 54201.00.030 ( Hörsaal - Studienzentrum Stintzingstraße) |
 
 ### Vorlesung Sozialpsychologie, Teil 2
 
@@ -2002,4 +2200,11 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 54201.00.030 ( Hörsaal - Studienzentrum Stintzingstraße) |
