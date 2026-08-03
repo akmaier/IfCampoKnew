@@ -344,15 +344,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 6.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 12:15–14:00 | 15.04.2026–15.07.2026 | 13003.00.877 (HC Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
-| wöchentlich | Fr | 13:30–15:00 | 17.04.2026–17.07.2026 | 20301.02.031 (2.031 großer Hörsaal (110)) |
 
 ### B2: Biologie der Pflanzen: Allgemeine Botanik und Einführung in die Evolution (Vorlesung) - Vorlesung
 
@@ -362,15 +354,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 6.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 12:15–14:00 | 15.04.2026–15.07.2026 | 13003.00.877 (HC Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
-| wöchentlich | Fr | 13:30–15:00 | 17.04.2026–17.07.2026 | 20301.02.031 (2.031 großer Hörsaal (110)) |
 
 ### B2: Biologie der Pflanzen: Tutorium Botanik - Tutorium
 
@@ -772,7 +756,19 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85406&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 13:15–14:00 | 14.04.2026–14.07.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
+| wöchentlich | Di | 13:15–14:00 | 14.04.2026–14.07.2026 | — |
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | — |
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | — |
 
 ### Biologie IV - Vorlesung zur Molekularbiologie, Mikrobiologie und Genetik - Vorlesung
 
@@ -781,7 +777,19 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85406&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 13:15–14:00 | 14.04.2026–14.07.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
+| wöchentlich | Di | 13:15–14:00 | 14.04.2026–14.07.2026 | — |
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | — |
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | — |
 
 ### Biologie IV - Vorlesung zur Molekularbiologie, Mikrobiologie und Genetik - Vorlesung
 
@@ -790,7 +798,19 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85406&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 13:15–14:00 | 14.04.2026–14.07.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
+| wöchentlich | Di | 13:15–14:00 | 14.04.2026–14.07.2026 | — |
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | — |
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | — |
 
 ### Biologie IV: Molekularbiologie und Genomik - Vorlesung
 
@@ -925,16 +945,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar und Übung
 - **ECTS-Punkte:** 8.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 08:00–17:00 | 13.04.2026–15.06.2026 | 13001.00.181 (00.181 SR Tierphysiologie Seminarraum Tierphysiologie) |
-| wöchentlich | Mo | 13:00–17:00 | 13.04.2026–15.06.2026 | 13001.00.190 |
-| wöchentlich | Mi | 08:00–17:00 | 15.04.2026–17.06.2026 | 13001.00.181 (00.181 SR Tierphysiologie Seminarraum Tierphysiologie) |
 
 ### BL8: Vorlesung mit Seminar Humanbiologie - Vorlesung
 
@@ -980,14 +991,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 08:00–10:00 | 13.04.2026–13.07.2026 | 13003.00.882 (HB Hörsaal -Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 
 ### Fachmodul Genetik/Immungenetik: Vorlesung mit Seminar (Teil 2) - Vorlesung
 
@@ -1132,10 +1136,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17678|title:17686|exam:14384187|exam:14384188>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88528&periodId=589>
 
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 10.0
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -1159,9 +1160,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17678|title:17686|exam:14384193|exam:14384195>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94566&periodId=589>
 
-- **Veranstaltungsart:** Seminar
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
 
 ### Fachmodul Pharmazeutische Biologie: Vorlesung (Teil 2) - Vorlesung
 
@@ -1682,7 +1681,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | Fr | 08:15–09:00 | — | — |
+| Fr | Fr | 08:15–09:00 | — | 13003.00.882 (HB Hörsaal -Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 
 ### 24112 Portfolioprüfung zum Übungs- bzw. Praktikumsteil des Fachmodul Zellbiologie - Leistung
 
@@ -1697,7 +1696,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | Fr | 09:15–10:00 | — | — |
+| Fr | Fr | 09:15–10:00 | — | 13003.00.882 (HB Hörsaal -Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 
 ### 24112 Portfolioprüfung zum Übungs- bzw. Praktikumsteil des Fachmodul Zellbiologie - Leistung
 
@@ -1712,7 +1711,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | Fr | 09:15–10:00 | — | — |
+| Fr | Fr | 09:15–10:00 | — | 13003.00.882 (HB Hörsaal -Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 
 ### 24211 Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie - Leistung
 
@@ -2185,7 +2184,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17672|title:17694|title:17712|exam:14383871|exam:14383873>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78965&periodId=589>
 
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -2813,8 +2811,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|title:17685|exam:14384140|exam:14384157>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123888&periodId=589>
 
-- **ECTS-Punkte:** 3.0
-
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
@@ -3138,7 +3134,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|title:17685|exam:15932188|exam:15932201>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133469&periodId=589>
 
-- **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -3257,7 +3252,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17681|title:17683|exam:14384083|exam:14384085>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=33834&periodId=589>
 
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -3383,13 +3377,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17672|title:17694|title:17711|exam:14383845>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78962&periodId=589>
 
-### 62825 Digitale Werkzeuge für Biologen
+### 62825 Digitale Werkzeuge für die Biologie
 
 - **Segment:** `exam:14383969` · **unitId:** `46124`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17681|exam:14383969>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46124&periodId=589>
 
-### 62825 Digitale Werkzeuge für Biologen
+### 62825 Digitale Werkzeuge für die Biologie
 
 - **Segment:** `exam:14379814` · **unitId:** `46124`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17675|exam:14378935|exam:14378937|exam:14378940|exam:14379814>
@@ -3547,7 +3541,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 13301.00.111 (00.111 - Chemikum Seminarraum Organische Chemie) |
 
 ### BIODID II GS/MS: Seminar - BIODID II für Grund-und Mittelschule: Erkenntnisse gewinnen und kommunizieren im Biologieunterricht (SE) - Seminar
 
@@ -3564,7 +3565,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 11:30–13:00 | 14.04.2026–14.07.2026 | 20301.02.039 (2.039 Biolabor (Nutzung nur durch FD und FW Biologie!)) |
+| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 20301.02.039 (2.039 Biolabor (Nutzung nur durch FD und FW Biologie!)) |
 
 ### BIODID II LAG/BS/RS (UE + SE) - BIODID II für Gymnasium / Berufsschule/ Realschule: Erkenntnisse gewinnen und kommunizieren im Biologieunterricht (Ü + SE) - Seminar und Übung
 
@@ -3939,7 +3940,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Fr | 12:00–13:30 | 17.04.2026–17.07.2026 | 20301.02.031 (2.031 großer Hörsaal (110)) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (78)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (79)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -3977,6 +3978,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Tutorium
 - **ECTS-Punkte:** 1.0
+- **Turnus:** nur im Sommersemester
+
+### 2b: Vorlesung zu Grundlagen der Evolution der Animalia, Evolutionsschritte und Ihre Anpassungen, Grundlagen der Ökologie
+
+- **Segment:** `unit:136354` · **unitId:** `136354`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136354&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 3.5
 - **Turnus:** nur im Sommersemester
 
 ### 2b: Übungen zur Evolution der Vielzelligkeit, Anatomie der übergeordneten Tierstämme und -klassen
@@ -4181,15 +4191,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 ### Begleitveranstaltung Studienbegleitendes Praktikum an Realschulen "Praxis RS" (AE_PSPrak) — Vorlesung mit Übung
 
-- **Segment:** `unit:106001` · **unitId:** `106001`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106001&periodId=589>
+- **Segment:** `unit:106000` · **unitId:** `106000`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106000&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 
 ### Begleitveranstaltung Studienbegleitendes Praktikum an Realschulen "Praxis RS" (AE_PSPrak) — Vorlesung mit Übung
 
-- **Segment:** `unit:106000` · **unitId:** `106000`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106000&periodId=589>
+- **Segment:** `unit:106001` · **unitId:** `106001`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106001&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 
@@ -4288,7 +4298,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 8.5
 - **Turnus:** nur im Wintersemester
 
-### Digitale Werkzeuge für Biologen (für Fortgeschrittene) — Übung
+### Digitale Werkzeuge für die Biologie — Übung
 
 - **Segment:** `unit:93228` · **unitId:** `93228`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93228&periodId=589>

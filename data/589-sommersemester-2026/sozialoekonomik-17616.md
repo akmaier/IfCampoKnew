@@ -5,7 +5,7 @@ campo_segment: "title:17616"
 campo_path: "title:17593|title:17603|title:17616"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616"
 po_version_count: 141
-course_count: 2548
+course_count: 2569
 fau_studiengang:
   - title: "Sozialökonomik (B.A.)"
     rel_path: "studiengang/sozialoekonomik-b-a.md"
@@ -1236,7 +1236,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Campo-Segment:** `exam:14095114`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14092804|exam:14092806|exam:14092808|exam:14095065|exam:14095079|exam:14095114>
 
-## Veranstaltungen (2548)
+## Veranstaltungen (2569)
 
 ### Advanced Business Analytics Seminar - Seminar
 
@@ -1356,7 +1356,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 13:15–16:30 | 22.06.2026–02.07.2026 | 21102.00.424 (LG 0.424 (92 Plätze) Übungsraum) |
 
 ### Advanced Topics in Marketing - Seminar
 
@@ -1366,7 +1373,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 13:15–16:30 | 22.06.2026–02.07.2026 | 21102.00.424 (LG 0.424 (92 Plätze) Übungsraum) |
 
 ### AI & Data in Business and Management - Seminar
 
@@ -2717,10 +2731,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14100592|exam:14100593|exam:14100596|exam:14100601|exam:14100949|exam:14100950>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83068&periodId=589>
 
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
 
 ### International Marketing - Vorlesung
 
@@ -2728,10 +2739,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14103739|exam:14103740|exam:14103744|exam:14104125|exam:14104436|exam:14104437>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83068&periodId=589>
 
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
 
 ### MA Üb Spatial Economics (Exercise) - Übung
 
@@ -2982,7 +2990,18 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95990&periodId=589>
 
 - **Veranstaltungsart:** Tutorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 09:45–11:15 | 23.04.2026 | — |
+| Einzeltermin | Do | 09:45–11:15 | 30.04.2026 | — |
+| Einzeltermin | Do | 09:45–11:15 | 07.05.2026 | — |
+| Einzeltermin | Do | 09:45–11:15 | 21.05.2026 | — |
+| Einzeltermin | Do | 09:45–11:15 | 11.06.2026 | — |
 
 ### Marketingseminar Tutorium - Tutorium
 
@@ -2991,7 +3010,18 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95990&periodId=589>
 
 - **Veranstaltungsart:** Tutorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 09:45–11:15 | 23.04.2026 | — |
+| Einzeltermin | Do | 09:45–11:15 | 30.04.2026 | — |
+| Einzeltermin | Do | 09:45–11:15 | 07.05.2026 | — |
+| Einzeltermin | Do | 09:45–11:15 | 21.05.2026 | — |
+| Einzeltermin | Do | 09:45–11:15 | 11.06.2026 | — |
 
 ### Marktpsychologisches Theorieseminar - Theorieseminar
 
@@ -3994,7 +4024,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119004&periodId=589>
 
 - **Veranstaltungsart:** Projektseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 11:30–13:00 | 15.04.2026–24.06.2026 | 21102.05.452 ((14 Plätze)) |
+| Einzeltermin | Di | 13:15–14:45 | 07.07.2026 | 21102.05.452 ((14 Plätze)) |
 
 ### Sozialökonomisches Projektseminar - Projektseminar
 
@@ -4003,7 +4041,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119004&periodId=589>
 
 - **Veranstaltungsart:** Projektseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 11:30–13:00 | 15.04.2026–24.06.2026 | 21102.05.452 ((14 Plätze)) |
+| Einzeltermin | Di | 13:15–14:45 | 07.07.2026 | 21102.05.452 ((14 Plätze)) |
 
 ### Sozialökonomisches Projektseminar Wolbring - Projektseminar
 
@@ -4505,9 +4551,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14082369|exam:14082371|exam:14082373|exam:14085535|exam:14085899|exam:14085904>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117447&periodId=589>
 
-- **Veranstaltungsart:** Sonstige Lehrveranstaltung
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -4521,9 +4565,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14087627|exam:14087629|exam:14087631|exam:14090748|exam:14091097|exam:14091102>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117447&periodId=589>
 
-- **Veranstaltungsart:** Sonstige Lehrveranstaltung
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -4537,9 +4579,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14092804|exam:14092806|exam:14092808|exam:14092809|exam:14093149|exam:14093154>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117447&periodId=589>
 
-- **Veranstaltungsart:** Sonstige Lehrveranstaltung
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -4553,9 +4593,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14103739|exam:14103740|exam:14103744|exam:14103882|exam:14104085|exam:14104088>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119525&periodId=589>
 
-- **Veranstaltungsart:** Sonstige Lehrveranstaltung
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -7935,7 +7973,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14100592|exam:14100593|exam:14100596|exam:14102013|exam:14102119|exam:14102122>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44310&periodId=589>
 
-- **ECTS-Punkte:** 0.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -7950,7 +7987,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14103739|exam:14103740|exam:14103744|exam:14103745|exam:14103836|exam:14103839>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44310&periodId=589>
 
-- **ECTS-Punkte:** 0.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -11083,7 +11119,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14100592|exam:14100593|exam:14100596|exam:14100601|exam:14100921|exam:14100925>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=77972&periodId=589>
 
-- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -11098,7 +11133,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14103739|exam:14103740|exam:14103744|exam:14104125|exam:14104408|exam:14104412>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=77972&periodId=589>
 
-- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -12859,7 +12893,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14100592|exam:14100593|exam:14100596|exam:14100601|exam:14101000|exam:14101002>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49641&periodId=589>
 
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -12874,7 +12907,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14103739|exam:14103740|exam:14103744|exam:14104125|exam:14104487|exam:14104489>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49641&periodId=589>
 
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -13930,7 +13962,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14100592|exam:14100593|exam:14100596|exam:14101820|exam:14101946|exam:14101948>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49634&periodId=589>
 
-- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch oder Englisch
 
 #### Termine
@@ -13945,7 +13976,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14103739|exam:14103740|exam:14103744|exam:14103882|exam:14103980|exam:14103982>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49634&periodId=589>
 
-- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch oder Englisch
 
 #### Termine
@@ -14464,7 +14494,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14100592|exam:14100593|exam:14100596|exam:14100601|exam:14101095|exam:14101098>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46949&periodId=589>
 
-- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -14479,7 +14508,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14103739|exam:14103740|exam:14103744|exam:14104125|exam:14104582|exam:14104585>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46949&periodId=589>
 
-- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -15019,7 +15047,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14100592|exam:14100593|exam:14100596|exam:14100601|exam:14101708|exam:14101711>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50890&periodId=589>
 
-- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -15034,7 +15061,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14100592|exam:14100593|exam:14100596|exam:14101820|exam:14101959|exam:14101962>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50890&periodId=589>
 
-- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -15049,7 +15075,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14103739|exam:14103740|exam:14103744|exam:14103882|exam:14103993|exam:14103996>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50890&periodId=589>
 
-- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -15064,7 +15089,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14103739|exam:14103740|exam:14103744|exam:14104125|exam:14105195|exam:14105198>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50890&periodId=589>
 
-- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -16171,6 +16195,30 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14095370` · **unitId:** `55618`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14092804|exam:14092806|exam:14092808|exam:14095065|exam:14095079|exam:14095370>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55618&periodId=589>
+
+### 82304 Digitale Sozialwissenschaften
+
+- **Segment:** `exam:17831041` · **unitId:** `124167`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14082369|exam:14082371|exam:14082373|exam:14082374|exam:14082410|exam:17831041>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124167&periodId=589>
+
+### 82304 Digitale Sozialwissenschaften
+
+- **Segment:** `exam:17831023` · **unitId:** `124167`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14082369|exam:14082371|exam:14082373|exam:14083635|exam:14084272|exam:17831023>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124167&periodId=589>
+
+### 82304 Digitale Sozialwissenschaften
+
+- **Segment:** `exam:17831071` · **unitId:** `124167`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14087627|exam:14087629|exam:14087631|exam:14087632|exam:14087654|exam:17831071>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124167&periodId=589>
+
+### 82304 Digitale Sozialwissenschaften
+
+- **Segment:** `exam:17831057` · **unitId:** `124167`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14087627|exam:14087629|exam:14087631|exam:14088872|exam:14089500|exam:17831057>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124167&periodId=589>
 
 ### 82306 Social Data Science II: Datenanalyse
 
@@ -20102,6 +20150,30 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14092804|exam:14092806|exam:14092808|exam:14095065|exam:14095079|exam:14095497>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124185&periodId=589>
 
+### 85723 Marketing für Start Ups
+
+- **Segment:** `exam:17832810` · **unitId:** `139517`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14082369|exam:14082371|exam:14082373|exam:14082374|exam:14082410|exam:17832810>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139517&periodId=589>
+
+### 85723 Marketing für Start Ups
+
+- **Segment:** `exam:17832746` · **unitId:** `139517`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14082369|exam:14082371|exam:14082373|exam:14083635|exam:14084272|exam:17832746>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139517&periodId=589>
+
+### 85723 Marketing für Start Ups
+
+- **Segment:** `exam:17832842` · **unitId:** `139517`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14087627|exam:14087629|exam:14087631|exam:14087632|exam:14087654|exam:17832842>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139517&periodId=589>
+
+### 85723 Marketing für Start Ups
+
+- **Segment:** `exam:17832774` · **unitId:** `139517`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14087627|exam:14087629|exam:14087631|exam:14088872|exam:14089500|exam:17832774>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139517&periodId=589>
+
 ### 85726 Arbeitspsychologie und Digitalisierung
 
 - **Segment:** `exam:14083596` · **unitId:** `124197`
@@ -20146,44 +20218,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 85728 The Sustainability Governance of Global Supply Chains
 
-- **Segment:** `exam:14083599` · **unitId:** `124201`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14082369|exam:14082371|exam:14082373|exam:14082374|exam:14082410|exam:14083599>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124201&periodId=589>
-
-### 85728 The Sustainability Governance of Global Supply Chains
-
-- **Segment:** `exam:14085495` · **unitId:** `124201`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14082369|exam:14082371|exam:14082373|exam:14083635|exam:14084272|exam:14085495>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124201&periodId=589>
-
-### 85728 The Sustainability Governance of Global Supply Chains
-
-- **Segment:** `exam:14088832` · **unitId:** `124201`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14087627|exam:14087629|exam:14087631|exam:14087632|exam:14087654|exam:14088832>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124201&periodId=589>
-
-### 85728 The Sustainability Governance of Global Supply Chains
-
-- **Segment:** `exam:14090708` · **unitId:** `124201`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14087627|exam:14087629|exam:14087631|exam:14088872|exam:14089500|exam:14090708>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124201&periodId=589>
-
-### 85728 The Sustainability Governance of Global Supply Chains
-
-- **Segment:** `exam:14093863` · **unitId:** `124201`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14092804|exam:14092806|exam:14092808|exam:14093220|exam:14093238|exam:14093863>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124201&periodId=589>
-
-### 85728 The Sustainability Governance of Global Supply Chains
-
-- **Segment:** `exam:14094786` · **unitId:** `124201`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14092804|exam:14092806|exam:14092808|exam:14094142|exam:14094159|exam:14094786>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124201&periodId=589>
-
-### 85728 The Sustainability Governance of Global Supply Chains
-
-- **Segment:** `exam:14095077` · **unitId:** `124201`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14092804|exam:14092806|exam:14092808|exam:14095065|exam:14095066|exam:14095077>
+- **Segment:** `exam:17843870` · **unitId:** `124201`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14092804|exam:14092806|exam:14092808|exam:14095065|exam:14095066|exam:17843870>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124201&periodId=589>
 
 ### 85731 International business relations
@@ -23306,6 +23342,60 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14092804|exam:14092806|exam:14092808|exam:14095065|exam:14095079|exam:14095235>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59375&periodId=589>
 
+### 86962 Enterprise Content and Collaboration Management (für WI)
+
+- **Segment:** `exam:17826089` · **unitId:** `139489`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14071772|exam:14071774|exam:14071776|exam:14071777|exam:14071807|exam:17826089>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139489&periodId=589>
+
+### 86962 Enterprise Content and Collaboration Management (für WI)
+
+- **Segment:** `exam:17825928` · **unitId:** `139489`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14071772|exam:14071774|exam:14071776|exam:14072843|exam:14073471|exam:17825928>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139489&periodId=589>
+
+### 86962 Enterprise Content and Collaboration Management (für WI)
+
+- **Segment:** `exam:17826099` · **unitId:** `139489`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14082369|exam:14082371|exam:14082373|exam:14082374|exam:14082410|exam:17826099>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139489&periodId=589>
+
+### 86962 Enterprise Content and Collaboration Management (für WI)
+
+- **Segment:** `exam:17825939` · **unitId:** `139489`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14082369|exam:14082371|exam:14082373|exam:14083635|exam:14084272|exam:17825939>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139489&periodId=589>
+
+### 86962 Enterprise Content and Collaboration Management (für WI)
+
+- **Segment:** `exam:17825971` · **unitId:** `139489`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14087627|exam:14087629|exam:14087631|exam:14087632|exam:14087654|exam:17825971>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139489&periodId=589>
+
+### 86962 Enterprise Content and Collaboration Management (für WI)
+
+- **Segment:** `exam:17825914` · **unitId:** `139489`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14087627|exam:14087629|exam:14087631|exam:14088872|exam:14089500|exam:17825914>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139489&periodId=589>
+
+### 86962 Enterprise Content and Collaboration Management (für WI)
+
+- **Segment:** `exam:17825919` · **unitId:** `139489`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14092804|exam:14092806|exam:14092808|exam:14093220|exam:14093238|exam:17825919>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139489&periodId=589>
+
+### 86962 Enterprise Content and Collaboration Management (für WI)
+
+- **Segment:** `exam:17825944` · **unitId:** `139489`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14092804|exam:14092806|exam:14092808|exam:14094142|exam:14094159|exam:17825944>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139489&periodId=589>
+
+### 86962 Enterprise Content and Collaboration Management (für WI)
+
+- **Segment:** `exam:17826080` · **unitId:** `139489`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14092804|exam:14092806|exam:14092808|exam:14095065|exam:14095079|exam:17826080>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139489&periodId=589>
+
 ### 86973 Current issues in sustainability management
 
 - **Segment:** `exam:14072716` · **unitId:** `77412`
@@ -23629,6 +23719,24 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14095225` · **unitId:** `78706`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14092804|exam:14092806|exam:14092808|exam:14095065|exam:14095079|exam:14095225>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78706&periodId=589>
+
+### 87025 Introduction to game theory
+
+- **Segment:** `exam:17839231` · **unitId:** `139535`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14092804|exam:14092806|exam:14092808|exam:14093220|exam:14093238|exam:17839231>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139535&periodId=589>
+
+### 87025 Introduction to game theory
+
+- **Segment:** `exam:17839211` · **unitId:** `139535`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14092804|exam:14092806|exam:14092808|exam:14094142|exam:14094159|exam:17839211>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139535&periodId=589>
+
+### 87025 Introduction to game theory
+
+- **Segment:** `exam:17839221` · **unitId:** `139535`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14092804|exam:14092806|exam:14092808|exam:14095065|exam:14095079|exam:17839221>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139535&periodId=589>
 
 ### 87036 The R and R Studio Environment
 
@@ -24025,6 +24133,48 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14090584` · **unitId:** `54173`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14087627|exam:14087629|exam:14087631|exam:14088872|exam:14089500|exam:14090584>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54173&periodId=589>
+
+### 87703 Digital business model strategy in industrial ecosystems
+
+- **Segment:** `exam:17843754` · **unitId:** `139549`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14082369|exam:14082371|exam:14082373|exam:14082374|exam:14082410|exam:17843754>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139549&periodId=589>
+
+### 87703 Digital business model strategy in industrial ecosystems
+
+- **Segment:** `exam:17843722` · **unitId:** `139549`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14082369|exam:14082371|exam:14082373|exam:14083635|exam:14084272|exam:17843722>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139549&periodId=589>
+
+### 87703 Digital business model strategy in industrial ecosystems
+
+- **Segment:** `exam:17843770` · **unitId:** `139549`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14087627|exam:14087629|exam:14087631|exam:14087632|exam:14087654|exam:17843770>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139549&periodId=589>
+
+### 87703 Digital business model strategy in industrial ecosystems
+
+- **Segment:** `exam:17843736` · **unitId:** `139549`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14087627|exam:14087629|exam:14087631|exam:14088872|exam:14089500|exam:17843736>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139549&periodId=589>
+
+### 87703 Digital business model strategy in industrial ecosystems
+
+- **Segment:** `exam:17843780` · **unitId:** `139549`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14092804|exam:14092806|exam:14092808|exam:14093220|exam:14093238|exam:17843780>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139549&periodId=589>
+
+### 87703 Digital business model strategy in industrial ecosystems
+
+- **Segment:** `exam:17843790` · **unitId:** `139549`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14092804|exam:14092806|exam:14092808|exam:14094142|exam:14094159|exam:17843790>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139549&periodId=589>
+
+### 87703 Digital business model strategy in industrial ecosystems
+
+- **Segment:** `exam:17843800` · **unitId:** `139549`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14092804|exam:14092806|exam:14092808|exam:14095065|exam:14095079|exam:17843800>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139549&periodId=589>
 
 ### 87710 Wirtschaft, Politik und Gesellschaft in Lateinamerika
 
@@ -24974,10 +25124,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14100592|exam:14100593|exam:14100596|exam:14100601|exam:14101095|exam:14101096>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91623&periodId=589>
 
-- **Veranstaltungsart:** Masterseminar
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -24997,10 +25144,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17616|exam:14103739|exam:14103740|exam:14103744|exam:14104125|exam:14104582|exam:14104583>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91623&periodId=589>
 
-- **Veranstaltungsart:** Masterseminar
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -25517,7 +25661,18 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83677&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 09:45–11:15 | 16.04.2026–28.05.2026 | 21102.00.422 (CIP-Pool 2 (RRZE-IZN)) |
+| Einzeltermin | Do | 09:45–11:15 | 11.06.2026 | 21101.00.215 (CIP-Pool 1 (RRZE-IZN)) |
+| Einzeltermin | Do | 09:45–11:15 | 18.06.2026 | 21102.00.422 (CIP-Pool 2 (RRZE-IZN)) |
+| Einzeltermin | Do | 09:45–11:15 | 25.06.2026 | 21102.00.421 (CIP-Pool 2 (RRZE-IZN)) |
+| wöchentlich | Do | 09:45–11:15 | 02.07.2026–16.07.2026 | 21102.00.422 (CIP-Pool 2 (RRZE-IZN)) |
 
 ### SDS III / EMS I (Ü) - Social Data Science III / Empirische Methoden + Statistik I - Übung 2 - Übung
 
@@ -25540,6 +25695,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Do | 09:45–11:15 | 18.06.2026 | 21102.00.421 (CIP-Pool 2 (RRZE-IZN)) |
 | Einzeltermin | Mi | 09:45–11:15 | 24.06.2026 | 21102.00.421 (CIP-Pool 2 (RRZE-IZN)) |
 | wöchentlich | Do | 09:45–11:15 | 02.07.2026–16.07.2026 | 21102.00.421 (CIP-Pool 2 (RRZE-IZN)) |
+| Einzeltermin | Do | 10:00–11:00 | 10.09.2026 | 21102.00.423 ((33 Plätze – nicht für studentische Veranstaltungen)) |
 
 ### SDS III / EMS I - Social Data Science III / Empirische Methoden u. Statistik I (VORL) - Vorlesung
 
@@ -26561,7 +26717,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Mi | 09:45–11:15 | 27.05.2026 | 21101.03.155 (LG 3.155 (24 Plätze) Seminarraum) |
 | Einzeltermin | Mi | 09:45–11:15 | 01.07.2026 | 21101.05.153 (LG 5.153 (24 Plätze) Seminarraum) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (603)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (605)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -26588,6 +26744,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98248&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
+
+### Advanced Sustainability Management and Corporate Functions — Übung
+
+- **Segment:** `unit:99764` · **unitId:** `99764`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99764&periodId=589>
+
+- **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
@@ -26680,6 +26845,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
+
+### Angewandte Methoden: Computational Social Sciences — Seminar
+
+- **Segment:** `unit:119994` · **unitId:** `119994`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119994&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Turnus:** nur im Sommersemester
 
 ### Angewandte Methoden: Methoden der empirischen Kommunikationsforschung — Seminar
 
@@ -26917,6 +27090,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mi | Mi | 11:00–12:30 | — | 21102.01.420 (LG H5 TeamBank-Hörsaal (384 Plätze)) |
+
+### Arbeitspsychologie und Digitalisierung — Vorlesung
+
+- **Segment:** `unit:130482` · **unitId:** `130482`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130482&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Wintersemester
 
 ### Arbeitsrecht I (Klausur)
 
@@ -27210,15 +27391,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### Buchführung — Online-Kurs
-
-- **Segment:** `unit:121225` · **unitId:** `121225`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121225&periodId=589>
-
-- **Veranstaltungsart:** Online-Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
 ### Buchführung (Klausur)
 
 - **Segment:** `unit:20268` · **unitId:** `20268`
@@ -27334,6 +27506,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nicht in diesem Semester
 
+### Case Studies in Sustainability Management and Social Innovation — Seminar
+
+- **Segment:** `unit:98371` · **unitId:** `98371`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98371&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** Unregelmäßig
+
 ### Chinesisch Elementarkurs 1
 
 - **Segment:** `unit:20804` · **unitId:** `20804`
@@ -27386,16 +27567,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 11:30–13:00 | 20.04.2026–06.07.2026 | 21101.00.225 (LG 0.225 (44 Plätze) Übungsraum) |
-| wöchentlich | Mi | 11:30–13:00 | 22.04.2026–15.07.2026 | 21101.00.142 (LG 0.142 (98 Plätze) Übungsraum) |
-| Einzeltermin | Mi | 11:30–13:00 | 10.06.2026 | 21101.03.153 (LG 3.152/3 (62 Plätze) Seminarraum) |
 
 ### Chinesisch: Elementarkurs 3 — Übung
 
@@ -27974,16 +28146,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Fr | Fr | 10:00–11:30 | — | — |
 
-### Deutsch als Fremdsprache C1/C1+: Fachsprache Wirtschaft - Online-Kurs — Übung
-
-- **Segment:** `unit:116836` · **unitId:** `116836`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116836&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
 ### Deutsch B1.1: Allgemeinkurs
 
 - **Segment:** `unit:37414` · **unitId:** `37414`
@@ -28539,20 +28701,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Wintersemester
 
-### Development economics (Written examination)
-
-- **Segment:** `unit:49553` · **unitId:** `49553`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49553&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | 10:00–11:00 | — | 21102.01.421 (LG H6 BISSANTZ-Hörsaal (240 Plätze)) |
-
 ### Development Economics Bachelor Exercise — Übung
 
 - **Segment:** `unit:109395` · **unitId:** `109395`
@@ -28566,20 +28714,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 09:45–11:15 | 14.04.2026–07.07.2026 | 21101.00.215 (CIP-Pool 1 (RRZE-IZN)) |
-
-### Development Economics Bachelor Lecture — Vorlesung
-
-- **Segment:** `unit:109434` · **unitId:** `109434`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=109434&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 11:30–13:00 | 16.04.2026–16.07.2026 | 21101.05.155 (LG 5.155 (30 Plätze) Seminarraum) |
 
 ### Didaktik der Wirtschaftsinformatik (Klausur)
 
@@ -28816,6 +28950,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | 11:00–12:30 | — | 21101.00.141 (LG 0.141 (48 Plätze) Übungsraum) |
+
+### Einführung in das Genossenschaftswesen — Vorlesung
+
+- **Segment:** `unit:106304` · **unitId:** `106304`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106304&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
 
 ### Einführung in das Nachhaltigkeitsmanagement — Übung
 
@@ -29119,6 +29262,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
+
+### Energy Policy Instruments — Seminar
+
+- **Segment:** `unit:117840` · **unitId:** `117840`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117840&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
 
 ### Energy Security — Vorlesung mit Übung
 
@@ -29485,17 +29637,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 13:00–14:30 | 06.05.2026 | 21101.00.144 (LG 0.144 (38 Plätze) Übungsraum) |
-| Einzeltermin | Mi | 13:00–14:30 | 13.05.2026 | 21101.00.144 (LG 0.144 (38 Plätze) Übungsraum) |
-| Einzeltermin | Do | 13:00–15:30 | 28.05.2026 | 21101.00.143 (LG 0.143 (42 Plätze) Übungsraum) |
-| Einzeltermin | Mi | 13:00–15:30 | 29.07.2026 | 21101.04.156 |
 
 ### FAUMUN Blockseminar
 
@@ -29669,6 +29811,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Unterrichtssprache:** Französisch
 - **Turnus:** in jedem Semester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 18:30–20:00 | 13.04.2026–13.07.2026 | 21102.00.424 (LG 0.424 (92 Plätze) Übungsraum) |
+| wöchentlich | Mo | 16:45–18:15 | 20.04.2026–06.07.2026 | 21102.00.424 (LG 0.424 (92 Plätze) Übungsraum) |
+
 ### Französisch: Elementarkurs 2 — Übung
 
 - **Segment:** `unit:90483` · **unitId:** `90483`
@@ -29732,20 +29881,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:48559` · **unitId:** `48559`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=48559&periodId=589>
-
-- **ECTS-Punkte:** 1.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### Gender und Arbeitsmarkt (Präsentation)
-
-- **Segment:** `unit:48464` · **unitId:** `48464`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=48464&periodId=589>
 
 - **ECTS-Punkte:** 1.0
 - **Unterrichtssprache:** Deutsch
@@ -29834,19 +29969,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Gesundheitsmanagement C - Aktuelle Themen im Gesundheitswesen (Seminararbeit)
-
-- **Segment:** `unit:112484` · **unitId:** `112484`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112484&periodId=589>
-
-- **ECTS-Punkte:** 3.5
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
 ### Gesundheitsverhalten und Gesundheitsmärkte (Klausur) (Klausur+Multiple Choice)
 
 - **Segment:** `unit:48461` · **unitId:** `48461`
@@ -29920,20 +30042,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85971&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 13:15–14:45 | 20.04.2026 | 21101.00.143 (LG 0.143 (42 Plätze) Übungsraum) |
-| Einzeltermin | Mo | 13:15–14:45 | 27.04.2026 | 21101.00.222 (LG 0.222/3 (94 Plätze) Übungsraum) |
-| Einzeltermin | Mo | 13:15–14:45 | 11.05.2026 | 21101.00.222 (LG 0.222/3 (94 Plätze) Übungsraum) |
-| Einzeltermin | Mo | 13:15–14:45 | 01.06.2026 | 21101.00.222 (LG 0.222/3 (94 Plätze) Übungsraum) |
-| Einzeltermin | Mo | 13:15–14:45 | 08.06.2026 | 21101.00.222 (LG 0.222/3 (94 Plätze) Übungsraum) |
-| Einzeltermin | Mo | 13:15–14:45 | 22.06.2026 | 21101.00.222 (LG 0.222/3 (94 Plätze) Übungsraum) |
-| Einzeltermin | Mo | 13:15–14:45 | 06.07.2026 | 21101.00.222 (LG 0.222/3 (94 Plätze) Übungsraum) |
 
 ### GM C - Aktuelle Themen im Gesundheitswesen — Seminar
 
@@ -30374,26 +30483,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Fr | Fr | — | — | — |
 
-### Innovation Technology — Vorlesung mit Übung
-
-- **Segment:** `unit:134705` · **unitId:** `134705`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134705&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 18:30–20:00 | 23.04.2026–16.07.2026 | 21101.01.113 (LG H2 Hörsaal (155 Plätze)) |
-| Einzeltermin | Mi | 09:00–17:00 | 27.05.2026 | 20301.U1.038 (U1.038 Seminarraum (50)) |
-| Einzeltermin | Do | 09:00–17:00 | 28.05.2026 | 20301.02.047 (2.047 Seminarraum (40)) |
-| Einzeltermin | Fr | 09:00–17:00 | 29.05.2026 | 20301.02.047 (2.047 Seminarraum (40)) |
-| Einzeltermin | Sa | 09:00–17:00 | 30.05.2026 | 20301.02.047 (2.047 Seminarraum (40)) |
-
 ### Innovation Technology I — Vorlesung mit Übung
 
 - **Segment:** `unit:92668` · **unitId:** `92668`
@@ -30430,20 +30519,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Do | Do | — | — | — |
-
-### International business relations
-
-- **Segment:** `unit:69621` · **unitId:** `69621`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69621&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
 
 ### International Business Relations — Seminar
 
@@ -30974,6 +31049,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
+### Kommunikationswissenschaftliches Projektseminar II
+
+- **Segment:** `unit:117879` · **unitId:** `117879`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117879&periodId=589>
+
+- **Veranstaltungsart:** Projektseminar
+- **ECTS-Punkte:** 10.0
+- **Turnus:** nur im Wintersemester
+
 ### Kompetenzseminar zum Klimawandel (insbesondere für Lehramtsstudierende und Nebenfachstudierende)
 
 - **Segment:** `unit:82440` · **unitId:** `82440`
@@ -31106,20 +31190,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### Kostenrechnung und Controlling (Klausur)
-
-- **Segment:** `unit:20276` · **unitId:** `20276`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20276&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | 14:00–15:00 | — | — |
-
 ### Kostenrechnung und Controlling Tutorium
 
 - **Segment:** `unit:94742` · **unitId:** `94742`
@@ -31157,6 +31227,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85223&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
+
+### Labor Market Policy — Seminar
+
+- **Segment:** `unit:100073` · **unitId:** `100073`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100073&periodId=589>
+
+- **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
@@ -31241,7 +31320,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | — |
+| wöchentlich | Fr | 15:00–18:00 | 17.04.2026–17.07.2026 | 21101.00.225 (LG 0.225 (44 Plätze) Übungsraum) |
+| Einzeltermin | Fr | 11:30–16:00 | 26.06.2026 | 21101.00.225 (LG 0.225 (44 Plätze) Übungsraum) |
 
 ### Macroeconomics: Business Cycles — Vorlesung
 
@@ -31426,7 +31506,17 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103050&periodId=589>
 
 - **Veranstaltungsart:** Repetitorium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 14:00–15:00 | 09.07.2026 | 21102.00.424 (LG 0.424 (92 Plätze) Übungsraum) |
+| Einzeltermin | Do | 15:00–20:00 | 09.07.2026 | 21102.00.424 (LG 0.424 (92 Plätze) Übungsraum) |
+| Einzeltermin | Do | 14:00–15:00 | 16.07.2026 | 21101.05.153 (LG 5.153 (24 Plätze) Seminarraum) |
+| Einzeltermin | Do | 15:00–20:00 | 16.07.2026 | 21101.05.153 (LG 5.153 (24 Plätze) Seminarraum) |
 
 ### Marketing Management Übung
 
@@ -31443,6 +31533,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 15:00–16:30 | 13.04.2026–13.07.2026 | 21101.01.114 (LG H3 GfK-Hörsaal (155 Plätze) &quot;Gesellschaft für Konsumforschung&quot;) |
+
+### Marketing Tutorium
+
+- **Segment:** `unit:109121` · **unitId:** `109121`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=109121&periodId=589>
+
+- **Veranstaltungsart:** Tutorium
 
 ### Marketingseminar
 
@@ -31880,20 +31977,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | — | — | — |
 
-### Personal und Organisation II (Hausarbeit)
-
-- **Segment:** `unit:20501` · **unitId:** `20501`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20501&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
 ### Personal und Organisation II (Referat und Diskussionsbeitrag)
 
 - **Segment:** `unit:24144` · **unitId:** `24144`
@@ -31915,6 +31998,32 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Wintersemester
+
+### Personalpsychologie — Vorlesung
+
+- **Segment:** `unit:106324` · **unitId:** `106324`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106324&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 3.0
+- **Turnus:** nur im Wintersemester
+
+### Planspiel Sozialökonomik — Seminar
+
+- **Segment:** `unit:95494` · **unitId:** `95494`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95494&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Turnus:** nur im Wintersemester
+
+### Political ecology — Seminar
+
+- **Segment:** `unit:118067` · **unitId:** `118067`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118067&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Sommersemester
 
 ### Politics of Development and the Sustainable Development Goals (SDGs) — Seminar
 
@@ -32107,6 +32216,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mi | Mi | — | — | — |
+
+### Project Course: Building sustainable industry in Europe — Projektseminar
+
+- **Segment:** `unit:122409` · **unitId:** `122409`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122409&periodId=589>
+
+- **Veranstaltungsart:** Projektseminar
+- **Turnus:** Unregelmäßig
 
 ### Projektseminar I
 
@@ -32447,17 +32564,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 09:00–17:00 | 08.05.2026 | 21102.05.452 ((14 Plätze)) |
-| wöchentlich | Fr | 09:00–17:00 | 22.05.2026–17.07.2026 | 21102.05.452 ((14 Plätze)) |
-| Einzeltermin | Fr | 10:00–13:00 | 03.07.2026 | 21102.02.429 ((27 Plätze – nicht für studentische Veranstaltungen)) |
-| Einzeltermin | Fr | 13:45–16:45 | 03.07.2026 | 21102.05.452 ((14 Plätze)) |
 
 ### Seminar on European Integration/Seminar zur Finanzwissenschaft
 
@@ -32798,7 +32905,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 16:30–18:00 | 17.04.2026–17.07.2026 | 21101.00.222 (LG 0.222/3 (94 Plätze) Übungsraum) |
+| wöchentlich | Fr | 15:00–16:30 | 24.04.2026–17.07.2026 | 21101.00.222 (LG 0.222/3 (94 Plätze) Übungsraum) |
 
 ### Software reliability (mündliche Prüfung)
 
@@ -33221,6 +33336,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:90786` · **unitId:** `90786`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90786&periodId=589>
+
+- **Veranstaltungsart:** Tutorium
+- **Turnus:** nur im Wintersemester
+
+### Stud. Tutorium: Operations and Logistics 2
+
+- **Segment:** `unit:100746` · **unitId:** `100746`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100746&periodId=589>
 
 - **Veranstaltungsart:** Tutorium
 - **Turnus:** nur im Wintersemester
@@ -33752,14 +33875,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 13:15–14:45 | 16.04.2026–16.07.2026 | 21101.03.153 (LG 3.152/3 (62 Plätze) Seminarraum) |
 
 ### VL 2b: Wirtschaftsvölkerrecht — Vorlesung
 
@@ -33910,22 +34026,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Sa | Sa | 14:00–15:00 | — | 21101.01.112 (LG H1 (446 Plätze) Hörsaal) |
-
-### Wettbewerbstheorie und -politik — Vorlesung mit Übung
-
-- **Segment:** `unit:94392` · **unitId:** `94392`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94392&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 15:00–19:45 | 16.04.2026–16.07.2026 | 21101.01.114 (LG H3 GfK-Hörsaal (155 Plätze) &quot;Gesellschaft für Konsumforschung&quot;) |
 
 ### Wettbewerbstheorie und -politik (Klausur)
 
@@ -34091,19 +34191,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Mo | 11:30–13:00 | 27.04.2026–13.07.2026 | 21101.00.141 (LG 0.141 (48 Plätze) Übungsraum) 21101.00.143 (LG 0.143 (42 Plätze) Übungsraum) |
 | Einzeltermin | Mi | 16:30–17:30 | 13.05.2026 | 21101.05.153 (LG 5.153 (24 Plätze) Seminarraum) |
 
-### Ökonomisches Auslandsmodul I
-
-- **Segment:** `unit:112456` · **unitId:** `112456`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112456&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
 ### Ökonomisches Auslandsmodul II
 
 - **Segment:** `unit:112460` · **unitId:** `112460`
@@ -34176,22 +34263,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 
-### Übung Arbeitsmarktökonomik
-
-- **Segment:** `unit:104257` · **unitId:** `104257`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104257&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 16:45–18:15 | 28.04.2026–14.07.2026 | 21101.00.142 (LG 0.142 (98 Plätze) Übungsraum) |
-
 ### Übung Buchführung
 
 - **Segment:** `unit:87108` · **unitId:** `87108`
@@ -34263,6 +34334,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Fr | 09:15–09:45 | 24.04.2026 | — |
 | Einzeltermin | Fr | 09:15–12:00 | 08.05.2026 | 21101.00.224 (LG 0.224 (98 Plätze) Übungsraum) |
 | Einzeltermin | Fr | 09:15–12:00 | 26.06.2026 | 21101.00.224 (LG 0.224 (98 Plätze) Übungsraum) |
+
+### Übung zur Arbeitsmarktpolitik
+
+- **Segment:** `unit:105918` · **unitId:** `105918`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=105918&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
+- **Turnus:** nur im Wintersemester
 
 ### Übung zur Arbeitsmarktökonomie (Master)
 

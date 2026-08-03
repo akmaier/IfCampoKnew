@@ -1897,7 +1897,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Masterseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 05801.00.014 (ITM 204) |
 
 ### MA-2 Literature (Exercise) - Übung
 
@@ -3146,7 +3153,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18252|exam:15347005|exam:15347008|exam:15347072|exam:15347073>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123512&periodId=589>
 
-- **ECTS-Punkte:** 10.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -5901,9 +5907,17 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Fr | 12:15–13:45 | 17.04.2026–17.07.2026 | 56701.02.014 ( 02.014) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (52)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (59)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
+
+### "Heimat.Herd.Hetero." Sexualethik rechter Influencer:innen — Seminar
+
+- **Segment:** `unit:130868` · **unitId:** `130868`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130868&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Turnus:** Unregelmäßig
 
 ### Aktuelle Theorien zur Medialität — Hauptseminar
 
@@ -5935,6 +5949,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 10.0
+- **Turnus:** Unregelmäßig
+
+### Bewusstsein, Gedächtnis, Emotion - Einführung in die Philosophie der Psychologie — Proseminar / Mittelseminar
+
+- **Segment:** `unit:122277` · **unitId:** `122277`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122277&periodId=589>
+
+- **Veranstaltungsart:** Proseminar / Mittelseminar
 - **Turnus:** Unregelmäßig
 
 ### Bonhoeffer in medialen Erinnerungskulturen — Seminar
@@ -6007,6 +6029,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Turnus:** Unregelmäßig
 
+### Einführung in die analytische Philosophie — Proseminar / Mittelseminar
+
+- **Segment:** `unit:122647` · **unitId:** `122647`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122647&periodId=589>
+
+- **Veranstaltungsart:** Proseminar / Mittelseminar
+- **Turnus:** Unregelmäßig
+
 ### Einführung in die Angewandte Ethik — Proseminar / Mittelseminar
 
 - **Segment:** `unit:122917` · **unitId:** `122917`
@@ -6071,6 +6101,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar und Übung
 
+### Ethics Lab — Seminar
+
+- **Segment:** `unit:139394` · **unitId:** `139394`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139394&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+
+### Evangelikalismus/Pentekostalismus und die Bedrohung liberal-demokratischer Ordnungen — Übung
+
+- **Segment:** `unit:130991` · **unitId:** `130991`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130991&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.0
+- **Turnus:** jedes 2. Semester
+
 ### Frauen in der Kunst — Seminar
 
 - **Segment:** `unit:91700` · **unitId:** `91700`
@@ -6083,6 +6129,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:130953` · **unitId:** `130953`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130953&periodId=589>
+
+- **Veranstaltungsart:** Proseminar / Mittelseminar
+- **Turnus:** Unregelmäßig
+
+### Gleichheit und Gleichverteilung — Proseminar / Mittelseminar
+
+- **Segment:** `unit:126987` · **unitId:** `126987`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126987&periodId=589>
 
 - **Veranstaltungsart:** Proseminar / Mittelseminar
 - **Turnus:** Unregelmäßig
@@ -6179,6 +6233,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Hauptseminar
 
+### HS/Ü: Ulrike Draesner: Science & Poetry Lab Die Vorbereitung eines Romans zu Emmy Noether, Romantrilogie zu Flucht und Vertreibung — Seminar und Übung
+
+- **Segment:** `unit:130838` · **unitId:** `130838`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130838&periodId=589>
+
+- **Veranstaltungsart:** Seminar und Übung
+
 ### In Science We Trust? Wissenschaftsskeptizismus und Wissenschaftsbeeinflussung — Proseminar / Mittelseminar
 
 - **Segment:** `unit:130476` · **unitId:** `130476`
@@ -6194,14 +6255,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 4.0
-- **Turnus:** Unregelmäßig
-
-### Introduction to philosophy of technology — Proseminar / Mittelseminar
-
-- **Segment:** `unit:122996` · **unitId:** `122996`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122996&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
 - **Turnus:** Unregelmäßig
 
 ### John Rawls: Eine Theorie der Gerechtigkeit — Proseminar / Mittelseminar
@@ -6220,6 +6273,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
+
+### Konstruktiver Journalismus & Co. - Neue Formen des Textjournalismus in Praxis, Theorie und Medienethik — Seminar
+
+- **Segment:** `unit:127259` · **unitId:** `127259`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127259&periodId=589>
+
+- **Veranstaltungsart:** Seminar
 
 ### Kritische Theorie — Proseminar / Mittelseminar
 

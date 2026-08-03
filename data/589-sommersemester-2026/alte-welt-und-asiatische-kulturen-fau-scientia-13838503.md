@@ -5,7 +5,7 @@ campo_segment: "exam:13838503"
 campo_path: "title:17593|title:17599|exam:13838503"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13838503"
 po_version_count: 0
-course_count: 48
+course_count: 49
 ---
 
 # - Alte Welt und asiatische Kulturen (FAU Scientia)  -
@@ -14,7 +14,7 @@ course_count: 48
 
 _Section: FAU Scientia Gaststudium_  
 
-## Veranstaltungen (48)
+## Veranstaltungen (49)
 
 ### Altirisch-Lektüre - Mittelseminar
 
@@ -22,10 +22,7 @@ _Section: FAU Scientia Gaststudium_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13838503|exam:15719180>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134558&periodId=589>
 
-- **Veranstaltungsart:** Mittelseminar
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -457,6 +454,16 @@ _Section: FAU Scientia Gaststudium_
 |---|---|---|---|---|
 | wöchentlich | Mo | 16:15–17:45 | 20.04.2026–13.07.2026 | 05901.04.012 |
 
+### Projekt: Arabischsprachige Webseite des Bayerischen Forschungsinstituts - Vorlesung mit Übung
+
+- **Segment:** `exam:17818925` · **unitId:** `139435`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13838503|exam:17818925>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139435&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
+
 ### Rückert-Vorlesung - Vorlesung
 
 - **Segment:** `exam:15771658` · **unitId:** `134025`
@@ -513,7 +520,14 @@ _Section: FAU Scientia Gaststudium_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135705&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:00–14:00 | 15.04.2026–22.07.2026 | 56701.03.011 |
 
 ### Zyklus 1 - Altpaläolithikum: Überblick über den Beginn der kulturellen Menschheitsgeschichte - Vorlesung
 

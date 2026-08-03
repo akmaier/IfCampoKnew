@@ -651,7 +651,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18301|exam:15089623|exam:15089624|exam:15089625|exam:15089893|exam:15089894|exam:15090178>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=35969&periodId=589>
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (145)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (154)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -669,6 +669,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116100&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+
+### 24/7 Everything and the Poetics of Deceleration — Hauptseminar
+
+- **Segment:** `unit:122563` · **unitId:** `122563`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122563&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
+- **Turnus:** Unregelmäßig
 
 ### A Survey of British Literature and Culture: The Romantic Period and the Victorian Age — Vorlesung
 
@@ -839,6 +847,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Hauptseminar
 - **Turnus:** nur im Wintersemester
 
+### Bilingual Lexicography — Hauptseminar
+
+- **Segment:** `unit:130626` · **unitId:** `130626`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130626&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
+- **Turnus:** Unregelmäßig
+
+### British Drama since 1890 — Hauptseminar
+
+- **Segment:** `unit:116082` · **unitId:** `116082`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116082&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
+
 ### British Literature and Culture in the 19th Century — Vorlesung
 
 - **Segment:** `unit:98714` · **unitId:** `98714`
@@ -913,6 +936,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119104&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+
+### Deep Learning und Künstliche Intelligenz in der maschinellen Sprachverarbeitung — Hauptseminar
+
+- **Segment:** `unit:113093` · **unitId:** `113093`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113093&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
 
 ### DH 1 - Sprache und Text — Seminar und Übung
 
@@ -992,6 +1022,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Hauptseminar
 - **Turnus:** Unregelmäßig
 
+### Early Modern and Postmodern Affective Cultures: Staging/Filming Shakespeare — Hauptseminar
+
+- **Segment:** `unit:130603` · **unitId:** `130603`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130603&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
+- **Turnus:** Unregelmäßig
+
 ### Eco-Apocalypse, Extinction and Endings in American Literature and Culture — Hauptseminar
 
 - **Segment:** `unit:119264` · **unitId:** `119264`
@@ -1050,7 +1088,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91131&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 05801.02.110 ( A 401) |
 
 ### First Language Acquisition and Language Teaching (Übung, obligatory for M.A. students attending Prof. Piske's Hauptseminar) — Übungsseminar
 
@@ -1058,7 +1103,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83141&periodId=589>
 
 - **Veranstaltungsart:** Übungsseminar
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:15–17:00 | 14.04.2026–14.07.2026 | 05902.00.004 ( 00.4 PSG) |
 
 ### Französisch Elementarkurs 1
 
@@ -1324,7 +1376,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:15–14:30 | 15.04.2026–24.06.2026 | 11501.01.105 (H6 Hörsaal 6) |
 
 ### Informatik 2 für Nebenfachstudierende Übungen
 
@@ -1390,6 +1449,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130621&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Turnus:** Unregelmäßig
+
+### ISG zu Cultural and Literary Animal Studies — Übung
+
+- **Segment:** `unit:119815` · **unitId:** `119815`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119815&periodId=589>
+
+- **Veranstaltungsart:** Übung
+
+### ISG zu HS Discourses of Value — Übung
+
+- **Segment:** `unit:127290` · **unitId:** `127290`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127290&periodId=589>
+
+- **Veranstaltungsart:** Übung
 - **Turnus:** Unregelmäßig
 
 ### ISG zum HS  "An Anatomy of Conspiracy: Intrigues, Deceptions and Manipulations in Shakespeare’s Plays and Shakespeare’s Lives" — Übung
@@ -1595,7 +1669,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127271&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Englisch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 05801.01.310 ( C 301 Übungsraum) |
 
 ### Latein I für Anfänger (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -2351,6 +2432,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | — | 07.06.2026 23:59:59 | — |
 
+### Vorlesung französische / italienische Sprachwissenschaft
+
+- **Segment:** `unit:95766` · **unitId:** `95766`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95766&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.0
+- **Turnus:** in jedem Semester
+
 ### Vorlesung Romanistik Sprachwissenschaft
 
 - **Segment:** `unit:100633` · **unitId:** `100633`
@@ -2402,6 +2492,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übungsseminar
 - **Turnus:** nur im Sommersemester
+
+### Übung zum HS Doing Linguistics — Seminar
+
+- **Segment:** `unit:100092` · **unitId:** `100092`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100092&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Turnus:** nur im Wintersemester
 
 ### “Global Crusoe”: The Robinsonade Across Anglophone (Media) Cultures — Hauptseminar
 

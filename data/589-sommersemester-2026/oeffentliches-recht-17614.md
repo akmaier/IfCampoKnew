@@ -205,7 +205,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94293&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
 
 ### Logik für Juristen - Vorlesung
 
@@ -399,9 +406,24 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (17)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (19)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
+
+### Allgemeines Verwaltungsrecht — Vorlesung
+
+- **Segment:** `unit:102193` · **unitId:** `102193`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102193&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Wintersemester
+
+### Bayer. Sicherheits- und Polizeirecht — Vorlesung mit Übung
+
+- **Segment:** `unit:107591` · **unitId:** `107591`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107591&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
 
 ### Einführung in die Rechtswissenschaft für Studierende der Politikwissenschaft im BA-Studiengang "Öffentliches Recht als Zweitfach" — Vorlesung
 
@@ -534,6 +556,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Propädeutische Übung
 - **Turnus:** nur im Wintersemester
 
+### Propädeutische Übungen Europarecht
+
+- **Segment:** `unit:97227` · **unitId:** `97227`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97227&periodId=589>
+
+- **Veranstaltungsart:** Propädeutische Übung
+- **Turnus:** nur im Wintersemester
+
 ### PÜ Allgemeines Verwaltungsrecht — Propädeutische Übung
 
 - **Segment:** `unit:97899` · **unitId:** `97899`
@@ -570,12 +600,3 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Do | Do | 14:00–16:00 | 07.06.2026 23:59:59 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
-
-### Verfassungsgeschichte der Neuzeit — Vorlesung
-
-- **Segment:** `unit:85811` · **unitId:** `85811`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85811&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester

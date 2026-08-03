@@ -14,7 +14,7 @@ course_count: 0
 
 _Section: Studiengänge der Rechts- und Wirtschaftswissenschaftlichen Fakultät_  
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (198)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (203)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -304,6 +304,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
+
+### Betriebspädagogisches Seminar: Bildungsmanagement in Unternehmen
+
+- **Segment:** `unit:102479` · **unitId:** `102479`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102479&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Sommersemester
 
 ### Betriebspädagogisches Seminar: Didaktik der Betrieblichen Bildung
 
@@ -897,6 +906,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Do | Do | 08:30–13:00 | — | — |
 
+### Glaube gegen Gewissheit? Die Aufklärung im 18. Jahrhundert — Proseminar
+
+- **Segment:** `unit:119106` · **unitId:** `119106`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119106&periodId=589>
+
+- **Veranstaltungsart:** Proseminar
+
 ### Grundfragen christlicher Ethik — Seminar
 
 - **Segment:** `unit:102462` · **unitId:** `102462`
@@ -929,6 +945,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Grundkurs
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
+
+### Grundkurs Praktische Philosophie (für Lehramtsstudierende) — Proseminar
+
+- **Segment:** `unit:115612` · **unitId:** `115612`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115612&periodId=589>
+
+- **Veranstaltungsart:** Proseminar
 
 ### Grundkurs Praktische Philosophie (für Lehramtsstudierende) — Proseminar
 
@@ -1421,6 +1444,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.0
 - **Turnus:** Unregelmäßig
 
+### Introduction to Software Engineering — Vorlesung
+
+- **Segment:** `unit:114586` · **unitId:** `114586`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114586&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
+
 ### Introduction to Software Engineering Exercises — Übung
 
 - **Segment:** `unit:114588` · **unitId:** `114588`
@@ -1492,6 +1524,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
+
+### Ling AM-1: Tutorium "Syntax der deutschen Gegenwartssprache" (Erlangen)
+
+- **Segment:** `unit:116786` · **unitId:** `116786`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116786&periodId=589>
+
+- **Veranstaltungsart:** Tutorium
 
 ### Ling BM-1: Einführung in die germanistische  Linguistik (Erlangen, geöffnet für alle Studiengänge) — Einführungskurs
 

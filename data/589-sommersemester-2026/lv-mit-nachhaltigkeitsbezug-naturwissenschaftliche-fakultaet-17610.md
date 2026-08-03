@@ -22,10 +22,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17604|title:17610|exam:13836199|exam:15900794>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=129112&periodId=589>
 
-- **Veranstaltungsart:** Seminar und Übung
-- **ECTS-Punkte:** 7.5
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
 
 ### Pflanzenbestimmungen/Arzneipflanzenexkursionen - Praktikum
 
@@ -387,7 +384,14 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| nach Vereinbarung | — | — | — | — |
 
 ### Nano-SS - Inorganic Nanoparticles & Supraparticles - Vorlesung
 

@@ -324,9 +324,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15425203|exam:15425396|exam:15425398>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87786&periodId=589>
 
-- **Veranstaltungsart:** Aufbauseminar
 - **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -340,9 +338,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15430354|exam:15430357|exam:15430364|exam:15430365|exam:15430547|exam:15430549>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87786&periodId=589>
 
-- **Veranstaltungsart:** Aufbauseminar
 - **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -446,7 +442,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 18:00–19:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
 
-### GLC II & GLC II Plus - Übung
+### GLC I & GLC I Plus - Übung
 
 - **Segment:** `exam:15428815` · **unitId:** `86310`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15428628|exam:15428813|exam:15428815>
@@ -463,7 +459,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | 00501.02.018 ( KH 2.018 Hörsaal Kollegienhaus (SR)) |
 
-### GLC II & GLC II Plus - Übung
+### GLC I & GLC I Plus - Übung
 
 - **Segment:** `exam:15432244` · **unitId:** `86310`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15432078|exam:15432081|exam:15432088|exam:15432089|exam:15432242|exam:15432244>
@@ -1405,7 +1401,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15432078|exam:15432081|exam:15432088|exam:15432089|exam:15432179|exam:15432209>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74201&periodId=589>
 
-### SZEAGLCII - GLC  1 II  GLC II Plus - Übung
+### SZEAGLCII - GLC II & GLC II Plus - Übung
 
 - **Segment:** `exam:15428816` · **unitId:** `93911`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15428628|exam:15428813|exam:15428816>
@@ -1422,7 +1418,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 00501.00.020 ( KH 0.020 Hörsaal Kollegienhaus) |
 
-### SZEAGLCII - GLC  1 II  GLC II Plus - Übung
+### SZEAGLCII - GLC II & GLC II Plus - Übung
 
 - **Segment:** `exam:15432245` · **unitId:** `93911`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15432078|exam:15432081|exam:15432088|exam:15432089|exam:15432242|exam:15432245>
@@ -1490,7 +1486,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Fr | 10:15–11:45 | 17.04.2026–17.07.2026 | 05801.U1.021 (SL 102, Bismarckstr.1 Multimedia-Sprachlabor (Belegung nur nach Rücksprache mit den Raumverantwortlichen)) 05801.04.112 ( A 602) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (216)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (240)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -1602,6 +1598,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** Unregelmäßig
 
+### 21st Century Feminist Life Writing in North America — Hauptseminar
+
+- **Segment:** `unit:111373` · **unitId:** `111373`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111373&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
+- **Turnus:** Unregelmäßig
+
+### 24/7 Everything and the Poetics of Deceleration — Hauptseminar
+
+- **Segment:** `unit:122563` · **unitId:** `122563`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122563&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
+- **Turnus:** Unregelmäßig
+
 ### A Country Divided - Issues that separate American Politics and Society — Proseminar
 
 - **Segment:** `unit:101688` · **unitId:** `101688`
@@ -1635,6 +1647,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Wintersemester
 
+### Abbild - Selbstbild. Schlüsselwerke der Porträtmalerei vom 16. Jahrhundert bis zum 20. Jahrhundert — Aufbauseminar
+
+- **Segment:** `unit:117418` · **unitId:** `117418`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117418&periodId=589>
+
+- **Veranstaltungsart:** Aufbauseminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** Unregelmäßig
+
 ### Advances in Construction Grammar — Oberseminar
 
 - **Segment:** `unit:130620` · **unitId:** `130620`
@@ -1658,6 +1679,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 05801.01.310 ( C 301 Übungsraum) |
 
+### Altarwerke der altniederländischen Malerei — Aufbauseminar
+
+- **Segment:** `unit:124830` · **unitId:** `124830`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124830&periodId=589>
+
+- **Veranstaltungsart:** Aufbauseminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** Unregelmäßig
+
 ### Altdorfer, Breu, Cranach. Avantgarde im Donauraum? — Ober- und Hauptseminar
 
 - **Segment:** `unit:111186` · **unitId:** `111186`
@@ -1665,6 +1695,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Ober- und Hauptseminar
 - **ECTS-Punkte:** 5.0
+- **Turnus:** Unregelmäßig
+
+### American Journeys: Travel in Literary and Cultural Texts — Hauptseminar
+
+- **Segment:** `unit:111368` · **unitId:** `111368`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111368&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
 - **Turnus:** Unregelmäßig
 
 ### American Literary and Cultural History, 20th Century — Vorlesung
@@ -1752,6 +1790,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übungsseminar
 - **Turnus:** Unregelmäßig
+
+### Applications of Linguistics — Seminar
+
+- **Segment:** `unit:96824` · **unitId:** `96824`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96824&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Turnus:** nur im Wintersemester
 
 ### Architektur und Skulptur der Parlerzeit in Süddeutschland — Aufbauseminar
 
@@ -2025,6 +2071,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Hauptseminar
 - **Turnus:** nur im Wintersemester
 
+### Bilingual Lexicography — Hauptseminar
+
+- **Segment:** `unit:130626` · **unitId:** `130626`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130626&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
+- **Turnus:** Unregelmäßig
+
+### British Drama since 1890 — Hauptseminar
+
+- **Segment:** `unit:116082` · **unitId:** `116082`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116082&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
+
 ### Can He Do That? The Changing Power of the American Presidency — Proseminar
 
 - **Segment:** `unit:130601` · **unitId:** `130601`
@@ -2106,14 +2167,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134528&periodId=589>
 
 - **Veranstaltungsart:** Mittelseminar
-- **Unterrichtssprache:** Englisch
 - **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 00501.00.020 ( KH 0.020 Hörsaal Kollegienhaus) |
 
 ### Controlled and Automatic Processes — Hauptseminar
 
@@ -2203,6 +2257,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
+### Das gute Leben! Künste und Kulturen der ,Lebensreform' um 1900 — Aufbauseminar
+
+- **Segment:** `unit:127214` · **unitId:** `127214`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127214&periodId=589>
+
+- **Veranstaltungsart:** Aufbauseminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** Unregelmäßig
+
 ### Das Verhältnis zwischen Großbritannien und Kontinentaleuropa in britischen Gemälden des 17. und 18. Jahrhunderts — Vorlesung
 
 - **Segment:** `unit:83415` · **unitId:** `83415`
@@ -2253,6 +2316,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 05901.01.059 ( 01.059) |
 
+### Die Überzeugungskraft der Bilder. Kunst des 15. Jahrhunderts im Germanischen Nationalmuseum — Aufbauseminar
+
+- **Segment:** `unit:105951` · **unitId:** `105951`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=105951&periodId=589>
+
+- **Veranstaltungsart:** Aufbauseminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** Unregelmäßig
+
 ### Discourses of Value around 1800: Literature, Aesthetics, Political Economy and Politics in the Romantic Age — Hauptseminar
 
 - **Segment:** `unit:127262` · **unitId:** `127262`
@@ -2302,6 +2374,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | — |
 
+### Dürer als Universalkünstler - Teil II — Ober- und Hauptseminar
+
+- **Segment:** `unit:138353` · **unitId:** `138353`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138353&periodId=589>
+
+- **Veranstaltungsart:** Ober- und Hauptseminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** Unregelmäßig
+
 ### Early First Language Acquisition — Proseminar (Mittelseminar, PO 2020)
 
 - **Segment:** `unit:82322` · **unitId:** `82322`
@@ -2309,6 +2390,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Proseminar (Mittelseminar, PO 2020)
 - **Turnus:** nur im Wintersemester
+
+### Early Modern and Postmodern Affective Cultures: Staging/Filming Shakespeare — Hauptseminar
+
+- **Segment:** `unit:130603` · **unitId:** `130603`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130603&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
+- **Turnus:** Unregelmäßig
 
 ### Eco-Apocalypse, Extinction and Endings in American Literature and Culture — Hauptseminar
 
@@ -2323,6 +2412,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127216&periodId=589>
 
 - **Veranstaltungsart:** Ober- und Hauptseminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** Unregelmäßig
+
+### Einführung in die Barockarchitektur: Architekten - Bauaufgaben - Auftraggeber — Aufbauseminar
+
+- **Segment:** `unit:111188` · **unitId:** `111188`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111188&periodId=589>
+
+- **Veranstaltungsart:** Aufbauseminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
@@ -2424,6 +2522,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
+### Fettecke und Lumpenvenus: "Schmutzige" Materialien (in) der Kunst seit 1960 — Ober- und Hauptseminar
+
+- **Segment:** `unit:119846` · **unitId:** `119846`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119846&periodId=589>
+
+- **Veranstaltungsart:** Ober- und Hauptseminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** Unregelmäßig
+
 ### Fonetica pratica — Übung
 
 - **Segment:** `unit:99893` · **unitId:** `99893`
@@ -2448,12 +2555,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Oberseminar
 - **Turnus:** in jedem Semester
 
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 05801.04.112 ( A 602) 05801.00.317 ( C 202) |
-
 ### Forschungskolloquium — Oberseminar
 
 - **Segment:** `unit:130591` · **unitId:** `130591`
@@ -2461,20 +2562,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Oberseminar
 - **Turnus:** Unregelmäßig
-
-### Forschungskolloquium — Oberseminar
-
-- **Segment:** `unit:130592` · **unitId:** `130592`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130592&periodId=589>
-
-- **Veranstaltungsart:** Oberseminar
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 05801.04.316 ( C 601 Seminarraum) |
 
 ### Frauen als Auftraggeberinnen in der Frühen Neuzeit: Malerei - Skulptur - Architektur — Seminar
 
@@ -2545,6 +2632,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mi | Mi | — | 07.06.2026 23:59:59 | — |
+
+### Gotische Skulptur in Frankreich — Aufbauseminar
+
+- **Segment:** `unit:123004` · **unitId:** `123004`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123004&periodId=589>
+
+- **Veranstaltungsart:** Aufbauseminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** Unregelmäßig
 
 ### Grammar & Vocabulary for Erasmus students
 
@@ -2757,6 +2853,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **Turnus:** nur im Wintersemester
 
+### Innen wie außen. Apps zu historischen Bauten — Seminar
+
+- **Segment:** `unit:120506` · **unitId:** `120506`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120506&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+
 ### Introduction to (Diachronic) Construction Grammar — Hauptseminar
 
 - **Segment:** `unit:130621` · **unitId:** `130621`
@@ -2773,6 +2876,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
 
+### ISG zu Cultural and Literary Animal Studies — Übung
+
+- **Segment:** `unit:119815` · **unitId:** `119815`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119815&periodId=589>
+
+- **Veranstaltungsart:** Übung
+
 ### ISG zu Eco-Apocalypse, Extinction and Endings in American Literature and Culture (BAA Seminar) — Übung
 
 - **Segment:** `unit:119810` · **unitId:** `119810`
@@ -2786,6 +2896,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127240&periodId=589>
 
 - **Veranstaltungsart:** Übung
+
+### ISG zu HS Discourses of Value — Übung
+
+- **Segment:** `unit:127290` · **unitId:** `127290`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127290&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Turnus:** Unregelmäßig
 
 ### ISG zum HS  "An Anatomy of Conspiracy: Intrigues, Deceptions and Manipulations in Shakespeare’s Plays and Shakespeare’s Lives" — Übung
 
@@ -2847,10 +2965,26 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | nach Vereinbarung | — | — | — | — |
 
+### ISG zum HS American Travel Writing — Übung
+
+- **Segment:** `unit:112588` · **unitId:** `112588`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112588&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Turnus:** Unregelmäßig
+
 ### ISG zum HS New Ethnicities — Übung
 
 - **Segment:** `unit:122582` · **unitId:** `122582`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122582&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Turnus:** Unregelmäßig
+
+### ISG zum HS Romantic Poetry — Übung
+
+- **Segment:** `unit:122580` · **unitId:** `122580`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122580&periodId=589>
 
 - **Veranstaltungsart:** Übung
 - **Turnus:** Unregelmäßig
@@ -3246,7 +3380,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127271&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Englisch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 05801.01.310 ( C 301 Übungsraum) |
 
 ### Latein I für Anfänger (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -3349,6 +3490,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
 
+### Literary and Other Discourses on Catastrophe at the Turn of the 18th Century — Mittelseminar
+
+- **Segment:** `unit:127275` · **unitId:** `127275`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127275&periodId=589>
+
+- **Veranstaltungsart:** Mittelseminar
+- **Turnus:** Unregelmäßig
+
 ### Literatur, Kunst und Kulturgeschichte Italiens
 
 - **Segment:** `unit:113118` · **unitId:** `113118`
@@ -3377,6 +3526,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 08:00–10:00 | 13.04.2026–13.07.2026 | 00501.01.012 ( KH 1.012 Hörsaal Kollegienhaus) |
 
+### Mensch - Natur - Kunst: Welt-Bilder und Gegen-Welten — Ober- und Hauptseminar
+
+- **Segment:** `unit:122847` · **unitId:** `122847`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122847&periodId=589>
+
+- **Veranstaltungsart:** Ober- und Hauptseminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** Unregelmäßig
+
 ### Modernes Chinesisch: Grammatische Strukturen
 
 - **Segment:** `unit:53624` · **unitId:** `53624`
@@ -3398,6 +3556,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Proseminar (Mittelseminar, PO 2020)
 - **Turnus:** nur im Wintersemester
+
+### Museen verstehen: Architektur - Ausstellung - Ausstattung — Vorlesung
+
+- **Segment:** `unit:115790` · **unitId:** `115790`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115790&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** Unregelmäßig
 
 ### Mündliche Prüfung zu Modernes Chinesisch: Hören und Sprechen
 
@@ -3478,6 +3645,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
+
+### Phraseology and Psycholinguistic Aspects — Proseminar (Mittelseminar, PO 2020)
+
+- **Segment:** `unit:103903` · **unitId:** `103903`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103903&periodId=589>
+
+- **Veranstaltungsart:** Proseminar (Mittelseminar, PO 2020)
+- **Turnus:** nur im Wintersemester
 
 ### Politics & Culture: America in the 1950s — Mittelseminar
 
@@ -3592,13 +3767,27 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
+### Quantitative Approaches to Linguistic Data Analysis: Multidimensional Analysis as a Study of Underlying Patterns in Discourse — Seminar
+
+- **Segment:** `unit:131797` · **unitId:** `131797`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131797&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+
 ### Re-Writing Enslavement: Contemporary Anglophone (Neo-) Slave Narratives — Mittelseminar
 
 - **Segment:** `unit:134234` · **unitId:** `134234`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134234&periodId=589>
 
 - **Veranstaltungsart:** Mittelseminar
+- **Unterrichtssprache:** Englisch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.00.023 ( KH 0.023 Hörsaal Kollegienhaus) |
 
 ### Reading Animals — Hauptseminar
 
@@ -3631,6 +3820,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Turnus:** Unregelmäßig
+
+### Renaissance in Florenz: Giorgio Vasari und seine Künstlerviten — Aufbauseminar
+
+- **Segment:** `unit:126699` · **unitId:** `126699`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126699&periodId=589>
+
+- **Veranstaltungsart:** Aufbauseminar
 - **Turnus:** Unregelmäßig
 
 ### Romanische Portale in Frankreich — Aufbauseminar
@@ -3935,20 +4132,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.01.012 ( KH 1.012 Hörsaal Kollegienhaus) |
-
-### Vorlesung oder Seminar im Modul Culture
-
-- **Segment:** `unit:39833` · **unitId:** `39833`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39833&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | — | — | — |
 
 ### What matters in Austen — Seminar
 

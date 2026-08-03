@@ -134,8 +134,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mi | 14:15–15:45 | 04.02.2026 | 55801.00.210 (00.210 Seminarraum) |
-| wöchentlich | Do | 14:15–15:45 | 16.04.2026–25.06.2026 | 55801.00.147 (00.147 Seminarraum 1 Seminarraum 1 Geographie Tennenlohe) 55801.00.210 (00.210 Seminarraum) |
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
 
 ### Klausur zu Ökologische und Systematische Diversität der Organismen B
 

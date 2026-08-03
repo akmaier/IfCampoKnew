@@ -16,29 +16,6 @@ _Section: FAU Scientia Gaststudium_
 
 ## Veranstaltungen (23)
 
-### 1702 Wahlpflichtseminar II Kurs A - Seminar
-
-- **Segment:** `exam:15793504` · **unitId:** `90282`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13840297|exam:15793504>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90282&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 10:00–11:30 | 27.04.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
-| Einzeltermin | Mo | 10:00–11:30 | 11.05.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
-| Einzeltermin | Mo | 10:00–11:30 | 18.05.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
-| Einzeltermin | Mo | 10:00–11:30 | 01.06.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
-| Einzeltermin | Mo | 10:00–11:30 | 15.06.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
-| Einzeltermin | Mo | 10:00–11:30 | 06.07.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
-| Einzeltermin | Mo | 10:00–11:30 | 20.07.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
-
 ### Advanced Laser - Vorlesung mit Übung
 
 - **Segment:** `exam:13840298` · **unitId:** `86627`
@@ -106,6 +83,16 @@ _Section: FAU Scientia Gaststudium_
 |---|---|---|---|---|
 | wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.011 ( KH 1.011 Senatssaal im Kollegienhaus) 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
 
+### Projekt: Arabischsprachige Webseite des Bayerischen Forschungsinstituts - Vorlesung mit Übung
+
+- **Segment:** `exam:17818922` · **unitId:** `139435`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13840297|exam:17818922>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139435&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
+
 ### Rückert-Vorlesung - Vorlesung
 
 - **Segment:** `exam:15771806` · **unitId:** `134025`
@@ -129,7 +116,14 @@ _Section: FAU Scientia Gaststudium_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135705&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:00–14:00 | 15.04.2026–22.07.2026 | 56701.03.011 |
 
 ### AktFor - Aktuelle Forschungen und Diskurse - Seminar
 
@@ -254,6 +248,7 @@ _Section: FAU Scientia Gaststudium_
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
 
 ### IWGS (TUT) - Tutorium zu Informatische Werkzeuge in den Geistes- und Sozialwissenschaften - Tutorium

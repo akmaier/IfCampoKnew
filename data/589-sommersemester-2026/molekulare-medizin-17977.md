@@ -1806,7 +1806,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13840353|exam:13840355|exam:13840357|exam:13840493|exam:13840498>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=41444&periodId=589>
 
-- **ECTS-Punkte:** 7.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -1821,7 +1820,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13842035|exam:13842037|exam:13842039|exam:13842047|exam:13842052>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=41444&periodId=589>
 
-- **ECTS-Punkte:** 7.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -1836,7 +1834,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13843725|exam:13843727|exam:13843728|exam:13843738|exam:13843743>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=41444&periodId=589>
 
-- **ECTS-Punkte:** 7.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -1852,7 +1849,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92673&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 13:15–18:30 | 13.04.2026–13.07.2026 | 06901.00.029 (Kursraum Biochemie) |
+| wöchentlich | Mo | 13:15–18:30 | 13.04.2026–13.07.2026 | 06901.00.024 (Kursraum Biochemie) |
 
 ### BiochemPraktMM - Praktikum II Biochemie/Molekularbiologie Molekulare Medizin - SS - Praktikum
 
@@ -1861,7 +1866,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92673&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 13:15–18:30 | 13.04.2026–13.07.2026 | 06901.00.029 (Kursraum Biochemie) |
+| wöchentlich | Mo | 13:15–18:30 | 13.04.2026–13.07.2026 | 06901.00.024 (Kursraum Biochemie) |
 
 ### BiochemPraktMM - Praktikum II Biochemie/Molekularbiologie Molekulare Medizin - SS - Praktikum
 
@@ -1870,7 +1883,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92673&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 13:15–18:30 | 13.04.2026–13.07.2026 | 06901.00.029 (Kursraum Biochemie) |
+| wöchentlich | Mo | 13:15–18:30 | 13.04.2026–13.07.2026 | 06901.00.024 (Kursraum Biochemie) |
 
 ### BiochemPropäd - V-V4 Vorlesung zur Biochemischen Propädeutik - Vorlesung
 
@@ -1878,9 +1899,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13840353|exam:13840355|exam:13840357|exam:13840371|exam:13840376>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89418&periodId=589>
 
-- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -1895,9 +1914,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13842035|exam:13842037|exam:13842039|exam:13842070|exam:13842075>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89418&periodId=589>
 
-- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -1912,9 +1929,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13843725|exam:13843727|exam:13843728|exam:13843761|exam:13843766>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89418&periodId=589>
 
-- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -2136,7 +2151,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93116&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 11:15–13:00 | 16.04.2026–16.07.2026 | 06901.01.0231 (Großer Seminarraum Biochemie) |
 
 ### Grundzüge der Mol Med - Grundzüge - Molekulare Medizin - SS - Seminar
 
@@ -2145,7 +2167,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93116&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 11:15–13:00 | 16.04.2026–16.07.2026 | 06901.01.0231 (Großer Seminarraum Biochemie) |
 
 ### Grundzüge der Mol Med - Grundzüge - Molekulare Medizin - SS - Seminar
 
@@ -2154,7 +2183,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93116&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 11:15–13:00 | 16.04.2026–16.07.2026 | 06901.01.0231 (Großer Seminarraum Biochemie) |
 
 ### K-PS 5 - K-PS 5 Vorlesung und Seminar Geschichte, Theorie, Ethik der Medizin (GTE), Q2 - Seminar
 
@@ -2290,7 +2326,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 08:15–09:00 | 05.05.2026–30.06.2026 | — |
+| wöchentlich | Mo | 08:15–09:00 | 04.05.2026–29.06.2026 | — |
 
 ### K-PS15 - K-PS15 Übung Makropathologie (PathoÄAppO2) - Übung
 
@@ -2306,7 +2342,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 08:15–09:00 | 05.05.2026–30.06.2026 | — |
+| wöchentlich | Mo | 08:15–09:00 | 04.05.2026–29.06.2026 | — |
 
 ### K-PS15 - K-PS15 Übung Makropathologie (PathoÄAppO2) - Übung
 
@@ -2322,7 +2358,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 08:15–09:00 | 05.05.2026–30.06.2026 | — |
+| wöchentlich | Mo | 08:15–09:00 | 04.05.2026–29.06.2026 | — |
 
 ### K-PS16 - K-PS16 Übung Histopathologie - Übung
 
@@ -2430,7 +2466,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85188&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 06901.01.0231 (Großer Seminarraum Biochemie) |
 
 ### KomSemMM - Kompaktseminar Biochemie - Molekulare Medizin - WS - Seminar
 
@@ -2439,7 +2482,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85188&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 06901.01.0231 (Großer Seminarraum Biochemie) |
 
 ### Methodenseminar MM - Methodenseminar - Molekulare Medizin - SS - Seminar
 
@@ -2602,7 +2652,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86433&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:15–15:45 | 14.04.2026–19.05.2026 | 06901.00.035 (Hörsaal Biochemie) |
+| wöchentlich | Do | 14:15–15:45 | 16.04.2026–07.05.2026 | 06901.00.035 (Hörsaal Biochemie) |
 
 ### PC II Mol. Med. - V - Physikalische Chemie II für Mol. Med. - Vorlesung
 
@@ -2611,7 +2669,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86433&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:15–15:45 | 14.04.2026–19.05.2026 | 06901.00.035 (Hörsaal Biochemie) |
+| wöchentlich | Do | 14:15–15:45 | 16.04.2026–07.05.2026 | 06901.00.035 (Hörsaal Biochemie) |
 
 ### PC II Mol. Med. - V - Physikalische Chemie II für Mol. Med. - Vorlesung
 
@@ -2620,7 +2686,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86433&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:15–15:45 | 14.04.2026–19.05.2026 | 06901.00.035 (Hörsaal Biochemie) |
+| wöchentlich | Do | 14:15–15:45 | 16.04.2026–07.05.2026 | 06901.00.035 (Hörsaal Biochemie) |
 
 ### PC Mol. Med. - PR - Physikalisch-chemisches Praktikum für Mol. Med. - Praktikum
 
@@ -3040,14 +3114,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106010&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 06701.00.014 (Hörsaal Physiologie 2) |
 
 ### V-V10/1-V15 - V-V10/1-V15 Vorlesung Zellphysiologie - Vorlesung
 
@@ -3056,14 +3123,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106010&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 06701.00.014 (Hörsaal Physiologie 2) |
 
 ### V-V10/1-V15 - V-V10/1-V15 Vorlesung Zellphysiologie - Vorlesung
 
@@ -3072,14 +3132,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106010&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 06701.00.014 (Hörsaal Physiologie 2) |
 
 ### V-V11/1-V6 - V-V11/1-V6 Vorlesung Vegetative Physiologie - Hauptvorlesung
 
@@ -3373,7 +3426,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | wöchentlich | Di | 13:30–15:00 | 14.04.2026–14.07.2026 | 01501.01.057 (Seminarraum Virologie) |
 | wöchentlich | Do | 12:30–14:00 | 16.04.2026–16.07.2026 | 01501.01.057 (Seminarraum Virologie) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (34)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (35)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -3384,6 +3437,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
+
+### Advanced Lectures in Molecular Medicine 1 - Part Immunology — Vorlesung
+
+- **Segment:** `unit:108956` · **unitId:** `108956`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=108956&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Wintersemester
 
 ### Allgemeine Histologie und Embryologie (Teilleistung 1) — Kurs
@@ -3533,6 +3594,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Kurs
 - **Turnus:** nur im Wintersemester
 
+### Kurs der mikroskopischen Anatomie für 2. Sem. Molekulare Medizin
+
+- **Segment:** `unit:100203` · **unitId:** `100203`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100203&periodId=589>
+
+- **Veranstaltungsart:** Kurs
+- **Turnus:** in jedem Semester
+
 ### Kurs Humangenetik für BSc-Studiengang Molekulare Medizin (Gruppenunterricht)
 
 - **Segment:** `unit:105335` · **unitId:** `105335`
@@ -3649,14 +3718,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:103344` · **unitId:** `103344`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103344&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nur im Wintersemester
-
-### Seminar Vegetative Physiologie für Molekularmediziner
-
-- **Segment:** `unit:96759` · **unitId:** `96759`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96759&periodId=589>
 
 - **Veranstaltungsart:** Seminar
 - **Turnus:** nur im Wintersemester

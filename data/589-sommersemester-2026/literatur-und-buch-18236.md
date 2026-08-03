@@ -216,10 +216,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18236|exam:15032531|exam:15034096|exam:15034097>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91000&periodId=589>
 
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -683,7 +680,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:00–15:00 | 13.04.2026–13.07.2026 | 56701.02.036 (Mo - Fr 8:00 - 20:00 Uhr Romanistik) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (164)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (177)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -693,6 +690,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119197&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Turnus:** Unregelmäßig
+
+### "Heimat.Herd.Hetero." Sexualethik rechter Influencer:innen — Seminar
+
+- **Segment:** `unit:130868` · **unitId:** `130868`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130868&periodId=589>
+
+- **Veranstaltungsart:** Seminar
 - **Turnus:** Unregelmäßig
 
 ### #Christus - Social Media, Identität_en und der Christusbegriff — Seminar
@@ -907,6 +912,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
+### Basisseminar französische Literaturwissenschaft B — Einführungskurs
+
+- **Segment:** `unit:102611` · **unitId:** `102611`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102611&periodId=589>
+
+- **Veranstaltungsart:** Einführungskurs
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Sommersemester
+
 ### Begleitende Übung zu VL Gottesbilder im Alten Testament
 
 - **Segment:** `unit:115179` · **unitId:** `115179`
@@ -1013,6 +1027,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Hauptseminar
 - **Turnus:** nur im Sommersemester
 
+### Christentum und Demokratie (ID HS KG / STII-Ethik) — Seminar
+
+- **Segment:** `unit:106006` · **unitId:** `106006`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106006&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+
 ### Christliche Archäologie, Hauptseminar
 
 - **Segment:** `unit:90423` · **unitId:** `90423`
@@ -1027,6 +1048,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 06201.02.020 ( TSG HS B (02.020) Theologisches Seminargebäude, Kochstraße 6) |
+
+### Christus (m/w/d) - Die Geschlechter der Inkarnation (KG-Spezialvorlesung)
+
+- **Segment:** `unit:119196` · **unitId:** `119196`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119196&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.0
+- **Turnus:** Unregelmäßig
 
 ### Das Böse in Theologie und Film — Seminar
 
@@ -1059,6 +1089,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** Unregelmäßig
+
+### Das Wissen der Literatur: Ansätze, Kontexte, Perspektiven (neuer BA: Lit AM-W) — Seminar
+
+- **Segment:** `unit:126333` · **unitId:** `126333`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126333&periodId=589>
+
+- **Veranstaltungsart:** Seminar
 
 ### Deepfakes: Ethische, medienwissenschaftliche, pädagogische Perspektiven — Seminar
 
@@ -1102,6 +1139,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.0
 - **Turnus:** Unregelmäßig
 
+### Der Schmalkaldische Krieg 1546/47 — Hauptseminar
+
+- **Segment:** `unit:126833` · **unitId:** `126833`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126833&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
+
 ### Deutungen des Todes Jesu — Vorlesung
 
 - **Segment:** `unit:111376` · **unitId:** `111376`
@@ -1143,6 +1187,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 3.0
 - **Turnus:** Unregelmäßig
+
+### Dramen der Gegenwart (Lit AM-L) — Seminar
+
+- **Segment:** `unit:126406` · **unitId:** `126406`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126406&periodId=589>
+
+- **Veranstaltungsart:** Seminar
 
 ### Ein kurtzweilig Lesen von Dil Ulenspiegel — Seminar
 
@@ -1216,6 +1267,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.0
 - **Turnus:** Unregelmäßig
 
+### Epochen im Überblick vom Barock bis zur Gegenwart (Lit AM-G) (Erlangen für BA/LA GY/RS) — Kolleg
+
+- **Segment:** `unit:137843` · **unitId:** `137843`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137843&periodId=589>
+
+- **Veranstaltungsart:** Kolleg
+
 ### Erzählungen zur Kindheit Jesu (Lk 1-3 und Mt 1-3, dazu apokryphe Texte) — Hauptseminar
 
 - **Segment:** `unit:111511` · **unitId:** `111511`
@@ -1242,6 +1300,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 2.0
 - **Turnus:** Unregelmäßig
+
+### Evangelikalismus/Pentekostalismus und die Bedrohung liberal-demokratischer Ordnungen — Übung
+
+- **Segment:** `unit:130991` · **unitId:** `130991`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130991&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.0
+- **Turnus:** jedes 2. Semester
 
 ### Forschungsgeschichte des Genozids an den Armeniern — Hauptseminar
 
@@ -1730,6 +1797,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | 15:00–18:00 | 07.06.2026 23:59:59 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
 
+### Kundalini, die Schlangenkraft: Geschichten, Praktiken und Deutungen eines globalisierten Erfahrungsbegriffs — Seminar
+
+- **Segment:** `unit:138156` · **unitId:** `138156`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138156&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+
 ### Körpertechniken des Selbst: Yoga und Achtsamkeit zwischen Emanzipation und Normierung — Seminar
 
 - **Segment:** `unit:134632` · **unitId:** `134632`
@@ -1801,6 +1875,28 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.0
 - **Turnus:** Unregelmäßig
+
+### Lit AM (alter BA): Gender Studies und Literaturwissenschaft — Proseminar
+
+- **Segment:** `unit:115211` · **unitId:** `115211`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115211&periodId=589>
+
+- **Veranstaltungsart:** Proseminar
+
+### Lit AM-G Aufbaumodul Literaturgeschichte:  Dichtung des deutschen Mittelalters - Gattungen und Themen — Kolleg
+
+- **Segment:** `unit:137699` · **unitId:** `137699`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137699&periodId=589>
+
+- **Veranstaltungsart:** Kolleg
+- **Turnus:** in jedem Semester
+
+### Lit AM-G: "Die Welt ist ein Dorf, oder: Heinrich Wittenwilers 'Der Ring'" — Seminar
+
+- **Segment:** `unit:125928` · **unitId:** `125928`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125928&periodId=589>
+
+- **Veranstaltungsart:** Seminar
 
 ### Lit AM-G: Lilienweiß und Rosenrot - Erotik und Sexualität in mittelhochdeutscher Dichtung — Kolleg
 
@@ -1883,25 +1979,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 09:00–12:00 | 13.04.2026–13.07.2026 | 05801.01.211 ( B 302) |
 
-### Metamorphosen: Mythos - Rezeption - Transformation von der Antike bis zur Gegenwart (Lit AM-G) — Kolleg
-
-- **Segment:** `unit:134043` · **unitId:** `134043`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134043&periodId=589>
-
-- **Veranstaltungsart:** Kolleg
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 14:00–16:00 | 17.04.2026–17.07.2026 | — |
-| Blockveranstaltung | — | 14:00–20:00 | 07.05.2026 | 05801.01.211 ( B 302) |
-| Einzeltermin | Sa | 10:00–15:00 | 23.05.2026 | 05902.00.015 ( 00.15 PSG) |
-| Blockveranstaltung | — | 14:00–20:00 | 18.06.2026 | 05801.01.211 ( B 302) |
-| Blockveranstaltung | — | 14:00–20:00 | 03.07.2026 | 05801.01.211 ( B 302) |
-
 ### Methoden
 
 - **Segment:** `unit:53511` · **unitId:** `53511`
@@ -1937,15 +2014,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mi | Mi | — | — | — |
-
-### Mittelseminar französische Literaturwissenschaft B
-
-- **Segment:** `unit:98995` · **unitId:** `98995`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98995&periodId=589>
-
-- **Veranstaltungsart:** Mittelseminar
-- **ECTS-Punkte:** 6.0
-- **Turnus:** in jedem Semester
 
 ### Nachrichten aus den östlichen Kirchen (NÖK) — Vorlesung
 
@@ -2118,15 +2186,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 3.0
 - **Turnus:** nur im Wintersemester
 
-### Rechtfertigungslehre: von Luther zu Paulus zurück in die Gegenwart — Übung
-
-- **Segment:** `unit:111315` · **unitId:** `111315`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111315&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
-- **Turnus:** Unregelmäßig
-
 ### Religion-Postkolonialismus-Theologie. Eine Einführung — Vorlesung
 
 - **Segment:** `unit:84745` · **unitId:** `84745`
@@ -2191,6 +2250,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 05801.02.110 ( A 401) |
 
+### Schleiermacher und Barth aus homiletischer Perspektive — Übung
+
+- **Segment:** `unit:110400` · **unitId:** `110400`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110400&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.0
+- **Turnus:** Unregelmäßig
+
 ### Schriftliche Übersetzungsleistung Latein I für Anfänger (Zulassungsvoraussetzung zu Kurs Latein II für Fortgeschrittene)
 
 - **Segment:** `unit:39848` · **unitId:** `39848`
@@ -2237,6 +2305,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mi | 12:00–14:00 | 15.04.2026–15.07.2026 | 06201.U1.031 (TSG U1.031 Bibliothek Systematische Theologie) |
 
+### Spezialvorlesung Kirchen- und Theologiegeschichte
+
+- **Segment:** `unit:111808` · **unitId:** `111808`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111808&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.0
+- **Turnus:** Unregelmäßig
+
 ### Systematische Aspekte der Literaturwissenschaft
 
 - **Segment:** `unit:46475` · **unitId:** `46475`
@@ -2266,14 +2343,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 15:45–17:15 | 16.04.2026–16.07.2026 | 75202.00.513 (St.Paul 00.513 (24)) |
-
-### Sünde im Neuen Testament — Übung
-
-- **Segment:** `unit:83637` · **unitId:** `83637`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83637&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** Unregelmäßig
 
 ### Texte und Themen der Neueren Kirchengeschichte (ggf. Sprachvoraussetzungen) — Seminar und Übung
 
@@ -2314,6 +2383,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 06201.U1.031 (TSG U1.031 Bibliothek Systematische Theologie) |
+
+### UE Dogmatik — Übung
+
+- **Segment:** `unit:115343` · **unitId:** `115343`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115343&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Turnus:** nicht in diesem Semester
 
 ### UE Sag wie hältst du's mit der Hermeneutik? Unterrichtsvorbereitung mit dem ersten digitalen Religionslehrbuch "Herausforderungen" — Übung
 
@@ -2528,6 +2605,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 06201.02.024 (TSG R. 2.024 Bibliothek Neuere Kirchengeschichte) |
+
+### Ü: Übung zu Texten und Themen der Neueren Kirchengeschichte (ohne Sprachvoraussetzungen) — Seminar und Übung
+
+- **Segment:** `unit:135856` · **unitId:** `135856`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135856&periodId=589>
+
+- **Veranstaltungsart:** Seminar und Übung
+- **ECTS-Punkte:** 2.0
+- **Turnus:** Unregelmäßig
 
 ### Ü: Übung zu Texten und Themen der Älteren Kirchengeschichte
 

@@ -1859,7 +1859,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14751183|exam:14751185|exam:14751187|exam:14751229|exam:14751230>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=25472&periodId=589>
 
-- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -2001,7 +2000,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | Fr | 08:00–10:00 | — | 11907.01.040 (H18) |
+| Fr | Fr | 08:00–10:00 | — | 11907.01.030 (H19) |
 
 ### 24911 Chemische Reaktionstechnik - Leistung
 
@@ -2016,7 +2015,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | Fr | 08:00–10:00 | — | 11907.01.040 (H18) |
+| Fr | Fr | 08:00–10:00 | — | 11907.01.030 (H19) |
 
 ### 24911 Chemische Reaktionstechnik - Leistung
 
@@ -2031,7 +2030,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | Fr | 08:00–10:00 | — | 11907.01.040 (H18) |
+| Fr | Fr | 08:00–10:00 | — | 11907.01.030 (H19) |
 
 ### 24911 Chemische Reaktionstechnik - Leistung
 
@@ -2046,7 +2045,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | Fr | 08:00–10:00 | — | 11907.01.040 (H18) |
+| Fr | Fr | 08:00–10:00 | — | 11907.01.030 (H19) |
 
 ### 24911 Chemische Reaktionstechnik - Leistung
 
@@ -2061,7 +2060,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | Fr | 08:00–10:00 | — | 11907.01.040 (H18) |
+| Fr | Fr | 08:00–10:00 | — | 11907.01.030 (H19) |
 
 ### 24911 Chemische Reaktionstechnik - Leistung
 
@@ -2076,7 +2075,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | Fr | 08:00–10:00 | — | 11907.01.040 (H18) |
+| Fr | Fr | 08:00–10:00 | — | 11907.01.030 (H19) |
 
 ### 25101 Digitaltechnik - Leistung
 
@@ -4081,7 +4080,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14761109|exam:14761110|exam:14761111|exam:14761112|exam:14761225|exam:14761227>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27710&periodId=589>
 
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -4407,12 +4405,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14771023` · **unitId:** `78283`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14770945|exam:14771014|exam:14771023>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78283&periodId=589>
-
-### 45310 Wärmekraftanlagen und Kraftwerkstechnik
-
-- **Segment:** `exam:14765247` · **unitId:** `70541`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14765038|exam:14765039|exam:14765040|exam:14765041|exam:14765247>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70541&periodId=589>
 
 ### 45340 Fluid-Feststoff-Strömungen
 
@@ -5068,7 +5060,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14751183|exam:14751185|exam:14751187|exam:14751200|exam:14751203>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=35999&periodId=589>
 
-- **ECTS-Punkte:** 7.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -5083,7 +5074,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14754536|exam:14754538|exam:14754540|exam:14756176|exam:14756179>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=35999&periodId=589>
 
-- **ECTS-Punkte:** 7.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -5098,7 +5088,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14757841|exam:14757843|exam:14757845|exam:14759415|exam:14759418>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=35999&periodId=589>
 
-- **ECTS-Punkte:** 7.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -5740,6 +5729,21 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78279&periodId=589>
 
 - **ECTS-Punkte:** 5.0
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### 53101 Wärmekraftanlagen und Kraftwerkstechnik - Leistung
+
+- **Segment:** `exam:14765248` · **unitId:** `26062`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14765038|exam:14765039|exam:14765040|exam:14765041|exam:14765247|exam:14765248>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=26062&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 
 #### Termine
 
@@ -10439,7 +10443,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | Einzeltermin | Fr | 10:00–11:30 | 17.04.2026 | — |
 
-### EAM-HS-Maschinen - Hauptseminar Elektrische Maschinen - Hauptseminar
+### EAM-HS-Maschinen - Hauptseminar Elektrische Antriebstechnik und Maschinen - Hauptseminar
 
 - **Segment:** `exam:14759492` · **unitId:** `82473`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14757841|exam:14757843|exam:14757845|exam:14759471|exam:14759491|exam:14759492>
@@ -10630,6 +10634,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** in jedem Semester
 
 ### ET-HS-TPE - Seminar Thermophysikalische Eigenschaften von Arbeitsstoffen der Energietechnik - Hauptseminar
@@ -10640,6 +10645,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** in jedem Semester
 
 ### ET-HS-TPE - Seminar Thermophysikalische Eigenschaften von Arbeitsstoffen der Energietechnik - Hauptseminar
@@ -10650,6 +10656,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** in jedem Semester
 
 ### ET-P - Praktikum Energietechnik - Praktikum
@@ -12189,7 +12196,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 10:15–11:45 | 20.04.2026–13.07.2026 | 11901.00.236 (K1-119 Brose-Saal) |
+| wöchentlich | Fr | 12:15–13:45 | 10.04.2026–17.07.2026 | 11002.00.020 (H17 Maschinenbau Hörsaal Maschinenbau) |
 
 ### IngMathE2U - Übungen zur Mathematik für Ingenieure E2: ET, ME, IuK - Übung
 
@@ -12205,7 +12212,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 10:15–11:45 | 20.04.2026–13.07.2026 | 11901.00.236 (K1-119 Brose-Saal) |
+| wöchentlich | Fr | 12:15–13:45 | 10.04.2026–17.07.2026 | 11002.00.020 (H17 Maschinenbau Hörsaal Maschinenbau) |
 
 ### IngMathE2U - Übungen zur Mathematik für Ingenieure E2: ET, ME, IuK - Übung
 
@@ -12221,7 +12228,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 10:15–11:45 | 20.04.2026–13.07.2026 | 11901.00.236 (K1-119 Brose-Saal) |
+| wöchentlich | Fr | 12:15–13:45 | 10.04.2026–17.07.2026 | 11002.00.020 (H17 Maschinenbau Hörsaal Maschinenbau) |
 
 ### IngMathE2V - Mathematik für Ingenieure E2: ET, IuK, ME - Vorlesung
 
@@ -13055,7 +13062,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Di | 16:00–19:00 | 14.07.2026 | 13003.00.827 (HG Hörsaal Physikum) |
 | Einzeltermin | Di | 16:00–19:00 | 14.07.2026 | 13003.00.877 (HC Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 | Einzeltermin | Di | 16:00–19:00 | 14.07.2026 | 13003.00.836 (HF Hörsaal Physikum) |
-| Einzeltermin | Fr | 13:00–16:00 | 25.09.2026 | — |
+| Einzeltermin | Fr | 13:00–16:00 | 25.09.2026 | 13003.00.874 (HD Hörsaal Physikum) |
 
 ### NW-1 - Einführung in die Astronomie 2 - Vorlesung
 
@@ -13076,7 +13083,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Di | 16:00–19:00 | 14.07.2026 | 13003.00.827 (HG Hörsaal Physikum) |
 | Einzeltermin | Di | 16:00–19:00 | 14.07.2026 | 13003.00.877 (HC Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 | Einzeltermin | Di | 16:00–19:00 | 14.07.2026 | 13003.00.836 (HF Hörsaal Physikum) |
-| Einzeltermin | Fr | 13:00–16:00 | 25.09.2026 | — |
+| Einzeltermin | Fr | 13:00–16:00 | 25.09.2026 | 13003.00.874 (HD Hörsaal Physikum) |
 
 ### PAK - Prozessmaschinen und Apparatetechnik - Vorlesung
 
@@ -14397,10 +14404,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14761109|exam:14761110|exam:14761111|exam:14761112|exam:14761357|exam:14761359>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84247&periodId=589>
 
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -15107,7 +15111,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Fr | 13:30–15:00 | 08.05.2026–17.07.2026 | 11401.00.109 (0.56 Praktikum) 11401.00.037 (0.15 Seminarraum) 11401.00.237 (0.85 Seminarraum) |
+| wöchentlich | Fr | 13:30–15:00 | 08.05.2026–17.07.2026 | 11401.00.109 (0.56 Praktikum) 11401.00.237 (0.85 Seminarraum) |
 
 ### Ü BVE - Übung zu Betriebsverhalten elektrischer Energiesysteme - Übung
 
@@ -16034,6 +16038,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 1.5
 - **Turnus:** nur im Wintersemester
 
+### Excercises Photovoltaic systems - Fundamentals — Übung
+
+- **Segment:** `unit:96447` · **unitId:** `96447`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96447&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.0
+- **Turnus:** nur im Wintersemester
+
 ### Exercise in Optical Diagnostics in Energy and Process Engineering — Übung
 
 - **Segment:** `unit:84187` · **unitId:** `84187`
@@ -16151,6 +16164,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 08:15–09:45 | 13.04.2026–13.07.2026 | 11906.01.030 (H21) |
 | wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 11906.01.030 (H21) |
+
+### Fertigungsmesstechnik II - Online — Online-Kurs
+
+- **Segment:** `unit:137719` · **unitId:** `137719`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137719&periodId=589>
+
+- **Veranstaltungsart:** Online-Kurs
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
 
 ### Fertigungsmesstechnik II - Übung
 
@@ -16424,6 +16446,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mi | Mi | 14:00–15:00 | — | 11906.01.030 (H21) |
+
+### Kurzexkursion zu Betriebsmittel und Komponenten elektrischer Energiesysteme
+
+- **Segment:** `unit:103416` · **unitId:** `103416`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103416&periodId=589>
+
+- **Veranstaltungsart:** Exkursion
+- **Turnus:** nur im Wintersemester
 
 ### Kurzexkursion zu Power Electronics in Three-Phase AC Networks: HVDC Transmission and FACTS
 
@@ -16815,7 +16845,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Sa | Sa | 08:00–09:30 | — | 12801.01.210 (H11) |
+| Sa | Sa | 09:00–10:30 | — | 11901.00.222 (H7 Hörsaal 7) |
 
 ### Power Electronics for Decentral Energy Systems — Vorlesung
 
@@ -16999,20 +17029,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Blockveranstaltung | — | 08:30–16:45 | 06.07.2026–10.07.2026 | — |
 
-### PV Systems 3 - Praktikum
-
-- **Segment:** `unit:111050` · **unitId:** `111050`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111050&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung | — | 09:00–12:00 | 13.07.2026–15.07.2026 | — |
-
 ### PV Systems III - PV Technology
 
 - **Segment:** `unit:78082` · **unitId:** `78082`
@@ -17086,14 +17102,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-### Quantenelektronik I - Quantentechnologien 1 — Vorlesung
-
-- **Segment:** `unit:82455` · **unitId:** `82455`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82455&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Sommersemester
 
 ### Regelungstechnik A (Grundlagen) — Vorlesung mit Übung
 
@@ -17488,10 +17496,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
 
-### Tutorium Halbleiterbauelemente
+### Tutorial Engineering Thermodynamics for ET and CE — Tutorium
 
-- **Segment:** `unit:82875` · **unitId:** `82875`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82875&periodId=589>
+- **Segment:** `unit:95532` · **unitId:** `95532`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95532&periodId=589>
 
 - **Veranstaltungsart:** Tutorium
 - **Turnus:** nur im Wintersemester
@@ -17714,14 +17722,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:84144` · **unitId:** `84144`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84144&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Übungen zu Halbleiterbauelemente
-
-- **Segment:** `unit:82326` · **unitId:** `82326`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82326&periodId=589>
 
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester

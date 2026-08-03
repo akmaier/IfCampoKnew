@@ -1193,7 +1193,7 @@ _Section: Studiengänge der Technischen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | 11:00–12:30 | — | 12801.01.210 (H11) |
+| Do | Do | 11:00–12:30 | — | 56901.00.026 (Seminarraum 3 (Vorbelegungsrecht HTA Departments fürfür WS bis 15.07.26))) |
 
 ### 44451 Cognitive Neuroscience for AI Developers - Leistung
 
@@ -1208,7 +1208,7 @@ _Section: Studiengänge der Technischen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | 11:00–12:30 | — | 12801.01.210 (H11) |
+| Do | Do | 11:00–12:30 | — | 56901.00.026 (Seminarraum 3 (Vorbelegungsrecht HTA Departments fürfür WS bis 15.07.26))) |
 
 ### 44521 Selected Topics of Deep Learning for Audio, Speech, and Music Processing
 
@@ -4058,7 +4058,7 @@ _Section: Studiengänge der Technischen Fakultät_
 |---|---|---|---|---|
 | wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 11501.04.222 (04.222 EL4.14 &quot;Tietze-Schenk-Saal&quot;) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (68)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (67)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -4303,6 +4303,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
+### Einführung in die moderne Kryptographie (Übung)
+
+- **Segment:** `unit:88748` · **unitId:** `88748`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88748&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
+- **Turnus:** nur im Wintersemester
+
 ### Eingebettete Systeme — Vorlesung
 
 - **Segment:** `unit:82795` · **unitId:** `82795`
@@ -4337,6 +4346,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
+
+### Hochfrequenztechnik Tutorium
+
+- **Segment:** `unit:114400` · **unitId:** `114400`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114400&periodId=589>
+
+- **Veranstaltungsart:** Tutorium
 - **Turnus:** nur im Wintersemester
 
 ### Hochfrequenztechnik Übung
@@ -4383,14 +4400,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
 
-### Introduction to Modern Cryptography Lecture — Vorlesung
+### Introduction to Modern Cryptography Exercise — Übung
 
-- **Segment:** `unit:125664` · **unitId:** `125664`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125664&periodId=589>
+- **Segment:** `unit:125667` · **unitId:** `125667`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125667&periodId=589>
 
-- **Veranstaltungsart:** Vorlesung
+- **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
-- **Turnus:** in jedem Semester
+- **Turnus:** nur im Wintersemester
 
 ### Kanalcodierung — Vorlesung mit Übung
 
@@ -4491,19 +4508,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### Maschinelles Lernen für Zeitreihen
-
-- **Segment:** `unit:51671` · **unitId:** `51671`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=51671&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | — | — | — |
-
 ### Maschinelles Lernen für Zeitreihen Übung
 
 - **Segment:** `unit:82423` · **unitId:** `82423`
@@ -4560,29 +4564,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Fr | 13:00–15:00 | 17.04.2026–17.07.2026 | — |
-
-### Molecular Communications — Vorlesung
-
-- **Segment:** `unit:87901` · **unitId:** `87901`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87901&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Movement Neuroscience: Connections between Brain and Muscles in Humans
-
-- **Segment:** `unit:76873` · **unitId:** `76873`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=76873&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | 14:00–15:00 | — | 11901.00.226 (H8 Hörsaal 8) |
 
 ### Movement Neuroscience: Connections between the Brain and Muscles in Humans — Vorlesung
 

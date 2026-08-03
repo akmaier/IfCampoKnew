@@ -692,7 +692,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Do | 16:15–17:45 | 23.04.2026–16.07.2026 | 05901.03.010 (PSG II R 3.010 Mittellateinische Bibliothek) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (24)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (26)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -727,6 +727,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **Turnus:** Unregelmäßig
+
+### Hauptseminar Mediävistik und Examenskurs
+
+- **Segment:** `unit:110017` · **unitId:** `110017`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110017&periodId=589>
+
+- **Veranstaltungsart:** Seminar
 
 ### Hauptseminar Mediävistik und Examenskurs: Märendichtung / Novellistik
 
@@ -933,6 +940,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121866&periodId=589>
 
 - **Veranstaltungsart:** Übung
+
+### Übung Mediävistik: Berühmte Beispielgeschichten - aus der Welt der Bibel und der Bibel der Welt — Kolleg
+
+- **Segment:** `unit:137701` · **unitId:** `137701`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137701&periodId=589>
+
+- **Veranstaltungsart:** Kolleg
 
 ### Übung Mediävistik: Deutsche und französische Liederhandschriften
 

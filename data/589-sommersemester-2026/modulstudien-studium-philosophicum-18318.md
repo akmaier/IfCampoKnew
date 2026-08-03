@@ -14,7 +14,7 @@ course_count: 0
 
 _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theologie_  
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (439)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (465)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -42,6 +42,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 16:00–18:00 | 20.04.2026–13.07.2026 | 00901.00.027 (Orangerie - Mediathek/Seminarraum) |
 | Blockveranstaltung | — | 10:00–17:00 | 27.05.2026–28.05.2026 | — |
+
+### "Ganz wie der Mann?" Bilder und Rollen von Frauen und Männern in der Frühen Neuzeit — Proseminar
+
+- **Segment:** `unit:110723` · **unitId:** `110723`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110723&periodId=589>
+
+- **Veranstaltungsart:** Proseminar
 
 ### 'Erkenntnis durch Widerspruch' - Über Dissens und Konsens in den Wissenschaften — Seminar
 
@@ -203,6 +210,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 06201.00.025 (TSG R. 0.025 Bibliothek Altes Testament) |
+
+### Alttestamentliche Übung: Themen des Alten Testaments
+
+- **Segment:** `unit:118901` · **unitId:** `118901`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118901&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.0
+- **Turnus:** nur im Wintersemester
 
 ### Amerikanismus und Neues Bauen in der Weimarer Republik — Aufbauseminar
 
@@ -567,7 +583,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Proseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | 54201.01.008 ( Übungsraum I/8 Studienzentrum) |
 
 ### BA M4: PS Soziotechnische Systeme (B): — Proseminar
 
@@ -882,19 +905,19 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | 00501.01.012 ( KH 1.012 Hörsaal Kollegienhaus) |
 
+### Basisseminar französische Literaturwissenschaft B — Einführungskurs
+
+- **Segment:** `unit:102611` · **unitId:** `102611`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102611&periodId=589>
+
+- **Veranstaltungsart:** Einführungskurs
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Sommersemester
+
 ### Basisseminar französische Sprachwissenschaft
 
 - **Segment:** `unit:83256` · **unitId:** `83256`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83256&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Basisseminar französische Sprachwissenschaft
-
-- **Segment:** `unit:90800` · **unitId:** `90800`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90800&periodId=589>
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
@@ -1041,14 +1064,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **Turnus:** nur im Wintersemester
 
-### Basisseminar: Bildung und Lebenslauf
-
-- **Segment:** `unit:95299` · **unitId:** `95299`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95299&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
 ### Basisseminar: Kultur und Kommunikation
 
 - **Segment:** `unit:88605` · **unitId:** `88605`
@@ -1072,6 +1087,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **Turnus:** in jedem Semester
 
+### Basisseminar: Vergleichende Gesellschaftsanalyse
+
+- **Segment:** `unit:96036` · **unitId:** `96036`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96036&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Turnus:** nur im Wintersemester
+
 ### Begleitende Übung zu VL Gottesbilder im Alten Testament
 
 - **Segment:** `unit:115179` · **unitId:** `115179`
@@ -1080,6 +1103,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.0
 - **Turnus:** nicht in diesem Semester
+
+### Berufsbiographien qualitativ erforschen — Seminar
+
+- **Segment:** `unit:122454` · **unitId:** `122454`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122454&periodId=589>
+
+- **Veranstaltungsart:** Seminar
 
 ### Beschreiben und vergleichendes Sehen
 
@@ -1203,6 +1233,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Blockveranstaltung | — | 09:00–18:00 | 20.07.2026–23.07.2026 | 05801.01.110 ( PSG A 301) |
+
+### Bewusstsein, Gedächtnis, Emotion - Einführung in die Philosophie der Psychologie — Proseminar / Mittelseminar
+
+- **Segment:** `unit:122277` · **unitId:** `122277`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122277&periodId=589>
+
+- **Veranstaltungsart:** Proseminar / Mittelseminar
+- **Turnus:** Unregelmäßig
 
 ### Bibelkunde des Neuen Testaments — Übung
 
@@ -1410,22 +1448,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 05901.05.013 ( 05.013) |
 
-### Deutsch-lateinische Übersetzungsübungen - Unterstufe 1
+### Der Wert des Lebens, der Wert des Sterbens. Tod und Todesvorstellungen in der Frühen Neuzeit — Proseminar
 
-- **Segment:** `unit:89620` · **unitId:** `89620`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89620&periodId=589>
+- **Segment:** `unit:122543` · **unitId:** `122543`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122543&periodId=589>
 
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Deutsch-lateinische Übersetzungsübungen - Unterstufe 1
-
-- **Segment:** `unit:114735` · **unitId:** `114735`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114735&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
-- **Turnus:** jedes 2. Semester
+- **Veranstaltungsart:** Proseminar
 
 ### Deutsch-lateinische Übersetzungsübungen - Unterstufe 2
 
@@ -1441,27 +1469,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 05901.02.058 ( 2.058 R 2.058) |
-
-### Deutsch-lateinische Übersetzungsübungen - Unterstufe A
-
-- **Segment:** `unit:122718` · **unitId:** `122718`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122718&periodId=589>
-
-- **Veranstaltungsart:** Übung
-
-### Deutsch-lateinische Übersetzungsübungen - Unterstufe II
-
-- **Segment:** `unit:110909` · **unitId:** `110909`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110909&periodId=589>
-
-- **Veranstaltungsart:** Übung
-
-### Deutsch-lateinische Übersetzungsübungen - Unterstufe II
-
-- **Segment:** `unit:119159` · **unitId:** `119159`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119159&periodId=589>
-
-- **Veranstaltungsart:** Übung
 
 ### Deutschland im Europäischen Mehrebenensystem — Proseminar
 
@@ -1623,6 +1630,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Proseminar / Mittelseminar
 - **Turnus:** Unregelmäßig
 
+### Die Sowjetunion in der Stalinzeit: Neue Ansätze der Stalinismusforschung — Proseminar
+
+- **Segment:** `unit:132359` · **unitId:** `132359`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132359&periodId=589>
+
+- **Veranstaltungsart:** Proseminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** in jedem Semester
+
 ### Die Stationierung amerikanischer Atomwaffen in der Bundesrepublik Deutschland: Ziel und Auswirkungen — Proseminar
 
 - **Segment:** `unit:133655` · **unitId:** `133655`
@@ -1654,6 +1670,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mi | 08:15–09:45 | 15.04.2026–15.07.2026 | 00501.01.021 ( KH 1.021 Hörsaal Kollegienhaus (SR)) |
 | Einzeltermin | Do | 10:00–12:00 | 30.07.2026 | 05901.02.058 ( 2.058 R 2.058) |
+
+### Einführende Sprachübungen
+
+- **Segment:** `unit:120105` · **unitId:** `120105`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120105&periodId=589>
+
+- **Veranstaltungsart:** Übung
 
 ### Einführende Sprachübungen
 
@@ -1694,12 +1717,28 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 4.0
 - **Turnus:** jedes 2. Semester
 
+### Einführende Sprachübungen Deutsch-Griechisch
+
+- **Segment:** `unit:122925` · **unitId:** `122925`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122925&periodId=589>
+
+- **Veranstaltungsart:** Übung
+
 ### Einführende Sprachübungen Griechisch-Deutsch
 
 - **Segment:** `unit:122923` · **unitId:** `122923`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122923&periodId=589>
 
 - **Veranstaltungsart:** Übung
+
+### Einführende Sprachübungen Griechisch-Deutsch
+
+- **Segment:** `unit:131449` · **unitId:** `131449`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131449&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 3.0
+- **Turnus:** in jedem Semester
 
 ### Einführung in das Mittellatein und Neulatein II [Tutorium/Übung]
 
@@ -1750,6 +1789,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
 - **Turnus:** in jedem Semester
+
+### Einführung in die analytische Philosophie — Proseminar / Mittelseminar
+
+- **Segment:** `unit:122647` · **unitId:** `122647`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122647&periodId=589>
+
+- **Veranstaltungsart:** Proseminar / Mittelseminar
+- **Turnus:** Unregelmäßig
 
 ### Einführung in die Angewandte Ethik — Proseminar / Mittelseminar
 
@@ -1882,7 +1929,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | Mo | 12:00–14:00 | — | — |
+| Mo | Mo | 12:00–14:00 | 07.06.2026 23:59:59 | — |
 
 ### Einführung in die Kommunalpolitik — Proseminar
 
@@ -1909,6 +1956,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
+
+### Einführung in die Kunstgeschichte - Baustein II (Wissenschaftliches Arbeiten) — Seminar
+
+- **Segment:** `unit:103519` · **unitId:** `103519`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103519&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 0.0
 - **Turnus:** nur im Wintersemester
 
 ### Einführung in die Lateinische Philologie — Übung
@@ -2034,6 +2090,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Proseminar / Mittelseminar
 - **Turnus:** Unregelmäßig
 
+### Einführung in die Wissenschaftsphilosophie (PS/MS) — Kombiseminar
+
+- **Segment:** `unit:111933` · **unitId:** `111933`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111933&periodId=589>
+
+- **Veranstaltungsart:** Kombiseminar
+
 ### Einführung in Erziehungswissenschaftliches Denken und Reflektieren — Seminar
 
 - **Segment:** `unit:138597` · **unitId:** `138597`
@@ -2101,6 +2164,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 05801.04.112 ( A 602) |
 | Einzeltermin | Mi | 10:00–12:00 | 20.05.2026 | 05801.04.111 ( A 603) |
 
+### Epochen im Überblick vom Barock bis zur Gegenwart (Lit AM-G) (Erlangen für BA/LA GY/RS) — Kolleg
+
+- **Segment:** `unit:137843` · **unitId:** `137843`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137843&periodId=589>
+
+- **Veranstaltungsart:** Kolleg
+
 ### Español intermedio I — Übung
 
 - **Segment:** `unit:92053` · **unitId:** `92053`
@@ -2155,6 +2225,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Di | Di | 10:15–11:45 | — | 05701.00.010 ( 00.010 Übungsraum 1) |
+
+### Ethik der künstlichen Intelligenz: eine Einführung / Introduction to ethics of AI (PS / MS) — Kombiseminar
+
+- **Segment:** `unit:106362` · **unitId:** `106362`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106362&periodId=589>
+
+- **Veranstaltungsart:** Kombiseminar
 
 ### Ethik im Markusevangelium — Hauptseminar
 
@@ -2237,21 +2314,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **Turnus:** nur im Wintersemester
 
-### Frauenbewegungen in globaler Perspektive (1848-1933) — Proseminar
+### Frauenemanzipation: Historische und biographische Perspektiven — Seminar
 
-- **Segment:** `unit:133842` · **unitId:** `133842`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133842&periodId=589>
+- **Segment:** `unit:126776` · **unitId:** `126776`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126776&periodId=589>
 
-- **Veranstaltungsart:** Proseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 16:00–18:00 | 15.04.2026–15.07.2026 | 05901.05.012 ( 05.012) |
+- **Veranstaltungsart:** Seminar
 
 ### Freiwilliges Zusatzangebot: Online-Ringvorlesung "Systematische Aspekte der Literaturwissenschaft"
 
@@ -2477,6 +2545,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 14:15–15:45 | 14.04.2026–14.07.2026 | 05901.05.013 ( 05.013) |
 
+### Glaube gegen Gewissheit? Die Aufklärung im 18. Jahrhundert — Proseminar
+
+- **Segment:** `unit:119106` · **unitId:** `119106`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119106&periodId=589>
+
+- **Veranstaltungsart:** Proseminar
+
+### Gleichheit und Gleichverteilung — Proseminar / Mittelseminar
+
+- **Segment:** `unit:126987` · **unitId:** `126987`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126987&periodId=589>
+
+- **Veranstaltungsart:** Proseminar / Mittelseminar
+- **Turnus:** Unregelmäßig
+
 ### Glück und Moral: Tugenden in der Philosophie als Lebenskunst — Proseminar / Mittelseminar
 
 - **Segment:** `unit:134058` · **unitId:** `134058`
@@ -2544,6 +2627,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115607&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
+
+### Grundkurs Praktische Philosophie
+
+- **Segment:** `unit:122905` · **unitId:** `122905`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122905&periodId=589>
+
+- **Veranstaltungsart:** Grundkurs
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
 
 ### Grundkurs Praktische Philosophie
 
@@ -2853,6 +2945,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
 
+### Hadith I, BA, 2.FS — Vorlesung
+
+- **Segment:** `unit:111966` · **unitId:** `111966`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111966&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+
 ### Handschriften aus Heilsbronn in Erlangen / Kloster Heilsbronn [Exkursion]
 
 - **Segment:** `unit:95242` · **unitId:** `95242`
@@ -3139,14 +3238,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Fr | 14:00–18:00 | 10.07.2026 | 05801.01.110 ( PSG A 301) |
 | Einzeltermin | Sa | 10:00–14:00 | 11.07.2026 | 05801.01.110 ( PSG A 301) |
 
-### Introduction to philosophy of technology — Proseminar / Mittelseminar
-
-- **Segment:** `unit:122996` · **unitId:** `122996`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122996&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Turnus:** Unregelmäßig
-
 ### Italiano intermedio I — Übung
 
 - **Segment:** `unit:85786` · **unitId:** `85786`
@@ -3371,6 +3462,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Proseminar
 
+### Koran I, BA, 1. FS — Vorlesung
+
+- **Segment:** `unit:116579` · **unitId:** `116579`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116579&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+
 ### Krieg. Landeshistorische Perspektiven auf ein globales Phänomen — Proseminar
 
 - **Segment:** `unit:84103` · **unitId:** `84103`
@@ -3387,6 +3485,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Proseminar / Mittelseminar
 - **Turnus:** Unregelmäßig
+
+### Kultursoziologie und Qualitative Methoden — Seminar
+
+- **Segment:** `unit:119428` · **unitId:** `119428`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119428&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+
+### Kunstsoziologie der klassischen Moderne — Seminar
+
+- **Segment:** `unit:111684` · **unitId:** `111684`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111684&periodId=589>
+
+- **Veranstaltungsart:** Seminar
 
 ### Können Städte das Klima retten? Möglichkeiten und Grenzen der kommunalen Klimapolitik in Deutschland. — Proseminar
 
@@ -3452,18 +3564,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 ### Lateinisch-deutsche Übersetzungsübungen - Unterstufe
 
-- **Segment:** `unit:127499` · **unitId:** `127499`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127499&periodId=589>
+- **Segment:** `unit:110889` · **unitId:** `110889`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110889&periodId=589>
 
 - **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | 05901.02.058 ( 2.058 R 2.058) |
 
 ### Lateinische Literaturwissenschaft I
 
@@ -3505,6 +3609,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
+
+### Lektürekurs Karl Marx — Seminar
+
+- **Segment:** `unit:97638` · **unitId:** `97638`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97638&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Turnus:** nur im Wintersemester
 
 ### Lektüreübung Ältere Kirchengeschichte
 
@@ -3557,6 +3669,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** in jedem Semester
 
+### Ling AM-2: Seminar Linguistik
+
+- **Segment:** `unit:106655` · **unitId:** `106655`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106655&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** in jedem Semester
+
 ### Ling AM-2: Wortbildung der deutschen Gegenwartssprache — Seminar
 
 - **Segment:** `unit:109968` · **unitId:** `109968`
@@ -3571,6 +3692,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 08:30–10:00 | 13.04.2026–13.07.2026 | 05902.00.015 ( 00.15 PSG) |
+
+### Ling AM: Briefe von Psychiatriepatienten aus soziolinguistischer Perspektive — Seminar
+
+- **Segment:** `unit:118633` · **unitId:** `118633`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118633&periodId=589>
+
+- **Veranstaltungsart:** Seminar
 
 ### Ling BM-1: Einführung in die germanistische  Linguistik (Erlangen, geöffnet für alle Studiengänge) — Einführungskurs
 
@@ -3651,6 +3779,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Fr | 08:45–09:30 | 24.04.2026–17.07.2026 | 20301.U1.038 (U1.038 Seminarraum (50)) |
 
+### Lit AM-G Aufbaumodul Literaturgeschichte:  Dichtung des deutschen Mittelalters - Gattungen und Themen — Kolleg
+
+- **Segment:** `unit:137699` · **unitId:** `137699`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137699&periodId=589>
+
+- **Veranstaltungsart:** Kolleg
+- **Turnus:** in jedem Semester
+
+### Lit AM-G: "Die Welt ist ein Dorf, oder: Heinrich Wittenwilers 'Der Ring'" — Seminar
+
+- **Segment:** `unit:125928` · **unitId:** `125928`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125928&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+
 ### Lit BM — Einführungskurs
 
 - **Segment:** `unit:130351` · **unitId:** `130351`
@@ -3704,6 +3847,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** in jedem Semester
 
+### Lit BM: Grundlagen des wissenschaftlichen Arbeitens in der Literaturwissenschaft — Einführungskurs
+
+- **Segment:** `unit:137574` · **unitId:** `137574`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137574&periodId=589>
+
+- **Veranstaltungsart:** Einführungskurs
+- **ECTS-Punkte:** 5.0
+- **Turnus:** in jedem Semester
+
 ### Lit BM: Grundlagen des wissenschaftlichen Arbeitens in der Literaturwissenschaft (Erlangen: für BA/LA GYM/LA RS/) — Einführungskurs
 
 - **Segment:** `unit:137803` · **unitId:** `137803`
@@ -3746,6 +3898,23 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Proseminar / Mittelseminar
 - **Turnus:** Unregelmäßig
+
+### Logisch-philosophische Propädeutik — Proseminar
+
+- **Segment:** `unit:115717` · **unitId:** `115717`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115717&periodId=589>
+
+- **Veranstaltungsart:** Proseminar
+- **Turnus:** nur im Wintersemester
+
+### Logisch-philosophische Propädeutik — Proseminar
+
+- **Segment:** `unit:121918` · **unitId:** `121918`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121918&periodId=589>
+
+- **Veranstaltungsart:** Proseminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
 
 ### Lyotard: Der Widerstreit — Proseminar / Mittelseminar
 
@@ -3830,7 +3999,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 10:00–13:00 | 14.04.2026–14.07.2026 | 05801.01.211 ( B 302) |
+| wöchentlich | Mo | 10:00–13:00 | 13.04.2026–13.07.2026 | 05801.01.210 ( B 301) |
 
 ### Med BM: Grundlagen der Germanistischen Mediävistik — Kurs
 
@@ -4229,6 +4398,29 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Fr | 08:30–10:00 | 17.04.2026–17.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
 
+### Politische Systeme II: Einführung in die Vergleichende Politikwissenschaft — Vorlesung
+
+- **Segment:** `unit:118920` · **unitId:** `118920`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118920&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+
+### Politische Systeme II: Einführung in die Vergleichende Politikwissenschaft — Vorlesung
+
+- **Segment:** `unit:126547` · **unitId:** `126547`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126547&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.5
+- **Turnus:** nur im Sommersemester
+
+### Politische Systeme im Maghreb aus vergleichender Perspektive — Proseminar
+
+- **Segment:** `unit:111323` · **unitId:** `111323`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111323&periodId=589>
+
+- **Veranstaltungsart:** Proseminar
+
 ### Praxisübung I: Inschriften und Münzen als Quellen für die mittlere und späte römische Republik — Übungsseminar
 
 - **Segment:** `unit:134496` · **unitId:** `134496`
@@ -4244,6 +4436,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 08:00–10:00 | 16.04.2026–16.07.2026 | 05901.01.059 ( 01.059) |
+
+### Praxisübung I: Medienrevolution in der Frühen Neuzeit. Eine Einführung in Quellen und Meth
+
+- **Segment:** `unit:126719` · **unitId:** `126719`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126719&periodId=589>
+
+- **Veranstaltungsart:** Übung
 
 ### Propädeutik - Ikonographie
 
@@ -4508,15 +4707,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Fr | 10:15–11:45 | 17.04.2026–17.07.2026 | 05901.05.013 ( 05.013) |
 
-### Rechtfertigungslehre: von Luther zu Paulus zurück in die Gegenwart — Übung
-
-- **Segment:** `unit:111315` · **unitId:** `111315`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111315&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
-- **Turnus:** Unregelmäßig
-
 ### Referat zu Geschichte der islamischen Welt
 
 - **Segment:** `unit:39421` · **unitId:** `39421`
@@ -4653,14 +4843,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | — | — | — |
-
-### Sünde im Neuen Testament — Übung
-
-- **Segment:** `unit:83637` · **unitId:** `83637`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83637&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** Unregelmäßig
 
 ### Tech Worker in arbeitssoziologischer Perspektive — Seminar
 
@@ -5174,13 +5356,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Turnus:** Unregelmäßig
 
-### Überblicksvorlesung Mittelalterliche Geschichte
+### Ü: Übung zu Texten und Themen der Neueren Kirchengeschichte (ohne Sprachvoraussetzungen) — Seminar und Übung
 
-- **Segment:** `unit:94991` · **unitId:** `94991`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94991&periodId=589>
+- **Segment:** `unit:135856` · **unitId:** `135856`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135856&periodId=589>
 
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
+- **Veranstaltungsart:** Seminar und Übung
+- **ECTS-Punkte:** 2.0
+- **Turnus:** Unregelmäßig
 
 ### Überblicksvorlesung Neueste Geschichte in Erlangen — Vorlesung mit Übung
 
@@ -5221,7 +5404,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
 
 ### Übung
 
@@ -5307,6 +5497,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:87125` · **unitId:** `87125`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87125&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Turnus:** nur im Wintersemester
+
+### Übungen zur Vorlesung "Einführung in die Volkswirtschaftslehre"
+
+- **Segment:** `unit:98991` · **unitId:** `98991`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98991&periodId=589>
 
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester

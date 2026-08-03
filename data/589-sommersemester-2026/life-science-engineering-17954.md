@@ -5,7 +5,7 @@ campo_segment: "title:17954"
 campo_path: "title:17593|title:17601|title:17954"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17954"
 po_version_count: 0
-course_count: 339
+course_count: 342
 ---
 
 # Life Science Engineering
@@ -14,7 +14,7 @@ course_count: 339
 
 _Section: Studiengänge der Technischen Fakultät_  
 
-## Veranstaltungen (339)
+## Veranstaltungen (342)
 
 ### Biophysik/Biomechanik - Vorlesung mit Übung
 
@@ -170,7 +170,14 @@ _Section: Studiengänge der Technischen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 12104.01.421 (KS I Kurssaal I Hanns-Hofmann-Hörsaal) |
 
 ### Messtechnik 1 - Messtechnik und Analytik - Vorlesung
 
@@ -245,7 +252,14 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98690&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 13301.01.0331 (C2 - Chemikum) |
 
 ### Photon & Neutron Scattering for Structure Determination - Vorlesung
 
@@ -338,7 +352,6 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104672&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
-- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Sommersemester
 
 ### Vertiefung Bioseparation (UE) - Übung
@@ -1066,7 +1079,7 @@ _Section: Studiengänge der Technischen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | Fr | 08:00–10:00 | — | 11907.01.040 (H18) |
+| Fr | Fr | 08:00–10:00 | — | 11907.01.030 (H19) |
 
 ### 24911 Chemische Reaktionstechnik - Leistung
 
@@ -1081,7 +1094,7 @@ _Section: Studiengänge der Technischen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | Fr | 08:00–10:00 | — | 11907.01.040 (H18) |
+| Fr | Fr | 08:00–10:00 | — | 11907.01.030 (H19) |
 
 ### 25701 BWL für Ingenieure - Leistung
 
@@ -1112,6 +1125,21 @@ _Section: Studiengänge der Technischen Fakultät_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Fr | Fr | — | — | — |
+
+### 27921 Data science for engineers - Leistung
+
+- **Segment:** `exam:17839041` · **unitId:** `76161`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17954|exam:14434248|exam:14434250|exam:14434252|exam:14435752|exam:17839040|exam:17839041>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=76161&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | Do | — | — | — |
 
 ### 28611 Mikrobiologie - Leistung
 
@@ -1164,7 +1192,6 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17954|exam:14427903|exam:14427905|exam:14427907|exam:14427908|exam:14427909|exam:14427910>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=24393&periodId=589>
 
-- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -1841,7 +1868,6 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17954|exam:14442476|exam:14442477|exam:14442478|exam:14442584|exam:14442658|exam:14442659>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106555&periodId=589>
 
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -3031,7 +3057,14 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92115&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 07204.02.028 (SR 02.028 Seminarraum der LS Autonome Systeme und Mechatronik u. Medizinische Biotechnologie) |
 
 ### BRT_LSE - Bioreaktions- und Bioverfahrenstechnik (nur LSE) - Vorlesung
 
@@ -3180,10 +3213,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17954|exam:14442476|exam:14442477|exam:14442478|exam:14442479|exam:14442517|exam:14442520>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104057&periodId=589>
 
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -3377,6 +3407,40 @@ _Section: Studiengänge der Technischen Fakultät_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 16:15–17:45 | 29.04.2026–15.07.2026 | 11907.01.040 (H18) |
+
+### DSE-E - Data Science for Engineers (Exercise) - Übung
+
+- **Segment:** `exam:17839043` · **unitId:** `114868`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17954|exam:14434248|exam:14434250|exam:14434252|exam:14435752|exam:17839040|exam:17839043>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114868&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 16:15–17:45 | 16.04.2026–16.07.2026 | 11501.00.151 (0.151-115 Seminar) 11501.01.019 (01.019 Seminarraum) |
+
+### DSE-L - Data Science for Engineers - Vorlesung
+
+- **Segment:** `exam:17839042` · **unitId:** `114453`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17954|exam:14434248|exam:14434250|exam:14434252|exam:14435752|exam:17839040|exam:17839042>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114453&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | 11401.00.123 (0.68 Seminarraum Werkstoffwissenschaften) |
 
 ### EFM V+UE - Experimental Fluid Mechanics (Strömungsmesstechnik) - Vorlesung mit Übung
 
@@ -3646,7 +3710,14 @@ _Section: Studiengänge der Technischen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 08:15–17:00 | 05.10.2026–08.10.2026 | — |
 
 ### KI-ING-UE - Maschinelles Lernen und Künstliche Intelligenz im Ingenieurwesen (Ü) - Übung
 
@@ -4342,10 +4413,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17954|exam:14434248|exam:14434250|exam:14434252|exam:14435846|exam:14435847>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101952&periodId=589>
 
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 7.5
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -4869,7 +4937,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (103)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (101)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -4996,14 +5064,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88913&periodId=589>
 
 - **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Brauseminar
-
-- **Segment:** `unit:93915` · **unitId:** `93915`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93915&periodId=589>
-
-- **Veranstaltungsart:** Seminar
 - **Turnus:** nur im Wintersemester
 
 ### BWL für Ingenieure I — Vorlesung
@@ -5183,6 +5243,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
+
+### Discrete Element Simulations — Vorlesung
+
+- **Segment:** `unit:110299` · **unitId:** `110299`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110299&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 7.5
+- **Turnus:** nur im Sommersemester
 
 ### Discrete Element Simulations — Übung
 
@@ -5439,15 +5508,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **Turnus:** Unregelmäßig
-
-### Lebensmittelbiotechnologie — Vorlesung
-
-- **Segment:** `unit:114332` · **unitId:** `114332`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114332&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Mathematik B 1
 
@@ -5803,14 +5863,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92534&periodId=589>
 
 - **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Tutorium zur Mikrobiellen Verfahrenstechnik
-
-- **Segment:** `unit:83773` · **unitId:** `83773`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83773&periodId=589>
-
-- **Veranstaltungsart:** Tutorium
 - **Turnus:** nur im Wintersemester
 
 ### Tutorium zur Statik und Festigkeitslehre

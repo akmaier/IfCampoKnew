@@ -214,14 +214,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| nach Vereinbarung | — | — | — | — |
 
 ### Ethische Implikationen der Geburtshilfe - Vorlesung
 
@@ -378,10 +371,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17980|exam:13873293|exam:13873295|exam:13873297|exam:13873321|exam:15691060>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128927&periodId=589>
 
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 1.25
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -957,7 +947,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17980|exam:13873293|exam:13873295|exam:13873297|exam:13873321|exam:13873322>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125248&periodId=589>
 
-- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -1107,7 +1096,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17980|exam:13873293|exam:13873295|exam:13873297|exam:13873343|exam:13873345>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125262&periodId=589>
 
-- **ECTS-Punkte:** 3.75
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -1416,7 +1404,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | Do | Do | — | — | — |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (26)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (29)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -1486,7 +1474,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136053&periodId=589>
 
 - **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | So | 10:00–12:30 | 10.05.2026 | — |
 
 ### 039 PERLE Sonografie für Fortgeschrittene, Fr., 15.05.2026,  16:30 - 18:00 Uhr, SimPatiK — Kurs
 
@@ -1524,14 +1519,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136130&periodId=589>
 
 - **Veranstaltungsart:** Kurs
-- **Turnus:** nur im Sommersemester
-
-### 066 PERLE Blutkurs 2, Mo., 08.06.2026, 17:15 - 19:45 Uhr, SkillsLab Perle
-
-- **Segment:** `unit:136132` · **unitId:** `136132`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136132&periodId=589>
-
-- **Veranstaltungsart:** Kurs
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
@@ -1539,7 +1526,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 17:15–19:45 | 08.06.2026 | — |
+| Einzeltermin | So | 16:00–18:30 | 07.06.2026 | — |
 
 ### 067 PERLE Sonografie für Anfängerinnen und Anfänger, Do., 11.06.2026, 16:30 - 19:00 Uhr, SimPatik — Kurs
 
@@ -1593,6 +1580,33 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 
+### Bachelorarbeit und Kolloquium — Seminar
+
+- **Segment:** `unit:124242` · **unitId:** `124242`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124242&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 15.0
+- **Turnus:** nur im Wintersemester
+
+### Die Förderung der physiologischen Geburt — Vorlesung
+
+- **Segment:** `unit:107918` · **unitId:** `107918`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107918&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.0
+- **Turnus:** nur im Wintersemester
+
+### Die Förderung der physiologischen Geburt — Vorlesung
+
+- **Segment:** `unit:124255` · **unitId:** `124255`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124255&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.0
+- **Turnus:** nur im Wintersemester
+
 ### Die Physiologie der Fortpflanzung — Vorlesung
 
 - **Segment:** `unit:124256` · **unitId:** `124256`
@@ -1600,6 +1614,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.0
+- **Turnus:** nur im Wintersemester
+
+### Die regelrechte Geburt — Vorlesung
+
+- **Segment:** `unit:131533` · **unitId:** `131533`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131533&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
 
 ### Gesundheits- und Versorgungssystem im Kontext von Hebammenwesen und wissenschaft — Seminar

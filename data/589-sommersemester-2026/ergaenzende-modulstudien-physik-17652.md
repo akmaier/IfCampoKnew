@@ -246,7 +246,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 16:15–17:45 | 20.04.2026–13.07.2026 | 13101.01.332 (SR 01.332 Seminarraum Festkörperphysik) |
+| wöchentlich | Mi | 12:00–14:00 | 15.04.2026–15.07.2026 | 13101.00.103 (SR 00.103 Seminarraum der Angewandten Physik) |
 
 ### TP-3 - Theoretische Physik 3: Quantenmechanik - Vorlesung
 

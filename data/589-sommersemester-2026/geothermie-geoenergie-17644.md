@@ -352,7 +352,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 09:00–11:00 | 16.04.2026–16.07.2026 | — |
 
 ### [GT-V3] Reservoir-Geomechanik - Vorlesung mit Übung
 
@@ -362,7 +369,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 09:00–11:00 | 16.04.2026–16.07.2026 | — |
 
 ### [GT-V3] Spannungsfeldanalyse/Monitoring - Vorlesung mit Übung
 
@@ -567,7 +581,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mi | Mi | 10:00–11:00 | — | 07202.00.016 (Seminarraum Seminarraum Außenstelle Angewandte Geologie) |
+| Di | Di | 09:00–11:00 | — | 07202.00.016 (Seminarraum Seminarraum Außenstelle Angewandte Geologie) |
 
 ### 39021 Sedimentpetrographie + Diagenese und Petrophysik + Reservoirpetrologie und Analytische Methoden - Leistung
 
@@ -986,10 +1000,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17644|exam:15800936|exam:15800937|exam:15800939|exam:15800940|exam:15814034|exam:15814036>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132090&periodId=589>
 
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -1121,7 +1132,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 16:15–17:45 | 21.04.2026–14.07.2026 | 11901.00.240 (H10 Hörsaal 10) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (16)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (18)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -1170,12 +1181,30 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
 
+### [AS-V1] + [GT-E1] Bohrungen und Bohrlochgeophysik — Hauptseminar
+
+- **Segment:** `unit:102345` · **unitId:** `102345`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102345&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
+- **ECTS-Punkte:** 2.5
+- **Turnus:** nur im Wintersemester
+
 ### [AS-V2] + [GT-E2] Strukturgeologie und Mikrotektonik — Hauptseminar
 
 - **Segment:** `unit:99065` · **unitId:** `99065`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99065&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **ECTS-Punkte:** 2.5
+- **Turnus:** nur im Wintersemester
+
+### [AS-V2] + [GT-E2]Störungssysteme — Übungsseminar
+
+- **Segment:** `unit:95784` · **unitId:** `95784`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95784&periodId=589>
+
+- **Veranstaltungsart:** Übungsseminar
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
 

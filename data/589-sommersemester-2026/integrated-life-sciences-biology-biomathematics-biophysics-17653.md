@@ -160,18 +160,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17653|exam:14209605|exam:14209606|exam:14209607|exam:14209608|exam:14209715|exam:14209738>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43496&periodId=589>
 
-### 48081 Advanced Module
-
-- **Segment:** `exam:14208067` · **unitId:** `43499`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17653|exam:14207924|exam:14207925|exam:14207926|exam:14208067>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43499&periodId=589>
-
-### 48081 Advanced Module
-
-- **Segment:** `exam:14209754` · **unitId:** `43499`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17653|exam:14209605|exam:14209606|exam:14209607|exam:14209754>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43499&periodId=589>
-
 ### 48091 Biomathematics
 
 - **Segment:** `exam:14207936` · **unitId:** `43497`
@@ -274,6 +262,36 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 |---|---|---|---|---|
 | — | — | — | — | — |
 
+### 80811 Advanced Module - Leistung
+
+- **Segment:** `exam:14208068` · **unitId:** `43507`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17653|exam:14207924|exam:14207925|exam:14207926|exam:14208067|exam:14208068>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43507&periodId=589>
+
+- **ECTS-Punkte:** 20.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### 80811 Advanced Module - Leistung
+
+- **Segment:** `exam:14209755` · **unitId:** `43507`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17653|exam:14209605|exam:14209606|exam:14209607|exam:14209754|exam:14209755>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43507&periodId=589>
+
+- **ECTS-Punkte:** 20.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
 ### 83311 Portfolio exam: Methods of Modern (Confocal-) Light Microscopy - Leistung
 
 - **Segment:** `exam:14209759` · **unitId:** `44028`
@@ -308,6 +326,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Sonstige Lehrveranstaltung
 - **ECTS-Punkte:** 30.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### MA-Mibi - Masterarbeiten Mikrobiologie (Prof. Burkovski) - Sonstige Lehrveranstaltung
@@ -370,7 +389,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 |---|---|---|---|---|
 | nach Vereinbarung | — | — | — | — |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (45)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (46)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -420,7 +439,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** jedes 4. Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:00–19:00 | 14.04.2026–14.07.2026 | 08801.00.020 ( Seminarraum ZMPT 00.020) |
+| Einzeltermin | Mi | 14:30–17:30 | 27.05.2026 | 08801.00.020 ( Seminarraum ZMPT 00.020) |
 
 ### Complex Systems 3: Self-organization, game theory, discrete dynamical systems — Vorlesung mit Übung
 
@@ -576,6 +603,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
+### Introduction to Soft Matter and Biological Physics (Exercise Class) — Übung
+
+- **Segment:** `unit:108083` · **unitId:** `108083`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=108083&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 0.0
+- **Turnus:** Unregelmäßig
+
 ### Introduction to X-ray and neutron scattering — Vorlesung
 
 - **Segment:** `unit:83200` · **unitId:** `83200`
@@ -679,14 +715,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| nach Vereinbarung | — | — | — | — |
 
 ### MG 2 BioImaging & Biophysics — Vorlesung mit Übung
 
@@ -695,16 +724,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 7.5
-- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:00–12:00 | 13.04.2026–13.07.2026 | 08801.00.020 ( Seminarraum ZMPT 00.020) |
-| wöchentlich | Mo | 14:00–18:00 | 13.04.2026–13.07.2026 | 08801.00.020 ( Seminarraum ZMPT 00.020) |
-| wöchentlich | Mo | 10:00–16:00 | 15.06.2026–13.07.2026 | 13501.00.020 (SR Staudtstr. 3 Lehrstuhl für Kristallographie) |
 
 ### Modern Optics 1: Advanced Optics — Vorlesung
 
@@ -801,15 +821,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
-| Einzeltermin | Mo | 09:00–11:00 | 27.07.2026 | 12801.01.253 (Übung 4 / 01.253-128) |
 
 ### Python for bioinformatics and data analysis
 

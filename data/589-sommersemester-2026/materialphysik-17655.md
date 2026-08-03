@@ -915,7 +915,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 |---|---|---|---|---|
 | wöchentlich | Fr | 10:00–12:00 | 17.04.2026–17.07.2026 | 13003.00.874 (HD Hörsaal Physikum) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (25)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (26)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -1096,6 +1096,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
+
+### Non-equilibrium approaches to complex quantum materials — Hauptseminar
+
+- **Segment:** `unit:107721` · **unitId:** `107721`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107721&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
+- **Turnus:** nur im Wintersemester
 
 ### Physikalisches Experimentieren B für Physikstudierende: Aufbaupraktikum
 

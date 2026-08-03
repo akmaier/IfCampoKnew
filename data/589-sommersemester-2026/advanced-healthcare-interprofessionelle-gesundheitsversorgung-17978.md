@@ -153,14 +153,7 @@ _Section: Studiengänge der Medizinischen Fakultät_
 
 - **Veranstaltungsart:** Begleitseminar
 - **ECTS-Punkte:** 15.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| nach Vereinbarung | — | — | — | — |
 
 ### Notfall und Intensivpflege des Neu- und Frühgeborenen - Übung
 
@@ -267,14 +260,7 @@ _Section: Studiengänge der Medizinischen Fakultät_
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| nach Vereinbarung | — | — | — | — |
 
 ### Qualitative Forschungsmethoden - Seminar
 

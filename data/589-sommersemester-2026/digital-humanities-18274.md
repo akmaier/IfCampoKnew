@@ -2455,7 +2455,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18274|exam:15113734|exam:15113735|exam:15113736|exam:15113842|exam:15113849|exam:15113850>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131176&periodId=589>
 
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -2470,7 +2469,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18274|exam:15113734|exam:15113735|exam:15113736|exam:15113842|exam:15113854|exam:15113855>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131173&periodId=589>
 
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -2892,9 +2890,24 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 11907.01.030 (H19) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (56)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (68)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
+
+### "Heimat.Herd.Hetero." Sexualethik rechter Influencer:innen — Seminar
+
+- **Segment:** `unit:130868` · **unitId:** `130868`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130868&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Turnus:** Unregelmäßig
+
+### After Babel. Digital Theology and Contextualities — Seminar
+
+- **Segment:** `unit:119047` · **unitId:** `119047`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119047&periodId=589>
+
+- **Veranstaltungsart:** Seminar
 
 ### An AI chatbot for meinstudium.fau.de — Seminar
 
@@ -2904,6 +2917,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
+
+### Analysing Audiovisual Culture in Digital Humanities — Seminar
+
+- **Segment:** `unit:139354` · **unitId:** `139354`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139354&periodId=589>
+
+- **Veranstaltungsart:** Seminar
 
 ### Artificial Intelligence 1 - Übung
 
@@ -3017,6 +3037,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
+### Datenschutz-, Daten- und Informationsrecht — Vorlesung
+
+- **Segment:** `unit:115185` · **unitId:** `115185`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115185&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
+
 ### Deepfakes: Ethische, medienwissenschaftliche, pädagogische Perspektiven — Seminar
 
 - **Segment:** `unit:128966` · **unitId:** `128966`
@@ -3060,12 +3089,35 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 3.0
 - **Turnus:** nur im Wintersemester
 
+### Essentials of Data Visualisation in Digital Humanities — Seminar
+
+- **Segment:** `unit:139355` · **unitId:** `139355`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139355&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+
 ### Ethics and Philosophy of AI — Vorlesung
 
 - **Segment:** `unit:112940` · **unitId:** `112940`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112940&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Wintersemester
+
+### Ethics Lab — Seminar
+
+- **Segment:** `unit:139394` · **unitId:** `139394`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139394&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+
+### Ethics of Engineering — Seminar
+
+- **Segment:** `unit:99155` · **unitId:** `99155`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99155&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
 
 ### Ethics of Technology: Software, Hardware, Wetware — Seminar
@@ -3076,6 +3128,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
 - **Turnus:** in jedem Semester
+
+### Fanfiction: Zugänge der digitalen Literaturwissenschaft — Seminar
+
+- **Segment:** `unit:123805` · **unitId:** `123805`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123805&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** Unregelmäßig
 
 ### Forschungsdatenmangement — Seminar
 
@@ -3155,6 +3216,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | 15:00–18:00 | 07.06.2026 23:59:59 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+
+### Konstruktiver Journalismus & Co. - Neue Formen des Textjournalismus in Praxis, Theorie und Medienethik — Seminar
+
+- **Segment:** `unit:127259` · **unitId:** `127259`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127259&periodId=589>
+
+- **Veranstaltungsart:** Seminar
 
 ### Latein I für Anfänger (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -3264,6 +3332,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 1.25
 - **Turnus:** nur im Wintersemester
 
+### Poetry Slam: Text, Performance, Event — Seminar
+
+- **Segment:** `unit:139350` · **unitId:** `139350`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139350&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+
 ### Principles of Formal Languages — Vorlesung mit Übung
 
 - **Segment:** `unit:120865` · **unitId:** `120865`
@@ -3288,6 +3363,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Proseminar
 - **Turnus:** nur im Sommersemester
+
+### Quantitative Approaches to Linguistic Data Analysis: Multidimensional Analysis as a Study of Underlying Patterns in Discourse — Seminar
+
+- **Segment:** `unit:131797` · **unitId:** `131797`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131797&periodId=589>
+
+- **Veranstaltungsart:** Seminar
 
 ### Recht, Technik und Geschäftsmodelle zur Lösung zivilrechtlicher Streitigkeiten mit Hilfe von Legal-Tech (z. B. Online Streitbeilegung und Inkassogeschäftsmodelle, wie Flightright) — Proseminar
 
@@ -3385,4 +3467,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 3.0
+- **Turnus:** nur im Wintersemester
+
+### Wörter, Texte & Frequenzen: statistische Analyse von Sprachdaten — Seminar
+
+- **Segment:** `unit:104014` · **unitId:** `104014`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104014&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester

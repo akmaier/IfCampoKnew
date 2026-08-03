@@ -601,9 +601,17 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:15–15:45 | 13.04.2026–06.07.2026 | 05901.05.054 ( 05.054) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (31)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (38)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
+
+### 24/7 Everything and the Poetics of Deceleration — Hauptseminar
+
+- **Segment:** `unit:122563` · **unitId:** `122563`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122563&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
+- **Turnus:** Unregelmäßig
 
 ### Aktuelle Texte der Philosophie — Hauptseminar / Masterseminar
 
@@ -635,6 +643,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
 - **Turnus:** in jedem Semester
+
+### Aktuelle Texte der Philosophie (HS/MAS) — Kombiseminar
+
+- **Segment:** `unit:111714` · **unitId:** `111714`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111714&periodId=589>
+
+- **Veranstaltungsart:** Kombiseminar
+
+### Aktuelle Texte der Philosophie (HS/MAS) — Kombiseminar
+
+- **Segment:** `unit:115511` · **unitId:** `115511`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115511&periodId=589>
+
+- **Veranstaltungsart:** Kombiseminar
 
 ### Aktuelle Texte der Philosophie (MAS / HS) — Kombiseminar
 
@@ -694,6 +716,31 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 10.0
 - **Turnus:** Unregelmäßig
+
+### Business & Society in Latin America — Masterseminar
+
+- **Segment:** `unit:104366` · **unitId:** `104366`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104366&periodId=589>
+
+- **Veranstaltungsart:** Masterseminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Sommersemester
+
+### Das Problem des staatlichen Strafens — Hauptseminar / Masterseminar
+
+- **Segment:** `unit:119070` · **unitId:** `119070`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119070&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar / Masterseminar
+
+### Development Economics I — Vorlesung mit Übung
+
+- **Segment:** `unit:103972` · **unitId:** `103972`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103972&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
 
 ### Die Idee des Rechtsfriedens — Hauptseminar
 
@@ -861,13 +908,28 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Do | Do | 14:00–16:00 | 07.06.2026 23:59:59 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
 
+### Thinking about the Future (and Trying to Shape It) — Hauptseminar / Masterseminar
+
+- **Segment:** `unit:126965` · **unitId:** `126965`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126965&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Turnus:** Unregelmäßig
+
 ### Tutorial for "International Business Ethics I" — Übung
 
 - **Segment:** `unit:103670` · **unitId:** `103670`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103670&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–16:45 | 13.04.2026–13.07.2026 | 05901.05.054 ( 05.054) |
 
 ### Von Enteignung bis Entfremdung: Marx' Kritik der politischen Ökonomie — Hauptseminar / Masterseminar
 

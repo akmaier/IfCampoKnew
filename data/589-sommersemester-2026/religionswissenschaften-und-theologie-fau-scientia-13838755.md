@@ -5,7 +5,7 @@ campo_segment: "exam:13838755"
 campo_path: "title:17593|title:17599|exam:13838755"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13838755"
 po_version_count: 0
-course_count: 32
+course_count: 33
 ---
 
 # - Religionswissenschaften und Theologie (FAU Scientia)  -
@@ -14,7 +14,7 @@ course_count: 32
 
 _Section: FAU Scientia Gaststudium_  
 
-## Veranstaltungen (32)
+## Veranstaltungen (33)
 
 ### BA 4.+5.+6. FS, Ein-Fach und Zwei-Fach IRS, Islamische Mystik, Vorlesung - Vorlesung
 
@@ -238,6 +238,16 @@ _Section: FAU Scientia Gaststudium_
 |---|---|---|---|---|
 | nach Vereinbarung | — | — | — | — |
 
+### Projekt: Arabischsprachige Webseite des Bayerischen Forschungsinstituts - Vorlesung mit Übung
+
+- **Segment:** `exam:17818924` · **unitId:** `139435`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13838755|exam:17818924>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139435&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
+
 ### PS Einführung in die Praktische Theologie - Proseminar
 
 - **Segment:** `exam:13838820` · **unitId:** `84748`
@@ -345,7 +355,14 @@ _Section: FAU Scientia Gaststudium_
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 10:00–12:00 | 17.04.2026–17.07.2026 | 06201.02.020 ( TSG HS B (02.020) Theologisches Seminargebäude, Kochstraße 6) |
 
 ### VL: Kirchen- und Theologiegeschichte im Überblick KG III: Spätmittelalter und Reformationszeit - Vorlesung
 
@@ -370,7 +387,14 @@ _Section: FAU Scientia Gaststudium_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135705&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:00–14:00 | 15.04.2026–22.07.2026 | 56701.03.011 |
 
 ### VORL Einführung in die Praktische Theologie - Vorlesung
 

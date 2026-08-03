@@ -1070,9 +1070,25 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mi | 08:00–10:00 | 15.04.2026–15.07.2026 | 00501.00.023 ( KH 0.023 Hörsaal Kollegienhaus) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (28)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (35)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
+
+### 21st Century Feminist Life Writing in North America — Hauptseminar
+
+- **Segment:** `unit:111373` · **unitId:** `111373`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111373&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
+- **Turnus:** Unregelmäßig
+
+### 24/7 Everything and the Poetics of Deceleration — Hauptseminar
+
+- **Segment:** `unit:122563` · **unitId:** `122563`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122563&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
+- **Turnus:** Unregelmäßig
 
 ### Academic Discourse
 
@@ -1097,6 +1113,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
+### American Journeys: Travel in Literary and Cultural Texts — Hauptseminar
+
+- **Segment:** `unit:111368` · **unitId:** `111368`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111368&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
+- **Turnus:** Unregelmäßig
+
 ### American Literary and Cultural History, 20th Century — Vorlesung
 
 - **Segment:** `unit:111371` · **unitId:** `111371`
@@ -1119,6 +1143,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84806&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Turnus:** nur im Wintersemester
+
+### Aromas y olores. Geruchsästhetik in der iberoamerikanischen Literaturgeschichte — Proseminar
+
+- **Segment:** `unit:95423` · **unitId:** `95423`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95423&periodId=589>
+
+- **Veranstaltungsart:** Proseminar
+- **ECTS-Punkte:** 4.0
 - **Turnus:** nur im Wintersemester
 
 ### Authors as Fans: American Prose Fiction and Its Intertexts — Hauptseminar
@@ -1200,6 +1233,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Hauptseminar
 - **Turnus:** Unregelmäßig
 
+### Forschungswerkstatt: Wissenschaftsfreiheit und internationaler Menschenrechtsschutz — Hauptseminar
+
+- **Segment:** `unit:122339` · **unitId:** `122339`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122339&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
+
 ### Grammar & Vocabulary for Erasmus students
 
 - **Segment:** `unit:110306` · **unitId:** `110306`
@@ -1238,10 +1278,27 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
+### Interamerican Studies — Masterseminar
+
+- **Segment:** `unit:96483` · **unitId:** `96483`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96483&periodId=589>
+
+- **Veranstaltungsart:** Masterseminar
+- **Turnus:** nur im Wintersemester
+
 ### International Business Ethics II — Masterseminar
 
 - **Segment:** `unit:87604` · **unitId:** `87604`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87604&periodId=589>
+
+- **Veranstaltungsart:** Masterseminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
+
+### International Business Ethics II (2. Seminar) — Masterseminar
+
+- **Segment:** `unit:103087` · **unitId:** `103087`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103087&periodId=589>
 
 - **Veranstaltungsart:** Masterseminar
 - **ECTS-Punkte:** 5.0

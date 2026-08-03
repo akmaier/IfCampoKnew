@@ -473,10 +473,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17951|exam:14641012|exam:14641014|exam:14641016|exam:14642585|exam:15695251>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110733&periodId=589>
 
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -490,10 +487,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17951|exam:14644157|exam:14644159|exam:14644161|exam:14645733|exam:15695252>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110733&periodId=589>
 
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -507,10 +501,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17951|exam:14647302|exam:14647304|exam:14647306|exam:14648878|exam:15695253>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110733&periodId=589>
 
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -913,6 +904,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 11906.01.040 (H20) |
 | wöchentlich | Fr | 10:15–11:45 | 17.04.2026–17.07.2026 | 11906.01.040 (H20) 11906.01.030 (H21) |
 | Einzeltermin | Mi | 12:15–13:34 | 24.06.2026 | 11906.01.030 (H21) |
+| Einzeltermin | Do | 11:00–12:00 | 06.08.2026 | — |
 
 ### Mathematics for Engineers II - Vorlesung
 
@@ -931,6 +923,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 11906.01.040 (H20) |
 | wöchentlich | Fr | 10:15–11:45 | 17.04.2026–17.07.2026 | 11906.01.040 (H20) 11906.01.030 (H21) |
 | Einzeltermin | Mi | 12:15–13:34 | 24.06.2026 | 11906.01.030 (H21) |
+| Einzeltermin | Do | 11:00–12:00 | 06.08.2026 | — |
 
 ### Mathematics for Engineers II - Vorlesung
 
@@ -949,6 +942,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 11906.01.040 (H20) |
 | wöchentlich | Fr | 10:15–11:45 | 17.04.2026–17.07.2026 | 11906.01.040 (H20) 11906.01.030 (H21) |
 | Einzeltermin | Mi | 12:15–13:34 | 24.06.2026 | 11906.01.030 (H21) |
+| Einzeltermin | Do | 11:00–12:00 | 06.08.2026 | — |
 
 ### Microeconomics (IES/IBS) Exercise - Übung
 
@@ -1040,9 +1034,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17951|exam:14641012|exam:14641014|exam:14641016|exam:14642532|exam:14642534>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110155&periodId=589>
 
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Sommersemester
-
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
@@ -1055,9 +1046,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17951|exam:14644157|exam:14644159|exam:14644161|exam:14645692|exam:14645694>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110155&periodId=589>
 
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Sommersemester
-
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
@@ -1069,9 +1057,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14648840` · **unitId:** `110155`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17951|exam:14647302|exam:14647304|exam:14647306|exam:14648838|exam:14648840>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110155&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -4328,6 +4313,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Di | Di | — | — | — |
 
+### Electrocatalysis — Vorlesung
+
+- **Segment:** `unit:115069` · **unitId:** `115069`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115069&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
+
 ### Electrocatalysis — Übung
 
 - **Segment:** `unit:115088` · **unitId:** `115088`
@@ -4517,19 +4511,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Sa | Sa | 10:15–12:00 | — | — |
-
-### English: Level 2 - Focus on Academic Speaking
-
-- **Segment:** `unit:123888` · **unitId:** `123888`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123888&periodId=589>
-
-- **ECTS-Punkte:** 3.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
 
 ### English: Level 2 - Focus on Grammar and Vocabulary
 
@@ -4905,14 +4886,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
 
-### Exercise Interface Engineering and Particle Technology — Übung
-
-- **Segment:** `unit:92896` · **unitId:** `92896`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92896&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Sommersemester
-
 ### Exercise Mathematics for Engineers I — Übung
 
 - **Segment:** `unit:86900` · **unitId:** `86900`
@@ -5028,6 +5001,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
+
+### Foundations of chemical reaction engineering (Excercises) — Übung
+
+- **Segment:** `unit:99564` · **unitId:** `99564`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99564&periodId=589>
+
+- **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
 
 ### Französisch: Elementarkurs I
@@ -5312,14 +5293,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Interface Engineering in Clean Energy Processes — Übung
-
-- **Segment:** `unit:138725` · **unitId:** `138725`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138725&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
 ### Interskandinavische Studien 1
 
 - **Segment:** `unit:48162` · **unitId:** `48162`
@@ -5333,15 +5306,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mi | Mi | — | — | — |
-
-### Introduction to Interface Engineering — Vorlesung mit Übung
-
-- **Segment:** `unit:91893` · **unitId:** `91893`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91893&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Isländisch: Elementarkurs II
 
@@ -5977,6 +5941,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mi | Mi | 18:00–19:30 | — | — |
 
+### Polymer Recycling — Vorlesung mit Übung
+
+- **Segment:** `unit:111060` · **unitId:** `111060`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111060&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+
 ### Polymer Science and Processing
 
 - **Segment:** `unit:42900` · **unitId:** `42900`
@@ -6046,7 +6017,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Sa | Sa | 08:00–09:30 | — | 12801.01.210 (H11) |
+| Sa | Sa | 09:00–10:30 | — | 11901.00.222 (H7 Hörsaal 7) |
 
 ### Power Electronics for Decentral Energy Systems — Vorlesung
 
@@ -6164,6 +6135,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nicht in diesem Semester
+
+### Process systems dynamics 1 — Vorlesung
+
+- **Segment:** `unit:114561` · **unitId:** `114561`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114561&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
 
 ### Produzione testuale per la preparazioneall'esame di stato
 

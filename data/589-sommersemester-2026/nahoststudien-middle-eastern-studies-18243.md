@@ -2608,7 +2608,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | Blockveranstaltung | — | 08:00–18:00 | 15.07.2026–16.07.2026 | — |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (45)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (53)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -2629,6 +2629,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Sonstige Lehrveranstaltung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** in jedem Semester
+
+### Business & Society in Latin America — Masterseminar
+
+- **Segment:** `unit:104366` · **unitId:** `104366`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104366&periodId=589>
+
+- **Veranstaltungsart:** Masterseminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Sommersemester
 
 ### Business and Human Rights in Latin America — Seminar
 
@@ -2663,12 +2672,35 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
+### Demokratiekrise und demokratische Resilienz — Hauptseminar
+
+- **Segment:** `unit:130652` · **unitId:** `130652`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130652&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
+
 ### Deskriptive Statistik (MA Pol.Wiss.) — Vorlesung
 
 - **Segment:** `unit:126764` · **unitId:** `126764`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126764&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+
+### Development Economics I — Vorlesung mit Übung
+
+- **Segment:** `unit:103972` · **unitId:** `103972`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103972&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
+
+### Die Liberale Internationale Ordnung und ihre Rivalen — Masterseminar
+
+- **Segment:** `unit:131133` · **unitId:** `131133`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131133&periodId=589>
+
+- **Veranstaltungsart:** Masterseminar
 
 ### Die Menschenrechte von Minderheiten auf der internationalen Bühne — Hauptseminar
 
@@ -2705,25 +2737,24 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 
-### Entwicklungszusammenarbeit in der Krise? — Hauptseminar
-
-- **Segment:** `unit:133957` · **unitId:** `133957`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133957&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 05902.00.004 ( 00.4 PSG) |
-
 ### EU Border and Migration Control - A Human Rights Perspective — Hauptseminar
 
 - **Segment:** `unit:138076` · **unitId:** `138076`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138076&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
+
+### Flucht und Migration in der Klimakrise: Neue Spielräume in der internationalen Politik? — Masterseminar
+
+- **Segment:** `unit:122384` · **unitId:** `122384`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122384&periodId=589>
+
+- **Veranstaltungsart:** Masterseminar
+
+### Forschungswerkstatt: Wissenschaftsfreiheit und internationaler Menschenrechtsschutz — Hauptseminar
+
+- **Segment:** `unit:122339` · **unitId:** `122339`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122339&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
 
@@ -2828,6 +2859,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
+### International Business Ethics II (2. Seminar) — Masterseminar
+
+- **Segment:** `unit:103087` · **unitId:** `103087`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103087&periodId=589>
+
+- **Veranstaltungsart:** Masterseminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
+
 ### Introduction to Islamic Finance and Banking — Seminar
 
 - **Segment:** `unit:119486` · **unitId:** `119486`
@@ -2899,6 +2939,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Turnus:** Unregelmäßig
 
+### MA 1: Jüdisch-Arabisch — Übung
+
+- **Segment:** `unit:95432` · **unitId:** `95432`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95432&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 10.0
+- **Turnus:** nur im Wintersemester
+
 ### MA 1: Sozial- und Kulturgeschichte des Islam — Masterseminar
 
 - **Segment:** `unit:100218` · **unitId:** `100218`
@@ -2915,6 +2964,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 10.0
 - **Turnus:** nur im Wintersemester
+
+### Menschenrechte in Afrika — Hauptseminar
+
+- **Segment:** `unit:138118` · **unitId:** `138118`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138118&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
 
 ### Menschenrechtspolitik im Rahmen der Vereinten Nationen — Hauptseminar
 

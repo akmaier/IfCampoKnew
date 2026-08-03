@@ -5,7 +5,7 @@ campo_segment: "exam:13839268"
 campo_path: "title:17593|title:17599|exam:13839268"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13839268"
 po_version_count: 0
-course_count: 15
+course_count: 14
 ---
 
 # - Psychologie und Gerontologie (FAU Scientia)  -
@@ -14,7 +14,7 @@ course_count: 15
 
 _Section: FAU Scientia Gaststudium_  
 
-## Veranstaltungen (15)
+## Veranstaltungen (14)
 
 ### 1101 - Einführung in die Psychologie des Alterns - Vorlesung
 
@@ -75,7 +75,15 @@ _Section: FAU Scientia Gaststudium_
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mi | 09:00–18:00 | 27.05.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
+| Einzeltermin | Fr | 09:00–18:00 | 29.05.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 1302 Aktuelle Forschung in der Psychogerontologie (Master- und Forschungskolloquium) (semesterbegleitend) - Kolloquium
 
@@ -93,29 +101,6 @@ _Section: FAU Scientia Gaststudium_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 13:00–14:30 | 13.04.2026–06.07.2026 | 21301.00.049 (00.049 00.049 Seminarraum) |
-
-### 1702 Wahlpflichtseminar II Kurs A - Seminar
-
-- **Segment:** `exam:15793496` · **unitId:** `90282`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13839268|exam:15793496>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90282&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 10:00–11:30 | 27.04.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
-| Einzeltermin | Mo | 10:00–11:30 | 11.05.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
-| Einzeltermin | Mo | 10:00–11:30 | 18.05.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
-| Einzeltermin | Mo | 10:00–11:30 | 01.06.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
-| Einzeltermin | Mo | 10:00–11:30 | 15.06.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
-| Einzeltermin | Mo | 10:00–11:30 | 06.07.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
-| Einzeltermin | Mo | 10:00–11:30 | 20.07.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 201 Theorien und Ethik der Gerontologie - Hauptseminar
 
@@ -239,14 +224,7 @@ _Section: FAU Scientia Gaststudium_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 05701.00.017 ( Kl. Hörsaal) |
 
 ### PT Diagnostik - Psychotherapeutische Diagnostik, Begutachtung und Versorgung 1 - Seminar
 
@@ -256,11 +234,4 @@ _Section: FAU Scientia Gaststudium_
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 21.04.2026–14.07.2026 | 54201.00.020 ( SR 2 Studienzentrum) |

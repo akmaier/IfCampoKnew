@@ -5,7 +5,7 @@ campo_segment: "title:17628"
 campo_path: "title:17593|title:17603|title:17628"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17628"
 po_version_count: 0
-course_count: 22
+course_count: 24
 ---
 
 # Recht und Informatik
@@ -14,7 +14,7 @@ course_count: 22
 
 _Section: Studiengänge der Rechts- und Wirtschaftswissenschaftlichen Fakultät_  
 
-## Veranstaltungen (22)
+## Veranstaltungen (24)
 
 ### Data Science: Datenmanagement und -analyse - Vorlesung
 
@@ -43,10 +43,7 @@ _Section: Studiengänge der Rechts- und Wirtschaftswissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17628|exam:14130477|exam:14130478|exam:14130479|exam:14130480|exam:14130484|exam:15732595>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134705&periodId=589>
 
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -233,6 +230,18 @@ _Section: Studiengänge der Rechts- und Wirtschaftswissenschaftlichen Fakultät_
 |---|---|---|---|---|
 | Do | Do | — | — | — |
 
+### 83462 Business Analytics
+
+- **Segment:** `exam:17829130` · **unitId:** `139511`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17628|exam:14130477|exam:14130478|exam:14130479|exam:14130480|exam:17829130>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139511&periodId=589>
+
+### 86962 Enterprise Content and Collaboration Management (für WI)
+
+- **Segment:** `exam:17826652` · **unitId:** `139505`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17628|exam:14130477|exam:14130478|exam:14130479|exam:14130480|exam:17826652>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139505&periodId=589>
+
 ### Business Analytics (Vorlesung) - V: Business Analytics: Technologien, Methoden und Konzepte - Vorlesung mit Übung
 
 - **Segment:** `exam:14130490` · **unitId:** `95526`
@@ -291,7 +300,14 @@ _Section: Studiengänge der Rechts- und Wirtschaftswissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:15–14:30 | 15.04.2026–24.06.2026 | 11501.01.105 (H6 Hörsaal 6) |
 
 ### ÜInf2NF - Informatik 2 für Nebenfachstudierende Übungen - Übung
 
@@ -310,9 +326,18 @@ _Section: Studiengänge der Rechts- und Wirtschaftswissenschaftlichen Fakultät_
 |---|---|---|---|---|
 | wöchentlich | Mi | 10:15–11:45 | 22.04.2026–15.07.2026 | 11302.04.158 (04.158 Stud. Rechner-/Arbeitsraum) 11302.00.153 (00.153-113 CIP CIP-Pool Informatik (CIP3)) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (6)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (7)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
+
+### Datenschutz-, Daten- und Informationsrecht — Vorlesung
+
+- **Segment:** `unit:115185` · **unitId:** `115185`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115185&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
 
 ### Informatik 1 für Nebenfachstudierende - Grundmodul — Vorlesung
 

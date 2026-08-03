@@ -188,7 +188,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (33)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (34)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -198,14 +198,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96841&periodId=589>
 
 - **Veranstaltungsart:** Mittelseminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–15:30 | 14.04.2026–14.07.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
 
 ### EE-BF M1 M2 : "Mentorat zu EE-BF-Modulen 1 und 2" — Sonstige Lehrveranstaltung
 
@@ -215,12 +208,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Sonstige Lehrveranstaltung
 - **Turnus:** in jedem Semester
 
-### EE-BF M6d / ZS M1 / LA Allgemeine Pädagogik Freier Bereich: SEM "Aktuelle Probleme und Forschungsergebnisse auf dem Gebiet der internationalen Bildung (in systematischer und interdisziplinärer Perspektive)" (Standort Nürnberg) — Seminar
+### EE-BF M6d: Mentorat zu Modul 6d — Kurs
 
-- **Segment:** `unit:91576` · **unitId:** `91576`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91576&periodId=589>
+- **Segment:** `unit:116028` · **unitId:** `116028`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116028&periodId=589>
 
-- **Veranstaltungsart:** Seminar
+- **Veranstaltungsart:** Kurs
 - **Turnus:** in jedem Semester
 
 ### EE-BF M7d Mentorat — Sonstige Lehrveranstaltung
@@ -296,16 +289,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89470&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 11:30–13:00 | 15.04.2026–15.07.2026 | 20301.U1.029 (U1.029 Seminarraum (18)) |
-| Einzeltermin | Mi | 15:45–17:15 | 08.07.2026 | 20301.U1.030 (U1.030 Seminarraum (30)) |
-| Einzeltermin | Mi | 14:00–15:30 | 15.07.2026 | 20301.U1.031 (U1.031 Seminarraum (40)) |
 
 ### EEBF Modul 5 - Ergebnisse der Empirischen Bildungsforschung in schulischen und außerschulischen Feldern — Seminar
 
@@ -313,14 +297,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88031&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 09:45–11:15 | 16.04.2026–16.07.2026 | 20301.U1.029 (U1.029 Seminarraum (18)) |
 
 ### EEBF Modul 8 - Projektgrundlagen - Der Forschungsprozess im Dialog — Seminar
 
@@ -328,7 +305,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86130&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### EEBF Modul 8 - Projektmanagement - Seminar für alle
@@ -337,15 +313,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88588&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 11:30–13:00 | 15.04.2026 | 75202.00.514 (St.Paul 00.514 - (12)) |
-| wöchentlich | Mi | 11:30–13:00 | 22.04.2026–15.07.2026 | 20301.01.021 (1.021 Computerseminarraum (25)) |
 
 ### EEBF Modul 9 - Projektarbeit — Übung
 
@@ -353,7 +321,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85855&periodId=589>
 
 - **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### Erziehungswissenschaftliche Grundlagen
@@ -412,6 +379,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | 15:00–18:00 | 07.06.2026 23:59:59 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+
+### LA M2 / EE-BF M2 / ZS M1 / LA Freier Bereich : SEM "Theorien pädagogischen Handelns auch im internationalen Vergleich und im Kontext der Migration" (Standort Nürnberg) — Seminar
+
+- **Segment:** `unit:101497` · **unitId:** `101497`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101497&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Turnus:** in jedem Semester
 
 ### LA M2 / EE-BF M6d / LA Freier Bereich: SEM "International Education (Theorien und Konzepte der internationalen Bildung) in englischer Sprache (Standort Nürnberg)" — Seminar
 
@@ -498,14 +473,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125320&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–15:30 | 14.04.2026–14.07.2026 | 20301.U1.029 (U1.029 Seminarraum (18)) |
 
 ### MA EEBF M6/MA Pädagogik MII/Modul 2 - Semiar Allg. Päd.: Medien, Wissen, Bildung - Grundlagen der Medienpädagogik (Standort Nürnberg) — Seminar
 
@@ -560,6 +528,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **Turnus:** in jedem Semester
 
+### Masterstudiengang EE-BF Modul 2: Erziehungswissenschaftliche Vertiefung — Seminar
+
+- **Segment:** `unit:125444` · **unitId:** `125444`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125444&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Turnus:** in jedem Semester
+
 ### Masterstudiengang EE-BF Modul 6: Mentorat Qualitätsentwicklung in Schule und Unterricht (Profilgrundlagen) Anmeldung ab dem 07.10.2024 möglich — Seminar
 
 - **Segment:** `unit:84638` · **unitId:** `84638`
@@ -584,23 +560,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | 14-täglich | Di | 15:45–17:15 | 14.04.2026–07.07.2026 | 20301.01.041 (1.041 großer Hörsaal (310)) |
-
-### Pfann /Blockseminar: Lesen fördern im Anfangsunterricht - aber wie? Digitale und andere Möglichkeiten — Mittelseminar
-
-- **Segment:** `unit:89176` · **unitId:** `89176`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89176&periodId=589>
-
-- **Veranstaltungsart:** Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 18:00–19:30 | 22.04.2026 | — |
-| Einzeltermin | Fr | 14:30–19:00 | 12.06.2026 | 20301.02.014 (2.014 Mathe-Lehrwerkstatt (40)) |
-| Einzeltermin | Sa | 09:00–17:00 | 27.06.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
 
 ### Schriftliche Übersetzungsleistung Latein I für Anfänger (Zulassungsvoraussetzung zu Kurs Latein II für Fortgeschrittene)
 

@@ -196,7 +196,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (29)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (31)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -353,6 +353,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Masterseminar
 - **Turnus:** nur im Wintersemester
 
+### MA 1: Jüdisch-Arabisch — Übung
+
+- **Segment:** `unit:95432` · **unitId:** `95432`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95432&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 10.0
+- **Turnus:** nur im Wintersemester
+
 ### MA 1: Koran und Kontext — Vorlesung
 
 - **Segment:** `unit:89303` · **unitId:** `89303`
@@ -497,6 +506,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | — |
 
+### Projekt: Arabischsprachige Webseite des Bayerischen Forschungsinstituts — Vorlesung mit Übung
+
+- **Segment:** `unit:139435` · **unitId:** `139435`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139435&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
+
 ### Referat (20 Min.) und Hausarbeit (ca. 20 Seiten) oder Klausur (90 Min.) zu Klassische Arabische Literatur
 
 - **Segment:** `unit:42314` · **unitId:** `42314`
@@ -574,4 +592,11 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135705&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:00–14:00 | 15.04.2026–22.07.2026 | 56701.03.011 |

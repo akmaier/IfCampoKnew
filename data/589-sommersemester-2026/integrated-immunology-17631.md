@@ -521,10 +521,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 13:00–15:30 | 16.04.2026 | 04801.02.021 (SR 02.021) |
-| Einzeltermin | Do | 13:00–15:30 | 23.04.2026 | 04801.02.021 (SR 02.021) |
-| Einzeltermin | Do | 13:00–15:30 | 30.04.2026 | 04801.02.021 (SR 02.021) |
-| Einzeltermin | Do | 13:00–15:30 | 07.05.2026 | 04801.02.021 (SR 02.021) |
+| Einzeltermin | Do | 13:00–15:30 | 16.04.2026 | 01501.01.027 (Konferenzraum Virologie) |
+| Einzeltermin | Do | 13:00–15:30 | 23.04.2026 | 01501.01.027 (Konferenzraum Virologie) |
+| Einzeltermin | Do | 13:00–15:30 | 30.04.2026 | 01501.01.027 (Konferenzraum Virologie) |
+| Einzeltermin | Do | 13:00–15:30 | 07.05.2026 | 01501.01.027 (Konferenzraum Virologie) |
 
 ### iI-TLI Lab Sem - Translational Immunology Integrated Laboratory Course - Seminar - Seminar
 
@@ -548,9 +548,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17631|exam:14245841|exam:14245842|exam:14245844|exam:14247375|exam:14247376>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100934&periodId=589>
 
-- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -566,9 +564,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17631|exam:14248907|exam:14248908|exam:14248910|exam:14250439|exam:14250441>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100934&periodId=589>
 
-- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
 
 #### Termine
 

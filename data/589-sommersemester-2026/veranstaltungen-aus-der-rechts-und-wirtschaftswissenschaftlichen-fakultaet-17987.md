@@ -253,7 +253,15 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85376&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 09:00–17:00 | 12.06.2026 | 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
+| Einzeltermin | Sa | 10:00–17:00 | 13.06.2026 | 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
 
 ### ADS - Applied Data Science in Medicine & Psychology - Vorlesung mit Übung
 

@@ -166,7 +166,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (209)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (210)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -199,22 +199,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 08:00–17:00 | 16.04.2026–16.07.2026 | 11401.02.046 (2.23 Besprechungsraum) |
-
-### Additive Manufacturing — Vorlesung
-
-- **Segment:** `unit:92046` · **unitId:** `92046`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92046&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:15–11:45 | 21.04.2026–14.07.2026 | 11401.00.116 (H14 Bernhard-Ilschner-Hörsaal (0.61)) |
 
 ### Advanced Course in Experimental Physics  (Lasers, Atomic Physics and Quantum Optics) — Vorlesung
 
@@ -646,7 +630,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | 11:00–12:30 | — | 12801.01.210 (H11) |
+| Do | Do | 11:00–12:30 | — | 56901.00.026 (Seminarraum 3 (Vorbelegungsrecht HTA Departments fürfür WS bis 15.07.26))) |
 
 ### Cognitive Neuroscience for AI Developers — Vorlesung
 
@@ -673,7 +657,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** jedes 4. Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:00–19:00 | 14.04.2026–14.07.2026 | 08801.00.020 ( Seminarraum ZMPT 00.020) |
+| Einzeltermin | Mi | 14:30–17:30 | 27.05.2026 | 08801.00.020 ( Seminarraum ZMPT 00.020) |
 
 ### Complex Systems 3: Self-organization, game theory, discrete dynamical systems — Vorlesung mit Übung
 
@@ -948,6 +940,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 16:15–17:45 | 20.04.2026–13.07.2026 | 07205.02.030 (SR LPT 02.030 Seminarraum LS Photonische Technologien) |
 
+### Excercises Photovoltaic systems - Fundamentals — Übung
+
+- **Segment:** `unit:96447` · **unitId:** `96447`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96447&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.0
+- **Turnus:** nur im Wintersemester
+
 ### Exercise in Optical Diagnostics in Energy and Process Engineering — Übung
 
 - **Segment:** `unit:84187` · **unitId:** `84187`
@@ -1018,20 +1019,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | 10:00–11:00 | — | 07205.01.030 (01.030 Seminarraum) |
 
-### Functional Analysis for Engineers
-
-- **Segment:** `unit:25899` · **unitId:** `25899`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=25899&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | 11:00–12:00 | — | 11901.00.226 (H8 Hörsaal 8) |
-
 ### Functional Analysis for Engineers — Vorlesung mit Übung
 
 - **Segment:** `unit:85224` · **unitId:** `85224`
@@ -1080,6 +1067,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Unterrichtssprache:** Englisch
 - **Turnus:** Unregelmäßig
 
+### Fundamentals of Optics — Vorlesung mit Übung
+
+- **Segment:** `unit:99515` · **unitId:** `99515`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99515&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 15.0
+- **Turnus:** nur im Wintersemester
+
 ### Glas I
 
 - **Segment:** `unit:70979` · **unitId:** `70979`
@@ -1120,7 +1116,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Fr | 13:30–15:00 | 08.05.2026–17.07.2026 | 11401.00.109 (0.56 Praktikum) 11401.00.037 (0.15 Seminarraum) 11401.00.237 (0.85 Seminarraum) |
+| wöchentlich | Fr | 13:30–15:00 | 08.05.2026–17.07.2026 | 11401.00.109 (0.56 Praktikum) 11401.00.237 (0.85 Seminarraum) |
 
 ### Glass formulation using project management — Vorlesung mit Übung
 
@@ -1135,7 +1131,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Fr | 15:00–16:30 | 08.05.2026–17.07.2026 | 11401.00.109 (0.56 Praktikum) 11401.00.037 (0.15 Seminarraum) 11401.00.237 (0.85 Seminarraum) |
+| wöchentlich | Fr | 15:00–16:30 | 08.05.2026–17.07.2026 | 11401.00.109 (0.56 Praktikum) 11401.00.237 (0.85 Seminarraum) |
 
 ### Grammar & Vocabulary for Erasmus students
 
@@ -1362,14 +1358,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 09:15–10:00 | 29.04.2026 | 07205.00.030 (SR 00.030 Seminarraum EG Konrad-Zuse-Str. 3/5 - Belegung ausschließlich durch Lehrveranstaltungen) |
 
 ### Lab Work Manufacturing and Characterization of Phosphors and Storage Phosphors — Praktikum
 
@@ -2246,20 +2235,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 08:15–09:45 | 20.04.2026–13.07.2026 | 12104.01.411 (KS II Kurssaal II) |
 
-### Photon & Neutron Scattering for Structure Determination
-
-- **Segment:** `unit:106555` · **unitId:** `106555`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106555&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
 ### Photon & Neutron Scattering for Structure Determination Exercises — Übung
 
 - **Segment:** `unit:106335` · **unitId:** `106335`
@@ -2275,6 +2250,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | — |
+
+### Photonic Machine Learning — Seminar
+
+- **Segment:** `unit:117610` · **unitId:** `117610`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117610&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** Unregelmäßig
 
 ### Photonics in Medical Technology Exercise — Übung
 
@@ -2320,7 +2304,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** in jedem Semester
 
 ### Physikalisches Seminar: Nonlinear and Quantum Optics — Hauptseminar
@@ -2344,7 +2327,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Sa | Sa | 08:00–09:30 | — | 12801.01.210 (H11) |
+| Sa | Sa | 09:00–10:30 | — | 11901.00.222 (H7 Hörsaal 7) |
 
 ### Power Electronics for Decentral Energy Systems — Vorlesung
 
@@ -2845,6 +2828,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 11501.00.156 (H16 Hörsaal 16) |
+
+### Übung zu Quantenelektronik I - Tunnelbauelemente
+
+- **Segment:** `unit:128949` · **unitId:** `128949`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128949&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
+- **Turnus:** nur im Wintersemester
 
 ### Übung zur Quantensensorik — Vorlesung mit Übung
 

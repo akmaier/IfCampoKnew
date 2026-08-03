@@ -220,14 +220,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 08:00–10:00 | 13.04.2026–13.07.2026 | 13003.00.882 (HB Hörsaal -Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 
 ### Fachmodul Genetik/Immungenetik: Vorlesung mit Seminar (Teil 2) - Vorlesung
 
@@ -372,10 +365,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17636|title:17903|title:17916|title:17921|exam:14315267|exam:14315268>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88528&periodId=589>
 
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 10.0
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -399,9 +389,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17636|title:17903|title:17916|title:17921|exam:14315276|exam:14315278>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94566&periodId=589>
 
-- **Veranstaltungsart:** Seminar
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
 
 ### Fachmodul Pharmazeutische Biologie: Vorlesung (Teil 2) - Vorlesung
 
@@ -808,7 +796,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 13:00–15:00 | 16.04.2026–16.07.2026 | 12801.00.327 (Praktikum 2 - PC-Pool / 00.327-128) |
+| wöchentlich | Do | 10:30–12:30 | 16.04.2026–16.07.2026 | 12801.00.325 (Praktikum 1 - PC-Pool / 00.325-128) |
 
 ### Übungen zu Mathematische Verfahren der Bioinformatik - Übung
 
@@ -824,7 +812,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 13:00–15:00 | 16.04.2026–16.07.2026 | 12801.00.327 (Praktikum 2 - PC-Pool / 00.327-128) |
+| wöchentlich | Do | 10:30–12:30 | 16.04.2026–16.07.2026 | 12801.00.325 (Praktikum 1 - PC-Pool / 00.325-128) |
 
 ### Übungen zu Mathematische Verfahren der Bioinformatik - Übung
 
@@ -840,7 +828,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 13:00–15:00 | 16.04.2026–16.07.2026 | 12801.00.327 (Praktikum 2 - PC-Pool / 00.327-128) |
+| wöchentlich | Do | 10:30–12:30 | 16.04.2026–16.07.2026 | 12801.00.325 (Praktikum 1 - PC-Pool / 00.325-128) |
 
 ### Übungen zur Mathematik für Ingenieure C2: INF, ILS - Übung
 
@@ -855,7 +843,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 11501.04.023 (04.023 Hörsaal) |
+| wöchentlich | Mi | 16:15–17:45 | 15.04.2026–15.07.2026 | 11501.04.023 (04.023 Hörsaal) |
 
 ### Übungen zur Mathematik für Ingenieure C2: INF, ILS - Übung
 
@@ -870,7 +858,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 11501.04.023 (04.023 Hörsaal) |
+| wöchentlich | Mi | 16:15–17:45 | 15.04.2026–15.07.2026 | 11501.04.023 (04.023 Hörsaal) |
 
 ### Übungen zur Mathematik für Ingenieure C2: INF, ILS - Übung
 
@@ -885,7 +873,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 11501.04.023 (04.023 Hörsaal) |
+| wöchentlich | Mi | 16:15–17:45 | 15.04.2026–15.07.2026 | 11501.04.023 (04.023 Hörsaal) |
 
 ### 1999 Bachelorarbeit (B.Sc. Integrated Life Sciences 20192)
 
@@ -1173,7 +1161,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | Fr | 08:15–09:00 | — | — |
+| Fr | Fr | 08:15–09:00 | — | 13003.00.882 (HB Hörsaal -Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 
 ### 24112 Portfolioprüfung zum Übungs- bzw. Praktikumsteil des Fachmodul Zellbiologie - Leistung
 
@@ -1188,7 +1176,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | Fr | 09:15–10:00 | — | — |
+| Fr | Fr | 09:15–10:00 | — | 13003.00.882 (HB Hörsaal -Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 
 ### 24112 Portfolioprüfung zum Übungs- bzw. Praktikumsteil des Fachmodul Zellbiologie - Leistung
 
@@ -1203,7 +1191,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | Fr | 09:15–10:00 | — | — |
+| Fr | Fr | 09:15–10:00 | — | 13003.00.882 (HB Hörsaal -Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 
 ### 24211 Schriftliche oder Mündliche Prüfung zur Vorlesung Pharmazeutische Biologie - Leistung
 
@@ -1271,7 +1259,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17636|title:17903|title:17917|title:17920|exam:14315327|exam:14315329>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=33834&periodId=589>
 
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -1511,7 +1498,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17636|title:17903|title:17915|exam:14315231|exam:14315234>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54002&periodId=589>
 
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -1526,7 +1512,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17636|title:17904|exam:14308730|exam:14308732|exam:14308734|exam:14308792|exam:14308795>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54002&periodId=589>
 
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -1541,7 +1526,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17636|title:17904|exam:14311937|exam:14311939|exam:14311941|exam:14312005|exam:14312008>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54002&periodId=589>
 
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -2672,7 +2656,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 | wöchentlich | Mo | 14:00–16:00 | 13.04.2026–13.07.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
 | Einzeltermin | Mi | 10:00–12:00 | 20.05.2026 | 11002.00.020 (H17 Maschinenbau Hörsaal Maschinenbau) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (57)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (60)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -2984,6 +2968,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
+### Introduction to Soft Matter and Biological Physics (Exercise Class) — Übung
+
+- **Segment:** `unit:108083` · **unitId:** `108083`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=108083&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 0.0
+- **Turnus:** Unregelmäßig
+
 ### Klausur zum Nachweis Gesicherter Lateinkenntnisse
 
 - **Segment:** `unit:39849` · **unitId:** `39849`
@@ -3130,6 +3123,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Fr | 13:00–15:00 | 17.04.2026–17.07.2026 | — |
 
+### Optik und Mikroskopie (PO 2026) — Vorlesung
+
+- **Segment:** `unit:136692` · **unitId:** `136692`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136692&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 0.5
+- **Turnus:** nur im Wintersemester
+
 ### Orientierungsmodul Biochemie IV: Bioanalytik (BCMA4) — Seminar und Übung
 
 - **Segment:** `unit:88296` · **unitId:** `88296`
@@ -3261,4 +3263,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83107&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Turnus:** nur im Wintersemester
+
+### Übungen zu Optik und Mikroskopie (PO 2026)
+
+- **Segment:** `unit:136698` · **unitId:** `136698`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136698&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.0
 - **Turnus:** nur im Wintersemester

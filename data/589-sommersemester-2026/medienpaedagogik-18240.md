@@ -61,19 +61,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102940&periodId=589>
 
 - **Veranstaltungsart:** Examensseminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Do | 15:45–17:15 | 23.04.2026 | — |
-| Einzeltermin | Do | 15:45–17:15 | 07.05.2026 | — |
-| Einzeltermin | Do | 15:45–17:15 | 21.05.2026 | — |
-| Einzeltermin | Do | 15:45–17:15 | 11.06.2026 | — |
-| Einzeltermin | Do | 15:45–17:15 | 25.06.2026 | — |
-| Blockveranstaltung | — | 14:30–19:00 | 17.07.2026 | — |
 
 ### Grundlagen der Mediendidaktik - Seminar
 

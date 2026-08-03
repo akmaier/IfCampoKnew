@@ -166,10 +166,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18249|exam:15176721|exam:15176722|exam:15176723|exam:15176780|exam:15176783>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115001&periodId=589>
 
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 3.0
-- **Turnus:** in jedem Semester
-
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
@@ -246,7 +242,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 08:30–12:00 | 11.06.2026–16.07.2026 | 54301.02.313 ( 02.313 Seminarraum) |
+| wöchentlich | Do | 08:30–12:00 | 16.04.2026–28.05.2026 | 54301.02.313 ( 02.313 Seminarraum) |
 
 ### Berufsqualifizierende Tätigkeit [III]: Praktikum ambulant 150 Stunden Präsenzzeit - Praktikum
 
@@ -545,7 +541,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | 11:00–12:00 | — | 54301.02.219 ( 02.219 Seminarraum, Nägelsbachstr. 49b) |
+| Do | Do | 11:00–12:00 | — | 54301.02.216 ( 02.216 Seminarraum, Nägelsbachstr. 49b) |
 
 ### 25921 Entwicklungspsychopathologie - Leistung
 
@@ -763,10 +759,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18249|exam:15176721|exam:15176722|exam:15176723|exam:15176739|exam:15176742>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115003&periodId=589>
 
-- **Veranstaltungsart:** Kolloquium
-- **ECTS-Punkte:** 2.0
-- **Turnus:** in jedem Semester
-
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
@@ -781,14 +773,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 21.04.2026–14.07.2026 | 54201.00.020 ( SR 2 Studienzentrum) |
 
 ### Vorlesung Grundlagen Pharmakotherapie - K-V Vorlesung 'Grundlagen der Pharmakotherapie' Modul 11 (Polyvalenter Bachelor of Science Psychologie) - Vorlesung
 
