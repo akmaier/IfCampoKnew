@@ -998,7 +998,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 14.10.2025–03.02.2026 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
+| wöchentlich | Di | 14:15–15:45 | 14.10.2025–03.02.2026 | 56701.03.017 ( 03.017) |
 
 ### Geschichte der Architektur - Einführung - Baustein I - Proseminar
 

@@ -4148,7 +4148,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 16:15–17:45 | 13.10.2025–02.02.2026 | 56701.02.036 (Mo - Fr 8:00 - 20:00 Uhr Romanistik) |
+| wöchentlich | Mo | 16:15–17:45 | 13.10.2025–02.02.2026 | 56701.02.036 ( Romanistik) |
 
 ### AS franz. Lit.wiss. - Aufbauseminar französische Literaturwissenschaft - Aufbauseminar
 
@@ -4165,7 +4165,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 16:15–17:45 | 13.10.2025–02.02.2026 | 56701.02.036 (Mo - Fr 8:00 - 20:00 Uhr Romanistik) |
+| wöchentlich | Mo | 16:15–17:45 | 13.10.2025–02.02.2026 | 56701.02.036 ( Romanistik) |
 
 ### AS franz. Lit.wiss. - Aufbauseminar französische Literaturwissenschaft - Aufbauseminar
 
@@ -4182,7 +4182,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 16:15–17:45 | 13.10.2025–02.02.2026 | 56701.02.036 (Mo - Fr 8:00 - 20:00 Uhr Romanistik) |
+| wöchentlich | Mo | 16:15–17:45 | 13.10.2025–02.02.2026 | 56701.02.036 ( Romanistik) |
 
 ### AS franz. Lit.wiss. - Aufbauseminar französische Literaturwissenschaft - Aufbauseminar
 
@@ -4199,7 +4199,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 16:15–17:45 | 13.10.2025–02.02.2026 | 56701.02.036 (Mo - Fr 8:00 - 20:00 Uhr Romanistik) |
+| wöchentlich | Mo | 16:15–17:45 | 13.10.2025–02.02.2026 | 56701.02.036 ( Romanistik) |
 
 ### AS franz. Lit.wiss. - Aufbauseminar französische Literaturwissenschaft - Aufbauseminar
 
@@ -4216,7 +4216,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 16:15–17:45 | 13.10.2025–02.02.2026 | 56701.02.036 (Mo - Fr 8:00 - 20:00 Uhr Romanistik) |
+| wöchentlich | Mo | 16:15–17:45 | 13.10.2025–02.02.2026 | 56701.02.036 ( Romanistik) |
 
 ### BS franz. Sprachwiss. - Basisseminar französische Sprachwissenschaft - Seminar
 
@@ -4369,7 +4369,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 12:15–13:45 | 16.10.2025–05.02.2026 | 56701.02.036 (Mo - Fr 8:00 - 20:00 Uhr Romanistik) |
+| wöchentlich | Do | 12:15–13:45 | 16.10.2025–05.02.2026 | 56701.02.036 ( Romanistik) |
 
 ### ES franz. Lit.wiss. - Vertiefungsseminar französische Literaturwissenschaft - Examensseminar
 
@@ -4386,7 +4386,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 12:15–13:45 | 16.10.2025–05.02.2026 | 56701.02.036 (Mo - Fr 8:00 - 20:00 Uhr Romanistik) |
+| wöchentlich | Do | 12:15–13:45 | 16.10.2025–05.02.2026 | 56701.02.036 ( Romanistik) |
 
 ### ES franz. Lit.wiss. - Vertiefungsseminar französische Literaturwissenschaft - Examensseminar
 
@@ -4403,7 +4403,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 12:15–13:45 | 16.10.2025–05.02.2026 | 56701.02.036 (Mo - Fr 8:00 - 20:00 Uhr Romanistik) |
+| wöchentlich | Do | 12:15–13:45 | 16.10.2025–05.02.2026 | 56701.02.036 ( Romanistik) |
 
 ### ES franz. Lit.wiss. - Vertiefungsseminar französische Literaturwissenschaft - Examensseminar
 
@@ -4420,7 +4420,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 12:15–13:45 | 16.10.2025–05.02.2026 | 56701.02.036 (Mo - Fr 8:00 - 20:00 Uhr Romanistik) |
+| wöchentlich | Do | 12:15–13:45 | 16.10.2025–05.02.2026 | 56701.02.036 ( Romanistik) |
 
 ### ES franz. Lit.wiss. - Vertiefungsseminar französische Literaturwissenschaft - Examensseminar
 
@@ -4437,7 +4437,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 12:15–13:45 | 16.10.2025–05.02.2026 | 56701.02.036 (Mo - Fr 8:00 - 20:00 Uhr Romanistik) |
+| wöchentlich | Do | 12:15–13:45 | 16.10.2025–05.02.2026 | 56701.02.036 ( Romanistik) |
 
 ### HS franz. Lit.wiss. - Hauptseminar französische Literaturwissenschaft - Hauptseminar
 
@@ -4624,7 +4624,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 14.10.2025–03.02.2026 | 56701.02.007 (Vorbelegung: Mo 10-16, Di 10-18, Mi 10-16, Do 10-14 Romanistik) |
+| wöchentlich | Di | 10:00–12:00 | 14.10.2025–03.02.2026 | 56701.02.007 ( Romanistik) |
 
 ### HS franz. Sprachwiss. - Hauptseminar französische Sprachwissenschaft - Hauptseminar
 
@@ -4641,7 +4641,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 14.10.2025–03.02.2026 | 56701.02.007 (Vorbelegung: Mo 10-16, Di 10-18, Mi 10-16, Do 10-14 Romanistik) |
+| wöchentlich | Di | 10:00–12:00 | 14.10.2025–03.02.2026 | 56701.02.007 ( Romanistik) |
 
 ### HS franz. Sprachwiss. - Hauptseminar französische Sprachwissenschaft - Hauptseminar
 
@@ -4658,7 +4658,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 14.10.2025–03.02.2026 | 56701.02.007 (Vorbelegung: Mo 10-16, Di 10-18, Mi 10-16, Do 10-14 Romanistik) |
+| wöchentlich | Di | 10:00–12:00 | 14.10.2025–03.02.2026 | 56701.02.007 ( Romanistik) |
 
 ### HS franz. Sprachwiss. - Hauptseminar französische Sprachwissenschaft - Hauptseminar
 
@@ -4675,7 +4675,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 14.10.2025–03.02.2026 | 56701.02.007 (Vorbelegung: Mo 10-16, Di 10-18, Mi 10-16, Do 10-14 Romanistik) |
+| wöchentlich | Di | 10:00–12:00 | 14.10.2025–03.02.2026 | 56701.02.007 ( Romanistik) |
 
 ### HS franz. Sprachwiss. - Hauptseminar französische Sprachwissenschaft - Hauptseminar
 
@@ -4692,7 +4692,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 14.10.2025–03.02.2026 | 56701.02.007 (Vorbelegung: Mo 10-16, Di 10-18, Mi 10-16, Do 10-14 Romanistik) |
+| wöchentlich | Di | 10:00–12:00 | 14.10.2025–03.02.2026 | 56701.02.007 ( Romanistik) |
 
 ### HS franz. Sprachwiss. - Hauptseminar französische Sprachwissenschaft - Hauptseminar
 
@@ -4709,7 +4709,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 14.10.2025–03.02.2026 | 56701.02.007 (Vorbelegung: Mo 10-16, Di 10-18, Mi 10-16, Do 10-14 Romanistik) |
+| wöchentlich | Di | 10:00–12:00 | 14.10.2025–03.02.2026 | 56701.02.007 ( Romanistik) |
 
 ### HS franz. Sprachwiss. - Hauptseminar französische Sprachwissenschaft - Hauptseminar
 
@@ -4726,7 +4726,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 14.10.2025–03.02.2026 | 56701.02.007 (Vorbelegung: Mo 10-16, Di 10-18, Mi 10-16, Do 10-14 Romanistik) |
+| wöchentlich | Di | 10:00–12:00 | 14.10.2025–03.02.2026 | 56701.02.007 ( Romanistik) |
 
 ### HS franz. Sprachwiss. - Hauptseminar französische Sprachwissenschaft - Hauptseminar
 
@@ -4743,7 +4743,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 14.10.2025–03.02.2026 | 56701.02.007 (Vorbelegung: Mo 10-16, Di 10-18, Mi 10-16, Do 10-14 Romanistik) |
+| wöchentlich | Di | 10:00–12:00 | 14.10.2025–03.02.2026 | 56701.02.007 ( Romanistik) |
 
 ### HS franz. Sprachwiss. - Hauptseminar französische Sprachwissenschaft - Hauptseminar
 
@@ -4760,7 +4760,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 14.10.2025–03.02.2026 | 56701.02.007 (Vorbelegung: Mo 10-16, Di 10-18, Mi 10-16, Do 10-14 Romanistik) |
+| wöchentlich | Di | 10:00–12:00 | 14.10.2025–03.02.2026 | 56701.02.007 ( Romanistik) |
 
 ### HS franz. Sprachwiss. - Hauptseminar französische Sprachwissenschaft - Hauptseminar
 
@@ -4777,7 +4777,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 14.10.2025–03.02.2026 | 56701.02.007 (Vorbelegung: Mo 10-16, Di 10-18, Mi 10-16, Do 10-14 Romanistik) |
+| wöchentlich | Di | 10:00–12:00 | 14.10.2025–03.02.2026 | 56701.02.007 ( Romanistik) |
 
 ### HS rom. Sprachwiss. - Hauptseminar romanische Sprachwissenschaft - Hauptseminar
 
@@ -4794,7 +4794,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 56701.02.014 ( 02.[Telefon entfernt].02.007 (Vorbelegung: Mo 10-16, Di 10-18, Mi 10-16, Do 10-14 Romanistik) |
+| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 56701.02.014 ( 02.[Telefon entfernt].02.007 ( Romanistik) |
 
 ### HS rom. Sprachwiss. - Hauptseminar romanische Sprachwissenschaft - Hauptseminar
 
@@ -4811,7 +4811,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 56701.02.014 ( 02.[Telefon entfernt].02.007 (Vorbelegung: Mo 10-16, Di 10-18, Mi 10-16, Do 10-14 Romanistik) |
+| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 56701.02.014 ( 02.[Telefon entfernt].02.007 ( Romanistik) |
 
 ### HS rom. Sprachwiss. - Hauptseminar romanische Sprachwissenschaft - Hauptseminar
 
@@ -4828,7 +4828,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 56701.02.014 ( 02.[Telefon entfernt].02.007 (Vorbelegung: Mo 10-16, Di 10-18, Mi 10-16, Do 10-14 Romanistik) |
+| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 56701.02.014 ( 02.[Telefon entfernt].02.007 ( Romanistik) |
 
 ### HS rom. Sprachwiss. - Hauptseminar romanische Sprachwissenschaft - Hauptseminar
 
@@ -4845,7 +4845,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 56701.02.014 ( 02.[Telefon entfernt].02.007 (Vorbelegung: Mo 10-16, Di 10-18, Mi 10-16, Do 10-14 Romanistik) |
+| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 56701.02.014 ( 02.[Telefon entfernt].02.007 ( Romanistik) |
 
 ### HS rom. Sprachwiss. - Hauptseminar romanische Sprachwissenschaft - Hauptseminar
 
@@ -4862,7 +4862,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 56701.02.014 ( 02.[Telefon entfernt].02.007 (Vorbelegung: Mo 10-16, Di 10-18, Mi 10-16, Do 10-14 Romanistik) |
+| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 56701.02.014 ( 02.[Telefon entfernt].02.007 ( Romanistik) |
 
 ### HS rom. Sprachwiss. - Hauptseminar romanische Sprachwissenschaft - Hauptseminar
 
@@ -4879,7 +4879,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 56701.02.014 ( 02.[Telefon entfernt].02.007 (Vorbelegung: Mo 10-16, Di 10-18, Mi 10-16, Do 10-14 Romanistik) |
+| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 56701.02.014 ( 02.[Telefon entfernt].02.007 ( Romanistik) |
 
 ### HS rom. Sprachwiss. - Hauptseminar romanische Sprachwissenschaft - Hauptseminar
 
@@ -4896,7 +4896,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 56701.02.014 ( 02.[Telefon entfernt].02.007 (Vorbelegung: Mo 10-16, Di 10-18, Mi 10-16, Do 10-14 Romanistik) |
+| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 56701.02.014 ( 02.[Telefon entfernt].02.007 ( Romanistik) |
 
 ### HS rom. Sprachwiss. - Hauptseminar romanische Sprachwissenschaft - Hauptseminar
 
@@ -4913,7 +4913,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 56701.02.014 ( 02.[Telefon entfernt].02.007 (Vorbelegung: Mo 10-16, Di 10-18, Mi 10-16, Do 10-14 Romanistik) |
+| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 56701.02.014 ( 02.[Telefon entfernt].02.007 ( Romanistik) |
 
 ### HS rom. Sprachwiss. - Hauptseminar romanische Sprachwissenschaft - Hauptseminar
 
@@ -4930,7 +4930,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 56701.02.014 ( 02.[Telefon entfernt].02.007 (Vorbelegung: Mo 10-16, Di 10-18, Mi 10-16, Do 10-14 Romanistik) |
+| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 56701.02.014 ( 02.[Telefon entfernt].02.007 ( Romanistik) |
 
 ### HS rom. Sprachwiss. - Hauptseminar romanische Sprachwissenschaft - Hauptseminar
 
@@ -4947,7 +4947,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 56701.02.014 ( 02.[Telefon entfernt].02.007 (Vorbelegung: Mo 10-16, Di 10-18, Mi 10-16, Do 10-14 Romanistik) |
+| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 56701.02.014 ( 02.[Telefon entfernt].02.007 ( Romanistik) |
 
 ### PS franz. Lit.wiss. - Proseminar französische Literaturwissenschaft - Proseminar
 
@@ -4964,7 +4964,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 14:15–15:45 | 15.10.2025–04.02.2026 | 56701.02.036 (Mo - Fr 8:00 - 20:00 Uhr Romanistik) |
+| wöchentlich | Mi | 14:15–15:45 | 15.10.2025–04.02.2026 | 56701.02.036 ( Romanistik) |
 
 ### PS franz. Lit.wiss. - Proseminar französische Literaturwissenschaft - Proseminar
 
@@ -4981,7 +4981,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 14:15–15:45 | 15.10.2025–04.02.2026 | 56701.02.036 (Mo - Fr 8:00 - 20:00 Uhr Romanistik) |
+| wöchentlich | Mi | 14:15–15:45 | 15.10.2025–04.02.2026 | 56701.02.036 ( Romanistik) |
 
 ### PS franz. Lit.wiss. - Proseminar französische Literaturwissenschaft - Proseminar
 
@@ -4998,7 +4998,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 14:15–15:45 | 15.10.2025–04.02.2026 | 56701.02.036 (Mo - Fr 8:00 - 20:00 Uhr Romanistik) |
+| wöchentlich | Mi | 14:15–15:45 | 15.10.2025–04.02.2026 | 56701.02.036 ( Romanistik) |
 
 ### PS franz. Lit.wiss. - Proseminar französische Literaturwissenschaft - Proseminar
 
@@ -5015,7 +5015,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 14:15–15:45 | 15.10.2025–04.02.2026 | 56701.02.036 (Mo - Fr 8:00 - 20:00 Uhr Romanistik) |
+| wöchentlich | Mi | 14:15–15:45 | 15.10.2025–04.02.2026 | 56701.02.036 ( Romanistik) |
 
 ### PS franz. Lit.wiss. - Proseminar französische Literaturwissenschaft - Proseminar
 
@@ -5032,7 +5032,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 14:15–15:45 | 15.10.2025–04.02.2026 | 56701.02.036 (Mo - Fr 8:00 - 20:00 Uhr Romanistik) |
+| wöchentlich | Mi | 14:15–15:45 | 15.10.2025–04.02.2026 | 56701.02.036 ( Romanistik) |
 
 ### PS franz. Lit.wiss. - Proseminar französische Literaturwissenschaft - Proseminar
 
@@ -5049,7 +5049,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 14:15–15:45 | 15.10.2025–04.02.2026 | 56701.02.036 (Mo - Fr 8:00 - 20:00 Uhr Romanistik) |
+| wöchentlich | Mi | 14:15–15:45 | 15.10.2025–04.02.2026 | 56701.02.036 ( Romanistik) |
 
 ### PS franz. Lit.wiss. - Proseminar französische Literaturwissenschaft - Proseminar
 
@@ -5066,7 +5066,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 14:15–15:45 | 15.10.2025–04.02.2026 | 56701.02.036 (Mo - Fr 8:00 - 20:00 Uhr Romanistik) |
+| wöchentlich | Mi | 14:15–15:45 | 15.10.2025–04.02.2026 | 56701.02.036 ( Romanistik) |
 
 ### PS franz. Lit.wiss. - Proseminar französische Literaturwissenschaft - Proseminar
 
@@ -5083,7 +5083,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 14:15–15:45 | 15.10.2025–04.02.2026 | 56701.02.036 (Mo - Fr 8:00 - 20:00 Uhr Romanistik) |
+| wöchentlich | Mi | 14:15–15:45 | 15.10.2025–04.02.2026 | 56701.02.036 ( Romanistik) |
 
 ### PS franz. Lit.wiss. - Proseminar französische Literaturwissenschaft - Proseminar
 
@@ -5100,7 +5100,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 14:15–15:45 | 15.10.2025–04.02.2026 | 56701.02.036 (Mo - Fr 8:00 - 20:00 Uhr Romanistik) |
+| wöchentlich | Mi | 14:15–15:45 | 15.10.2025–04.02.2026 | 56701.02.036 ( Romanistik) |
 
 ### PS franz. Sprachwiss. - Proseminar französische Sprachwissenschaft - Proseminar
 
@@ -5481,7 +5481,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 14:00–16:00 | 15.10.2025–04.02.2026 | 56701.02.007 (Vorbelegung: Mo 10-16, Di 10-18, Mi 10-16, Do 10-14 Romanistik) |
+| wöchentlich | Mi | 14:00–16:00 | 15.10.2025–04.02.2026 | 56701.02.007 ( Romanistik) |
 
 ### VS franz. Sprachwiss. - Vertiefungsseminar französische Sprachwissenschaft - Examensseminar
 
@@ -5498,7 +5498,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 14:00–16:00 | 15.10.2025–04.02.2026 | 56701.02.007 (Vorbelegung: Mo 10-16, Di 10-18, Mi 10-16, Do 10-14 Romanistik) |
+| wöchentlich | Mi | 14:00–16:00 | 15.10.2025–04.02.2026 | 56701.02.007 ( Romanistik) |
 
 ### VS franz. Sprachwiss. - Vertiefungsseminar französische Sprachwissenschaft - Examensseminar
 
@@ -5515,7 +5515,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 14:00–16:00 | 15.10.2025–04.02.2026 | 56701.02.007 (Vorbelegung: Mo 10-16, Di 10-18, Mi 10-16, Do 10-14 Romanistik) |
+| wöchentlich | Mi | 14:00–16:00 | 15.10.2025–04.02.2026 | 56701.02.007 ( Romanistik) |
 
 ### VS franz. Sprachwiss. - Vertiefungsseminar französische Sprachwissenschaft - Examensseminar
 
@@ -5532,7 +5532,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 14:00–16:00 | 15.10.2025–04.02.2026 | 56701.02.007 (Vorbelegung: Mo 10-16, Di 10-18, Mi 10-16, Do 10-14 Romanistik) |
+| wöchentlich | Mi | 14:00–16:00 | 15.10.2025–04.02.2026 | 56701.02.007 ( Romanistik) |
 
 ### VS franz. Sprachwiss. - Vertiefungsseminar französische Sprachwissenschaft - Examensseminar
 
@@ -5549,9 +5549,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 14:00–16:00 | 15.10.2025–04.02.2026 | 56701.02.007 (Vorbelegung: Mo 10-16, Di 10-18, Mi 10-16, Do 10-14 Romanistik) |
+| wöchentlich | Mi | 14:00–16:00 | 15.10.2025–04.02.2026 | 56701.02.007 ( Romanistik) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (20)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (23)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -5563,6 +5563,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Sonstige Lehrveranstaltung
 - **ECTS-Punkte:** 1.0
 - **Turnus:** in jedem Semester
+
+### Angeleitete Lektüre Französisch — Seminar
+
+- **Segment:** `unit:115450` · **unitId:** `115450`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115450&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+
+### Angeleitete Lektüre Französisch — Seminar
+
+- **Segment:** `unit:119316` · **unitId:** `119316`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119316&periodId=565>
+
+- **Veranstaltungsart:** Seminar
 
 ### Apprentissage interculturel — Proseminar
 
@@ -5615,6 +5629,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 3.0
 - **Turnus:** nur im Sommersemester
+
+### Différences individuelles en cours de FLE — Mittelseminar
+
+- **Segment:** `unit:122502` · **unitId:** `122502`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122502&periodId=565>
+
+- **Veranstaltungsart:** Mittelseminar
 
 ### Einführung in die Fachdidaktik der romanischen Sprachen — Seminar
 

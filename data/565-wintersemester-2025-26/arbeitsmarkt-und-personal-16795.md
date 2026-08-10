@@ -5,7 +5,7 @@ campo_segment: "title:16795"
 campo_path: "title:16758|title:16767|title:16795"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16795"
 po_version_count: 2
-course_count: 204
+course_count: 207
 fau_studiengang:
   - title: "Arbeitsmarkt und Personal (M.Sc.)"
     rel_path: "studiengang/arbeitsmarkt-und-personal-m-sc.md"
@@ -194,7 +194,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Campo-Segment:** `exam:12103776`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16795|exam:12102781|exam:12102782|exam:12102783|exam:12102870|exam:12102871|exam:12103776>
 
-## Veranstaltungen (204)
+## Veranstaltungen (207)
 
 ### Arbeitsmarktökonomie (Master) - Vorlesung
 
@@ -1171,6 +1171,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16795|exam:12102781|exam:12102782|exam:12102783|exam:12102870|exam:12102871|exam:12102933>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=58706&periodId=565>
 
+### 53202 Game theory
+
+- **Segment:** `exam:17857527` · **unitId:** `139699`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16795|exam:12102781|exam:12102782|exam:12102783|exam:12102870|exam:12102871|exam:17857527>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139699&periodId=565>
+
 ### 53221 Macroeconomics: Economic growth
 
 - **Segment:** `exam:12102937` · **unitId:** `66584`
@@ -1284,6 +1290,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:12102987` · **unitId:** `69968`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16795|exam:12102781|exam:12102782|exam:12102783|exam:12102870|exam:12102871|exam:12102987>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69968&periodId=565>
+
+### 53675 Advanced Topics in Strategic Management and Leadership
+
+- **Segment:** `exam:17858363` · **unitId:** `139713`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16795|exam:12102781|exam:12102782|exam:12102783|exam:12102870|exam:12102871|exam:17858363>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139713&periodId=565>
 
 ### 53710 Foundations of international management I
 
@@ -1548,6 +1560,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:12103169` · **unitId:** `66507`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16795|exam:12102781|exam:12102782|exam:12102783|exam:12102870|exam:12102871|exam:12103169>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66507&periodId=565>
+
+### 55923 Arbeitsmarkt und Haushalt
+
+- **Segment:** `exam:17855567` · **unitId:** `139663`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16795|exam:12102781|exam:12102782|exam:12102783|exam:12102870|exam:17855567>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139663&periodId=565>
 
 ### 55930 Teamfähigkeit, Präsentations- und Verhaltenstechniken VI
 

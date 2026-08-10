@@ -39315,7 +39315,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Mi | 12:30–14:00 | 15.10.2025 | — |
 | Einzeltermin | Fr | 08:15–12:15 | 16.01.2026 | 11501.02.236 (02.236 Cauerstr.9 Seminarraum) |
 
-### EAM-HS-Maschinen - Hauptseminar Elektrische Maschinen - Hauptseminar
+### EAM-HS-Maschinen - Hauptseminar Elektrische Antriebstechnik und Maschinen - Hauptseminar
 
 - **Segment:** `exam:12623078` · **unitId:** `82473`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17119|exam:12622816|exam:12623038|exam:12623066|exam:12623077|exam:12623078>
@@ -39334,7 +39334,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Fr | 08:00–12:00 | 23.01.2026 | 11501.02.236 (02.236 Cauerstr.9 Seminarraum) |
 | Einzeltermin | Fr | 08:00–12:00 | 30.01.2026 | 11501.02.236 (02.236 Cauerstr.9 Seminarraum) |
 
-### EAM-HS-Maschinen - Hauptseminar Elektrische Maschinen - Hauptseminar
+### EAM-HS-Maschinen - Hauptseminar Elektrische Antriebstechnik und Maschinen - Hauptseminar
 
 - **Segment:** `exam:12623224` · **unitId:** `82473`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17119|exam:12622816|exam:12623197|exam:12623218|exam:12623223|exam:12623224>
@@ -39353,7 +39353,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Fr | 08:00–12:00 | 23.01.2026 | 11501.02.236 (02.236 Cauerstr.9 Seminarraum) |
 | Einzeltermin | Fr | 08:00–12:00 | 30.01.2026 | 11501.02.236 (02.236 Cauerstr.9 Seminarraum) |
 
-### EAM-HS-Maschinen - Hauptseminar Elektrische Maschinen - Hauptseminar
+### EAM-HS-Maschinen - Hauptseminar Elektrische Antriebstechnik und Maschinen - Hauptseminar
 
 - **Segment:** `exam:12623417` · **unitId:** `82473`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17119|exam:12622816|exam:12623376|exam:12623405|exam:12623416|exam:12623417>
@@ -39372,7 +39372,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Fr | 08:00–12:00 | 23.01.2026 | 11501.02.236 (02.236 Cauerstr.9 Seminarraum) |
 | Einzeltermin | Fr | 08:00–12:00 | 30.01.2026 | 11501.02.236 (02.236 Cauerstr.9 Seminarraum) |
 
-### EAM-HS-Maschinen - Hauptseminar Elektrische Maschinen - Hauptseminar
+### EAM-HS-Maschinen - Hauptseminar Elektrische Antriebstechnik und Maschinen - Hauptseminar
 
 - **Segment:** `exam:12627892` · **unitId:** `82473`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17119|exam:12627536|exam:12627753|exam:12627867|exam:12627891|exam:12627892>
@@ -39391,7 +39391,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Fr | 08:00–12:00 | 23.01.2026 | 11501.02.236 (02.236 Cauerstr.9 Seminarraum) |
 | Einzeltermin | Fr | 08:00–12:00 | 30.01.2026 | 11501.02.236 (02.236 Cauerstr.9 Seminarraum) |
 
-### EAM-HS-Maschinen - Hauptseminar Elektrische Maschinen - Hauptseminar
+### EAM-HS-Maschinen - Hauptseminar Elektrische Antriebstechnik und Maschinen - Hauptseminar
 
 - **Segment:** `exam:12628089` · **unitId:** `82473`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17119|exam:12627536|exam:12627921|exam:12628073|exam:12628088|exam:12628089>
@@ -39410,7 +39410,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Fr | 08:00–12:00 | 23.01.2026 | 11501.02.236 (02.236 Cauerstr.9 Seminarraum) |
 | Einzeltermin | Fr | 08:00–12:00 | 30.01.2026 | 11501.02.236 (02.236 Cauerstr.9 Seminarraum) |
 
-### EAM-HS-Maschinen - Hauptseminar Elektrische Maschinen - Hauptseminar
+### EAM-HS-Maschinen - Hauptseminar Elektrische Antriebstechnik und Maschinen - Hauptseminar
 
 - **Segment:** `exam:12628309` · **unitId:** `82473`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17119|exam:12627536|exam:12628144|exam:12628284|exam:12628308|exam:12628309>
@@ -39429,7 +39429,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Fr | 08:00–12:00 | 23.01.2026 | 11501.02.236 (02.236 Cauerstr.9 Seminarraum) |
 | Einzeltermin | Fr | 08:00–12:00 | 30.01.2026 | 11501.02.236 (02.236 Cauerstr.9 Seminarraum) |
 
-### EAM-HS-Maschinen - Hauptseminar Elektrische Maschinen - Hauptseminar
+### EAM-HS-Maschinen - Hauptseminar Elektrische Antriebstechnik und Maschinen - Hauptseminar
 
 - **Segment:** `exam:12632294` · **unitId:** `82473`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17119|exam:12632037|exam:12632254|exam:12632282|exam:12632293|exam:12632294>
@@ -39448,7 +39448,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Fr | 08:00–12:00 | 23.01.2026 | 11501.02.236 (02.236 Cauerstr.9 Seminarraum) |
 | Einzeltermin | Fr | 08:00–12:00 | 30.01.2026 | 11501.02.236 (02.236 Cauerstr.9 Seminarraum) |
 
-### EAM-HS-Maschinen - Hauptseminar Elektrische Maschinen - Hauptseminar
+### EAM-HS-Maschinen - Hauptseminar Elektrische Antriebstechnik und Maschinen - Hauptseminar
 
 - **Segment:** `exam:12632447` · **unitId:** `82473`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17119|exam:12632037|exam:12632420|exam:12632441|exam:12632446|exam:12632447>
@@ -39467,7 +39467,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Fr | 08:00–12:00 | 23.01.2026 | 11501.02.236 (02.236 Cauerstr.9 Seminarraum) |
 | Einzeltermin | Fr | 08:00–12:00 | 30.01.2026 | 11501.02.236 (02.236 Cauerstr.9 Seminarraum) |
 
-### EAM-HS-Maschinen - Hauptseminar Elektrische Maschinen - Hauptseminar
+### EAM-HS-Maschinen - Hauptseminar Elektrische Antriebstechnik und Maschinen - Hauptseminar
 
 - **Segment:** `exam:12632640` · **unitId:** `82473`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17119|exam:12632037|exam:12632599|exam:12632628|exam:12632639|exam:12632640>
@@ -39486,7 +39486,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Fr | 08:00–12:00 | 23.01.2026 | 11501.02.236 (02.236 Cauerstr.9 Seminarraum) |
 | Einzeltermin | Fr | 08:00–12:00 | 30.01.2026 | 11501.02.236 (02.236 Cauerstr.9 Seminarraum) |
 
-### EAM-HS-Maschinen - Hauptseminar Elektrische Maschinen - Hauptseminar
+### EAM-HS-Maschinen - Hauptseminar Elektrische Antriebstechnik und Maschinen - Hauptseminar
 
 - **Segment:** `exam:12637492` · **unitId:** `82473`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17119|exam:12636937|exam:12637355|exam:12637467|exam:12637491|exam:12637492>
@@ -39505,7 +39505,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Fr | 08:00–12:00 | 23.01.2026 | 11501.02.236 (02.236 Cauerstr.9 Seminarraum) |
 | Einzeltermin | Fr | 08:00–12:00 | 30.01.2026 | 11501.02.236 (02.236 Cauerstr.9 Seminarraum) |
 
-### EAM-HS-Maschinen - Hauptseminar Elektrische Maschinen - Hauptseminar
+### EAM-HS-Maschinen - Hauptseminar Elektrische Antriebstechnik und Maschinen - Hauptseminar
 
 - **Segment:** `exam:12637686` · **unitId:** `82473`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17119|exam:12636937|exam:12637526|exam:12637670|exam:12637685|exam:12637686>
@@ -39524,7 +39524,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Fr | 08:00–12:00 | 23.01.2026 | 11501.02.236 (02.236 Cauerstr.9 Seminarraum) |
 | Einzeltermin | Fr | 08:00–12:00 | 30.01.2026 | 11501.02.236 (02.236 Cauerstr.9 Seminarraum) |
 
-### EAM-HS-Maschinen - Hauptseminar Elektrische Maschinen - Hauptseminar
+### EAM-HS-Maschinen - Hauptseminar Elektrische Antriebstechnik und Maschinen - Hauptseminar
 
 - **Segment:** `exam:12637902` · **unitId:** `82473`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17119|exam:12636937|exam:12637741|exam:12637877|exam:12637901|exam:12637902>
@@ -60219,7 +60219,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
+- **Turnus:** nicht in diesem Semester
 
 #### Termine
 
@@ -60236,7 +60236,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
+- **Turnus:** nicht in diesem Semester
 
 #### Termine
 
@@ -60253,7 +60253,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
+- **Turnus:** nicht in diesem Semester
 
 #### Termine
 
@@ -60270,7 +60270,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
+- **Turnus:** nicht in diesem Semester
 
 #### Termine
 
@@ -62519,7 +62519,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:15–15:45 | 20.10.2025–02.02.2026 | 11401.00.116 (H14 Bernhard-Ilschner-Hörsaal (0.61)) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (252)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (255)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -63243,6 +63243,16 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
+### Forschungspraktikum am ASM (MT) — Sonstige Lehrveranstaltung
+
+- **Segment:** `unit:84362` · **unitId:** `84362`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84362&periodId=565>
+
+- **Veranstaltungsart:** Sonstige Lehrveranstaltung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch oder Englisch
+- **Turnus:** in jedem Semester
+
 ### Forschungspraktikum am LMS (FPO 2015) — Sonstige Lehrveranstaltung
 
 - **Segment:** `unit:86502` · **unitId:** `86502`
@@ -63377,6 +63387,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90268&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Sommersemester
 
 ### Grundlagen der Schaltungstechnik — Vorlesung
@@ -63595,8 +63606,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84729&periodId=565>
 
 - **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 1.25
-- **Turnus:** in jedem Semester
+- **Turnus:** nur im Sommersemester
 
 ### Introduction to Machine Learning Tutorial — Übung
 
@@ -63604,7 +63614,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86549&periodId=565>
 
 - **Veranstaltungsart:** Übung
-- **Turnus:** in jedem Semester
+- **Turnus:** nur im Sommersemester
 
 ### Introduction to Quantum Communication — Vorlesung mit Übung
 
@@ -64147,6 +64157,23 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Fr | Fr | 08:00–09:30 | — | 12801.01.210 (H11) |
+
+### Photonik 2 — Vorlesung
+
+- **Segment:** `unit:84507` · **unitId:** `84507`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84507&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Sommersemester
+
+### Photonik 2 Übung
+
+- **Segment:** `unit:85508` · **unitId:** `85508`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85508&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **Turnus:** nur im Sommersemester
 
 ### Politische Systeme (LA GS/MS)
 

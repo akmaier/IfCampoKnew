@@ -5,7 +5,7 @@ campo_segment: "exam:12201199"
 campo_path: "title:16758|title:16766|exam:12201199"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16766|exam:12201199"
 po_version_count: 0
-course_count: 25
+course_count: 24
 ---
 
 # - Sonstige Veranstaltungen (FAU Scientia) -
@@ -14,24 +14,7 @@ course_count: 25
 
 _Section: FAU Scientia Gaststudium_  
 
-## Veranstaltungen (25)
-
-### 1702 Wahlpflichtseminar II Kurs A - Seminar
-
-- **Segment:** `exam:15793505` · **unitId:** `90282`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16766|exam:12201199|exam:15793505>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90282&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 09:00–18:00 | 24.10.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
+## Veranstaltungen (24)
 
 ### AM Sprache und Kultur: Zwischen Moos und Mikrochip - wie Solarpunk und Hygge neue Zukunftsbilder formen - Übung
 

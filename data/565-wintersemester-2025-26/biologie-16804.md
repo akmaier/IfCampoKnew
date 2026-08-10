@@ -5,7 +5,7 @@ campo_segment: "title:16804"
 campo_path: "title:16758|title:16765|title:16804"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16804"
 po_version_count: 45
-course_count: 321
+course_count: 322
 fau_studiengang:
   - title: "Biologie (B.Sc.)"
     rel_path: "studiengang/biologie-b-sc.md"
@@ -409,7 +409,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Campo-Segment:** `exam:17801644`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16804|title:17066|exam:17801440|exam:17801442|exam:17801443|exam:17801549|exam:17801644>
 
-## Veranstaltungen (321)
+## Veranstaltungen (322)
 
 ### Anorganisch-Chemisches Praktikum für Studiengang Biologie - Praktikum
 
@@ -1373,7 +1373,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | wöchentlich | Di | 08:30–12:30 | 14.10.2025–16.12.2025 | 13002.00.783 (Ks M Kursraum M) |
 | wöchentlich | Mi | 08:30–12:30 | 15.10.2025–17.12.2025 | 13002.00.783 (Ks M Kursraum M) |
 
-### Digitale Werkzeuge für Biologen (für Fortgeschrittene) - Übung
+### Digitale Werkzeuge für die Biologie - Übung
 
 - **Segment:** `exam:13557447` · **unitId:** `93228`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16804|title:17065|title:17089|exam:13557446|exam:13557447>
@@ -1384,7 +1384,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
 
-### Digitale Werkzeuge für Biologen (für Fortgeschrittene) - Übung
+### Digitale Werkzeuge für die Biologie - Übung
 
 - **Segment:** `exam:13550025` · **unitId:** `93228`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16804|title:17066|exam:13549161|exam:13549163|exam:13549166|exam:13550024|exam:13550025>
@@ -1395,7 +1395,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
 
-### Digitale Werkzeuge für Biologen (für Fortgeschrittene) - Übung
+### Digitale Werkzeuge für die Biologie - Übung
 
 - **Segment:** `exam:13552352` · **unitId:** `93228`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16804|title:17066|exam:13551474|exam:13551476|exam:13551479|exam:13552351|exam:13552352>
@@ -1406,7 +1406,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
 
-### Digitale Werkzeuge für Biologen (für Fortgeschrittene) - Übung
+### Digitale Werkzeuge für die Biologie - Übung
 
 - **Segment:** `exam:17801480` · **unitId:** `93228`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16804|title:17066|exam:17801440|exam:17801442|exam:17801443|exam:17801479|exam:17801480>
@@ -3768,7 +3768,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | Do | Do | 12:00–12:45 | — | 13001.U1.131 (CIP Biologie Raumnummer U1.131) |
 
-### 28251 Digitale Werkzeuge für Biologen - Leistung
+### 28251 Digitale Werkzeuge für die Biologie - Leistung
 
 - **Segment:** `exam:13557448` · **unitId:** `46123`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16804|title:17065|title:17089|exam:13557446|exam:13557448>
@@ -3783,7 +3783,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### 28251 Digitale Werkzeuge für Biologen - Leistung
+### 28251 Digitale Werkzeuge für die Biologie - Leistung
 
 - **Segment:** `exam:13550026` · **unitId:** `46123`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16804|title:17066|exam:13549161|exam:13549163|exam:13549166|exam:13550024|exam:13550026>
@@ -3798,7 +3798,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### 28251 Digitale Werkzeuge für Biologen - Leistung
+### 28251 Digitale Werkzeuge für die Biologie - Leistung
 
 - **Segment:** `exam:13552353` · **unitId:** `46123`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16804|title:17066|exam:13551474|exam:13551476|exam:13551479|exam:13552351|exam:13552353>
@@ -3813,7 +3813,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### 28251 Digitale Werkzeuge für Biologen - Leistung
+### 28251 Digitale Werkzeuge für die Biologie - Leistung
 
 - **Segment:** `exam:17801481` · **unitId:** `46123`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16804|title:17066|exam:17801440|exam:17801442|exam:17801443|exam:17801479|exam:17801481>
@@ -5129,7 +5129,23 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90129&periodId=565>
 
 - **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mi | 16:15–17:30 | 15.10.2025 | 13003.00.807 (HH Hörsaal Physikum) |
+| wöchentlich | Mi | 14:15–18:00 | 29.10.2025–04.02.2026 | 07201.00.035 (Praktikumsgebäude, Paul-Gordan-Str. 10) |
+
+### Physikpraktikum - Physikalisches Praktikum für Biologen - Praktikum
+
+- **Segment:** `exam:17854675` · **unitId:** `90129`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16804|title:17066|exam:17801440|exam:17801442|exam:17801443|exam:17853248|exam:17854675>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90129&periodId=565>
+
+- **Veranstaltungsart:** Praktikum
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
 
@@ -5191,9 +5207,27 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | Blockveranstaltung | — | 08:00–16:00 | 02.03.2026–27.03.2026 | 01501.01.057 (Seminarraum Virologie) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (88)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (94)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
+
+### 2a: Tutorium zur Phylogenie des Lebens
+
+- **Segment:** `unit:136344` · **unitId:** `136344`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136344&periodId=565>
+
+- **Veranstaltungsart:** Tutorium
+- **ECTS-Punkte:** 1.0
+- **Turnus:** nur im Sommersemester
+
+### 2a: Vorlesung zu Grundlagen Evolution, Entstehung der Arten, Prokaryonten, Protisten und Pflanzen
+
+- **Segment:** `unit:136302` · **unitId:** `136302`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136302&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 3.5
+- **Turnus:** nur im Sommersemester
 
 ### 2a: Übungen zur Mikrobiologie, Evolution, und Anatomie der Pflanzen
 
@@ -5263,6 +5297,24 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Di | 08:15–09:45 | 14.10.2025–03.02.2026 | 11907.01.040 (H18) |
 | wöchentlich | Do | 08:15–09:45 | 16.10.2025–05.02.2026 | 11907.01.040 (H18) |
 
+### B2: Biologie der Pflanzen: Allgemeine Botanik und Einführung in die Evolution (Vorlesung)
+
+- **Segment:** `unit:83375` · **unitId:** `83375`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83375&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 6.0
+- **Turnus:** nur im Sommersemester
+
+### B2: Biologie der Pflanzen: Tutorium Botanik
+
+- **Segment:** `unit:84347` · **unitId:** `84347`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84347&periodId=565>
+
+- **Veranstaltungsart:** Tutorium
+- **ECTS-Punkte:** 1.5
+- **Turnus:** nur im Sommersemester
+
 ### B4: Einführung in die Physiologie (Vergleichende Tierphysiologie für LAFN) — Vorlesung
 
 - **Segment:** `unit:82845` · **unitId:** `82845`
@@ -5295,6 +5347,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83859&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Sommersemester
+
+### B7: Seminar Spezielle Themen der Botanik  (Staatsexamensvorbereitung für LAFN) — Hauptseminar
+
+- **Segment:** `unit:84601` · **unitId:** `84601`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84601&periodId=565>
+
+- **Veranstaltungsart:** Hauptseminar
+- **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Sommersemester
 
 ### BASISBIO Sommer — Seminar und Übung
@@ -5954,6 +6015,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.0
+- **Turnus:** nur im Sommersemester
+
+### Physikalische Chemie 2 (Kinetik u. Aufbau der Materie) für LA Gymnasium (PC Ib), Lebensmittelchemie und Biologie (PC II) — Vorlesung
+
+- **Segment:** `unit:95783` · **unitId:** `95783`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95783&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Sommersemester
 
 ### Portfolio zu BIODID I: Biologie-didaktische Grundlagen

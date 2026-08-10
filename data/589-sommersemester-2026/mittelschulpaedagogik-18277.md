@@ -123,7 +123,17 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Di | 13:00–14:00 | 21.04.2026 | 75201.00.401 (St. Paul 00.401 Theatersaal) |
+| Einzeltermin | Sa | 09:00–16:00 | 13.06.2026 | 75201.00.401 (St. Paul 00.401 Theatersaal) |
+| Einzeltermin | Fr | 14:00–19:00 | 26.06.2026 | 75201.00.401 (St. Paul 00.401 Theatersaal) |
+| Einzeltermin | Sa | 09:00–16:00 | 27.06.2026 | 75201.00.401 (St. Paul 00.401 Theatersaal) |
 
 ### SHM-InInKo / SHM-KoRe: „Und jetzt?!“ - Handlungsmöglichkeiten in herausfordernden Situationen - für an Schulen tätige Studierende und andere - Seminar
 
@@ -131,7 +141,10 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18277|exam:15078680|exam:15078691>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120747&periodId=589>
 
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -189,7 +202,10 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18277|exam:15078680|exam:15078693>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93338&periodId=589>
 
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 

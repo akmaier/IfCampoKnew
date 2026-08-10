@@ -11237,13 +11237,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Propädeutische Übung
 - **Turnus:** nur im Sommersemester
 
-### Proseminar
-
-- **Segment:** `unit:130698` · **unitId:** `130698`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130698&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
 ### Proseminar "Die Haftung von Vorständen und Geschäftsführern"
 
 - **Segment:** `unit:135225` · **unitId:** `135225`
@@ -11556,6 +11549,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:89151` · **unitId:** `89151`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89151&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Sommersemester
+
+### Urheberrecht (SPB 4) — Vorlesung
+
+- **Segment:** `unit:101937` · **unitId:** `101937`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101937&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Sommersemester

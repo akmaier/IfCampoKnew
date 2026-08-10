@@ -947,7 +947,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
+| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 56701.03.017 ( 03.017) |
 
 ### Hadith I, BA, 2. FS - Seminar
 
@@ -963,7 +963,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
+| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 56701.03.017 ( 03.017) |
 
 ### Hadith I, BA, 2. FS - Seminar
 
@@ -979,7 +979,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
+| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 56701.03.017 ( 03.017) |
 
 ### Hadith I, BA, 2. FS - Vorlesung
 
@@ -995,7 +995,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
+| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 56701.03.017 ( 03.017) |
 
 ### Hadith I, BA, 2. FS - Vorlesung
 
@@ -1011,7 +1011,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
+| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 56701.03.017 ( 03.017) |
 
 ### Hadith I, BA, 2. FS - Vorlesung
 
@@ -1027,7 +1027,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
+| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 56701.03.017 ( 03.017) |
 
 ### Hadith II, BA, 4. 6. FS - Seminar
 
@@ -1067,7 +1067,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15490061|exam:15490062|exam:15490063|exam:15490094|exam:15879432>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135441&periodId=589>
 
+- **Veranstaltungsart:** Workshop
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -1089,7 +1091,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung+SaundSo | — | 10:00–18:00 | 29.05.2026–31.05.2026 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
+| Blockveranstaltung+SaundSo | — | 10:00–18:00 | 29.05.2026–31.05.2026 | 56701.03.017 ( 03.017) |
 
 ### Lektüreübung (Quran and modernity), MA, 2.FS - Vorlesung mit Übung
 
@@ -1474,7 +1476,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Di | 16:00–18:00 | 21.04.2026 | 56701.03.033 |
-| Einzeltermin | Fr | 10:00–18:00 | 03.07.2026 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
+| Einzeltermin | Fr | 10:00–18:00 | 03.07.2026 | 56701.03.017 ( 03.017) |
 | Blockveranstaltung+SaundSo | — | 10:00–18:00 | 04.07.2026–05.07.2026 | — |
 
 ### Normenlehre II, BA, 4. 6. FS - Seminar
@@ -1492,7 +1494,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Di | 16:00–18:00 | 21.04.2026 | 56701.03.033 |
-| Einzeltermin | Fr | 10:00–18:00 | 03.07.2026 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
+| Einzeltermin | Fr | 10:00–18:00 | 03.07.2026 | 56701.03.017 ( 03.017) |
 | Blockveranstaltung+SaundSo | — | 10:00–18:00 | 04.07.2026–05.07.2026 | — |
 
 ### 17001 Interreligiöses Lernen - Leistung
@@ -1645,6 +1647,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15490061|exam:15490062|exam:15490063|exam:15490103|exam:15490105>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=42327&periodId=589>
 
+- **ECTS-Punkte:** 10.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -2553,7 +2556,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 08:00–09:30 | 21.04.2026–14.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (43)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (32)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -2561,58 +2564,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:112365` · **unitId:** `112365`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112365&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
-
-### 6. FS, Ein-Fach und Zwei-Fach (frei wählbar), Islamische Philosophie & Ästhetik/Ethik, Seminar
-
-- **Segment:** `unit:112366` · **unitId:** `112366`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112366&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
-
-### Analysing Audiovisual Culture in Digital Humanities — Seminar
-
-- **Segment:** `unit:139354` · **unitId:** `139354`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139354&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-
-### Arabisch I  (Islamisch-Religiöse Studien) — Übung
-
-- **Segment:** `unit:93946` · **unitId:** `93946`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93946&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 10.0
-- **Turnus:** nur im Wintersemester
-
-### Arabisch III  (B. A. Islamisch-Religiöse Studien) — Übung
-
-- **Segment:** `unit:85322` · **unitId:** `85322`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85322&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 10.0
-- **Turnus:** nur im Wintersemester
-
-### BA 3. FS: Das islamische Denken in der Umbruchzeit: Verhältnis von Tradition und Moderne bei ausgewählten muslimischen Denkern des 19. und 20. Jahrhunderts (Modul: Kalam II) — Seminar
-
-- **Segment:** `unit:117521` · **unitId:** `117521`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117521&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Turnus:** jedes 2. Semester
-
-### BA 4.+5.+6. FS Ein-Fach und Zwei-Fach IRS Seminar: Einführung in die islamische Mystik (Modul Islamische Mystik)
-
-- **Segment:** `unit:98157` · **unitId:** `98157`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98157&periodId=589>
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
@@ -2626,15 +2577,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
-
-### BA 5. FS: Islam, Menschenrechte und Gender I — Seminar
-
-- **Segment:** `unit:108508` · **unitId:** `108508`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=108508&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
 
 ### Bibelkunde Altes Testament I — Übung
 
@@ -2668,30 +2610,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Turnus:** Unregelmäßig
 
-### Einführung in das Studium der Digitalen Geistes- und Sozialwissenschaften — Seminar
-
-- **Segment:** `unit:86197` · **unitId:** `86197`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86197&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.5
-- **Turnus:** in jedem Semester
-
 ### Essentials of Data Visualisation in Digital Humanities — Seminar
 
 - **Segment:** `unit:139355` · **unitId:** `139355`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139355&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-
-### Evangelikalismus/Pentekostalismus und die Bedrohung liberal-demokratischer Ordnungen — Übung
-
-- **Segment:** `unit:130991` · **unitId:** `130991`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130991&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
-- **Turnus:** jedes 2. Semester
 
 ### Grammar & Vocabulary for Erasmus students
 
@@ -2840,14 +2764,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### MA 1: Forschungsmethoden und Quellenanalyse (Übung) — Masterseminar
-
-- **Segment:** `unit:94221` · **unitId:** `94221`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94221&periodId=589>
-
-- **Veranstaltungsart:** Masterseminar
-- **Turnus:** nur im Wintersemester
-
 ### MA 1: Koran und Kontext — Vorlesung
 
 - **Segment:** `unit:89303` · **unitId:** `89303`
@@ -2863,15 +2779,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100218&periodId=589>
 
 - **Veranstaltungsart:** Masterseminar
-- **Turnus:** nur im Wintersemester
-
-### MA 3. FS: Einführungsübung (Modul: Gegenwartsfragen islamischer Religionsdiskurse) — Einführungskurs
-
-- **Segment:** `unit:88624` · **unitId:** `88624`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88624&periodId=589>
-
-- **Veranstaltungsart:** Einführungskurs
-- **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
 ### MA 3. FS: Seminar (Modul: Islamische Religionsphilosophie)

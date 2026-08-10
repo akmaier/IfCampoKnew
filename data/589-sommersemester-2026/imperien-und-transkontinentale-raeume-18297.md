@@ -601,7 +601,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:15–15:45 | 13.04.2026–06.07.2026 | 05901.05.054 ( 05.054) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (38)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (34)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -644,12 +644,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
 - **Turnus:** in jedem Semester
 
-### Aktuelle Texte der Philosophie (HS/MAS) — Kombiseminar
+### Aktuelle Texte der Philosophie — Hauptseminar / Masterseminar
 
-- **Segment:** `unit:111714` · **unitId:** `111714`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111714&periodId=589>
+- **Segment:** `unit:138124` · **unitId:** `138124`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138124&periodId=589>
 
-- **Veranstaltungsart:** Kombiseminar
+- **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Turnus:** in jedem Semester
 
 ### Aktuelle Texte der Philosophie (HS/MAS) — Kombiseminar
 
@@ -682,14 +683,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Kombiseminar
 - **Turnus:** nicht in diesem Semester
 
-### Authors as Fans: American Prose Fiction and Its Intertexts — Hauptseminar
-
-- **Segment:** `unit:122564` · **unitId:** `122564`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122564&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** Unregelmäßig
-
 ### BA-1 Geschichte und Kultur Chinas II — Seminar
 
 - **Segment:** `unit:85591` · **unitId:** `85591`
@@ -708,13 +701,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
 
-### BA-AM1: Medien und Kultur — Seminar
+### Bedeutung und Gebrauch — Hauptseminar / Masterseminar
 
-- **Segment:** `unit:103637` · **unitId:** `103637`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103637&periodId=589>
+- **Segment:** `unit:138137` · **unitId:** `138137`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138137&periodId=589>
 
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 10.0
+- **Veranstaltungsart:** Hauptseminar / Masterseminar
 - **Turnus:** Unregelmäßig
 
 ### Business & Society in Latin America — Masterseminar
@@ -726,12 +718,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
-### Das Problem des staatlichen Strafens — Hauptseminar / Masterseminar
+### Contemporary Approaches to Philosophical Method — Hauptseminar / Masterseminar
 
-- **Segment:** `unit:119070` · **unitId:** `119070`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119070&periodId=589>
+- **Segment:** `unit:138221` · **unitId:** `138221`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138221&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Turnus:** Unregelmäßig
 
 ### Development Economics I — Vorlesung mit Übung
 
@@ -742,25 +735,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### Die Idee des Rechtsfriedens — Hauptseminar
-
-- **Segment:** `unit:115292` · **unitId:** `115292`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115292&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-
 ### Ernst Gombrich: Art and Illusion - A Study in the Psychology of Pictorial Representation — Hauptseminar / Masterseminar
 
 - **Segment:** `unit:131344` · **unitId:** `131344`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131344&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
-- **Turnus:** Unregelmäßig
-
-### Funktionalistische Erkenntnistheorie — Hauptseminar / Masterseminar
-
-- **Segment:** `unit:122648` · **unitId:** `122648`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122648&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
 - **Turnus:** Unregelmäßig
@@ -864,6 +842,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Oberseminar
 
+### Philosophical Perspectives on Mental Well-Being — Hauptseminar / Masterseminar
+
+- **Segment:** `unit:138138` · **unitId:** `138138`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138138&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Turnus:** Unregelmäßig
+
 ### Philosophische Perspektiven auf die Emotion der Wut: Nussbaum, Srinivasan, Cherry — Hauptseminar / Masterseminar
 
 - **Segment:** `unit:122684` · **unitId:** `122684`
@@ -887,13 +873,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Hauptseminar
 
-### Populationsethik (HS/MAS) — Kombiseminar
-
-- **Segment:** `unit:115618` · **unitId:** `115618`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115618&periodId=589>
-
-- **Veranstaltungsart:** Kombiseminar
-
 ### Schriftliche Übersetzungsleistung Latein I für Anfänger (Zulassungsvoraussetzung zu Kurs Latein II für Fortgeschrittene)
 
 - **Segment:** `unit:39848` · **unitId:** `39848`
@@ -907,14 +886,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Do | Do | 14:00–16:00 | 07.06.2026 23:59:59 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
-
-### Thinking about the Future (and Trying to Shape It) — Hauptseminar / Masterseminar
-
-- **Segment:** `unit:126965` · **unitId:** `126965`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126965&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
-- **Turnus:** Unregelmäßig
 
 ### Tutorial for "International Business Ethics I" — Übung
 

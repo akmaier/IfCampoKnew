@@ -220,8 +220,8 @@ _Section: FAU Scientia Gaststudium_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Do | 09:00–18:00 | 23.10.2025 | 56701.03.033 |
-| Einzeltermin | Fr | 09:00–18:00 | 24.10.2025 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
-| Einzeltermin | Sa | 09:00–16:00 | 25.10.2025 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
+| Einzeltermin | Fr | 09:00–18:00 | 24.10.2025 | 56701.03.017 ( 03.017) |
+| Einzeltermin | Sa | 09:00–16:00 | 25.10.2025 | 56701.03.017 ( 03.017) |
 
 ### MA 3. FS: Seminar (Modul: Islamische Religionsphilosophie) - Seminar
 
@@ -292,7 +292,7 @@ _Section: FAU Scientia Gaststudium_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Fr | 10:00–18:00 | 09.01.2026 | 56701.03.011 |
-| Einzeltermin | Sa | 10:00–18:00 | 10.01.2026 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
+| Einzeltermin | Sa | 10:00–18:00 | 10.01.2026 | 56701.03.017 ( 03.017) |
 | Einzeltermin | Fr | 10:00–16:00 | 16.01.2026 | 56701.03.011 |
 
 ### NT Einführung in die exeget. Methoden (mit Arbeit) - Proseminar

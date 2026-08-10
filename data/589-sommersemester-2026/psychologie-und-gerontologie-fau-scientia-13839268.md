@@ -5,7 +5,7 @@ campo_segment: "exam:13839268"
 campo_path: "title:17593|title:17599|exam:13839268"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13839268"
 po_version_count: 0
-course_count: 14
+course_count: 13
 ---
 
 # - Psychologie und Gerontologie (FAU Scientia)  -
@@ -14,7 +14,7 @@ course_count: 14
 
 _Section: FAU Scientia Gaststudium_  
 
-## Veranstaltungen (14)
+## Veranstaltungen (13)
 
 ### 1101 - Einführung in die Psychologie des Alterns - Vorlesung
 
@@ -85,22 +85,22 @@ _Section: FAU Scientia Gaststudium_
 | Einzeltermin | Mi | 09:00–18:00 | 27.05.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 | Einzeltermin | Fr | 09:00–18:00 | 29.05.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
-### 1302 Aktuelle Forschung in der Psychogerontologie (Master- und Forschungskolloquium) (semesterbegleitend) - Kolloquium
+### 1502 Ausgewählte Methoden der psychogerontologischen Intervention Kurs B - Seminar
 
-- **Segment:** `exam:13839300` · **unitId:** `83733`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13839268|exam:13839300>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83733&periodId=589>
+- **Segment:** `exam:17846786` · **unitId:** `95066`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13839268|exam:17846786>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95066&periodId=589>
 
-- **Veranstaltungsart:** Kolloquium
+- **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch oder Englisch
-- **Turnus:** in jedem Semester
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 13:00–14:30 | 13.04.2026–06.07.2026 | 21301.00.049 (00.049 00.049 Seminarraum) |
+| Einzeltermin | Mi | 09:00–18:00 | 24.06.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 201 Theorien und Ethik der Gerontologie - Hauptseminar
 
@@ -119,23 +119,6 @@ _Section: FAU Scientia Gaststudium_
 |---|---|---|---|---|
 | Einzeltermin | Di | 09:00–18:00 | 16.06.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 | Einzeltermin | Di | 09:00–18:00 | 23.06.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
-
-### 202 - Grundlagen der Gerontologie - Seminar
-
-- **Segment:** `exam:13839306` · **unitId:** `103254`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13839268|exam:13839306>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103254&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 09:00–18:00 | 19.05.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 901 - Altern, Recht und Gesellschaft: - Seminar
 
@@ -224,7 +207,14 @@ _Section: FAU Scientia Gaststudium_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 05701.00.017 ( Kl. Hörsaal) |
 
 ### PT Diagnostik - Psychotherapeutische Diagnostik, Begutachtung und Versorgung 1 - Seminar
 
@@ -234,4 +224,11 @@ _Section: FAU Scientia Gaststudium_
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:15–15:45 | 21.04.2026–14.07.2026 | 54201.00.020 ( SR 2 Studienzentrum) |

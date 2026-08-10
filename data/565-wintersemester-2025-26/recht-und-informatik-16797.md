@@ -5,7 +5,7 @@ campo_segment: "title:16797"
 campo_path: "title:16758|title:16767|title:16797"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16797"
 po_version_count: 0
-course_count: 23
+course_count: 25
 ---
 
 # Recht und Informatik
@@ -14,7 +14,7 @@ course_count: 23
 
 _Section: Studiengänge der Rechts- und Wirtschaftswissenschaftlichen Fakultät_  
 
-## Veranstaltungen (23)
+## Veranstaltungen (25)
 
 ### Datenschutz-, Daten- und Informationsrecht - Vorlesung
 
@@ -272,6 +272,18 @@ _Section: Studiengänge der Rechts- und Wirtschaftswissenschaftlichen Fakultät_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Fr | Fr | — | — | — |
+
+### 83462 Business Analytics
+
+- **Segment:** `exam:17829131` · **unitId:** `139511`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16797|exam:12101312|exam:12101313|exam:12101314|exam:12101315|exam:17829131>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139511&periodId=565>
+
+### 86962 Enterprise Content and Collaboration Management (für WI)
+
+- **Segment:** `exam:17826653` · **unitId:** `139505`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16797|exam:12101312|exam:12101313|exam:12101314|exam:12101315|exam:17826653>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139505&periodId=565>
 
 ### ECCM___ - Enterprise Content and Collaboration Management - Vorlesung mit Übung
 

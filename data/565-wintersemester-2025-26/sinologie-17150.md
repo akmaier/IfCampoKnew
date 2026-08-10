@@ -5,7 +5,7 @@ campo_segment: "title:17150"
 campo_path: "title:16758|title:16763|title:17150"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17150"
 po_version_count: 5
-course_count: 189
+course_count: 188
 fau_studiengang:
   - title: "Sinologie (B.A.)"
     rel_path: "studiengang/sinologie-b-a.md"
@@ -279,7 +279,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Campo-Segment:** `exam:12854223`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17150|exam:12854222|exam:12854223>
 
-## Veranstaltungen (189)
+## Veranstaltungen (188)
 
 ### (EK) Einführung in die Kunst- und Kulturgeschichte - Einführungskurs
 
@@ -1023,8 +1023,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### BA-5 Geistes- und Ideengeschichte Chinas I - Hauptseminar
 
-- **Segment:** `exam:12845342` · **unitId:** `129483`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17150|exam:12843751|exam:12843754|exam:12843755|exam:12845295|exam:12845339|exam:12845342>
+- **Segment:** `exam:17854592` · **unitId:** `129483`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17150|exam:12843751|exam:12843754|exam:12843755|exam:12845295|exam:17709364|exam:17854592>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=129483&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar
@@ -1074,8 +1074,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### BA-5 Geistes- und Ideengeschichte Chinas II - Hauptseminar
 
-- **Segment:** `exam:12845343` · **unitId:** `129484`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17150|exam:12843751|exam:12843754|exam:12843755|exam:12845295|exam:12845339|exam:12845343>
+- **Segment:** `exam:17857007` · **unitId:** `129484`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17150|exam:12843751|exam:12843754|exam:12843755|exam:12845295|exam:17709364|exam:17857007>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=129484&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar
@@ -2206,12 +2206,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 76069 Geistes- und Ideengeschichte Chinas
 
-- **Segment:** `exam:17709364` · **unitId:** `138329`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17150|exam:12843751|exam:12843754|exam:12843755|exam:12845295|exam:17709364>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138329&periodId=565>
-
-### 76069 Geistes- und Ideengeschichte Chinas
-
 - **Segment:** `exam:17709357` · **unitId:** `138329`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17150|exam:12854222|exam:12854225|exam:12854226|exam:12854227|exam:12854228|exam:17709357>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138329&periodId=565>
@@ -2360,7 +2354,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
-### "Far stupire il mondo" - Veit Stoß und die Skulptur der Dürerzeit in Nürnberg — Vorlesung
+### "Fare stupire il mondo" - Veit Stoß und die Skulptur der Dürerzeit in Nürnberg — Vorlesung
 
 - **Segment:** `unit:138362` · **unitId:** `138362`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138362&periodId=565>
@@ -3468,8 +3462,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 18:15–19:45 | 14.10.2025–03.02.2026 | 56701.02.036 (Mo - Fr 8:00 - 20:00 Uhr Romanistik) |
-| Einzeltermin | Fr | 12:00–14:00 | 09.01.2026 | 56701.02.036 (Mo - Fr 8:00 - 20:00 Uhr Romanistik) |
+| wöchentlich | Di | 18:15–19:45 | 14.10.2025–03.02.2026 | 56701.02.036 ( Romanistik) |
+| Einzeltermin | Fr | 12:00–14:00 | 09.01.2026 | 56701.02.036 ( Romanistik) |
 
 ### Protestantischer Kirchenbau der Frühen Neuzeit — Aufbauseminar
 

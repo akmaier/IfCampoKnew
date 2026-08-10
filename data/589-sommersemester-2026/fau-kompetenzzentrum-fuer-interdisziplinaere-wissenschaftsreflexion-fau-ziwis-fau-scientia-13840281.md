@@ -24,7 +24,18 @@ _Section: FAU Scientia Gaststudium_
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mi | 17:00–18:00 | 22.04.2026 | 05902.00.015 ( 00.15 PSG) |
+| Einzeltermin | Fr | 14:00–18:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 14:00–18:00 | 08.05.2026 | — |
+| Einzeltermin | Fr | 14:00–18:00 | 12.06.2026 | — |
+| Einzeltermin | Mi | 14:00–16:00 | 23.09.2026 | — |
 
 ### Interkulturelle Kompetenz: Theoretische und praktische Grundlagen - Seminar
 

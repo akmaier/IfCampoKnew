@@ -5,7 +5,7 @@ campo_segment: "title:18231"
 campo_path: "title:17593|title:17595|title:18231"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18231"
 po_version_count: 0
-course_count: 186
+course_count: 192
 ---
 
 # Didaktik des Deutschen als Zweitsprache
@@ -14,12 +14,32 @@ course_count: 186
 
 _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theologie_  
 
-## Veranstaltungen (186)
+## Veranstaltungen (192)
 
 ### Alphabetisierung für Jugendliche und junge Erwachsene (vhb-Seminar) - Online-Kurs
 
-- **Segment:** `exam:15800108` · **unitId:** `131455`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18231|exam:15115739|exam:15115740|exam:15115741|exam:15115742|exam:15115749|exam:15800108>
+- **Segment:** `exam:17856157` · **unitId:** `131455`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18231|exam:15117486|exam:15117487|exam:15117488|exam:15117489|exam:15117499|exam:17856157>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131455&periodId=589>
+
+- **Veranstaltungsart:** Online-Kurs
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+### Alphabetisierung für Jugendliche und junge Erwachsene (vhb-Seminar) - Online-Kurs
+
+- **Segment:** `exam:17855882` · **unitId:** `131455`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18231|exam:15119212|exam:15119213|exam:15119214|exam:15119215|exam:15119225|exam:17855882>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131455&periodId=589>
+
+- **Veranstaltungsart:** Online-Kurs
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+### Alphabetisierung für Jugendliche und junge Erwachsene (vhb-Seminar) - Online-Kurs
+
+- **Segment:** `exam:17855873` · **unitId:** `131455`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18231|exam:15120938|exam:15120939|exam:15120940|exam:15120941|exam:15120951|exam:17855873>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131455&periodId=589>
 
 - **Veranstaltungsart:** Online-Kurs
@@ -66,13 +86,95 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Einzeltermin | Do | 12:00–13:30 | 23.07.2026 | 20301.01.021 (1.021 Computerseminarraum (25)) |
 | Einzeltermin | Do | 14:00–15:30 | 23.07.2026 | 20301.01.021 (1.021 Computerseminarraum (25)) |
 
+### Einführung in die Didaktik des Deutschen als Zweitsprache - Vorlesung
+
+- **Segment:** `exam:17856755` · **unitId:** `92076`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18231|exam:15115761|exam:15115762|exam:15115763|exam:15115764|exam:15115765|exam:17856755>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92076&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 14:00–15:30 | 16.04.2026 | 20301.U1.038 (U1.038 Seminarraum (50)) |
+| wöchentlich | Do | 14:00–15:30 | 16.04.2026–16.07.2026 | 75201.00.301 (St.Paul 00.301 Zeichensaal (100)) |
+| Einzeltermin | Do | 12:00–13:30 | 23.07.2026 | 20301.01.021 (1.021 Computerseminarraum (25)) |
+| Einzeltermin | Do | 14:00–15:30 | 23.07.2026 | 20301.01.021 (1.021 Computerseminarraum (25)) |
+
+### Einführung in die Didaktik des Deutschen als Zweitsprache - Vorlesung
+
+- **Segment:** `exam:17856610` · **unitId:** `92076`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18231|exam:15117486|exam:15117487|exam:15117488|exam:15117489|exam:15117490|exam:17856610>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92076&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 14:00–15:30 | 16.04.2026 | 20301.U1.038 (U1.038 Seminarraum (50)) |
+| wöchentlich | Do | 14:00–15:30 | 16.04.2026–16.07.2026 | 75201.00.301 (St.Paul 00.301 Zeichensaal (100)) |
+| Einzeltermin | Do | 12:00–13:30 | 23.07.2026 | 20301.01.021 (1.021 Computerseminarraum (25)) |
+| Einzeltermin | Do | 14:00–15:30 | 23.07.2026 | 20301.01.021 (1.021 Computerseminarraum (25)) |
+
+### Einführung in die Didaktik des Deutschen als Zweitsprache - Vorlesung
+
+- **Segment:** `exam:17856769` · **unitId:** `92076`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18231|exam:15119212|exam:15119213|exam:15119214|exam:15119215|exam:15119216|exam:17856769>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92076&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 14:00–15:30 | 16.04.2026 | 20301.U1.038 (U1.038 Seminarraum (50)) |
+| wöchentlich | Do | 14:00–15:30 | 16.04.2026–16.07.2026 | 75201.00.301 (St.Paul 00.301 Zeichensaal (100)) |
+| Einzeltermin | Do | 12:00–13:30 | 23.07.2026 | 20301.01.021 (1.021 Computerseminarraum (25)) |
+| Einzeltermin | Do | 14:00–15:30 | 23.07.2026 | 20301.01.021 (1.021 Computerseminarraum (25)) |
+
+### Einführung in die Didaktik des Deutschen als Zweitsprache - Vorlesung
+
+- **Segment:** `exam:17856581` · **unitId:** `92076`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18231|exam:15120938|exam:15120939|exam:15120940|exam:15120941|exam:15120942|exam:17856581>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92076&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 14:00–15:30 | 16.04.2026 | 20301.U1.038 (U1.038 Seminarraum (50)) |
+| wöchentlich | Do | 14:00–15:30 | 16.04.2026–16.07.2026 | 75201.00.301 (St.Paul 00.301 Zeichensaal (100)) |
+| Einzeltermin | Do | 12:00–13:30 | 23.07.2026 | 20301.01.021 (1.021 Computerseminarraum (25)) |
+| Einzeltermin | Do | 14:00–15:30 | 23.07.2026 | 20301.01.021 (1.021 Computerseminarraum (25)) |
+
 ### Mehrsprachigkeit als Ressource - Seminar
 
 - **Segment:** `exam:15115735` · **unitId:** `86994`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18231|exam:15115717|exam:15115718|exam:15115719|exam:15115720|exam:15115726|exam:15115735>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86994&periodId=589>
 
+- **Veranstaltungsart:** Seminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -86,7 +188,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18231|exam:15115761|exam:15115762|exam:15115763|exam:15115764|exam:15115774|exam:15115776>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86994&periodId=589>
 
+- **Veranstaltungsart:** Seminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -1478,6 +1582,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18231|exam:15115761|exam:15115762|exam:15115763|exam:15115874|exam:15115875|exam:15115876>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46614&periodId=589>
 
+- **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -1492,6 +1597,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18231|exam:15117486|exam:15117487|exam:15117488|exam:15117599|exam:15117600|exam:15117601>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46614&periodId=589>
 
+- **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -1506,6 +1612,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18231|exam:15119212|exam:15119213|exam:15119214|exam:15119325|exam:15119326|exam:15119327>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46614&periodId=589>
 
+- **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -1520,6 +1627,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18231|exam:15120938|exam:15120939|exam:15120940|exam:15121056|exam:15121057|exam:15121058>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46614&periodId=589>
 
+- **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -1648,7 +1756,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | Mi | Mi | — | 07.06.2026 23:59:59 | — |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (55)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (54)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -2149,14 +2257,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Fr | Fr | 15:00–16:00 | — | — |
-
-### Schreiben - Lesen - Umgang mit Fehlern - Grundlagen eines jeden Unterrichts — Seminar
-
-- **Segment:** `unit:119470` · **unitId:** `119470`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119470&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
 
 ### Schreiben zwischen DaZ- und Regelunterricht — Seminar
 

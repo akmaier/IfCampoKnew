@@ -5,7 +5,7 @@ campo_segment: "title:17218"
 campo_path: "title:16758|title:16763|title:17218"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17218"
 po_version_count: 0
-course_count: 65
+course_count: 59
 fau_studiengang:
   - title: "Erziehungswissenschaftlich-Empirische Bildungsforschung (M.A.)"
     rel_path: "studiengang/erziehungswissenschaftlich-empirische-bildungsforschung-m-a.md"
@@ -188,7 +188,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Veranstaltungen (65)
+## Veranstaltungen (59)
 
 ### EE-BF M6d / ZS M1 / LA Allgemeine Pädagogik Freier Bereich: SEM "Aktuelle Probleme und Forschungsergebnisse auf dem Gebiet der internationalen Bildung (in systematischer und interdisziplinärer Perspektive)" (Standort Nürnberg) - Seminar
 
@@ -326,26 +326,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Do | 14:00–15:30 | 16.10.2025–05.02.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
 
-### Liebner/Meyer Master EEBF M6/7 - Online-Kurs
+### Liebner/Meyer Master EEBF M6 Profilgrundlagen Heterogenität - Online-Kurs
 
 - **Segment:** `exam:13773572` · **unitId:** `133190`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17218|exam:12786672|exam:12786673|exam:12786674|exam:12786686|exam:12786687|exam:13773572>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133190&periodId=565>
-
-- **Veranstaltungsart:** Online-Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 08:30–09:30 | 10.10.2025 | — |
-
-### Liebner/Meyer Master EEBF M6/7 - Online-Kurs
-
-- **Segment:** `exam:13773582` · **unitId:** `133190`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17218|exam:12786672|exam:12786673|exam:12786674|exam:12786686|exam:12786711|exam:13773582>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133190&periodId=565>
 
 - **Veranstaltungsart:** Online-Kurs
@@ -991,52 +975,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-### Inklusion und Medien (vhb) - Meyer / Online: Inklusion und Medien im Unterricht der Grundschule (vhb-Seminar) - Mittelseminar
-
-- **Segment:** `exam:12786716` · **unitId:** `95287`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17218|exam:12786672|exam:12786673|exam:12786674|exam:12786686|exam:12786711|exam:12786716>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95287&periodId=565>
-
-- **Veranstaltungsart:** Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-### Lesen fördern - Pfann /Blockseminar: Lesen fördern im Anfangsunterricht - aber wie? Digitale und andere Möglichkeiten - Mittelseminar
-
-- **Segment:** `exam:12786701` · **unitId:** `89176`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17218|exam:12786672|exam:12786673|exam:12786674|exam:12786686|exam:12786687|exam:12786701>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89176&periodId=565>
-
-- **Veranstaltungsart:** Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 18:00–19:30 | 22.10.2025 | — |
-| Einzeltermin | Fr | 14:30–19:00 | 14.11.2025 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
-| Einzeltermin | Sa | 09:00–17:00 | 29.11.2025 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
-
-### Lesen fördern - Pfann /Blockseminar: Lesen fördern im Anfangsunterricht - aber wie? Digitale und andere Möglichkeiten - Mittelseminar
-
-- **Segment:** `exam:12786724` · **unitId:** `89176`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17218|exam:12786672|exam:12786673|exam:12786674|exam:12786686|exam:12786711|exam:12786724>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89176&periodId=565>
-
-- **Veranstaltungsart:** Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 18:00–19:30 | 22.10.2025 | — |
-| Einzeltermin | Fr | 14:30–19:00 | 14.11.2025 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
-| Einzeltermin | Sa | 09:00–17:00 | 29.11.2025 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
-
 ### MethEBF - EEBF Modul 3 - Einführung in die Methoden der Empirischen Bildungsforschung - Seminar
 
 - **Segment:** `exam:12786779` · **unitId:** `86923`
@@ -1112,42 +1050,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 14:00–15:30 | 14.10.2025–03.02.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
 
-### Mitbestimmungssensibel unterrichten?!  - Cejvan / Mitbestimmungssensibel unterrichten?! Gelingenselemente und Gestaltungsmöglichkeiten im Grundschulunterricht  - Mittelseminar
-
-- **Segment:** `exam:12786713` · **unitId:** `97770`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17218|exam:12786672|exam:12786673|exam:12786674|exam:12786686|exam:12786711|exam:12786713>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97770&periodId=565>
-
-- **Veranstaltungsart:** Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–15:30 | 14.10.2025–03.02.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
-
 ### SSEHDaZ - Ackerlauer/ Schriftspracherwerb unter den Aspekten von Heterogenität und Mehrsprachigkeit  und Deutsch als Zweitsprache - Mittelseminar
 
 - **Segment:** `exam:12786697` · **unitId:** `91372`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17218|exam:12786672|exam:12786673|exam:12786674|exam:12786686|exam:12786687|exam:12786697>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91372&periodId=565>
-
-- **Veranstaltungsart:** Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 11:30–13:00 | 13.10.2025–02.02.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
-
-### SSEHDaZ - Ackerlauer/ Schriftspracherwerb unter den Aspekten von Heterogenität und Mehrsprachigkeit  und Deutsch als Zweitsprache - Mittelseminar
-
-- **Segment:** `exam:12786720` · **unitId:** `91372`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17218|exam:12786672|exam:12786673|exam:12786674|exam:12786686|exam:12786711|exam:12786720>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91372&periodId=565>
 
 - **Veranstaltungsart:** Mittelseminar

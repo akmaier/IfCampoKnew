@@ -4435,7 +4435,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** jedes 2. Semester
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 

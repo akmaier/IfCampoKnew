@@ -732,6 +732,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
 - **Turnus:** in jedem Semester
 
+### Aktuelle Texte der Philosophie — Hauptseminar / Masterseminar
+
+- **Segment:** `unit:138124` · **unitId:** `138124`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138124&periodId=565>
+
+- **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Turnus:** in jedem Semester
+
 ### Aktuelle Texte der Philosophie (HS/MAS) — Kombiseminar
 
 - **Segment:** `unit:111714` · **unitId:** `111714`
@@ -803,6 +811,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
 
+### Bedeutung und Gebrauch — Hauptseminar / Masterseminar
+
+- **Segment:** `unit:138137` · **unitId:** `138137`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138137&periodId=565>
+
+- **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Turnus:** Unregelmäßig
+
 ### Business & Society in Latin America — Masterseminar
 
 - **Segment:** `unit:104366` · **unitId:** `104366`
@@ -812,19 +828,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
-### Das Problem des staatlichen Strafens — Hauptseminar / Masterseminar
+### Contemporary Approaches to Philosophical Method — Hauptseminar / Masterseminar
 
-- **Segment:** `unit:119070` · **unitId:** `119070`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119070&periodId=565>
+- **Segment:** `unit:138221` · **unitId:** `138221`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138221&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
-
-### Die Idee des Rechtsfriedens — Hauptseminar
-
-- **Segment:** `unit:115292` · **unitId:** `115292`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115292&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
+- **Turnus:** Unregelmäßig
 
 ### Economic History and Development of Europe and the Middle East — Masterseminar
 
@@ -966,6 +976,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Oberseminar
 
+### Philosophical Perspectives on Mental Well-Being — Hauptseminar / Masterseminar
+
+- **Segment:** `unit:138138` · **unitId:** `138138`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138138&periodId=565>
+
+- **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Turnus:** Unregelmäßig
+
 ### Philosophische Perspektiven auf die Emotion der Wut: Nussbaum, Srinivasan, Cherry — Hauptseminar / Masterseminar
 
 - **Segment:** `unit:122684` · **unitId:** `122684`
@@ -980,14 +998,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115618&periodId=565>
 
 - **Veranstaltungsart:** Kombiseminar
-
-### Recent Philosophical Perspectives on Understanding — Hauptseminar / Masterseminar
-
-- **Segment:** `unit:134435` · **unitId:** `134435`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134435&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
-- **Turnus:** Unregelmäßig
 
 ### Schriftliche Übersetzungsleistung Latein I für Anfänger (Zulassungsvoraussetzung zu Kurs Latein II für Fortgeschrittene)
 
@@ -1007,14 +1017,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:134044` · **unitId:** `134044`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134044&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
-- **Turnus:** Unregelmäßig
-
-### Thinking about the Future (and Trying to Shape It) — Hauptseminar / Masterseminar
-
-- **Segment:** `unit:126965` · **unitId:** `126965`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126965&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
 - **Turnus:** Unregelmäßig

@@ -1346,8 +1346,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Do | 09:00–18:00 | 23.10.2025 | 56701.03.033 |
-| Einzeltermin | Fr | 09:00–18:00 | 24.10.2025 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
-| Einzeltermin | Sa | 09:00–16:00 | 25.10.2025 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
+| Einzeltermin | Fr | 09:00–18:00 | 24.10.2025 | 56701.03.017 ( 03.017) |
+| Einzeltermin | Sa | 09:00–16:00 | 25.10.2025 | 56701.03.017 ( 03.017) |
 
 ### MA 3. FS: Einführungsübung (Modul: Gegenwartsfragen islamischer Religionsdiskurse) - Einführungskurs
 
@@ -1365,8 +1365,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Do | 09:00–18:00 | 23.10.2025 | 56701.03.033 |
-| Einzeltermin | Fr | 09:00–18:00 | 24.10.2025 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
-| Einzeltermin | Sa | 09:00–16:00 | 25.10.2025 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
+| Einzeltermin | Fr | 09:00–18:00 | 24.10.2025 | 56701.03.017 ( 03.017) |
+| Einzeltermin | Sa | 09:00–16:00 | 25.10.2025 | 56701.03.017 ( 03.017) |
 
 ### MA 3. FS: Einführungsübung (Modul: Gegenwartsfragen islamischer Religionsdiskurse) - Einführungskurs
 
@@ -1384,8 +1384,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Do | 09:00–18:00 | 23.10.2025 | 56701.03.033 |
-| Einzeltermin | Fr | 09:00–18:00 | 24.10.2025 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
-| Einzeltermin | Sa | 09:00–16:00 | 25.10.2025 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
+| Einzeltermin | Fr | 09:00–18:00 | 24.10.2025 | 56701.03.017 ( 03.017) |
+| Einzeltermin | Sa | 09:00–16:00 | 25.10.2025 | 56701.03.017 ( 03.017) |
 
 ### MA 3. FS: Seminar (Modul: Islamische Religionsphilosophie) - Seminar
 
@@ -1579,7 +1579,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Fr | 10:00–18:00 | 09.01.2026 | 56701.03.011 |
-| Einzeltermin | Sa | 10:00–18:00 | 10.01.2026 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
+| Einzeltermin | Sa | 10:00–18:00 | 10.01.2026 | 56701.03.017 ( 03.017) |
 | Einzeltermin | Fr | 10:00–16:00 | 16.01.2026 | 56701.03.011 |
 
 ### MA Medien-Ethik-Religion, 1. FS: Grundlagen im Schwerpunkt Religion: Theologie für Nichttheologen (Islam und Medien) - Seminar
@@ -1598,7 +1598,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Fr | 10:00–18:00 | 09.01.2026 | 56701.03.011 |
-| Einzeltermin | Sa | 10:00–18:00 | 10.01.2026 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
+| Einzeltermin | Sa | 10:00–18:00 | 10.01.2026 | 56701.03.017 ( 03.017) |
 | Einzeltermin | Fr | 10:00–16:00 | 16.01.2026 | 56701.03.011 |
 
 ### Medienethik: Themen und Diskurse - Online-Kurs
@@ -2771,7 +2771,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 10:15–11:45 | 14.10.2025–03.02.2026 | 06201.U1.031 (TSG U1.031 Bibliothek Systematische Theologie) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (91)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (94)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -3135,6 +3135,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:111468` · **unitId:** `111468`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111468&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+
+### Ethics Lab — Seminar
+
+- **Segment:** `unit:139394` · **unitId:** `139394`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139394&periodId=565>
 
 - **Veranstaltungsart:** Seminar
 
@@ -3530,6 +3537,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **Turnus:** nicht in diesem Semester
 
+### VL Dogmatik — Vorlesung
+
+- **Segment:** `unit:107198` · **unitId:** `107198`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107198&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.0
+- **Turnus:** nur im Sommersemester
+
 ### Vorlesung Neues Testament
 
 - **Segment:** `unit:128476` · **unitId:** `128476`
@@ -3610,3 +3626,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.0
 - **Turnus:** Unregelmäßig
+
+### „… als ob es Gott gäbe“. Die Praxis des Religionsunterrichts zwischen biblischen Gottesbildern und moderner Gottesverneinung — Hauptseminar
+
+- **Segment:** `unit:110256` · **unitId:** `110256`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110256&periodId=565>
+
+- **Veranstaltungsart:** Hauptseminar
+- **ECTS-Punkte:** 3.0
+- **Turnus:** nur im Sommersemester

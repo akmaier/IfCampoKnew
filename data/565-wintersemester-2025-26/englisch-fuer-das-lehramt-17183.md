@@ -2096,7 +2096,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mi | 16:15–17:45 | 15.10.2025–04.02.2026 | 05801.01.310 ( C 301 Übungsraum) |
 
-### GLC II & GLC II Plus - Übung
+### GLC I & GLC I Plus - Übung
 
 - **Segment:** `exam:12812556` · **unitId:** `86310`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12812533|exam:12812539|exam:12812554|exam:12812556>
@@ -2113,7 +2113,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Do | 08:30–10:00 | 16.10.2025–05.02.2026 | 00501.02.018 ( KH 2.018 Hörsaal Kollegienhaus (SR)) |
 
-### GLC II & GLC II Plus - Übung
+### GLC I & GLC I Plus - Übung
 
 - **Segment:** `exam:12812782` · **unitId:** `86310`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12812746|exam:12812753|exam:12812780|exam:12812782>
@@ -2130,7 +2130,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Do | 08:30–10:00 | 16.10.2025–05.02.2026 | 00501.02.018 ( KH 2.018 Hörsaal Kollegienhaus (SR)) |
 
-### GLC II & GLC II Plus - Übung
+### GLC I & GLC I Plus - Übung
 
 - **Segment:** `exam:12813392` · **unitId:** `86310`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813369|exam:12813375|exam:12813390|exam:12813392>
@@ -2147,7 +2147,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Do | 08:30–10:00 | 16.10.2025–05.02.2026 | 00501.02.018 ( KH 2.018 Hörsaal Kollegienhaus (SR)) |
 
-### GLC II & GLC II Plus - Übung
+### GLC I & GLC I Plus - Übung
 
 - **Segment:** `exam:12813608` · **unitId:** `86310`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813581|exam:12813585|exam:12813606|exam:12813608>
@@ -8966,7 +8966,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mi | 09:45–11:15 | 15.10.2025–04.02.2026 | 20301.U1.038 (U1.038 Seminarraum (50)) |
 
-### SZEAGLCII - GLC  1 II  GLC II Plus - Übung
+### SZEAGLCII - GLC II & GLC II Plus - Übung
 
 - **Segment:** `exam:12812557` · **unitId:** `93911`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12812533|exam:12812539|exam:12812554|exam:12812557>
@@ -8983,7 +8983,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Fr | 08:15–09:45 | 17.10.2025–06.02.2026 | 00501.02.018 ( KH 2.018 Hörsaal Kollegienhaus (SR)) |
 
-### SZEAGLCII - GLC  1 II  GLC II Plus - Übung
+### SZEAGLCII - GLC II & GLC II Plus - Übung
 
 - **Segment:** `exam:12812783` · **unitId:** `93911`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12812746|exam:12812753|exam:12812780|exam:12812783>
@@ -9000,7 +9000,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Fr | 08:15–09:45 | 17.10.2025–06.02.2026 | 00501.02.018 ( KH 2.018 Hörsaal Kollegienhaus (SR)) |
 
-### SZEAGLCII - GLC  1 II  GLC II Plus - Übung
+### SZEAGLCII - GLC II & GLC II Plus - Übung
 
 - **Segment:** `exam:12813393` · **unitId:** `93911`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813369|exam:12813375|exam:12813390|exam:12813393>
@@ -9017,7 +9017,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Fr | 08:15–09:45 | 17.10.2025–06.02.2026 | 00501.02.018 ( KH 2.018 Hörsaal Kollegienhaus (SR)) |
 
-### SZEAGLCII - GLC  1 II  GLC II Plus - Übung
+### SZEAGLCII - GLC II & GLC II Plus - Übung
 
 - **Segment:** `exam:12813609` · **unitId:** `93911`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813581|exam:12813585|exam:12813606|exam:12813609>

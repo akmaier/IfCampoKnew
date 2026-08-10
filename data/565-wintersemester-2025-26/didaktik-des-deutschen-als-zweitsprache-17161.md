@@ -5,7 +5,7 @@ campo_segment: "title:17161"
 campo_path: "title:16758|title:16763|title:17161"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17161"
 po_version_count: 0
-course_count: 178
+course_count: 176
 ---
 
 # Didaktik des Deutschen als Zweitsprache
@@ -14,12 +14,32 @@ course_count: 178
 
 _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theologie_  
 
-## Veranstaltungen (178)
+## Veranstaltungen (176)
 
 ### Alphabetisierung für Jugendliche und junge Erwachsene (vhb-Seminar) - Online-Kurs
 
-- **Segment:** `exam:15800109` · **unitId:** `131455`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17161|exam:13256333|exam:13256334|exam:13256335|exam:13256336|exam:13256343|exam:15800109>
+- **Segment:** `exam:17856158` · **unitId:** `131455`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17161|exam:13257989|exam:13257990|exam:13257991|exam:13257992|exam:13257998|exam:17856158>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131455&periodId=565>
+
+- **Veranstaltungsart:** Online-Kurs
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+### Alphabetisierung für Jugendliche und junge Erwachsene (vhb-Seminar) - Online-Kurs
+
+- **Segment:** `exam:17855883` · **unitId:** `131455`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17161|exam:13259622|exam:13259623|exam:13259624|exam:13259625|exam:13259631|exam:17855883>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131455&periodId=565>
+
+- **Veranstaltungsart:** Online-Kurs
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+### Alphabetisierung für Jugendliche und junge Erwachsene (vhb-Seminar) - Online-Kurs
+
+- **Segment:** `exam:17855874` · **unitId:** `131455`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17161|exam:13261255|exam:13261256|exam:13261257|exam:13261258|exam:13261264|exam:17855874>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131455&periodId=565>
 
 - **Veranstaltungsart:** Online-Kurs
@@ -28,8 +48,8 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### Analyse von Lehrmaterialien und Aufgabenstellungen - Seminar
 
-- **Segment:** `exam:13256340` · **unitId:** `94874`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17161|exam:13256333|exam:13256334|exam:13256335|exam:13256336|exam:13256337|exam:13256340>
+- **Segment:** `exam:17856544` · **unitId:** `94874`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17161|exam:13256333|exam:13256334|exam:13256335|exam:13256336|exam:13256337|exam:17856544>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94874&periodId=565>
 
 - **Veranstaltungsart:** Seminar
@@ -44,8 +64,8 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### Analyse von Lehrmaterialien und Aufgabenstellungen - Seminar
 
-- **Segment:** `exam:13723750` · **unitId:** `94874`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17161|exam:13256356|exam:13256357|exam:13256358|exam:13256359|exam:13256360|exam:13723750>
+- **Segment:** `exam:17856382` · **unitId:** `94874`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17161|exam:13256356|exam:13256357|exam:13256358|exam:13256359|exam:13256360|exam:17856382>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94874&periodId=565>
 
 - **Veranstaltungsart:** Seminar
@@ -60,8 +80,8 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### Analyse von Lehrmaterialien und Aufgabenstellungen - Seminar
 
-- **Segment:** `exam:13723743` · **unitId:** `94874`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17161|exam:13257989|exam:13257990|exam:13257991|exam:13257992|exam:13257993|exam:13723743>
+- **Segment:** `exam:17856573` · **unitId:** `94874`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17161|exam:13257989|exam:13257990|exam:13257991|exam:13257992|exam:13257993|exam:17856573>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94874&periodId=565>
 
 - **Veranstaltungsart:** Seminar
@@ -76,8 +96,8 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### Analyse von Lehrmaterialien und Aufgabenstellungen - Seminar
 
-- **Segment:** `exam:13723757` · **unitId:** `94874`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17161|exam:13259622|exam:13259623|exam:13259624|exam:13259625|exam:13259626|exam:13723757>
+- **Segment:** `exam:17856527` · **unitId:** `94874`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17161|exam:13259622|exam:13259623|exam:13259624|exam:13259625|exam:13259626|exam:17856527>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94874&periodId=565>
 
 - **Veranstaltungsart:** Seminar
@@ -92,8 +112,8 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### Analyse von Lehrmaterialien und Aufgabenstellungen - Seminar
 
-- **Segment:** `exam:13723626` · **unitId:** `94874`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17161|exam:13261255|exam:13261256|exam:13261257|exam:13261258|exam:13261259|exam:13723626>
+- **Segment:** `exam:17856332` · **unitId:** `94874`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17161|exam:13261255|exam:13261256|exam:13261257|exam:13261258|exam:13261259|exam:17856332>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94874&periodId=565>
 
 - **Veranstaltungsart:** Seminar
@@ -105,22 +125,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:00–15:30 | 13.10.2025–02.02.2026 | 75202.00.513 (St.Paul 00.513 (24)) |
-
-### Diagnosegestützte Sprachförderung in der Schule - Seminar
-
-- **Segment:** `exam:13724504` · **unitId:** `93360`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17161|exam:13256310|exam:13256311|exam:13256312|exam:13256313|exam:13256320|exam:13724504>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93360&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 09:45–11:15 | 14.10.2025–03.02.2026 | 75202.00.513 (St.Paul 00.513 (24)) |
 
 ### Diagnosegestützte Sprachförderung in der Schule - Seminar
 
@@ -369,24 +373,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Segment:** `exam:13256365` · **unitId:** `43551`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17161|exam:13256356|exam:13256357|exam:13256358|exam:13256359|exam:13256365>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43551&periodId=565>
-
-### 79370 Lehren und Lernen in der zweiten Sprache
-
-- **Segment:** `exam:13257998` · **unitId:** `58103`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17161|exam:13257989|exam:13257990|exam:13257991|exam:13257992|exam:13257998>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=58103&periodId=565>
-
-### 79370 Lehren und Lernen in der zweiten Sprache
-
-- **Segment:** `exam:13259631` · **unitId:** `64666`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17161|exam:13259622|exam:13259623|exam:13259624|exam:13259625|exam:13259631>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=64666&periodId=565>
-
-### 79370 Lehren und Lernen in der zweiten Sprache
-
-- **Segment:** `exam:13261264` · **unitId:** `66984`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17161|exam:13261255|exam:13261256|exam:13261257|exam:13261258|exam:13261264>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66984&periodId=565>
 
 ### 79371 Sprachvergleich unter didaktischen Aspekten
 

@@ -5,7 +5,7 @@ campo_segment: "exam:12199890"
 campo_path: "title:16758|title:16766|exam:12199890"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16766|exam:12199890"
 po_version_count: 0
-course_count: 43
+course_count: 44
 ---
 
 # - Philosophie und Sozialwissenschaften (FAU Scientia)  -
@@ -14,7 +14,7 @@ course_count: 43
 
 _Section: FAU Scientia Gaststudium_  
 
-## Veranstaltungen (43)
+## Veranstaltungen (44)
 
 ### Aristoteles: Nikomachische Ethik - Proseminar / Mittelseminar
 
@@ -116,6 +116,22 @@ _Section: FAU Scientia Gaststudium_
 |---|---|---|---|---|
 | wöchentlich | Fr | 10:00–12:00 | 17.10.2025–06.02.2026 | 05902.00.004 ( 00.4 PSG) |
 | Einzeltermin | Fr | 10:00–12:00 | 13.02.2026 | 05902.00.006 ( 00.6 PSG) |
+
+### Creative Writing: Fantasy Writing  - Seminar
+
+- **Segment:** `exam:17827629` · **unitId:** `130391`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16766|exam:12199890|exam:17827629>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130391&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:00–17:00 | 12.11.2025–17.12.2025 | 05801.02.111 ( PSG A 402) |
 
 ### Das politische System der Bundesrepublik - Vorlesung
 
@@ -419,7 +435,7 @@ _Section: FAU Scientia Gaststudium_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Fr | 10:00–18:00 | 09.01.2026 | 56701.03.011 |
-| Einzeltermin | Sa | 10:00–18:00 | 10.01.2026 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
+| Einzeltermin | Sa | 10:00–18:00 | 10.01.2026 | 56701.03.017 ( 03.017) |
 | Einzeltermin | Fr | 10:00–16:00 | 16.01.2026 | 56701.03.011 |
 
 ### Philosophie der Empathie - Proseminar / Mittelseminar

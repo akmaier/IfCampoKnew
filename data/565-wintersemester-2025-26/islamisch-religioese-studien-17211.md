@@ -899,10 +899,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Sa | 18:00–19:30 | 15.11.2025 | — |
-| Einzeltermin | Fr | 15:00–18:00 | 21.11.2025 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
-| Einzeltermin | Sa | 10:00–16:00 | 22.11.2025 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
-| Einzeltermin | Fr | 15:00–18:00 | 19.12.2025 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
-| Einzeltermin | Sa | 10:00–16:00 | 20.12.2025 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
+| Einzeltermin | Fr | 15:00–18:00 | 21.11.2025 | 56701.03.017 ( 03.017) |
+| Einzeltermin | Sa | 10:00–16:00 | 22.11.2025 | 56701.03.017 ( 03.017) |
+| Einzeltermin | Fr | 15:00–18:00 | 19.12.2025 | 56701.03.017 ( 03.017) |
+| Einzeltermin | Sa | 10:00–16:00 | 20.12.2025 | 56701.03.017 ( 03.017) |
 
 ### Kompetenzorientierte Sira-und Hadithdidaktik   Modul III Hadith/Sunna - Seminar
 
@@ -919,10 +919,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Sa | 18:00–19:30 | 15.11.2025 | — |
-| Einzeltermin | Fr | 15:00–18:00 | 21.11.2025 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
-| Einzeltermin | Sa | 10:00–16:00 | 22.11.2025 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
-| Einzeltermin | Fr | 15:00–18:00 | 19.12.2025 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
-| Einzeltermin | Sa | 10:00–16:00 | 20.12.2025 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
+| Einzeltermin | Fr | 15:00–18:00 | 21.11.2025 | 56701.03.017 ( 03.017) |
+| Einzeltermin | Sa | 10:00–16:00 | 22.11.2025 | 56701.03.017 ( 03.017) |
+| Einzeltermin | Fr | 15:00–18:00 | 19.12.2025 | 56701.03.017 ( 03.017) |
+| Einzeltermin | Sa | 10:00–16:00 | 20.12.2025 | 56701.03.017 ( 03.017) |
 
 ### Kompetenzorientierte Sira-und Hadithdidaktik   Modul III Hadith/Sunna - Seminar
 
@@ -939,10 +939,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Sa | 18:00–19:30 | 15.11.2025 | — |
-| Einzeltermin | Fr | 15:00–18:00 | 21.11.2025 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
-| Einzeltermin | Sa | 10:00–16:00 | 22.11.2025 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
-| Einzeltermin | Fr | 15:00–18:00 | 19.12.2025 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
-| Einzeltermin | Sa | 10:00–16:00 | 20.12.2025 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
+| Einzeltermin | Fr | 15:00–18:00 | 21.11.2025 | 56701.03.017 ( 03.017) |
+| Einzeltermin | Sa | 10:00–16:00 | 22.11.2025 | 56701.03.017 ( 03.017) |
+| Einzeltermin | Fr | 15:00–18:00 | 19.12.2025 | 56701.03.017 ( 03.017) |
+| Einzeltermin | Sa | 10:00–16:00 | 20.12.2025 | 56701.03.017 ( 03.017) |
 
 ### Kompetenzorientierte Sira-und Hadithdidaktik   Modul III Hadith/Sunna - Seminar
 
@@ -959,10 +959,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Sa | 18:00–19:30 | 15.11.2025 | — |
-| Einzeltermin | Fr | 15:00–18:00 | 21.11.2025 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
-| Einzeltermin | Sa | 10:00–16:00 | 22.11.2025 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
-| Einzeltermin | Fr | 15:00–18:00 | 19.12.2025 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
-| Einzeltermin | Sa | 10:00–16:00 | 20.12.2025 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
+| Einzeltermin | Fr | 15:00–18:00 | 21.11.2025 | 56701.03.017 ( 03.017) |
+| Einzeltermin | Sa | 10:00–16:00 | 22.11.2025 | 56701.03.017 ( 03.017) |
+| Einzeltermin | Fr | 15:00–18:00 | 19.12.2025 | 56701.03.017 ( 03.017) |
+| Einzeltermin | Sa | 10:00–16:00 | 20.12.2025 | 56701.03.017 ( 03.017) |
 
 ### Koran I, BA, 1. FS - Vorlesung
 
@@ -1093,8 +1093,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Di | 16:15–17:45 | 21.10.2025 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
-| Blockveranstaltung | — | 10:00–18:00 | 12.12.2025 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
+| Einzeltermin | Di | 16:15–17:45 | 21.10.2025 | 56701.03.017 ( 03.017) |
+| Blockveranstaltung | — | 10:00–18:00 | 12.12.2025 | 56701.03.017 ( 03.017) |
 
 ### Lektüreübung zu Textgrundlagen Islamisch-Religiöser Forschung, MA - Übung
 
@@ -1214,8 +1214,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Do | 09:00–18:00 | 23.10.2025 | 56701.03.033 |
-| Einzeltermin | Fr | 09:00–18:00 | 24.10.2025 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
-| Einzeltermin | Sa | 09:00–16:00 | 25.10.2025 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
+| Einzeltermin | Fr | 09:00–18:00 | 24.10.2025 | 56701.03.017 ( 03.017) |
+| Einzeltermin | Sa | 09:00–16:00 | 25.10.2025 | 56701.03.017 ( 03.017) |
 
 ### MA 3. FS: Seminar (Modul: Islamische Religionsphilosophie) - Seminar
 
@@ -1558,8 +1558,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Di | 14:00–16:00 | 21.10.2025 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
-| wöchentlich | Do | 12:00–14:00 | 23.10.2025–05.02.2026 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) 56701.03.033 |
+| Einzeltermin | Di | 14:00–16:00 | 21.10.2025 | 56701.03.017 ( 03.017) |
+| wöchentlich | Do | 12:00–14:00 | 23.10.2025–05.02.2026 | 56701.03.017 ( 03.[Telefon entfernt].03.033 |
 
 ### Normenlehre I, BA, 1. FS - Seminar
 
@@ -1576,8 +1576,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Di | 14:00–16:00 | 21.10.2025 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
-| wöchentlich | Do | 12:00–14:00 | 23.10.2025–05.02.2026 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) 56701.03.033 |
+| Einzeltermin | Di | 14:00–16:00 | 21.10.2025 | 56701.03.017 ( 03.017) |
+| wöchentlich | Do | 12:00–14:00 | 23.10.2025–05.02.2026 | 56701.03.017 ( 03.[Telefon entfernt].03.033 |
 
 ### Normenlehre I, BA, 1. FS - Seminar
 
@@ -1594,8 +1594,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Di | 14:00–16:00 | 21.10.2025 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
-| wöchentlich | Do | 12:00–14:00 | 23.10.2025–05.02.2026 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) 56701.03.033 |
+| Einzeltermin | Di | 14:00–16:00 | 21.10.2025 | 56701.03.017 ( 03.017) |
+| wöchentlich | Do | 12:00–14:00 | 23.10.2025–05.02.2026 | 56701.03.017 ( 03.[Telefon entfernt].03.033 |
 
 ### Propädeutikum (1. FS, Ein-Fach-BA) - Propädeutische Übung
 
@@ -1646,7 +1646,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Di | 14:00–16:00 | 21.10.2025 | — |
-| Blockveranstaltung | — | 10:00–18:00 | 30.01.2026 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
+| Blockveranstaltung | — | 10:00–18:00 | 30.01.2026 | 56701.03.017 ( 03.017) |
 
 ### Textgrundlagen Islamisch-Religiöser Forschung, MA, 1. FS - Vorlesung
 
@@ -1662,9 +1662,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 10:00–18:00 | 23.01.2026 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
-| Einzeltermin | Sa | 10:00–18:00 | 24.01.2026 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
-| Einzeltermin | So | 10:00–14:00 | 25.01.2026 | 56701.03.017 (Dep. Islam-Relig. Studien (DIRS)) |
+| Einzeltermin | Fr | 10:00–18:00 | 23.01.2026 | 56701.03.017 ( 03.017) |
+| Einzeltermin | Sa | 10:00–18:00 | 24.01.2026 | 56701.03.017 ( 03.017) |
+| Einzeltermin | So | 10:00–14:00 | 25.01.2026 | 56701.03.017 ( 03.017) |
 
 ### 1700 Interreligiöses Wahlmodul
 
@@ -2850,7 +2850,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 12:00–13:00 | 14.10.2025–03.02.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (32)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (35)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -2871,6 +2871,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** in jedem Semester
+
+### Analysing Audiovisual Culture in Digital Humanities — Seminar
+
+- **Segment:** `unit:139354` · **unitId:** `139354`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139354&periodId=565>
+
+- **Veranstaltungsart:** Seminar
 
 ### Arabisch II (B.A. Islamisch-Religiöse Studien) — Übung
 
@@ -2972,6 +2979,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **Turnus:** nur im Sommersemester
+
+### Essentials of Data Visualisation in Digital Humanities — Seminar
+
+- **Segment:** `unit:139355` · **unitId:** `139355`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139355&periodId=565>
+
+- **Veranstaltungsart:** Seminar
 
 ### Hadith I, BA, 2. FS — Vorlesung
 
@@ -3171,3 +3185,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Do | Do | 14:00–16:00 | 07.12.2025 23:59:59 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
+
+### Ü "Theologie trifft Astronomie: Komplementäre Perspektiven auf bedeutende Orte und Zeiten im islamischen Ritus" — Übung
+
+- **Segment:** `unit:117382` · **unitId:** `117382`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117382&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** Unregelmäßig

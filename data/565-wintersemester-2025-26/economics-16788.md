@@ -5,7 +5,7 @@ campo_segment: "title:16788"
 campo_path: "title:16758|title:16767|title:16788"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16788"
 po_version_count: 6
-course_count: 487
+course_count: 493
 fau_studiengang:
   - title: "Economics (M.Sc.)"
     rel_path: "studiengang/economics-m-sc.md"
@@ -212,7 +212,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Campo-Segment:** `exam:13708076`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16788|exam:13706358|exam:13706359|exam:13706365|exam:13706396|exam:13706670|exam:13708076>
 
-## Veranstaltungen (487)
+## Veranstaltungen (493)
 
 ### Game Theory - Vorlesung
 
@@ -1452,6 +1452,18 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16788|exam:13706358|exam:13706359|exam:13706365|exam:13706396|exam:13706594|exam:13706615>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46449&periodId=565>
 
+### 53202 Game theory
+
+- **Segment:** `exam:17857407` · **unitId:** `139696`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16788|exam:11983350|exam:11983351|exam:11983357|exam:11983358|exam:17857407>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139696&periodId=565>
+
+### 53202 Game theory
+
+- **Segment:** `exam:17857419` · **unitId:** `139696`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16788|exam:13706358|exam:13706359|exam:13706365|exam:13706366|exam:17857419>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139696&periodId=565>
+
 ### 53281 Behavioral economics
 
 - **Segment:** `exam:11983424` · **unitId:** `32434`
@@ -2448,6 +2460,18 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16788|exam:13706358|exam:13706359|exam:13706365|exam:13706396|exam:13706670|exam:13707021>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=77785&periodId=565>
 
+### 55923 Arbeitsmarkt und Haushalt
+
+- **Segment:** `exam:17855587` · **unitId:** `139664`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16788|exam:11983350|exam:11983351|exam:11983357|exam:11983388|exam:11983698|exam:17855587>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139664&periodId=565>
+
+### 55923 Arbeitsmarkt und Haushalt
+
+- **Segment:** `exam:17855599` · **unitId:** `139664`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16788|exam:13706358|exam:13706359|exam:13706365|exam:13706396|exam:13706670|exam:17855599>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139664&periodId=565>
+
 ### 55960 Spatial economics
 
 - **Segment:** `exam:11983435` · **unitId:** `32437`
@@ -2994,6 +3018,18 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16788|exam:13706358|exam:13706359|exam:13706365|exam:13706396|exam:13706461|exam:13706533>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=52009&periodId=565>
 
+### 57426 Redistributive policies: Theory and applications
+
+- **Segment:** `exam:17855056` · **unitId:** `139653`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16788|exam:11983350|exam:11983351|exam:11983357|exam:11983388|exam:11983551|exam:17855056>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139653&periodId=565>
+
+### 57426 Redistributive policies: Theory and applications
+
+- **Segment:** `exam:17855086` · **unitId:** `139653`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16788|exam:13706358|exam:13706359|exam:13706365|exam:13706396|exam:13706542|exam:17855086>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139653&periodId=565>
+
 ### 57444 Wertorientiertes Controlling
 
 - **Segment:** `exam:15763594` · **unitId:** `134915`
@@ -3174,13 +3210,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16788|exam:13706358|exam:13706359|exam:13706365|exam:13706396|exam:13706670|exam:13708445>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127709&periodId=565>
 
-### 57496 Critical approaches to international economic relations - lessons from sustainability
+### 57496 Critical approach to international economic relations - lessons from sustainability
 
 - **Segment:** `exam:13695354` · **unitId:** `132068`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16788|exam:11983350|exam:11983351|exam:11983357|exam:11983388|exam:11983698|exam:13695354>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132068&periodId=565>
 
-### 57496 Critical approaches to international economic relations - lessons from sustainability
+### 57496 Critical approach to international economic relations - lessons from sustainability
 
 - **Segment:** `exam:13708473` · **unitId:** `132068`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16788|exam:13706358|exam:13706359|exam:13706365|exam:13706396|exam:13706670|exam:13708473>
@@ -4326,7 +4362,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
-### Critical approaches to international economic relations - lessons from sustainability
+### Critical approach to international economic relations - lessons from sustainability
 
 - **Segment:** `unit:132066` · **unitId:** `132066`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132066&periodId=565>
@@ -6487,6 +6523,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.5
 - **Turnus:** Unregelmäßig
 
+### Geschichte der Philosophie des Geistes im 20. Jahrhundert — Vorlesung
+
+- **Segment:** `unit:138147` · **unitId:** `138147`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138147&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.5
+- **Turnus:** Unregelmäßig
+
 ### Gesundheitsökonomische Evaluationen I — Seminar
 
 - **Segment:** `unit:93297` · **unitId:** `93297`
@@ -8369,15 +8414,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Do | Do | 15:15–16:15 | — | 21101.00.142 (LG 0.142 (98 Plätze) Übungsraum) |
-
-### Philosophy of the Emotions — Vorlesung
-
-- **Segment:** `unit:122736` · **unitId:** `122736`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122736&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** Unregelmäßig
 
 ### Phonetik
 

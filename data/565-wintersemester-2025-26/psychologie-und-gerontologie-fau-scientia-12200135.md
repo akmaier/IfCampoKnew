@@ -5,7 +5,7 @@ campo_segment: "exam:12200135"
 campo_path: "title:16758|title:16766|exam:12200135"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16766|exam:12200135"
 po_version_count: 0
-course_count: 19
+course_count: 17
 ---
 
 # - Psychologie und Gerontologie (FAU Scientia)  -
@@ -14,7 +14,7 @@ course_count: 19
 
 _Section: FAU Scientia Gaststudium_  
 
-## Veranstaltungen (19)
+## Veranstaltungen (17)
 
 ### Biologische Psychologie - Vorlesung
 
@@ -103,39 +103,22 @@ _Section: FAU Scientia Gaststudium_
 | Einzeltermin | Di | 09:00–18:00 | 11.11.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 | Einzeltermin | Mi | 09:00–18:00 | 12.11.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
-### 1302 Aktuelle Forschung in der Psychogerontologie (Master- und Forschungskolloquium) (semesterbegleitend) - Kolloquium
+### 1502 Ausgewählte Methoden der psychogerontologischen Intervention Kurs B - Seminar
 
-- **Segment:** `exam:12200167` · **unitId:** `83733`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16766|exam:12200135|exam:12200167>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83733&periodId=565>
-
-- **Veranstaltungsart:** Kolloquium
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 13:00–14:30 | 20.10.2025–02.02.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
-
-### 1702 Wahlpflichtseminar II Kurs A - Seminar
-
-- **Segment:** `exam:15793497` · **unitId:** `90282`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16766|exam:12200135|exam:15793497>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90282&periodId=565>
+- **Segment:** `exam:17846787` · **unitId:** `95066`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16766|exam:12200135|exam:17846787>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95066&periodId=565>
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.0
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 09:00–18:00 | 24.10.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
+| Einzeltermin | Di | 09:00–18:00 | 20.01.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 201 Theorien und Ethik der Gerontologie - Hauptseminar
 
@@ -154,23 +137,6 @@ _Section: FAU Scientia Gaststudium_
 |---|---|---|---|---|
 | Einzeltermin | Di | 09:00–18:00 | 25.11.2025 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 | Einzeltermin | Mi | 09:00–18:00 | 28.01.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
-
-### 202 - Grundlagen der Gerontologie - Seminar
-
-- **Segment:** `exam:12200173` · **unitId:** `103254`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16766|exam:12200135|exam:12200173>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103254&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch oder Englisch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 09:00–18:00 | 13.01.2026 | 21301.00.047 (00.047 Hörsaal des Interdisziplinären Centrums für Alternsforschung (ICA)) |
 
 ### 701 Grundlagen der gerontologischen Diagnostik - Hauptseminar
 
