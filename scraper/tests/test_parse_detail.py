@@ -79,7 +79,9 @@ def test_chor_appointment_has_one_instructor(chor_html):
     c = parse_course_detail(chor_html, unit_id=92769, period_id=589)
     assert len(c.appointments) == 1
     insts = c.appointments[0].instructors
-    # Should be exactly one — Person C
+    # Should be exactly one — the anonymised "Person C" placeholder
+    # (fixtures no longer carry the original real name; see the
+    # DSGVO anon pass in `scratchpad/anon_fixtures.py`).
     assert len(insts) == 1
     assert "Person C" in insts[0]
 
@@ -109,11 +111,12 @@ def test_instructors_fallback_when_no_li():
     assert out == ["Person C"]
 
 def test_basic_data_instructors_handle_multi_li():
-    """Regression: the user reported "Fixture Person Alpha PD Dr. habil. Tobias
-    Fey Dr.-Ing. Fixture Gamma Fixture Delta" glued into one string. The
-    course's "Verantwortliche/-r" block holds a <ul><li>...</li></ul> that
-    the old `_parse_instructors` flattened to text. The new code must walk
-    the <li> structurally."""
+    """Regression: originally reported as four visible instructors glued
+    into one string. The course's "Verantwortliche/-r" block holds a
+    <ul><li>...</li></ul> that the old `_parse_instructors` flattened to
+    text. The new code must walk the <li> structurally. Placeholder
+    names below — real fixture names were anonymised as part of the
+    DSGVO sweep (see ``data_protection.md``)."""
     from parse_detail import _parse_instructors  # noqa: WPS433
     html = """
     <fieldset>
