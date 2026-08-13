@@ -406,7 +406,8 @@ def test_cross_listing_render_synthetic_corpus(tmp_path):
                 "title": "Seminar Large Language Models in Medicine",
                 "permalink": "https://www.campo.fau.de/...&unitId=136825&periodId=589",
                 "course_type": "Seminar",
-                "instructors_resp": ["Person A"],
+                # DSGVO: fixture omits real names; render ignores this field anyway.
+                "instructors_resp": [],
                 "appointments": [],
                 "org_unit": "Lehrstuhl für Informatik 5 (Mustererkennung) (Verantwortlicher)",
                 "assigned_programs": [

@@ -83,19 +83,22 @@ jobs:
           python scraper/ocr_po_anlagen.py --pdfs tmp/fau-pdfs --data data -v
         continue-on-error: true
 
-      - name: Pull FAUdir Professor:innen-Index
+      # NOTE: the "Pull FAUdir Professor:innen-Index" step was removed
+      # as part of the DSGVO minimisation sweep (2026-08-13). See
+      # ``data_protection.md`` and the removal of
+      # ``scraper/faudir_scrape.py`` in the same commit.
+
+      - name: DSGVO — sanitize personal data from any newly-scraped FAU content
         run: |
-          python scraper/faudir_scrape.py \
-            --out data/personen/faudir-INDEX.md \
-            --interval 0.5 \
-            -v
+          python scraper/sanitize_corpus.py data -v
+          python scraper/sanitize_corpus.py --check-only data
 
       - name: Commit corpus changes
         id: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/studiengang data/pruefungsordnungen data/personen data/analyse 2>/dev/null || true
+          git add data/studiengang data/pruefungsordnungen data/analyse 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "No corpus changes — skipping commit."

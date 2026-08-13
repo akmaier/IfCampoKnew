@@ -2179,3 +2179,113 @@ split into more jobs, or self-hosted runners.
 verify the seminar lands in all 5 Studiengang files straight from CI
 and that `personen/INDEX.md` no longer links the phantom
 `nicht-im-katalog-auf-tiefe-4-0.md`.
+
+## Entry 0033 — DSGVO minimisation sweep: personal data out of the corpus
+
+**Prompt (verbatim)**
+
+> Read README:md in detail. Then make us DGSVO safe: … [full 7-step
+> German brief from the user; abridged here for space — original stored
+> in the assistant transcript]. Ziel: Datenminimierung. Der veröffent-
+> lichte Korpus enthält keine personenbezogenen Daten mehr, der nicht-
+> personenbezogene Modul-/Studiengangs-/PO-Korpus bleibt vollständig
+> erhalten und die wöchentliche Pipeline läuft weiter — sauber.
+
+**Time window.** 2026-08-13 T ~11:10–13:00 local. Roughly 1 h 50 min
+of assistant work; user was interactive throughout.
+
+**What was published before this sweep (the problem).** Along with the
+module/PO/Studiengang content the RAG use-case needs, the corpus was
+also republishing:
+
+* `data/personen/` — 136 files, ~15 MB, listing every named lecturer
+  from Campo (~4 020 unique persons, 62 021 teaching mentions) and the
+  full FAUdir Professor:innen-Index (emails, phone numbers, W-ranks,
+  affiliations, FAUdir IDs).
+* `data/analyse/profs-pflichtlehre.md` (2.9 MB), `lehrende-ohne-
+  pflicht.md` (2.4 MB), `pflichtveranstaltungen.md` (6.2 MB) — three
+  aggregated teaching-load profiles per person.
+* Inside every merged program file under `data/{period}/`: 122 093
+  `Verantwortlich:` bullets and 141 326 `Dozent/-in` column cells.
+* Every GitHub Release since May 2026 shipped a `-courses.json`
+  intermediate carrying raw `instructors_resp` / `instructors_exec`
+  fields.
+
+Public availability doesn't remove GDPR duties from a re-publisher;
+aggregation and re-publishing is a separate processing operation and
+the RAG use-case doesn't need any of it. **Data minimisation** is the
+right lever.
+
+**What changed (working tree).**
+
+1. **Deletions** — `data/personen/` in full, plus the three
+   person-carrying analyse files. `data/analyse/pflichtmodule.md`
+   stays: it lists module names from PO tables and contains no
+   personal data.
+2. **`scraper/sanitize_corpus.py`** (new) — pure-function sanitizer.
+   Rules: strip `## Lehrende` blocks and personal-role bullets
+   (`Verantwortlich:`, `Durchführend:`, `Modulverantwortlich:`,
+   `Ansprechpartner:`, `Kontakt:`); drop the Dozent/-in column from
+   every Termine table; redact `@fau.de` and `@…uni-erlangen.de`
+   emails and DE-format phones everywhere; replace standalone
+   `Prof. Dr. …` name lines in `data/studiengang/**` only. Doubles
+   as a git-filter-repo blob callback via `sanitize_bytes(blob,
+   path=…)`.
+3. **Ran the sweep** — 3 698 / 3 975 markdown files touched, -14.5 MB.
+   A second `--check-only` pass returned 0 hits.
+4. **`scraper/render_markdown.py`** — the two instructor emit sites
+   (the top-level course page and the inline merged-program section)
+   both stripped down: no `## Lehrende`, no Dozent/-in column, and
+   Termine tables shrink from 6 to 5 columns. Docstrings/comments
+   updated.
+5. **Deleted scripts** — `scraper/faudir_scrape.py`,
+   `scraper/people_index.py`, `scraper/analyze_pflicht.py`, plus
+   `scraper/tests/test_people_index.py`. Only
+   `extract_pflicht_module.py` (module names, no names) survives.
+6. **Test fixture** — `test_render_markdown.py` had one course
+   fixture with a real name (`"instructors_resp": ["Annette
+   Schwarz"]`); replaced by `[]` (the render code ignores the field
+   anyway).
+7. **`scraper/tests/test_sanitize_corpus.py`** (new) — 25 tests
+   covering each rule + edge cases (short numbers preserved, prose
+   name preserved, non-fau emails preserved, non-.md blobs pass
+   through). All green; full suite 159/159.
+8. **`.github/workflows/scrape-weekly.yml`** — removed the `faudir`
+   job entirely, the download step for its artifacts, the
+   `people_index` aggregate step, and the `analyze_pflicht` step.
+   Added a `sanitize_corpus --check-only` gate right after render.
+   Dropped `*-courses.json` from release-asset upload (kept the
+   catalogue-tree JSONs, which carry no personal data).
+9. **`.github/workflows/scrape-monthly-fau.yml`** — removed the
+   `faudir_scrape.py` step, added a sanitize sweep + check-only gate,
+   dropped `data/personen` from `git add`.
+10. **Docs** — new `data_protection.md` (data minimisation, layered
+    enforcement, retention ≤1 year, legal basis Art. 6 Abs. 1 lit. e
+    DSGVO i. V. m. BayHIG/BayDSG (subject to FAU DSB review),
+    contact for erasure). New DSGVO section in `README.md`. Note in
+    `data/README.md` (the RAG guide inside the zip).
+
+**Verification (working tree).**
+
+```
+$ python3 scraper/sanitize_corpus.py --check-only data
+sanitize_corpus: scanned 3975 files under data — would change 0; -0 bytes
+$ scraper/.venv/bin/python -m pytest scraper/tests/ -q
+159 passed in 0.77s
+```
+
+**Still to do (with the user's go-ahead).**
+
+* History rewrite via `git filter-repo`: nuke `data/personen/`,
+  the three person-carrying analyse files, and
+  `scraper/{faudir_scrape,people_index,analyze_pflicht}.py` from all
+  history; run `sanitize_bytes` as blob-callback across every
+  historic `.md` blob to strip the inlined names too.
+* Delete/re-cut every affected GitHub Release so the assets no
+  longer contain personal data (`*-courses.json` in particular).
+* Force-push. This is destructive to shared state; the user was
+  asked to explicitly authorise before it runs.
+
+The full local mirror at `/Users/maier/Documents/code/IfCampoKnew-
+backup/IfCampoKnew.git` is the pre-rewrite baseline should anything
+need to be recovered.

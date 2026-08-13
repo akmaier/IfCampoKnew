@@ -22,7 +22,11 @@ to a GitHub Release as a ZIP. See
    `589-sommersemester-2026/informatik-17949.md` is a self-contained answer
    surface for almost any question about the Informatik program in SoSe 2026:
    the FAU.de marketing page, every PO-version, every course event with its
-   schedule and instructors, and links to the matching PO PDFs.
+   schedule (rooms + timing), and links to the matching PO PDFs.
+
+   *Personal data (instructor / responsible-person names, emails, phone
+   numbers) is intentionally not included — see
+   [`../data_protection.md`](../data_protection.md).*
 3. **The big regulation PDFs live separately.** When a user asks something
    that requires the legal text of a regulation (precise grading rules,
    admission requirements, allowed elective combinations) follow the link

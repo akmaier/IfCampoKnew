@@ -13,7 +13,10 @@
                                        #   • every course attached to any leaf in
                                        #     the program's subtree inlined as
                                        #     ``### Title — Type`` with full
-                                       #     Eckdaten + Termine + instructors,
+                                       #     Eckdaten + Termine (personal
+                                       #     data such as instructor names
+                                       #     is omitted — see
+                                       #     ``data_protection.md``),
                                        #   • Lehramts-Prüfungsordnungen list when
                                        #     the program is a Lehramt-subject node.
 
@@ -179,23 +182,16 @@ def render_course_md(node: dict, course: dict, period_id: int, period_name: str)
             lines.append(f"| {k} | {_md_escape_cell(str(v))} |")
         lines.append("")
 
-    # Verantwortliche / Durchführende
-    inst_resp = course.get("instructors_resp") or []
-    inst_exec = course.get("instructors_exec") or []
-    if inst_resp or inst_exec:
-        lines.append("## Lehrende\n")
-        if inst_resp:
-            lines.append(f"- **Verantwortlich:** {', '.join(inst_resp)}")
-        if inst_exec:
-            lines.append(f"- **Durchführend:** {', '.join(inst_exec)}")
-        lines.append("")
+    # DSGVO: instructor/Verantwortlich data intentionally omitted — see
+    # ``data_protection.md``. The organisational unit (Lehrstuhl) is still
+    # emitted below via the "Organisation / Studiengänge" block.
 
     # Termine
     appts = course.get("appointments") or []
     lines.append("## Termine\n")
     if appts:
-        lines.append("| Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |")
-        lines.append("|---|---|---|---|---|---|")
+        lines.append("| Rhythmus | Tag | Zeit | Datum von–bis | Raum |")
+        lines.append("|---|---|---|---|---|")
         for a in appts:
             time_cell = (
                 f"{a['time_from']}–{a['time_to']}"
@@ -217,7 +213,6 @@ def render_course_md(node: dict, course: dict, period_id: int, period_name: str)
                         time_cell,
                         date_cell,
                         a.get("room"),
-                        ", ".join(a.get("instructors") or []) or None,
                     ]
                 )
                 + " |"
@@ -288,9 +283,9 @@ def render_leaf_md(node: dict, period_id: int, period_name: str) -> str:
     lines.append("## Status\n")
     lines.append(
         "This is a leaf at the catalogue depth scraped. The Campo permalink above "
-        "navigates to this node. Course-level details (instructors, schedules, "
-        "Inhalte) are not yet attached and will be filled in by a later scraper "
-        "pass that joins to the search-flow."
+        "navigates to this node. Course-level details (schedules, Inhalte) are not "
+        "yet attached and will be filled in by a later scraper pass that joins to "
+        "the search-flow."
     )
     lines.append("")
     return "\n".join(lines).lstrip("\n")
@@ -746,22 +741,16 @@ def _course_h3_section(node: dict, course: dict, period_id: int) -> str:
         for k, v in eckdaten:
             lines.append(f"- **{k}:** {v}")
 
-    inst_resp = course.get("instructors_resp") or []
-    inst_exec = course.get("instructors_exec") or []
-    if inst_resp or inst_exec:
-        lines.append("")
-        if inst_resp:
-            lines.append(f"- **Verantwortlich:** {', '.join(inst_resp)}")
-        if inst_exec:
-            lines.append(f"- **Durchführend:** {', '.join(inst_exec)}")
+    # DSGVO: instructor/Verantwortlich data intentionally omitted from the
+    # inline course block — see ``data_protection.md``.
 
     appts = course.get("appointments") or []
     if appts:
         lines.append("")
         lines.append("#### Termine")
         lines.append("")
-        lines.append("| Rhythmus | Tag | Zeit | Datum von–bis | Raum | Dozent/-in |")
-        lines.append("|---|---|---|---|---|---|")
+        lines.append("| Rhythmus | Tag | Zeit | Datum von–bis | Raum |")
+        lines.append("|---|---|---|---|---|")
         for a in appts:
             time_cell = (
                 f"{a['time_from']}–{a['time_to']}"
@@ -783,7 +772,6 @@ def _course_h3_section(node: dict, course: dict, period_id: int) -> str:
                         time_cell,
                         date_cell,
                         a.get("room"),
-                        ", ".join(a.get("instructors") or []) or None,
                     ]
                 )
                 + " |"
@@ -913,7 +901,8 @@ def render_program_md(
       * every PO-version under the program with permalinks +
         year-matched dated PDF references,
       * every course attached to any leaf in the subtree (full Eckdaten +
-        Termine + instructors),
+        Termine — personal data such as instructor names is omitted; see
+        ``data_protection.md``),
       * a Lehramts-Prüfungsordnungen list when the program has no
         Studiengang match but matches Lehramt PDFs.
 
@@ -1149,7 +1138,8 @@ def render_corpus(
       * ``out/{period}/INDEX.md`` — programs grouped by section.
       * ``out/{period}/{program-slug-id}.md`` — one merged file per Campo
         depth-3 program, with FAU.de Studiengang inline + every PO-version
-        + every course (Eckdaten + Termine + instructors).
+        + every course (Eckdaten + Termine; personal data such as
+        instructor names is omitted — see ``data_protection.md``).
     """
     period_id: int = snapshot["periodId"]
     period_name: str = snapshot["periodName"]

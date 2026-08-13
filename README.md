@@ -22,7 +22,7 @@ data/
 │   └── {program-slug-id}.md                  # ★ ONE merged file per program:
 │                                             #   • FAU.de Studiengang inline (Steckbrief, sections)
 │                                             #   • every PO-version with permalinks + dated PDFs
-│                                             #   • every course (Eckdaten + Termine + instructors)
+│                                             #   • every course (Eckdaten + Termine — no personal data)
 │                                             #   • Lehramts-Prüfungsordnungen (when applicable)
 ├── studiengang/                              # FAU.de Studiengang pages (raw, also inlined above)
 │   └── {slug}.md
@@ -80,7 +80,7 @@ Browse the result under `data/`.
 | Public-surface analysis | ✅ | What Campo exposes anonymously; HTTP/JSF mechanics; deep-link patterns. |
 | Requirements (v1 → v2 pivot) | ✅ | v1 was a Web Components UI; v2 is the markdown corpus. |
 | Catalogue scrape (Campo) | ✅ | depth-4 BFS: 1 895 nodes for SoSe 2026, with checkpoint/resume. |
-| Course-content attachment | ✅ | Fetch every Course's *Termine + Eckdaten + Lehrende*; 683/683 for SoSe 2026. |
+| Course-content attachment | ✅ | Fetch every Course's *Termine + Eckdaten*; 683/683 for SoSe 2026. Personal data (Lehrende) is omitted by construction — see [`data_protection.md`](data_protection.md). |
 | FAU.de Studiengang corpus | ✅ | 222 programs scraped; content inlined into the matching Campo program file. |
 | FAU.de Prüfungsordnungen corpus | ✅ | 36 landing pages + ~2 800 PDFs converted to markdown via PyMuPDF4LLM. |
 | Cross-link Campo ↔ FAU.de | ✅ | Each program file inlines its FAU.de Studiengang page and references the matched dated PO-PDFs. |
@@ -95,6 +95,31 @@ See [`docs/requirements.md` §9](docs/requirements.md) for the full plan and ope
 ## Scope
 
 Only **public** Campo data is in scope. Anything that needs a FAU login (personal schedule, grades, exam registrations, enrolments) is explicitly out — and out forever, because the corpus is shipped publicly on GitHub.
+
+## Datenschutz / Data protection
+
+Although the source pages are publicly reachable, aggregating and
+re-publishing them is a separate GDPR-relevant processing operation.
+For the RAG use-case this corpus serves — questions about study
+programs, modules, and Prüfungsordnungen — personal data is not
+needed. The corpus therefore carries **no personal data by
+construction**:
+
+* No FAUdir Professor:innen-Index and no aggregated teaching-load
+  profiles.
+* No instructor names in course pages (neither the *Lehrende* block
+  nor the *Dozent/-in* column of Termine tables).
+* No email addresses or phone numbers anywhere.
+* Contact-person lines on FAU.de Studiengang pages are replaced with
+  a placeholder.
+
+The full policy — including the retention window (max. 1 year for any
+derived artefacts), the legal basis (Art. 6 Abs. 1 lit. e DSGVO i. V. m.
+BayHIG/BayDSG), the layered enforcement inside the pipeline, and the
+contact for erasure requests — is in
+[`data_protection.md`](data_protection.md). Historical git commits
+and older GitHub Releases have been rewritten / re-cut to remove
+personal data that pre-dates this sweep.
 
 ## License
 
