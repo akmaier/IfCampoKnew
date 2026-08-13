@@ -2289,3 +2289,78 @@ $ scraper/.venv/bin/python -m pytest scraper/tests/ -q
 The full local mirror at `/Users/maier/Documents/code/IfCampoKnew-
 backup/IfCampoKnew.git` is the pre-rewrite baseline should anything
 need to be recovered.
+
+
+## Entry 0034 — DSGVO sweep, destructive half: history rewrite + release scrub
+
+**Time window.** 2026-08-13 ~12:30–13:30 local. ~1 h assistant work,
+user green-lit the destructive plan up front.
+
+**What happened.**
+
+1. Installed `git-filter-repo` (Homebrew).
+2. Fast-forwarded local `main` to include the DSGVO commit (branch
+   `dsgvo-cleanup` was merged, then deleted locally).
+3. Ran `git-filter-repo` with `--invert-paths` on the eight
+   person-carrying paths (`data/personen/*` glob plus the four
+   individual analyse / scraper files / test) AND a
+   `--blob-callback` that:
+   * strips the same personal-role bullets, empty ``## Lehrende``
+     headings, and Dozent/-in table columns as
+     ``scraper/sanitize_corpus.py``;
+   * redacts every ``@fau.de`` / ``@…uni-erlangen.de`` email
+     except the whitelisted DSGVO contact
+     ``andreas.maier@fau.de``;
+   * redacts DE-format phone numbers;
+   * anonymises the 9 real personal names that appeared in test
+     fixtures (``Person A..E`` for saved-HTML fixture instructors,
+     ``Fixture Person Alpha/Beta/Gamma/Delta`` for the four names
+     used in synthetic test inputs).
+4. **Cost**: 205 s to rewrite 89 commits; new HEAD at
+   ``04bd9ddd``. The old tip on origin (``be5b9472``) has been
+   force-pushed away.
+5. **Origin cleanup**: `dsgvo-cleanup` remote branch deleted;
+   `main` force-pushed; all 15 GitHub releases + their
+   `snapshot-2026-Wxx` tags deleted via
+   `gh release delete --cleanup-tag`; a fresh
+   ``snapshot-2026-W33-clean`` release cut from the sanitised HEAD
+   with only the corpus zip (no `*-courses.json`).
+
+**Verification (Schritt 7 from the user's brief).**
+
+* Path removals across ALL history: 0 hits for every removed path
+  (personen, three analyse .md, four scraper files).
+* Real-name blob search across ALL commits: 0 hits for the 9 real
+  names anonymised.
+* ``@fau.de`` blob scan across 19 384 objects: only
+  ``andreas.maier@fau.de`` (whitelisted) remains.
+* Working-tree ``sanitize_corpus --check-only data``: 0 hits.
+* Full test suite: 160/160 green.
+* Corpus completeness — every kept directory has the same file
+  count as the pre-rewrite backup:
+
+  | directory                        | now | backup |
+  |----------------------------------|-----|--------|
+  | data/589-sommersemester-2026     | 235 | 235    |
+  | data/565-wintersemester-2025-26  | 238 | 238    |
+  | data/pruefungsordnungen          | 3268| 3268   |
+  | data/studiengang                 | 232 | 232    |
+
+  Total: **3 923 614 markdown lines** across ``data/`` — only the
+  139 person-carrying files (136 personen/ + 3 analyse) were
+  deleted; every non-personal module/PO/studiengang file survives.
+
+* Note about PO prose: ``Prof. Dr. <name>`` mentions in
+  ``data/pruefungsordnungen/**`` (703 lines, e.g. the Dean signing a
+  historical regulation) are deliberately preserved — official
+  Bavarian legal texts routinely reference named office holders, and
+  stripping them would corrupt the meaning of the regulation. This
+  is documented in `data_protection.md`.
+
+**Coordination.** Everyone with a local clone must now
+`git fetch --all && git reset --hard origin/main` (or re-clone). The
+force-push overwrites shared history — the pre-rewrite tip is
+available in the local backup mirror at
+``/Users/maier/Documents/code/IfCampoKnew-backup/IfCampoKnew.git``
+for at most one year (per the retention rule in
+``data_protection.md``), then it too gets deleted.
