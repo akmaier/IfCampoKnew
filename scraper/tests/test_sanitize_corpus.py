@@ -109,6 +109,12 @@ def test_emails_stripped(given, expect_contained):
     assert "@physik.uni-erlangen.de" not in out
     assert expect_contained in out
 
+def test_dsgvo_contact_email_preserved():
+    # The repo-owner contact address in ``data_protection.md`` must
+    # survive the sweep — it is the documented erasure contact.
+    md = "E-Mail: <andreas.maier@fau.de>"
+    assert sanitize_text(md) == md
+
 def test_other_domain_emails_preserved():
     # We only strip @fau.de and @…uni-erlangen.de. Third-party emails
     # in official public regulations (rare, but possible) stay so the

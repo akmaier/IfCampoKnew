@@ -83,6 +83,16 @@ _RE_EMAIL = re.compile(
     r"[a-zA-Z0-9._%+\-]+@(?:[a-zA-Z0-9.\-]+\.)?(?:fau\.de|uni-erlangen\.de)",
 )
 
+# Emails we intentionally keep visible: the DSGVO contact address in
+# ``data_protection.md`` (repository owner, published with consent as
+# the point of contact for erasure/rectification requests).
+_EMAIL_WHITELIST = frozenset({"andreas.maier@fau.de"})
+
+def _email_sub(match: re.Match[str]) -> str:
+    if match.group(0).lower() in _EMAIL_WHITELIST:
+        return match.group(0)
+    return "[E-Mail entfernt]"
+
 # DE phones — +49 xxx or 0xxx with 8+ digits total. The character class covers
 # spaces, dashes, slashes and parentheses inside the number.
 _RE_PHONE = re.compile(
@@ -169,7 +179,7 @@ def sanitize_text(md: str, *, path: str = "") -> str:
     """Apply every rule in order and collapse the leftover blank runs."""
     md = _strip_lehrende_block(md)
     md = _drop_dozent_column(md)
-    md = _RE_EMAIL.sub("[E-Mail entfernt]", md)
+    md = _RE_EMAIL.sub(_email_sub, md)
     md = _RE_PHONE.sub("[Telefon entfernt]", md)
     if "/studiengang/" in path or path.startswith("studiengang/"):
         md = _RE_STANDALONE_NAME_LINE.sub("[Kontaktperson entfernt]", md)
