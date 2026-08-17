@@ -37,4 +37,3 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 - **ECTS-Punkte:** 10.0
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
-

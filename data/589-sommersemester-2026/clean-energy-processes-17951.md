@@ -913,7 +913,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 11906.01.040 (H20) |
 | wöchentlich | Fr | 10:15–11:45 | 17.04.2026–17.07.2026 | 11906.01.040 (H20) 11906.01.030 (H21) |
 | Einzeltermin | Mi | 12:15–13:34 | 24.06.2026 | 11906.01.030 (H21) |
-| Einzeltermin | Do | 11:00–12:00 | 06.08.2026 | — |
+| Einzeltermin | Do | 11:00–12:00 | 06.08.2026 | 12801.01.250 (Übung 1 / 01.250-128) |
 
 ### Mathematics for Engineers II - Vorlesung
 
@@ -932,7 +932,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 11906.01.040 (H20) |
 | wöchentlich | Fr | 10:15–11:45 | 17.04.2026–17.07.2026 | 11906.01.040 (H20) 11906.01.030 (H21) |
 | Einzeltermin | Mi | 12:15–13:34 | 24.06.2026 | 11906.01.030 (H21) |
-| Einzeltermin | Do | 11:00–12:00 | 06.08.2026 | — |
+| Einzeltermin | Do | 11:00–12:00 | 06.08.2026 | 12801.01.250 (Übung 1 / 01.250-128) |
 
 ### Mathematics for Engineers II - Vorlesung
 
@@ -951,7 +951,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 11906.01.040 (H20) |
 | wöchentlich | Fr | 10:15–11:45 | 17.04.2026–17.07.2026 | 11906.01.040 (H20) 11906.01.030 (H21) |
 | Einzeltermin | Mi | 12:15–13:34 | 24.06.2026 | 11906.01.030 (H21) |
-| Einzeltermin | Do | 11:00–12:00 | 06.08.2026 | — |
+| Einzeltermin | Do | 11:00–12:00 | 06.08.2026 | 12801.01.250 (Übung 1 / 01.250-128) |
 
 ### Microeconomics (IES/IBS) Exercise - Übung
 
@@ -1779,7 +1779,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | 11:00–12:30 | — | — |
+| Do | Do | 11:00–12:30 | — | 11901.00.226 (H8 Hörsaal 8) |
 
 ### 27791 Chemical thermodynamics - Leistung
 
@@ -1794,7 +1794,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | 11:00–12:30 | — | — |
+| Do | Do | 11:00–12:30 | — | 11901.00.226 (H8 Hörsaal 8) |
 
 ### 27791 Chemical thermodynamics - Leistung
 
@@ -1809,7 +1809,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | 11:00–12:30 | — | — |
+| Do | Do | 11:00–12:30 | — | 11901.00.226 (H8 Hörsaal 8) |
 
 ### 27811 Fluid dynamics - Leistung
 
@@ -2274,7 +2274,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | 08:00–09:30 | — | — |
+| Do | Do | 08:00–09:30 | — | 11906.01.040 (H20) |
 
 ### 27921 Data science for engineers - Leistung
 
@@ -2289,7 +2289,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | 08:00–09:30 | — | — |
+| Do | Do | 08:00–09:30 | — | 11906.01.040 (H20) |
 
 ### 27921 Data science for engineers - Leistung
 
@@ -2304,7 +2304,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | 08:00–09:30 | — | — |
+| Do | Do | 08:00–09:30 | — | 11906.01.040 (H20) |
 
 ### 27931 Active project - Leistung
 
@@ -3334,7 +3334,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 11401.00.116 (H14 Bernhard-Ilschner-Hörsaal (0.61)) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (267)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (281)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -3365,7 +3365,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | Fr | 14:00–15:00 | — | — |
+| Fr | Fr | 14:00–15:00 | — | 12801.01.210 (H11) |
 
 ### Advanced Topics in Deep Learning
 
@@ -3706,7 +3706,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mi | Mi | 14:00–15:30 | — | — |
+| Mi | Mi | 14:00–15:30 | — | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
 
 ### Cooling of Power Electronics — Vorlesung
 
@@ -3715,6 +3715,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Turnus:** nur im Wintersemester
+
+### Cooling of Power Electronics - Exercise — Übung
+
+- **Segment:** `unit:119626` · **unitId:** `119626`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119626&periodId=589>
+
+- **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
 
 ### Deutsch A1.1: Allgemeinkurs
@@ -4323,6 +4331,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Di | Di | 14:00–15:30 | — | — |
 
+### Electrocatalysis — Vorlesung
+
+- **Segment:** `unit:115069` · **unitId:** `115069`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115069&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
+
 ### Electrocatalysis — Übung
 
 - **Segment:** `unit:115088` · **unitId:** `115088`
@@ -4331,6 +4348,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
+
+### Electrochemistry — Vorlesung
+
+- **Segment:** `unit:94865` · **unitId:** `94865`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94865&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Sommersemester
 
 ### Elektrische Energiespeichersysteme — Vorlesung
 
@@ -4850,6 +4875,24 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
+### Exercices Phosphors for Light Conversion in Photovoltaic Devices and LEDs (CEP) (Ex-PVS-LC) — Übung
+
+- **Segment:** `unit:85857` · **unitId:** `85857`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85857&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.0
+- **Turnus:** nur im Wintersemester
+
+### Exercise Electrochemistry — Übung
+
+- **Segment:** `unit:93636` · **unitId:** `93636`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93636&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 3.0
+- **Turnus:** nur im Sommersemester
+
 ### Exercise in Energy Economics — Übung
 
 - **Segment:** `unit:115160` · **unitId:** `115160`
@@ -4988,6 +5031,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Turnus:** nur im Wintersemester
+
+### Foundations of chemical reaction engineering — Vorlesung
+
+- **Segment:** `unit:94272` · **unitId:** `94272`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94272&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
 ### Foundations of chemical reaction engineering (Excercises) — Übung
@@ -5222,7 +5274,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | 11:00–13:00 | — | — |
+| Do | Do | 11:00–13:00 | — | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
 
 ### Grundzüge der Kommunikationswissenschaft
 
@@ -5278,7 +5330,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| Mi | Mi | 10:00–11:30 | — | 11302.08.130 (08.130 Besprechungsraum Informatik 6) |
+
+### Interface Engineering in Clean Energy Processes — Übung
+
+- **Segment:** `unit:138725` · **unitId:** `138725`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138725&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Turnus:** nur im Wintersemester
 
 ### Interskandinavische Studien 1
 
@@ -5891,7 +5951,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | 14:00–15:30 | — | — |
+| Do | Do | 14:00–15:30 | — | 12801.01.220 (H12 Emmy-Noether-Hörsaal) |
 
 ### Photovoltaic systems - Fundamentals
 
@@ -5913,6 +5973,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84380&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Wintersemester
+
+### Physics I (Clean Energy Processes, Exercise Class) — Übung
+
+- **Segment:** `unit:89870` · **unitId:** `89870`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89870&periodId=589>
+
+- **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
 
 ### Polnisch: Elementarkurs II
@@ -6091,6 +6159,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mi | Mi | 14:00–16:00 | — | 11901.00.240 (H10 Hörsaal 10) |
 
+### Process Simulation — Vorlesung
+
+- **Segment:** `unit:115438` · **unitId:** `115438`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115438&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Wintersemester
+
 ### Process Simulation (Exercise) — Übung
 
 - **Segment:** `unit:115440` · **unitId:** `115440`
@@ -6098,6 +6174,23 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
+
+### Process Simulation (Tutorial) — Tutorium
+
+- **Segment:** `unit:87972` · **unitId:** `87972`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87972&periodId=589>
+
+- **Veranstaltungsart:** Tutorium
+- **Turnus:** nicht in diesem Semester
+
+### Process Simulation Laboratory Course — Praktikum
+
+- **Segment:** `unit:91834` · **unitId:** `91834`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91834&periodId=589>
+
+- **Veranstaltungsart:** Praktikum
+- **ECTS-Punkte:** 2.5
+- **Turnus:** nicht in diesem Semester
 
 ### Process systems dynamics 1 — Vorlesung
 
@@ -6199,6 +6292,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
+### Renewable thermal power plants — Vorlesung
+
+- **Segment:** `unit:93050` · **unitId:** `93050`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93050&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 3.0
+- **Turnus:** nur im Wintersemester
+
 ### Renewable thermal power plants Exercises — Übung
 
 - **Segment:** `unit:97040` · **unitId:** `97040`
@@ -6220,7 +6322,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | Fr | 08:00–09:30 | — | — |
+| Fr | Fr | 08:00–09:30 | — | 11907.01.030 (H19) |
 
 ### Robotics 1
 
@@ -6425,7 +6527,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mi | Mi | 08:00–09:30 | — | — |
+| Mi | Mi | 08:00–09:30 | — | 11907.01.040 (H18) |
 
 ### Spanisch Comprensión Auditiva - virtueller Kurs C1
 
@@ -6585,6 +6687,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | 16:15–17:45 | — | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
 
+### Strömungsakustik / Aeroacoustics — Vorlesung mit Übung
+
+- **Segment:** `unit:85273` · **unitId:** `85273`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85273&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
+
 ### Tech Writing B2: Computer Science/IT
 
 - **Segment:** `unit:118788` · **unitId:** `118788`
@@ -6655,6 +6766,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87390&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
+- **Turnus:** nur im Wintersemester
+
+### Thin-Film Processing (Laboratory course) — Praktikum
+
+- **Segment:** `unit:82968` · **unitId:** `82968`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82968&periodId=589>
+
+- **Veranstaltungsart:** Praktikum
 - **Turnus:** nur im Wintersemester
 
 ### Traducción español - alemán

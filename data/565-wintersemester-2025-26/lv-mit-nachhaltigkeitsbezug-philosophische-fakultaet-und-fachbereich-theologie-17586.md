@@ -807,4 +807,3 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 - **ECTS-Punkte:** 2.0
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-

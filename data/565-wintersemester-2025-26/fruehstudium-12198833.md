@@ -2993,4 +2993,3 @@ _Section: Frühstudium_
 - **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
-

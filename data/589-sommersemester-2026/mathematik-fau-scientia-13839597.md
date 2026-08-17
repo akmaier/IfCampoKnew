@@ -492,6 +492,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | wöchentlich | Mi | 08:00–10:00 | 15.04.2026–15.07.2026 | 12801.01.230 (H13 Johann-Radon-Hörsaal) |
 | Einzeltermin | Mo | 08:30–10:00 | 29.06.2026 | 12801.01.251 (Übung 2 / 01.251-128) |
 | Einzeltermin | Mo | 08:30–10:00 | 13.07.2026 | 12801.01.251 (Übung 2 / 01.251-128) |
+| Einzeltermin | Mi | 14:00–16:00 | 12.08.2026 | 12801.04.363 (04.363 Seminarraum Mathematik) |
 
 ### Seminar "Iterative Lösungsverfahren für lineare und nichtlineare Gleichungssysteme" - Hauptseminar
 
