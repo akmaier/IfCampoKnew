@@ -23,6 +23,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124571&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
@@ -41,6 +42,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124571&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 

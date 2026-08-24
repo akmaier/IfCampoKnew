@@ -188,7 +188,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (42)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (32)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -206,37 +206,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 14:00–15:30 | 14.04.2026–14.07.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
-
-### Cejvan / Mitbestimmungssensibel unterrichten?! Gelingenselemente und Gestaltungsmöglichkeiten im Grundschulunterricht — Mittelseminar
-
-- **Segment:** `unit:97770` · **unitId:** `97770`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97770&periodId=589>
-
-- **Veranstaltungsart:** Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–15:30 | 14.04.2026–14.07.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
-
-### Cejvan / Mitbestimmungssensibel unterrichten?! Gelingenselemente und Gestaltungsmöglichkeiten im Grundschulunterricht (Kurs B) — Mittelseminar
-
-- **Segment:** `unit:112321` · **unitId:** `112321`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112321&periodId=589>
-
-- **Veranstaltungsart:** Mittelseminar
-- **Turnus:** in jedem Semester
-
-### Cejvan / Mitbestimmungssensibel unterrichten?! Gelingenselemente und Gestaltungsmöglichkeiten im Grundschulunterricht (Kurs B) — Mittelseminar
-
-- **Segment:** `unit:115181` · **unitId:** `115181`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115181&periodId=589>
-
-- **Veranstaltungsart:** Mittelseminar
-- **Turnus:** Unregelmäßig
 
 ### EE-BF M1 M2 : "Mentorat zu EE-BF-Modulen 1 und 2" — Sonstige Lehrveranstaltung
 
@@ -342,23 +311,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-### EEBF Modul 4 - Methoden der empirischen Bildungsforschung - Vertiefung (Anwendung im Forschungskontext) — Seminar
-
-- **Segment:** `unit:89470` · **unitId:** `89470`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89470&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 11:30–13:00 | 15.04.2026–15.07.2026 | 20301.U1.029 (U1.029 Seminarraum (18)) |
-| Einzeltermin | Mi | 15:45–17:15 | 08.07.2026 | 20301.U1.030 (U1.030 Seminarraum (30)) |
-| Einzeltermin | Mi | 14:00–15:30 | 15.07.2026 | 20301.U1.031 (U1.031 Seminarraum (40)) |
 
 ### EEBF Modul 5 - Ergebnisse der Empirischen Bildungsforschung in schulischen und außerschulischen Feldern — Seminar
 
@@ -491,13 +443,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Sa | 08:30–16:00 | 09.05.2026 | 20301.U1.029 (U1.029 Seminarraum (18)) |
 | Einzeltermin | Sa | 08:30–12:00 | 16.05.2026 | — |
 
-### LA M2 / EE-BF M6d / MA Päd M II : SEM "Theorien und Konzepte der internationalen Bildung" (in englischer Sprache) — Seminar
-
-- **Segment:** `unit:108237` · **unitId:** `108237`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=108237&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-
 ### LA M2/ MA Päd M VI/ EE-BF M7d / ZS M4 : SEM "Handlungsfelder der internationalen Bildung: Zugänge und Erkundungen" (English-friendly) (Standort Nürnberg) — Seminar
 
 - **Segment:** `unit:99417` · **unitId:** `99417`
@@ -553,61 +498,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Turnus:** Unregelmäßig
 
-### Liebner / Blended Learning: Ganztagsschulen als schulischer Erfahrungsraum für Schüler*innen — Mittelseminar
-
-- **Segment:** `unit:110730` · **unitId:** `110730`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110730&periodId=589>
-
-- **Veranstaltungsart:** Mittelseminar
-- **ECTS-Punkte:** 4.0
-- **Turnus:** in jedem Semester
-
-### Liebner / Blended learning: Grundfragen der Grundschulpädagogik - Diskussion und Reflexion zentraler Themen der Grundschule (Kurs A) — Seminar
-
-- **Segment:** `unit:130778` · **unitId:** `130778`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130778&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 11:30–13:00 | 16.04.2026–16.07.2026 | 20301.02.014 (2.014 Mathe-Lehrwerkstatt (40)) |
-
-### Liebner / Blended Learning: Kinder mit Lernschwierigkeiten in der Grundschule — Mittelseminar
-
-- **Segment:** `unit:87800` · **unitId:** `87800`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87800&periodId=589>
-
-- **Veranstaltungsart:** Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
-
-### MA EEBF M1 Erziehungswissenschaftliche Grundlagen — Seminar
-
-- **Segment:** `unit:125320` · **unitId:** `125320`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125320&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–15:30 | 14.04.2026–14.07.2026 | 20301.U1.029 (U1.029 Seminarraum (18)) |
-
-### MA EEBF M6/MA Pädagogik MII/Modul 2 - Semiar Allg. Päd.: Medien, Wissen, Bildung - Grundlagen der Medienpädagogik (Standort Nürnberg) — Seminar
+### MA EEBF M6/MA Pädagogik MII: Medien, Wissen, Bildung - Grundlagen der Medienpädagogik — Seminar
 
 - **Segment:** `unit:89141` · **unitId:** `89141`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89141&periodId=589>
@@ -621,14 +512,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 09:45–11:15 | 13.04.2026–13.07.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
-
-### MA EEBF M6/MA Pädagogik MII: Lernen und mediendidaktisches Handeln in mediatisierten Kontexten — Seminar
-
-- **Segment:** `unit:92830` · **unitId:** `92830`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92830&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
 
 ### MA EEBF M7/MA Pädagogik MVI: Medienpädagogik (Profilvertiefung)/Felderkundung Medienpädagogik — Seminar
 

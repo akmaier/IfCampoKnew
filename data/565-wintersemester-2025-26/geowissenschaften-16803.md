@@ -1868,10 +1868,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13505151|exam:13505152|exam:13505153|exam:13505415|exam:13505452|exam:13505454>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104885&periodId=565>
 
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
 - **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -1885,10 +1882,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13505151|exam:13505152|exam:13505153|exam:13505565|exam:13505577|exam:13505579>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104885&periodId=565>
 
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
 - **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -3905,8 +3899,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13505151|exam:13505152|exam:13505153|exam:13505212|exam:13505275|exam:13505276>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120955&periodId=565>
 
-- **ECTS-Punkte:** 5.0
-
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
@@ -3918,8 +3910,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:13505492` · **unitId:** `120955`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13505151|exam:13505152|exam:13505153|exam:13505456|exam:13505491|exam:13505492>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120955&periodId=565>
-
-- **ECTS-Punkte:** 5.0
 
 #### Termine
 
@@ -6873,7 +6863,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13505151|exam:13505152|exam:13505153|exam:13505586|exam:13505593|exam:13505595>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=72617&periodId=565>
 
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -6888,7 +6877,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13505151|exam:13505152|exam:13505153|exam:13505611|exam:13505628|exam:13505630>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=72617&periodId=565>
 
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -7883,7 +7871,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Fr | 14:00–17:00 | 31.10.2025–06.02.2026 | 11401.00.109 (0.56 Praktikum) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (71)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (82)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -7903,15 +7891,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übungsseminar
 - **ECTS-Punkte:** 2.0
-- **Turnus:** nur im Sommersemester
-
-### [AG - E2b] Arbeiten in der Angewandten Geologie - Hydrogeologische Übung und Auswertung     https://www.studon.fau.de/studon/goto.php?target=crs_2804655 — Seminar
-
-- **Segment:** `unit:89760` · **unitId:** `89760`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89760&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
 ### [AG - V4a] Karst und Hydrogeologie — Vorlesung mit Übung
@@ -7941,6 +7920,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
+### [AG-F3] Umweltisotopie — Vorlesung mit Übung
+
+- **Segment:** `unit:132101` · **unitId:** `132101`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132101&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
+
 ### [AG-F3a] Seminare der Angewandten Geologie
 
 - **Segment:** `unit:88281` · **unitId:** `88281`
@@ -7950,31 +7938,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
 
-### [AG-V2] Hydrochemie — Vorlesung
+### [AG-V4] Vermessungstechnik — Übungsseminar
 
-- **Segment:** `unit:87979` · **unitId:** `87979`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87979&periodId=565>
+- **Segment:** `unit:121109` · **unitId:** `121109`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121109&periodId=565>
 
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
-### [AG-V2] Ingenieurgeologie f. Fortgeschrittene — Vorlesung mit Übung
-
-- **Segment:** `unit:98356` · **unitId:** `98356`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98356&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
-### [AG-V3a] Ingenieurgeologische Berechnungen — Vorlesung mit Übung
-
-- **Segment:** `unit:103354` · **unitId:** `103354`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103354&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 2.5
+- **Veranstaltungsart:** Übungsseminar
+- **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
 ### [AM-E2] Bindemittel; Zementmineralogie — Vorlesung mit Übung
@@ -7984,15 +7954,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 3.0
-- **Turnus:** nur im Sommersemester
-
-### [AM-V3] Mikrosondenanalytik; HT-Synthese — Vorlesung mit Übung
-
-- **Segment:** `unit:83442` · **unitId:** `83442`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83442&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 2.0
 - **Turnus:** nur im Sommersemester
 
 ### [AM-V3] Mikrosondenanalytik; Mikrosondenanalytik — Vorlesung mit Übung
@@ -8020,15 +7981,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
-### [AS-V3] + [GT-V1] Sedimentpetrographie-Diagenese-Petrophysik: Petrophysik und Reservoirpetrologie — Hauptseminar
-
-- **Segment:** `unit:84460` · **unitId:** `84460`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84460&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 1.0
 - **Turnus:** nur im Sommersemester
 
 ### [BSc AG-I] Angewandte Geologie I BA Übung 1
@@ -8107,22 +8059,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Fr | 08:30–11:45 | 17.10.2025–06.02.2026 | 00301.01.140 (ÜR Mineralogie Übungsraum Mineralogie) |
 
-### [BSc PG - I] [Geoch. Meth. und Ü I] - B Mikroskopie von Magmatiten und Metamorphiten — Vorlesung mit Übung
-
-- **Segment:** `unit:102310` · **unitId:** `102310`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102310&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:15–13:45 | 14.10.2025–03.02.2026 | 00301.01.140 (ÜR Mineralogie Übungsraum Mineralogie) |
-
 ### [BSc PG I] -  [Geoch. Meth. und Ü I] Petrologisch-tektonische Geländeübung
 
 - **Segment:** `unit:85495` · **unitId:** `85495`
@@ -8149,21 +8085,41 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 10:15–11:45 | 14.10.2025–03.02.2026 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
 
-### [BSc; AM-I] Material und Charakterisierung, Röntgenbeugungsanalyse — Übungsseminar
+### [CE-V3] Hypothesis testing in Earth system science — Seminar
 
-- **Segment:** `unit:92020` · **unitId:** `92020`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92020&periodId=565>
+- **Segment:** `unit:110389` · **unitId:** `110389`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110389&periodId=565>
 
-- **Veranstaltungsart:** Übungsseminar
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.5
+- **Turnus:** nur im Sommersemester
 
-#### Termine
+### [CE-V3] Laboratory Methods in Paleoenvironmental research — Übung
 
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 15:15–16:45 | 13.10.2025–02.02.2026 | 00501.02.014 ( KH 2.014 Hörsaal Kollegienhaus) |
+- **Segment:** `unit:87147` · **unitId:** `87147`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87147&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
+- **Turnus:** nur im Sommersemester
+
+### [CE-V4] Climate and Earth System Data — Übung
+
+- **Segment:** `unit:108690` · **unitId:** `108690`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=108690&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
+- **Turnus:** nur im Sommersemester
+
+### [CE-V4] Research Project Implementation — Seminar
+
+- **Segment:** `unit:89869` · **unitId:** `89869`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89869&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.5
+- **Turnus:** nur im Sommersemester
 
 ### [Geophysik] Geophysik (Prüfung) — Seminar
 
@@ -8207,6 +8163,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Sommersemester
 
+### [PG-E2a] Geländepraktika Lagerstätten und Strukturen - Geländepraktikum Strukturgeologie — Exkursion
+
+- **Segment:** `unit:100109` · **unitId:** `100109`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100109&periodId=565>
+
+- **Veranstaltungsart:** Exkursion
+- **ECTS-Punkte:** 2.5
+- **Turnus:** nur im Sommersemester
+
 ### [PG-F3] Methoden der Petrologie - Petrologische Methoden — Übung
 
 - **Segment:** `unit:103602` · **unitId:** `103602`
@@ -8230,15 +8195,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
-### [PG-V4] Petrologie III -  Phasenpetrologie und Thermodynamik — Übung
-
-- **Segment:** `unit:98455` · **unitId:** `98455`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98455&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
 - **Turnus:** nur im Sommersemester
 
 ### AG - I [Hydrogeologie und Ingenieurgeologie] Labor- und Messübung Ingenieurgeologie Kurs I
@@ -8275,6 +8231,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 2.0
+- **Turnus:** nur im Wintersemester
+
+### AG-V1 [Grundbau und Statisik] Datenauswertung, Statistik, Modellierung und Übungen Kurs I — Vorlesung mit Übung
+
+- **Segment:** `unit:94333` · **unitId:** `94333`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94333&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
 
 ### Allgemeine Biologie II: Morphologie und Anatomie der Organismen (Laborübung)
@@ -8346,15 +8311,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 3.0
 - **Turnus:** nur im Sommersemester
 
-### Geochemie - Globale Stoffkreisläufe — Vorlesung
-
-- **Segment:** `unit:93219` · **unitId:** `93219`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93219&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.0
-- **Turnus:** nur im Sommersemester
-
 ### Georessourcen — Seminar und Übung
 
 - **Segment:** `unit:131623` · **unitId:** `131623`
@@ -8407,29 +8363,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### Grundwasser Modellierung [AG-E1] Kurs II — Vorlesung mit Übung
+### Hydrogeologie und Ingenieurgeologie -  Labor- und Messübung Hydrogeologie [AG-I]
 
-- **Segment:** `unit:90357` · **unitId:** `90357`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90357&periodId=565>
+- **Segment:** `unit:88708` · **unitId:** `88708`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88708&periodId=565>
 
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
 
-### Grundwassermodellierung — Vorlesung
+### Kartierübung 1 (im Modul Regionale Geologie) — Praktikum
 
-- **Segment:** `unit:91008` · **unitId:** `91008`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91008&periodId=565>
+- **Segment:** `unit:84416` · **unitId:** `84416`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84416&periodId=565>
 
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
-
-### Ingenieurgeologie (4. Sem.) — Vorlesung mit Übung
-
-- **Segment:** `unit:96208` · **unitId:** `96208`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96208&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
+- **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
@@ -8494,14 +8442,109 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Blockveranstaltung | — | 09:00–14:15 | 18.02.2026–10.03.2026 | 05901.02.058 ( 2.058 R 2.058) |
 
-### MA Angewandte Geologie AG-E1 — Übungsseminar
+### MA Angewandte Geologie AG-E2b — Übungsseminar
 
-- **Segment:** `unit:121102` · **unitId:** `121102`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121102&periodId=565>
+- **Segment:** `unit:121107` · **unitId:** `121107`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121107&periodId=565>
 
 - **Veranstaltungsart:** Übungsseminar
 - **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Sommersemester
+
+### MA Angewandte Geologie AG-F3a Kurs 2 — Seminar
+
+- **Segment:** `unit:121112` · **unitId:** `121112`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121112&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:15–15:45 | 14.10.2025–03.02.2026 | — |
+
+### MA Angewandte Geologie AG-F3b Kurs 1 — Übungsseminar
+
+- **Segment:** `unit:121113` · **unitId:** `121113`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121113&periodId=565>
+
+- **Veranstaltungsart:** Übungsseminar
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:30–18:00 | 13.10.2025–02.02.2026 | 07202.00.016 (Seminarraum Seminarraum Außenstelle Angewandte Geologie) |
+
+### MA Angewandte Geologie AG-V1 Kurs 1 — Vorlesung mit Übung
+
+- **Segment:** `unit:121098` · **unitId:** `121098`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121098&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 2.5
+- **Turnus:** nur im Wintersemester
+
+### MA Angewandte Geologie AG-V2 Kurs 1 — Seminar
+
+- **Segment:** `unit:121100` · **unitId:** `121100`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121100&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.5
+- **Turnus:** nur im Wintersemester
+
+### MA Angewandte Geologie AG-V2 Kurs 2 — Vorlesung mit Übung
+
+- **Segment:** `unit:121101` · **unitId:** `121101`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121101&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 2.5
+- **Turnus:** nur im Wintersemester
+
+### MA Angewandte Geologie AG-V3a Kurs 1 — Seminar
+
+- **Segment:** `unit:121103` · **unitId:** `121103`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121103&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.5
+- **Turnus:** nur im Sommersemester
+
+### MA Angewandte Geologie AG-V3a Kurs 2 — Vorlesung mit Übung
+
+- **Segment:** `unit:121104` · **unitId:** `121104`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121104&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 2.5
+- **Turnus:** nur im Sommersemester
+
+### MA Angewandte Geologie AG-V3b — Übung
+
+- **Segment:** `unit:121105` · **unitId:** `121105`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121105&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Sommersemester
+
+### MA Angewandte Geologie AG-V4a — Übungsseminar
+
+- **Segment:** `unit:121108` · **unitId:** `121108`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121108&periodId=565>
+
+- **Veranstaltungsart:** Übungsseminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Sommersemester
 
 ### Mathematische und Physikalische Methoden in den Geowissenschaften: Vertiefung — Tutorium
 
@@ -8524,6 +8567,24 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | 10:15–11:15 | — | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
+
+### Methoden der Angewandten Geologie [AG-F1] — Übungsseminar
+
+- **Segment:** `unit:104231` · **unitId:** `104231`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104231&periodId=565>
+
+- **Veranstaltungsart:** Übungsseminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
+
+### Methoden der Ingenieurgeologie I [AG-V1] — Vorlesung mit Übung
+
+- **Segment:** `unit:93457` · **unitId:** `93457`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93457&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 2.5
+- **Turnus:** nur im Wintersemester
 
 ### Mineralische Rohstoffe — Seminar und Übung
 
@@ -8575,6 +8636,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.0
 - **Turnus:** nur im Sommersemester
 
+### Poetry Slam: Text, Performance, Event — Seminar
+
+- **Segment:** `unit:139350` · **unitId:** `139350`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139350&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+
+### Regionale Geologie - Kartierübung
+
+- **Segment:** `unit:89997` · **unitId:** `89997`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89997&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 3.0
+- **Turnus:** nur im Sommersemester
+
 ### Schriftliche Übersetzungsleistung Latein I für Anfänger (Zulassungsvoraussetzung zu Kurs Latein II für Fortgeschrittene)
 
 - **Segment:** `unit:39848` · **unitId:** `39848`
@@ -8610,6 +8687,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | — | — | — |
+
+### Ökologie und Diversität B: Übungen zur Biologie und Systematik einheimischer Pflanzen — Vorlesung mit Übung
+
+- **Segment:** `unit:84785` · **unitId:** `84785`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84785&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 3.0
+- **Turnus:** nur im Sommersemester
 
 ### Übungen zum S Chemische Analyse von Gesteinen
 

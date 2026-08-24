@@ -419,7 +419,7 @@ _Section: FAU Scientia Gaststudium_
 |---|---|---|---|---|
 | wöchentlich | Mo | 12:00–14:00 | 20.10.2025–02.02.2026 | — |
 
-### MA Medien-Ethik-Religion, 1. FS: Grundlagen im Schwerpunkt Religion: Theologie für Nichttheologen (Islam und Medien) - Seminar
+### MA Medien-Ethik-Religion, 1. FS: Grundlagen im Schwerpunkt Islam und Medien - Gründzüge des Islam - Seminar
 
 - **Segment:** `exam:12200085` · **unitId:** `117442`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16766|exam:12199890|exam:12200085>

@@ -461,9 +461,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16766|exam:12200901|exam:12200904>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90458&periodId=565>
 
-- **Veranstaltungsart:** Anleitung zu wiss. Arbeiten
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
 
 ### Ethik - VL: Einführung in die Ethik in theologischer Perspektive - Vorlesung
 

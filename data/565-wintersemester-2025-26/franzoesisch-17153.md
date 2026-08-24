@@ -5551,7 +5551,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mi | 14:00–16:00 | 15.10.2025–04.02.2026 | 56701.02.007 ( Romanistik) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (23)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (22)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -5578,13 +5578,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 
-### Apprentissage interculturel — Proseminar
-
-- **Segment:** `unit:115454` · **unitId:** `115454`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115454&periodId=565>
-
-- **Veranstaltungsart:** Proseminar
-
 ### Aufbauseminar französische Literaturwissenschaft
 
 - **Segment:** `unit:97737` · **unitId:** `97737`
@@ -5593,6 +5586,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Aufbauseminar
 - **ECTS-Punkte:** 3.0
 - **Turnus:** nur im Wintersemester
+
+### Aufbauseminar zur französischen Sprachwissenschaft: Sprachhistorischer Kurs Französisch I
+
+- **Segment:** `unit:92183` · **unitId:** `92183`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92183&periodId=565>
+
+- **Veranstaltungsart:** Aufbauseminar
+- **ECTS-Punkte:** 3.0
+- **Turnus:** nur im Sommersemester
 
 ### Basisseminar französische Literaturwissenschaft A — Einführungskurs
 
@@ -5636,22 +5638,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122502&periodId=565>
 
 - **Veranstaltungsart:** Mittelseminar
-
-### Einführung in die Fachdidaktik der romanischen Sprachen — Seminar
-
-- **Segment:** `unit:115448` · **unitId:** `115448`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115448&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
-### Einführungsseminar in die Didaktik der romanischen Sprachen
-
-- **Segment:** `unit:89158` · **unitId:** `89158`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89158&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 3.0
-- **Turnus:** in jedem Semester
 
 ### Expression écrite I — Übung
 
@@ -5773,12 +5759,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Do | Do | 14:00–16:00 | 07.12.2025 23:59:59 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
 
-### Vorlesung französische / italienische Sprachwissenschaft
+### Tutorium zu Phonetik und Phonologie des Französischen
 
-- **Segment:** `unit:95766` · **unitId:** `95766`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95766&periodId=565>
+- **Segment:** `unit:87963` · **unitId:** `87963`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87963&periodId=565>
 
-- **Veranstaltungsart:** Vorlesung
+- **Veranstaltungsart:** Tutorium
+- **Turnus:** nur im Sommersemester
+
+### Vertiefungsseminar französische Sprachwissenschaft — Examensseminar
+
+- **Segment:** `unit:82642` · **unitId:** `82642`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82642&periodId=565>
+
+- **Veranstaltungsart:** Examensseminar
 - **ECTS-Punkte:** 2.0
 - **Turnus:** in jedem Semester
 

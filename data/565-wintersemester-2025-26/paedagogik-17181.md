@@ -2646,9 +2646,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17181|exam:12737528|exam:12737529|exam:12737530|exam:12737531|exam:12739168|exam:12739171>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116026&periodId=565>
 
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nur im Wintersemester
-
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
@@ -2660,9 +2657,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:12739251` · **unitId:** `116026`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17181|exam:12737528|exam:12737529|exam:12737530|exam:12739237|exam:12739248|exam:12739251>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116026&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -3613,7 +3607,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17181|exam:12734318|exam:12734319|exam:12734320|exam:12734321|exam:12735855|exam:12735856>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53891&periodId=565>
 
-- **ECTS-Punkte:** 10.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -5914,7 +5907,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Blockveranstaltung | — | 14:00–19:30 | 16.01.2026 | 20301.U1.030 (U1.030 Seminarraum (30)) |
 | Blockveranstaltung+Sa | — | 09:15–19:00 | 17.01.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (328)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (300)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -5924,15 +5917,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133873&periodId=565>
 
 - **Veranstaltungsart:** Aufbauseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
-### "Fare stupire il mondo" - Veit Stoß und die Skulptur der Dürerzeit in Nürnberg — Vorlesung
-
-- **Segment:** `unit:138362` · **unitId:** `138362`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138362&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
@@ -6016,14 +6000,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
-### Absolute Wahrheit durch KI?  Soziologische (De)-Konstruktionen von Künstlicher Intelligenz — Hauptseminar
-
-- **Segment:** `unit:100349` · **unitId:** `100349`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100349&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** nur im Wintersemester
-
 ### Ackerlauer / Blended learning: Individuelle Unterstützung im Schriftspracherwerb — Mittelseminar
 
 - **Segment:** `unit:94294` · **unitId:** `94294`
@@ -6061,15 +6037,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Mittelseminar
 - **Turnus:** in jedem Semester
 
-### Ackerlauer / Blockseminar: Schriftspracherwerb unter den Aspekten Heterogenität und Mehrsprachigkeit (Kurs A) — Mittelseminar
-
-- **Segment:** `unit:110815` · **unitId:** `110815`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110815&periodId=565>
-
-- **Veranstaltungsart:** Mittelseminar
-- **ECTS-Punkte:** 4.0
-- **Turnus:** Unregelmäßig
-
 ### Ackerlauer / Blockveranstaltung: Planungskompetenz mit Chat-GPT und Medienkompetenz in der Praxis — Mittelseminar
 
 - **Segment:** `unit:115111` · **unitId:** `115111`
@@ -6101,7 +6068,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **Turnus:** in jedem Semester
 
-### Ackerlauer / Grundlagen des Schriftspracherwerbs im Kontext von Vielfalt und individueller Förderung (Kurs — Seminar
+### Ackerlauer / Grundlagen des Schriftspracherwerbs im Kontext von Vielfalt und individueller Förderung (Kurs D) — Seminar
 
 - **Segment:** `unit:138540` · **unitId:** `138540`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138540&periodId=565>
@@ -6160,13 +6127,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** in jedem Semester
-
-### Aktuelle Themen und Fragestellungen der Erziehungswissenschaft (Angebot am Standort Erlangen) — Vorlesung
-
-- **Segment:** `unit:111763` · **unitId:** `111763`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111763&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
 
 ### Alle /  Analyse und Planung von Unterrichtsabläufen (Begleitseminar zum Praktikum) — Mittelseminar
 
@@ -6273,21 +6233,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
-### Anthropologie und ästhetische Bildung — Seminar
-
-- **Segment:** `unit:92204` · **unitId:** `92204`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92204&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nur im Wintersemester
-
-### Anthropologie und ästhetische Bildung — Seminar
-
-- **Segment:** `unit:115987` · **unitId:** `115987`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115987&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
 ### Arbeitskonflikte — Seminar
 
 - **Segment:** `unit:122466` · **unitId:** `122466`
@@ -6324,13 +6269,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | 08:15–09:45 | — | — |
-
-### Aufbaumodul Fachdidaktik Deutsch Übung (nur GS)
-
-- **Segment:** `unit:115470` · **unitId:** `115470`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115470&periodId=565>
-
-- **Veranstaltungsart:** Übung
 
 ### Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten)
 
@@ -6548,24 +6486,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **Turnus:** in jedem Semester
 
-### Banh / Blockseminar: (Freies) Schreiben im Anfangsunterricht der Grundschule
-
-- **Segment:** `unit:118652` · **unitId:** `118652`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118652&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–16:00 | 13.03.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
-| Einzeltermin | Mi | 08:00–15:00 | 08.04.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
-| Einzeltermin | Do | 08:00–15:00 | 09.04.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
-| Einzeltermin | Fr | 08:00–15:00 | 10.04.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
-
 ### Banh / Demokratie im Klassenzimmer — Mittelseminar
 
 - **Segment:** `unit:115491` · **unitId:** `115491`
@@ -6597,13 +6517,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Mittelseminar
 - **Turnus:** in jedem Semester
-
-### Basisseminar Bildung und Lebenslauf
-
-- **Segment:** `unit:117144` · **unitId:** `117144`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117144&periodId=565>
-
-- **Veranstaltungsart:** Seminar
 
 ### Basisseminar Bildung und Lebenslauf
 
@@ -6673,26 +6586,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 
-### Begleitseminar Abschlussarbeiten (Jörissen)
-
-- **Segment:** `unit:119787` · **unitId:** `119787`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119787&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
 ### Begleitseminar Abschlussarbeiten Organisationspädagogik (Engel)
 
 - **Segment:** `unit:119412` · **unitId:** `119412`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119412&periodId=565>
 
 - **Veranstaltungsart:** Seminar
-
-### Begleitseminar Ringvorlesung Organisationspädagogik
-
-- **Segment:** `unit:115889` · **unitId:** `115889`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115889&periodId=565>
-
-- **Veranstaltungsart:** Begleitseminar
 
 ### Begleitseminar Theoriewerkstatt: Engagiertes Denken. Zum Verhältnis  von Theorie und Praxis in der Erziehungswissenschaft
 
@@ -6738,13 +6637,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 
-### Berufsbiographien qualitativ erforschen — Seminar
-
-- **Segment:** `unit:122454` · **unitId:** `122454`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122454&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
 ### Berufsorientierung Kunstgeschichte
 
 - **Segment:** `unit:71484` · **unitId:** `71484`
@@ -6772,28 +6664,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119496&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar
-
-### Bildung und Beruf — Hauptseminar
-
-- **Segment:** `unit:134171` · **unitId:** `134171`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134171&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-
-### Bildung und Beruf - von Technisierung zu Digitalisierung und beyond — Hauptseminar
-
-- **Segment:** `unit:111895` · **unitId:** `111895`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111895&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-
-### Bildung und Bildungsungleichheit — Hauptseminar
-
-- **Segment:** `unit:93359` · **unitId:** `93359`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93359&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** nur im Wintersemester
 
 ### Bildung und Erziehung in historischer und systematischer Perspektive (Angebot am Standort Erlangen) — Vorlesung
 
@@ -6832,20 +6702,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **Turnus:** in jedem Semester
 
-### Biografieforschung — Hauptseminar
-
-- **Segment:** `unit:134131` · **unitId:** `134131`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134131&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-
-### Biographieforschung — Seminar
-
-- **Segment:** `unit:111649` · **unitId:** `111649`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111649&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
 ### Biologische Psychologie — Vorlesung
 
 - **Segment:** `unit:94099` · **unitId:** `94099`
@@ -6871,13 +6727,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 3.0
 - **Turnus:** nur im Wintersemester
 
-### Body Work — Hauptseminar
-
-- **Segment:** `unit:122477` · **unitId:** `122477`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122477&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-
 ### Büttner / Außerschulische Lernorte und/oder digitales Lernen (Kurs B) — Mittelseminar
 
 - **Segment:** `unit:111013` · **unitId:** `111013`
@@ -6893,14 +6742,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Do | 08:00–09:30 | 16.10.2025–05.02.2026 | 20301.02.014 (2.014 Mathe-Lehrwerkstatt (40)) |
 | Einzeltermin | Do | 08:00–09:30 | 23.10.2025 | 20301.01.033 (1.033 Seminarraum (40)) |
-
-### Büttner / Außerschulische Lernorte und/oder digitales Lernen?! (Kurs B) — Mittelseminar
-
-- **Segment:** `unit:115149` · **unitId:** `115149`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115149&periodId=565>
-
-- **Veranstaltungsart:** Mittelseminar
-- **Turnus:** in jedem Semester
 
 ### Büttner / Digitale Medien für den problemorientierten Sachunterricht konzipieren - aber wie? Schwerpunkt regenerative Energie (Kurs A) — Mittelseminar
 
@@ -7030,15 +6871,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 14:00–15:30 | 14.10.2025–03.02.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
-
-### Comprensione e produzione orale 2 — Übung
-
-- **Segment:** `unit:91065` · **unitId:** `91065`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91065&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
-- **Turnus:** nur im Sommersemester
 
 ### Comprensione e produzione scritta — Übung
 
@@ -7171,14 +7003,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 
-### Die Etablierung eines kunsthistorischen Stils: Die Donauschule — Ober- und Hauptseminar
-
-- **Segment:** `unit:126646` · **unitId:** `126646`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126646&periodId=565>
-
-- **Veranstaltungsart:** Ober- und Hauptseminar
-- **Turnus:** Unregelmäßig
-
 ### Die Kuratierung des kollektiven Gedächtnisses - Traditionen und Transformationen von Erinnerungskultur — Seminar
 
 - **Segment:** `unit:123442` · **unitId:** `123442`
@@ -7186,13 +7010,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **Turnus:** nur im Wintersemester
-
-### Die Kuratierung des kollektiven Gedächtnisses - Traditionen und Transformationen von Erinnerungskultur — Seminar
-
-- **Segment:** `unit:138602` · **unitId:** `138602`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138602&periodId=565>
-
-- **Veranstaltungsart:** Seminar
 
 ### Die Überzeugungskraft der Bilder. Kunst des 15. Jahrhunderts im Germanischen Nationalmuseum — Aufbauseminar
 
@@ -7274,15 +7091,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
-### Eine Reise nach Japan: Der Blick nach ,Osten' und seine Bedeutung für die westliche Moderne — Ober- und Hauptseminar
-
-- **Segment:** `unit:127216` · **unitId:** `127216`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127216&periodId=565>
-
-- **Veranstaltungsart:** Ober- und Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
 ### Einführung in die Barockarchitektur: Architekten - Bauaufgaben - Auftraggeber — Aufbauseminar
 
 - **Segment:** `unit:111188` · **unitId:** `111188`
@@ -7291,37 +7099,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Aufbauseminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
-
-### Einführung in die Didaktik des Deutschen als Zweitsprache — Vorlesung
-
-- **Segment:** `unit:92076` · **unitId:** `92076`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92076&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 3.0
-- **Turnus:** nur im Wintersemester
-
-### Einführung in die Erziehungswissenschaft — Vorlesung
-
-- **Segment:** `unit:105695` · **unitId:** `105695`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=105695&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
-
-### Einführung in die Erziehungswissenschaft — Vorlesung
-
-- **Segment:** `unit:106126` · **unitId:** `106126`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106126&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-
-### Einführung in die kulturelle Bildung — Seminar
-
-- **Segment:** `unit:106232` · **unitId:** `106232`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106232&periodId=565>
-
-- **Veranstaltungsart:** Seminar
 
 ### Einführung in die Medienpädagogik — Seminar
 
@@ -7367,6 +7144,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 
+### Einführung in qualitative Forschungsmethoden — Seminar
+
+- **Segment:** `unit:107649` · **unitId:** `107649`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107649&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+
 ### Einführung in qualitative Methoden — Seminar
 
 - **Segment:** `unit:104794` · **unitId:** `104794`
@@ -7406,6 +7190,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Di | Di | 10:00–12:00 | — | — |
 
+### Erziehungstheorie — Seminar
+
+- **Segment:** `unit:106124` · **unitId:** `106124`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106124&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+
+### Erziehungstheorie — Seminar
+
+- **Segment:** `unit:115875` · **unitId:** `115875`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115875&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+
 ### Esercitazioni di espressione orale — Übung
 
 - **Segment:** `unit:87622` · **unitId:** `87622`
@@ -7422,15 +7220,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mi | 14:15–15:45 | 22.10.2025–04.02.2026 | 05701.00.010 ( 00.010 Übungsraum 1) |
 
-### Esercitazioni di fonetica pratica PronunciAmo (Blended Learning Kurs) — Übung
-
-- **Segment:** `unit:93355` · **unitId:** `93355`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93355&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
 ### Ethnografie über Feldgrenzen hinweg: Welt, Web, Workplace — Seminar
 
 - **Segment:** `unit:135442` · **unitId:** `135442`
@@ -7438,28 +7227,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **Turnus:** in jedem Semester
-
-### Examensvorbereitungskurs Grundschulpädagogik — Hauptseminar
-
-- **Segment:** `unit:92913` · **unitId:** `92913`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92913&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Do | 13:00–14:00 | 23.10.2025 | — |
-| Einzeltermin | Do | 13:00–14:00 | 20.11.2025 | — |
-| Einzeltermin | Do | 13:00–14:00 | 11.12.2025 | — |
-| Einzeltermin | Do | 13:00–14:00 | 22.01.2026 | — |
-| Einzeltermin | Mi | 09:00–16:00 | 11.02.2026 | 20301.01.042 (1.042 großer Hörsaal (230)) |
-| Einzeltermin | Do | 09:00–16:00 | 12.02.2026 | 20301.01.042 (1.042 großer Hörsaal (230)) |
-| Einzeltermin | Fr | 09:00–16:00 | 13.02.2026 | 20301.01.042 (1.042 großer Hörsaal (230)) |
-| Einzeltermin | Di | 10:00–14:00 | 17.02.2026 | 20301.01.042 (1.042 großer Hörsaal (230)) |
 
 ### Feminismus?! Ästhetik und Theorie der Geschlechterdifferenz im Kunstfeld — Vorlesung
 
@@ -7488,15 +7255,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
-### Fonetica pratica — Übung
-
-- **Segment:** `unit:99893` · **unitId:** `99893`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99893&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 1.0
-- **Turnus:** nur im Sommersemester
-
 ### Frauen als Auftraggeberinnen in der Frühen Neuzeit: Malerei - Skulptur - Architektur — Seminar
 
 - **Segment:** `unit:133896` · **unitId:** `133896`
@@ -7505,14 +7263,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
-
-### Frauen in der Kunst — Seminar
-
-- **Segment:** `unit:91700` · **unitId:** `91700`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91700&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nur im Wintersemester
 
 ### Frauenemanzipation: Historische und biographische Perspektiven — Seminar
 
@@ -7559,15 +7309,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 
-### Gotische Skulptur in Frankreich — Aufbauseminar
-
-- **Segment:** `unit:123004` · **unitId:** `123004`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123004&periodId=565>
-
-- **Veranstaltungsart:** Aufbauseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
 ### Grammatica e stilistica I — Übung
 
 - **Segment:** `unit:86556` · **unitId:** `86556`
@@ -7583,13 +7324,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Fr | 08:30–10:00 | 24.10.2025–06.02.2026 | 05701.00.010 ( 00.010 Übungsraum 1) |
-
-### Grounded Theory — Seminar
-
-- **Segment:** `unit:127255` · **unitId:** `127255`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127255&periodId=565>
-
-- **Veranstaltungsart:** Seminar
 
 ### Grundlagen der Ethik (Philosophie 1) — Vorlesung mit Übung
 
@@ -7630,15 +7364,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Di | Di | — | — | — |
 
-### Hannah Höch: Künstlerin (in) der Avantgarde — Ober- und Hauptseminar
-
-- **Segment:** `unit:133893` · **unitId:** `133893`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133893&periodId=565>
-
-- **Veranstaltungsart:** Ober- und Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
 ### Hans Baldung Grien — Ober- und Hauptseminar
 
 - **Segment:** `unit:131219` · **unitId:** `131219`
@@ -7671,6 +7396,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **Turnus:** in jedem Semester
+
+### Historische Aspekte — Seminar
+
+- **Segment:** `unit:115879` · **unitId:** `115879`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115879&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+
+### Historische Aspekte der Pädagogik — Seminar
+
+- **Segment:** `unit:106163` · **unitId:** `106163`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106163&periodId=565>
+
+- **Veranstaltungsart:** Seminar
 
 ### Historische und Politische Bildung — Seminar
 
@@ -7916,14 +7655,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### Keßler-Schnupp / Blended Learning: Ausgewählte Themen des Schriftspracherwerbs — Mittelseminar
-
-- **Segment:** `unit:97656` · **unitId:** `97656`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97656&periodId=565>
-
-- **Veranstaltungsart:** Mittelseminar
-- **Turnus:** in jedem Semester
-
 ### Keßler-Schnupp / Blockseminar: Was ist Leistung und wie kommt man zu einer objektiven und bewussten Bewertung? — Mittelseminar
 
 - **Segment:** `unit:93664` · **unitId:** `93664`
@@ -7942,14 +7673,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Fr | 14:00–18:00 | 21.11.2025 | 20301.02.047 (2.047 Seminarraum (40)) |
 | Einzeltermin | Sa | 09:00–18:00 | 22.11.2025 | 20301.02.047 (2.047 Seminarraum (40)) |
 | Einzeltermin | Fr | 14:00–15:30 | 05.12.2025 | 20301.01.033 (1.033 Seminarraum (40)) |
-
-### Keßler-Schnupp / Theoretische Grundlagen einer Werteerziehung für die Grundschule. Eine Veranstaltung für Lehrende — Seminar
-
-- **Segment:** `unit:123444` · **unitId:** `123444`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123444&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
 
 ### Keßler-Schnupp / Was ist Leistung und wie kommt man zu einer objektiven und bewussten Bewertung?(Kurs B) — Mittelseminar
 
@@ -7976,23 +7699,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Ober- und Hauptseminar
 - **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
-### Kirschhock / Blended Learning: Problemkreise des Schriftspracherwerbs  (Kurs B) — Seminar
-
-- **Segment:** `unit:118734` · **unitId:** `118734`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118734&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** Unregelmäßig
-
-### Kirschhock / Blended Learning: Problemkreise im Schriftspracherwerb (Kurs B) — Mittelseminar
-
-- **Segment:** `unit:112325` · **unitId:** `112325`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112325&periodId=565>
-
-- **Veranstaltungsart:** Mittelseminar
-- **ECTS-Punkte:** 3.0
 - **Turnus:** Unregelmäßig
 
 ### Kirschhock / Blended Learning: Problemkreise im Schriftspracherwerb (Kurs B) — Mittelseminar
@@ -8112,18 +7818,17 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mi | 08:00–09:30 | 15.10.2025–04.02.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
 
-### Kopp / Individuell und aktiv lernen im Sachunterricht der Grundschule — Seminar
-
-- **Segment:** `unit:126862` · **unitId:** `126862`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126862&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
 ### Kultur — Seminar
 
 - **Segment:** `unit:106203` · **unitId:** `106203`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106203&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+
+### Kultur und Erziehung — Seminar
+
+- **Segment:** `unit:115979` · **unitId:** `115979`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115979&periodId=565>
 
 - **Veranstaltungsart:** Seminar
 
@@ -8141,15 +7846,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 16:00–18:00 | 14.10.2025–03.02.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
-
-### Kunst der Gegenwart: Konzepte, Debatten, Verfahren seit 1960 — Vorlesung
-
-- **Segment:** `unit:119845` · **unitId:** `119845`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119845&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
 
 ### Kunst und Museen in Franken
 
@@ -8276,23 +7972,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **Turnus:** in jedem Semester
 
-### Lange / Einführungsmodul GSP: Grundlagen der Grundschulpädagogik — Vorlesung
-
-- **Segment:** `unit:102550` · **unitId:** `102550`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102550&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 11:30–13:00 | 14.10.2025–03.02.2026 | 20301.01.041 (1.041 großer Hörsaal (310)) |
-| Einzeltermin | Di | 12:00–16:00 | 24.02.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
-| Einzeltermin | Di | 10:00–14:00 | 07.04.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
-
 ### Latein I für Anfänger (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
 - **Segment:** `unit:96547` · **unitId:** `96547`
@@ -8344,6 +8023,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:106230` · **unitId:** `106230`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106230&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+
+### Legal Anthropology — Seminar
+
+- **Segment:** `unit:111685` · **unitId:** `111685`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111685&periodId=565>
 
 - **Veranstaltungsart:** Seminar
 
@@ -8448,15 +8134,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Sa | 09:00–15:30 | 15.11.2025 | — |
 | Einzeltermin | Fr | 14:00–19:00 | 12.12.2025 | — |
 | Einzeltermin | Sa | 09:00–15:30 | 13.12.2025 | — |
-
-### Mensch - Natur - Kunst: Welt-Bilder und Gegen-Welten — Ober- und Hauptseminar
-
-- **Segment:** `unit:122847` · **unitId:** `122847`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122847&periodId=565>
-
-- **Veranstaltungsart:** Ober- und Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
 
 ### Mensch-KI-Interaktionen. Digitale Transformationen von Wissensvermittlung — Seminar
 
@@ -8684,14 +8361,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 4.0
 - **Turnus:** Unregelmäßig
 
-### Natur- und Tierethik (Philosophie 2) — Seminar
-
-- **Segment:** `unit:138547` · **unitId:** `138547`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138547&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** Unregelmäßig
-
 ### Neues Bauen in der Weimarer Republik — Aufbauseminar
 
 - **Segment:** `unit:111189` · **unitId:** `111189`
@@ -8701,14 +8370,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
-### Nürnberg als Global City 1300-1600  - Seminar zur Konzeption der Ausstellung im GNM 2025
+### NN — Seminar
 
-- **Segment:** `unit:116326` · **unitId:** `116326`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116326&periodId=565>
+- **Segment:** `unit:134617` · **unitId:** `134617`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134617&periodId=565>
 
 - **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
+- **Turnus:** in jedem Semester
 
 ### Nürnberg Global (GNM). Realisation einer Sonderausstellung — Seminar
 
@@ -8726,6 +8394,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Einzeltermin | Di | 12:00–14:00 | 09.12.2025 | — |
 | Blockveranstaltung | — | 10:00–18:00 | 03.03.2026–06.03.2026 | — |
+
+### Online Begleitseminar Abschlussarbeiten
+
+- **Segment:** `unit:115906` · **unitId:** `115906`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115906&periodId=565>
+
+- **Veranstaltungsart:** Begleitseminar
 
 ### Organisation und Optimierung — Seminar
 
@@ -8957,18 +8632,17 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | 11:30–13:00 | 07.12.2025 23:59:59 | — |
 
-### Pädagogik und das Ende der Geschichte — Seminar
+### Pädagogik des Performativen — Seminar
 
-- **Segment:** `unit:134621` · **unitId:** `134621`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134621&periodId=565>
+- **Segment:** `unit:111753` · **unitId:** `111753`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111753&periodId=565>
 
 - **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
 
-### Pädagogik und Emanzipation — Seminar
+### Pädagogik des Performativen — Seminar
 
-- **Segment:** `unit:119458` · **unitId:** `119458`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119458&periodId=565>
+- **Segment:** `unit:119413` · **unitId:** `119413`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119413&periodId=565>
 
 - **Veranstaltungsart:** Seminar
 
@@ -8978,6 +8652,27 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138833&periodId=565>
 
 - **Veranstaltungsart:** Seminar
+
+### Pädagogische Anthropologie und Sozialisationstheorie — Vorlesung
+
+- **Segment:** `unit:115974` · **unitId:** `115974`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115974&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+
+### Pädagogische Anthropologie und Sozialisationstheorie (Angebot am Standort Erlangen) — Vorlesung
+
+- **Segment:** `unit:111749` · **unitId:** `111749`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111749&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+
+### Pädagogische Anthropologie und Sozialisationstheorien (Angebot am Standort Erlangen) (Ersatz für die bisherige Vorlesung „Geschichte der Pädagogik“)
+
+- **Segment:** `unit:106190` · **unitId:** `106190`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106190&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
 
 ### Pädagogische Anthropologie und Sozialisationstheorien (Standort Erlangen) — Vorlesung
 
@@ -9019,13 +8714,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
-### Renaissance in Florenz: Giorgio Vasari und seine Künstlerviten — Aufbauseminar
+### Renner / (mainly) asynchronous-online: Primary Education across Europe (course for enrollement only) — Mittelseminar
 
-- **Segment:** `unit:126699` · **unitId:** `126699`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126699&periodId=565>
+- **Segment:** `unit:87995` · **unitId:** `87995`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87995&periodId=565>
 
-- **Veranstaltungsart:** Aufbauseminar
-- **Turnus:** Unregelmäßig
+- **Veranstaltungsart:** Mittelseminar
+- **Turnus:** in jedem Semester
 
 ### Renner / asynchron-online: Lehrgangsorientierte und lernwegsorientierte Konzeptionen des Schriftspracherwerbs (Einschreibekurs) — Mittelseminar
 
@@ -9062,7 +8757,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Mittelseminar
 - **Turnus:** Unregelmäßig
 
-### Renner / Blended Learning: Grundfragen der Grundschulpädagogik - Diskussion und Reflexion zentraler Themen der Grundschule — Seminar
+### Renner / Blended Learning: Grundfragen der Grundschulpädagogik - Diskussion und Reflexion zentraler Themen der Grundschule (Kurs A) — Seminar
 
 - **Segment:** `unit:138690` · **unitId:** `138690`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138690&periodId=565>
@@ -9089,6 +8784,32 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Di | 15:45–17:15 | 16.12.2025 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
 | Einzeltermin | Fr | 07:00–15:00 | 16.01.2026 | — |
 
+### Renner / Präsenzseminar: Diagnose und Förderung im Schriftspracherwerb - Arbeit an Fallbeispielen — Mittelseminar
+
+- **Segment:** `unit:95372` · **unitId:** `95372`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95372&periodId=565>
+
+- **Veranstaltungsart:** Mittelseminar
+- **ECTS-Punkte:** 3.0
+- **Turnus:** Unregelmäßig
+
+### Renner / Präsenzseminar: Diagnose und Förderung im Schriftspracherwerb - Arbeit an Fallbeispielen (Kurs B) — Mittelseminar
+
+- **Segment:** `unit:112326` · **unitId:** `112326`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112326&periodId=565>
+
+- **Veranstaltungsart:** Mittelseminar
+- **ECTS-Punkte:** 3.0
+- **Turnus:** Unregelmäßig
+
+### Renner / Synchronous Online Seminar: Global Classroom: Web-based collaboration of students around the world — Mittelseminar
+
+- **Segment:** `unit:115244` · **unitId:** `115244`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115244&periodId=565>
+
+- **Veranstaltungsart:** Mittelseminar
+- **Turnus:** Unregelmäßig
+
 ### Romanische Portale in Frankreich — Aufbauseminar
 
 - **Segment:** `unit:138350` · **unitId:** `138350`
@@ -9097,15 +8818,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Aufbauseminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
-
-### Rubens und die Italiener — Aufbauseminar
-
-- **Segment:** `unit:82249` · **unitId:** `82249`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82249&periodId=565>
-
-- **Veranstaltungsart:** Aufbauseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
 
 ### Römer /  Holocaust Education und Nationalsozialismus im Sachunterricht der Grundschule — Mittelseminar
 
@@ -9204,39 +8916,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Do | Do | 14:00–16:00 | 07.12.2025 23:59:59 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
 
-### Schule als Kulturraum — Seminar
+### Schule im Kontext kultureller und gesellschaftlicher Transformation (Angebot am Standort Erlangen) — Seminar
 
-- **Segment:** `unit:127342` · **unitId:** `127342`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127342&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
-### Seminar Einführungsmodul GSP: Grundlagen der Grundschulpädagogik
-
-- **Segment:** `unit:135226` · **unitId:** `135226`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135226&periodId=565>
+- **Segment:** `unit:134638` · **unitId:** `134638`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134638&periodId=565>
 
 - **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 11:30–13:00 | 14.10.2025–03.02.2026 | — |
-| Einzeltermin | Di | 12:00–16:00 | 24.02.2026 | — |
-| Einzeltermin | Di | 10:00–14:00 | 07.04.2026 | — |
-
-### Sinnlichkeit im Florenz der Medici — Vorlesung
-
-- **Segment:** `unit:111187` · **unitId:** `111187`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111187&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
 
 ### Sozialpsychologie (Nebenfach)
 
@@ -9251,6 +8937,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | 11:00–12:00 | — | 54301.02.219 ( 02.219 Seminarraum, Nägelsbachstr. 49b) |
+
+### Sprachliche Bildung im Fachunterricht — Seminar
+
+- **Segment:** `unit:93847` · **unitId:** `93847`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93847&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.0
+- **Turnus:** in jedem Semester
 
 ### Sprachsystem und Deutsch als Zweitsprache (vhb-Tutorium)
 
@@ -9310,13 +9005,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Sa | 10:00–18:00 | 13.12.2025 | — |
 | Einzeltermin | Sa | 10:00–18:00 | 17.01.2026 | — |
 
-### The Gender of Things:  How Epistemic and Technological Objects Become Gendered — Hauptseminar
+### Traditionen und Transformationen von Erziehung und Bildung - kulturgeschichtliche Perspektiven — Vorlesung
 
-- **Segment:** `unit:112297` · **unitId:** `112297`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112297&periodId=565>
+- **Segment:** `unit:119453` · **unitId:** `119453`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119453&periodId=565>
 
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** Unregelmäßig
+- **Veranstaltungsart:** Vorlesung
+
+### Traditionen und Transformationen von Erziehung und Bildung - kulturgeschichtliche Reflexionen — Vorlesung
+
+- **Segment:** `unit:127241` · **unitId:** `127241`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127241&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** in jedem Semester
 
 ### Traduzione tedesco - italiano — Übung
 
@@ -9334,6 +9036,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mi | 10:15–11:45 | 22.10.2025–04.02.2026 | 05701.00.010 ( 00.010 Übungsraum 1) |
 
+### Transformative Arts in Education — Seminar
+
+- **Segment:** `unit:116013` · **unitId:** `116013`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116013&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **Turnus:** nur im Wintersemester
+
 ### Trinks / Blended Learning: Alles auf Anfang?! - Übergänge im Grundschulalter — Mittelseminar
 
 - **Segment:** `unit:127856` · **unitId:** `127856`
@@ -9342,7 +9052,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Mittelseminar
 - **Turnus:** in jedem Semester
 
-### Trinks / Blended Learning: Grundfragen der Grundschulpädagogik - Diskussion und Reflexion zentraler Themen der Grundschule — Seminar
+### Trinks / Blended Learning: Grundfragen der Grundschulpädagogik - Diskussion und Reflexion zentraler Themen der Grundschule (Kurs D) — Seminar
 
 - **Segment:** `unit:138545` · **unitId:** `138545`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138545&periodId=565>
@@ -9450,6 +9160,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Di | Di | — | 07.12.2025 23:59:59 | — |
+
+### Viel mehr als Caspar David Friedrich: Eine Kulturgeschichte der Landschaft — Ober- und Hauptseminar
+
+- **Segment:** `unit:120167` · **unitId:** `120167`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120167&periodId=565>
+
+- **Veranstaltungsart:** Ober- und Hauptseminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** Unregelmäßig
 
 ### Vorlesung Allgemeine Psychologie I: Wahrnehmung
 
@@ -9593,15 +9312,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Di | 14:00–15:30 | 14.10.2025 | — |
 | wöchentlich | Di | 14:00–15:30 | 14.10.2025–03.02.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
 
-### Wiener Werkstätte. Die Moderne entsteht — Ober- und Hauptseminar
-
-- **Segment:** `unit:115782` · **unitId:** `115782`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115782&periodId=565>
-
-- **Veranstaltungsart:** Ober- und Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
 ### Yayoi Kusama im Kontext kritischer Künstlerinnenforschung — Ober- und Hauptseminar
 
 - **Segment:** `unit:131224` · **unitId:** `131224`
@@ -9638,5 +9348,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:123450` · **unitId:** `123450`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123450&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+
+### „Performing School“ - Praxistheoretische Persepktiven auf Schule im Kontext kultureller Transformation — Seminar
+
+- **Segment:** `unit:127335` · **unitId:** `127335`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127335&periodId=565>
 
 - **Veranstaltungsart:** Seminar

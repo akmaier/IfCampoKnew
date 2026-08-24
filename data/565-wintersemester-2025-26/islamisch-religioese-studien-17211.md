@@ -5,7 +5,7 @@ campo_segment: "title:17211"
 campo_path: "title:16758|title:16763|title:17211"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17211"
 po_version_count: 3
-course_count: 178
+course_count: 182
 fau_studiengang:
   - title: "Islamisch-Religiöse Studien (B.A.)"
     rel_path: "studiengang/islamisch-religioese-studien-b-a.md"
@@ -422,7 +422,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Campo-Segment:** `exam:13091077`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17211|exam:13091071|exam:13091074|exam:13091076|exam:13091077>
 
-## Veranstaltungen (178)
+## Veranstaltungen (182)
 
 ### BA 3. FS: Das islamische Denken in der Umbruchzeit: Verhältnis von Tradition und Moderne bei ausgewählten muslimischen Denkern des 19. und 20. Jahrhunderts (Modul: Kalam II) - Seminar
 
@@ -508,6 +508,42 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 12:00–14:00 | 21.10.2025–03.02.2026 | — |
+
+### BA 5. FS, Ein-Fach, Praktikum Begleitkurs - Kurs
+
+- **Segment:** `exam:13086628` · **unitId:** `113144`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17211|exam:13085193|exam:13085196|exam:13085198|exam:13086626|exam:13086628>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113144&periodId=565>
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 10:00–12:00 | 06.02.2026 | — |
+
+### BA 5. FS, Ein-Fach, Praktikum Begleitkurs - Kurs
+
+- **Segment:** `exam:13089559` · **unitId:** `113144`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17211|exam:13088118|exam:13088121|exam:13088123|exam:13089557|exam:13089559>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113144&periodId=565>
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 10:00–12:00 | 06.02.2026 | — |
+
+### BA 5. FS, Ein-Fach, Praktikum Begleitkurs - Kurs
+
+- **Segment:** `exam:13092512` · **unitId:** `113144`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17211|exam:13091071|exam:13091074|exam:13091076|exam:13092510|exam:13092512>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113144&periodId=565>
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 10:00–12:00 | 06.02.2026 | — |
 
 ### BA 5. FS: Einführung in die islamische Philosophie (Modul: Islamische Philosophie & Ästhetik/Ethik) - Seminar
 
@@ -627,54 +663,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wird noch angekündigt | — | — | — | — |
-
-### BA 6. FS, Ein-Fach, Praktikum Begleitkurs - Kurs
-
-- **Segment:** `exam:13086628` · **unitId:** `113144`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17211|exam:13085193|exam:13085196|exam:13085198|exam:13086626|exam:13086628>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113144&periodId=565>
-
-- **Veranstaltungsart:** Kurs
-- **ECTS-Punkte:** 10.0
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 10:00–12:00 | 06.02.2026 | — |
-
-### BA 6. FS, Ein-Fach, Praktikum Begleitkurs - Kurs
-
-- **Segment:** `exam:13089559` · **unitId:** `113144`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17211|exam:13088118|exam:13088121|exam:13088123|exam:13089557|exam:13089559>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113144&periodId=565>
-
-- **Veranstaltungsart:** Kurs
-- **ECTS-Punkte:** 10.0
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 10:00–12:00 | 06.02.2026 | — |
-
-### BA 6. FS, Ein-Fach, Praktikum Begleitkurs - Kurs
-
-- **Segment:** `exam:13092512` · **unitId:** `113144`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17211|exam:13091071|exam:13091074|exam:13091076|exam:13092510|exam:13092512>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113144&periodId=565>
-
-- **Veranstaltungsart:** Kurs
-- **ECTS-Punkte:** 10.0
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 10:00–12:00 | 06.02.2026 | — |
 
 ### Bibelkunde des Neuen Testaments (VHB) - Übungsseminar
 
@@ -883,86 +871,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Do | 10:00–13:00 | 23.10.2025 | — |
 | Einzeltermin | Do | 10:00–13:00 | 13.11.2025 | — |
 | Einzeltermin | Do | 10:00–13:00 | 22.01.2026 | — |
-
-### Kompetenzorientierte Sira-und Hadithdidaktik   Modul III Hadith/Sunna - Seminar
-
-- **Segment:** `exam:13749627` · **unitId:** `124665`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17211|exam:13101422|exam:13101423|exam:13101424|exam:13101433|exam:13749627>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124665&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Sa | 18:00–19:30 | 15.11.2025 | — |
-| Einzeltermin | Fr | 15:00–18:00 | 21.11.2025 | 56701.03.017 ( 03.017) |
-| Einzeltermin | Sa | 10:00–16:00 | 22.11.2025 | 56701.03.017 ( 03.017) |
-| Einzeltermin | Fr | 15:00–18:00 | 19.12.2025 | 56701.03.017 ( 03.017) |
-| Einzeltermin | Sa | 10:00–16:00 | 20.12.2025 | 56701.03.017 ( 03.017) |
-
-### Kompetenzorientierte Sira-und Hadithdidaktik   Modul III Hadith/Sunna - Seminar
-
-- **Segment:** `exam:13749628` · **unitId:** `124665`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17211|exam:13102880|exam:13102881|exam:13102882|exam:13102883|exam:13102892|exam:13749628>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124665&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Sa | 18:00–19:30 | 15.11.2025 | — |
-| Einzeltermin | Fr | 15:00–18:00 | 21.11.2025 | 56701.03.017 ( 03.017) |
-| Einzeltermin | Sa | 10:00–16:00 | 22.11.2025 | 56701.03.017 ( 03.017) |
-| Einzeltermin | Fr | 15:00–18:00 | 19.12.2025 | 56701.03.017 ( 03.017) |
-| Einzeltermin | Sa | 10:00–16:00 | 20.12.2025 | 56701.03.017 ( 03.017) |
-
-### Kompetenzorientierte Sira-und Hadithdidaktik   Modul III Hadith/Sunna - Seminar
-
-- **Segment:** `exam:13749629` · **unitId:** `124665`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17211|exam:13104340|exam:13104341|exam:13104342|exam:13104343|exam:13104352|exam:13749629>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124665&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Sa | 18:00–19:30 | 15.11.2025 | — |
-| Einzeltermin | Fr | 15:00–18:00 | 21.11.2025 | 56701.03.017 ( 03.017) |
-| Einzeltermin | Sa | 10:00–16:00 | 22.11.2025 | 56701.03.017 ( 03.017) |
-| Einzeltermin | Fr | 15:00–18:00 | 19.12.2025 | 56701.03.017 ( 03.017) |
-| Einzeltermin | Sa | 10:00–16:00 | 20.12.2025 | 56701.03.017 ( 03.017) |
-
-### Kompetenzorientierte Sira-und Hadithdidaktik   Modul III Hadith/Sunna - Seminar
-
-- **Segment:** `exam:13749630` · **unitId:** `124665`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17211|exam:13105800|exam:13105801|exam:13105802|exam:13105812|exam:13749630>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124665&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Sa | 18:00–19:30 | 15.11.2025 | — |
-| Einzeltermin | Fr | 15:00–18:00 | 21.11.2025 | 56701.03.017 ( 03.017) |
-| Einzeltermin | Sa | 10:00–16:00 | 22.11.2025 | 56701.03.017 ( 03.017) |
-| Einzeltermin | Fr | 15:00–18:00 | 19.12.2025 | 56701.03.017 ( 03.017) |
-| Einzeltermin | Sa | 10:00–16:00 | 20.12.2025 | 56701.03.017 ( 03.017) |
 
 ### Koran I, BA, 1. FS - Vorlesung
 
@@ -1219,6 +1127,40 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### MA 3. FS: Seminar (Modul: Islamische Religionsphilosophie) - Seminar
 
+- **Segment:** `exam:17866289` · **unitId:** `82723`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17211|exam:13088118|exam:13088121|exam:13088123|exam:13089578|exam:17866289>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82723&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:00–12:00 | 20.10.2025–02.02.2026 | — |
+
+### MA 3. FS: Seminar (Modul: Islamische Religionsphilosophie) - Seminar
+
+- **Segment:** `exam:17866290` · **unitId:** `82723`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17211|exam:13091071|exam:13091074|exam:13091076|exam:13092526|exam:17866290>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82723&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:00–12:00 | 20.10.2025–02.02.2026 | — |
+
+### MA 3. FS: Seminar (Modul: Islamische Religionsphilosophie) - Seminar
+
 - **Segment:** `exam:13099985` · **unitId:** `82723`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17211|exam:13099939|exam:13099940|exam:13099941|exam:13099982|exam:13099985>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82723&periodId=565>
@@ -1233,25 +1175,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 10:00–12:00 | 20.10.2025–02.02.2026 | — |
-
-### MA 3. FS: Vertiefungsseminar (Gegenwartsfragen islamischer Religionsdiskurse) - Seminar
-
-- **Segment:** `exam:13099988` · **unitId:** `100592`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17211|exam:13099939|exam:13099940|exam:13099941|exam:13099986|exam:13099988>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100592&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Do | 14:00–18:00 | 13.11.2025 | — |
-| Einzeltermin | Fr | 14:00–18:00 | 14.11.2025 | — |
-| Einzeltermin | Sa | 14:00–18:00 | 15.11.2025 | — |
 
 ### MA 3. FS: Vorlesung Islamische Religionsphilosophie (Modul: Islamische Religionsphilosophie) - Vorlesung
 
@@ -1289,6 +1212,59 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Blockveranstaltung+Sa | — | 08:00–13:00 | 09.01.2026–10.01.2026 | — |
 | Blockveranstaltung+Sa | — | 08:00–13:00 | 16.01.2026–17.01.2026 | — |
 
+### MA IRS Seminar Gegenwartsfragen islamischer Religionsdiskurse - Seminar
+
+- **Segment:** `exam:13099988` · **unitId:** `100592`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17211|exam:13099939|exam:13099940|exam:13099941|exam:13099986|exam:13099988>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100592&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 14:00–18:00 | 13.11.2025 | — |
+| Einzeltermin | Fr | 14:00–18:00 | 14.11.2025 | — |
+| Einzeltermin | Sa | 14:00–18:00 | 15.11.2025 | — |
+
+### MA IRS: 3. FS: Orientierungsmodul - Kurs
+
+- **Segment:** `exam:17866535` · **unitId:** `104406`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17211|exam:13099939|exam:13099940|exam:13099941|exam:13099942|exam:13099944|exam:17866535>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104406&periodId=565>
+
+- **Veranstaltungsart:** Kurs
+- **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wird noch angekündigt | — | — | — | — |
+
+### MA IRS: 3. FS: Orientierungsmodul - Kurs
+
+- **Segment:** `exam:17866545` · **unitId:** `104406`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17211|exam:13099939|exam:13099940|exam:13099941|exam:13099942|exam:13099947|exam:17866545>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104406&periodId=565>
+
+- **Veranstaltungsart:** Kurs
+- **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wird noch angekündigt | — | — | — | — |
+
 ### Meditation oder Worship? Religion und Heilung - Seminar
 
 - **Segment:** `exam:13706146` · **unitId:** `131010`
@@ -1322,6 +1298,86 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 16:00–18:00 | 13.10.2025–02.02.2026 | 07501.00.006 (Jordanweg 2) |
+
+### Modul III Hadith/Sunna - Seminar
+
+- **Segment:** `exam:13749627` · **unitId:** `124665`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17211|exam:13101422|exam:13101423|exam:13101424|exam:13101433|exam:13749627>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124665&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Sa | 18:00–19:30 | 15.11.2025 | — |
+| Einzeltermin | Fr | 15:00–18:00 | 21.11.2025 | 56701.03.017 ( 03.017) |
+| Einzeltermin | Sa | 10:00–16:00 | 22.11.2025 | 56701.03.017 ( 03.017) |
+| Einzeltermin | Fr | 15:00–18:00 | 19.12.2025 | 56701.03.017 ( 03.017) |
+| Einzeltermin | Sa | 10:00–16:00 | 20.12.2025 | 56701.03.017 ( 03.017) |
+
+### Modul III Hadith/Sunna - Seminar
+
+- **Segment:** `exam:13749628` · **unitId:** `124665`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17211|exam:13102880|exam:13102881|exam:13102882|exam:13102883|exam:13102892|exam:13749628>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124665&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Sa | 18:00–19:30 | 15.11.2025 | — |
+| Einzeltermin | Fr | 15:00–18:00 | 21.11.2025 | 56701.03.017 ( 03.017) |
+| Einzeltermin | Sa | 10:00–16:00 | 22.11.2025 | 56701.03.017 ( 03.017) |
+| Einzeltermin | Fr | 15:00–18:00 | 19.12.2025 | 56701.03.017 ( 03.017) |
+| Einzeltermin | Sa | 10:00–16:00 | 20.12.2025 | 56701.03.017 ( 03.017) |
+
+### Modul III Hadith/Sunna - Seminar
+
+- **Segment:** `exam:13749629` · **unitId:** `124665`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17211|exam:13104340|exam:13104341|exam:13104342|exam:13104343|exam:13104352|exam:13749629>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124665&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Sa | 18:00–19:30 | 15.11.2025 | — |
+| Einzeltermin | Fr | 15:00–18:00 | 21.11.2025 | 56701.03.017 ( 03.017) |
+| Einzeltermin | Sa | 10:00–16:00 | 22.11.2025 | 56701.03.017 ( 03.017) |
+| Einzeltermin | Fr | 15:00–18:00 | 19.12.2025 | 56701.03.017 ( 03.017) |
+| Einzeltermin | Sa | 10:00–16:00 | 20.12.2025 | 56701.03.017 ( 03.017) |
+
+### Modul III Hadith/Sunna - Seminar
+
+- **Segment:** `exam:13749630` · **unitId:** `124665`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17211|exam:13105800|exam:13105801|exam:13105802|exam:13105812|exam:13749630>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124665&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Sa | 18:00–19:30 | 15.11.2025 | — |
+| Einzeltermin | Fr | 15:00–18:00 | 21.11.2025 | 56701.03.017 ( 03.017) |
+| Einzeltermin | Sa | 10:00–16:00 | 22.11.2025 | 56701.03.017 ( 03.017) |
+| Einzeltermin | Fr | 15:00–18:00 | 19.12.2025 | 56701.03.017 ( 03.017) |
+| Einzeltermin | Sa | 10:00–16:00 | 20.12.2025 | 56701.03.017 ( 03.017) |
 
 ### Modul IV Fachsprache des Islam - Seminar
 
@@ -2850,7 +2906,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 12:00–13:00 | 14.10.2025–03.02.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (35)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (36)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -2896,15 +2952,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 10.0
 - **Turnus:** nur im Wintersemester
-
-### BA 4.+5.+6. FS Ein-Fach und Zwei-Fach IRS Seminar: Einführung in die islamische Mystik (Modul Islamische Mystik)
-
-- **Segment:** `unit:98157` · **unitId:** `98157`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98157&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
 
 ### BA 4./5./6. FS:  Seminar (Modul: Islamische Mystik, neue PO)
 
@@ -2994,31 +3041,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 
-### Hadith I, BA, 2.FS — Vorlesung
-
-- **Segment:** `unit:111966` · **unitId:** `111966`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111966&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-
 ### Hadith II, BA, 4. 6. FS — Seminar
 
 - **Segment:** `unit:127548` · **unitId:** `127548`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127548&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
-### Interreligiöse Zugänge zu den heiligen Schriften (Bibel und Koran im Gespräch) Modul Muslimisches Leben in Geschichte und Gegenwart, BA Islamisch-Religiöse Studien und Gegenwart, BA Islamisch-Religiöse Studien) — Seminar
-
-- **Segment:** `unit:128502` · **unitId:** `128502`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128502&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
-### Islamisch-Religiöse Studien im internationalen Raum — Seminar
-
-- **Segment:** `unit:135440` · **unitId:** `135440`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135440&periodId=565>
 
 - **Veranstaltungsart:** Seminar
 
@@ -3044,13 +3070,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 3.0
 - **Turnus:** nur im Wintersemester
-
-### Koran I, BA, 1. FS — Vorlesung
-
-- **Segment:** `unit:123764` · **unitId:** `123764`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123764&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
 
 ### Koran und Moderne, MA, 2.FS — Seminar
 
@@ -3106,6 +3125,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Blockveranstaltung | — | 09:00–14:15 | 18.02.2026–10.03.2026 | 05901.02.058 ( 2.058 R 2.058) |
 
+### Lektüreübung (Quran and modernity), MA, 2. FS
+
+- **Segment:** `unit:112220` · **unitId:** `112220`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112220&periodId=565>
+
+- **Veranstaltungsart:** Übung
+
+### Lektüreübung (Quran and modernity), MA, 2.FS — Vorlesung mit Übung
+
+- **Segment:** `unit:119226` · **unitId:** `119226`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119226&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+
 ### MA 1. FS: Forschungsmethoden und Quellenanalyse (Modul Forschungsmethoden und Quellenanalyse) — Seminar
 
 - **Segment:** `unit:101848` · **unitId:** `101848`
@@ -3157,6 +3190,34 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123763&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
+
+### Normenlehre I, BA, 2.FS — Seminar
+
+- **Segment:** `unit:112137` · **unitId:** `112137`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112137&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+
+### Normenlehre I, BA, 2.FS — Seminar
+
+- **Segment:** `unit:119221` · **unitId:** `119221`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119221&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+
+### Poetry Slam: Text, Performance, Event — Seminar
+
+- **Segment:** `unit:139350` · **unitId:** `139350`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139350&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+
+### Quran and modernity (Modul: Koran und Moderne), MA, 2. FS — Seminar
+
+- **Segment:** `unit:127558` · **unitId:** `127558`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127558&periodId=565>
+
+- **Veranstaltungsart:** Seminar
 
 ### Referat (20 Min.) und Hausarbeit (ca. 20 Seiten) oder Klausur (90 Min.) zu Forschungsmethoden und Quellenanalyse
 

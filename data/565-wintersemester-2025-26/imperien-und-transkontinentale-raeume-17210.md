@@ -689,17 +689,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Di | 09:45–12:15 | 21.10.2025–27.01.2026 | 05901.01.055 ( 01.055) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (37)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (34)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
-
-### 24/7 Everything and the Poetics of Deceleration — Hauptseminar
-
-- **Segment:** `unit:122563` · **unitId:** `122563`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122563&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** Unregelmäßig
 
 ### Aktuelle Texte der Philosophie — Hauptseminar / Masterseminar
 
@@ -712,14 +704,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:122645` · **unitId:** `122645`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122645&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
-- **Turnus:** in jedem Semester
-
-### Aktuelle Texte der Philosophie — Hauptseminar / Masterseminar
-
-- **Segment:** `unit:126785` · **unitId:** `126785`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126785&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
 - **Turnus:** in jedem Semester
@@ -778,28 +762,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Kombiseminar
 - **Turnus:** nicht in diesem Semester
 
-### Arthur C. Danto: The Transfiguration of the Commonplace — Hauptseminar / Masterseminar
-
-- **Segment:** `unit:134079` · **unitId:** `134079`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134079&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
-- **Turnus:** Unregelmäßig
-
 ### Authors as Fans: American Prose Fiction and Its Intertexts — Hauptseminar
 
 - **Segment:** `unit:122564` · **unitId:** `122564`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122564&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar
-- **Turnus:** Unregelmäßig
-
-### B. Williams, Shame and Necessity — Hauptseminar / Masterseminar
-
-- **Segment:** `unit:134426` · **unitId:** `134426`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134426&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
 - **Turnus:** Unregelmäßig
 
 ### BA-5 Seminar Modul Konfuzianische Traditionen im Wandel — Hauptseminar
@@ -845,18 +813,18 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
-### Funktionalistische Erkenntnistheorie — Hauptseminar / Masterseminar
-
-- **Segment:** `unit:122648` · **unitId:** `122648`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122648&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
-- **Turnus:** Unregelmäßig
-
 ### Geist und Imagination - Philosophie der Vorstellungskraft — Hauptseminar / Masterseminar
 
 - **Segment:** `unit:134085` · **unitId:** `134085`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134085&periodId=565>
+
+- **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Turnus:** Unregelmäßig
+
+### Hegel: Phänomenologie des Geistes — Hauptseminar / Masterseminar
+
+- **Segment:** `unit:118815` · **unitId:** `118815`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118815&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
 - **Turnus:** Unregelmäßig
@@ -954,27 +922,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Blockveranstaltung | — | 09:00–14:15 | 18.02.2026–10.03.2026 | 05901.02.058 ( 2.058 R 2.058) |
 
-### MA-AM1: Informationsgesellschaft und digitale Transformation in Japan — Seminar
+### MA-BM 1: Politik und Gesellschaft Japans — Seminar
 
-- **Segment:** `unit:124083` · **unitId:** `124083`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124083&periodId=565>
+- **Segment:** `unit:86720` · **unitId:** `86720`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86720&periodId=565>
 
 - **Veranstaltungsart:** Seminar
-
-### Oberseminar zur Neueste Geschichte und Zeitgeschichte
-
-- **Segment:** `unit:111569` · **unitId:** `111569`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111569&periodId=565>
-
-- **Veranstaltungsart:** Oberseminar
-- **Turnus:** in jedem Semester
-
-### Oberseminar, Lehrstuhl für Neuere und Neueste Geschichte mit dem Schwerpunkt der Geschichte Osteuropas
-
-- **Segment:** `unit:120687` · **unitId:** `120687`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120687&periodId=565>
-
-- **Veranstaltungsart:** Oberseminar
+- **Turnus:** Unregelmäßig
 
 ### Philosophical Perspectives on Mental Well-Being — Hauptseminar / Masterseminar
 
@@ -999,6 +953,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Kombiseminar
 
+### Recent Philosophical Perspectives on Understanding — Hauptseminar / Masterseminar
+
+- **Segment:** `unit:134435` · **unitId:** `134435`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134435&periodId=565>
+
+- **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Turnus:** Unregelmäßig
+
 ### Schriftliche Übersetzungsleistung Latein I für Anfänger (Zulassungsvoraussetzung zu Kurs Latein II für Fortgeschrittene)
 
 - **Segment:** `unit:39848` · **unitId:** `39848`
@@ -1020,3 +982,19 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
 - **Turnus:** Unregelmäßig
+
+### Wittgenstein: Philosophische Untersuchungen — Hauptseminar / Masterseminar
+
+- **Segment:** `unit:134072` · **unitId:** `134072`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134072&periodId=565>
+
+- **Veranstaltungsart:** Hauptseminar / Masterseminar
+- **Turnus:** Unregelmäßig
+
+### Übung zu "Analytische Philosophie der Kunst"
+
+- **Segment:** `unit:111713` · **unitId:** `111713`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111713&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **Turnus:** nicht in diesem Semester

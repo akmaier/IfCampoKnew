@@ -5,7 +5,7 @@ campo_segment: "exam:12198833"
 campo_path: "title:16758|title:16762|exam:12198833"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16762|exam:12198833"
 po_version_count: 0
-course_count: 175
+course_count: 176
 ---
 
 # - Frühstudium -
@@ -14,7 +14,7 @@ course_count: 175
 
 _Section: Frühstudium_  
 
-## Veranstaltungen (175)
+## Veranstaltungen (176)
 
 ### [Mineralogie II] - Angewandte Mineralogie 1 - Vorlesung
 
@@ -1167,9 +1167,7 @@ _Section: Frühstudium_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16762|exam:12198833|exam:12199139>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87079&periodId=565>
 
-- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -1760,10 +1758,7 @@ _Section: Frühstudium_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16762|exam:12198833|exam:12198871>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85710&periodId=565>
 
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -2174,6 +2169,25 @@ _Section: Frühstudium_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 11:00–12:30 | 14.10.2025–03.02.2026 | 00501.01.012 ( KH 1.012 Hörsaal Kollegienhaus) |
+
+### Ling AM-2 - Ling AM-2: Seminar Linguistik - Seminar
+
+- **Segment:** `exam:17864709` · **unitId:** `89742`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16762|exam:12198833|exam:17864709>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89742&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:15–15:45 | 22.10.2025–04.02.2026 | 05801.01.210 ( B 301) |
+| Einzeltermin | Mi | 16:15–17:45 | 10.12.2025 | 05801.01.210 ( B 301) |
+| Einzeltermin | Mi | 16:15–17:45 | 07.01.2026 | 05801.01.210 ( B 301) |
 
 ### Ling BM-1 - Ling BM-1: Einführung in die germanistische  Linguistik (Erlangen, geöffnet für alle Studiengänge) - Einführungskurs
 

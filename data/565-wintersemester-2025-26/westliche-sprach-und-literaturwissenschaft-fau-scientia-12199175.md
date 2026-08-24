@@ -5,7 +5,7 @@ campo_segment: "exam:12199175"
 campo_path: "title:16758|title:16766|exam:12199175"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16766|exam:12199175"
 po_version_count: 0
-course_count: 19
+course_count: 20
 ---
 
 # - Westliche Sprach- und Literaturwissenschaft (FAU Scientia)  -
@@ -14,7 +14,7 @@ course_count: 19
 
 _Section: FAU Scientia Gaststudium_  
 
-## Veranstaltungen (19)
+## Veranstaltungen (20)
 
 ### Aufbauseminar Culture - Aufbauseminar
 
@@ -285,6 +285,22 @@ _Section: FAU Scientia Gaststudium_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Fr | 12:15–13:45 | 17.10.2025–06.02.2026 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
+
+### Ling VM - Ling VM-Kolleg: Bereich Sprachwandel/Variation, Gegenwartssprache/DaF (in Erlangen, geöffnet für alle Studiengänge) - Kolleg
+
+- **Segment:** `exam:17864726` · **unitId:** `87232`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16766|exam:12199175|exam:17864726>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87232&periodId=565>
+
+- **Veranstaltungsart:** Kolleg
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:30–18:00 | 20.10.2025–02.02.2026 | 05801.01.211 ( B 302) |
 
 ### Ling VM-HS - Ling VM-Hauptseminar: Sprachwandel/Variation (Erlangen, nur für BA, LA Gym und Berufliche Schulen) - Hauptseminar
 

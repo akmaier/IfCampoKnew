@@ -510,44 +510,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | wöchentlich | Di | 10:00–12:00 | 14.10.2025–16.12.2025 | 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
 | wöchentlich | Di | 10:00–12:00 | 14.10.2025–03.02.2026 | 00501.01.014 ( KH 1.014 Hörsaal Kollegienhaus) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (19)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (16)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
-
-### Autocracy, Democracy, and Human Rights — Masterseminar
-
-- **Segment:** `unit:127601` · **unitId:** `127601`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127601&periodId=565>
-
-- **Veranstaltungsart:** Masterseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### Business and Human Rights — Masterseminar
-
-- **Segment:** `unit:96626` · **unitId:** `96626`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96626&periodId=565>
-
-- **Veranstaltungsart:** Masterseminar
-- **Turnus:** nur im Sommersemester
-
-### Current Issues in Human Rights — Seminar
-
-- **Segment:** `unit:138293` · **unitId:** `138293`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138293&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
-
-### Digital Geographic Information for Monitoring Human Rights Violations: Challenges and Opportunities — Masterseminar
-
-- **Segment:** `unit:90071` · **unitId:** `90071`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90071&periodId=565>
-
-- **Veranstaltungsart:** Masterseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
 
 ### Human Rights in International Organisations: Law & Politics — Masterseminar
 
@@ -636,14 +601,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Blockveranstaltung | — | 09:00–14:15 | 18.02.2026–10.03.2026 | 05901.02.058 ( 2.058 R 2.058) |
 
-### Leading Cases of Human Rights Law — Seminar
-
-- **Segment:** `unit:96549` · **unitId:** `96549`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96549&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nur im Wintersemester
-
 ### Migration and Human Rights — Masterseminar
 
 - **Segment:** `unit:86750` · **unitId:** `86750`
@@ -699,6 +656,24 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Masterseminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
+
+### The Politics of Human Rights — Vorlesung
+
+- **Segment:** `unit:99807` · **unitId:** `99807`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99807&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
+
+### The Politics of Human Rights — Vorlesung mit Übung
+
+- **Segment:** `unit:115390` · **unitId:** `115390`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115390&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
 
 ### Transitional Justice — Masterseminar
 

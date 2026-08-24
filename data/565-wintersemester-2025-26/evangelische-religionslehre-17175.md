@@ -4,8 +4,8 @@ period_name: "Wintersemester 2025/26"
 campo_segment: "title:17175"
 campo_path: "title:16758|title:16763|title:17175"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175"
-po_version_count: 53
-course_count: 269
+po_version_count: 26
+course_count: 215
 ---
 
 # Evangelische Religionslehre
@@ -14,7 +14,7 @@ course_count: 269
 
 _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theologie_  
 
-## Prüfungsordnungs-Versionen (53)
+## Prüfungsordnungs-Versionen (26)
 
 ### Christliche Ethik und ethische Bildung -
 
@@ -23,18 +23,8 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### Einführung in die Ethik -
 
-- **Campo-Segment:** `exam:12740852`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12740813|exam:12740815|exam:12740816|exam:12740819|exam:12740837|exam:12740852>
-
-### Einführung in die Ethik -
-
 - **Campo-Segment:** `exam:12741079`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12740996|exam:12740998|exam:12740999|exam:12741002|exam:12741078|exam:12741079>
-
-### Einführung in die Ethik -
-
-- **Campo-Segment:** `exam:12741737`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12741698|exam:12741700|exam:12741701|exam:12741704|exam:12741722|exam:12741737>
 
 ### Einführung in die Ethik -
 
@@ -48,18 +38,8 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### Fachdidaktik: Unterricht -
 
-- **Campo-Segment:** `exam:12740960`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12740813|exam:12740815|exam:12740816|exam:12740927|exam:12740959|exam:12740960>
-
-### Fachdidaktik: Unterricht -
-
 - **Campo-Segment:** `exam:12741155`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12740996|exam:12740998|exam:12740999|exam:12741109|exam:12741138|exam:12741155>
-
-### Fachdidaktik: Unterricht -
-
-- **Campo-Segment:** `exam:12741845`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12741698|exam:12741700|exam:12741701|exam:12741812|exam:12741844|exam:12741845>
 
 ### Fachdidaktik: Unterricht -
 
@@ -103,38 +83,13 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### Grundlagen und Fragen christlicher Ethik -
 
-- **Campo-Segment:** `exam:12740860`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12740813|exam:12740815|exam:12740816|exam:12740819|exam:12740857|exam:12740860>
-
-### Grundlagen und Fragen christlicher Ethik -
-
 - **Campo-Segment:** `exam:12741647`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12741635|exam:12741636|exam:12741637|exam:12741638|exam:12741644|exam:12741647>
-
-### Grundlagen und Fragen christlicher Ethik -
-
-- **Campo-Segment:** `exam:12741745`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12741698|exam:12741700|exam:12741701|exam:12741704|exam:12741742|exam:12741745>
-
-### Grundlagen und Fragen christlicher Ethik -
-
-- **Campo-Segment:** `exam:12742178`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12742060|exam:12742061|exam:12742062|exam:12742064|exam:12742175|exam:12742178>
-
-### Hauptthemen der Religionsdidaktik -
-
-- **Campo-Segment:** `exam:12740973`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12740813|exam:12740815|exam:12740816|exam:12740927|exam:12740959|exam:12740973>
 
 ### Hauptthemen der Religionsdidaktik -
 
 - **Campo-Segment:** `exam:12741139`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12740996|exam:12740998|exam:12740999|exam:12741109|exam:12741138|exam:12741139>
-
-### Hauptthemen der Religionsdidaktik -
-
-- **Campo-Segment:** `exam:12741858`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12741698|exam:12741700|exam:12741701|exam:12741812|exam:12741844|exam:12741858>
 
 ### Hauptthemen der Religionsdidaktik -
 
@@ -146,36 +101,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Campo-Segment:** `exam:12742429`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12742265|exam:12742266|exam:12742267|exam:12742399|exam:12742428|exam:12742429>
 
-### Religionspädagogik II -
-
-- **Campo-Segment:** `exam:12740932`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12740813|exam:12740815|exam:12740816|exam:12740927|exam:12740928|exam:12740932>
-
-### Religionspädagogik II -
-
-- **Campo-Segment:** `exam:12741817`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12741698|exam:12741700|exam:12741701|exam:12741812|exam:12741813|exam:12741817>
-
-### Religionspädagogik II -
-
-- **Campo-Segment:** `exam:12742219`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12742060|exam:12742061|exam:12742062|exam:12742214|exam:12742215|exam:12742219>
-
-### Religionswissenschaft -
-
-- **Campo-Segment:** `exam:12740916`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12740813|exam:12740815|exam:12740816|exam:12740819|exam:12740902|exam:12740916>
-
-### Religionswissenschaft -
-
-- **Campo-Segment:** `exam:12741801`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12741698|exam:12741700|exam:12741701|exam:12741704|exam:12741787|exam:12741801>
-
-### Religionswissenschaft -
-
-- **Campo-Segment:** `exam:12742112`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12742060|exam:12742061|exam:12742062|exam:12742064|exam:12742111|exam:12742112>
-
 ### Religionswissenschaft -
 
 - **Campo-Segment:** `exam:12742283`
@@ -186,45 +111,10 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Campo-Segment:** `exam:12741679`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12741665|exam:12741666|exam:12741667|exam:12741668|exam:12741673|exam:12741679>
 
-### Synoptische Evangelien/Jesus oder Paulus -
-
-- **Campo-Segment:** `exam:12740885`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12740813|exam:12740815|exam:12740816|exam:12740819|exam:12740882|exam:12740885>
-
-### Synoptische Evangelien/Jesus oder Paulus -
-
-- **Campo-Segment:** `exam:12741770`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12741698|exam:12741700|exam:12741701|exam:12741704|exam:12741767|exam:12741770>
-
-### Systematische Theologie -
-
-- **Campo-Segment:** `exam:12740903`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12740813|exam:12740815|exam:12740816|exam:12740819|exam:12740902|exam:12740903>
-
-### Systematische Theologie -
-
-- **Campo-Segment:** `exam:12741788`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12741698|exam:12741700|exam:12741701|exam:12741704|exam:12741787|exam:12741788>
-
-### Systematische Theologie -
-
-- **Campo-Segment:** `exam:12742066`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12742060|exam:12742061|exam:12742062|exam:12742064|exam:12742065|exam:12742066>
-
 ### Systematische Theologie -
 
 - **Campo-Segment:** `exam:12742271`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12742265|exam:12742266|exam:12742267|exam:12742269|exam:12742270|exam:12742271>
-
-### Themen der Systematischen Theologie im Religionsunterricht -
-
-- **Campo-Segment:** `exam:12740839`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12740813|exam:12740815|exam:12740816|exam:12740819|exam:12740837|exam:12740839>
-
-### Themen der Systematischen Theologie im Religionsunterricht -
-
-- **Campo-Segment:** `exam:12741724`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12741698|exam:12741700|exam:12741701|exam:12741704|exam:12741722|exam:12741724>
 
 ### Themen der Theologie im RU -
 
@@ -241,21 +131,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Campo-Segment:** `exam:12742336`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12742265|exam:12742266|exam:12742267|exam:12742269|exam:12742314|exam:12742336>
 
-### Themen neutestamentlicher Theologie -
-
-- **Campo-Segment:** `exam:12740877`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12740813|exam:12740815|exam:12740816|exam:12740819|exam:12740873|exam:12740877>
-
-### Themen neutestamentlicher Theologie -
-
-- **Campo-Segment:** `exam:12741762`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12741698|exam:12741700|exam:12741701|exam:12741704|exam:12741758|exam:12741762>
-
-### Themen neutestamentlicher Theologie -
-
-- **Campo-Segment:** `exam:12742209`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12742060|exam:12742061|exam:12742062|exam:12742064|exam:12742205|exam:12742209>
-
 ### Theologische Themen der Zeit -
 
 - **Campo-Segment:** `exam:12741026`
@@ -271,17 +146,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Campo-Segment:** `exam:12742316`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12742265|exam:12742266|exam:12742267|exam:12742269|exam:12742314|exam:12742316>
 
-### Wahlbereich -
-
-- **Campo-Segment:** `exam:12742078`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12742060|exam:12742061|exam:12742062|exam:12742064|exam:12742065|exam:12742078>
-
-### Wahlbereich -
-
-- **Campo-Segment:** `exam:12742121`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12742060|exam:12742061|exam:12742062|exam:12742064|exam:12742111|exam:12742121>
-
-## Veranstaltungen (269)
+## Veranstaltungen (215)
 
 ### "Was, daran glaubst Du...?" Religiöse Positionierung im RU - Seminar
 
@@ -420,57 +285,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### Blockseminar - Projektseminar
 
-- **Segment:** `exam:12742098` · **unitId:** `90999`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12742060|exam:12742061|exam:12742062|exam:12742064|exam:12742065|exam:12742098>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90999&periodId=565>
-
-- **Veranstaltungsart:** Projektseminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung+SaundSo | — | 14:00–15:00 | 13.02.2026–15.02.2026 | — |
-
-### Blockseminar - Projektseminar
-
-- **Segment:** `exam:12742142` · **unitId:** `90999`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12742060|exam:12742061|exam:12742062|exam:12742064|exam:12742111|exam:12742142>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90999&periodId=565>
-
-- **Veranstaltungsart:** Projektseminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung+SaundSo | — | 14:00–15:00 | 13.02.2026–15.02.2026 | — |
-
-### Blockseminar - Projektseminar
-
-- **Segment:** `exam:12742249` · **unitId:** `90999`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12742060|exam:12742061|exam:12742062|exam:12742214|exam:12742246|exam:12742249>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90999&periodId=565>
-
-- **Veranstaltungsart:** Projektseminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung+SaundSo | — | 14:00–15:00 | 13.02.2026–15.02.2026 | — |
-
-### Blockseminar - Projektseminar
-
 - **Segment:** `exam:17770904` · **unitId:** `90999`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12742265|exam:12742266|exam:12742267|exam:12742269|exam:12742368|exam:17770904>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90999&periodId=565>
@@ -485,54 +299,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Blockveranstaltung+SaundSo | — | 14:00–15:00 | 13.02.2026–15.02.2026 | — |
-
-### Einführung in das AT & Pentateuch - Vorlesung mit Übung
-
-- **Segment:** `exam:15943377` · **unitId:** `85126`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12740813|exam:12740815|exam:12740816|exam:12740819|exam:12740882|exam:15943377>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85126&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:00–15:30 | 13.10.2025–02.02.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
-
-### Einführung in das AT & Pentateuch - Vorlesung mit Übung
-
-- **Segment:** `exam:15943386` · **unitId:** `85126`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12741698|exam:12741700|exam:12741701|exam:12741704|exam:12741767|exam:15943386>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85126&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:00–15:30 | 13.10.2025–02.02.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
-
-### Einführung in das AT & Pentateuch - Vorlesung mit Übung
-
-- **Segment:** `exam:15943368` · **unitId:** `85126`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12742060|exam:12742061|exam:12742062|exam:12742064|exam:12742192|exam:15943368>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85126&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:00–15:30 | 13.10.2025–02.02.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 
 ### Einführung in die Religionspsychologie - Hauptseminar
 
@@ -1354,38 +1120,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### V/UE Jesus und die Evangelien - Vorlesung mit Übung
 
-- **Segment:** `exam:12740874` · **unitId:** `88201`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12740813|exam:12740815|exam:12740816|exam:12740819|exam:12740873|exam:12740874>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88201&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 11:30–13:00 | 16.10.2025–05.02.2026 | 75201.00.202 (St.Paul(V) 00.202 Seminarraum (20)) |
-
-### V/UE Jesus und die Evangelien - Vorlesung mit Übung
-
-- **Segment:** `exam:12740883` · **unitId:** `88201`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12740813|exam:12740815|exam:12740816|exam:12740819|exam:12740882|exam:12740883>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88201&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 11:30–13:00 | 16.10.2025–05.02.2026 | 75201.00.202 (St.Paul(V) 00.202 Seminarraum (20)) |
-
-### V/UE Jesus und die Evangelien - Vorlesung mit Übung
-
 - **Segment:** `exam:12741101` · **unitId:** `88201`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12740996|exam:12740998|exam:12740999|exam:12741002|exam:12741100|exam:12741101>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88201&periodId=565>
@@ -1402,72 +1136,8 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### V/UE Jesus und die Evangelien - Vorlesung mit Übung
 
-- **Segment:** `exam:12741759` · **unitId:** `88201`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12741698|exam:12741700|exam:12741701|exam:12741704|exam:12741758|exam:12741759>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88201&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 11:30–13:00 | 16.10.2025–05.02.2026 | 75201.00.202 (St.Paul(V) 00.202 Seminarraum (20)) |
-
-### V/UE Jesus und die Evangelien - Vorlesung mit Übung
-
-- **Segment:** `exam:12741768` · **unitId:** `88201`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12741698|exam:12741700|exam:12741701|exam:12741704|exam:12741767|exam:12741768>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88201&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 11:30–13:00 | 16.10.2025–05.02.2026 | 75201.00.202 (St.Paul(V) 00.202 Seminarraum (20)) |
-
-### V/UE Jesus und die Evangelien - Vorlesung mit Übung
-
 - **Segment:** `exam:12741983` · **unitId:** `88201`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12741879|exam:12741881|exam:12741882|exam:12741885|exam:12741982|exam:12741983>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88201&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 11:30–13:00 | 16.10.2025–05.02.2026 | 75201.00.202 (St.Paul(V) 00.202 Seminarraum (20)) |
-
-### V/UE Jesus und die Evangelien - Vorlesung mit Übung
-
-- **Segment:** `exam:12742193` · **unitId:** `88201`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12742060|exam:12742061|exam:12742062|exam:12742064|exam:12742192|exam:12742193>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88201&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 11:30–13:00 | 16.10.2025–05.02.2026 | 75201.00.202 (St.Paul(V) 00.202 Seminarraum (20)) |
-
-### V/UE Jesus und die Evangelien - Vorlesung mit Übung
-
-- **Segment:** `exam:12742206` · **unitId:** `88201`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12742060|exam:12742061|exam:12742062|exam:12742064|exam:12742205|exam:12742206>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88201&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
@@ -1532,22 +1202,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### VL Epochen der Kirchengeschichte 2 (Nürnberg) - Vorlesung
 
-- **Segment:** `exam:12740827` · **unitId:** `93666`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12740813|exam:12740815|exam:12740816|exam:12740819|exam:12740826|exam:12740827>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93666&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 08:00–09:30 | 14.10.2025–03.02.2026 | 75201.00.202 (St.Paul(V) 00.202 Seminarraum (20)) |
-
-### VL Epochen der Kirchengeschichte 2 (Nürnberg) - Vorlesung
-
 - **Segment:** `exam:12741009` · **unitId:** `93666`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12740996|exam:12740998|exam:12740999|exam:12741002|exam:12741008|exam:12741009>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93666&periodId=565>
@@ -1564,40 +1218,8 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### VL Epochen der Kirchengeschichte 2 (Nürnberg) - Vorlesung
 
-- **Segment:** `exam:12741712` · **unitId:** `93666`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12741698|exam:12741700|exam:12741701|exam:12741704|exam:12741711|exam:12741712>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93666&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 08:00–09:30 | 14.10.2025–03.02.2026 | 75201.00.202 (St.Paul(V) 00.202 Seminarraum (20)) |
-
-### VL Epochen der Kirchengeschichte 2 (Nürnberg) - Vorlesung
-
 - **Segment:** `exam:12741892` · **unitId:** `93666`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12741879|exam:12741881|exam:12741882|exam:12741885|exam:12741891|exam:12741892>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93666&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 08:00–09:30 | 14.10.2025–03.02.2026 | 75201.00.202 (St.Paul(V) 00.202 Seminarraum (20)) |
-
-### VL Epochen der Kirchengeschichte 2 (Nürnberg) - Vorlesung
-
-- **Segment:** `exam:12742162` · **unitId:** `93666`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12742060|exam:12742061|exam:12742062|exam:12742064|exam:12742161|exam:12742162>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93666&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
@@ -2230,24 +1852,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12742472|exam:12742473|exam:12742474|exam:12742475|exam:12742557>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=31870&periodId=565>
 
-### 73780 Kirchengeschichte 1
-
-- **Segment:** `exam:12740820` · **unitId:** `22961`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12740813|exam:12740815|exam:12740816|exam:12740819|exam:12740820>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=22961&periodId=565>
-
-### 73780 Kirchengeschichte 1
-
-- **Segment:** `exam:12741705` · **unitId:** `63556`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12741698|exam:12741700|exam:12741701|exam:12741704|exam:12741705>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=63556&periodId=565>
-
-### 73780 Kirchengeschichte 1
-
-- **Segment:** `exam:12742155` · **unitId:** `56124`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12742060|exam:12742061|exam:12742062|exam:12742064|exam:12742155>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56124&periodId=565>
-
 ### 73781 Kirchengeschichte 1
 
 - **Segment:** `exam:12741003` · **unitId:** `49482`
@@ -2278,12 +1882,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12742472|exam:12742473|exam:12742474|exam:12742475|exam:12742476|exam:12742525>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=24666&periodId=565>
 
-### 75930 Fachdidaktik Evangelische Religionslehre Grundschule
-
-- **Segment:** `exam:12740787` · **unitId:** `23652`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12740778|exam:12740779|exam:12740780|exam:12740781|exam:12740787>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23652&periodId=565>
-
 ### 75931 Fachdidaktik (DIDG) Evangelische Religionslehre Grundschule
 
 - **Segment:** `exam:12740803` · **unitId:** `49503`
@@ -2313,42 +1911,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Segment:** `exam:12741618` · **unitId:** `44086`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12741378|exam:12741379|exam:12741380|exam:12741611|exam:12741618>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44086&periodId=565>
-
-### 78611 Seminar Einführung: RU in der Grundschule bzw. Hauptschule (Fachdidaktik)
-
-- **Segment:** `exam:12740990` · **unitId:** `36857`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12740813|exam:12740815|exam:12740816|exam:12740927|exam:12740990>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36857&periodId=565>
-
-### 78611 Seminar Einführung: RU in der Grundschule bzw. Hauptschule (Fachdidaktik)
-
-- **Segment:** `exam:12741875` · **unitId:** `57233`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12741698|exam:12741700|exam:12741701|exam:12741812|exam:12741875>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57233&periodId=565>
-
-### 78612 Seminar Einführung: RU in der Realschule (Fachdidaktik)
-
-- **Segment:** `exam:12742257` · **unitId:** `36858`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12742060|exam:12742061|exam:12742062|exam:12742214|exam:12742257>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36858&periodId=565>
-
-### 78700 Religionswissenschaft
-
-- **Segment:** `exam:12740866` · **unitId:** `67106`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12740813|exam:12740815|exam:12740816|exam:12740819|exam:12740866>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=67106&periodId=565>
-
-### 78700 Religionswissenschaft
-
-- **Segment:** `exam:12741751` · **unitId:** `56084`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12741698|exam:12741700|exam:12741701|exam:12741704|exam:12741751>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56084&periodId=565>
-
-### 78700 Religionswissenschaft
-
-- **Segment:** `exam:12742185` · **unitId:** `22965`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12742060|exam:12742061|exam:12742062|exam:12742064|exam:12742185>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=22965&periodId=565>
 
 ### 78711 Biblische Theologie 1 (AT)
 
@@ -2677,66 +2239,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | Di | Di | — | — | — |
 
-### 86501 Vorlesung Einführung in die Dogmatik: Zentrale Themen christlichen Gaubens - Leistung
-
-- **Segment:** `exam:12740854` · **unitId:** `23055`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12740813|exam:12740815|exam:12740816|exam:12740819|exam:12740837|exam:12740854>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23055&periodId=565>
-
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 86501 Vorlesung Einführung in die Dogmatik: Zentrale Themen christlichen Gaubens - Leistung
-
-- **Segment:** `exam:12741739` · **unitId:** `23055`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12741698|exam:12741700|exam:12741701|exam:12741704|exam:12741722|exam:12741739>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23055&periodId=565>
-
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 86501 Vorlesung Einführung in die Dogmatik: Zentrale Themen christlichen Gaubens - Leistung
-
-- **Segment:** `exam:12742173` · **unitId:** `23055`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12742060|exam:12742061|exam:12742062|exam:12742064|exam:12742171|exam:12742173>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23055&periodId=565>
-
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 86502 Vorlesung/Übung Einführung in die Ethik - Leistung
-
-- **Segment:** `exam:12742174` · **unitId:** `23056`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12742060|exam:12742061|exam:12742062|exam:12742064|exam:12742171|exam:12742174>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23056&periodId=565>
-
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | — | — | — |
-
 ### 86511 Systematische Theologie 1: Dogmatik (GMRS) - Leistung
 
 - **Segment:** `exam:12741075` · **unitId:** `49469`
@@ -2932,36 +2434,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | Do | Do | 09:45–11:15 | — | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 
-### 87501 Mündliche Prüfung oder Hausarbeit über alle Teilbereiche des Moduls mit Schwerpunkt in einer Lehrveranstaltung - Leistung
-
-- **Segment:** `exam:12740924` · **unitId:** `22984`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12740813|exam:12740815|exam:12740816|exam:12740819|exam:12740902|exam:12740924>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=22984&periodId=565>
-
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 87501 Mündliche Prüfung oder Hausarbeit über alle Teilbereiche des Moduls mit Schwerpunkt in einer Lehrveranstaltung - Leistung
-
-- **Segment:** `exam:12741809` · **unitId:** `22984`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12741698|exam:12741700|exam:12741701|exam:12741704|exam:12741787|exam:12741809>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=22984&periodId=565>
-
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
 ### 87611 Modulabschlussprüfung Schwerpunktübergreifendes Modul - Leistung
 
 - **Segment:** `exam:12741590` · **unitId:** `44089`
@@ -3075,42 +2547,8 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### BT+D elementar - Biblische Theologie und ihre Didaktik - elementar - Proseminar
 
-- **Segment:** `exam:12740783` · **unitId:** `94452`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12740778|exam:12740779|exam:12740780|exam:12740781|exam:12740782|exam:12740783>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94452&periodId=565>
-
-- **Veranstaltungsart:** Proseminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 11:30–13:00 | 14.10.2025–03.02.2026 | 75202.00.513 (St.Paul 00.513 (24)) |
-
-### BT+D elementar - Biblische Theologie und ihre Didaktik - elementar - Proseminar
-
 - **Segment:** `exam:12740800` · **unitId:** `94452`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12740795|exam:12740796|exam:12740797|exam:12740798|exam:12740799|exam:12740800>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94452&periodId=565>
-
-- **Veranstaltungsart:** Proseminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 11:30–13:00 | 14.10.2025–03.02.2026 | 75202.00.513 (St.Paul 00.513 (24)) |
-
-### BT+D elementar - Biblische Theologie und ihre Didaktik - elementar - Proseminar
-
-- **Segment:** `exam:12740833` · **unitId:** `94452`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12740813|exam:12740815|exam:12740816|exam:12740819|exam:12740830|exam:12740833>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94452&periodId=565>
 
 - **Veranstaltungsart:** Proseminar
@@ -3158,23 +2596,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Di | 11:30–13:00 | 14.10.2025–03.02.2026 | 75202.00.513 (St.Paul 00.513 (24)) |
 
-### BT+D elementar - Biblische Theologie und ihre Didaktik - elementar - Proseminar
-
-- **Segment:** `exam:12741718` · **unitId:** `94452`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12741698|exam:12741700|exam:12741701|exam:12741704|exam:12741715|exam:12741718>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94452&periodId=565>
-
-- **Veranstaltungsart:** Proseminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 11:30–13:00 | 14.10.2025–03.02.2026 | 75202.00.513 (St.Paul 00.513 (24)) |
-
 ### CA: VL - Christliche Archäologie, Hauptvorlesung - Vorlesung
 
 - **Segment:** `exam:12741597` · **unitId:** `83215`
@@ -3190,27 +2611,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 16:00–18:00 | 20.10.2025–02.02.2026 | 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
-
-### EinfTutorium - Tutorium zum Einführungskurs - Tutorium
-
-- **Segment:** `exam:12740832` · **unitId:** `98268`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12740813|exam:12740815|exam:12740816|exam:12740819|exam:12740830|exam:12740832>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98268&periodId=565>
-
-- **Veranstaltungsart:** Tutorium
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 17:30–19:00 | 15.10.2025 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
-| Einzeltermin | Mi | 17:30–19:00 | 22.10.2025 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
-| Einzeltermin | Fr | 11:00–14:00 | 07.11.2025 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
-| Einzeltermin | Sa | 11:00–14:00 | 13.12.2025 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
-| Einzeltermin | Fr | 14:00–18:00 | 09.01.2026 | 75202.00.513 (St.Paul 00.513 (24)) |
-| Einzeltermin | Sa | 10:00–16:00 | 10.01.2026 | 75202.00.513 (St.Paul 00.513 (24)) |
 
 ### EinfTutorium - Tutorium zum Einführungskurs - Tutorium
 
@@ -3237,27 +2637,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:12741172` · **unitId:** `98268`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12740996|exam:12740998|exam:12740999|exam:12741109|exam:12741170|exam:12741172>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98268&periodId=565>
-
-- **Veranstaltungsart:** Tutorium
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 17:30–19:00 | 15.10.2025 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
-| Einzeltermin | Mi | 17:30–19:00 | 22.10.2025 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
-| Einzeltermin | Fr | 11:00–14:00 | 07.11.2025 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
-| Einzeltermin | Sa | 11:00–14:00 | 13.12.2025 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
-| Einzeltermin | Fr | 14:00–18:00 | 09.01.2026 | 75202.00.513 (St.Paul 00.513 (24)) |
-| Einzeltermin | Sa | 10:00–16:00 | 10.01.2026 | 75202.00.513 (St.Paul 00.513 (24)) |
-
-### EinfTutorium - Tutorium zum Einführungskurs - Tutorium
-
-- **Segment:** `exam:12741717` · **unitId:** `98268`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12741698|exam:12741700|exam:12741701|exam:12741704|exam:12741715|exam:12741717>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98268&periodId=565>
 
 - **Veranstaltungsart:** Tutorium
@@ -3319,27 +2698,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### EinfTutorium - Tutorium zum Einführungskurs - Tutorium
 
-- **Segment:** `exam:12742167` · **unitId:** `98268`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12742060|exam:12742061|exam:12742062|exam:12742064|exam:12742165|exam:12742167>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98268&periodId=565>
-
-- **Veranstaltungsart:** Tutorium
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 17:30–19:00 | 15.10.2025 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
-| Einzeltermin | Mi | 17:30–19:00 | 22.10.2025 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
-| Einzeltermin | Fr | 11:00–14:00 | 07.11.2025 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
-| Einzeltermin | Sa | 11:00–14:00 | 13.12.2025 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
-| Einzeltermin | Fr | 14:00–18:00 | 09.01.2026 | 75202.00.513 (St.Paul 00.513 (24)) |
-| Einzeltermin | Sa | 10:00–16:00 | 10.01.2026 | 75202.00.513 (St.Paul 00.513 (24)) |
-
-### EinfTutorium - Tutorium zum Einführungskurs - Tutorium
-
 - **Segment:** `exam:12742305` · **unitId:** `98268`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12742265|exam:12742266|exam:12742267|exam:12742269|exam:12742303|exam:12742305>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98268&periodId=565>
@@ -3382,23 +2740,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### Einführungskurs GMRBS - Einführung in Theologie und wissenschaftliches Arbeiten (LAGS/LAMS/LARS/LABS) - Seminar
 
-- **Segment:** `exam:12740831` · **unitId:** `94102`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12740813|exam:12740815|exam:12740816|exam:12740819|exam:12740830|exam:12740831>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94102&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 15:45–17:15 | 15.10.2025–04.02.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
-
-### Einführungskurs GMRBS - Einführung in Theologie und wissenschaftliches Arbeiten (LAGS/LAMS/LARS/LABS) - Seminar
-
 - **Segment:** `exam:12741014` · **unitId:** `94102`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12740996|exam:12740998|exam:12740999|exam:12741002|exam:12741013|exam:12741014>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94102&periodId=565>
@@ -3433,23 +2774,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### Einführungskurs GMRBS - Einführung in Theologie und wissenschaftliches Arbeiten (LAGS/LAMS/LARS/LABS) - Seminar
 
-- **Segment:** `exam:12741716` · **unitId:** `94102`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12741698|exam:12741700|exam:12741701|exam:12741704|exam:12741715|exam:12741716>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94102&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 15:45–17:15 | 15.10.2025–04.02.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
-
-### Einführungskurs GMRBS - Einführung in Theologie und wissenschaftliches Arbeiten (LAGS/LAMS/LARS/LABS) - Seminar
-
 - **Segment:** `exam:12741897` · **unitId:** `94102`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12741879|exam:12741881|exam:12741882|exam:12741885|exam:12741896|exam:12741897>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94102&periodId=565>
@@ -3469,23 +2793,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:12742053` · **unitId:** `94102`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12741879|exam:12741881|exam:12741882|exam:12741991|exam:12742052|exam:12742053>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94102&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 15:45–17:15 | 15.10.2025–04.02.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
-
-### Einführungskurs GMRBS - Einführung in Theologie und wissenschaftliches Arbeiten (LAGS/LAMS/LARS/LABS) - Seminar
-
-- **Segment:** `exam:12742166` · **unitId:** `94102`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12742060|exam:12742061|exam:12742062|exam:12742064|exam:12742165|exam:12742166>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94102&periodId=565>
 
 - **Veranstaltungsart:** Seminar
@@ -3669,23 +2976,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mo | 12:00–14:00 | 13.10.2025–02.02.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
 
-### Forschungsmethoden - Methodenseminar Fachdidaktik 2 - Seminar
-
-- **Segment:** `exam:12742255` · **unitId:** `125214`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12742060|exam:12742061|exam:12742062|exam:12742214|exam:12742246|exam:12742255>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125214&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 15:45–17:15 | 16.10.2025–05.02.2026 | — |
-| Einzeltermin | Fr | 14:00–19:00 | 30.01.2026 | — |
-
 ### Interreligiöses Lernen - Interreligiöses Lernen - Seminar
 
 - **Segment:** `exam:12741685` · **unitId:** `87909`
@@ -3705,38 +2995,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Einzeltermin | Sa | 09:00–17:00 | 10.01.2026 | — |
 | Einzeltermin | Fr | 14:00–19:00 | 16.01.2026 | 75201.00.301 (St.Paul 00.301 Zeichensaal (100)) |
 | Einzeltermin | Sa | 09:00–17:00 | 17.01.2026 | 75201.00.301 (St.Paul 00.301 Zeichensaal (100)) |
-
-### Paulus - V/UE Paulus: Leben und Werk - Vorlesung mit Übung
-
-- **Segment:** `exam:12740875` · **unitId:** `102277`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12740813|exam:12740815|exam:12740816|exam:12740819|exam:12740873|exam:12740875>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102277&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 09:45–11:15 | 16.10.2025–05.02.2026 | 75201.00.202 (St.Paul(V) 00.202 Seminarraum (20)) |
-
-### Paulus - V/UE Paulus: Leben und Werk - Vorlesung mit Übung
-
-- **Segment:** `exam:12740884` · **unitId:** `102277`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12740813|exam:12740815|exam:12740816|exam:12740819|exam:12740882|exam:12740884>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102277&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 09:45–11:15 | 16.10.2025–05.02.2026 | 75201.00.202 (St.Paul(V) 00.202 Seminarraum (20)) |
 
 ### Paulus - V/UE Paulus: Leben und Werk - Vorlesung mit Übung
 
@@ -3772,38 +3030,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### Paulus - V/UE Paulus: Leben und Werk - Vorlesung mit Übung
 
-- **Segment:** `exam:12741760` · **unitId:** `102277`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12741698|exam:12741700|exam:12741701|exam:12741704|exam:12741758|exam:12741760>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102277&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 09:45–11:15 | 16.10.2025–05.02.2026 | 75201.00.202 (St.Paul(V) 00.202 Seminarraum (20)) |
-
-### Paulus - V/UE Paulus: Leben und Werk - Vorlesung mit Übung
-
-- **Segment:** `exam:12741769` · **unitId:** `102277`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12741698|exam:12741700|exam:12741701|exam:12741704|exam:12741767|exam:12741769>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102277&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 09:45–11:15 | 16.10.2025–05.02.2026 | 75201.00.202 (St.Paul(V) 00.202 Seminarraum (20)) |
-
-### Paulus - V/UE Paulus: Leben und Werk - Vorlesung mit Übung
-
 - **Segment:** `exam:12741984` · **unitId:** `102277`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12741879|exam:12741881|exam:12741882|exam:12741885|exam:12741982|exam:12741984>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102277&periodId=565>
@@ -3822,38 +3048,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:12741989` · **unitId:** `102277`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12741879|exam:12741881|exam:12741882|exam:12741885|exam:12741988|exam:12741989>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102277&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 09:45–11:15 | 16.10.2025–05.02.2026 | 75201.00.202 (St.Paul(V) 00.202 Seminarraum (20)) |
-
-### Paulus - V/UE Paulus: Leben und Werk - Vorlesung mit Übung
-
-- **Segment:** `exam:12742194` · **unitId:** `102277`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12742060|exam:12742061|exam:12742062|exam:12742064|exam:12742192|exam:12742194>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102277&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 09:45–11:15 | 16.10.2025–05.02.2026 | 75201.00.202 (St.Paul(V) 00.202 Seminarraum (20)) |
-
-### Paulus - V/UE Paulus: Leben und Werk - Vorlesung mit Übung
-
-- **Segment:** `exam:12742207` · **unitId:** `102277`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12742060|exam:12742061|exam:12742062|exam:12742064|exam:12742205|exam:12742207>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102277&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
@@ -4067,22 +3261,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### SysTheol-Dogmatik - Einführung in die Dogmatik - Vorlesung
 
-- **Segment:** `exam:12742172` · **unitId:** `84583`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12742060|exam:12742061|exam:12742062|exam:12742064|exam:12742171|exam:12742172>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84583&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–15:30 | 14.10.2025–03.02.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
-
-### SysTheol-Dogmatik - Einführung in die Dogmatik - Vorlesung
-
 - **Segment:** `exam:12742363` · **unitId:** `84583`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12742265|exam:12742266|exam:12742267|exam:12742269|exam:12742359|exam:12742363>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84583&periodId=565>
@@ -4135,72 +3313,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Blockveranstaltung | — | 09:00–18:00 | 09.01.2026 | 06201.U1.031 (TSG U1.031 Bibliothek Systematische Theologie) |
 | Blockveranstaltung | — | 09:00–18:00 | 16.01.2026 | — |
 
-### vhb-Kurs BNE - Bildung für nachhaltige Entwicklung - theologische und spirituelle Perspektiven - Seminar
-
-- **Segment:** `exam:12740947` · **unitId:** `92483`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12740813|exam:12740815|exam:12740816|exam:12740927|exam:12740928|exam:12740947>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92483&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-### vhb-Kurs BNE - Bildung für nachhaltige Entwicklung - theologische und spirituelle Perspektiven - Seminar
-
-- **Segment:** `exam:12741832` · **unitId:** `92483`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12741698|exam:12741700|exam:12741701|exam:12741812|exam:12741813|exam:12741832>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92483&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-### vhb-Kurs BNE - Bildung für nachhaltige Entwicklung - theologische und spirituelle Perspektiven - Seminar
-
-- **Segment:** `exam:12742097` · **unitId:** `92483`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12742060|exam:12742061|exam:12742062|exam:12742064|exam:12742065|exam:12742097>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92483&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-### vhb-Kurs BNE - Bildung für nachhaltige Entwicklung - theologische und spirituelle Perspektiven - Seminar
-
-- **Segment:** `exam:12742141` · **unitId:** `92483`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12742060|exam:12742061|exam:12742062|exam:12742064|exam:12742111|exam:12742141>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92483&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-### vhb-Kurs BNE - Bildung für nachhaltige Entwicklung - theologische und spirituelle Perspektiven - Seminar
-
-- **Segment:** `exam:12742234` · **unitId:** `92483`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12742060|exam:12742061|exam:12742062|exam:12742214|exam:12742215|exam:12742234>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92483&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-### vhb-Kurs BNE - Bildung für nachhaltige Entwicklung - theologische und spirituelle Perspektiven - Seminar
-
-- **Segment:** `exam:12742248` · **unitId:** `92483`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17175|exam:12742060|exam:12742061|exam:12742062|exam:12742214|exam:12742246|exam:12742248>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92483&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
 ### VL AT Ü-1 - Pentateuch - Vorlesung
 
 - **Segment:** `exam:12741494` · **unitId:** `85946`
@@ -4251,7 +3363,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Di | 12:00–13:00 | 14.10.2025–03.02.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (160)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (150)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -4272,14 +3384,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Do | 17:30–19:00 | 11.12.2025 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 | Einzeltermin | Fr | 14:00–19:00 | 09.01.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 | Einzeltermin | Sa | 09:00–16:00 | 10.01.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
-
-### "Alles schon vorherbestimmt!?" Die Prädestination bzw. Determination des Menschen — Übung
-
-- **Segment:** `unit:119197` · **unitId:** `119197`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119197&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** Unregelmäßig
 
 ### "Girls just wanna have fun" - Frauen und Mädchen als Akteurinnen des (religiösen) Lernens — Seminar
 
@@ -4363,15 +3467,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **Turnus:** Unregelmäßig
 
-### AT - Einführung in das AT & Pentateuch — Vorlesung mit Übung
-
-- **Segment:** `unit:92131` · **unitId:** `92131`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92131&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 2.0
-- **Turnus:** nur im Sommersemester
-
 ### AT - Geschichte Israels — Vorlesung mit Übung
 
 - **Segment:** `unit:137823` · **unitId:** `137823`
@@ -4401,32 +3496,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 
-### Begleitende Übung zu VL Gottesbilder im Alten Testament
-
-- **Segment:** `unit:115179` · **unitId:** `115179`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115179&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
-- **Turnus:** nicht in diesem Semester
-
-### Begleitende Übung zur Vorlesung "Pentateuch"
-
-- **Segment:** `unit:97350` · **unitId:** `97350`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97350&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
-- **Turnus:** Unregelmäßig
-
-### Bibelkunde Altes Testament II — Übung
-
-- **Segment:** `unit:86770` · **unitId:** `86770`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86770&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Sommersemester
-
 ### Bibelkunde des Neuen Testaments — Übung
 
 - **Segment:** `unit:130943` · **unitId:** `130943`
@@ -4449,6 +3518,16 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122757&periodId=565>
 
 - **Veranstaltungsart:** Übung
+
+### Bildung für nachhaltige Entwicklung - theologische und spirituelle Perspektiven — Seminar
+
+- **Segment:** `unit:92483` · **unitId:** `92483`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92483&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 ### Christentum und Bildung — Vorlesung mit Übung
 
@@ -4478,13 +3557,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:119055` · **unitId:** `119055`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119055&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
-### Christlich und Rechts: Influencer-Allianzen für mehr Reichweite? — Seminar
-
-- **Segment:** `unit:122273` · **unitId:** `122273`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122273&periodId=565>
 
 - **Veranstaltungsart:** Seminar
 
@@ -4547,24 +3619,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119104&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
-
-### Der 1. Petrusbrief und das Christentum am Ende des 1. Jahrhunderts — Hauptseminar
-
-- **Segment:** `unit:94410` · **unitId:** `94410`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94410&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 3.0
-- **Turnus:** Unregelmäßig
-
-### Der Dekalog: religionsgeschichtliche Hintergründe und mediale Adaptierungen — Seminar
-
-- **Segment:** `unit:130155` · **unitId:** `130155`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130155&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 3.0
-- **Turnus:** Unregelmäßig
 
 ### Der Galaterbrief — Übung
 
@@ -4641,6 +3695,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **Turnus:** nicht in diesem Semester
 
+### Einführung in das AT & Pentateuch — Vorlesung mit Übung
+
+- **Segment:** `unit:85126` · **unitId:** `85126`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85126&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:00–15:30 | 13.10.2025–02.02.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
+
 ### Einführung in das Christentum - elementar — Vorlesung mit Übung
 
 - **Segment:** `unit:138740` · **unitId:** `138740`
@@ -4658,15 +3727,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.0
 - **Turnus:** nur im Sommersemester
-
-### Einführung in das Neue Testament — Vorlesung
-
-- **Segment:** `unit:88572` · **unitId:** `88572`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88572&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.0
-- **Turnus:** Unregelmäßig
 
 ### Einführung in den Islam — Vorlesung mit Übung
 
@@ -4724,27 +3784,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### Einführung in die Religionswissenschaft — Vorlesung
-
-- **Segment:** `unit:119370` · **unitId:** `119370`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119370&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.0
-- **Turnus:** in jedem Semester
-
 ### Einführung NT 1 — Vorlesung mit Übung
 
 - **Segment:** `unit:90308` · **unitId:** `90308`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90308&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Turnus:** nur im Sommersemester
-
-### Einführung NT 2 — Vorlesung mit Übung
-
-- **Segment:** `unit:87291` · **unitId:** `87291`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87291&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **Turnus:** nur im Sommersemester
@@ -4790,13 +3833,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 09:45–11:15 | 14.10.2025–03.02.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 
-### Fachdidaktik II — Seminar
+### Geschichte Israels in der Antike — Vorlesung
 
-- **Segment:** `unit:134657` · **unitId:** `134657`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134657&periodId=565>
+- **Segment:** `unit:137313` · **unitId:** `137313`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137313&periodId=565>
 
-- **Veranstaltungsart:** Seminar
-- **Turnus:** jedes 2. Semester
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.0
+- **Turnus:** nur im Sommersemester
 
 ### Gleichnisse im Lukasevangelium — Hauptseminar
 
@@ -4880,6 +3924,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Blockveranstaltung | — | 10:00–12:00 | 16.02.2026–06.03.2026 | 06201.02.020 ( TSG HS B (02.020) Theologisches Seminargebäude, Kochstraße 6) |
 | Blockveranstaltung | — | 10:00–13:00 | 16.03.2026–02.04.2026 | 06201.02.020 ( TSG HS B (02.020) Theologisches Seminargebäude, Kochstraße 6) |
 
+### Griechisch II (Ferienblockveranstaltung Juli - Oktober mit Lernpause) — Vorlesung mit Übung
+
+- **Segment:** `unit:94386` · **unitId:** `94386`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94386&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **Turnus:** nur im Sommersemester
+
+### Griechisch II (Ferienblockveranstaltung SoSe) — Vorlesung mit Übung
+
+- **Segment:** `unit:111449` · **unitId:** `111449`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111449&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+
 ### Grundfragen der Religionswissenschaft — Seminar
 
 - **Segment:** `unit:111445` · **unitId:** `111445`
@@ -4935,6 +3994,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **Turnus:** Unregelmäßig
 
+### Hauptthemen der neutestamentlichen Theologie — Vorlesung
+
+- **Segment:** `unit:94019` · **unitId:** `94019`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94019&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.0
+- **Turnus:** Unregelmäßig
+
 ### HS "Kunst.Räume.Religion  Orte und Wege ästhetischer Bildung" — Hauptseminar
 
 - **Segment:** `unit:84142` · **unitId:** `84142`
@@ -4943,13 +4011,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 2.0
 - **Turnus:** nur im Wintersemester
-
-### HS Dogmatik — Hauptseminar
-
-- **Segment:** `unit:82458` · **unitId:** `82458`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82458&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
 
 ### HS Dogmatik — Hauptseminar
 
@@ -4967,35 +4028,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Hauptseminar
 
-### HS Dogmatik — Hauptseminar
-
-- **Segment:** `unit:126503` · **unitId:** `126503`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126503&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** nur im Sommersemester
-
 ### HS Fachdidaktik I — Hauptseminar
 
 - **Segment:** `unit:85189` · **unitId:** `85189`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85189&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 3.0
-- **Turnus:** nur im Sommersemester
-
-### HS Interdisziplinäres Hauptseminar
-
-- **Segment:** `unit:82406` · **unitId:** `82406`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82406&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** nur im Wintersemester
-
-### HS Musik im Religionsunterricht — Hauptseminar
-
-- **Segment:** `unit:86225` · **unitId:** `86225`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86225&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 3.0
@@ -5051,15 +4087,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Fr | 10:00–12:00 | 17.10.2025–06.02.2026 | 06201.02.024 (TSG R. 2.024 Bibliothek Neuere Kirchengeschichte) |
 
-### HS: Neuere Kirchengeschichte — Seminar
-
-- **Segment:** `unit:88998` · **unitId:** `88998`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88998&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 3.0
-- **Turnus:** Unregelmäßig
-
 ### Interdisziplinäre Ringvorlesung Theologie
 
 - **Segment:** `unit:111512` · **unitId:** `111512`
@@ -5085,15 +4112,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **Turnus:** in jedem Semester
-
-### Interdisziplinäres Seminar
-
-- **Segment:** `unit:114918` · **unitId:** `114918`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114918&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 3.0
-- **Turnus:** nicht in diesem Semester
 
 ### Interdisziplinäres Seminar Altes Testament/Systematische Theologie
 
@@ -5128,12 +4146,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 3.0
 - **Turnus:** Unregelmäßig
 
-### Journalistische Berufsethik — Seminar
+### Judentum und Christentum im 1. und 2. Jahrhundert - noch vereint oder schon getrennt? — Übung
 
-- **Segment:** `unit:111435` · **unitId:** `111435`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111435&periodId=565>
+- **Segment:** `unit:95704` · **unitId:** `95704`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95704&periodId=565>
 
-- **Veranstaltungsart:** Seminar
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.0
+- **Turnus:** Unregelmäßig
 
 ### KI und Chat GPT. Wissenschaftsjournalistische Herausforderungen — Seminar
 
@@ -5252,14 +4272,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Blockveranstaltung | — | 09:00–14:15 | 18.02.2026–10.03.2026 | 05901.02.058 ( 2.058 R 2.058) |
 
-### Leistungsmessung im RU — Übung
-
-- **Segment:** `unit:135676` · **unitId:** `135676`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135676&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** Unregelmäßig
-
 ### Lektüreübung zur Vorbereitung auf die Lateinische Sprachprüfung für Theologiestudierende
 
 - **Segment:** `unit:91209` · **unitId:** `91209`
@@ -5275,16 +4287,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mi | 16:00–18:00 | 15.10.2025–04.02.2026 | — |
 
-### Lektüreübung Ältere Kirchengeschichte
-
-- **Segment:** `unit:96155` · **unitId:** `96155`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96155&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
-- **Turnus:** Unregelmäßig
-
-### MA 3. FS: Vertiefungsseminar (Gegenwartsfragen islamischer Religionsdiskurse)
+### MA IRS Seminar Gegenwartsfragen islamischer Religionsdiskurse
 
 - **Segment:** `unit:100592` · **unitId:** `100592`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100592&periodId=565>
@@ -5302,7 +4305,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Fr | 14:00–18:00 | 14.11.2025 | — |
 | Einzeltermin | Sa | 14:00–18:00 | 15.11.2025 | — |
 
-### MA Medien-Ethik-Religion, 1. FS: Grundlagen im Schwerpunkt Religion: Theologie für Nichttheologen (Islam und Medien) — Seminar
+### MA Medien-Ethik-Religion, 1. FS: Grundlagen im Schwerpunkt Islam und Medien - Gründzüge des Islam — Seminar
 
 - **Segment:** `unit:117442` · **unitId:** `117442`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117442&periodId=565>
@@ -5346,6 +4349,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 14:00–16:00 | 14.10.2025–03.02.2026 | 06201.01.024 (TSG R. 1.024 Bibliothek Christliche Publizistik/Syst. Theologie/Ethik) |
 
+### Methodenseminar Fachdidaktik 2
+
+- **Segment:** `unit:125214` · **unitId:** `125214`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125214&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 15:45–17:15 | 16.10.2025–05.02.2026 | — |
+| Einzeltermin | Fr | 14:00–19:00 | 30.01.2026 | — |
+
 ### Modulabschlussprüfung Schwerpunkt-Wahlmodul Altes Testaments
 
 - **Segment:** `unit:44090` · **unitId:** `44090`
@@ -5373,20 +4392,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Di | Di | — | — | — |
-
-### Modulabschlussprüfung Schwerpunkt-Wahlmodul Kirchengeschichte
-
-- **Segment:** `unit:44092` · **unitId:** `44092`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44092&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | 11:45–12:15 | 07.12.2025 23:59:59 | 06201.U1.028 (TSG U1.028 Seminarraum Christliche Archäologie) |
 
 ### Modulabschlussprüfung Schwerpunkt-Wahlmodul PraktischeTheologie
 
@@ -5498,14 +4503,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 
-### OS Dogmatik — Oberseminar
-
-- **Segment:** `unit:84691` · **unitId:** `84691`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84691&periodId=565>
-
-- **Veranstaltungsart:** Oberseminar
-- **Turnus:** in jedem Semester
-
 ### OS: Oberseminar Ältere Kirchengeschichte
 
 - **Segment:** `unit:115356` · **unitId:** `115356`
@@ -5520,6 +4517,32 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 18:00–20:00 | 14.10.2025–03.02.2026 | — |
+
+### Proseminar Kirchengeschichte
+
+- **Segment:** `unit:87551` · **unitId:** `87551`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87551&periodId=565>
+
+- **Veranstaltungsart:** Proseminar
+- **Turnus:** in jedem Semester
+
+### Proseminar Kirchengeschichte (Pfarramt/Mag. Theol., LAG)
+
+- **Segment:** `unit:115346` · **unitId:** `115346`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115346&periodId=565>
+
+- **Veranstaltungsart:** Proseminar
+- **ECTS-Punkte:** 3.0
+- **Turnus:** in jedem Semester
+
+### Proseminar Kirchengeschichte für Lehr- und Pfarramt
+
+- **Segment:** `unit:102864` · **unitId:** `102864`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102864&periodId=565>
+
+- **Veranstaltungsart:** Proseminar
+- **ECTS-Punkte:** 3.0
+- **Turnus:** in jedem Semester
 
 ### PS Dogmatik — Proseminar
 
@@ -5538,6 +4561,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Proseminar
 - **ECTS-Punkte:** 3.0
 - **Turnus:** nur im Sommersemester
+
+### PS: Proseminar Kirchengeschichte (Lehramt/Pfarramt/Mag. Theol)
+
+- **Segment:** `unit:135853` · **unitId:** `135853`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135853&periodId=565>
+
+- **Veranstaltungsart:** Proseminar
+- **ECTS-Punkte:** 3.0
+- **Turnus:** in jedem Semester
 
 ### Rechtfertigungslehre: von Luther zu Paulus zurück in die Gegenwart — Übung
 
@@ -5619,14 +4651,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 
-### Systematische Theologie 1: Dogmatik — Seminar
-
-- **Segment:** `unit:90598` · **unitId:** `90598`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90598&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nur im Sommersemester
-
 ### Sünde im Neuen Testament — Übung
 
 - **Segment:** `unit:83637` · **unitId:** `83637`
@@ -5707,15 +4731,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 3.0
 - **Turnus:** in jedem Semester
 
-### UE Übung zur Fachdidaktik I "Didaktisch-methodische Übung"
-
-- **Segment:** `unit:96526` · **unitId:** `96526`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96526&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
-- **Turnus:** nur im Sommersemester
-
 ### Video-Journalismus: Eine praktische Einführung ins visuelle Storytelling, Texten und Produzieren — Seminar
 
 - **Segment:** `unit:117493` · **unitId:** `117493`
@@ -5741,6 +4756,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** Unregelmäßig
 
+### VL Neues Testament — Vorlesung
+
+- **Segment:** `unit:129316` · **unitId:** `129316`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=129316&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.0
+- **Turnus:** Unregelmäßig
+
 ### VL Themenfelder der Praktischen Theologie — Vorlesung
 
 - **Segment:** `unit:99618` · **unitId:** `99618`
@@ -5757,12 +4781,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mi | 12:00–14:00 | 15.10.2025–04.02.2026 | 06201.02.021 ( TSG HS A (02.021) Theologisches Seminargebäude, Kochstraße 6) |
 
-### Weltuntergang mit Publikum Narrationen und mediale Inszenierungen dystopischen Empfindens und Denkens in Krisenzeiten — Seminar
+### VL: Kirchengeschichte im Überblick — Vorlesung
 
-- **Segment:** `unit:119057` · **unitId:** `119057`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119057&periodId=565>
+- **Segment:** `unit:104957` · **unitId:** `104957`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104957&periodId=565>
 
-- **Veranstaltungsart:** Seminar
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** Unregelmäßig
 
 ### Wenn's keiner gewesen sein will. "Verantwortung" als Kategorie von Medienethik und digitaler Ethik — Seminar
 
@@ -5795,13 +4820,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 
-### Ü: Quellenübung zur Theologie- und Kirchengeschichte I
+### Ü (Ethik/KG): Die Vernünftigkeit der Theologie. Von der Aufklärung bis heute — Übung
 
-- **Segment:** `unit:90932` · **unitId:** `90932`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90932&periodId=565>
+- **Segment:** `unit:122320` · **unitId:** `122320`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122320&periodId=565>
 
 - **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
 - **Turnus:** Unregelmäßig
 
 ### Ü: Quellenübung zur Theologie- und Kirchengeschichte II
@@ -5819,6 +4843,24 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 12:00–14:00 | 15.10.2025–04.02.2026 | 06201.02.025 (TSG R. 2.025 Bibliothek Ältere Kirchengeschichte) |
+
+### Ü: Quellenübung zur Theologie- und Kirchengeschichte IV
+
+- **Segment:** `unit:115369` · **unitId:** `115369`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115369&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.0
+- **Turnus:** Unregelmäßig
+
+### Ü: Quellenübung zur Theologie- und Kirchengeschichte V
+
+- **Segment:** `unit:105995` · **unitId:** `105995`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=105995&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.0
+- **Turnus:** Unregelmäßig
 
 ### Ü: Übung Koptisch
 
@@ -5850,6 +4892,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:115357` · **unitId:** `115357`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115357&periodId=565>
+
+- **Veranstaltungsart:** Übungsseminar
+- **ECTS-Punkte:** 2.0
+- **Turnus:** Unregelmäßig
+
+### Ü: Übung zur Examensvorbereitung Kirchengeschichte — Übungsseminar
+
+- **Segment:** `unit:135854` · **unitId:** `135854`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135854&periodId=565>
 
 - **Veranstaltungsart:** Übungsseminar
 - **ECTS-Punkte:** 2.0
@@ -5888,15 +4939,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 12:00–15:00 | 15.10.2025–04.02.2026 | — |
-
-### „… als ob es Gott gäbe“. Die Praxis des Religionsunterrichts zwischen biblischen Gottesbildern und moderner Gottesverneinung — Hauptseminar
-
-- **Segment:** `unit:110256` · **unitId:** `110256`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110256&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 3.0
-- **Turnus:** nur im Sommersemester
 
 ## Lehramts-Prüfungsordnungen
 

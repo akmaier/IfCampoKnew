@@ -461,7 +461,6 @@ _Section: Studiengänge der Medizinischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17978|exam:13845400|exam:13845401|exam:13845402|exam:13845419|exam:13845420>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127739&periodId=589>
 
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -500,16 +499,9 @@ _Section: Studiengänge der Medizinischen Fakultät_
 |---|---|---|---|---|
 | Mi | Mi | 11:00–12:00 | — | — |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (2)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (1)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
-
-### Chirurgische Dammversorgung — Übung
-
-- **Segment:** `unit:134507` · **unitId:** `134507`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134507&periodId=589>
-
-- **Veranstaltungsart:** Übung
 
 ### Ethik der Medizin — Seminar
 

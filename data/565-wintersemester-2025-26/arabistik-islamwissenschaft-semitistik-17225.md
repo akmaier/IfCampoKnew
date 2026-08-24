@@ -724,7 +724,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Fr | 11:00–12:45 | 17.10.2025–06.02.2026 | 05801.04.213 ( B 604) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (14)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (17)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -827,6 +827,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Blockveranstaltung | — | 09:00–14:15 | 18.02.2026–10.03.2026 | 05901.02.058 ( 2.058 R 2.058) |
 
+### Lektüreübung (Quran and modernity), MA, 2. FS
+
+- **Segment:** `unit:112220` · **unitId:** `112220`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112220&periodId=565>
+
+- **Veranstaltungsart:** Übung
+
+### Lektüreübung (Quran and modernity), MA, 2.FS — Vorlesung mit Übung
+
+- **Segment:** `unit:119226` · **unitId:** `119226`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119226&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+
 ### MA 2. FS: [Modul Klassische Arabische Literatur] Poesie — Masterseminar
 
 - **Segment:** `unit:94537` · **unitId:** `94537`
@@ -860,6 +874,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111956&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
+
+### Quran and modernity (Modul: Koran und Moderne), MA, 2. FS — Seminar
+
+- **Segment:** `unit:127558` · **unitId:** `127558`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127558&periodId=565>
+
+- **Veranstaltungsart:** Seminar
 
 ### Schriftliche Übersetzungsleistung Latein I für Anfänger (Zulassungsvoraussetzung zu Kurs Latein II für Fortgeschrittene)
 

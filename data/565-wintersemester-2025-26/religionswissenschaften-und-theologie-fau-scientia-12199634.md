@@ -240,7 +240,24 @@ _Section: FAU Scientia Gaststudium_
 |---|---|---|---|---|
 | wöchentlich | Mo | 10:00–12:00 | 20.10.2025–02.02.2026 | — |
 
-### MA 3. FS: Vertiefungsseminar (Gegenwartsfragen islamischer Religionsdiskurse) - Seminar
+### MA 3. FS: Vorlesung Islamische Religionsphilosophie (Modul: Islamische Religionsphilosophie) - Vorlesung
+
+- **Segment:** `exam:12199738` · **unitId:** `91109`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16766|exam:12199634|exam:12199738>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91109&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:00–14:00 | 20.10.2025–02.02.2026 | — |
+
+### MA IRS Seminar Gegenwartsfragen islamischer Religionsdiskurse - Seminar
 
 - **Segment:** `exam:12199691` · **unitId:** `100592`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16766|exam:12199634|exam:12199691>
@@ -259,24 +276,7 @@ _Section: FAU Scientia Gaststudium_
 | Einzeltermin | Fr | 14:00–18:00 | 14.11.2025 | — |
 | Einzeltermin | Sa | 14:00–18:00 | 15.11.2025 | — |
 
-### MA 3. FS: Vorlesung Islamische Religionsphilosophie (Modul: Islamische Religionsphilosophie) - Vorlesung
-
-- **Segment:** `exam:12199738` · **unitId:** `91109`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16766|exam:12199634|exam:12199738>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91109&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 12:00–14:00 | 20.10.2025–02.02.2026 | — |
-
-### MA Medien-Ethik-Religion, 1. FS: Grundlagen im Schwerpunkt Religion: Theologie für Nichttheologen (Islam und Medien) - Seminar
+### MA Medien-Ethik-Religion, 1. FS: Grundlagen im Schwerpunkt Islam und Medien - Gründzüge des Islam - Seminar
 
 - **Segment:** `exam:12199741` · **unitId:** `117442`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16766|exam:12199634|exam:12199741>

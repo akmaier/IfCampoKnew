@@ -284,18 +284,9 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (47)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (45)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
-
-### Assignment problem session "Introduction to Statistics and Statistical Programming" — Übung
-
-- **Segment:** `unit:96279` · **unitId:** `96279`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96279&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 0.0
-- **Turnus:** nur im Sommersemester
 
 ### Cell Adhesion and Cytoskeleton: Cell Biological, Biophysical, and Medical Aspects — Vorlesung mit Übung
 
@@ -361,15 +352,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:93543` · **unitId:** `93543`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93543&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** jedes 4. Semester
-
-### Complex Systems 3: Self-organization, game theory, discrete dynamical systems — Vorlesung mit Übung
-
-- **Segment:** `unit:85880` · **unitId:** `85880`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85880&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
@@ -457,20 +439,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
-### ILS-MA-B1: Systems Biology, Laboratory Course — Übung
+### ILS-MA-B12: Python Programming — Übung
 
-- **Segment:** `unit:87233` · **unitId:** `87233`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87233&periodId=565>
+- **Segment:** `unit:82717` · **unitId:** `82717`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82717&periodId=565>
 
 - **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 15:15–16:45 | 15.10.2025–04.02.2026 | 13001.01.178 (SR 01.178 Seminarraum Biochemie und Mikrobiologie) |
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Sommersemester
 
 ### ILS-MA-B1: Systems Biology, Lecture — Vorlesung
 
@@ -504,13 +480,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Mo | 14:15–18:00 | 13.10.2025–02.02.2026 | — |
 | Einzeltermin | Mo | 12:00–18:00 | 24.11.2025 | 13002.00.774 (Kursraum J Fluoreszenzmikroskopraum) |
 
-### ILS-MA-I2A: Interactions at biological macromolecules — Vorlesung mit Übung
+### ILS-MA-I1A BioImaging & Biophysics: Lecture — Vorlesung
 
-- **Segment:** `unit:93696` · **unitId:** `93696`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93696&periodId=565>
+- **Segment:** `unit:88869` · **unitId:** `88869`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88869&periodId=565>
 
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Wintersemester
 
@@ -518,18 +494,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 10:15–11:45 | 16.10.2025–05.02.2026 | 08801.00.020 ( Seminarraum ZMPT 00.020) |
-| Einzeltermin | Do | 16:15–17:45 | 16.10.2025 | 08801.00.020 ( Seminarraum ZMPT 00.020) |
-| Einzeltermin | Do | 16:15–17:45 | 23.10.2025 | 08801.00.020 ( Seminarraum ZMPT 00.020) |
-| Einzeltermin | Do | 14:15–15:45 | 30.10.2025 | 08801.00.020 ( Seminarraum ZMPT 00.020) |
-| Einzeltermin | Do | 16:15–17:45 | 30.10.2025 | 08801.00.020 ( Seminarraum ZMPT 00.020) |
-| Einzeltermin | Do | 10:15–12:00 | 13.11.2025 | 13003.U1.850 (SR Biologie Seminarraum Biologie Nr. U1.850 (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
-| Einzeltermin | Do | 14:15–16:00 | 13.11.2025 | 13003.U1.850 (SR Biologie Seminarraum Biologie Nr. U1.850 (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
-| Einzeltermin | Do | 16:15–17:45 | 13.11.2025 | 08801.00.020 ( Seminarraum ZMPT 00.020) |
-| Einzeltermin | Fr | 13:00–16:00 | 14.11.2025 | 13001.U1.131 (CIP Biologie Raumnummer U1.131) |
-| Einzeltermin | Do | 10:15–12:00 | 20.11.2025 | 13003.U1.850 (SR Biologie Seminarraum Biologie Nr. U1.850 (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
-| Einzeltermin | Fr | 13:00–16:00 | 21.11.2025 | 13001.U1.131 (CIP Biologie Raumnummer U1.131) |
-| Einzeltermin | Do | 10:15–12:00 | 27.11.2025 | 13003.U1.850 (SR Biologie Seminarraum Biologie Nr. U1.850 (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
+| wöchentlich | Mo | 10:15–12:00 | 13.10.2025–02.02.2026 | 13002.00.581 (00.581 Seminarraum Zellbiologie im Biologikum) |
 
 ### ILS-MA-I3: Metabolic Networks II, Lecture — Vorlesung
 
@@ -692,6 +657,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 30.0
 - **Turnus:** nur im Sommersemester
 
+### Masterarbeiten Tierphysiologie — Sonstige Lehrveranstaltung
+
+- **Segment:** `unit:85642` · **unitId:** `85642`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85642&periodId=565>
+
+- **Veranstaltungsart:** Sonstige Lehrveranstaltung
+- **ECTS-Punkte:** 30.0
+- **Turnus:** in jedem Semester
+
 ### Mathematische Modellierung Praxis — Projektseminar
 
 - **Segment:** `unit:83909` · **unitId:** `83909`
@@ -731,15 +705,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### MG 2 BioImaging & Biophysics — Vorlesung mit Übung
-
-- **Segment:** `unit:83421` · **unitId:** `83421`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83421&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 7.5
 - **Turnus:** nur im Sommersemester
 
 ### Modern optics 1: Advanced optics
@@ -809,6 +774,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
+
+### Molekulare Neurophysiologie — Seminar und Übung
+
+- **Segment:** `unit:112417` · **unitId:** `112417`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112417&periodId=565>
+
+- **Veranstaltungsart:** Seminar und Übung
+- **ECTS-Punkte:** 7.5
+- **Turnus:** nur im Wintersemester
 
 ### Orientierungsmodul Entwicklungsbiologie 2: Gewebsdifferenzierung und Organogenese — Seminar und Übung
 
@@ -885,15 +859,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### Systems Immunology and Infectiology — Vorlesung mit Übung
-
-- **Segment:** `unit:115840` · **unitId:** `115840`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115840&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
 
 ### Übungen zu Experimentalphysik 3 für Physik-Studierende: Optik und Quantenphänomene
 

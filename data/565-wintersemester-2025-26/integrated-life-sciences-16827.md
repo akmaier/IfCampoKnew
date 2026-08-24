@@ -326,9 +326,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16827|title:16868|title:16882|title:16885|exam:11911374|exam:11911375>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84786&periodId=565>
 
-- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -342,9 +340,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16827|title:16870|title:16872|title:16878|exam:11911557|exam:11911558>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84786&periodId=565>
 
-- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -4622,7 +4618,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 |---|---|---|---|---|
 | Blockveranstaltung | — | 08:00–16:00 | 02.03.2026–27.03.2026 | 01501.01.057 (Seminarraum Virologie) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (61)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (55)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -4633,14 +4629,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### Biologie IV: Molekularbiologie und Genomik — Vorlesung
-
-- **Segment:** `unit:84349` · **unitId:** `84349`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84349&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Sommersemester
 
 ### Biologie IV: Übungen zur Molekularbiologie
@@ -4785,14 +4773,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **Turnus:** nur im Sommersemester
 
-### Fachmodul Pharmazeutische Biologie: Vorlesung (Teil 2)
-
-- **Segment:** `unit:87160` · **unitId:** `87160`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87160&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Sommersemester
-
 ### ILS-B4: Vorlesung zu Zell- Zellkommunikation, Signalverarbeitung und Entwicklung
 
 - **Segment:** `unit:83102` · **unitId:** `83102`
@@ -4820,15 +4800,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.0
 - **Turnus:** nur im Sommersemester
 
-### ILS-I4: Metabolische Netzwerke 1 — Vorlesung mit Übung
-
-- **Segment:** `unit:85547` · **unitId:** `85547`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85547&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
 ### ILS-MA-B10: Methods of modern (confocal) light microscopy — Übung
 
 - **Segment:** `unit:85801` · **unitId:** `85801`
@@ -4838,20 +4809,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
-### ILS-MA-B1: Systems Biology, Laboratory Course — Übung
+### ILS-MA-B12: Python Programming — Übung
 
-- **Segment:** `unit:87233` · **unitId:** `87233`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87233&periodId=565>
+- **Segment:** `unit:82717` · **unitId:** `82717`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82717&periodId=565>
 
 - **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 15:15–16:45 | 15.10.2025–04.02.2026 | 13001.01.178 (SR 01.178 Seminarraum Biochemie und Mikrobiologie) |
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Sommersemester
 
 ### ILS-MA-B1: Systems Biology, Lecture — Vorlesung
 
@@ -5164,20 +5129,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 15.0
 - **Turnus:** in jedem Semester
 
-### Physikalische Chemie
-
-- **Segment:** `unit:21071` · **unitId:** `21071`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=21071&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | 14:00–15:30 | — | 11901.00.240 (H10 Hörsaal 10) |
-
 ### Praktikum Experimentalphysik II
 
 - **Segment:** `unit:117852` · **unitId:** `117852`
@@ -5272,15 +5223,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übungsseminar
 - **Turnus:** nur im Sommersemester
 
-### Übungen Moleküle, Grundlagen der Zellbiologie und Genetik
-
-- **Segment:** `unit:136238` · **unitId:** `136238`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136238&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 6.0
-- **Turnus:** nur im Wintersemester
-
 ### Übungen zu Experimentalphysik 3 für Physik-Studierende: Optik und Quantenphänomene
 
 - **Segment:** `unit:83107` · **unitId:** `83107`
@@ -5318,14 +5260,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.0
 - **Turnus:** nur im Wintersemester
-
-### Übungen zur Experimentalphysik 4: Atom- und Molekülphysik
-
-- **Segment:** `unit:87830` · **unitId:** `87830`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87830&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Sommersemester
 
 ### Übungen zur Mathematik für Naturwissenschaftler
 

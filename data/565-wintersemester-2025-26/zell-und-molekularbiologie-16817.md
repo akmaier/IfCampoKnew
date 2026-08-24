@@ -1968,6 +1968,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 12:15–13:45 | 20.10.2025–02.02.2026 | 00501.00.023 ( KH 0.023 Hörsaal Kollegienhaus) |
 
+### English: Level 3 - Discussing Scientific Research — Übung
+
+- **Segment:** `unit:115687` · **unitId:** `115687`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115687&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
+- **Turnus:** in jedem Semester
+
 ### English: Level 3 - English through Music, Movies, and Literature — Übung
 
 - **Segment:** `unit:127211` · **unitId:** `127211`
@@ -2386,6 +2395,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 30.0
 - **Turnus:** nur im Sommersemester
 
+### Masterarbeiten Tierphysiologie — Sonstige Lehrveranstaltung
+
+- **Segment:** `unit:85642` · **unitId:** `85642`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85642&periodId=565>
+
+- **Veranstaltungsart:** Sonstige Lehrveranstaltung
+- **ECTS-Punkte:** 30.0
+- **Turnus:** in jedem Semester
+
 ### Mukosale Immunologie — Seminar und Übung
 
 - **Segment:** `unit:122521` · **unitId:** `122521`
@@ -2395,28 +2413,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 7.5
 - **Turnus:** nur im Sommersemester
 
-### Orientierungsmodul Experimentelle Molekulare Zelldynamik: Molekulare Mechanismen der Zellteilung in tierischen Zellen — Seminar und Übung
-
-- **Segment:** `unit:93074` · **unitId:** `93074`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93074&periodId=565>
-
-- **Veranstaltungsart:** Seminar und Übung
-- **ECTS-Punkte:** 7.5
-- **Turnus:** nur im Sommersemester
-
 ### Orientierungsmodul Molekulare Tumorforschung — Seminar und Übung
 
 - **Segment:** `unit:87643` · **unitId:** `87643`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87643&periodId=565>
-
-- **Veranstaltungsart:** Seminar und Übung
-- **ECTS-Punkte:** 7.5
-- **Turnus:** nur im Sommersemester
-
-### Orientierungsmodul: Immunonkologie — Seminar und Übung
-
-- **Segment:** `unit:122518` · **unitId:** `122518`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122518&periodId=565>
 
 - **Veranstaltungsart:** Seminar und Übung
 - **ECTS-Punkte:** 7.5
