@@ -1774,6 +1774,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17768|title:17772|title:17816|title:17838|exam:14315631|exam:14315634>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43687&periodId=589>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -3382,7 +3383,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17768|title:17772|title:17814|title:17843|exam:14315644|exam:14315645>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86021&periodId=589>
 
+- **Veranstaltungsart:** Praktikum
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
 
 ### LAG OC IV - Organisch-chemisches Praktikum für Lehramtskandidaten II (Prüfungsnr. 24422/24431) - Praktikum
 
@@ -3390,7 +3393,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17768|title:17772|title:17814|title:17844|exam:14315666|exam:14315668>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86021&periodId=589>
 
+- **Veranstaltungsart:** Praktikum
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
 
 ### LAG OC IV - Organisch-chemisches Praktikum für Lehramtskandidaten II (Prüfungsnr. 24422/24431) - Praktikum
 
@@ -3398,7 +3403,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17768|title:17772|title:17815|title:17842|exam:14315606|exam:14315608>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86021&periodId=589>
 
+- **Veranstaltungsart:** Praktikum
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
 
 ### LAG PC I (Ib) / LMCh, Bio PC II - V - Physikalische Chemie 2 (Kinetik u. Aufbau der Materie) für LA Gymnasium (PC Ib), Lebensmittelchemie und Biologie (PC II) - Vorlesung
 
@@ -3590,13 +3597,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17647|title:17768|title:17772|title:17817|title:17834|exam:14315542|exam:14315545>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86115&periodId=589>
 
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 11:00–13:00 | 13.04.2026–13.07.2026 | 13301.05.038 |
+- **Veranstaltungsart:** Seminar
+- **Turnus:** in jedem Semester
 
 ### OC 46 - Organisch-chemisches Praktikum III mit Seminar - Praktikum
 
@@ -3708,20 +3710,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 10:00–12:00 | 19.06.2026 | — |
-| wöchentlich | Mo | 08:00–17:00 | 22.06.2026–13.07.2026 | — |
-| wöchentlich | Di | 13:00–17:30 | 23.06.2026–14.07.2026 | — |
-| wöchentlich | Mi | 13:30–17:30 | 24.06.2026–15.07.2026 | — |
-| wöchentlich | Do | 08:00–17:00 | 25.06.2026–16.07.2026 | — |
-| wöchentlich | Fr | 08:00–16:00 | 26.06.2026–17.07.2026 | — |
-| Blockveranstaltung | — | 08:00–17:00 | 20.07.2026–24.07.2026 | — |
 
 ### OC-LAB-Sem - Praktikum Organische Chemie - Seminar - Seminar
 
@@ -3784,14 +3773,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94756&periodId=589>
 
 - **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:00–14:00 | 28.04.2026–14.07.2026 | 13301.02.0241 (C3 - Chemikum) |
 
 ### OC3-VL - Organische Chemie 3 - Vorlesung
 
@@ -3868,15 +3850,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 21.04.2026–14.07.2026 | 13301.02.0241 (C3 - Chemikum) |
-| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 11906.01.030 (H21) |
 
 ### PC-O-LAB - Praktikum Physikalische Chemie vertieft - Praktikum
 
@@ -3898,7 +3872,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -3915,7 +3889,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -4094,14 +4068,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83128&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 15:00–17:00 | 15.04.2026–15.07.2026 | 11201.03.228 (P 3.88 Seminarraum der Physikalischen Chemie) |
 
 ### ThC 1 - V - Theoretische Chemie 1 - Vorlesung
 
@@ -4111,15 +4078,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:15–11:45 | 14.04.2026–09.06.2026 | 11202.00.307 (H1 Egerlandstr.3 Anorganische Chemie) |
-| wöchentlich | Fr | 10:15–11:45 | 17.04.2026–12.06.2026 | 11202.00.307 (H1 Egerlandstr.3 Anorganische Chemie) |
 
 ### ThC 1- Ü - Theoretische Chemie 1 - Übung - Übung
 
@@ -4237,7 +4196,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 13301.U1.0171 (C1 - Chemikum) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (51)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (58)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -4568,6 +4527,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Wintersemester
 
+### Metallorganische Chemie der Haupt- und Nebengruppenelemente-Sem — Seminar
+
+- **Segment:** `unit:91666` · **unitId:** `91666`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91666&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Turnus:** nur im Sommersemester
+
 ### Organisch-chemisches Seminar für Lehramtskandidaten II (Modul LAG OC III) — Hauptseminar
 
 - **Segment:** `unit:97664` · **unitId:** `97664`
@@ -4593,6 +4560,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
+### Organische Chemie II — Seminar
+
+- **Segment:** `unit:108668` · **unitId:** `108668`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=108668&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Turnus:** nur im Wintersemester
+
 ### Organische Reaktionsmechanismen + Stereochemie — Vorlesung
 
 - **Segment:** `unit:86432` · **unitId:** `86432`
@@ -4611,6 +4586,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
+### Orientierungsmodul PC - Seminar
+
+- **Segment:** `unit:93826` · **unitId:** `93826`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93826&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+
 ### PC-Praktikum Spektroskopie und moderne Messverfahren
 
 - **Segment:** `unit:93804` · **unitId:** `93804`
@@ -4618,6 +4600,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Praktikum
 - **Turnus:** in jedem Semester
+
+### Physik für Pharmazie, Lebensmittelchemie, Molekularmedizin und LAG Chemie — Vorlesung
+
+- **Segment:** `unit:88365` · **unitId:** `88365`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88365&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Wintersemester
 
 ### Physikalisch-chemisches Praktikum für LA Grund- und Mittelschule (LA GS/MS PC II)
 
@@ -4635,6 +4625,23 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
+
+### Physikalische Chemie 2 — Vorlesung
+
+- **Segment:** `unit:92838` · **unitId:** `92838`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92838&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
+
+### Physikalische Chemie 2 - Übung
+
+- **Segment:** `unit:88050` · **unitId:** `88050`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88050&periodId=589>
+
+- **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
 
 ### Physikalische Chemie für Integrated Life Sciences — Vorlesung
@@ -4757,6 +4764,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84727&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Turnus:** nur im Wintersemester
+
+### Übungen im Schülerlabor "KOAla" (wöchentlich am Campus Nürnberg)
+
+- **Segment:** `unit:82530` · **unitId:** `82530`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82530&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.0
 - **Turnus:** nur im Wintersemester
 
 ### Übungen im Schülerlabor (Future Food) — Praxisseminar

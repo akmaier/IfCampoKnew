@@ -2672,7 +2672,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 | wöchentlich | Mo | 14:00–16:00 | 13.04.2026–13.07.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
 | Einzeltermin | Mi | 10:00–12:00 | 20.05.2026 | 11002.00.020 (H17 Maschinenbau Hörsaal Maschinenbau) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (50)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (62)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -2689,6 +2689,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
+
+### Biologie I: Vorlesung Grundlagen der Biochemie, Zytologie, Genetik und Entwicklungsbiologie
+
+- **Segment:** `unit:83673` · **unitId:** `83673`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83673&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 7.5
+- **Turnus:** nur im Wintersemester
 
 ### Experimentalphysik 3 für Physik-Studierende: Optik und Quantenphänomene — Vorlesung
 
@@ -2725,12 +2734,47 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
+### Fachmodul Biochemie: Übungen mit Hauptseminar
+
+- **Segment:** `unit:82663` · **unitId:** `82663`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82663&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 10.0
+- **Turnus:** nur im Wintersemester
+
 ### Fachmodul Entwicklungsbiologie: Hauptseminar zu den Übungen (Teil 1)
 
 - **Segment:** `unit:88734` · **unitId:** `88734`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88734&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Turnus:** nur im Wintersemester
+
+### Fachmodul Entwicklungsbiologie: Vorlesung mit Seminar (Teil 2)
+
+- **Segment:** `unit:87538` · **unitId:** `87538`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87538&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
+
+### Fachmodul Entwicklungsbiologie: Übung (Teil 1)
+
+- **Segment:** `unit:84786` · **unitId:** `84786`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84786&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Turnus:** nur im Wintersemester
+
+### Fachmodul Genetik (WiSe): Übungen mit Hauptseminar (Teil 1)
+
+- **Segment:** `unit:88654` · **unitId:** `88654`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88654&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 10.0
 - **Turnus:** nur im Wintersemester
 
 ### Fachmodul Immunologie (Teil 2): Konzepte der Immunologie (Vorlesung mit Seminar) — Vorlesung mit Übung
@@ -2776,6 +2820,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 10.0
+- **Turnus:** nur im Wintersemester
+
+### Fachmodul Strukturbiologie: Vorlesung mit Seminar (Teil 2)
+
+- **Segment:** `unit:91939` · **unitId:** `91939`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91939&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
 ### Fachmodul Strukturbiologie: Übungen mit Hauptseminar (Teil 1)
@@ -2887,6 +2940,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
+### ILS-MA-B1: Systems Biology, Laboratory Course — Übung
+
+- **Segment:** `unit:87233` · **unitId:** `87233`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87233&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Turnus:** nur im Wintersemester
+
+### ILS-MA-B1: Systems Biology, Lecture — Vorlesung
+
+- **Segment:** `unit:84643` · **unitId:** `84643`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84643&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Wintersemester
+
 ### ILS-W1: Computational Biology II (Lecture) — Vorlesung
 
 - **Segment:** `unit:92982` · **unitId:** `92982`
@@ -2894,6 +2963,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 3.0
+- **Turnus:** nur im Wintersemester
+
+### ILS-W1: Computational Biology II (Tutorial) — Übung
+
+- **Segment:** `unit:99528` · **unitId:** `99528`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99528&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 4.5
 - **Turnus:** nur im Wintersemester
 
 ### ILS-W1: Computational Biology, Vorlesung (Teil 1)
@@ -3103,6 +3181,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Blockveranstaltung | — | 09:30–17:00 | 22.06.2026–17.07.2026 | 13003.U1.860 (Kursraum N-I Nr. U1.860) |
 
+### Physikalisch-Biologisches Wahlpflichtmodul (ILS) — Vorlesung mit Übung
+
+- **Segment:** `unit:88571` · **unitId:** `88571`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88571&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 15.0
+- **Turnus:** in jedem Semester
+
 ### Physikalische Chemie
 
 - **Segment:** `unit:21071` · **unitId:** `21071`
@@ -3185,6 +3272,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
+### Vorlesung Moleküle, Grundlagen der Zellbiologie und Genetik
+
+- **Segment:** `unit:136233` · **unitId:** `136233`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136233&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 7.0
+- **Turnus:** nur im Wintersemester
+
 ### Übungen Moleküle, Grundlagen der Zellbiologie und Genetik
 
 - **Segment:** `unit:136238` · **unitId:** `136238`
@@ -3200,6 +3296,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83107&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Turnus:** nur im Wintersemester
+
+### Übungen zu Optik und Mikroskopie (PO 2026)
+
+- **Segment:** `unit:136698` · **unitId:** `136698`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136698&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.0
 - **Turnus:** nur im Wintersemester
 
 ### Übungen zur Experimentalphysik 4: Atom- und Molekülphysik

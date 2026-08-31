@@ -721,7 +721,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17941|exam:14396107|exam:14396109|exam:14396111|exam:14397639|exam:14397644>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126624&periodId=589>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -3112,6 +3114,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17941|exam:14396107|exam:14396109|exam:14396111|exam:14397683|exam:14397684>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114631&periodId=589>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -3186,6 +3189,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17941|exam:14393664|exam:14393665|exam:14393666|exam:14394282|exam:14394294|exam:14394301>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70931&periodId=589>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch oder Englisch
 
 #### Termine
@@ -5823,14 +5827,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 09:00–10:00 | 16.04.2026–16.07.2026 | — |
 
 ### WW3-SS-UEB-GlaFor - Glass formulation using project management - Vorlesung mit Übung
 
@@ -5913,7 +5910,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Blockveranstaltung | — | 08:00–12:00 | 02.07.2026 | 11401.00.237 (0.85 Seminarraum) |
 | Blockveranstaltung | — | 13:00–17:30 | 02.07.2026 | 11401.00.116 (H14 Bernhard-Ilschner-Hörsaal (0.61)) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (135)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (153)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -5956,6 +5953,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.0
+- **Turnus:** nur im Wintersemester
+
+### Advanced Materials Simulation — Vorlesung mit Übung
+
+- **Segment:** `unit:88241` · **unitId:** `88241`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88241&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
 ### Advanced Semiconductor Materials - Excited States and Charge Transport in Organic Semiconductors — Vorlesung
@@ -6080,6 +6086,25 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
 
+### Atomistic Modelling of Mechanical Properties — Vorlesung mit Übung
+
+- **Segment:** `unit:120501` · **unitId:** `120501`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120501&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 13:00–18:00 | 24.04.2026 | 11401.00.124 (CIP Pool WW CIP Pool Werkstoffwissenschaften) |
+| Einzeltermin | Fr | 13:00–18:00 | 22.05.2026 | 11401.00.124 (CIP Pool WW CIP Pool Werkstoffwissenschaften) |
+| Einzeltermin | Fr | 13:00–18:00 | 05.06.2026 | 11401.00.124 (CIP Pool WW CIP Pool Werkstoffwissenschaften) |
+| Einzeltermin | Fr | 13:00–18:00 | 26.06.2026 | 11401.00.124 (CIP Pool WW CIP Pool Werkstoffwissenschaften) |
+| Einzeltermin | Fr | 13:00–18:00 | 17.07.2026 | 11401.00.124 (CIP Pool WW CIP Pool Werkstoffwissenschaften) |
+
 ### Automotive Engineering I
 
 - **Segment:** `unit:35593` · **unitId:** `35593`
@@ -6188,6 +6213,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mi | 10:15–11:45 | 22.04.2026–15.07.2026 | 11401.00.116 (H14 Bernhard-Ilschner-Hörsaal (0.61)) |
 
+### BWL für Ingenieure I — Vorlesung
+
+- **Segment:** `unit:82996` · **unitId:** `82996`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82996&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Wintersemester
+
 ### Cell Material Interactions — Vorlesung
 
 - **Segment:** `unit:87960` · **unitId:** `87960`
@@ -6219,6 +6252,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83188&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
+- **Turnus:** nur im Wintersemester
+
+### Coating Technology — Vorlesung
+
+- **Segment:** `unit:88112` · **unitId:** `88112`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88112&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
 
 ### Computational Nanoscience — Vorlesung
@@ -6320,6 +6362,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
 
+### Dislocation Theory and Dislocation Simulation (Tutorial) — Übung
+
+- **Segment:** `unit:83077` · **unitId:** `83077`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83077&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 1.0
+- **Turnus:** nur im Wintersemester
+
 ### Einführung in das Physikalische Praktikum II (Strukturphysik) — Vorlesung
 
 - **Segment:** `unit:83869` · **unitId:** `83869`
@@ -6342,6 +6393,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 2.5
+- **Turnus:** nur im Wintersemester
+
+### Einführungsveranstaltung GP2 und Nano2 — Sonstige Lehrveranstaltung
+
+- **Segment:** `unit:97932` · **unitId:** `97932`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97932&periodId=589>
+
+- **Veranstaltungsart:** Sonstige Lehrveranstaltung
 - **Turnus:** nur im Wintersemester
 
 ### Elektrische, magnetische, optische Eigenschaften — Vorlesung
@@ -6452,6 +6511,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mi | 16:15–17:00 | 22.04.2026–15.07.2026 | 11401.01.251 (1.84 Seminarraum WW5) |
 
+### Exercises Processing of Polymers — Übung
+
+- **Segment:** `unit:82202` · **unitId:** `82202`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82202&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 1.5
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 17:00–17:45 | 22.04.2026–15.07.2026 | 11401.01.251 (1.84 Seminarraum WW5) |
+
 ### Exercises Rheology — Übung
 
 - **Segment:** `unit:83110` · **unitId:** `83110`
@@ -6459,6 +6534,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 1.5
+- **Turnus:** nur im Wintersemester
+
+### Exercises to  Biomaterials (materials for implants) — Übung
+
+- **Segment:** `unit:93845` · **unitId:** `93845`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93845&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
 
 ### Exercises to Scanning Electron Microscopy in Materials Science and Nanotechnology — Übung
@@ -6511,6 +6595,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
+
+### Foundations of Computational Materials Science II (Tutorial) — Tutorium
+
+- **Segment:** `unit:84124` · **unitId:** `84124`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84124&periodId=589>
+
+- **Veranstaltungsart:** Tutorium
+- **ECTS-Punkte:** 1.0
+- **Turnus:** in jedem Semester
 
 ### Foundations of Finite Element Simulation — Vorlesung mit Übung
 
@@ -6565,6 +6658,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Turnus:** nur im Wintersemester
+
+### Fundamentals of Polymer Materials (Polymerwerkstoffe) — Vorlesung mit Übung
+
+- **Segment:** `unit:90673` · **unitId:** `90673`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90673&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 3.0
 - **Turnus:** nur im Wintersemester
 
 ### Glas und Keramik — Vorlesung mit Übung
@@ -6711,6 +6813,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.0
+- **Turnus:** nur im Wintersemester
+
+### Industrial requirements to material scientists — Vorlesung mit Übung
+
+- **Segment:** `unit:83834` · **unitId:** `83834`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83834&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 3.0
 - **Turnus:** nur im Wintersemester
 
 ### Introduction to Atom Probe Tomography — Vorlesung
@@ -6926,6 +7037,23 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.5
 - **Turnus:** in jedem Semester
 
+### Main Seminar (Hauptseminar) M12
+
+- **Segment:** `unit:91588` · **unitId:** `91588`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91588&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Turnus:** nur im Sommersemester
+
+### Materialkreisläufe und Nachhaltigkeit — Vorlesung mit Übung
+
+- **Segment:** `unit:114530` · **unitId:** `114530`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114530&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 2.5
+- **Turnus:** nur im Wintersemester
+
 ### Materials in a biological environment — Vorlesung
 
 - **Segment:** `unit:123546` · **unitId:** `123546`
@@ -7025,6 +7153,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 14:15–15:45 | 21.04.2026–14.07.2026 | 11401.00.116 (H14 Bernhard-Ilschner-Hörsaal (0.61)) |
+
+### Metallic Materials: Technology 1 — Vorlesung mit Übung
+
+- **Segment:** `unit:87481` · **unitId:** `87481`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87481&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 2.5
+- **Turnus:** nur im Wintersemester
 
 ### Mikro- und Nanostrukturforschung — Vorlesung mit Übung
 
@@ -7250,6 +7387,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
+### Scanning Probe Microscopy and Nanomechanics — Vorlesung
+
+- **Segment:** `unit:85848` · **unitId:** `85848`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85848&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 3.0
+- **Turnus:** nur im Wintersemester
+
 ### Scanning Probe Microscopy and Nanomechanics - Exercises — Übung
 
 - **Segment:** `unit:85774` · **unitId:** `85774`
@@ -7286,6 +7432,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Fr | 16:15–17:45 | 17.04.2026–17.07.2026 | 11401.00.123 (0.68 Seminarraum Werkstoffwissenschaften) |
+
+### Statik und Festigkeitslehre — Sonstige Lehrveranstaltung
+
+- **Segment:** `unit:88460` · **unitId:** `88460`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88460&periodId=589>
+
+- **Veranstaltungsart:** Sonstige Lehrveranstaltung
+- **Turnus:** nur im Wintersemester
 
 ### Structural Materials 2 — Vorlesung
 
@@ -7367,6 +7521,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
+### Übung Surface Analysis I
+
+- **Segment:** `unit:83097` · **unitId:** `83097`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83097&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 1.0
+- **Turnus:** nur im Wintersemester
+
 ### Übung zu Halbleitertechnik III - Leistungshalbleiterbauelemente
 
 - **Segment:** `unit:83339` · **unitId:** `83339`
@@ -7402,6 +7565,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:90332` · **unitId:** `90332`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90332&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Turnus:** nur im Wintersemester
+
+### Übungen zur Mathematik für Ingenieure D1: MWT, NT
+
+- **Segment:** `unit:114568` · **unitId:** `114568`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114568&periodId=589>
 
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester

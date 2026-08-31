@@ -24,14 +24,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 19:30–22:00 | 15.04.2026–15.07.2026 | 00901.00.019 (Wassersaal - Orangerie #!#Belegungen ausschließlich durch die Zentrale Raumverwaltung / Raumplan wird nicht aktualisiert !!! !!! #!#) |
 
 ### Big Band - Übung
 

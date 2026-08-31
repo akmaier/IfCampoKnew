@@ -352,7 +352,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Di | 17:30–19:00 | 30.06.2026 | — |
 | Einzeltermin | Sa | 09:00–15:30 | 11.07.2026 | — |
 
-### MA EEBF M6/MA Pädagogik MII/Modul 2 - Semiar Allg. Päd.: Medien, Wissen, Bildung - Grundlagen der Medienpädagogik (Standort Nürnberg) - Seminar
+### MA EEBF M6/MA Pädagogik MII: Medien, Wissen, Bildung - Grundlagen der Medienpädagogik - Seminar
 
 - **Segment:** `exam:15905548` · **unitId:** `89141`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18322|exam:15619376|exam:15619377|exam:15619378|exam:15619379|exam:15905548>
@@ -368,7 +368,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mo | 09:45–11:15 | 13.04.2026–13.07.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
 
-### MA EEBF M6/MA Pädagogik MII/Modul 2 - Semiar Allg. Päd.: Medien, Wissen, Bildung - Grundlagen der Medienpädagogik (Standort Nürnberg) - Seminar
+### MA EEBF M6/MA Pädagogik MII: Medien, Wissen, Bildung - Grundlagen der Medienpädagogik - Seminar
 
 - **Segment:** `exam:15905541` · **unitId:** `89141`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18322|exam:15619420|exam:15619421|exam:15619422|exam:15619423|exam:15905541>
@@ -383,38 +383,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 09:45–11:15 | 13.04.2026–13.07.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
-
-### MA EEBF M7/Modul 2 - Seminar Allg. Päd.: ChatGPT & Co. - KI in Studium, Schule und im Medienalltag von Kindern und Jugendlichen (Standort Nürnberg) - Seminar
-
-- **Segment:** `exam:15905537` · **unitId:** `84951`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18322|exam:15619376|exam:15619377|exam:15619378|exam:15619379|exam:15905537>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84951&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 15:45–17:15 | 13.04.2026–13.07.2026 | 20301.U1.031 (U1.031 Seminarraum (40)) |
-
-### MA EEBF M7/Modul 2 - Seminar Allg. Päd.: ChatGPT & Co. - KI in Studium, Schule und im Medienalltag von Kindern und Jugendlichen (Standort Nürnberg) - Seminar
-
-- **Segment:** `exam:15905530` · **unitId:** `84951`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18322|exam:15619420|exam:15619421|exam:15619422|exam:15619423|exam:15905530>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84951&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 15:45–17:15 | 13.04.2026–13.07.2026 | 20301.U1.031 (U1.031 Seminarraum (40)) |
 
 ### Mebis and More: Digital Media in the English Classroom - Mittelseminar (Hauptseminar, PO 2020)
 
@@ -479,6 +447,38 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:00–15:30 | 20.04.2026–13.07.2026 | 20301.01.028 (1.028 Seminarraum MM-Labor (18)) |
+
+### Modul 2 - Seminar Allg. Päd.: ChatGPT & Co. - KI in Studium, Schule und im Medienalltag von Kindern und Jugendlichen (Standort Nürnberg) - Seminar
+
+- **Segment:** `exam:15905537` · **unitId:** `84951`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18322|exam:15619376|exam:15619377|exam:15619378|exam:15619379|exam:15905537>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84951&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 15:45–17:15 | 13.04.2026–13.07.2026 | 20301.U1.031 (U1.031 Seminarraum (40)) |
+
+### Modul 2 - Seminar Allg. Päd.: ChatGPT & Co. - KI in Studium, Schule und im Medienalltag von Kindern und Jugendlichen (Standort Nürnberg) - Seminar
+
+- **Segment:** `exam:15905530` · **unitId:** `84951`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18322|exam:15619420|exam:15619421|exam:15619422|exam:15619423|exam:15905530>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84951&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 15:45–17:15 | 13.04.2026–13.07.2026 | 20301.U1.031 (U1.031 Seminarraum (40)) |
 
 ### Modul 2 - Seminar: Digital Storytelling mit twine: Mit Erzählungen Medienkompetenzen fördern (Standort Nürnberg) - Seminar
 
@@ -666,7 +666,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Sa | 09:00–18:00 | 09.05.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
 | Einzeltermin | Sa | 09:00–18:00 | 13.06.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
 
-### Modul 2 - Seminar: Zielgruppenübergreifende aktive Medienarbeit (Standort Nürnberg) - Seminar
+### Modul 2 - Seminar: Zielgruppenübergreifende aktive Medienarbeit - Exkursion in die Boxdorfer Wohnanlage (Standort Nürnberg) - Seminar
 
 - **Segment:** `exam:15905297` · **unitId:** `118302`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18322|exam:15619376|exam:15619377|exam:15619378|exam:15619379|exam:15905297>
@@ -686,7 +686,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Fr | 09:45–11:15 | 22.05.2026 | 20302.01.121 (1.121 Seminarraum (40)) 20301.01.010 (1.010 Seminarraum (50)) |
 | Einzeltermin | Fr | 09:45–11:15 | 10.07.2026 | 20302.01.121 (1.121 Seminarraum (40)) |
 
-### Modul 2 - Seminar: Zielgruppenübergreifende aktive Medienarbeit (Standort Nürnberg) - Seminar
+### Modul 2 - Seminar: Zielgruppenübergreifende aktive Medienarbeit - Exkursion in die Boxdorfer Wohnanlage (Standort Nürnberg) - Seminar
 
 - **Segment:** `exam:15905290` · **unitId:** `118302`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18322|exam:15619420|exam:15619421|exam:15619422|exam:15619423|exam:15905290>
@@ -834,7 +834,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Di | 09:45–11:15 | 14.04.2026 | 75202.00.513 (St.Paul 00.513 (24)) |
 | wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 75201.00.202 (St.Paul(V) 00.202 Seminarraum (20)) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (5)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (7)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -864,6 +864,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.3
 - **Turnus:** in jedem Semester
 
+### Modul 2 - Seminar: Bildungsprozesse und Bildungseinrichtungen in einer zunehmend von digitalen Medien geprägten Gesellschaft
+
+- **Segment:** `unit:125223` · **unitId:** `125223`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125223&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** in jedem Semester
+
 ### Unterrichten und Lernen mit digitalen Medien - Kompetenzen für Lehramtsstudierende — Seminar
 
 - **Segment:** `unit:125371` · **unitId:** `125371`
@@ -872,6 +881,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** in jedem Semester
+
+### Unterrichten und Lernen mit digitalen Medien - Kompetenzen für Lehramtsstudierende (Angebot am Standort Erlangen) — Seminar
+
+- **Segment:** `unit:111659` · **unitId:** `111659`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111659&periodId=589>
+
+- **Veranstaltungsart:** Seminar
 
 ### Wahlpflichtseminar MS 2
 

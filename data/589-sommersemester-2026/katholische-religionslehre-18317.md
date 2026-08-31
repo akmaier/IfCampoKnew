@@ -38,7 +38,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ## Veranstaltungen (59)
 
-### Religiöses Lernen: Konzeptionen und Orte - Praxisseminar
+### Konfessionelle Kooperation im Religionsunterricht - Praxisseminar
 
 - **Segment:** `exam:17725258` · **unitId:** `94284`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18317|exam:15198802|exam:15198809|exam:17725258>
@@ -46,7 +46,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Praxisseminar
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** jedes 2. Semester
+- **Turnus:** Unregelmäßig
 
 #### Termine
 
@@ -55,7 +55,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | wöchentlich | Fr | 08:00–09:30 | 17.04.2026–08.05.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 | Einzeltermin | Mi | 17:30–20:00 | 15.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 
-### Religiöses Lernen: Konzeptionen und Orte - Praxisseminar
+### Konfessionelle Kooperation im Religionsunterricht - Praxisseminar
 
 - **Segment:** `exam:17725268` · **unitId:** `94284`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18317|exam:15198830|exam:15198838|exam:17725268>
@@ -63,7 +63,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Praxisseminar
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** jedes 2. Semester
+- **Turnus:** Unregelmäßig
 
 #### Termine
 
@@ -72,7 +72,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | wöchentlich | Fr | 08:00–09:30 | 17.04.2026–08.05.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 | Einzeltermin | Mi | 17:30–20:00 | 15.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 
-### Religiöses Lernen: Konzeptionen und Orte - Praxisseminar
+### Konfessionelle Kooperation im Religionsunterricht - Praxisseminar
 
 - **Segment:** `exam:17725234` · **unitId:** `94284`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18317|exam:15198830|exam:15198842|exam:17725234>
@@ -80,7 +80,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Praxisseminar
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** jedes 2. Semester
+- **Turnus:** Unregelmäßig
 
 #### Termine
 
@@ -89,7 +89,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | wöchentlich | Fr | 08:00–09:30 | 17.04.2026–08.05.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 | Einzeltermin | Mi | 17:30–20:00 | 15.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 
-### Religiöses Lernen: Konzeptionen und Orte - Praxisseminar
+### Konfessionelle Kooperation im Religionsunterricht - Praxisseminar
 
 - **Segment:** `exam:17725219` · **unitId:** `94284`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18317|exam:15198876|exam:15198877|exam:15198878|exam:15198879|exam:15198883|exam:17725219>
@@ -97,7 +97,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Praxisseminar
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** jedes 2. Semester
+- **Turnus:** Unregelmäßig
 
 #### Termine
 
@@ -106,7 +106,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | wöchentlich | Fr | 08:00–09:30 | 17.04.2026–08.05.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 | Einzeltermin | Mi | 17:30–20:00 | 15.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 
-### Religiöses Lernen: Konzeptionen und Orte - Praxisseminar
+### Konfessionelle Kooperation im Religionsunterricht - Praxisseminar
 
 - **Segment:** `exam:17725223` · **unitId:** `94284`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18317|exam:15198886|exam:15198887|exam:15198888|exam:15198889|exam:15198896|exam:17725223>
@@ -114,7 +114,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Praxisseminar
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** jedes 2. Semester
+- **Turnus:** Unregelmäßig
 
 #### Termine
 
@@ -312,6 +312,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18317|exam:15198830|exam:15198838|exam:15198841>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=76323&periodId=589>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -495,14 +496,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120234&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 17:30–19:00 | 14.04.2026 | — |
 
 ### BasisVHB - Basiswissen Weltreligionen (VHB) Modul II - Hauptseminar
 
@@ -511,14 +505,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120234&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 17:30–19:00 | 14.04.2026 | — |
 
 ### BasisVHB - Basiswissen Weltreligionen (VHB) Modul II - Hauptseminar
 
@@ -527,14 +514,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120234&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 17:30–19:00 | 14.04.2026 | — |
 
 ### BasisVHB - Basiswissen Weltreligionen (VHB) Modul II - Hauptseminar
 
@@ -543,14 +523,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120234&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 17:30–19:00 | 14.04.2026 | — |
 
 ### BiblTheol - Biblische Theologie und ihre Didaktik / Einführung in die Theologie - Seminar
 

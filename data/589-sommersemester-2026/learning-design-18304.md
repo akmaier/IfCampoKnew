@@ -33,6 +33,27 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mo | 08:30–10:00 | 13.04.2026–13.07.2026 | 21202.03.4034 |
 
+### ITG Informationstechnische Grundlagen - Seminar
+
+- **Segment:** `exam:17869294` · **unitId:** `92352`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18304|exam:15178334|exam:15178335|exam:15178336|exam:15178358|exam:17869294>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92352&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–15:30 | 17.04.2026 | — |
+| Einzeltermin | Di | 17:30–19:00 | 05.05.2026 | — |
+| Einzeltermin | Di | 17:30–19:00 | 09.06.2026 | — |
+| Einzeltermin | Di | 17:30–19:00 | 30.06.2026 | — |
+| Einzeltermin | Sa | 09:00–15:30 | 11.07.2026 | — |
+
 ### Kolloquium Masterarbeit - Seminar
 
 - **Segment:** `exam:15909377` · **unitId:** `136990`
@@ -50,6 +71,22 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | wöchentlich | Mo | 14:00–15:30 | 20.04.2026–27.04.2026 | 21202.03.4033 |
 | wöchentlich | Mi | 14:00–15:30 | 13.05.2026–20.05.2026 | 21202.03.4033 |
 | wöchentlich | Mo | 14:00–15:30 | 08.06.2026–22.06.2026 | 21202.03.4033 |
+
+### MA EEBF M7/MA Pädagogik MVIII: Aktuelle Ansätze medienpädagogischer Forschung - Seminar
+
+- **Segment:** `exam:17869883` · **unitId:** `91808`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18304|exam:15178334|exam:15178335|exam:15178336|exam:15178337|exam:15178344|exam:17869883>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91808&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:00–15:30 | 13.04.2026–13.07.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
 
 ### MA Learning Design: Digitale Lehr- und Lernformate - Seminar
 
@@ -183,12 +220,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18304|exam:15178334|exam:15178335|exam:15178336|exam:15178352>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115853&periodId=589>
 
-### 32302 Educational Technology
-
-- **Segment:** `exam:15178358` · **unitId:** `115855`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18304|exam:15178334|exam:15178335|exam:15178336|exam:15178358>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115855&periodId=589>
-
 ### 32304 Praxis Digital Education
 
 - **Segment:** `exam:15178364` · **unitId:** `115857`
@@ -218,12 +249,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Segment:** `exam:15178392` · **unitId:** `131105`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18304|exam:15178334|exam:15178335|exam:15178336|exam:15178392>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131105&periodId=589>
-
-### 33136 Kontexte medienpädagogischer Forschung und Praxis
-
-- **Segment:** `exam:15178344` · **unitId:** `125811`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18304|exam:15178334|exam:15178335|exam:15178336|exam:15178337|exam:15178344>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125811&periodId=589>
 
 ### 82551 Betriebspädagogisches Seminar: E-Learning und Wissensmanagement
 

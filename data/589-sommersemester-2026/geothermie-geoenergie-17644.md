@@ -1135,7 +1135,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 16:15–17:45 | 21.04.2026–14.07.2026 | 11901.00.240 (H10 Hörsaal 10) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (13)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (17)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -1161,6 +1161,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:89154` · **unitId:** `89154`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89154&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
+- **ECTS-Punkte:** 2.5
+- **Turnus:** nur im Wintersemester
+
+### [AS-F3] + [GT-E3] Geothermie: Erschließung und Nutzung — Hauptseminar
+
+- **Segment:** `unit:85312` · **unitId:** `85312`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85312&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 2.5
@@ -1193,6 +1202,24 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
 
+### [AS-V2] + [GT-E2]Störungssysteme — Übungsseminar
+
+- **Segment:** `unit:95784` · **unitId:** `95784`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95784&periodId=589>
+
+- **Veranstaltungsart:** Übungsseminar
+- **ECTS-Punkte:** 2.5
+- **Turnus:** nur im Wintersemester
+
+### [AS-V4] +  [GT-V2] Geländeübung Geophysik — Exkursion
+
+- **Segment:** `unit:90963` · **unitId:** `90963`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90963&periodId=589>
+
+- **Veranstaltungsart:** Exkursion
+- **ECTS-Punkte:** 2.5
+- **Turnus:** nur im Sommersemester
+
 ### [GT-E4] Prozessmaschinen und Anlagenbau — Vorlesung mit Übung
 
 - **Segment:** `unit:117473` · **unitId:** `117473`
@@ -1201,6 +1228,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
+
+### BWL für Ingenieure I — Vorlesung
+
+- **Segment:** `unit:82996` · **unitId:** `82996`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82996&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Wintersemester
 
 ### Gesteins-Fluid-Interaktion — Übungsseminar
 

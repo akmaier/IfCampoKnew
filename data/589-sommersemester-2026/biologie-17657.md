@@ -344,15 +344,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 6.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 12:15–14:00 | 15.04.2026–15.07.2026 | 13003.00.877 (HC Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
-| wöchentlich | Fr | 13:30–15:00 | 17.04.2026–17.07.2026 | 20301.02.031 (2.031 großer Hörsaal (110)) |
 
 ### B2: Biologie der Pflanzen: Allgemeine Botanik und Einführung in die Evolution (Vorlesung) - Vorlesung
 
@@ -362,15 +354,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 6.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 12:15–14:00 | 15.04.2026–15.07.2026 | 13003.00.877 (HC Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
-| wöchentlich | Fr | 13:30–15:00 | 17.04.2026–17.07.2026 | 20301.02.031 (2.031 großer Hörsaal (110)) |
 
 ### B2: Biologie der Pflanzen: Tutorium Botanik - Tutorium
 
@@ -412,7 +396,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17672|title:17694|title:17711|exam:14383856|exam:14383859>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84520&periodId=589>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -426,7 +413,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17672|title:17695|title:17707|exam:14383895|exam:14383898>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84520&periodId=589>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -1382,16 +1372,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:30–17:45 | 20.04.2026–13.07.2026 | — |
-| wöchentlich | Di | 12:15–13:00 | 14.04.2026–12.05.2026 | 13301.01.0331 (C2 - Chemikum) |
-| wöchentlich | Mi | 14:15–17:30 | 22.04.2026–15.07.2026 | — |
 
 ### Ökologie und Diversität B: Übungen zur Biologie und Systematik einheimischer Pflanzen - Vorlesung mit Übung
 
@@ -1401,16 +1382,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:30–17:45 | 20.04.2026–13.07.2026 | — |
-| wöchentlich | Di | 12:15–13:00 | 14.04.2026–12.05.2026 | 13301.01.0331 (C2 - Chemikum) |
-| wöchentlich | Mi | 14:15–17:30 | 22.04.2026–15.07.2026 | — |
 
 ### Ökologie und Diversität B: Übungen zur Biologie und Systematik einheimischer Pflanzen - Vorlesung mit Übung
 
@@ -1420,16 +1392,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:30–17:45 | 20.04.2026–13.07.2026 | — |
-| wöchentlich | Di | 12:15–13:00 | 14.04.2026–12.05.2026 | 13301.01.0331 (C2 - Chemikum) |
-| wöchentlich | Mi | 14:15–17:30 | 22.04.2026–15.07.2026 | — |
 
 ### Übungen zur Experimentalphysik für Naturwissenschaftler II - Übung
 
@@ -2440,6 +2403,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17672|title:17696|title:17702|exam:14383813|exam:14383816>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=33706&periodId=589>
 
+- **ECTS-Punkte:** 7.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -2454,6 +2418,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17677|exam:14383991|exam:14383994>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=33706&periodId=589>
 
+- **ECTS-Punkte:** 7.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -2468,6 +2433,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17675|exam:14378935|exam:14378937|exam:14378940|exam:14378946|exam:14378949>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=33706&periodId=589>
 
+- **ECTS-Punkte:** 7.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -3165,6 +3131,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|title:17685|exam:15932188|exam:15932201>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133469&periodId=589>
 
+- **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -3641,7 +3608,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17672|title:17694|title:17712|exam:14383893|exam:15789391>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113109&periodId=589>
 
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -3977,7 +3947,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Fr | 12:00–13:30 | 17.04.2026–17.07.2026 | 20301.02.031 (2.031 großer Hörsaal (110)) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (61)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (79)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -3999,6 +3969,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 3.5
 - **Turnus:** nur im Sommersemester
 
+### 2a: Übungen zur Mikrobiologie, Evolution, und Anatomie der Pflanzen
+
+- **Segment:** `unit:136330` · **unitId:** `136330`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136330&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 3.0
+- **Turnus:** nur im Sommersemester
+
 ### 2b: Tutorium zur Phylogenie des Lebens
 
 - **Segment:** `unit:136374` · **unitId:** `136374`
@@ -4015,6 +3994,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 3.5
+- **Turnus:** nur im Sommersemester
+
+### 2b: Übungen zur Evolution der Vielzelligkeit, Anatomie der übergeordneten Tierstämme und -klassen
+
+- **Segment:** `unit:136364` · **unitId:** `136364`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136364&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 3.0
 - **Turnus:** nur im Sommersemester
 
 ### Allgemeine Biologie I: Biologie für Nebenfächler (Bio-NF) — Vorlesung
@@ -4073,6 +4061,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 1.5
 - **Turnus:** nur im Wintersemester
 
+### B1: Vorlesung Einführung in die Biologie mit Schwerpunkt Zoologie
+
+- **Segment:** `unit:82647` · **unitId:** `82647`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82647&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 6.0
+- **Turnus:** nur im Wintersemester
+
 ### B1: Übungen und Einführung in die Formenkenntnis und Systematik der Tiere (Zoologische Bestimmungsübungen)
 
 - **Segment:** `unit:84578` · **unitId:** `84578`
@@ -4089,6 +4086,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 3.0
+- **Turnus:** nur im Wintersemester
+
+### B3: Mikrobiologie - Biologie und Biotechnologie der Mikroorganismen (FN) — Vorlesung
+
+- **Segment:** `unit:83152` · **unitId:** `83152`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83152&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
 
 ### B3: Vorlesung Grundlagen der Genetik und ihre Anwendung in der Gentechnik und Diagnostik
@@ -4118,6 +4124,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.0
 - **Turnus:** nur im Wintersemester
 
+### B4: Übungen mit Seminar Humanbiologie und Physiologie (LAFN)
+
+- **Segment:** `unit:83018` · **unitId:** `83018`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83018&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 8.5
+- **Turnus:** nur im Wintersemester
+
 ### B6: Übungen zur Pflanzenphysiologie
 
 - **Segment:** `unit:82866` · **unitId:** `82866`
@@ -4143,6 +4158,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar und Übung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
+
+### Begleitveranstaltung für das studienbegleitende Praktikum (RS) — Seminar
+
+- **Segment:** `unit:93566` · **unitId:** `93566`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93566&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.0
+- **Turnus:** nur im Wintersemester
 
 ### Begleitveranstaltung studienbegleitendes fachdid. Praktikum
 
@@ -4174,10 +4198,26 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 ### Begleitveranstaltung Studienbegleitendes Praktikum an Realschulen "Praxis RS" (AE_PSPrak) — Vorlesung mit Übung
 
+- **Segment:** `unit:106001` · **unitId:** `106001`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106001&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+
+### Begleitveranstaltung Studienbegleitendes Praktikum an Realschulen "Praxis RS" (AE_PSPrak) — Vorlesung mit Übung
+
 - **Segment:** `unit:106000` · **unitId:** `106000`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106000&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
+
+### BIODID II Gymnasium, Realschule, Berufsschule: Erkenntnisse gewinnen und kommunizieren im Biologieunterricht (Übung + Seminar) — Übungsseminar
+
+- **Segment:** `unit:97512` · **unitId:** `97512`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97512&periodId=589>
+
+- **Veranstaltungsart:** Übungsseminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Sommersemester
 
 ### BIODID III Aufgabenkultur im und Gestaltung von Biologieunterricht — Übung
 
@@ -4201,6 +4241,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | — | — | — |
+
+### Biologie I: Vorlesung Grundlagen der Biochemie, Zytologie, Genetik und Entwicklungsbiologie
+
+- **Segment:** `unit:83673` · **unitId:** `83673`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83673&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 7.5
+- **Turnus:** nur im Wintersemester
 
 ### Biologie I: Übungen zur Zellbiologie
 
@@ -4274,12 +4323,47 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
+### Fachmodul Biochemie: Übungen mit Hauptseminar
+
+- **Segment:** `unit:82663` · **unitId:** `82663`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82663&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 10.0
+- **Turnus:** nur im Wintersemester
+
 ### Fachmodul Entwicklungsbiologie: Hauptseminar zu den Übungen (Teil 1)
 
 - **Segment:** `unit:88734` · **unitId:** `88734`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88734&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Turnus:** nur im Wintersemester
+
+### Fachmodul Entwicklungsbiologie: Vorlesung mit Seminar (Teil 2)
+
+- **Segment:** `unit:87538` · **unitId:** `87538`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87538&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
+
+### Fachmodul Entwicklungsbiologie: Übung (Teil 1)
+
+- **Segment:** `unit:84786` · **unitId:** `84786`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84786&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Turnus:** nur im Wintersemester
+
+### Fachmodul Genetik (WiSe): Übungen mit Hauptseminar (Teil 1)
+
+- **Segment:** `unit:88654` · **unitId:** `88654`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88654&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 10.0
 - **Turnus:** nur im Wintersemester
 
 ### Fachmodul Immunologie (Teil 2): Konzepte der Immunologie (Vorlesung mit Seminar) — Vorlesung mit Übung
@@ -4325,6 +4409,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 10.0
+- **Turnus:** nur im Wintersemester
+
+### Fachmodul Strukturbiologie: Vorlesung mit Seminar (Teil 2)
+
+- **Segment:** `unit:91939` · **unitId:** `91939`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91939&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
 ### Fachmodul Strukturbiologie: Übungen mit Hauptseminar (Teil 1)
@@ -4447,6 +4540,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Wintersemester
 
+### Organisch-chemisches Seminar für Biologen
+
+- **Segment:** `unit:86605` · **unitId:** `86605`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86605&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Turnus:** nur im Wintersemester
+
 ### Portfolio zu BIODID II: Konzeption und Gestaltung von Biologieunterricht
 
 - **Segment:** `unit:35774` · **unitId:** `35774`
@@ -4560,6 +4661,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
+### Vorlesung Moleküle, Grundlagen der Zellbiologie und Genetik
+
+- **Segment:** `unit:136233` · **unitId:** `136233`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136233&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 7.0
+- **Turnus:** nur im Wintersemester
+
 ### Vorlesung: Einführung in die Ökologie
 
 - **Segment:** `unit:23467` · **unitId:** `23467`
@@ -4603,4 +4713,26 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85325&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Turnus:** nur im Wintersemester
+
+### Übungen zur Pflanzenphysiologie
+
+- **Segment:** `unit:23471` · **unitId:** `23471`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23471&periodId=589>
+
+- **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### Übungen zur Vorlesung "Allgemeine und Anorganische Chemie" für Biol. und Mol.Med. [AC 54] — Tutorium
+
+- **Segment:** `unit:87055` · **unitId:** `87055`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87055&periodId=589>
+
+- **Veranstaltungsart:** Tutorium
 - **Turnus:** nur im Wintersemester

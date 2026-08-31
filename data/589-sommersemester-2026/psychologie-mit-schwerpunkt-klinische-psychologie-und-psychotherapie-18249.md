@@ -378,7 +378,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18249|exam:15176721|exam:15176722|exam:15176723|exam:15176794|exam:15856667>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82985&periodId=589>
 
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -399,8 +402,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 08:15–09:45 | 13.04.2026–13.07.2026 | 54301.02.313 ( 02.313 Seminarraum) |
-| wöchentlich | Mo | 08:15–09:45 | 13.04.2026–13.07.2026 | 54301.02.319 (02.319 Konferenzraum) |
+| wöchentlich | Di | 08:15–09:45 | 14.04.2026–14.07.2026 | 53101.02.206 (CCC 2.206 Übungsraum, Seminarraum) |
 
 ### Spezielle Krankheits- und Verfahrenslehre der Psychotherapie: Evidenzbasierte psychotherapeutische Verfahren bei Erwachsenen und älteren Personen - Seminar
 
@@ -715,6 +717,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18249|exam:15176721|exam:15176722|exam:15176723|exam:15176788|exam:15176790>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=80970&periodId=589>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine

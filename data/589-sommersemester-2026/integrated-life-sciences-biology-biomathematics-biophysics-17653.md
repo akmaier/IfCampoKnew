@@ -389,7 +389,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 |---|---|---|---|---|
 | nach Vereinbarung | — | — | — | — |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (39)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (46)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -408,6 +408,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 08801.01.020 ( Hörsaal ZMPT 01.020) |
+
+### Cell- and molecular biology
+
+- **Segment:** `unit:49990` · **unitId:** `49990`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49990&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | 10:00–11:00 | — | 13201.02.184 (SR BTE Seminarraum im BTE-Gebäude) |
 
 ### Complex Systems 1: Critical phenomena, networks, evolutionary dynamics, reaction systems — Vorlesung mit Übung
 
@@ -444,6 +458,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** jedes 4. Semester
 
+### Complex Systems 4: Information, neurophysics, machine learning — Vorlesung mit Übung
+
+- **Segment:** `unit:124584` · **unitId:** `124584`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124584&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+
+### Computational ImmunoBiology — Seminar und Übung
+
+- **Segment:** `unit:125834` · **unitId:** `125834`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125834&periodId=589>
+
+- **Veranstaltungsart:** Seminar und Übung
+- **ECTS-Punkte:** 7.5
+- **Turnus:** nur im Wintersemester
+
 ### Exercises for introduction to X-ray and neutron scattering — Übung
 
 - **Segment:** `unit:83507` · **unitId:** `83507`
@@ -477,6 +507,31 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
+### ILS-MA-B1: Systems Biology, Laboratory Course — Übung
+
+- **Segment:** `unit:87233` · **unitId:** `87233`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87233&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Turnus:** nur im Wintersemester
+
+### ILS-MA-B1: Systems Biology, Lecture — Vorlesung
+
+- **Segment:** `unit:84643` · **unitId:** `84643`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84643&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Wintersemester
+
+### ILS-MA-I1A BioImaging & Biophysics: Laboratory Course — Übung
+
+- **Segment:** `unit:82212` · **unitId:** `82212`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82212&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
+
 ### ILS-MA-I2A: Interactions at biological macromolecules — Vorlesung mit Übung
 
 - **Segment:** `unit:93696` · **unitId:** `93696`
@@ -493,19 +548,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:00–12:00 | 16.04.2026–28.05.2026 | 13501.00.020 (SR Staudtstr. 3 Lehrstuhl für Kristallographie) |
-| wöchentlich | Do | 13:00–15:00 | 16.04.2026–28.05.2026 | 13501.00.020 (SR Staudtstr. 3 Lehrstuhl für Kristallographie) |
-| wöchentlich | Do | 13:00–14:30 | 16.04.2026–16.07.2026 | 13001.U1.131 (CIP Biologie Raumnummer U1.131) |
-| wöchentlich | Do | 10:15–11:45 | 23.04.2026–16.07.2026 | 13001.U1.131 (CIP Biologie Raumnummer U1.131) |
-| wöchentlich | Do | 10:15–11:45 | 25.06.2026–16.07.2026 | 13001.01.212 (01.212 Seminarraum MPP) |
-| wöchentlich | Do | 13:00–14:30 | 25.06.2026–16.07.2026 | 13001.01.212 (01.212 Seminarraum MPP) |
 
 ### ILS-MA-I2B: Interactions at Biological Macromolecules (Tutorial) — Übung
 
@@ -529,6 +572,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99858&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Wintersemester
+
+### ILS-MA-I3: Metabolic Networks II, Practical Course — Übung
+
+- **Segment:** `unit:102507` · **unitId:** `102507`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102507&periodId=589>
+
+- **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
 
 ### Introduction to Soft Matter and Biological Physics — Vorlesung

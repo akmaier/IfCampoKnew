@@ -444,16 +444,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85726&periodId=589>
 
 - **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung | — | 09:00–17:00 | 27.07.2026–31.07.2026 | 13003.U1.860 (Kursraum N-I Nr. U1.860) |
-| Blockveranstaltung | — | 09:00–17:00 | 27.07.2026–31.07.2026 | 13003.U1.8600 (Kursraum N-II Nr. U1.860) |
-| Einzeltermin | Fr | 09:00–17:00 | 31.07.2026 | 13001.U1.131 (CIP Biologie Raumnummer U1.131) |
 
 ### Experimentalphysik für Naturwissenschaftler II - Vorlesung
 
@@ -2057,14 +2048,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung | — | 09:00–17:30 | 20.05.2026–21.05.2026 | — |
 
 ### DD-Med - Medicinal Chemistry - Vorlesung mit Übung
 
@@ -2465,14 +2449,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91441&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:15–16:00 | 20.04.2026–13.07.2026 | 11201.03.228 (P 3.88 Seminarraum der Physikalischen Chemie) |
 
 ### Nano-SS - Inorganic Nanoparticles & Supraparticles - Vorlesung
 
@@ -2580,20 +2557,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 10:00–12:00 | 19.06.2026 | — |
-| wöchentlich | Mo | 08:00–17:00 | 22.06.2026–13.07.2026 | — |
-| wöchentlich | Di | 13:00–17:30 | 23.06.2026–14.07.2026 | — |
-| wöchentlich | Mi | 13:30–17:30 | 24.06.2026–15.07.2026 | — |
-| wöchentlich | Do | 08:00–17:00 | 25.06.2026–16.07.2026 | — |
-| wöchentlich | Fr | 08:00–16:00 | 26.06.2026–17.07.2026 | — |
-| Blockveranstaltung | — | 08:00–17:00 | 20.07.2026–24.07.2026 | — |
 
 ### OC-LAB - Praktikum Organische Chemie - Praktikum
 
@@ -2603,20 +2567,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 10:00–12:00 | 19.06.2026 | — |
-| wöchentlich | Mo | 08:00–17:00 | 22.06.2026–13.07.2026 | — |
-| wöchentlich | Di | 13:00–17:30 | 23.06.2026–14.07.2026 | — |
-| wöchentlich | Mi | 13:30–17:30 | 24.06.2026–15.07.2026 | — |
-| wöchentlich | Do | 08:00–17:00 | 25.06.2026–16.07.2026 | — |
-| wöchentlich | Fr | 08:00–16:00 | 26.06.2026–17.07.2026 | — |
-| Blockveranstaltung | — | 08:00–17:00 | 20.07.2026–24.07.2026 | — |
 
 ### OC-LAB-Sem - Praktikum Organische Chemie - Seminar - Seminar
 
@@ -2720,14 +2671,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94756&periodId=589>
 
 - **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:00–14:00 | 28.04.2026–14.07.2026 | 13301.02.0241 (C3 - Chemikum) |
 
 ### OC3-UE - Organische Chemie 3 - Übungen - Übung
 
@@ -2736,14 +2680,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94756&periodId=589>
 
 - **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:00–14:00 | 28.04.2026–14.07.2026 | 13301.02.0241 (C3 - Chemikum) |
 
 ### OC3-VL - Organische Chemie 3 - Vorlesung
 
@@ -2887,15 +2824,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 21.04.2026–14.07.2026 | 13301.02.0241 (C3 - Chemikum) |
-| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 11906.01.030 (H21) |
 
 ### PC 3 - VL - Physikalische Chemie 3 - Vorlesung
 
@@ -2905,15 +2834,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 21.04.2026–14.07.2026 | 13301.02.0241 (C3 - Chemikum) |
-| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 11906.01.030 (H21) |
 
 ### PC-Nano-SEM - Physikalische Chemie für Nanowissenschaftler/innen - Seminar - Seminar
 
@@ -2940,7 +2861,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -2957,7 +2878,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -3107,15 +3028,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:15–11:45 | 14.04.2026–09.06.2026 | 11202.00.307 (H1 Egerlandstr.3 Anorganische Chemie) |
-| wöchentlich | Fr | 10:15–11:45 | 17.04.2026–12.06.2026 | 11202.00.307 (H1 Egerlandstr.3 Anorganische Chemie) |
 
 ### ThC 1 - V - Theoretische Chemie 1 - Vorlesung
 
@@ -3125,15 +3038,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:15–11:45 | 14.04.2026–09.06.2026 | 11202.00.307 (H1 Egerlandstr.3 Anorganische Chemie) |
-| wöchentlich | Fr | 10:15–11:45 | 17.04.2026–12.06.2026 | 11202.00.307 (H1 Egerlandstr.3 Anorganische Chemie) |
 
 ### ThC 1- Ü - Theoretische Chemie 1 - Übung - Übung
 
@@ -3316,7 +3221,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 13301.U1.0171 (C1 - Chemikum) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (49)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (64)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -3337,6 +3242,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **Turnus:** nur im Wintersemester
 
+### Advanced Electrochemistry — Vorlesung mit Übung
+
+- **Segment:** `unit:91579` · **unitId:** `91579`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91579&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **Turnus:** nur im Wintersemester
+
 ### Advanced Spectroscopy in Organic Chemistry — Vorlesung mit Übung
 
 - **Segment:** `unit:84801` · **unitId:** `84801`
@@ -3345,6 +3258,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
+
+### Allgemeine Genetik für  MoWi — Vorlesung
+
+- **Segment:** `unit:82971` · **unitId:** `82971`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82971&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** in jedem Semester
 
 ### Allgemeine Mikrobiologie für Naturwissenschaftler und Techniker — Vorlesung
 
@@ -3367,6 +3288,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:93257` · **unitId:** `93257`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93257&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
+
+### Anorganische Chemie 4 - Molecular Life Science — Vorlesung mit Übung
+
+- **Segment:** `unit:102845` · **unitId:** `102845`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102845&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
@@ -3507,6 +3437,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
 
+### HZB Photon School - Practical training at synchrotron facility — Praktikum
+
+- **Segment:** `unit:115693` · **unitId:** `115693`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115693&periodId=589>
+
+- **Veranstaltungsart:** Praktikum
+- **ECTS-Punkte:** 2.5
+- **Turnus:** nur im Wintersemester
+
 ### Integrierter Kurs -Instrumentelle Analytik — Vorlesung
 
 - **Segment:** `unit:87500` · **unitId:** `87500`
@@ -3609,10 +3548,26 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Wintersemester
 
+### Metallorganische Chemie der Haupt- und Nebengruppenelemente-Sem — Seminar
+
+- **Segment:** `unit:91666` · **unitId:** `91666`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91666&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Turnus:** nur im Sommersemester
+
 ### Mikrobiologische Übungen für Naturwissenschaftler
 
 - **Segment:** `unit:84759` · **unitId:** `84759`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84759&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Turnus:** nur im Wintersemester
+
+### MM MAESTRO - UE — Übung
+
+- **Segment:** `unit:92773` · **unitId:** `92773`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92773&periodId=589>
 
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
@@ -3633,6 +3588,31 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
+
+### Molecular Modelling — Vorlesung
+
+- **Segment:** `unit:86313` · **unitId:** `86313`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86313&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
+
+### Molecular Nano Science (winter semester) — Seminar
+
+- **Segment:** `unit:106099` · **unitId:** `106099`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106099&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Turnus:** nur im Wintersemester
+
+### Molekülchemisches Praktikum AC
+
+- **Segment:** `unit:94669` · **unitId:** `94669`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94669&periodId=589>
+
+- **Veranstaltungsart:** Praktikum
+- **Turnus:** in jedem Semester
 
 ### Nanoprobes — Seminar
 
@@ -3665,6 +3645,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
+### Organic Thin Films — Vorlesung mit Übung
+
+- **Segment:** `unit:85658` · **unitId:** `85658`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85658&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
+
 ### Organische Chemie 2 -Sem — Seminar
 
 - **Segment:** `unit:85385` · **unitId:** `85385`
@@ -3682,12 +3671,45 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
+### PC-Praktikum Mikroskopische Verfahren
+
+- **Segment:** `unit:87712` · **unitId:** `87712`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87712&periodId=589>
+
+- **Veranstaltungsart:** Praktikum
+- **Turnus:** in jedem Semester
+
 ### Pharmazeutische Biologie (Molecular Science) — Vorlesung
 
 - **Segment:** `unit:88268` · **unitId:** `88268`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88268&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Wintersemester
+
+### Physikalische Chemie 2 — Vorlesung
+
+- **Segment:** `unit:92838` · **unitId:** `92838`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92838&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
+
+### Physikalische Chemie 2 - Übung
+
+- **Segment:** `unit:88050` · **unitId:** `88050`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88050&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Turnus:** nur im Wintersemester
+
+### Praktikum Medizinische Chemie (Bachelor-Arbeiten)
+
+- **Segment:** `unit:82592` · **unitId:** `82592`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82592&periodId=589>
+
+- **Veranstaltungsart:** Praktikum
 - **Turnus:** nur im Wintersemester
 
 ### Quantum Chemistry 1 — Vorlesung mit Übung
@@ -3751,6 +3773,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
+
+### Sensory Sciences Lab — Projektseminar
+
+- **Segment:** `unit:116324` · **unitId:** `116324`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116324&periodId=589>
+
+- **Veranstaltungsart:** Projektseminar
+- **ECTS-Punkte:** 4.0
+- **Turnus:** nur im Wintersemester
 
 ### Sensory Sciences Lab (for MSc Chemitry or MSc Molecular Science) — Projektseminar
 

@@ -406,9 +406,17 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (14)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (19)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
+
+### Allgemeines Verwaltungsrecht — Vorlesung
+
+- **Segment:** `unit:102193` · **unitId:** `102193`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102193&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Wintersemester
 
 ### Bayer. Sicherheits- und Polizeirecht — Vorlesung mit Übung
 
@@ -416,6 +424,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107591&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
+
+### Einführung in die Rechtswissenschaft für Studierende der Politikwissenschaft im BA-Studiengang "Öffentliches Recht als Zweitfach" — Vorlesung
+
+- **Segment:** `unit:87699` · **unitId:** `87699`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87699&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
 
 ### Europarecht I: Recht der Europäischen Union und Staatsrecht III — Vorlesung
 
@@ -438,6 +455,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Sa | Sa | 13:00–19:00 | — | 05801.U1.060 ( Audimax Auditorium Maximum) |
+
+### Grundkurs Öffentliches Recht II (Grundrechte) — Vorlesung
+
+- **Segment:** `unit:95292` · **unitId:** `95292`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95292&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Sommersemester
 
 ### Klausur zum Nachweis Gesicherter Lateinkenntnisse
 
@@ -516,6 +541,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Turnus:** Unregelmäßig
 
+### Propädeutische Übung - Allgemeines Verwaltungsrecht
+
+- **Segment:** `unit:130974` · **unitId:** `130974`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130974&periodId=589>
+
+- **Veranstaltungsart:** Übung
+
 ### Propädeutische Übung zum Staatsorganisationsrecht
 
 - **Segment:** `unit:88669` · **unitId:** `88669`
@@ -528,6 +560,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:97227` · **unitId:** `97227`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97227&periodId=589>
+
+- **Veranstaltungsart:** Propädeutische Übung
+- **Turnus:** nur im Wintersemester
+
+### PÜ Allgemeines Verwaltungsrecht — Propädeutische Übung
+
+- **Segment:** `unit:97899` · **unitId:** `97899`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97899&periodId=589>
 
 - **Veranstaltungsart:** Propädeutische Übung
 - **Turnus:** nur im Wintersemester

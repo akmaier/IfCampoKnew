@@ -24,7 +24,6 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 - **Veranstaltungsart:** Seminar und Übung
 - **ECTS-Punkte:** 7.5
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
 ### Pflanzenbestimmungen/Arzneipflanzenexkursionen - Praktikum
@@ -509,14 +508,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95350&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:00–12:00 | 13.04.2026–22.06.2026 | 13301.01.0331 (C2 - Chemikum) |
 
 ### SYSPB - Allgemeine Biologie für Pharmazeuten sowie systematische Einteilung und Physiologie der pathogenen und arzneistoffproduzierenden Organismen Teil III - Vorlesung
 
@@ -525,14 +517,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95350&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:00–12:00 | 13.04.2026–22.06.2026 | 13301.01.0331 (C2 - Chemikum) |
 
 ### SYSPB - Allgemeine Biologie für Pharmazeuten sowie systematische Einteilung und Physiologie der pathogenen und arzneistoffproduzierenden Organismen Teil III - Vorlesung
 
@@ -541,14 +526,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95350&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:00–12:00 | 13.04.2026–22.06.2026 | 13301.01.0331 (C2 - Chemikum) |
 
 ### VL St - Vorlesung Methodologie und Statistik (Vorlesung Qualitative und quantitative Methoden) (PO2022) - Vorlesung
 
@@ -576,14 +554,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94389&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 13:15–14:45 | 29.04.2026–15.07.2026 | 13301.01.0241 (C4 - Chemikum) |
 
 ### VLEA - Allgemeine Ernährungslehre - Vorlesung
 
@@ -592,14 +563,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94389&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 13:15–14:45 | 29.04.2026–15.07.2026 | 13301.01.0241 (C4 - Chemikum) |
 
 ### VLEA - Allgemeine Ernährungslehre - Vorlesung
 
@@ -608,14 +572,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94389&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 13:15–14:45 | 29.04.2026–15.07.2026 | 13301.01.0241 (C4 - Chemikum) |
 
 ### VLEA - Allgemeine Ernährungslehre - Vorlesung
 
@@ -624,14 +581,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94389&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 13:15–14:45 | 29.04.2026–15.07.2026 | 13301.01.0241 (C4 - Chemikum) |
 
 ### VLEC - Ernährungslehre:  Chemosensorik - Vorlesung
 

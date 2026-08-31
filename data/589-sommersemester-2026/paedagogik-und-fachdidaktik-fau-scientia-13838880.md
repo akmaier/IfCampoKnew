@@ -39,18 +39,7 @@ _Section: FAU Scientia Gaststudium_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88682&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 10:15–18:00 | 08.04.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
-| Einzeltermin | Mo | 08:00–12:00 | 01.06.2026 | — |
-| Einzeltermin | Fr | 09:00–18:00 | 19.06.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
-| Einzeltermin | Fr | 08:30–10:00 | 03.07.2026 | 20301.01.029 (1.029 Seminarraum (40)) |
-| Einzeltermin | Do | 11:30–13:00 | 23.07.2026 | 20301.01.029 (1.029 Seminarraum (40)) |
 
 ### Aufbaumodul Fachdidaktik Deutsch-Übung (nur GS) (Albrecht) - Übung
 

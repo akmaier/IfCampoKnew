@@ -5,7 +5,7 @@ campo_segment: "title:18283"
 campo_path: "title:17593|title:17595|title:18283"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283"
 po_version_count: 0
-course_count: 212
+course_count: 183
 fau_studiengang:
   - title: "Wirtschaftswissenschaften (B.A.)"
     rel_path: "studiengang/wirtschaftswissenschaften-b-a.md"
@@ -219,7 +219,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Veranstaltungen (212)
+## Veranstaltungen (183)
 
 ### "Medienseminar II: Money Matters! - Finanzielle Bildung für Studium und Schule - Ein Seminar mit doppeltem Mehrwert" - Seminar
 
@@ -245,26 +245,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:15691450` · **unitId:** `134015`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15304778|exam:15304779|exam:15304780|exam:15304880|exam:15304884|exam:15691450>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134015&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 09:30–16:15 | 08.05.2026 | 05901.05.054 ( 05.054) |
-| Einzeltermin | Sa | 09:30–14:45 | 09.05.2026 | 05902.00.006 ( 00.6 PSG) |
-| Einzeltermin | Fr | 09:30–16:15 | 15.05.2026 | 05901.05.054 ( 05.054) |
-| Einzeltermin | Sa | 09:30–14:45 | 16.05.2026 | 05902.00.006 ( 00.6 PSG) |
-
-### "Medienseminar II: Money Matters! - Finanzielle Bildung für Studium und Schule - Ein Seminar mit doppeltem Mehrwert" - Seminar
-
-- **Segment:** `exam:15691481` · **unitId:** `134015`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306412|exam:15306413|exam:15306414|exam:15306463|exam:15306464|exam:15691481>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134015&periodId=589>
 
 - **Veranstaltungsart:** Seminar
@@ -357,23 +337,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### Abschlussarbeiten-Seminar Betriebswirtschaftslehre - Seminar
 
-- **Segment:** `exam:15306428` · **unitId:** `89184`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306412|exam:15306413|exam:15306414|exam:15306416|exam:15306426|exam:15306428>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89184&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Do | 09:00–15:00 | 16.04.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Do | 09:00–15:00 | 23.04.2026 | 05901.01.055 ( 01.055) |
-
-### Abschlussarbeiten-Seminar Betriebswirtschaftslehre - Seminar
-
 - **Segment:** `exam:15306511` · **unitId:** `89184`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306477|exam:15306478|exam:15306479|exam:15306481|exam:15306509|exam:15306511>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89184&periodId=589>
@@ -444,22 +407,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### Examenskurs für Betriebl. Rechnungswesen für Realschule - Übung
 
-- **Segment:** `exam:15306446` · **unitId:** `90403`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306412|exam:15306413|exam:15306414|exam:15306416|exam:15306443|exam:15306446>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90403&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 05902.00.006 ( 00.6 PSG) |
-
-### Examenskurs für Betriebl. Rechnungswesen für Realschule - Übung
-
 - **Segment:** `exam:15306525` · **unitId:** `90403`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306477|exam:15306478|exam:15306479|exam:15306481|exam:15306522|exam:15306525>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90403&periodId=589>
@@ -517,29 +464,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:15810945` · **unitId:** `135613`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15304778|exam:15304779|exam:15304780|exam:15304782|exam:15304814|exam:15810945>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135613&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 09:30–17:00 | 24.04.2026 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
-| Einzeltermin | Mo | 16:00–19:00 | 27.04.2026 | — |
-| Einzeltermin | Mo | 16:00–19:00 | 04.05.2026 | — |
-| Einzeltermin | Do | 09:30–16:00 | 07.05.2026 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
-| Einzeltermin | Mo | 16:00–19:00 | 11.05.2026 | — |
-| Einzeltermin | Mo | 16:00–19:00 | 01.06.2026 | — |
-| Einzeltermin | Di | 16:30–18:00 | 02.06.2026 | — |
-| Einzeltermin | Mi | 16:00–19:00 | 17.06.2026 | — |
-
-### Examenskurs Lehramt VWL - Übung
-
-- **Segment:** `exam:15810960` · **unitId:** `135613`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306412|exam:15306413|exam:15306414|exam:15306416|exam:15306422|exam:15810960>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135613&periodId=589>
 
 - **Veranstaltungsart:** Übung
@@ -624,6 +548,17 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) - Vorlesung
 
+- **Segment:** `exam:15303234` · **unitId:** `90134`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15303143|exam:15303144|exam:15303145|exam:15303147|exam:15303232|exam:15303234>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90134&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+### Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) - Vorlesung
+
 - **Segment:** `exam:15304867` · **unitId:** `82435`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15304778|exam:15304779|exam:15304780|exam:15304782|exam:15304866|exam:15304867>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82435&periodId=589>
@@ -638,6 +573,17 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mi | 12:00–14:00 | 15.04.2026–15.07.2026 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
 | wöchentlich | Do | 16:00–18:00 | 16.04.2026–16.07.2026 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
+
+### Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) - Vorlesung
+
+- **Segment:** `exam:15304868` · **unitId:** `90134`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15304778|exam:15304779|exam:15304780|exam:15304782|exam:15304866|exam:15304868>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90134&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 ### Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) - Vorlesung
 
@@ -658,6 +604,17 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) - Vorlesung
 
+- **Segment:** `exam:15306540` · **unitId:** `90134`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306477|exam:15306478|exam:15306479|exam:15306481|exam:15306538|exam:15306540>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90134&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+### Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) - Vorlesung
+
 - **Segment:** `exam:15306628` · **unitId:** `82435`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306564|exam:15306565|exam:15306566|exam:15306568|exam:15306627|exam:15306628>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82435&periodId=589>
@@ -672,6 +629,17 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mi | 12:00–14:00 | 15.04.2026–15.07.2026 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
 | wöchentlich | Do | 16:00–18:00 | 16.04.2026–16.07.2026 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
+
+### Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) - Vorlesung
+
+- **Segment:** `exam:15306629` · **unitId:** `90134`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306564|exam:15306565|exam:15306566|exam:15306568|exam:15306627|exam:15306629>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90134&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 ### Konzern- und Umwandlungsrecht - Vorlesung
 
@@ -807,23 +775,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### Medien im Wirtschaftsunterricht (für Realschulen und Gymnasien) - Seminar
 
-- **Segment:** `exam:15306465` · **unitId:** `86078`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306412|exam:15306413|exam:15306414|exam:15306463|exam:15306464|exam:15306465>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86078&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–15:30 | 14.04.2026–14.07.2026 | 05902.00.005 ( 00.5 PSG) |
-
-### Medien im Wirtschaftsunterricht (für Realschulen und Gymnasien) - Seminar
-
 - **Segment:** `exam:15306554` · **unitId:** `86078`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306477|exam:15306478|exam:15306479|exam:15306552|exam:15306553|exam:15306554>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86078&periodId=589>
@@ -892,23 +843,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### Planung, Durchführung und Reflexion ökonomischen Fachunterrichts (für RS und Gym.) - Seminar
 
-- **Segment:** `exam:15306466` · **unitId:** `84070`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306412|exam:15306413|exam:15306414|exam:15306463|exam:15306464|exam:15306466>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84070&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 15:30–17:00 | 15.04.2026–15.07.2026 | 05901.05.054 ( 05.054) |
-
-### Planung, Durchführung und Reflexion ökonomischen Fachunterrichts (für RS und Gym.) - Seminar
-
 - **Segment:** `exam:15306555` · **unitId:** `84070`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306477|exam:15306478|exam:15306479|exam:15306552|exam:15306553|exam:15306555>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84070&periodId=589>
@@ -940,50 +874,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 15:30–17:00 | 15.04.2026–15.07.2026 | 05901.05.054 ( 05.054) |
-
-### VL Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) - Vorlesung
-
-- **Segment:** `exam:15303234` · **unitId:** `90134`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15303143|exam:15303144|exam:15303145|exam:15303147|exam:15303232|exam:15303234>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90134&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-### VL Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) - Vorlesung
-
-- **Segment:** `exam:15304868` · **unitId:** `90134`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15304778|exam:15304779|exam:15304780|exam:15304782|exam:15304866|exam:15304868>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90134&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-### VL Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) - Vorlesung
-
-- **Segment:** `exam:15306540` · **unitId:** `90134`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306477|exam:15306478|exam:15306479|exam:15306481|exam:15306538|exam:15306540>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90134&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-### VL Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) - Vorlesung
-
-- **Segment:** `exam:15306629` · **unitId:** `90134`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306564|exam:15306565|exam:15306566|exam:15306568|exam:15306627|exam:15306629>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90134&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
 
 ### VWL-Seminar:  - Proseminar
 
@@ -1117,79 +1007,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:15304845` · **unitId:** `86679`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15304778|exam:15304779|exam:15304780|exam:15304782|exam:15304840|exam:15304845>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86679&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 12:00–17:00 | 10.07.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Sa | 09:00–15:00 | 11.07.2026 | 05901.01.055 ( 01.055) |
-
-### VWL-Seminar:  - Proseminar
-
-- **Segment:** `exam:15306450` · **unitId:** `98862`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306412|exam:15306413|exam:15306414|exam:15306416|exam:15306448|exam:15306450>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98862&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 12:00–14:00 | 22.05.2026 | 05902.00.005 ( 00.5 PSG) |
-| Einzeltermin | Fr | 12:00–16:00 | 03.07.2026 | 05901.05.054 ( 05.054) |
-| Einzeltermin | Sa | 10:00–14:00 | 04.07.2026 | 05902.00.015 ( 00.15 PSG) |
-
-### VWL-Seminar:  - Proseminar
-
-- **Segment:** `exam:15306451` · **unitId:** `86152`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306412|exam:15306413|exam:15306414|exam:15306416|exam:15306448|exam:15306451>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86152&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 12:00–17:00 | 26.06.2026 | 05902.00.015 ( 00.15 PSG) |
-| Einzeltermin | Sa | 09:00–15:00 | 27.06.2026 | 05902.00.015 ( 00.15 PSG) |
-
-### VWL-Seminar:  - Proseminar
-
-- **Segment:** `exam:15306452` · **unitId:** `103356`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306412|exam:15306413|exam:15306414|exam:15306416|exam:15306448|exam:15306452>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103356&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Do | 13:00–17:00 | 07.05.2026 | 05902.00.005 ( 00.5 PSG) |
-| Einzeltermin | Do | 09:30–18:00 | 18.06.2026 | 05902.00.005 ( 00.5 PSG) |
-
-### VWL-Seminar:  - Proseminar
-
-- **Segment:** `exam:15306453` · **unitId:** `86679`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306412|exam:15306413|exam:15306414|exam:15306416|exam:15306448|exam:15306453>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86679&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
@@ -1426,22 +1243,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### Übungen zur Vorlesung "Betriebliches Rechnungswesen II" - Übung
 
-- **Segment:** `exam:15306445` · **unitId:** `93071`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306412|exam:15306413|exam:15306414|exam:15306416|exam:15306443|exam:15306445>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93071&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 11:15–12:00 | 22.04.2026–15.07.2026 | 05901.05.054 ( 05.054) |
-
-### Übungen zur Vorlesung "Betriebliches Rechnungswesen II" - Übung
-
 - **Segment:** `exam:15306524` · **unitId:** `93071`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306477|exam:15306478|exam:15306479|exam:15306481|exam:15306522|exam:15306524>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93071&periodId=589>
@@ -1472,39 +1273,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mi | 11:15–12:00 | 22.04.2026–15.07.2026 | 05901.05.054 ( 05.054) |
 
-### Übungen zur Vorlesung "Sozialpolitik" - Übung
-
-- **Segment:** `exam:15306441` · **unitId:** `99482`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306412|exam:15306413|exam:15306414|exam:15306416|exam:15306439|exam:15306441>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99482&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 0.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:00–14:45 | 20.04.2026–13.07.2026 | 05901.01.055 ( 01.055) |
-
-### Übungen zur Vorlesung "Wirtschaftspolitik" - Übung
-
-- **Segment:** `exam:15306461` · **unitId:** `97497`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306412|exam:15306413|exam:15306414|exam:15306416|exam:15306459|exam:15306461>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97497&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 11:00–11:45 | 23.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
-
 ### Übungen zur Vorlesung Makroökonomie Erlangen - Übung
 
 - **Segment:** `exam:15303198` · **unitId:** `111927`
@@ -1524,21 +1292,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:15304865` · **unitId:** `111927`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15304778|exam:15304779|exam:15304780|exam:15304782|exam:15304861|exam:15304865>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111927&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:15–11:45 | 23.04.2026–09.07.2026 | 05901.05.054 ( 05.[Telefon entfernt].01.055 ( 01.[Telefon entfernt].01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
-
-### Übungen zur Vorlesung Makroökonomie Erlangen - Übung
-
-- **Segment:** `exam:15306434` · **unitId:** `111927`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306412|exam:15306413|exam:15306414|exam:15306416|exam:15306432|exam:15306434>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111927&periodId=589>
 
 - **Veranstaltungsart:** Übung
@@ -1858,21 +1611,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 48301 Betriebswirtschaftslehre II - Leistung
 
-- **Segment:** `exam:15306431` · **unitId:** `21150`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306412|exam:15306413|exam:15306414|exam:15306416|exam:15306426|exam:15306431>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=21150&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | 16:15–17:45 | 07.06.2026 23:59:59 | 05801.U1.060 ( Audimax Auditorium Maximum) |
-
-### 48301 Betriebswirtschaftslehre II - Leistung
-
 - **Segment:** `exam:15306514` · **unitId:** `21150`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306477|exam:15306478|exam:15306479|exam:15306481|exam:15306509|exam:15306514>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=21150&periodId=589>
@@ -1918,21 +1656,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 48501 Makroökonomie - Leistung
 
-- **Segment:** `exam:15306433` · **unitId:** `21158`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306412|exam:15306413|exam:15306414|exam:15306416|exam:15306432|exam:15306433>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=21158&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | 14:00–15:30 | — | 05801.U1.060 ( Audimax Auditorium Maximum) |
-
-### 48501 Makroökonomie - Leistung
-
 - **Segment:** `exam:15306516` · **unitId:** `21158`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306477|exam:15306478|exam:15306479|exam:15306481|exam:15306515|exam:15306516>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=21158&periodId=589>
@@ -1945,21 +1668,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Do | Do | 14:00–15:30 | — | 05801.U1.060 ( Audimax Auditorium Maximum) |
-
-### 48701 Sozialpolitik - Leistung
-
-- **Segment:** `exam:15306442` · **unitId:** `21743`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306412|exam:15306413|exam:15306414|exam:15306416|exam:15306439|exam:15306442>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=21743&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | 11:30–12:30 | 07.06.2026 23:59:59 | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
 ### 48801 Betriebliches Rechnungswesen II - Leistung
 
@@ -1980,21 +1688,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:15304835` · **unitId:** `21152`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15304778|exam:15304779|exam:15304780|exam:15304782|exam:15304832|exam:15304835>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=21152&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | 14:30–15:30 | 07.06.2026 23:59:59 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
-
-### 48801 Betriebliches Rechnungswesen II - Leistung
-
-- **Segment:** `exam:15306447` · **unitId:** `21152`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306412|exam:15306413|exam:15306414|exam:15306416|exam:15306443|exam:15306447>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=21152&periodId=589>
 
 - **ECTS-Punkte:** 5.0
@@ -2098,21 +1791,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 49021 Volkswirtschaftlichen Seminar - Leistung
 
-- **Segment:** `exam:15306454` · **unitId:** `53639`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306412|exam:15306413|exam:15306414|exam:15306416|exam:15306448|exam:15306454>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53639&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 49021 Volkswirtschaftlichen Seminar - Leistung
-
 - **Segment:** `exam:15306533` · **unitId:** `53639`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306477|exam:15306478|exam:15306479|exam:15306481|exam:15306527|exam:15306533>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53639&periodId=589>
@@ -2140,21 +1818,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### 49401 Wirtschaftspolitik - Leistung
-
-- **Segment:** `exam:15306462` · **unitId:** `21162`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306412|exam:15306413|exam:15306414|exam:15306416|exam:15306459|exam:15306462>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=21162&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | 12:30–13:30 | 07.06.2026 23:59:59 | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
 ### 49911 Vortrag und Hausarbeit Hauptseminar Volkswirtschaftslehre - Leistung
 
@@ -2320,12 +1983,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 74810 Betriebswirtschaftslehre I
 
-- **Segment:** `exam:15306418` · **unitId:** `67432`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306412|exam:15306413|exam:15306414|exam:15306416|exam:15306418>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=67432&periodId=589>
-
-### 74810 Betriebswirtschaftslehre I
-
 - **Segment:** `exam:15306501` · **unitId:** `67432`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306477|exam:15306478|exam:15306479|exam:15306481|exam:15306501>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=67432&periodId=589>
@@ -2371,12 +2028,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:15304828` · **unitId:** `68308`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15304778|exam:15304779|exam:15304780|exam:15304782|exam:15304828>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68308&periodId=589>
-
-### 74860 Betriebliches Rechnungswesen I
-
-- **Segment:** `exam:15306435` · **unitId:** `61791`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306412|exam:15306413|exam:15306414|exam:15306416|exam:15306435>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=61791&periodId=589>
 
 ### 74860 Betriebliches Rechnungswesen I
 
@@ -2428,12 +2079,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 74920 Betriebswirtschaftslehre III (Bilanzierung)
 
-- **Segment:** `exam:15306455` · **unitId:** `63693`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306412|exam:15306413|exam:15306414|exam:15306416|exam:15306455>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=63693&periodId=589>
-
-### 74920 Betriebswirtschaftslehre III (Bilanzierung)
-
 - **Segment:** `exam:15306534` · **unitId:** `63693`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306477|exam:15306478|exam:15306479|exam:15306481|exam:15306534>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=63693&periodId=589>
@@ -2479,12 +2124,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:15304881` · **unitId:** `23249`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15304778|exam:15304779|exam:15304780|exam:15304880|exam:15304881>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23249&periodId=589>
-
-### 75050 Grundlagen der Fachdidaktik Wirtschaftswissenschaften (RS)
-
-- **Segment:** `exam:15306470` · **unitId:** `23354`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306412|exam:15306413|exam:15306414|exam:15306463|exam:15306470>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23354&periodId=589>
 
 ### 75051 Grundlagen der Fachdidaktik Wirtschaftswissenschaften (RS)
 
@@ -2588,23 +2227,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### BRW II - Betriebliches Rechnungswesen II - Vorlesung
 
-- **Segment:** `exam:15306444` · **unitId:** `102969`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306412|exam:15306413|exam:15306414|exam:15306416|exam:15306443|exam:15306444>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102969&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:15–15:45 | 16.04.2026–09.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
-
-### BRW II - Betriebliches Rechnungswesen II - Vorlesung
-
 - **Segment:** `exam:15306523` · **unitId:** `102969`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306477|exam:15306478|exam:15306479|exam:15306481|exam:15306522|exam:15306523>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102969&periodId=589>
@@ -2658,23 +2280,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:15304822` · **unitId:** `112347`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15304778|exam:15304779|exam:15304780|exam:15304782|exam:15304818|exam:15304822>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112347&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 12:15–13:45 | 20.04.2026–13.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
-| wöchentlich | Mi | 16:15–17:45 | 22.04.2026–08.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
-
-### BWL  - Betriebswirtschaftslehre II - Vorlesung
-
-- **Segment:** `exam:15306430` · **unitId:** `112347`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306412|exam:15306413|exam:15306414|exam:15306416|exam:15306426|exam:15306430>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112347&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
@@ -3060,23 +2665,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Do | 17:15–19:30 | 16.04.2026–09.07.2026 | 05901.05.054 ( 05.054) |
 
-### Soz.Pol. - Sozialpolitik - Vorlesung
-
-- **Segment:** `exam:15306440` · **unitId:** `94958`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306412|exam:15306413|exam:15306414|exam:15306416|exam:15306439|exam:15306440>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94958&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:30–14:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-
 ### Stat. Vorl. - Statistik für Wirtschaftswissenschaftler - Vorlesung
 
 - **Segment:** `exam:15303208` · **unitId:** `84683`
@@ -3245,23 +2833,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 05902.00.006 ( 00.6 PSG) |
 
-### Wirtsch.Pol. - Wirtschaftspolitik - Vorlesung
-
-- **Segment:** `exam:15306460` · **unitId:** `87294`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306412|exam:15306413|exam:15306414|exam:15306416|exam:15306459|exam:15306460>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87294&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 12:15–13:45 | 17.04.2026–17.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-
 ### Übungen BWL II - Übungen zur Vorlesung Betriebswirtschaftslehre II - Übung
 
 - **Segment:** `exam:15303187` · **unitId:** `91925`
@@ -3282,22 +2853,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:15304819` · **unitId:** `91925`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15304778|exam:15304779|exam:15304780|exam:15304782|exam:15304818|exam:15304819>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91925&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:00–14:45 | 27.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
-
-### Übungen BWL II - Übungen zur Vorlesung Betriebswirtschaftslehre II - Übung
-
-- **Segment:** `exam:15306427` · **unitId:** `91925`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18283|exam:15306412|exam:15306413|exam:15306414|exam:15306416|exam:15306426|exam:15306427>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91925&periodId=589>
 
 - **Veranstaltungsart:** Übung
@@ -3342,9 +2897,27 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:00–14:45 | 27.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (17)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (29)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
+
+### Betriebliches Rechnungswesen I — Vorlesung
+
+- **Segment:** `unit:89642` · **unitId:** `89642`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89642&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
+
+### Betriebswirtschaftslehre I — Vorlesung
+
+- **Segment:** `unit:92317` · **unitId:** `92317`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92317&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
 
 ### Betriebswirtschaftslehre III (Bilanzierung) — Vorlesung
 
@@ -3368,6 +2941,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Di | Di | 11:00–12:00 | — | 21101.01.113 (LG H2 Hörsaal (155 Plätze)) |
+
+### Data Science: Machine Learning & Data Driven Business — Vorlesung mit Übung
+
+- **Segment:** `unit:89178` · **unitId:** `89178`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89178&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
 
 ### Data Science: Machine Learning und Data Driven Business (Klausur)
 
@@ -3421,6 +3003,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119008&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+
+### IT und E-Business — Vorlesung
+
+- **Segment:** `unit:86655` · **unitId:** `86655`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86655&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
 
 ### Klausur zum Nachweis Gesicherter Lateinkenntnisse
 
@@ -3490,6 +3081,36 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Do | Do | 14:00–16:00 | 07.06.2026 23:59:59 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
 
+### Sozialpolitik
+
+- **Segment:** `unit:21743` · **unitId:** `21743`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=21743&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | 11:30–12:30 | 07.06.2026 23:59:59 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+
+### Sozialpolitik — Vorlesung
+
+- **Segment:** `unit:94958` · **unitId:** `94958`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94958&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:30–14:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
+
 ### T: Business and Information Systems Engineering — Tutorium
 
 - **Segment:** `unit:84880` · **unitId:** `84880`
@@ -3516,10 +3137,49 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** in jedem Semester
 
+### Wirtschaftspolitik
+
+- **Segment:** `unit:21162` · **unitId:** `21162`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=21162&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | Fr | 12:30–13:30 | 07.06.2026 23:59:59 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+
+### Wirtschaftspolitik — Vorlesung
+
+- **Segment:** `unit:87294` · **unitId:** `87294`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87294&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Sommersemester
+
 ### Übungen zur Vorlesung "Betriebliches Rechnungswesen I"
 
 - **Segment:** `unit:98918` · **unitId:** `98918`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98918&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Turnus:** nur im Wintersemester
+
+### Übungen zur Vorlesung "Betriebswirtschaftslehre I"
+
+- **Segment:** `unit:87125` · **unitId:** `87125`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87125&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Turnus:** nur im Wintersemester
+
+### Übungen zur Vorlesung "Betriebswirtschaftslehre III (Bilanzierung)"
+
+- **Segment:** `unit:84995` · **unitId:** `84995`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84995&periodId=589>
 
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
@@ -3531,3 +3191,34 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
+
+### Übungen zur Vorlesung "Sozialpolitik"
+
+- **Segment:** `unit:99482` · **unitId:** `99482`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99482&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:00–14:45 | 20.04.2026–13.07.2026 | 05901.01.055 ( 01.055) |
+
+### Übungen zur Vorlesung "Wirtschaftspolitik"
+
+- **Segment:** `unit:97497` · **unitId:** `97497`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97497&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 11:00–11:45 | 23.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |

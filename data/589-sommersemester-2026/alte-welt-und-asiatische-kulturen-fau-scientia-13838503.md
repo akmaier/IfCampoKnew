@@ -278,14 +278,7 @@ _Section: FAU Scientia Gaststudium_
 
 - **Veranstaltungsart:** Mittelseminar
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 12:00–13:30 | 23.04.2026–16.07.2026 | 05901.04.012 |
 
 ### Einführung in das Germanische - Vorlesung
 

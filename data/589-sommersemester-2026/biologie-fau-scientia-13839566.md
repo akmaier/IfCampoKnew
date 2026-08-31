@@ -280,15 +280,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97441&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:15–11:45 | 13.04.2026–08.06.2026 | 04801.00.024 (SR 0.024, Glückstr. 6) |
-| wöchentlich | Fr | 10:15–11:45 | 17.04.2026–12.06.2026 | 04801.00.024 (SR 0.024, Glückstr. 6) |
 
 ### iI-TLI Lecture - Translational Immunology - Lecture - Vorlesung
 

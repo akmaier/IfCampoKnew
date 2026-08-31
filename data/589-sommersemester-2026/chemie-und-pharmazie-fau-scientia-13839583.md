@@ -152,20 +152,7 @@ _Section: FAU Scientia Gaststudium_
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 10:00–12:00 | 19.06.2026 | — |
-| wöchentlich | Mo | 08:00–17:00 | 22.06.2026–13.07.2026 | — |
-| wöchentlich | Di | 13:00–17:30 | 23.06.2026–14.07.2026 | — |
-| wöchentlich | Mi | 13:30–17:30 | 24.06.2026–15.07.2026 | — |
-| wöchentlich | Do | 08:00–17:00 | 25.06.2026–16.07.2026 | — |
-| wöchentlich | Fr | 08:00–16:00 | 26.06.2026–17.07.2026 | — |
-| Blockveranstaltung | — | 08:00–17:00 | 20.07.2026–24.07.2026 | — |
 
 ### OC1 - Organische Chemie 1 - Vorlesung mit Übung
 

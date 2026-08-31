@@ -1060,7 +1060,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | Mi | Mi | — | — | — |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (25)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (28)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -1071,6 +1071,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 3.0
+- **Turnus:** nur im Wintersemester
+
+### 102 Anwendungsfelder der Gerontologie — Seminar
+
+- **Segment:** `unit:97545` · **unitId:** `97545`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97545&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.0
 - **Turnus:** nur im Wintersemester
 
 ### 1202 Kognition und Emotion im Alternsprozess Kurs B — Seminar
@@ -1088,6 +1097,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 3.0
 - **Turnus:** nur im Wintersemester
+
+### 1502 - Ausgewählte Methoden der psychogerontologischen Intervention Kurs C: — Seminar
+
+- **Segment:** `unit:89970` · **unitId:** `89970`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89970&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.0
+- **Turnus:** nur im Sommersemester
 
 ### 1701 Wahlpflichtseminar I Kurs A
 
@@ -1223,6 +1241,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.0
 - **Turnus:** nur im Wintersemester
+
+### 902 - Altern, Recht und Gesellschaft Kurs A — Seminar
+
+- **Segment:** `unit:93296` · **unitId:** `93296`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93296&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.0
+- **Turnus:** nur im Sommersemester
 
 ### 902 - Altern, Recht und Gesellschaft Kurs B — Seminar
 

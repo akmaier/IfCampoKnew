@@ -24,14 +24,7 @@ _Section: Frühstudium_
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 19:30–22:00 | 15.04.2026–15.07.2026 | 00901.00.019 (Wassersaal - Orangerie #!#Belegungen ausschließlich durch die Zentrale Raumverwaltung / Raumplan wird nicht aktualisiert !!! !!! #!#) |
 
 ### Aufbauseminar Culture - Aufbauseminar
 
@@ -468,19 +461,7 @@ _Section: Frühstudium_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:00–12:00 | 16.04.2026–28.05.2026 | 13501.00.020 (SR Staudtstr. 3 Lehrstuhl für Kristallographie) |
-| wöchentlich | Do | 13:00–15:00 | 16.04.2026–28.05.2026 | 13501.00.020 (SR Staudtstr. 3 Lehrstuhl für Kristallographie) |
-| wöchentlich | Do | 13:00–14:30 | 16.04.2026–16.07.2026 | 13001.U1.131 (CIP Biologie Raumnummer U1.131) |
-| wöchentlich | Do | 10:15–11:45 | 23.04.2026–16.07.2026 | 13001.U1.131 (CIP Biologie Raumnummer U1.131) |
-| wöchentlich | Do | 10:15–11:45 | 25.06.2026–16.07.2026 | 13001.01.212 (01.212 Seminarraum MPP) |
-| wöchentlich | Do | 13:00–14:30 | 25.06.2026–16.07.2026 | 13001.01.212 (01.212 Seminarraum MPP) |
 
 ### ILS-MA-I2B: Interactions at Biological Macromolecules (Tutorial) - Übung
 
@@ -1067,16 +1048,7 @@ _Section: Frühstudium_
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:30–17:45 | 20.04.2026–13.07.2026 | — |
-| wöchentlich | Di | 12:15–13:00 | 14.04.2026–12.05.2026 | 13301.01.0331 (C2 - Chemikum) |
-| wöchentlich | Mi | 14:15–17:30 | 22.04.2026–15.07.2026 | — |
 
 ### Übung zur Makroökonomie - Übung
 
