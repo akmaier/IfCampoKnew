@@ -2192,7 +2192,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 15:00–16:30 | 28.10.2025–03.02.2026 | 21101.03.153 (LG 3.152/3 (62 Plätze) Seminarraum) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (404)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (369)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -2510,22 +2510,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Fr | Fr | — | — | — |
 
-### Business Ethics and Corporate Social Responsibility — Vorlesung
+### Business-to-Business Marketing (Case Study) — Seminar
 
-- **Segment:** `unit:100613` · **unitId:** `100613`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100613&periodId=565>
+- **Segment:** `unit:108795` · **unitId:** `108795`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=108795&periodId=565>
 
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### Business Intelligence — Vorlesung mit Übung
-
-- **Segment:** `unit:86864` · **unitId:** `86864`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86864&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Sommersemester
 
 ### Business-to-business Marketing (Vorlesung)
@@ -2535,24 +2526,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
-### Businessplanseminar (Master)
-
-- **Segment:** `unit:87677` · **unitId:** `87677`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87677&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nicht in diesem Semester
-
-### Change Management — Vorlesung mit Übung
-
-- **Segment:** `unit:96196` · **unitId:** `96196`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96196&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
 ### Change management (Klausur)
@@ -2670,15 +2643,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mi | Mi | — | — | — |
 
-### Consumer Relationship Marketing (Seminar)
-
-- **Segment:** `unit:88476` · **unitId:** `88476`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88476&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
 ### Controlling of Business Systems — Vorlesung mit Übung
 
 - **Segment:** `unit:96608` · **unitId:** `96608`
@@ -2709,15 +2673,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | 08:00–09:00 | — | — |
-
-### Corporate Strategy — Vorlesung mit Übung
-
-- **Segment:** `unit:98116` · **unitId:** `98116`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98116&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
 
 ### Das Industrieseminar
 
@@ -2764,15 +2719,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### Das Innovationsseminar
-
-- **Segment:** `unit:94168` · **unitId:** `94168`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94168&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
 
 ### Das Innovationsseminar (Hausarbeit)
 
@@ -3611,14 +3557,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Fr | Fr | 15:00–16:00 | — | — |
 
-### Development Economics (Master) Lecture — Vorlesung
-
-- **Segment:** `unit:98222` · **unitId:** `98222`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98222&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
-
 ### Development economics (presentation)
 
 - **Segment:** `unit:50891` · **unitId:** `50891`
@@ -3775,15 +3713,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mi | Mi | 12:15–13:15 | — | — |
 
-### Economics of Human Capital — Seminar
-
-- **Segment:** `unit:104880` · **unitId:** `104880`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104880&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
 ### Economics of innovation
 
 - **Segment:** `unit:112651` · **unitId:** `112651`
@@ -3797,24 +3726,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### Economics of Innovation (Lecture and Tutorial) — Vorlesung mit Übung
-
-- **Segment:** `unit:102857` · **unitId:** `102857`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102857&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### Einführung in die Arbeitsmarktsoziologie — Masterseminar
-
-- **Segment:** `unit:92729` · **unitId:** `92729`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92729&periodId=565>
-
-- **Veranstaltungsart:** Masterseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Einführung in die Bildungssoziologie (Klausur)
 
@@ -3843,6 +3754,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
+
+### Einkommensteuerrecht — Übung
+
+- **Segment:** `unit:84559` · **unitId:** `84559`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84559&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **Turnus:** nur im Wintersemester
 
 ### Einkommensteuerrecht — Vorlesung
 
@@ -4293,15 +4212,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mi | Mi | 11:00–12:00 | — | 21102.01.421 (LG H6 BISSANTZ-Hörsaal (240 Plätze)) |
 
-### Financial Engineering und Structured Finance (VL) — Vorlesung
-
-- **Segment:** `unit:90727` · **unitId:** `90727`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90727&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
 ### Finanz- & Bankmanagement  Übung
 
 - **Segment:** `unit:96520` · **unitId:** `96520`
@@ -4348,15 +4258,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | 08:00–09:00 | — | 21101.01.112 (LG H1 (446 Plätze) Hörsaal) |
-
-### Finanzmarktkommunikation — Seminar
-
-- **Segment:** `unit:98024` · **unitId:** `98024`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98024&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
 
 ### Finnisch: Elementarkurs I
 
@@ -4698,15 +4599,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Di | Di | 11:00–12:30 | — | 21102.01.420 (LG H5 TeamBank-Hörsaal (384 Plätze)) |
 
-### Generative AI-Powered Stories: Data Visualization in Tableau — Praxisseminar
-
-- **Segment:** `unit:105764` · **unitId:** `105764`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=105764&periodId=565>
-
-- **Veranstaltungsart:** Praxisseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
 ### Global Operations Strategy — Seminar
 
 - **Segment:** `unit:87611` · **unitId:** `87611`
@@ -4864,15 +4756,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Fr | Fr | 11:00–12:30 | — | 11901.00.240 (H10 Hörsaal 10) |
 
-### Industrielles Management — Vorlesung
-
-- **Segment:** `unit:96468` · **unitId:** `96468`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96468&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
 ### Industrielles Management (Klausur)
 
 - **Segment:** `unit:46923` · **unitId:** `46923`
@@ -4894,6 +4777,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 3.0
+- **Turnus:** nur im Sommersemester
+
+### Interdisziplinäres Seminar (Blockveranstaltung)
+
+- **Segment:** `unit:87083` · **unitId:** `87083`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87083&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
 ### International and European trade law (written examination)
@@ -4961,15 +4853,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Fr | Fr | 15:30–16:30 | — | 21101.01.213 (LG H4 (814 Plätze) Hörsaal) |
-
-### Internationale Transportlogistik- und Distributionssysteme (vhb-Kurs) — Vorlesung
-
-- **Segment:** `unit:94736` · **unitId:** `94736`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94736&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
 
 ### Introducción a la mediación
 
@@ -5159,6 +5042,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 ### Kommunikation in der digitalen Arbeitswelt — Masterseminar
 
+- **Segment:** `unit:102153` · **unitId:** `102153`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102153&periodId=565>
+
+- **Veranstaltungsart:** Masterseminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Sommersemester
+
+### Kommunikation in der digitalen Arbeitswelt — Masterseminar
+
 - **Segment:** `unit:111338` · **unitId:** `111338`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111338&periodId=565>
 
@@ -5257,6 +5149,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Di | Di | 08:15–09:15 | — | 21101.01.112 (LG H1 (446 Plätze) Hörsaal) |
+
+### Kostenträger II — Seminar
+
+- **Segment:** `unit:99296` · **unitId:** `99296`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99296&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Sommersemester
 
 ### Kostenträger II: Private Krankenversicherung (Klausur)
 
@@ -5376,15 +5277,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### Labor Markets in the Knowledge Economy — Vorlesung mit Übung
-
-- **Segment:** `unit:87942` · **unitId:** `87942`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87942&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Labor markets in the knowledge economy (written examination)
 
@@ -5528,15 +5420,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
-### Ma-Vorl: International Trade & Labor — Vorlesung
-
-- **Segment:** `unit:102827` · **unitId:** `102827`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102827&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
 ### Ma-Vorl: Issues in International Political Economy (IPE) — Vorlesung
 
 - **Segment:** `unit:88082` · **unitId:** `88082`
@@ -5597,15 +5480,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Fr | Fr | 14:00–15:30 | — | 21102.00.424 (LG 0.424 (92 Plätze) Übungsraum) |
-
-### Managing Enterprise-Wide IT-Architectures & Case Study Seminar — Masterseminar
-
-- **Segment:** `unit:91623` · **unitId:** `91623`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91623&periodId=565>
-
-- **Veranstaltungsart:** Masterseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
 
 ### Managing Global Projects & Managing Information Technology — Masterseminar
 
@@ -5678,15 +5552,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### Marktforschungsmanagement — Seminar
-
-- **Segment:** `unit:86857` · **unitId:** `86857`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86857&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
 
 ### Mathematics for Economists  - Lecture — Vorlesung
 
@@ -5779,13 +5644,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | 13:30–14:30 | — | 21101.01.213 (LG H4 (814 Plätze) Hörsaal) |
 
-### Methoden der Wirtschafts- und Organisationspsychologie — Seminar
-
-- **Segment:** `unit:119006` · **unitId:** `119006`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119006&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
 ### Methoden der Wirtschafts- und Organisationspsychologie (Klausur)
 
 - **Segment:** `unit:28256` · **unitId:** `28256`
@@ -5827,15 +5685,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | 11:00–12:00 | — | 21101.01.112 (LG H1 (446 Plätze) Hörsaal) |
-
-### Microeconometrics and machine learning — Vorlesung
-
-- **Segment:** `unit:91105` · **unitId:** `91105`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91105&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
 
 ### Microeconomics (Master) Exercise — Übung
 
@@ -5897,15 +5746,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mi | 11:30–13:00 | 15.10.2025–04.02.2026 | 21101.01.113 (LG H2 Hörsaal (155 Plätze)) |
 
-### Multivariate Time Series Analysis — Vorlesung
-
-- **Segment:** `unit:98065` · **unitId:** `98065`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98065&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
 ### Multivariate time series analysis (written examination)
 
 - **Segment:** `unit:54308` · **unitId:** `54308`
@@ -5919,15 +5759,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Di | Di | 11:00–12:00 | — | 21101.01.213 (LG H4 (814 Plätze) Hörsaal) |
-
-### Multivariate Time Series Analysis, Excercise Session — Übung
-
-- **Segment:** `unit:83767` · **unitId:** `83767`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83767&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
 
 ### Neugriechisch: Elementarkurs I
 
@@ -6069,14 +5900,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mi | Mi | 18:00–19:30 | — | 05701.U1.008 () |
 
-### Personalpsychologie — Vorlesung
-
-- **Segment:** `unit:106214` · **unitId:** `106214`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106214&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
-
 ### Personnel Economics — Vorlesung
 
 - **Segment:** `unit:84672` · **unitId:** `84672`
@@ -6116,15 +5939,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Di | Di | 10:00–11:00 | — | 21102.01.421 (LG H6 BISSANTZ-Hörsaal (240 Plätze)) |
-
-### Pharmamanagement II — Seminar
-
-- **Segment:** `unit:94818` · **unitId:** `94818`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94818&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
 
 ### Pharmamanagement II: Arzneimittel (Klausur)
 
@@ -6333,15 +6147,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Projektseminar
 - **Turnus:** Unregelmäßig
 
-### Projektseminar Wirtschaftspsychologie
-
-- **Segment:** `unit:86105` · **unitId:** `86105`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86105&periodId=565>
-
-- **Veranstaltungsart:** Projektseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
-
 ### Projektseminar: Angewandte empirische Gesundheitsökonomie (Präsentation)
 
 - **Segment:** `unit:43886` · **unitId:** `43886`
@@ -6369,15 +6174,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Do | Do | 23:58–23:59 | — | — |
-
-### Präsentationstraining — Seminar
-
-- **Segment:** `unit:106100` · **unitId:** `106100`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106100&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nicht in diesem Semester
 
 ### Prüfungstechnik (Klausur)
 
@@ -6634,14 +6430,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Seminar in Energy and Environmental Economics: Econometric Applications
-
-- **Segment:** `unit:128515` · **unitId:** `128515`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128515&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nur im Sommersemester
-
 ### Seminar Kundenmanagement (Klausur)
 
 - **Segment:** `unit:27647` · **unitId:** `27647`
@@ -6655,15 +6443,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Fr | Fr | 09:00–10:00 | — | 21102.01.420 (LG H5 TeamBank-Hörsaal (384 Plätze)) |
-
-### Seminar on Labour and Education Economics — Masterseminar
-
-- **Segment:** `unit:116048` · **unitId:** `116048`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116048&periodId=565>
-
-- **Veranstaltungsart:** Masterseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Seminar zur Bildungssoziologie — Masterseminar
 
@@ -6708,15 +6487,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### Seminar zur Gesundheitsökonomik / Seminar in Health Economics
-
-- **Segment:** `unit:88072` · **unitId:** `88072`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88072&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
 
 ### Seminar zur Wirtschaftssoziologie (Hausarbeit)
 
@@ -6800,15 +6570,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Mi | 16:30–20:00 | 28.01.2026 | 20101.01.036 (FG 1.036 (24 Plätze) Seminarraum) |
 | Einzeltermin | Mi | 16:30–20:00 | 04.02.2026 | 20101.01.036 (FG 1.036 (24 Plätze) Seminarraum) |
 | Einzeltermin | Mi | 10:00–12:00 | 11.02.2026 | 20101.01.036 (FG 1.036 (24 Plätze) Seminarraum) |
-
-### Sonderbilanzen und Sonderprüfungen (Vorlesung)
-
-- **Segment:** `unit:86897` · **unitId:** `86897`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86897&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Spanisch 1
 
@@ -7102,14 +6863,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Stud. Tutorium: Strategic Supply Management
-
-- **Segment:** `unit:84560` · **unitId:** `84560`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84560&periodId=565>
-
-- **Veranstaltungsart:** Tutorium
-- **Turnus:** nur im Wintersemester
-
 ### Supply chain management research seminar
 
 - **Segment:** `unit:44937` · **unitId:** `44937`
@@ -7205,15 +6958,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Technological Change and the Labour Market — Seminar
-
-- **Segment:** `unit:127954` · **unitId:** `127954`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127954&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
 ### The Economics of Health Behavior
 
 - **Segment:** `unit:127653` · **unitId:** `127653`
@@ -7283,14 +7027,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | 16:15–17:45 | — | — |
-
-### Tutorium Strategic Supply Management
-
-- **Segment:** `unit:90821` · **unitId:** `90821`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90821&periodId=565>
-
-- **Veranstaltungsart:** Tutorium
-- **Turnus:** nur im Sommersemester
 
 ### Tutorium zum VHB-Kurs "Performance Management in Teams"
 
@@ -7549,24 +7285,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Mo | 08:00–09:00 | 24.11.2025 | 21101.00.144 (LG 0.144 (38 Plätze) Übungsraum) |
 | Einzeltermin | Mi | 11:30–13:00 | 04.02.2026 | 21101.01.114 (LG H3 GfK-Hörsaal (155 Plätze) &quot;Gesellschaft für Konsumforschung&quot;) |
 
-### VL: The Economics of Health Behavior — Vorlesung
-
-- **Segment:** `unit:128317` · **unitId:** `128317`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128317&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
-### VL: The Economics of Health Insurance — Vorlesung
-
-- **Segment:** `unit:100470` · **unitId:** `100470`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100470&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
 ### Vorlesung Organisationspsychologie
 
 - **Segment:** `unit:107375` · **unitId:** `107375`
@@ -7682,15 +7400,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mi | 09:45–11:15 | 05.11.2025–04.02.2026 | 21101.01.113 (LG H2 Hörsaal (155 Plätze)) |
 
-### Ü: The Economics of Health Insurance — Übung
-
-- **Segment:** `unit:85280` · **unitId:** `85280`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85280&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
 ### Übung Asset Liability Management (Versicherungen)
 
 - **Segment:** `unit:87367` · **unitId:** `87367`
@@ -7699,15 +7408,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-### Übung Institutionen und Organisationen des Arbeitsmarktes
-
-- **Segment:** `unit:88054` · **unitId:** `88054`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88054&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
 - **Turnus:** nur im Sommersemester
 
 ### Übung Lebensversicherung
@@ -7790,11 +7490,3 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Mi | 13:15–14:45 | 22.10.2025–04.02.2026 | 21101.00.142 (LG 0.142 (98 Plätze) Übungsraum) |
 | wöchentlich | Do | 09:45–11:15 | 23.10.2025–05.02.2026 | 21101.00.142 (LG 0.142 (98 Plätze) Übungsraum) |
 | Einzeltermin | Do | 09:00–10:30 | 29.01.2026 | 21101.00.142 (LG 0.142 (98 Plätze) Übungsraum) |
-
-### Übung zur Ma-Vorl International Trade and Labor
-
-- **Segment:** `unit:92875` · **unitId:** `92875`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92875&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Sommersemester

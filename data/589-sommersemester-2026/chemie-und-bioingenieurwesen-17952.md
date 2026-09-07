@@ -9190,18 +9190,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (144)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (76)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
-
-### Adsorption: Fundamentals and Applications — Vorlesung
-
-- **Segment:** `unit:84747` · **unitId:** `84747`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84747&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Advanced Bioanalytics - Vorlesung
 
@@ -9218,24 +9209,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121802&periodId=589>
 
 - **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Advanced electrochemistry  from fundamentals to applications — Vorlesung
-
-- **Segment:** `unit:91203` · **unitId:** `91203`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91203&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Advanced Semiconductor Technologies - Materials for Organic Electronics — Vorlesung
-
-- **Segment:** `unit:89879` · **unitId:** `89879`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89879&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 3.0
 - **Turnus:** nur im Wintersemester
 
 ### Allgemeine Mikrobiologie für Naturwissenschaftler und Techniker — Vorlesung
@@ -9289,15 +9262,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
 
-### Anorganisch-analytisch-chemischer Kurs für Anfänger (CBI/BT/CEN) — Praktikum
-
-- **Segment:** `unit:85401` · **unitId:** `85401`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85401&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 2.0
-- **Turnus:** nur im Wintersemester
-
 ### Bioreaktions- und Bioverfahrenstechnik (CBI, BT, LSE, MT) — Vorlesung
 
 - **Segment:** `unit:84907` · **unitId:** `84907`
@@ -9328,22 +9292,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### Brauseminar
-
-- **Segment:** `unit:93915` · **unitId:** `93915`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93915&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nur im Wintersemester
-
-### BWL für Ingenieure I — Vorlesung
-
-- **Segment:** `unit:82996` · **unitId:** `82996`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82996&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
 
 ### CBI Projektierungskurs Frühjahr — Sonstige Lehrveranstaltung
 
@@ -9419,56 +9367,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Do | Do | 11:00–12:30 | — | 11901.00.226 (H8 Hörsaal 8) |
 
-### Computational Fluid Dynamics — Vorlesung
-
-- **Segment:** `unit:110411` · **unitId:** `110411`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110411&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
-
-### Computational Fluid Dynamics - Exercise — Übung
-
-- **Segment:** `unit:110412` · **unitId:** `110412`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110412&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Computational Fluid Dynamics - Lab — Praktikum
-
-- **Segment:** `unit:84531` · **unitId:** `84531`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84531&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
-### Computeranwendungen in der  Verfahrenstechnik 2 — Vorlesung
-
-- **Segment:** `unit:85231` · **unitId:** `85231`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85231&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
-
-### Computeranwendungen in der Verfahrenstechnik 1 (Tutorium2)
-
-- **Segment:** `unit:91141` · **unitId:** `91141`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91141&periodId=589>
-
-- **Veranstaltungsart:** Tutorium
-- **Turnus:** nur im Sommersemester
-
-### Computeranwendungen in der Verfahrenstechnik 1 (Übung4)
-
-- **Segment:** `unit:82986` · **unitId:** `82986`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82986&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Sommersemester
-
 ### Die Werkzeugmaschine als mechatronisches System — Vorlesung
 
 - **Segment:** `unit:85372` · **unitId:** `85372`
@@ -9493,117 +9391,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
-
-### Discrete Element Simulations — Vorlesung
-
-- **Segment:** `unit:110299` · **unitId:** `110299`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110299&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 7.5
-- **Turnus:** nur im Sommersemester
-
-### Discrete Element Simulations — Übung
-
-- **Segment:** `unit:110301` · **unitId:** `110301`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110301&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Sommersemester
-
-### Discrete Element Simulations — Praktikum
-
-- **Segment:** `unit:110302` · **unitId:** `110302`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110302&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **Turnus:** nur im Sommersemester
-
-### Einführung in die Astronomie 1 — Vorlesung
-
-- **Segment:** `unit:84095` · **unitId:** `84095`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84095&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
-
-### Einführung in die Regelungstechnik — Vorlesung mit Übung
-
-- **Segment:** `unit:83321` · **unitId:** `83321`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83321&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Einführung in die Regelungstechnik - Übungen
-
-- **Segment:** `unit:87774` · **unitId:** `87774`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87774&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Electrocatalysis — Übung
-
-- **Segment:** `unit:115088` · **unitId:** `115088`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115088&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Electrocatalysis — Vorlesung
-
-- **Segment:** `unit:115069` · **unitId:** `115069`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115069&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Electrochemistry — Vorlesung
-
-- **Segment:** `unit:94865` · **unitId:** `94865`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94865&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Sommersemester
-
-### Energetische Nutzung von Biomasse und Reststoffen — Vorlesung
-
-- **Segment:** `unit:82840` · **unitId:** `82840`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82840&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Energiewirtschaft und Nachhaltigkeit — Vorlesung mit Übung
-
-- **Segment:** `unit:96510` · **unitId:** `96510`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96510&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Energiewirtschaft und Nachhaltigkeit Übung
-
-- **Segment:** `unit:84544` · **unitId:** `84544`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84544&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** in jedem Semester
-
-### Exercise Electrochemistry — Übung
-
-- **Segment:** `unit:93636` · **unitId:** `93636`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93636&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Turnus:** nur im Sommersemester
 
 ### Exercise in Optical Diagnostics in Energy and Process Engineering — Übung
 
@@ -9649,14 +9436,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### Grundlagen der Messtechnik - Übung
-
-- **Segment:** `unit:82219` · **unitId:** `82219`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82219&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
 ### Grundlagen der Schaltungstechnik — Vorlesung
 
 - **Segment:** `unit:84061` · **unitId:** `84061`
@@ -9665,24 +9444,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
-
-### Halbleiterbauelemente — Vorlesung
-
-- **Segment:** `unit:82469` · **unitId:** `82469`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82469&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### IT und E-Business — Vorlesung
-
-- **Segment:** `unit:86655` · **unitId:** `86655`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86655&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Klausur zum Nachweis Gesicherter Lateinkenntnisse
 
@@ -9748,65 +9509,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
 | wöchentlich | Mi | 16:00–18:00 | 15.04.2026–15.07.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
 
-### Latein II für Fortgeschrittene - Intensivkurs (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
-
-- **Segment:** `unit:89729` · **unitId:** `89729`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89729&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** Unregelmäßig
-
-### Mechanische Verfahrenstechnik — Vorlesung mit Übung
-
-- **Segment:** `unit:84263` · **unitId:** `84263`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84263&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Mechanische Verfahrenstechnik — Vorlesung mit Übung
-
-- **Segment:** `unit:137712` · **unitId:** `137712`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137712&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-
-### Medizinische Biotechnologie — Vorlesung
-
-- **Segment:** `unit:85624` · **unitId:** `85624`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85624&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Medizinische Biotechnologie - Übung
-
-- **Segment:** `unit:86753` · **unitId:** `86753`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86753&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Modellbildung in der Partikeltechnik / Numerical Methods in Particle Technology — Vorlesung
-
-- **Segment:** `unit:83929` · **unitId:** `83929`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83929&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 4.5
-- **Turnus:** nur im Sommersemester
-
-### Nachhaltige Chemische Technologien 2 -  Verfahren — Vorlesung
-
-- **Segment:** `unit:88681` · **unitId:** `88681`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88681&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Nachhaltige Chemische Technologien 2 - Verfahren
 
 - **Segment:** `unit:32795` · **unitId:** `32795`
@@ -9820,15 +9522,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | 08:00–09:30 | — | 11901.00.236 (K1-119 Brose-Saal) |
-
-### Nanotechnology of Disperse Systems — Vorlesung mit Übung
-
-- **Segment:** `unit:85169` · **unitId:** `85169`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85169&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Optical Diagnostics in Energy and Process Engineering — Vorlesung
 
@@ -9920,15 +9613,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Physikalisches Experimentieren C — Praktikum
-
-- **Segment:** `unit:83159` · **unitId:** `83159`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83159&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 7.5
-- **Turnus:** in jedem Semester
-
 ### Porous Materials: Preparation principles, production processes and spectroscopic characterization — Vorlesung
 
 - **Segment:** `unit:85921` · **unitId:** `85921`
@@ -9936,15 +9620,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Practical Course Advanced electrochemistry  from fundamentals to applications — Praktikum
-
-- **Segment:** `unit:98142` · **unitId:** `98142`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98142&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
 
 ### Praktikum Bioreaktions- und Bioverfahrenstechnik (Mikrobielle Verfahrenstechnik)
@@ -9985,29 +9660,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 15:00–18:00 | 16.04.2026–16.07.2026 | — |
-
-### Praktikum Porous Materials: Preparation principles, production processes and spectroscopic characterization
-
-- **Segment:** `unit:84383` · **unitId:** `84383`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84383&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
-### Praktikum Thermische Verfahrenstechnik
-
-- **Segment:** `unit:31721` · **unitId:** `31721`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=31721&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
 
 ### Praktische Softwaretechnik — Vorlesung
 
@@ -10060,15 +9712,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nicht in diesem Semester
 
-### Produktanalyse — Vorlesung
-
-- **Segment:** `unit:88168` · **unitId:** `88168`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88168&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 4.0
-- **Turnus:** nur im Wintersemester
-
 ### Prozessautomatisierung für CBI und CEN — Vorlesung
 
 - **Segment:** `unit:90817` · **unitId:** `90817`
@@ -10076,31 +9719,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Regelungstechnik A (Grundlagen) — Vorlesung mit Übung
-
-- **Segment:** `unit:84783` · **unitId:** `84783`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84783&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Regelungstechnik A (Grundlagen) - Übungen
-
-- **Segment:** `unit:83805` · **unitId:** `83805`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83805&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Regenerative Energien - Erzeugung, Integration, Speicherung — Vorlesung
-
-- **Segment:** `unit:87152` · **unitId:** `87152`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87152&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Wintersemester
 
 ### Rheologie/Rheometrie — Vorlesung
@@ -10137,29 +9755,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Praktikum
 - **Turnus:** nur im Wintersemester
 
-### Scannen und Drucken in 3D-Vorlesung
-
-- **Segment:** `unit:85207` · **unitId:** `85207`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85207&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
-
-### Scannen und Drucken in 3D-Übung
-
-- **Segment:** `unit:84766` · **unitId:** `84766`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84766&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Scannen und Drucken in 3D-Übung
-
-- **Segment:** `unit:119347` · **unitId:** `119347`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119347&periodId=589>
-
-- **Veranstaltungsart:** Übung
-
 ### Schriftliche Übersetzungsleistung Latein I für Anfänger (Zulassungsvoraussetzung zu Kurs Latein II für Fortgeschrittene)
 
 - **Segment:** `unit:39848` · **unitId:** `39848`
@@ -10188,22 +9783,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mi | Mi | 08:00–09:30 | — | 11901.00.222 (H7 Hörsaal 7) |
 
-### Scientific computing in engineering 2 — Vorlesung
-
-- **Segment:** `unit:87124` · **unitId:** `87124`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87124&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
-
-### Seminar zur Energetischen Nutzung von Biomasse und Reststoffen — Übung
-
-- **Segment:** `unit:85715` · **unitId:** `85715`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85715&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
 ### Software-Projektmanagement — Vorlesung
 
 - **Segment:** `unit:82906` · **unitId:** `82906`
@@ -10211,14 +9790,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Statik und Festigkeitslehre — Sonstige Lehrveranstaltung
-
-- **Segment:** `unit:88460` · **unitId:** `88460`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88460&periodId=589>
-
-- **Veranstaltungsart:** Sonstige Lehrveranstaltung
 - **Turnus:** nur im Wintersemester
 
 ### Strömungsakustik
@@ -10288,32 +9859,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Wintersemester
 
-### Thermische Verfahrenstechnik (Übung)
-
-- **Segment:** `unit:115110` · **unitId:** `115110`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115110&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Transportprozesse — Vorlesung
-
-- **Segment:** `unit:83336` · **unitId:** `83336`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83336&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 3.0
-- **Turnus:** nur im Wintersemester
-
-### Transportprozesse Übung
-
-- **Segment:** `unit:90616` · **unitId:** `90616`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90616&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
-- **Turnus:** nur im Wintersemester
-
 ### Turbulence II — Vorlesung
 
 - **Segment:** `unit:87133` · **unitId:** `87133`
@@ -10323,68 +9868,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### Turbulence II - Exercise — Übung
-
-- **Segment:** `unit:123865` · **unitId:** `123865`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123865&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Tutorial Advanced electrochemistry  from fundamentals to applications — Übung
-
-- **Segment:** `unit:87600` · **unitId:** `87600`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87600&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Tutorial Scientific computing in engineering 2 — Übung
-
-- **Segment:** `unit:92534` · **unitId:** `92534`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92534&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Tutorium Halbleiterbauelemente
-
-- **Segment:** `unit:82875` · **unitId:** `82875`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82875&periodId=589>
-
-- **Veranstaltungsart:** Tutorium
-- **Turnus:** nur im Wintersemester
-
-### Tutorium TVT
-
-- **Segment:** `unit:110577` · **unitId:** `110577`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110577&periodId=589>
-
-- **Veranstaltungsart:** Tutorium
-
-### Tutorium zur Mikrobiellen Verfahrenstechnik
-
-- **Segment:** `unit:83773` · **unitId:** `83773`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83773&periodId=589>
-
-- **Veranstaltungsart:** Tutorium
-- **Turnus:** nur im Wintersemester
-
 ### Tutorium zur Statik und Festigkeitslehre
 
 - **Segment:** `unit:91465` · **unitId:** `91465`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91465&periodId=589>
 
 - **Veranstaltungsart:** Tutorium
-- **Turnus:** nur im Wintersemester
-
-### Vorlesung Digitalisierung in der Energietechnik
-
-- **Segment:** `unit:87736` · **unitId:** `87736`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87736&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
 ### Wissenschaftliches Arbeiten in den Ingenieur- und Naturwissenschaften — Vorlesung
@@ -10426,31 +9915,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 3.0
 - **Turnus:** nur im Wintersemester
 
-### Übung Computeranwendungen in der  Verfahrenstechnik 2
-
-- **Segment:** `unit:83796` · **unitId:** `83796`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83796&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Übung Mechanischen Verfahrenstechnik
-
-- **Segment:** `unit:86855` · **unitId:** `86855`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86855&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Übung Produktanalyse
-
-- **Segment:** `unit:82383` · **unitId:** `82383`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82383&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 1.0
-- **Turnus:** nur im Wintersemester
-
 ### Übung Technische Akustik
 
 - **Segment:** `unit:86073` · **unitId:** `86073`
@@ -10474,14 +9938,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
 
-### Übung zu Modellbildung in der Partikeltechnik
-
-- **Segment:** `unit:87720` · **unitId:** `87720`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87720&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Sommersemester
-
 ### Übung zu Wärmekraftanlagen und Kraftwerkstechnik
 
 - **Segment:** `unit:83981` · **unitId:** `83981`
@@ -10489,22 +9945,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.0
-- **Turnus:** nur im Wintersemester
-
-### Übung zur Chemischen Energiespeicherung
-
-- **Segment:** `unit:84980` · **unitId:** `84980`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84980&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Übung zur Umweltverfahrenstechnik
-
-- **Segment:** `unit:86729` · **unitId:** `86729`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86729&periodId=589>
-
-- **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
 
 ### Übungen zu Bioreaktions- und Bioverfahrenstechnik (Mikrobielle Verfahrenstechnik)
@@ -10522,31 +9962,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
-
-### Übungen zu Halbleiterbauelemente
-
-- **Segment:** `unit:82326` · **unitId:** `82326`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82326&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Übungen zu Wissenschaftliches Arbeiten in den Ingenieur- und Naturwissenschaften
-
-- **Segment:** `unit:112709` · **unitId:** `112709`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112709&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung | — | 13:00–18:00 | 22.05.2026 | 11501.02.019 (02.019 Seminarraum) |
-| Blockveranstaltung | — | 13:00–18:00 | 26.06.2026 | 11501.02.019 (02.019 Seminarraum) |
 
 ### Übungen zur Mathematik für Ingenieure D1: BT, CBI, CEN
 

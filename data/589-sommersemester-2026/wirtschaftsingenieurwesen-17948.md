@@ -349,7 +349,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (1491)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (1294)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -874,15 +874,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Di | Di | 11:00–12:30 | — | 12801.01.220 (H12 Emmy-Noether-Hörsaal) |
 
-### Analoge elektronische Systeme — Vorlesung
-
-- **Segment:** `unit:83949` · **unitId:** `83949`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83949&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Analysis and Valuation of Start Ups (AVS) — Seminar
 
 - **Segment:** `unit:86331` · **unitId:** `86331`
@@ -1040,23 +1031,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Fr | Fr | 11:00–12:30 | — | 12801.01.220 (H12 Emmy-Noether-Hörsaal) |
-
-### Antennen — Vorlesung
-
-- **Segment:** `unit:83757` · **unitId:** `83757`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83757&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Antennen Übung
-
-- **Segment:** `unit:85934` · **unitId:** `85934`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85934&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
 
 ### Applied Data Science in Medicine & Psychology
 
@@ -1249,24 +1223,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | 53603.03.404 (3R4.04 Seminarraum AudioLabs) |
 
-### Aufbau- und Verbindungstechnik in der Leistungselektronik — Vorlesung
-
-- **Segment:** `unit:86690` · **unitId:** `86690`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86690&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
-### Ausgewählte Kapitel der Audiodatenreduktion — Vorlesung
-
-- **Segment:** `unit:84509` · **unitId:** `84509`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84509&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
 ### Ausgewählte wissensbasierte Verfahren in der Fertigungstechnologie — Vorlesung
 
 - **Segment:** `unit:83263` · **unitId:** `83263`
@@ -1410,15 +1366,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Fr | Fr | — | — | — |
 
-### Autonomous Systems: From Research to Products — Vorlesung
-
-- **Segment:** `unit:85077` · **unitId:** `85077`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85077&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
 ### Batteriespeichersysteme
 
 - **Segment:** `unit:118827` · **unitId:** `118827`
@@ -1477,24 +1424,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mi | Mi | 08:00–09:00 | — | 11901.00.226 (H8 Hörsaal 8) |
 
-### Bearbeitungssystem Werkzeugmaschine — Vorlesung
-
-- **Segment:** `unit:82545` · **unitId:** `82545`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82545&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
-### Bearbeitungssystem Werkzeugmaschine - Übung
-
-- **Segment:** `unit:85012` · **unitId:** `85012`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85012&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
 ### Berechnung und Auslegung Elektrischer Maschinen
 
 - **Segment:** `unit:26370` · **unitId:** `26370`
@@ -1546,15 +1475,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Fr | Fr | 11:00–12:00 | — | 21102.01.420 (LG H5 TeamBank-Hörsaal (384 Plätze)) |
-
-### Beschaffungsmanagement — Vorlesung
-
-- **Segment:** `unit:88957` · **unitId:** `88957`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88957&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nicht in diesem Semester
 
 ### Beschaffungsmanagement (Klausur)
 
@@ -1645,22 +1565,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Wintersemester
 
-### Bilanzpolitik und Bilanzanalyse (Vorlesung)
-
-- **Segment:** `unit:94424` · **unitId:** `94424`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94424&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
-
-### Bilanzpolitik und Bilanzanalyse (Übung)
-
-- **Segment:** `unit:95956` · **unitId:** `95956`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95956&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
 ### Bild-, Video- und mehrdimensionale Signalverarbeitung
 
 - **Segment:** `unit:73766` · **unitId:** `73766`
@@ -1689,23 +1593,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Bildgebende Radarsysteme — Vorlesung
-
-- **Segment:** `unit:82339` · **unitId:** `82339`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82339&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Bildgebende Radarsysteme Übung
-
-- **Segment:** `unit:82259` · **unitId:** `82259`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82259&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
 ### Biologische Psychologie — Proseminar
 
 - **Segment:** `unit:89019` · **unitId:** `89019`
@@ -1721,15 +1608,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 14:15–15:45 | 21.04.2026–14.07.2026 | 00801.00.112 (H Anatomie I (Eingang über Universitätsstraße 19)) |
-
-### Biologische Psychologie — Vorlesung
-
-- **Segment:** `unit:94099` · **unitId:** `94099`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94099&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 3.0
-- **Turnus:** nur im Wintersemester
 
 ### Biologische Psychologie (Nebenfach)
 
@@ -1799,15 +1677,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### Bruchmechanik / Fracture Mechanics — Vorlesung mit Übung
-
-- **Segment:** `unit:104792` · **unitId:** `104792`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104792&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
 
 ### Buchführung — Online-Kurs
 
@@ -1923,15 +1792,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Di | 09:00–18:00 | 19.05.2026 | — |
 | Einzeltermin | Do | 09:30–12:30 | 11.06.2026 | — |
 
-### Business Strategy — Vorlesung mit Übung
-
-- **Segment:** `unit:90338` · **unitId:** `90338`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90338&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Business strategy (written examination)
 
 - **Segment:** `unit:27368` · **unitId:** `27368`
@@ -1971,15 +1831,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 21101.01.114 (LG H3 GfK-Hörsaal (155 Plätze) &quot;Gesellschaft für Konsumforschung&quot;) |
 
-### Businessplanseminar (Bachelor)
-
-- **Segment:** `unit:90633` · **unitId:** `90633`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90633&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nicht in diesem Semester
-
 ### BWL für Ingenieure
 
 - **Segment:** `unit:20297` · **unitId:** `20297`
@@ -1993,14 +1844,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mi | Mi | 08:00–09:00 | — | — |
-
-### BWL für Ingenieure I — Vorlesung
-
-- **Segment:** `unit:82996` · **unitId:** `82996`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82996&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
 
 ### BWL für Ingenieure II — Vorlesung mit Übung
 
@@ -2039,15 +1882,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### Case Study Training im strategischen Management — Seminar
-
-- **Segment:** `unit:83151` · **unitId:** `83151`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83151&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
 
 ### Change management (Klausur)
 
@@ -2247,24 +2081,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Mi | 11:30–13:00 | 22.04.2026–15.07.2026 | 21101.00.142 (LG 0.142 (98 Plätze) Übungsraum) |
 | Einzeltermin | Mi | 11:30–13:00 | 10.06.2026 | 21101.03.153 (LG 3.152/3 (62 Plätze) Seminarraum) |
 
-### Chinesisch: Elementarkurs 3 — Übung
-
-- **Segment:** `unit:88749` · **unitId:** `88749`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88749&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
-
-### Climate Policy — Seminar
-
-- **Segment:** `unit:117594` · **unitId:** `117594`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117594&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
-
 ### Combinatorial optimization
 
 - **Segment:** `unit:46956` · **unitId:** `46956`
@@ -2301,15 +2117,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### Communications Systems Design — Vorlesung
-
-- **Segment:** `unit:84287` · **unitId:** `84287`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84287&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
 
 ### Computational Dynamics
 
@@ -2413,15 +2220,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Controlling of Business Systems — Vorlesung mit Übung
-
-- **Segment:** `unit:96608` · **unitId:** `96608`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96608&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Controlling of business systems (Klausur)
 
 - **Segment:** `unit:27494` · **unitId:** `27494`
@@ -2463,32 +2261,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mi | Mi | 14:00–15:30 | — | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
-
-### Cooling of Power Electronics — Vorlesung
-
-- **Segment:** `unit:119625` · **unitId:** `119625`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119625&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
-### Cooling of Power Electronics - Exercise — Übung
-
-- **Segment:** `unit:119626` · **unitId:** `119626`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119626&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Corporate Finance — Vorlesung
-
-- **Segment:** `unit:100532` · **unitId:** `100532`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100532&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Corporate finance (Klausur)
 
@@ -2535,15 +2307,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Mo | 13:15–14:45 | 13.04.2026–13.07.2026 | 21102.01.421 (LG H6 BISSANTZ-Hörsaal (240 Plätze)) |
 | Einzeltermin | Di | 15:00–16:30 | 23.06.2026 | 21102.01.421 (LG H6 BISSANTZ-Hörsaal (240 Plätze)) |
 | Einzeltermin | Mo | 15:00–16:30 | 06.07.2026 | 21101.00.225 (LG 0.225 (44 Plätze) Übungsraum) |
-
-### Creativity Approaches for Sustainability — Seminar
-
-- **Segment:** `unit:119938` · **unitId:** `119938`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119938&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
 
 ### Current Issues in Sustainability Management — Seminar
 
@@ -2824,15 +2587,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 13:15–14:45 | 14.04.2026–19.05.2026 | 21102.01.420 (LG H5 TeamBank-Hörsaal (384 Plätze)) |
 
-### Data Science: Machine Learning & Data Driven Business — Vorlesung mit Übung
-
-- **Segment:** `unit:89178` · **unitId:** `89178`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89178&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Data Science: Machine Learning und Data Driven Business (Klausur)
 
 - **Segment:** `unit:71969` · **unitId:** `71969`
@@ -2861,15 +2615,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mi | Mi | 11:00–12:00 | — | 21101.01.113 (LG H2 Hörsaal (155 Plätze)) |
 
-### Data Science: Statistik — Vorlesung
-
-- **Segment:** `unit:93183` · **unitId:** `93183`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93183&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
 ### Data Science: Statistik (Klausur)
 
 - **Segment:** `unit:71962` · **unitId:** `71962`
@@ -2883,24 +2628,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Di | Di | 14:00–15:00 | — | — |
-
-### Data Science: Statistik, R-Tutorium
-
-- **Segment:** `unit:85339` · **unitId:** `85339`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85339&periodId=589>
-
-- **Veranstaltungsart:** Tutorium
-- **ECTS-Punkte:** 0.0
-- **Turnus:** in jedem Semester
-
-### Data Science: Statistik, R-Übung
-
-- **Segment:** `unit:82720` · **unitId:** `82720`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82720&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 1.25
-- **Turnus:** nur im Wintersemester
 
 ### Data Science: Statistik, Übung
 
@@ -3110,15 +2837,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Wintersemester
 
-### Design Thinking and Product Design — Seminar
-
-- **Segment:** `unit:104352` · **unitId:** `104352`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104352&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nicht in diesem Semester
-
 ### Designing Gamified Systems — Vorlesung mit Übung
 
 - **Segment:** `unit:89557` · **unitId:** `89557`
@@ -3132,15 +2850,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:88043` · **unitId:** `88043`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88043&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Designing Technology — Vorlesung mit Übung
-
-- **Segment:** `unit:85539` · **unitId:** `85539`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85539&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
@@ -3232,7 +2941,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 3.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 11:30–13:00 | 16.04.2026 | 21101.00.142 (LG 0.142 (98 Plätze) Übungsraum) |
+| Einzeltermin | Di | 11:30–13:00 | 14.07.2026 | 21101.01.112 (LG H1 (446 Plätze) Hörsaal) |
 
 ### Dienstleistungsmarketing Übung (Bachelor)
 
@@ -3319,15 +3036,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Digital and Sustainable Industrial Ecosystems — Seminar
-
-- **Segment:** `unit:128613` · **unitId:** `128613`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128613&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
 ### Digital Change Management — Vorlesung
 
 - **Segment:** `unit:83401` · **unitId:** `83401`
@@ -3388,24 +3096,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Do | Do | 11:00–12:30 | — | 11901.00.222 (H7 Hörsaal 7) |
 
-### Digital Communications — Vorlesung
-
-- **Segment:** `unit:84031` · **unitId:** `84031`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84031&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Digital Innovation & Business Planning — Seminar
-
-- **Segment:** `unit:107512` · **unitId:** `107512`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107512&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Digital Innovation (Hausarbeit)
 
 - **Segment:** `unit:120476` · **unitId:** `120476`
@@ -3429,24 +3119,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
-
-### Digital Signal Processing — Vorlesung
-
-- **Segment:** `unit:83669` · **unitId:** `83669`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83669&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Digital Transformation in the Energy and Mobility Sector — Vorlesung mit Übung
-
-- **Segment:** `unit:106260` · **unitId:** `106260`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106260&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Digital Transformation in the Energy and Mobility Sector (Written examination)
 
@@ -3505,15 +3177,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Fr | Fr | 11:00–12:00 | — | 21101.01.112 (LG H1 (446 Plätze) Hörsaal) |
-
-### Digitale Industrie - Industrielle Plattformen und KI, Industrial Metaverse und Industrie 5.0 — Vorlesung
-
-- **Segment:** `unit:120912` · **unitId:** `120912`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120912&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Digitale Regelung
 
@@ -3627,24 +3290,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Di | Di | 14:00–15:30 | — | 11901.00.236 (K1-119 Brose-Saal) |
-
-### Digitaltechnik — Vorlesung
-
-- **Segment:** `unit:84396` · **unitId:** `84396`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84396&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
-### Drahtlose Automobilelektronik — Vorlesung
-
-- **Segment:** `unit:87997` · **unitId:** `87997`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87997&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** Unregelmäßig
 
 ### Dynamical Systems and Control — Vorlesung mit Übung
 
@@ -3847,24 +3492,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Fr | Fr | 14:00–15:30 | — | 11901.00.226 (H8 Hörsaal 8) |
 
-### Effizienz im Fabrikbetrieb und operative Exzellenz — Vorlesung
-
-- **Segment:** `unit:83114` · **unitId:** `83114`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83114&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
-### Effizienz im Fabrikbetrieb und operative Exzellenz - Übung
-
-- **Segment:** `unit:83624` · **unitId:** `83624`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83624&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
 ### Einführung in das Nachhaltigkeitsmanagement — Übung
 
 - **Segment:** `unit:83709` · **unitId:** `83709`
@@ -3896,15 +3523,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 15:00–16:30 | 13.04.2026–13.07.2026 | 21101.01.112 (LG H1 (446 Plätze) Hörsaal) 21102.01.421 (LG H6 BISSANTZ-Hörsaal (240 Plätze)) |
-
-### Einführung in das Nachhaltigkeitsmanagement — Vorlesung
-
-- **Segment:** `unit:85062` · **unitId:** `85062`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85062&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
 
 ### Einführung in das Online-Marketing  (Klausur)
 
@@ -4011,23 +3629,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mi | Mi | 14:00–15:30 | — | 11901.00.236 (K1-119 Brose-Saal) |
-
-### Einführung in die Regelungstechnik — Vorlesung mit Übung
-
-- **Segment:** `unit:83321` · **unitId:** `83321`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83321&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Einführung in die Regelungstechnik - Übungen
-
-- **Segment:** `unit:87774` · **unitId:** `87774`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87774&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
 
 ### Einführung in die unternehmerische Zukunftsforschung — Vorlesung
 
@@ -4163,15 +3764,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | 09:30–11:00 | — | — |
 
-### Elektrifizierung von Fahrzeugen und Flugzeugen — Vorlesung mit Übung
-
-- **Segment:** `unit:86257` · **unitId:** `86257`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86257&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Elektrische Antriebstechnik I
 
 - **Segment:** `unit:26435` · **unitId:** `26435`
@@ -4215,15 +3807,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | 14:00–15:30 | — | 11901.00.240 (H10 Hörsaal 10) |
-
-### Elektrische Antriebstechnik II — Vorlesung
-
-- **Segment:** `unit:85226` · **unitId:** `85226`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85226&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Elektrische Bahnen
 
@@ -4322,15 +3905,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Fr | Fr | 08:00–09:30 | — | 11901.00.240 (H10 Hörsaal 10) |
 
-### Elektrische Kleinmaschinen — Vorlesung
-
-- **Segment:** `unit:84026` · **unitId:** `84026`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84026&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Elektrische Maschinen I
 
 - **Segment:** `unit:26437` · **unitId:** `26437`
@@ -4344,15 +3918,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Fr | Fr | 14:00–15:30 | — | 12801.01.220 (H12 Emmy-Noether-Hörsaal) |
-
-### Elektrische Maschinen I — Vorlesung
-
-- **Segment:** `unit:84478` · **unitId:** `84478`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84478&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Elektrische Maschinen II
 
@@ -4505,15 +4070,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | 16:00–17:30 | — | 21101.01.112 (LG H1 (446 Plätze) Hörsaal) |
 
-### Empirical Environmental Economics — Vorlesung
-
-- **Segment:** `unit:96448` · **unitId:** `96448`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96448&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### EMV-Messtechnik — Vorlesung
 
 - **Segment:** `unit:122787` · **unitId:** `122787`
@@ -4566,23 +4122,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Do | Do | 15:00–16:30 | — | 21101.01.114 (LG H3 GfK-Hörsaal (155 Plätze) &quot;Gesellschaft für Konsumforschung&quot;) |
-
-### Energiewirtschaft und Nachhaltigkeit — Vorlesung mit Übung
-
-- **Segment:** `unit:96510` · **unitId:** `96510`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96510&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Energiewirtschaft und Nachhaltigkeit Übung
-
-- **Segment:** `unit:84544` · **unitId:** `84544`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84544&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** in jedem Semester
 
 ### Energieökonomisches Seminar
 
@@ -4640,23 +4179,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### Energy Policy Instruments — Seminar
-
-- **Segment:** `unit:117840` · **unitId:** `117840`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117840&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Energy Security — Vorlesung mit Übung
-
-- **Segment:** `unit:123374` · **unitId:** `123374`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123374&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Turnus:** nur im Wintersemester
 
 ### Energy Security (Oral examination)
 
@@ -5001,14 +4523,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 11501.04.019 (04.019 Seminarraum) |
 | wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | 11501.04.019 (04.019 Seminarraum) |
-
-### Ergänzungen und Übungen zu Nachrichtentechnische Systeme - Übertragungstechnik
-
-- **Segment:** `unit:82236` · **unitId:** `82236`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82236&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
 
 ### Español económico
 
@@ -5534,15 +5048,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Mi | 08:00–18:00 | 29.04.2026 | 20201.03.210 (Hörsaal / Lecture Hall) |
 | Einzeltermin | Do | 08:00–18:00 | 18.06.2026 | 21102.02.429 ((27 Plätze – nicht für studentische Veranstaltungen)) |
 
-### Finanz- & Bankmanagement (MA) — Vorlesung
-
-- **Segment:** `unit:89278` · **unitId:** `89278`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89278&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Finanz- und Bankmanagement (Klausur)
 
 - **Segment:** `unit:27562` · **unitId:** `27562`
@@ -5578,7 +5083,17 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 09:45–11:15 | 15.04.2026–15.07.2026 | 21102.05.452 ((14 Plätze)) |
+| wöchentlich | Mi | 15:00–16:30 | 15.04.2026–15.07.2026 | 21101.05.153 (LG 5.153 (24 Plätze) Seminarraum) |
+| Einzeltermin | Mi | 10:00–11:15 | 29.04.2026 | 21102.05.430 ((16 Plätze)) |
+| Einzeltermin | Mi | 10:00–11:15 | 03.06.2026 | 21102.05.430 ((16 Plätze)) |
 
 ### Forschungsseminar (Hausarbeit)
 
@@ -5816,7 +5331,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 09:45–11:15 | 20.04.2026–13.07.2026 | 21102.02.431 (LG 2.431 Multimediasprachlabor) |
+| wöchentlich | Mo | 11:30–13:00 | 20.04.2026–13.07.2026 | 21102.02.431 (LG 2.431 Multimediasprachlabor) |
 
 ### Französisch: Elementarkurs 3 — Übung
 
@@ -5999,15 +5522,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Fr | Fr | 14:00–15:00 | — | 11501.04.023 (04.023 Hörsaal) |
 
-### Game Theory — Vorlesung
-
-- **Segment:** `unit:82638` · **unitId:** `82638`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82638&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Game theory (written examination)
 
 - **Segment:** `unit:43812` · **unitId:** `43812`
@@ -6021,23 +5535,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Fr | Fr | 11:00–12:30 | — | 21101.00.141 (LG 0.141 (48 Plätze) Übungsraum) |
-
-### Game Theory Übung
-
-- **Segment:** `unit:90090` · **unitId:** `90090`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90090&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Geometric beam theory — Vorlesung mit Übung
-
-- **Segment:** `unit:84410` · **unitId:** `84410`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84410&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Geometric Numerical Integration — Vorlesung mit Übung
 
@@ -6068,7 +5565,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| Mo | Mo | 10:00–14:00 | — | — |
 
 ### Geometric Numerical Integration
 
@@ -6181,15 +5678,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | 14:00–16:00 | — | 11901.00.240 (H10 Hörsaal 10) |
 
-### Gießereitechnik 2 — Vorlesung
-
-- **Segment:** `unit:84458` · **unitId:** `84458`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84458&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
-
 ### Global governance (written examination)
 
 - **Segment:** `unit:51916` · **unitId:** `51916`
@@ -6300,39 +5788,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### Globale Navigationssatellitensysteme — Vorlesung
-
-- **Segment:** `unit:83197` · **unitId:** `83197`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83197&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### GM A - Evaluationen — Vorlesung mit Übung
-
-- **Segment:** `unit:96360` · **unitId:** `96360`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96360&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Turnus:** nur im Wintersemester
-
-### GM A - Kostenträger und Arzneimittel — Vorlesung mit Übung
-
-- **Segment:** `unit:83091` · **unitId:** `83091`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83091&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Turnus:** nur im Wintersemester
-
-### GM A - Kostenträger, Arzneimittel und Evaluationen — Vorlesung mit Übung
-
-- **Segment:** `unit:139098` · **unitId:** `139098`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139098&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Turnus:** nur im Wintersemester
 
 ### GM B - Krankenhaus und ambulante Versorgung — Vorlesung mit Übung
 
@@ -6457,15 +5912,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mi | Mi | 11:00–12:00 | — | 11901.00.240 (H10 Hörsaal 10) |
-
-### Grundlagen der Elektrischen Maschinen — Vorlesung mit Übung
-
-- **Segment:** `unit:89676` · **unitId:** `89676`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89676&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
 
 ### Grundlagen der Elektrotechnik — Vorlesung
 
@@ -6700,14 +6146,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-### Grundlagen der Messtechnik - Übung
-
-- **Segment:** `unit:82219` · **unitId:** `82219`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82219&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
 
 ### Grundlagen der Messtechnik und Angewandte Statistik
 
@@ -6984,15 +6422,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | 11:00–12:30 | — | 11901.00.222 (H7 Hörsaal 7) |
 
-### Halbleiterbauelemente — Vorlesung
-
-- **Segment:** `unit:82469` · **unitId:** `82469`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82469&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Halbleitertechnik I - Bipolartechnik — Vorlesung
 
 - **Segment:** `unit:85900` · **unitId:** `85900`
@@ -7023,15 +6452,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mi | Mi | 14:00–15:30 | — | 11901.00.236 (K1-119 Brose-Saal) |
 
-### Halbleitertechnik II - CMOS-Technik — Vorlesung
-
-- **Segment:** `unit:83486` · **unitId:** `83486`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83486&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Halbleitertechnik II - CMOS-Technik (HL II)
 
 - **Segment:** `unit:78815` · **unitId:** `78815`
@@ -7059,15 +6479,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mi | Mi | 11:00–12:30 | — | 11901.00.240 (H10 Hörsaal 10) |
-
-### Halbleitertechnik III  Leistungshalbleiterbauelemente — Vorlesung
-
-- **Segment:** `unit:82243` · **unitId:** `82243`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82243&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Halbleitertechnik V - Halbleiter- und Bauelementemesstechnik — Vorlesung
 
@@ -7113,24 +6524,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Halbleitertechnik VI  Flexible Elektronik — Vorlesung
-
-- **Segment:** `unit:88843` · **unitId:** `88843`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88843&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
-### Halbleitertechnologie I - Technologie integrierter Schaltungen — Vorlesung
-
-- **Segment:** `unit:82370` · **unitId:** `82370`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82370&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Halbleitertechnologie I - Technologie integrierter Schaltungen (HLT I)
 
 - **Segment:** `unit:78831` · **unitId:** `78831`
@@ -7144,15 +6537,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Do | Do | 08:00–09:30 | — | 11901.00.240 (H10 Hörsaal 10) |
-
-### Halbleitertechnologie II - Prozess- und Bauelemente-Simulation — Vorlesung
-
-- **Segment:** `unit:100563` · **unitId:** `100563`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100563&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
 
 ### Handhabungs- und Montagetechnik
 
@@ -7183,15 +6567,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | 11901.00.226 (H8 Hörsaal 8) |
-
-### Hardware-Beschreibungssprache VHDL — Vorlesung mit Übung
-
-- **Segment:** `unit:82223` · **unitId:** `82223`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82223&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** in jedem Semester
 
 ### Hauptseminar Fertigungsautomatisierung und Produktionssystematik
 
@@ -7244,15 +6619,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 10:00–12:00 | 02.04.2026–16.07.2026 | 11001.00.036 (SR LFT Seminarraum Lehrstuhl f. Fertigungstechnologie) |
-
-### Hauptseminar Finance
-
-- **Segment:** `unit:98353` · **unitId:** `98353`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98353&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Hauptseminar Konstruktion
 
@@ -7362,21 +6728,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mi | 08:15–09:45 | 15.04.2026–15.07.2026 | 11002.01.025 (01.025 Konferenzraum, Immerwahrstr. 1, 91058 Erlangen) |
 
-### Hauptseminar Technische Mechanik
-
-- **Segment:** `unit:83832` · **unitId:** `83832`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83832&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** in jedem Semester
-
 ### Hauptseminar zu Projekt- und Masterarbeiten am LS für Ressourcen- und Energieeffiziente Produkionsmaschinen
 
 - **Segment:** `unit:134676` · **unitId:** `134676`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134676&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wird noch angekündigt | — | — | — | — |
 
 ### Hauptseminar zur Bachelorarbeit am LKM
 
@@ -7543,23 +6908,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 08:30–11:30 | 15.04.2026–08.07.2026 | 11501.05.222 (HF-Technik: SR 05.222 Seminarraum (alt 5.14)) |
-
-### Hochleistungslaser für die Materialbearbeitung: Bauweisen, Grundlagen der Strahlführung und -formung, Anwendungen — Vorlesung
-
-- **Segment:** `unit:83058` · **unitId:** `83058`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83058&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
-
-### Hochleistungsstromrichter für die EEV — Vorlesung
-
-- **Segment:** `unit:85538` · **unitId:** `85538`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85538&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Hochleistungsstromrichter für die Elektrische Energieversorgung
 
@@ -7852,15 +7200,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
-### Impact Entrepreneurship in Theorie und Praxis mit Live Case Study — Seminar
-
-- **Segment:** `unit:86894` · **unitId:** `86894`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86894&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
 ### Implementierung von Datenbanksystemen
 
 - **Segment:** `unit:21163` · **unitId:** `21163`
@@ -8088,15 +7427,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mi | Mi | 08:00–09:30 | — | — |
 
-### Innovation and Leadership — Vorlesung mit Übung
-
-- **Segment:** `unit:83328` · **unitId:** `83328`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83328&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Innovation Design — Vorlesung
 
 - **Segment:** `unit:84173` · **unitId:** `84173`
@@ -8223,15 +7553,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Fr | 09:00–17:00 | 29.05.2026 | 20301.02.047 (2.047 Seminarraum (40)) |
 | Einzeltermin | Sa | 09:00–17:00 | 30.05.2026 | 20301.02.047 (2.047 Seminarraum (40)) |
 
-### Innovation Technology I — Vorlesung mit Übung
-
-- **Segment:** `unit:92668` · **unitId:** `92668`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92668&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
 ### Innovation technology I (Präsentation)
 
 - **Segment:** `unit:74821` · **unitId:** `74821`
@@ -8307,14 +7628,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | 08:00–10:00 | — | 11901.00.226 (H8 Hörsaal 8) |
 
-### Integrierte Produktentwicklung — Vorlesung mit Übung
-
-- **Segment:** `unit:82361` · **unitId:** `82361`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82361&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Turnus:** nur im Wintersemester
-
 ### Integrierte Schaltungen für Funkanwendungen
 
 - **Segment:** `unit:26388` · **unitId:** `26388`
@@ -8328,15 +7641,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Do | Do | 14:00–15:30 | — | 12801.01.220 (H12 Emmy-Noether-Hörsaal) |
-
-### Integrierte Schaltungen für Funkanwendungen — Vorlesung
-
-- **Segment:** `unit:83559` · **unitId:** `83559`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83559&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Intent Detection and Feedback
 
@@ -8639,14 +7943,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mi | Mi | 13:30–14:30 | — | — |
 
-### Introduction to Sustainable Technology Management — Seminar
-
-- **Segment:** `unit:99454` · **unitId:** `99454`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99454&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** Unregelmäßig
-
 ### Introduction to the Finite Element Method — Vorlesung
 
 - **Segment:** `unit:85985` · **unitId:** `85985`
@@ -8739,15 +8035,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | 08:15–09:15 | — | 21101.01.213 (LG H4 (814 Plätze) Hörsaal) |
-
-### IT und E-Business — Vorlesung
-
-- **Segment:** `unit:86655` · **unitId:** `86655`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86655&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### IT-gestützte Prozessautomatisierung (Seminararbeit und Präsentation)
 
@@ -8866,15 +8153,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Di | Di | 15:00–16:30 | — | — |
 
-### Juristische Methodenlehre im Steuerrecht — Vorlesung
-
-- **Segment:** `unit:92731` · **unitId:** `92731`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92731&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
 ### Kanalcodierung
 
 - **Segment:** `unit:26389` · **unitId:** `26389`
@@ -8902,15 +8180,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Fr | Fr | 11:00–12:00 | — | 21101.01.112 (LG H1 (446 Plätze) Hörsaal) |
-
-### Kapitalmarktorientierte Unternehmenssteuerung (MA) — Vorlesung
-
-- **Segment:** `unit:97414` · **unitId:** `97414`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97414&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Kapitalmarktorientierte Unternehmenssteuerung Übung
 
@@ -8986,24 +8255,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Mo | 15:00–18:00 | 22.06.2026 | 11001.00.036 (SR LFT Seminarraum Lehrstuhl f. Fertigungstechnologie) |
 | Einzeltermin | Mo | 15:00–18:00 | 13.07.2026 | 11001.00.036 (SR LFT Seminarraum Lehrstuhl f. Fertigungstechnologie) |
 
-### Karosseriebau 2 - Kalt- und Warmumformung — Vorlesung
-
-- **Segment:** `unit:86974` · **unitId:** `86974`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86974&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
-### KI in der Produktionstechnik — Vorlesung
-
-- **Segment:** `unit:138887` · **unitId:** `138887`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138887&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
 ### Klausur zum Nachweis Gesicherter Lateinkenntnisse
 
 - **Segment:** `unit:39849` · **unitId:** `39849`
@@ -9032,15 +8283,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Di | Di | 14:30–15:30 | — | — |
 
-### Klima- und Ressourcenökonomik — Vorlesung
-
-- **Segment:** `unit:105217` · **unitId:** `105217`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=105217&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 3.0
-- **Turnus:** nur im Sommersemester
-
 ### Klima- und Ressourcenökonomik (Klausur)
 
 - **Segment:** `unit:74750` · **unitId:** `74750`
@@ -9054,13 +8296,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | 16:00–17:30 | — | 21101.01.112 (LG H1 (446 Plätze) Hörsaal) |
-
-### Klima- und Ressourcenökonomik - Übung
-
-- **Segment:** `unit:111696` · **unitId:** `111696`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111696&periodId=589>
-
-- **Veranstaltungsart:** Übung
 
 ### Kommunikation in Technik-Wissenschaften
 
@@ -9148,15 +8383,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mi | Mi | 14:00–15:30 | — | 12801.01.220 (H12 Emmy-Noether-Hörsaal) |
 
-### Kommunikationsstrukturen — Vorlesung
-
-- **Segment:** `unit:82232` · **unitId:** `82232`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82232&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Konstruieren mit Kunststoffen
 
 - **Segment:** `unit:28018` · **unitId:** `28018`
@@ -9193,15 +8419,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### Konstruktionsübung I — Praktikum
-
-- **Segment:** `unit:84359` · **unitId:** `84359`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84359&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Konstruktionsübung II — Praktikum
 
@@ -9290,15 +8507,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Konzeptionelle Modellierung — Vorlesung
-
-- **Segment:** `unit:82414` · **unitId:** `82414`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82414&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
 ### Konzernrechnungslegung (Klausur)
 
 - **Segment:** `unit:54343` · **unitId:** `54343`
@@ -9344,23 +8552,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | 14:00–15:00 | — | — |
 
-### Kostenrechnung und Controlling Tutorium
-
-- **Segment:** `unit:94742` · **unitId:** `94742`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94742&periodId=589>
-
-- **Veranstaltungsart:** Tutorium
-- **Turnus:** nur im Wintersemester
-
-### Kostenrechnung und Controlling Übung
-
-- **Segment:** `unit:83103` · **unitId:** `83103`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83103&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
 ### Kostenträger I: Gesetzliche Krankenversicherung (Klausur)
 
 - **Segment:** `unit:43721` · **unitId:** `43721`
@@ -9388,15 +8579,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Do | Do | 10:00–11:00 | — | 21101.00.222 (LG 0.222/3 (94 Plätze) Übungsraum) |
-
-### Kundenmanagement (Customer Relationship Management) (Master) — Vorlesung mit Übung
-
-- **Segment:** `unit:85223` · **unitId:** `85223`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85223&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Kunststoff-Eigenschaften und -Verarbeitung
 
@@ -9755,15 +8937,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Do | 14:00–18:00 | 23.04.2026–16.07.2026 | 11501.06.021 (06.021 Labor- und Praktikumsraum) |
 
-### Laborpraktikum Digitale Signalverarbeitung
-
-- **Segment:** `unit:85034` · **unitId:** `85034`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85034&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
 ### Laborpraktikum Digitaler ASIC-Entwurf
 
 - **Segment:** `unit:26285` · **unitId:** `26285`
@@ -9876,15 +9049,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
-### Laser Technology — Vorlesung
-
-- **Segment:** `unit:82591` · **unitId:** `82591`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82591&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
 ### Laser-based Additive Manufacturing of Metals
@@ -10023,14 +9187,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
 | wöchentlich | Mi | 16:00–18:00 | 15.04.2026–15.07.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
 
-### Latein II für Fortgeschrittene - Intensivkurs (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
-
-- **Segment:** `unit:89729` · **unitId:** `89729`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89729&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** Unregelmäßig
-
 ### Lebensversicherung (Klausur)
 
 - **Segment:** `unit:27652` · **unitId:** `27652`
@@ -10099,23 +9255,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mi | Mi | 08:00–09:30 | — | — |
 
-### Leistungselektronik — Vorlesung
-
-- **Segment:** `unit:83520` · **unitId:** `83520`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83520&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Leistungselektronik Tutorium
-
-- **Segment:** `unit:84434` · **unitId:** `84434`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84434&periodId=589>
-
-- **Veranstaltungsart:** Tutorium
-- **Turnus:** nur im Wintersemester
-
 ### Linear optimization
 
 - **Segment:** `unit:46955` · **unitId:** `46955`
@@ -10157,14 +9296,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Di | Di | 14:00–15:30 | — | 11901.00.222 (H7 Hörsaal 7) |
-
-### Lineare Kontinuumsmechanik / Linear Continuum Mechanics — Vorlesung
-
-- **Segment:** `unit:82940` · **unitId:** `82940`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82940&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
 
 ### Logistik Consulting — Vorlesung
 
@@ -10336,15 +9467,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Machine Learning in Communications — Vorlesung
-
-- **Segment:** `unit:82609` · **unitId:** `82609`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82609&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Machine Learning in Signal Processing
 
 - **Segment:** `unit:45543` · **unitId:** `45543`
@@ -10358,13 +9480,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Do | Do | 11:00–12:30 | — | — |
-
-### Making Car Data Available — Seminar
-
-- **Segment:** `unit:125579` · **unitId:** `125579`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125579&periodId=589>
-
-- **Veranstaltungsart:** Seminar
 
 ### Makroökonomie — Vorlesung
 
@@ -10395,15 +9510,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Do | Do | 14:00–15:30 | — | 05801.U1.060 ( Audimax Auditorium Maximum) |
-
-### Management von Industrie 4.0 — Vorlesung
-
-- **Segment:** `unit:90628` · **unitId:** `90628`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90628&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nicht in diesem Semester
 
 ### Management von Industrie 4.0  (Klausur)
 
@@ -10469,15 +9575,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Fr | 09:45–13:00 | 12.06.2026 | 21102.01.420 (LG H5 TeamBank-Hörsaal (384 Plätze)) |
 | Einzeltermin | Fr | 09:45–13:00 | 03.07.2026 | 21102.01.420 (LG H5 TeamBank-Hörsaal (384 Plätze)) |
 
-### Managing Global Projects & Managing Information Technology — Masterseminar
-
-- **Segment:** `unit:82379` · **unitId:** `82379`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82379&periodId=589>
-
-- **Veranstaltungsart:** Masterseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Managing projects successfully (written examination)
 
 - **Segment:** `unit:72138` · **unitId:** `72138`
@@ -10509,13 +9606,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Sommersemester
-
-### Marketing — Vorlesung
-
-- **Segment:** `unit:109117` · **unitId:** `109117`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=109117&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
 
 ### Marketing (Klausur)
 
@@ -10632,13 +9722,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 15:00–16:30 | 13.04.2026–13.07.2026 | 21101.01.114 (LG H3 GfK-Hörsaal (155 Plätze) &quot;Gesellschaft für Konsumforschung&quot;) |
 
-### Marketing Tutorium
-
-- **Segment:** `unit:109121` · **unitId:** `109121`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=109121&periodId=589>
-
-- **Veranstaltungsart:** Tutorium
-
 ### Marketingseminar
 
 - **Segment:** `unit:27345` · **unitId:** `27345`
@@ -10742,15 +9825,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Di | Di | 11:30–12:30 | — | 21101.01.112 (LG H1 (446 Plätze) Hörsaal) |
 
-### Marketingtheorie (Master) — Vorlesung
-
-- **Segment:** `unit:87669` · **unitId:** `87669`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87669&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Markt und Netze - Systemlösungen für die Energiewende — Vorlesung
 
 - **Segment:** `unit:84036` · **unitId:** `84036`
@@ -10801,15 +9875,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
-### Maschinelles Lernen in der Signalverarbeitung — Vorlesung
-
-- **Segment:** `unit:83746` · **unitId:** `83746`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83746&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
 ### Maschinelles Lernen und Künstliche Intelligenz im Ingenieurwesen
@@ -11125,15 +10190,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Fr | Fr | 14:00–16:00 | — | 11901.00.240 (H10 Hörsaal 10) |
 
-### Maßgeschneiderte Prozesstechnologien — Vorlesung
-
-- **Segment:** `unit:82278` · **unitId:** `82278`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82278&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
 ### Mechatronic components and systems — Vorlesung
 
 - **Segment:** `unit:83524` · **unitId:** `83524`
@@ -11311,15 +10367,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Medizintechnische Anwendungen der Hochfrequenztechnik — Vorlesung
-
-- **Segment:** `unit:82634` · **unitId:** `82634`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82634&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Medizintechnische Anwendungen der Hochfrequenztechnik Übung
 
 - **Segment:** `unit:84274` · **unitId:** `84274`
@@ -11386,13 +10433,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Einzeltermin | Fr | 09:00–18:00 | 19.06.2026 | 21102.00.421 (CIP-Pool 2 (RRZE-IZN)) |
 | Einzeltermin | Sa | 09:00–17:00 | 20.06.2026 | 21102.00.421 (CIP-Pool 2 (RRZE-IZN)) |
-
-### Methoden der Wirtschafts- und Organisationspsychologie — Seminar
-
-- **Segment:** `unit:119006` · **unitId:** `119006`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119006&periodId=589>
-
-- **Veranstaltungsart:** Seminar
 
 ### Methoden der Wirtschafts- und Organisationspsychologie (Klausur)
 
@@ -11511,15 +10551,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Di | Di | 14:00–16:00 | — | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
 
-### MHI Industrie 4.0 für Ingenieure — Vorlesung
-
-- **Segment:** `unit:88634` · **unitId:** `88634`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88634&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nicht in diesem Semester
-
 ### Mikromechanik
 
 - **Segment:** `unit:38876` · **unitId:** `38876`
@@ -11533,14 +10564,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### Mikromechanik — Vorlesung
-
-- **Segment:** `unit:85276` · **unitId:** `85276`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85276&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
 
 ### Mikrostrukturierte Komponenten für HF Systeme
 
@@ -11666,31 +10689,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Do | 13:15–14:45 | 23.04.2026–16.07.2026 | 21101.00.224 (LG 0.224 (98 Plätze) Übungsraum) |
 | Einzeltermin | Di | 13:15–14:45 | 09.06.2026 | 21101.01.113 (LG H2 Hörsaal (155 Plätze)) |
 
-### Mikroökonomie Übung
-
-- **Segment:** `unit:86023` · **unitId:** `86023`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86023&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 13:15–14:45 | 20.04.2026–13.07.2026 | 21101.01.112 (LG H1 (446 Plätze) Hörsaal) |
-| wöchentlich | Di | 15:00–16:30 | 21.04.2026–14.07.2026 | 21101.01.112 (LG H1 (446 Plätze) Hörsaal) |
-| wöchentlich | Mi | 11:30–13:00 | 22.04.2026–15.07.2026 | 21101.01.213 (LG H4 (814 Plätze) Hörsaal) |
-
-### Mikroökonomik Übung
-
-- **Segment:** `unit:86061` · **unitId:** `86061`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86061&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
 ### MIMO Communication Systems
 
 - **Segment:** `unit:26391` · **unitId:** `26391`
@@ -11797,15 +10795,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | 11:00–12:30 | — | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
 
-### Modeling of Control Systems — Vorlesung mit Übung
-
-- **Segment:** `unit:86889` · **unitId:** `86889`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86889&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Modellierung und Simulation von Schaltungen und Systemen
 
 - **Segment:** `unit:34200` · **unitId:** `34200`
@@ -11819,15 +10808,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### Modellierung und Simulation von Schaltungen und Systemen Übung
-
-- **Segment:** `unit:82332` · **unitId:** `82332`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82332&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
 
 ### Modelling and Synthesis of Digital Systems — Vorlesung
 
@@ -11880,24 +10860,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Molecular Communications — Vorlesung
-
-- **Segment:** `unit:87901` · **unitId:** `87901`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87901&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Multifunktional und effizient - Werkstoffkombination durch Spritzgießen mit Kunststoffen — Vorlesung
-
-- **Segment:** `unit:92040` · **unitId:** `92040`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92040&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
 ### Multiphysics Systems and Components
 
 - **Segment:** `unit:70600` · **unitId:** `70600`
@@ -11943,15 +10905,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Multiuser Information and Communications Theory — Vorlesung
-
-- **Segment:** `unit:84083` · **unitId:** `84083`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84083&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Music Processing - Synthesis
 
 - **Segment:** `unit:43036` · **unitId:** `43036`
@@ -11965,23 +10918,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | 10:00–10:30 | — | — |
-
-### Music Processing Analysis — Vorlesung
-
-- **Segment:** `unit:83783` · **unitId:** `83783`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83783&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
-### Musikverarbeitung - Synthese — Vorlesung
-
-- **Segment:** `unit:82793` · **unitId:** `82793`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82793&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
 
 ### Nachhaltige Produktion
 
@@ -12064,14 +11000,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Do | Do | 08:00–10:00 | — | 11907.01.030 (H19) |
 
-### Nachrichtentechnische Systeme - Übertragungstechnik — Vorlesung
-
-- **Segment:** `unit:85129` · **unitId:** `85129`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85129&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
-
 ### NaPe: Nachhaltige Produktentwicklung - Ringvorlesung der Wissenschaftlichen Gesellschaft für Produktentwicklung (WiGeP) — Online-Kurs
 
 - **Segment:** `unit:126632` · **unitId:** `126632`
@@ -12133,14 +11061,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Di | Di | 14:00–15:00 | — | 10601.00.044 (SR TM Seminarraum Technische Mechanik, Raum-Nr. 00.044 (Technische Fakultät, Campus Süd)) |
 
-### Nichtlineare Finite Elemente / Nonlinear Finite Elements — Vorlesung
-
-- **Segment:** `unit:83037` · **unitId:** `83037`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83037&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
-
 ### Nichtlineare Kontinuumsmechanik / Nonlinear Continuum Mechanics
 
 - **Segment:** `unit:22486` · **unitId:** `22486`
@@ -12199,13 +11119,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | 11501.01.104 (H5 Hörsaal 5) |
 | wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 11501.01.105 (H6 Hörsaal 6) |
-
-### Nonlinear Light-Matter Interactions for Photonic Applications — Vorlesung mit Übung
-
-- **Segment:** `unit:137744` · **unitId:** `137744`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137744&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
 
 ### Numerical Optimization and Model Predictive Control
 
@@ -12338,14 +11251,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | nach Vereinbarung | — | — | — | — |
 
-### Online-Fragestunde zu Grundlagen der Informatik — Übung
-
-- **Segment:** `unit:83534` · **unitId:** `83534`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83534&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** in jedem Semester
-
 ### Operations and Logistics I — Seminar
 
 - **Segment:** `unit:92626` · **unitId:** `92626`
@@ -12477,15 +11382,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Do | Do | 14:00–15:00 | — | 11901.00.226 (H8 Hörsaal 8) |
 
-### Optimization in Industry and Economy — Vorlesung
-
-- **Segment:** `unit:115679` · **unitId:** `115679`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115679&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Optische Übertragungstechnik
 
 - **Segment:** `unit:24035` · **unitId:** `24035`
@@ -12530,15 +11426,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 08:15–09:45 | 15.04.2026–15.07.2026 | 11501.06.226 (HF-Technik: BZ 06.226 Besprechungszimmer (alt 6.18)) |
-
-### Organisationspsychologie — Vorlesung
-
-- **Segment:** `unit:91644` · **unitId:** `91644`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91644&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 3.0
-- **Turnus:** nur im Wintersemester
 
 ### Organisationspsychologie (Klausur)
 
@@ -12689,15 +11576,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Di | Di | 11:00–12:30 | — | — |
-
-### Pattern Recognition Exercises — Übung
-
-- **Segment:** `unit:83155` · **unitId:** `83155`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83155&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 1.25
-- **Turnus:** nur im Wintersemester
 
 ### PC-Praktikum
 
@@ -13290,24 +12168,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Praktikum Elektrische Antriebstechnik BA
-
-- **Segment:** `unit:103885` · **unitId:** `103885`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103885&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
-### Praktikum Elektrische Antriebstechnik MA
-
-- **Segment:** `unit:90824` · **unitId:** `90824`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90824&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
 ### Praktikum Elektrische Energieversorgung
 
 - **Segment:** `unit:83508` · **unitId:** `83508`
@@ -13330,15 +12190,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### Praktikum Energieelektronik
-
-- **Segment:** `unit:82773` · **unitId:** `82773`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82773&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
 
 ### Praktikum Entwurf Integrierter Schaltungen I
 
@@ -13539,15 +12390,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Fr | Fr | — | — | — |
-
-### Praktikum Leistungselektronik
-
-- **Segment:** `unit:85180` · **unitId:** `85180`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85180&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
 
 ### Praktikum Mikroelektronik
 
@@ -13758,15 +12600,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Praktikum Technische Dynamik / Laboratory course Applied Dynamics
-
-- **Segment:** `unit:82696` · **unitId:** `82696`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82696&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
 ### Praktikum Technische Mechanik
 
 - **Segment:** `unit:48090` · **unitId:** `48090`
@@ -13854,15 +12687,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### Praktische Einführung in Machine Learning — Seminar
-
-- **Segment:** `unit:89150` · **unitId:** `89150`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89150&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.5
-- **Turnus:** in jedem Semester
 
 ### Praktische Produktentwicklung mit 3D-CAD-Systemen — Vorlesung mit Übung
 
@@ -13999,23 +12823,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Do | Do | 08:00–09:00 | — | 21102.01.421 (LG H6 BISSANTZ-Hörsaal (240 Plätze)) |
 
-### Product Innovation Management in Emerging Markets (vhb) — Seminar
-
-- **Segment:** `unit:89891` · **unitId:** `89891`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89891&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nicht in diesem Semester
-
-### Produktentwicklung Integrierter Systeme (Analog/Mixed-Signal) — Vorlesung
-
-- **Segment:** `unit:87335` · **unitId:** `87335`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87335&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
-
 ### Produktion elektrischer Motoren und Maschinen
 
 - **Segment:** `unit:120088` · **unitId:** `120088`
@@ -14091,23 +12898,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 15:00–16:30 | 14.04.2026–14.07.2026 | — |
 | wöchentlich | Mi | 15:00–18:15 | 15.04.2026–17.06.2026 | 21102.05.452 ((14 Plätze)) |
-
-### Produktion/Logistik/Beschaffung - Vorlesung
-
-- **Segment:** `unit:87378` · **unitId:** `87378`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87378&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Produktion/Logistik/Beschaffung - Übung
-
-- **Segment:** `unit:94651` · **unitId:** `94651`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94651&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
 
 ### Produktions- & Supply Chain Management — Vorlesung
 
@@ -14305,15 +13095,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mi | Mi | — | — | — |
-
-### Profiting from Ideas and Inventions: An Introduction to Intellectual Property Rights (vhb) — Seminar
-
-- **Segment:** `unit:92884` · **unitId:** `92884`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92884&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nicht in diesem Semester
 
 ### Project Course: Building sustainable industry in Europe — Projektseminar
 
@@ -14583,14 +13364,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-### Quantenelektronik I - Quantentechnologien 1 — Vorlesung
-
-- **Segment:** `unit:82455` · **unitId:** `82455`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82455&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Sommersemester
-
 ### Quantenelektronik I - Tunnel- und "Quantum Well"-Bauelemente — Vorlesung
 
 - **Segment:** `unit:98828` · **unitId:** `98828`
@@ -14627,14 +13400,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mi | Mi | 14:00–15:30 | — | 12401.00.111 (0.111 Seminarraum 0.111) |
-
-### Quanteninformationstechnologie — Vorlesung
-
-- **Segment:** `unit:91691` · **unitId:** `91691`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91691&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
 
 ### Quantenmechanik
 
@@ -14796,23 +13561,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### Radar Signal Processing — Vorlesung
-
-- **Segment:** `unit:92172` · **unitId:** `92172`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92172&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Radar Signal Processing Exercises — Übung
-
-- **Segment:** `unit:96869` · **unitId:** `96869`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96869&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
 
 ### Radar, RFID and Wireless Sensor Systems — Vorlesung
 
@@ -15038,23 +13786,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Fr | Fr | 11:00–12:30 | — | 11906.01.030 (H21) |
 
-### Regelungstechnik A (Grundlagen) — Vorlesung mit Übung
-
-- **Segment:** `unit:84783` · **unitId:** `84783`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84783&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Regelungstechnik A (Grundlagen) - Übungen
-
-- **Segment:** `unit:83805` · **unitId:** `83805`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83805&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
 ### Regelungstechnik B (Zustandsraummethoden)
 
 - **Segment:** `unit:21014` · **unitId:** `21014`
@@ -15068,15 +13799,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Fr | Fr | 11:00–12:30 | — | — |
-
-### Regelungstechnik B (Zustandsraummethoden) — Vorlesung mit Übung
-
-- **Segment:** `unit:83019` · **unitId:** `83019`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83019&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Regeneration and sustainable development — Seminar
 
@@ -15279,24 +14001,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Fr | Fr | 08:00–09:30 | — | 11907.01.030 (H19) |
-
-### Robot mechanisms and user interfaces — Vorlesung
-
-- **Segment:** `unit:82850` · **unitId:** `82850`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82850&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Robot mechanisms and user interfaces (Exercise) — Übung
-
-- **Segment:** `unit:84969` · **unitId:** `84969`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84969&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Robotics 1
 
@@ -15638,22 +14342,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | 11:00–13:00 | — | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
 
-### Scannen und Drucken in 3D-Vorlesung
-
-- **Segment:** `unit:85207` · **unitId:** `85207`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85207&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
-
-### Scannen und Drucken in 3D-Übung
-
-- **Segment:** `unit:84766` · **unitId:** `84766`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84766&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
 ### Schaltungen und Systeme der Übertragungstechnik
 
 - **Segment:** `unit:26402` · **unitId:** `26402`
@@ -15928,32 +14616,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mi | Mi | 11:00–12:00 | — | 21102.01.421 (LG H6 BISSANTZ-Hörsaal (240 Plätze)) |
-
-### Seminar Energy Markets
-
-- **Segment:** `unit:85675` · **unitId:** `85675`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85675&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Seminar Energy Markets
-
-- **Segment:** `unit:96218` · **unitId:** `96218`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96218&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nur im Wintersemester
-
-### Seminar Energy Markets
-
-- **Segment:** `unit:98942` · **unitId:** `98942`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98942&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
 
 ### Seminar Finanzierung und Banken
 
@@ -16281,15 +14943,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Sa | Sa | 10:00–11:30 | — | 11907.01.040 (H18) |
 
-### Sichere Systeme Übung
-
-- **Segment:** `unit:88001` · **unitId:** `88001`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88001&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
 ### Signal Analysis
 
 - **Segment:** `unit:38838` · **unitId:** `38838`
@@ -16303,14 +14956,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### Signalanalyse — Vorlesung
-
-- **Segment:** `unit:90121` · **unitId:** `90121`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90121&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
 
 ### Signale und Systeme I
 
@@ -16415,24 +15060,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 14:15–17:45 | 15.04.2026–15.07.2026 | 07205.01.030 (01.030 Seminarraum) |
-
-### Social and Web Intelligence — Seminar
-
-- **Segment:** `unit:89932` · **unitId:** `89932`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89932&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Soft Skills für Ingenieure — Vorlesung
-
-- **Segment:** `unit:89737` · **unitId:** `89737`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89737&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
 
 ### Software Projektmanagement
 
@@ -16575,14 +15202,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
 
-### Speech and Language Understanding Exercises — Übung
-
-- **Segment:** `unit:84928` · **unitId:** `84928`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84928&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** in jedem Semester
-
 ### Spieltheorie — Vorlesung
 
 - **Segment:** `unit:88159` · **unitId:** `88159`
@@ -16695,14 +15314,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | 11901.00.222 (H7 Hörsaal 7) |
 | wöchentlich | Mi | 10:15–11:45 | 22.04.2026–15.07.2026 | 11901.00.222 (H7 Hörsaal 7) |
-
-### Statik und Festigkeitslehre — Sonstige Lehrveranstaltung
-
-- **Segment:** `unit:88460` · **unitId:** `88460`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88460&periodId=589>
-
-- **Veranstaltungsart:** Sonstige Lehrveranstaltung
-- **Turnus:** nur im Wintersemester
 
 ### Statistical Signal Processing
 
@@ -16967,22 +15578,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | 10601.00.044 (SR TM Seminarraum Technische Mechanik, Raum-Nr. 00.044 (Technische Fakultät, Campus Süd)) |
 
-### Stud. Tutorium: Buchführung
-
-- **Segment:** `unit:84547` · **unitId:** `84547`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84547&periodId=589>
-
-- **Veranstaltungsart:** Tutorium
-- **Turnus:** nur im Wintersemester
-
-### Stud. Tutorium: Buchführung
-
-- **Segment:** `unit:90786` · **unitId:** `90786`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90786&periodId=589>
-
-- **Veranstaltungsart:** Tutorium
-- **Turnus:** nur im Wintersemester
-
 ### Stud. Tutorium: Operations and Logistics 2
 
 - **Segment:** `unit:100746` · **unitId:** `100746`
@@ -17005,14 +15600,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Fr | 08:00–09:00 | 10.07.2026 | 21101.01.113 (LG H2 Hörsaal (155 Plätze)) |
-
-### Supplements Communication Networks — Übung
-
-- **Segment:** `unit:82387` · **unitId:** `82387`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82387&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
 
 ### Supplements for Advanced Topics in Deep Learning — Übung
 
@@ -17241,30 +15828,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 08:15–09:45 | 27.04.2026–13.07.2026 | 11302.00.151 (00.151-113 Übungsraum) |
-
-### Systemprogrammierung 1 - Übungen (für Wiederholer)
-
-- **Segment:** `unit:84480` · **unitId:** `84480`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84480&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Systemprogrammierung 2 — Vorlesung
-
-- **Segment:** `unit:82441` · **unitId:** `82441`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82441&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
-
-### Systemprogrammierung 2 - Übungen
-
-- **Segment:** `unit:85304` · **unitId:** `85304`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85304&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** in jedem Semester
 
 ### T: Process Analytics — Tutorium
 
@@ -17753,24 +16316,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Transportprozesse — Vorlesung
-
-- **Segment:** `unit:83336` · **unitId:** `83336`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83336&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 3.0
-- **Turnus:** nur im Wintersemester
-
-### Transportprozesse Übung
-
-- **Segment:** `unit:90616` · **unitId:** `90616`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90616&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
-- **Turnus:** nur im Wintersemester
-
 ### Tribologie und Oberflächentechnik — Vorlesung
 
 - **Segment:** `unit:85494` · **unitId:** `85494`
@@ -17812,38 +16357,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Do | Do | 11:00–13:00 | — | 11901.00.240 (H10 Hörsaal 10) |
-
-### Tutoreneinführung zur Linearen Kontinuumsmechanik — Sonstige Lehrveranstaltung
-
-- **Segment:** `unit:101407` · **unitId:** `101407`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101407&periodId=589>
-
-- **Veranstaltungsart:** Sonstige Lehrveranstaltung
-- **Turnus:** nur im Wintersemester
-
-### Tutorial for Random Matrices in Communications and Signal Processing — Übung
-
-- **Segment:** `unit:88576` · **unitId:** `88576`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88576&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Tutorium Halbleiterbauelemente
-
-- **Segment:** `unit:82875` · **unitId:** `82875`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82875&periodId=589>
-
-- **Veranstaltungsart:** Tutorium
-- **Turnus:** nur im Wintersemester
-
-### Tutorium Nachrichtentechnische Systeme
-
-- **Segment:** `unit:82788` · **unitId:** `82788`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82788&periodId=589>
-
-- **Veranstaltungsart:** Tutorium
-- **Turnus:** nur im Wintersemester
 
 ### Tutorium zu Digitaltechnik
 
@@ -17905,22 +16418,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | nach Vereinbarung | — | — | — | — |
-
-### Tutorium zur Dynamik starrer Körper
-
-- **Segment:** `unit:83331` · **unitId:** `83331`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83331&periodId=589>
-
-- **Veranstaltungsart:** Tutorium
-- **Turnus:** nur im Wintersemester
-
-### Tutorium zur Linearen Kontinuumsmechanik / Linear Continuum Mechanics - Tutorials
-
-- **Segment:** `unit:82537` · **unitId:** `82537`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82537&periodId=589>
-
-- **Veranstaltungsart:** Tutorium
-- **Turnus:** nur im Wintersemester
 
 ### Tutorium zur Methode der Finiten Elemente
 
@@ -18111,7 +16608,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 11:30–13:00 | 22.04.2026–15.07.2026 | 21102.01.420 (LG H5 TeamBank-Hörsaal (384 Plätze)) |
 
 ### V: Process Analytics — Vorlesung
 
@@ -18456,14 +16960,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Fr | 09:00–12:15 | 29.05.2026 | 21101.00.215 (CIP-Pool 1 (RRZE-IZN)) |
 | Einzeltermin | Fr | 13:15–16:30 | 29.05.2026 | 21101.00.143 (LG 0.143 (42 Plätze) Übungsraum) |
 
-### Vorlesung Maschinenelemente I
-
-- **Segment:** `unit:84846` · **unitId:** `84846`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84846&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
-
 ### Vorlesung Sozialpsychologie, Teil 2
 
 - **Segment:** `unit:91381` · **unitId:** `91381`
@@ -18735,15 +17231,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Di | Di | 10:00–11:00 | — | 11501.02.019 (02.019 Seminarraum) |
 
-### Workshop Capital Markets Research — Seminar
-
-- **Segment:** `unit:94046` · **unitId:** `94046`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94046&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Workshop Finance — Seminar
 
 - **Segment:** `unit:86612` · **unitId:** `86612`
@@ -18911,14 +17398,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 13:15–14:45 | 27.04.2026–13.07.2026 | — |
-
-### Ü: Service Management and Service Engineering — Übung
-
-- **Segment:** `unit:99575` · **unitId:** `99575`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99575&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Sommersemester
 
 ### Übung  zur Statik und Festigkeitslehre
 
@@ -19221,14 +17700,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mi | 08:00–09:30 | 15.04.2026–15.07.2026 | 21101.00.141 (LG 0.141 (48 Plätze) Übungsraum) |
 
-### Übung zu Halbleitertechnik III - Leistungshalbleiterbauelemente
-
-- **Segment:** `unit:83339` · **unitId:** `83339`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83339&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
 ### Übung zu Halbleitertechnik V - Halbleiter- und Bauelementemesstechnik
 
 - **Segment:** `unit:83823` · **unitId:** `83823`
@@ -19237,14 +17708,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-### Übung zu Halbleitertechnologie I - Technologie integrierter Schaltungen
-
-- **Segment:** `unit:83346` · **unitId:** `83346`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83346&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
 
 ### Übung zu Handhabungs- und Montagetechnik
 
@@ -19276,14 +17739,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 11501.00.156 (H16 Hörsaal 16) |
 
-### Übung zu Internationale Energiewirtschaft und Unternehmensführung
-
-- **Segment:** `unit:86243` · **unitId:** `86243`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86243&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
 ### Übung zu Kommunikationselektronik
 
 - **Segment:** `unit:106711` · **unitId:** `106711`
@@ -19298,14 +17753,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | 11501.01.105 (H6 Hörsaal 6) |
-
-### Übung zu Maschinelles Lernen in der Signalverarbeitung
-
-- **Segment:** `unit:82183` · **unitId:** `82183`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82183&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
 
 ### Übung zu Numerische Methoden der Halbleiterbauelemente
 
@@ -19322,14 +17769,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wird noch angekündigt | — | — | — | — |
-
-### Übung zu Optimization in Industry and Economy
-
-- **Segment:** `unit:115680` · **unitId:** `115680`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115680&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
 
 ### Übung zu Power Electronics in Three-Phase AC Networks: HVDC Transmission and FACTS
 
@@ -19475,15 +17914,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Do | 09:45–11:15 | 23.04.2026–16.07.2026 | 21102.01.421 (LG H6 BISSANTZ-Hörsaal (240 Plätze)) |
 | wöchentlich | Fr | 11:30–13:00 | 24.04.2026–17.07.2026 | 21101.01.112 (LG H1 (446 Plätze) Hörsaal) |
 
-### Übung zur Organisationspsychologie
-
-- **Segment:** `unit:88995` · **unitId:** `88995`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88995&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
-- **Turnus:** nur im Wintersemester
-
 ### Übung zur Quantenmechanik
 
 - **Segment:** `unit:118683` · **unitId:** `118683`
@@ -19514,14 +17944,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Do | 09:00–17:30 | 09.07.2026 | 12401.00.121 |
-
-### Übungen zu Analoge elektronische Systeme
-
-- **Segment:** `unit:85063` · **unitId:** `85063`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85063&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
 
 ### Übungen zu Architekturen der Digitalen Signalverarbeitung
 
@@ -19616,14 +18038,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 11501.00.156 (H16 Hörsaal 16) |
 
-### Übungen zu Elektrische Antriebstechnik II
-
-- **Segment:** `unit:82403` · **unitId:** `82403`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82403&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
 ### Übungen zu Elektrische Maschinen II
 
 - **Segment:** `unit:82671` · **unitId:** `82671`
@@ -19645,7 +18059,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83952&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:15–13:45 | 21.04.2026–14.07.2026 | 11501.00.154 (0.154-115 Seminar) |
 
 ### Übungen zu Energiespeichertechnologien
 
@@ -19698,15 +18119,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 07204.01.030 (SR 01.030 Seminarraum des LZS) |
-
-### Übungen zu Grundlagen der Elektrischen Antriebstechnik
-
-- **Segment:** `unit:82770` · **unitId:** `82770`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82770&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 1.0
-- **Turnus:** nur im Wintersemester
 
 ### Übungen zu Grundlagen der Elektrischen Energieversorgung
 
@@ -19762,14 +18174,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 11501.01.019 (01.019 Seminarraum) |
 
-### Übungen zu Halbleiterbauelemente
-
-- **Segment:** `unit:82326` · **unitId:** `82326`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82326&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
 ### Übungen zu Halbleitertechnik I - Bipolartechnik
 
 - **Segment:** `unit:84135` · **unitId:** `84135`
@@ -19784,22 +18188,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 12401.00.111 (0.111 Seminarraum 0.111) |
-
-### Übungen zu Halbleitertechnologie II - Prozess- und Bauelemente-Simulation
-
-- **Segment:** `unit:94215` · **unitId:** `94215`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94215&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Sommersemester
-
-### Übungen zu Hochleistungsstromrichter für die EEV
-
-- **Segment:** `unit:85157` · **unitId:** `85157`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85157&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
 
 ### Übungen zu Hochspannungstechnik
 
@@ -19850,14 +18238,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 1.5
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-### Übungen zu Maschinenelemente I
-
-- **Segment:** `unit:84321` · **unitId:** `84321`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84321&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
 
 ### Übungen zu Maschinenelemente II
 
@@ -20029,39 +18409,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Fr | 08:15–09:45 | 24.04.2026–17.07.2026 | 11501.02.224 (02.224 Cauerstr.9 Seminarraum) |
 
-### Übungen zu Wissenschaftliches Arbeiten in den Ingenieur- und Naturwissenschaften
-
-- **Segment:** `unit:112709` · **unitId:** `112709`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112709&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung | — | 13:00–18:00 | 22.05.2026 | 11501.02.019 (02.019 Seminarraum) |
-| Blockveranstaltung | — | 13:00–18:00 | 26.06.2026 | 11501.02.019 (02.019 Seminarraum) |
-
-### Übungen zur Dynamik starrer Körper
-
-- **Segment:** `unit:84619` · **unitId:** `84619`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84619&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Übungen zur Linearen Kontinuumsmechanik / Linear Continuum Mechanics - Exercises
-
-- **Segment:** `unit:84512` · **unitId:** `84512`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84512&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
 ### Übungen zur Mathematik für Ingenieure B2: MB, WING, BPT-M, ACES
 
 - **Segment:** `unit:109908` · **unitId:** `109908`
@@ -20075,14 +18422,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 11901.00.236 (K1-119 Brose-Saal) |
-
-### Übungen zur Mehrkörperdynamik
-
-- **Segment:** `unit:82710` · **unitId:** `82710`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82710&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
 
 ### Übungen zur Methode der Finiten Elemente
 

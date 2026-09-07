@@ -1418,7 +1418,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | Di | Di | — | 07.12.2025 23:59:59 | — |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (59)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (49)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -1478,13 +1478,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Berufsbezogene Kommunikation — Seminar
-
-- **Segment:** `unit:119467` · **unitId:** `119467`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119467&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
 ### Chinesisch Elementarkurs 1
 
 - **Segment:** `unit:20804` · **unitId:** `20804`
@@ -1538,6 +1531,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Do | Do | 16:30–18:00 | — | — |
+
+### Einführung in die Didaktik des Deutschen als Zweitsprache — Vorlesung
+
+- **Segment:** `unit:92076` · **unitId:** `92076`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92076&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 3.0
+- **Turnus:** nur im Wintersemester
 
 ### Elementarkurs Arabisch I Intensiv
 
@@ -1620,14 +1622,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### Interkulturelle Bildung, Werteerziehung — Seminar
-
-- **Segment:** `unit:122735` · **unitId:** `122735`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122735&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nur im Wintersemester
 
 ### Italienisch Elementarkurs 1
 
@@ -1770,28 +1764,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Blockveranstaltung | — | 09:00–14:15 | 18.02.2026–10.03.2026 | 05901.02.058 ( 2.058 R 2.058) |
 
-### Medien im DaZ-Unterricht — Seminar
-
-- **Segment:** `unit:119471` · **unitId:** `119471`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119471&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
-### Mehrsprachigkeit als Ressource — Seminar
-
-- **Segment:** `unit:86994` · **unitId:** `86994`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86994&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nur im Sommersemester
-
-### Mehrsprachigkeit im Anfängeruntericht — Seminar
-
-- **Segment:** `unit:119465` · **unitId:** `119465`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119465&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
 ### Neugriechisch: Elementarkurs I
 
 - **Segment:** `unit:37592` · **unitId:** `37592`
@@ -1889,15 +1861,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mi | Mi | 14:15–15:45 | — | 54201.01.007 ( Übungsraum I/7 Studienzentrum) |
 
-### Ringvorlesung Deutsch als Zweitsprache (Tutorium/Seminar) — Sonstige Lehrveranstaltung
-
-- **Segment:** `unit:84131` · **unitId:** `84131`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84131&periodId=565>
-
-- **Veranstaltungsart:** Sonstige Lehrveranstaltung
-- **ECTS-Punkte:** 1.0
-- **Turnus:** in jedem Semester
-
 ### Russisch A1: Elementarkurs I
 
 - **Segment:** `unit:37632` · **unitId:** `37632`
@@ -1939,13 +1902,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Fr | Fr | 15:00–16:00 | — | — |
-
-### Schreiben zwischen DaZ- und Regelunterricht — Seminar
-
-- **Segment:** `unit:111576` · **unitId:** `111576`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111576&periodId=565>
-
-- **Veranstaltungsart:** Seminar
 
 ### Schriftliche Übersetzungsleistung Latein I für Anfänger (Zulassungsvoraussetzung zu Kurs Latein II für Fortgeschrittene)
 
@@ -2058,36 +2014,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Fr | Fr | 14:30–16:00 | — | 05801.U1.0232 (SL 104, Bismarckstr. 1 Multimedia-Sprachlabor (Belegung nur nach Rücksprache mit den Raumverantwortlichen)) |
-
-### Sprachförderung im Sommercamp - Vorbereitungsseminar
-
-- **Segment:** `unit:111580` · **unitId:** `111580`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111580&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
-### Sprachliche Bildung im Fachunterricht — Seminar
-
-- **Segment:** `unit:93847` · **unitId:** `93847`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93847&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Turnus:** in jedem Semester
-
-### Sprachliche Bildung in gesellschaftswissenschaftlichen Fächern — Seminar
-
-- **Segment:** `unit:119310` · **unitId:** `119310`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119310&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
-### Sprachliche Bildung in naturwissenschaftlichen Fächern — Seminar
-
-- **Segment:** `unit:111574` · **unitId:** `111574`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111574&periodId=565>
-
-- **Veranstaltungsart:** Seminar
 
 ### Swahili: Elementarkurs I
 

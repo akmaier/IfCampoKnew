@@ -3846,7 +3846,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 | wöchentlich | Mo | 16:30–18:00 | 13.10.2025–02.02.2026 | 05901.00.040 ( HS C Hörsaal C - 00.[Telefon entfernt].U1.060 ( Audimax Auditorium Maximum) |
 | Einzeltermin | Fr | 10:15–11:45 | 10.04.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (145)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (125)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -3947,15 +3947,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Mo | 08:15–09:45 | 13.10.2025–02.02.2026 | 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
 | wöchentlich | Do | 17:00–18:30 | 16.10.2025–05.02.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
 
-### Anorganisch-Chemisches Praktikum für Geowissenschaften, Physik und physische Geographie (+ MWT & Nanotechn. alte PO)
-
-- **Segment:** `unit:120660` · **unitId:** `120660`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120660&periodId=565>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 6.0
-- **Turnus:** nur im Sommersemester
-
 ### Betriebliches Rechnungswesen I
 
 - **Segment:** `unit:21151` · **unitId:** `21151`
@@ -3985,15 +3976,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 14:15–15:45 | 16.10.2025–05.02.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
-
-### Betriebliches Rechnungswesen II — Vorlesung
-
-- **Segment:** `unit:102969` · **unitId:** `102969`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102969&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
 
 ### Betriebswirtschaftslehre I
 
@@ -4056,21 +4038,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### Das Geschlecht der Reformation — Vorlesung
-
-- **Segment:** `unit:119104` · **unitId:** `119104`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119104&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-
-### Einführung in das Physikalische Praktikum II (Strukturphysik) — Vorlesung
-
-- **Segment:** `unit:83869` · **unitId:** `83869`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83869&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Sommersemester
 
 ### Einführung in Datenbanken für Wirtschaftsinformatik
@@ -4226,15 +4193,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Mo | 08:15–09:45 | 20.10.2025–02.02.2026 | 13003.00.874 (HD Hörsaal Physikum) |
 | wöchentlich | Mi | 08:15–09:45 | 15.10.2025–04.02.2026 | 13003.00.874 (HD Hörsaal Physikum) |
 
-### Experimentalphysik für Naturwissenschaftler II — Vorlesung
-
-- **Segment:** `unit:87295` · **unitId:** `87295`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87295&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
 ### Experimentalphysik für Nebenfächler — Vorlesung
 
 - **Segment:** `unit:83950` · **unitId:** `83950`
@@ -4299,37 +4257,28 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Fr | Fr | 09:00–10:30 | — | 11907.01.040 (H18) |
 
-### FAU Ringvorlesung "Sustainability"
+### Geländepraktikum
 
-- **Segment:** `unit:126436` · **unitId:** `126436`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126436&periodId=565>
+- **Segment:** `unit:84310` · **unitId:** `84310`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84310&periodId=565>
 
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
+- **Veranstaltungsart:** Praktikum
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Sommersemester
+
+### Geländeübung I und II zur Lehrveranstaltung Minerale u. Gesteine für Studierende Geographie
+
+- **Segment:** `unit:94427` · **unitId:** `94427`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94427&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 1.0
 - **Turnus:** nur im Sommersemester
 
 ### GIS/Fernerkundung I  - Kurs D — Seminar
 
 - **Segment:** `unit:85932` · **unitId:** `85932`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85932&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 3.0
-- **Turnus:** nur im Wintersemester
-
-### GIS/Fernerkundung I - Kurs A — Seminar
-
-- **Segment:** `unit:84056` · **unitId:** `84056`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84056&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 3.0
-- **Turnus:** nur im Wintersemester
-
-### GIS/Fernerkundung I - Kurs C — Seminar
-
-- **Segment:** `unit:87816` · **unitId:** `87816`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87816&periodId=565>
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 3.0
@@ -4374,14 +4323,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 12:15–13:45 | 20.10.2025–02.02.2026 | 55801.00.133 (00.133 CIP-Raum 1 Lehre &amp; Selbständiges Üben) 55801.00.210 (00.210 Seminarraum) |
 
-### Großes Geländeseminar: Bayern - Physische Geographie und Landesgeschichte — Exkursion
+### Großes Geländeseminar: Naturschutzgebiete in Bayern — Exkursion
 
-- **Segment:** `unit:83324` · **unitId:** `83324`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83324&periodId=565>
+- **Segment:** `unit:82622` · **unitId:** `82622`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82622&periodId=565>
 
 - **Veranstaltungsart:** Exkursion
 - **ECTS-Punkte:** 10.0
-- **Turnus:** nur im Wintersemester
+- **Turnus:** nur im Sommersemester
 
 ### Grundlagen der Geowissenschaften I - System Erde I — Vorlesung mit Übung
 
@@ -4408,6 +4357,28 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
+
+### Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) — Vorlesung
+
+- **Segment:** `unit:90134` · **unitId:** `90134`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90134&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 18:30–20:00 | 20.10.2025–02.02.2026 | 21101.01.213 (LG H4 (814 Plätze) Hörsaal) |
+| wöchentlich | Di | 16:45–18:15 | 14.10.2025–03.02.2026 | 21101.01.213 (LG H4 (814 Plätze) Hörsaal) |
+| wöchentlich | Di | 16:45–18:15 | 14.10.2025–03.02.2026 | 21101.01.112 (LG H1 (446 Plätze) Hörsaal) |
+| wöchentlich | Do | 09:45–11:15 | 16.10.2025–05.02.2026 | 21101.01.213 (LG H4 (814 Plätze) Hörsaal) |
+| wöchentlich | Do | 09:45–11:15 | 16.10.2025–05.02.2026 | 21101.01.112 (LG H1 (446 Plätze) Hörsaal) |
+| wöchentlich | Mo | 16:45–18:15 | 20.10.2025–02.02.2026 | 21101.01.213 (LG H4 (814 Plätze) Hörsaal) |
+| wöchentlich | Di | 08:00–09:30 | 21.10.2025–03.02.2026 | 21101.01.213 (LG H4 (814 Plätze) Hörsaal) |
 
 ### Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) — Vorlesung
 
@@ -4464,30 +4435,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
+### Grundvorlesung Physische Geographie 2: Klimatologie und Biogeographie — Vorlesung mit Übung
+
+- **Segment:** `unit:86103` · **unitId:** `86103`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86103&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Sommersemester
+
 ### Hauptseminar Kulturgeographie
 
 - **Segment:** `unit:84345` · **unitId:** `84345`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84345&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
-
-### Hauptseminar Physische Geographie
-
-- **Segment:** `unit:90426` · **unitId:** `90426`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90426&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
-
-### Hauptseminar Spezielle Methoden Physische Geographie
-
-- **Segment:** `unit:83212` · **unitId:** `83212`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83212&periodId=565>
-
-- **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** in jedem Semester
 
@@ -4647,15 +4609,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Di | Di | — | — | — |
 
-### Kleines Geländeseminar 3-tägig — Exkursion
-
-- **Segment:** `unit:82568` · **unitId:** `82568`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82568&periodId=565>
-
-- **Veranstaltungsart:** Exkursion
-- **ECTS-Punkte:** 2.0
-- **Turnus:** in jedem Semester
-
 ### Konzeptionelle Modellierung
 
 - **Segment:** `unit:20923` · **unitId:** `20923`
@@ -4669,15 +4622,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mi | Mi | 08:00–09:30 | — | 11906.01.030 (H21) |
-
-### Konzeptionelle Modellierung — Vorlesung
-
-- **Segment:** `unit:82414` · **unitId:** `82414`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82414&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
 
 ### Kristallographie und Strukturphysik für Geowissenschaftler und Chemiker — Vorlesung
 
@@ -4987,15 +4931,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Di | 09:00–10:15 | 14.10.2025–03.02.2026 | 13301.U1.0171 (C1 - Chemikum) |
 | wöchentlich | Do | 09:00–10:00 | 16.10.2025–05.02.2026 | 13301.U1.0171 (C1 - Chemikum) |
 
-### Paläobiologie I - Allgemeine Paläontologie — Vorlesung
-
-- **Segment:** `unit:90560` · **unitId:** `90560`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90560&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.0
-- **Turnus:** nur im Sommersemester
-
 ### Paläobiologie II
 
 - **Segment:** `unit:45800` · **unitId:** `45800`
@@ -5102,14 +5037,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### Physikalisches Praktikum II (Strukturphysik)
-
-- **Segment:** `unit:84809` · **unitId:** `84809`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84809&periodId=565>
-
-- **Veranstaltungsart:** Praktikum
-- **Turnus:** nur im Sommersemester
 
 ### Praktikum Organische Chemie
 
@@ -5260,15 +5187,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Do | Do | 12:30–14:00 | — | — |
 
-### Seminar KG mit Geländetag (Kurs D)
-
-- **Segment:** `unit:87656` · **unitId:** `87656`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87656&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
 ### Seminar Spezielle Methoden der KG
 
 - **Segment:** `unit:36410` · **unitId:** `36410`
@@ -5296,15 +5214,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Di | Di | — | — | — |
-
-### Seminar zum Großen Geländeseminar: Israel / Jordanien
-
-- **Segment:** `unit:84363` · **unitId:** `84363`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84363&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Sichere Systeme
 
@@ -5352,6 +5261,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mi | 12:15–13:45 | 29.10.2025–04.02.2026 | 11501.00.154 (0.154-115 Seminar) 11906.01.030 (H21) |
 
+### Sozialpolitik — Vorlesung
+
+- **Segment:** `unit:94958` · **unitId:** `94958`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94958&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Sommersemester
+
 ### Strukturphysik und Kristallographie für Werkstoffwissenschaftler — Vorlesung
 
 - **Segment:** `unit:88086` · **unitId:** `88086`
@@ -5391,22 +5309,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nicht in diesem Semester
 
-### Unterstützungsseminar 1 zur Organische Chemie, Grundlagen I — Hauptseminar
-
-- **Segment:** `unit:92492` · **unitId:** `92492`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92492&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** nur im Sommersemester
-
-### Unterstützungsseminar 2 zur Organische Chemie, Grundlagen I — Hauptseminar
-
-- **Segment:** `unit:84837` · **unitId:** `84837`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84837&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** nur im Sommersemester
-
 ### Unterstützungsseminar zur Organische Chemie, Grundlagen II (CC07) - nur WS
 
 - **Segment:** `unit:83898` · **unitId:** `83898`
@@ -5422,28 +5324,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 08:00–08:45 | 14.10.2025–03.02.2026 | 13301.U1.0171 (C1 - Chemikum) |
 
-### VL Grundlagen des Öffentlichen Rechts und des Zivilrechts (Recht I) — Vorlesung
-
-- **Segment:** `unit:90134` · **unitId:** `90134`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90134&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 18:30–20:00 | 20.10.2025–02.02.2026 | 21101.01.213 (LG H4 (814 Plätze) Hörsaal) |
-| wöchentlich | Di | 16:45–18:15 | 14.10.2025–03.02.2026 | 21101.01.213 (LG H4 (814 Plätze) Hörsaal) |
-| wöchentlich | Di | 16:45–18:15 | 14.10.2025–03.02.2026 | 21101.01.112 (LG H1 (446 Plätze) Hörsaal) |
-| wöchentlich | Do | 09:45–11:15 | 16.10.2025–05.02.2026 | 21101.01.213 (LG H4 (814 Plätze) Hörsaal) |
-| wöchentlich | Do | 09:45–11:15 | 16.10.2025–05.02.2026 | 21101.01.112 (LG H1 (446 Plätze) Hörsaal) |
-| wöchentlich | Mo | 16:45–18:15 | 20.10.2025–02.02.2026 | 21101.01.213 (LG H4 (814 Plätze) Hörsaal) |
-| wöchentlich | Di | 08:00–09:30 | 21.10.2025–03.02.2026 | 21101.01.213 (LG H4 (814 Plätze) Hörsaal) |
-
 ### Vorlesung Allgemeine und Anorganische Chemie
 
 - **Segment:** `unit:20734` · **unitId:** `20734`
@@ -5457,15 +5337,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Di | Di | 08:00–08:45 | — | 11901.00.222 (H7 Hörsaal 7) |
-
-### Vorlesung Grundlagen der Organischen Chemie I
-
-- **Segment:** `unit:85333` · **unitId:** `85333`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85333&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
 
 ### Ökologie und Diversität A: Vorlesung Einführung in die Ökologie, Zoologie und Botanik
 
@@ -5499,15 +5370,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 13:15–16:00 | 13.10.2025–02.02.2026 | 13002.00.585 (Ks H Kursraum H) |
 
-### Ökologie und Diversität B: Übungen zur Biologie und Systematik einheimischer Pflanzen — Vorlesung mit Übung
-
-- **Segment:** `unit:84785` · **unitId:** `84785`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84785&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 3.0
-- **Turnus:** nur im Sommersemester
-
 ### Übung Mathematik B 1
 
 - **Segment:** `unit:20940` · **unitId:** `20940`
@@ -5521,13 +5383,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### Übungen zu Experimentalphysik für Medizin- und Elektrotechniker II
-
-- **Segment:** `unit:110503` · **unitId:** `110503`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110503&periodId=565>
-
-- **Veranstaltungsart:** Übung
 
 ### Übungen zu Informatik 1 für Nebenfachstudierende - Grundmodul
 
@@ -5544,6 +5399,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 12:00–14:00 | 22.10.2025–04.02.2026 | 11302.04.158 (04.158 Stud. Rechner-/Arbeitsraum) |
+
+### Übungen zu Konzeptionelle Modellierung
+
+- **Segment:** `unit:82286` · **unitId:** `82286`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82286&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
+- **Turnus:** nur im Wintersemester
 
 ### Übungen zur Experimentalphysik für Elektro- und Medizintechniker I
 
@@ -5575,14 +5439,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Fr | 08:15–09:45 | 24.10.2025–06.02.2026 | 13101.00.732 (SR 00.732 Seminarraum der Didaktik der Physik) |
 
-### Übungen zur Experimentalphysik für Naturwissenschaftler II
-
-- **Segment:** `unit:86987` · **unitId:** `86987`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86987&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Sommersemester
-
 ### Übungen zur Mathematik für Ingenieure B1: MB,WING,BPT-M,ACES
 
 - **Segment:** `unit:82662` · **unitId:** `82662`
@@ -5597,14 +5453,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 12:15–13:45 | 16.10.2025–05.02.2026 | 11501.04.222 (04.222 EL4.14 &quot;Tietze-Schenk-Saal&quot;) |
-
-### Übungen zur Mathematik für Ingenieure B2: MB, WING, BPT-M, ACES
-
-- **Segment:** `unit:109908` · **unitId:** `109908`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=109908&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Sommersemester
 
 ### Übungen zur Mathematik für Naturwissenschaftler
 
@@ -5668,14 +5516,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 15:00–15:45 | 20.10.2025–02.02.2026 | 05901.05.054 ( 05.054) |
 
-### Übungen zur Vorlesung "Betriebliches Rechnungswesen II"
-
-- **Segment:** `unit:93071` · **unitId:** `93071`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93071&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Sommersemester
-
 ### Übungen zur Vorlesung "Betriebswirtschaftslehre I"
 
 - **Segment:** `unit:87125` · **unitId:** `87125`
@@ -5735,14 +5575,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:91925` · **unitId:** `91925`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91925&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Sommersemester
-
-### Übungen zur Vorlesung Makroökonomie Erlangen
-
-- **Segment:** `unit:111927` · **unitId:** `111927`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111927&periodId=565>
 
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Sommersemester

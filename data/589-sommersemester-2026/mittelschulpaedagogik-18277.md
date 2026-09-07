@@ -123,7 +123,17 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Di | 13:00–14:00 | 21.04.2026 | 75201.00.401 (St. Paul 00.401 Theatersaal) |
+| Einzeltermin | Sa | 09:00–16:00 | 13.06.2026 | 75201.00.401 (St. Paul 00.401 Theatersaal) |
+| Einzeltermin | Fr | 14:00–19:00 | 26.06.2026 | 75201.00.401 (St. Paul 00.401 Theatersaal) |
+| Einzeltermin | Sa | 09:00–16:00 | 27.06.2026 | 75201.00.401 (St. Paul 00.401 Theatersaal) |
 
 ### SHM-InInKo / SHM-KoRe: „Und jetzt?!“ - Handlungsmöglichkeiten in herausfordernden Situationen - für an Schulen tätige Studierende und andere - Seminar
 

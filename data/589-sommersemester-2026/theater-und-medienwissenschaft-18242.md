@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:18242"
 campo_path: "title:17593|title:17595|title:18242"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242"
-po_version_count: 6
-course_count: 339
+po_version_count: 3
+course_count: 265
 fau_studiengang:
   - title: "Theater- und Medienwissenschaft (B.A.)"
     rel_path: "studiengang/theater-und-medienwissenschaft-b-a.md"
@@ -279,7 +279,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (6)
+## Prüfungsordnungs-Versionen (3)
 
 ### 990 Module der Grundlagen- und Orientierungsprüfung Theater- und Medienwissenschaft
 
@@ -293,25 +293,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 990 Module der Grundlagen- und Orientierungsprüfung Theater- und Medienwissenschaft
 
-- **Campo-Segment:** `exam:15549857`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549857>
-
-### 990 Module der Grundlagen- und Orientierungsprüfung Theater- und Medienwissenschaft
-
 - **Campo-Segment:** `exam:15553125`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15553123|exam:15553125>
 
-### 990 Module der Grundlagen- und Orientierungsprüfung Theater- und Medienwissenschaft
-
-- **Campo-Segment:** `exam:15554714`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15554712|exam:15554714>
-
-### 990 Module der Grundlagen- und Orientierungsprüfung Theater- und Medienwissenschaft
-
-- **Campo-Segment:** `exam:15557866`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15557864|exam:15557866>
-
-## Veranstaltungen (339)
+## Veranstaltungen (265)
 
 ### "Die Perle der Backsteingotik": Münster Bad Doberan und seine Ausstattung - Aufbauseminar
 
@@ -725,40 +710,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 05801.01.310 ( C 301 Übungsraum) |
 
-### BA 2. FS: Thematisches Proseminar (Medien) - Proseminar
-
-- **Segment:** `exam:15554732` · **unitId:** `88316`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15554712|exam:15554716|exam:15554717|exam:15554718|exam:15554731|exam:15554732>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88316&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 05801.01.310 ( C 301 Übungsraum) |
-
-### BA 2. FS: Thematisches Proseminar (Medien) - Proseminar
-
-- **Segment:** `exam:15556308` · **unitId:** `88316`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15556288|exam:15556292|exam:15556293|exam:15556294|exam:15556307|exam:15556308>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88316&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 05801.01.310 ( C 301 Übungsraum) |
-
 ### BA 2. FS: Thematisches Proseminar (Theater) - Proseminar
 
 - **Segment:** `exam:15538551` · **unitId:** `98827`
@@ -814,40 +765,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:15553146` · **unitId:** `98827`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15553123|exam:15553127|exam:15553128|exam:15553129|exam:15553145|exam:15553146>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98827&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 05902.00.003 ( 00.3 PSG) |
-
-### BA 2. FS: Thematisches Proseminar (Theater) - Proseminar
-
-- **Segment:** `exam:15554735` · **unitId:** `98827`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15554712|exam:15554716|exam:15554717|exam:15554718|exam:15554734|exam:15554735>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98827&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 05902.00.003 ( 00.3 PSG) |
-
-### BA 2. FS: Thematisches Proseminar (Theater) - Proseminar
-
-- **Segment:** `exam:15556311` · **unitId:** `98827`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15556288|exam:15556292|exam:15556293|exam:15556294|exam:15556310|exam:15556311>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98827&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
@@ -2731,101 +2648,11 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mi | 10:00–12:00 | 29.04.2026–15.07.2026 | 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
 
-### 1999 Bachelorarbeit (B.A.,2Fäch Buchwissenschaft Zweitfach 2013)
-
-- **Segment:** `exam:15551583` · **unitId:** `47959`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15551583>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47959&periodId=589>
-
-### 1999 Bachelorarbeit (B.A.,2Fäch Germanistik Zweitfach 2007)
-
-- **Segment:** `exam:15551564` · **unitId:** `36544`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15551564>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36544&periodId=589>
-
-### 1999 Bachelorarbeit (B.A.,2Fäch Geschichte Zweitfach 2011)
-
-- **Segment:** `exam:15551575` · **unitId:** `42611`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15551575>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=42611&periodId=589>
-
-### 1999 Bachelorarbeit (B.A.,2Fäch Kunstgeschichte Zweitfach 2013)
-
-- **Segment:** `exam:15551579` · **unitId:** `46530`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15551579>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46530&periodId=589>
-
-### 1999 Bachelorarbeit (B.A.,2Fäch Politikwissenschaft Zweitfach 2010)
-
-- **Segment:** `exam:15551567` · **unitId:** `39119`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15551567>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39119&periodId=589>
-
-### 1999 Bachelorarbeit (B.A.,2Fäch Pädagogik Zweitfach 2009)
-
-- **Segment:** `exam:15551562` · **unitId:** `34048`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15551562>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=34048&periodId=589>
-
-### 1999 Bachelorarbeit (B.A.,2Fäch Pädagogik Zweitfach 2012)
-
-- **Segment:** `exam:15551577` · **unitId:** `44826`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15551577>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44826&periodId=589>
-
 ### 1999 Bachelorarbeit (B.A.,2Fäch Pädagogik Zweitfach 20152)
 
 - **Segment:** `exam:15775249` · **unitId:** `48808`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15536866|exam:15536870|exam:15536871|exam:15775249>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=48808&periodId=589>
-
-### 1999 Bachelorarbeit (B.A.,2Fäch Pädagogik Zweitfach 20152)
-
-- **Segment:** `exam:15551585` · **unitId:** `48808`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15551585>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=48808&periodId=589>
-
-### 1999 Bachelorarbeit (B.A.,2Fäch Sinologie Zweitfach 2011)
-
-- **Segment:** `exam:15551573` · **unitId:** `41803`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15551573>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=41803&periodId=589>
-
-### 1999 Bachelorarbeit (B.A.,2Fäch Soziologie Zweitfach 2007)
-
-- **Segment:** `exam:15551560` · **unitId:** `33443`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15551560>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=33443&periodId=589>
-
-### 1999 Bachelorarbeit (B.A.,2Fäch Soziologie Zweitfach 2011)
-
-- **Segment:** `exam:15551569` · **unitId:** `39999`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15551569>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39999&periodId=589>
-
-### 1999 Bachelorarbeit (B.A.,2Fäch Soziologie Zweitfach 20162)
-
-- **Segment:** `exam:15551587` · **unitId:** `68864`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15551587>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68864&periodId=589>
-
-### 1999 Bachelorarbeit (B.A.,2Fäch Theater- und Medienwissenschaft Erstfach 2010)
-
-- **Segment:** `exam:15551558` · **unitId:** `29910`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15551558>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=29910&periodId=589>
-
-### 1999 Bachelorarbeit (B.A.,2Fäch Ökonomie Zweitfach 2007)
-
-- **Segment:** `exam:15551571` · **unitId:** `41252`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15551571>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=41252&periodId=589>
-
-### 1999 Bachelorarbeit (B.A.,2Fäch Ökonomie Zweitfach 20142)
-
-- **Segment:** `exam:15551581` · **unitId:** `47941`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15551581>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47941&periodId=589>
 
 ### 23222 L'italiano per il lavoro - Leistung
 
@@ -3671,36 +3498,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | Mi | Mi | — | 07.06.2026 23:59:59 | — |
 
-### 68601 Thematisches Modul Medienwissenschaft - Leistung
-
-- **Segment:** `exam:15554733` · **unitId:** `45972`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15554712|exam:15554716|exam:15554717|exam:15554718|exam:15554731|exam:15554733>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45972&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | — | 07.06.2026 23:59:59 | — |
-
-### 68601 Thematisches Modul Medienwissenschaft - Leistung
-
-- **Segment:** `exam:15556309` · **unitId:** `45972`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15556288|exam:15556292|exam:15556293|exam:15556294|exam:15556307|exam:15556309>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45972&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | — | 07.06.2026 23:59:59 | — |
-
 ### 68651 Thematisches Modul Theaterwissenschaft - Leistung
 
 - **Segment:** `exam:15538552` · **unitId:** `45973`
@@ -3750,36 +3547,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:15553147` · **unitId:** `45973`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15553123|exam:15553127|exam:15553128|exam:15553129|exam:15553145|exam:15553147>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45973&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | — | 07.06.2026 23:59:59 | — |
-
-### 68651 Thematisches Modul Theaterwissenschaft - Leistung
-
-- **Segment:** `exam:15554736` · **unitId:** `45973`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15554712|exam:15554716|exam:15554717|exam:15554718|exam:15554734|exam:15554736>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45973&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | — | 07.06.2026 23:59:59 | — |
-
-### 68651 Thematisches Modul Theaterwissenschaft - Leistung
-
-- **Segment:** `exam:15556312` · **unitId:** `45973`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15556288|exam:15556292|exam:15556293|exam:15556294|exam:15556310|exam:15556312>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45973&periodId=589>
 
 - **ECTS-Punkte:** 5.0
@@ -3971,66 +3738,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | Mi | Mi | — | 07.06.2026 23:59:59 | — |
 
-### 68952 Praxis Dokumentation - Leistung
-
-- **Segment:** `exam:15554753` · **unitId:** `45980`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15554712|exam:15554716|exam:15554717|exam:15554718|exam:15554750|exam:15554753>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45980&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | — | 07.06.2026 23:59:59 | — |
-
-### 68952 Praxis Dokumentation - Leistung
-
-- **Segment:** `exam:15556329` · **unitId:** `45980`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15556288|exam:15556292|exam:15556293|exam:15556294|exam:15556326|exam:15556329>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45980&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | — | 07.06.2026 23:59:59 | — |
-
-### 73872 Schlüsselqualifikationen Kunstgeschichte I
-
-- **Segment:** `exam:15549995` · **unitId:** `71467`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15549861|exam:15549904|exam:15549995>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71467&periodId=589>
-
-### 73873 Schlüsselqualifikationen Kunstgeschichte II
-
-- **Segment:** `exam:15549999` · **unitId:** `71469`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15549861|exam:15549904|exam:15549999>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71469&periodId=589>
-
-### 73874 Geschichte, Theorien und Methoden der Kunstgeschichte
-
-- **Segment:** `exam:15550004` · **unitId:** `71471`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15549861|exam:15549904|exam:15550004>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71471&periodId=589>
-
-### 73875 Kunst und Museen in Franken
-
-- **Segment:** `exam:15550009` · **unitId:** `71473`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15549861|exam:15549904|exam:15550009>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71473&periodId=589>
-
-### 73876 Grundlagen der Graphischen Künste
-
-- **Segment:** `exam:15550013` · **unitId:** `71475`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15549861|exam:15549904|exam:15550013>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71475&periodId=589>
-
 ### 73877 Grundlagen der angewandten Künste
 
 - **Segment:** `exam:15540286` · **unitId:** `71477`
@@ -4041,12 +3748,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:15543533` · **unitId:** `71477`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15543373|exam:15543377|exam:15543378|exam:15543422|exam:15543533>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71477&periodId=589>
-
-### 73877 Grundlagen der angewandten Künste
-
-- **Segment:** `exam:15550015` · **unitId:** `71477`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15549861|exam:15549904|exam:15550015>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71477&periodId=589>
 
 ### 73878 Grundlagen der Denkmalpflege
@@ -4061,12 +3762,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15543373|exam:15543377|exam:15543378|exam:15543422|exam:15543535>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71479&periodId=589>
 
-### 73878 Grundlagen der Denkmalpflege
-
-- **Segment:** `exam:15550017` · **unitId:** `71479`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15549861|exam:15549904|exam:15550017>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71479&periodId=589>
-
 ### 73879 Digitales Lernen und Lehren
 
 - **Segment:** `exam:15540290` · **unitId:** `71481`
@@ -4078,174 +3773,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:15543537` · **unitId:** `71481`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15543373|exam:15543377|exam:15543378|exam:15543422|exam:15543537>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71481&periodId=589>
-
-### 73879 Digitales Lernen und Lehren
-
-- **Segment:** `exam:15550019` · **unitId:** `71481`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15549861|exam:15549904|exam:15550019>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71481&periodId=589>
-
-### 73881 Berufsorientierung Kunstgeschichte
-
-- **Segment:** `exam:15550021` · **unitId:** `71483`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15549861|exam:15549904|exam:15550021>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71483&periodId=589>
-
-### 73882 Kunstgeschichte Italiens I
-
-- **Segment:** `exam:15549909` · **unitId:** `71485`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15549861|exam:15549904|exam:15549909>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71485&periodId=589>
-
-### 73883 Kunstgeschichte Italiens II
-
-- **Segment:** `exam:15549913` · **unitId:** `71487`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15549861|exam:15549904|exam:15549913>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71487&periodId=589>
-
-### 73884 Italienische Sprache und Kultur I
-
-- **Segment:** `exam:15549916` · **unitId:** `71489`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15549861|exam:15549904|exam:15549916>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71489&periodId=589>
-
-### 73885 Italienische Sprache und Kultur II
-
-- **Segment:** `exam:15549956` · **unitId:** `71490`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15549861|exam:15549904|exam:15549956>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71490&periodId=589>
-
-### 73886 Literatur, Kunst und Kulturgeschichte Italiens
-
-- **Segment:** `exam:15549905` · **unitId:** `113117`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15549861|exam:15549904|exam:15549905>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113117&periodId=589>
-
-### 76035 Schlüsselqualifikation 1
-
-- **Segment:** `exam:15549863` · **unitId:** `47898`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15549861|exam:15549862|exam:15549863>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47898&periodId=589>
-
-### 76036 Schlüsselqualifikation 2
-
-- **Segment:** `exam:15549871` · **unitId:** `47899`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15549861|exam:15549862|exam:15549871>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47899&periodId=589>
-
-### 76038 Wissenschaftliches Arbeiten
-
-- **Segment:** `exam:15549888` · **unitId:** `53619`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15549861|exam:15549862|exam:15549888>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53619&periodId=589>
-
-### 76039 Modernes Chinesisch: Grammatische Strukturen
-
-- **Segment:** `exam:15549891` · **unitId:** `53623`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15549861|exam:15549862|exam:15549891>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53623&periodId=589>
-
-### 76084 Schlüsselqualifikation 3
-
-- **Segment:** `exam:15549878` · **unitId:** `47909`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15549861|exam:15549862|exam:15549878>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47909&periodId=589>
-
-### 76086 Modernes Chinesisch: Kommunikative Kompetenz
-
-- **Segment:** `exam:15549895` · **unitId:** `64215`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15549861|exam:15549862|exam:15549895>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=64215&periodId=589>
-
-### 76087 Modernes Chinesisch: Hören und Sprechen
-
-- **Segment:** `exam:15549899` · **unitId:** `116036`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15549861|exam:15549862|exam:15549899>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116036&periodId=589>
-
-### 76401 Grundlagenmodul Einführung
-
-- **Segment:** `exam:15551524` · **unitId:** `29915`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15551523|exam:15551524>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=29915&periodId=589>
-
-### 76401 Grundlagenmodul Einführung
-
-- **Segment:** `exam:15557871` · **unitId:** `29915`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15557864|exam:15557868|exam:15557869|exam:15557870|exam:15557871>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=29915&periodId=589>
-
-### 76411 Grundlagenmodul Theaterwissenschaft
-
-- **Segment:** `exam:15551529` · **unitId:** `29916`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15551523|exam:15551529>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=29916&periodId=589>
-
-### 76411 Grundlagenmodul Theaterwissenschaft
-
-- **Segment:** `exam:15557876` · **unitId:** `29916`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15557864|exam:15557868|exam:15557869|exam:15557870|exam:15557876>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=29916&periodId=589>
-
-### 76421 Grundlagenmodul Medienwissenschaft
-
-- **Segment:** `exam:15551534` · **unitId:** `29917`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15551523|exam:15551534>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=29917&periodId=589>
-
-### 76421 Grundlagenmodul Medienwissenschaft
-
-- **Segment:** `exam:15557881` · **unitId:** `29917`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15557864|exam:15557868|exam:15557869|exam:15557870|exam:15557881>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=29917&periodId=589>
-
-### 76431 Aufbaumodul Theater- und Mediengeschichte
-
-- **Segment:** `exam:15551539` · **unitId:** `29918`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15551523|exam:15551539>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=29918&periodId=589>
-
-### 76431 Aufbaumodul Theater- und Mediengeschichte
-
-- **Segment:** `exam:15557886` · **unitId:** `29918`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15557864|exam:15557868|exam:15557869|exam:15557870|exam:15557886>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=29918&periodId=589>
-
-### 76441 Aufbaumodul Praxis
-
-- **Segment:** `exam:15551545` · **unitId:** `29921`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15551523|exam:15551545>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=29921&periodId=589>
-
-### 76441 Aufbaumodul Praxis
-
-- **Segment:** `exam:15557892` · **unitId:** `29921`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15557864|exam:15557868|exam:15557869|exam:15557870|exam:15557892>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=29921&periodId=589>
-
-### 76451 Vertiefungsmodul Praxis
-
-- **Segment:** `exam:15551550` · **unitId:** `29922`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15551523|exam:15551550>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=29922&periodId=589>
-
-### 76451 Vertiefungsmodul Praxis
-
-- **Segment:** `exam:15557897` · **unitId:** `29922`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15557864|exam:15557868|exam:15557869|exam:15557870|exam:15557897>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=29922&periodId=589>
-
-### 76461 Vertiefungsmodul Theater- und Medienforschung
-
-- **Segment:** `exam:15551553` · **unitId:** `29924`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15549855|exam:15549859|exam:15549860|exam:15551523|exam:15551553>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=29924&periodId=589>
-
-### 76461 Vertiefungsmodul Theater- und Medienforschung
-
-- **Segment:** `exam:15557900` · **unitId:** `29924`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15557864|exam:15557868|exam:15557869|exam:15557870|exam:15557900>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=29924&periodId=589>
 
 ### 76840 Einführung
 
@@ -4269,18 +3796,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:15553130` · **unitId:** `45959`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15553123|exam:15553127|exam:15553128|exam:15553129|exam:15553130>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45959&periodId=589>
-
-### 76840 Einführung
-
-- **Segment:** `exam:15554719` · **unitId:** `45959`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15554712|exam:15554716|exam:15554717|exam:15554718|exam:15554719>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45959&periodId=589>
-
-### 76840 Einführung
-
-- **Segment:** `exam:15556295` · **unitId:** `45959`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15556288|exam:15556292|exam:15556293|exam:15556294|exam:15556295>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45959&periodId=589>
 
 ### 76850 Basismodul Medienwissenschaft
@@ -4307,18 +3822,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15553123|exam:15553127|exam:15553128|exam:15553129|exam:15553134>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45960&periodId=589>
 
-### 76850 Basismodul Medienwissenschaft
-
-- **Segment:** `exam:15554723` · **unitId:** `45960`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15554712|exam:15554716|exam:15554717|exam:15554718|exam:15554723>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45960&periodId=589>
-
-### 76850 Basismodul Medienwissenschaft
-
-- **Segment:** `exam:15556299` · **unitId:** `45960`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15556288|exam:15556292|exam:15556293|exam:15556294|exam:15556299>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45960&periodId=589>
-
 ### 76855 Basismodul Theaterwissenschaft
 
 - **Segment:** `exam:15538543` · **unitId:** `45961`
@@ -4343,18 +3846,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15553123|exam:15553127|exam:15553128|exam:15553129|exam:15553138>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45961&periodId=589>
 
-### 76855 Basismodul Theaterwissenschaft
-
-- **Segment:** `exam:15554727` · **unitId:** `45961`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15554712|exam:15554716|exam:15554717|exam:15554718|exam:15554727>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45961&periodId=589>
-
-### 76855 Basismodul Theaterwissenschaft
-
-- **Segment:** `exam:15556303` · **unitId:** `45961`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15556288|exam:15556292|exam:15556293|exam:15556294|exam:15556303>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45961&periodId=589>
-
 ### 76870 Praxis (Grundlagenmodul)
 
 - **Segment:** `exam:15541813` · **unitId:** `45964`
@@ -4367,18 +3858,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15543373|exam:15543377|exam:15543378|exam:15545041|exam:15545060>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45964&periodId=589>
 
-### 76870 Praxis (Grundlagenmodul)
-
-- **Segment:** `exam:15554737` · **unitId:** `45964`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15554712|exam:15554716|exam:15554717|exam:15554718|exam:15554737>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45964&periodId=589>
-
-### 76870 Praxis (Grundlagenmodul)
-
-- **Segment:** `exam:15556313` · **unitId:** `45964`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15556288|exam:15556292|exam:15556293|exam:15556294|exam:15556313>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45964&periodId=589>
-
 ### 76880 Theater- und Mediengeschichte
 
 - **Segment:** `exam:15541815` · **unitId:** `45965`
@@ -4389,18 +3868,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:15545062` · **unitId:** `45965`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15543373|exam:15543377|exam:15543378|exam:15545041|exam:15545062>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45965&periodId=589>
-
-### 76880 Theater- und Mediengeschichte
-
-- **Segment:** `exam:15554739` · **unitId:** `45965`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15554712|exam:15554716|exam:15554717|exam:15554718|exam:15554739>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45965&periodId=589>
-
-### 76880 Theater- und Mediengeschichte
-
-- **Segment:** `exam:15556315` · **unitId:** `45965`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15556288|exam:15556292|exam:15556293|exam:15556294|exam:15556315>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45965&periodId=589>
 
 ### 76882 Theatergeschichte
@@ -4439,18 +3906,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15543373|exam:15543377|exam:15543378|exam:15545041|exam:15545066>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45966&periodId=589>
 
-### 76885 Praxis (Aufbaumodul)
-
-- **Segment:** `exam:15554743` · **unitId:** `45966`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15554712|exam:15554716|exam:15554717|exam:15554718|exam:15554743>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45966&periodId=589>
-
-### 76885 Praxis (Aufbaumodul)
-
-- **Segment:** `exam:15556319` · **unitId:** `45966`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15556288|exam:15556292|exam:15556293|exam:15556294|exam:15556319>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45966&periodId=589>
-
 ### 76890 Theater- und Medienforschung
 
 - **Segment:** `exam:15541823` · **unitId:** `45967`
@@ -4461,18 +3916,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:15545070` · **unitId:** `45967`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15543373|exam:15543377|exam:15543378|exam:15545041|exam:15545070>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45967&periodId=589>
-
-### 76890 Theater- und Medienforschung
-
-- **Segment:** `exam:15554747` · **unitId:** `45967`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15554712|exam:15554716|exam:15554717|exam:15554718|exam:15554747>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45967&periodId=589>
-
-### 76890 Theater- und Medienforschung
-
-- **Segment:** `exam:15556323` · **unitId:** `45967`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18242|exam:15556288|exam:15556292|exam:15556293|exam:15556294|exam:15556323>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45967&periodId=589>
 
 ### BS ital. Lit.wiss.  (Basismodul 72624) - Basisseminar italienische Literaturwissenschaft (Basismodul 72624) - Seminar
@@ -4815,26 +4258,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (118)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (74)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
-
-### "Fare stupire il mondo" - Veit Stoß und die Skulptur der Dürerzeit in Nürnberg — Vorlesung
-
-- **Segment:** `unit:138362` · **unitId:** `138362`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138362&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
-### "Heimat.Herd.Hetero." Sexualethik rechter Influencer:innen — Seminar
-
-- **Segment:** `unit:130868` · **unitId:** `130868`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130868&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** Unregelmäßig
 
 ### (HS) Hauptseminar Klassische Archäologie
 
@@ -4843,24 +4269,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 7.0
-- **Turnus:** nur im Wintersemester
-
-### Abbild - Selbstbild. Schlüsselwerke der Porträtmalerei vom 16. Jahrhundert bis zum 20. Jahrhundert — Aufbauseminar
-
-- **Segment:** `unit:117418` · **unitId:** `117418`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117418&periodId=589>
-
-- **Veranstaltungsart:** Aufbauseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
-### Academic Discourse (M.A) — Übung
-
-- **Segment:** `unit:82768` · **unitId:** `82768`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82768&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
 ### Advanced Grammar (MA) — Übung
@@ -4885,40 +4293,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 
-### Altarwerke der altniederländischen Malerei — Aufbauseminar
-
-- **Segment:** `unit:124830` · **unitId:** `124830`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124830&periodId=589>
-
-- **Veranstaltungsart:** Aufbauseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
-### Altdorfer, Breu, Cranach. Avantgarde im Donauraum? — Ober- und Hauptseminar
-
-- **Segment:** `unit:111186` · **unitId:** `111186`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111186&periodId=589>
-
-- **Veranstaltungsart:** Ober- und Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
-### Architektur und Skulptur der Parlerzeit in Süddeutschland — Aufbauseminar
-
-- **Segment:** `unit:131182` · **unitId:** `131182`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131182&periodId=589>
-
-- **Veranstaltungsart:** Aufbauseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
-### Automatisch Publizieren. Ethische und journalistische Perspektiven zum Einsatz von KI in Medienunternehmen — Seminar
-
-- **Segment:** `unit:119056` · **unitId:** `119056`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119056&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-
 ### BA 1. FS: Basisseminar Analyse (Medien) — Proseminar
 
 - **Segment:** `unit:85341` · **unitId:** `85341`
@@ -4937,24 +4311,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
 
-### BA 1. FS: Basisseminar Theorie und Historiographie (Medien) — Proseminar
-
-- **Segment:** `unit:99329` · **unitId:** `99329`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99329&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
-### BA 1. FS: Basisseminar Theorie und Historiographie (Theater) — Proseminar
-
-- **Segment:** `unit:92180` · **unitId:** `92180`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92180&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
 ### BA 1. FS: Vorlesung »Einführung in die Theater- und Medienwissenschaft«
 
 - **Segment:** `unit:92461` · **unitId:** `92461`
@@ -4964,15 +4320,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 3.0
 - **Turnus:** nur im Wintersemester
 
-### BA 1. FS: Übung »Einführung in das wissenschaftliche Arbeiten«
-
-- **Segment:** `unit:85638` · **unitId:** `85638`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85638&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
-- **Turnus:** nur im Wintersemester
-
 ### BA 3. FS: Projektseminar #1
 
 - **Segment:** `unit:106291` · **unitId:** `106291`
@@ -4980,15 +4327,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Projektseminar
 - **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
-### BA 3. FS: Vorlesung Mediengeschichte
-
-- **Segment:** `unit:102973` · **unitId:** `102973`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102973&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
 ### BA 3. FS: Vorlesung Theatergeschichte
@@ -5014,14 +4352,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 
-### BA 5. FS: [Modul Arabische Sprachwissenschaft und Dialektologie] Arabischer Dialekt - Strukturkurs und Konversation — Übung
-
-- **Segment:** `unit:88410` · **unitId:** `88410`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88410&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
 ### BA 5. FS: Hauptseminar Arbeitsfelder der Theater- und Medienwissenschaft
 
 - **Segment:** `unit:87060` · **unitId:** `87060`
@@ -5040,24 +4370,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.5
 - **Turnus:** Unregelmäßig
 
-### BA-5 Modernes Chinesisch: Grammatische Strukturen — Übung
-
-- **Segment:** `unit:106241` · **unitId:** `106241`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106241&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
-### BA-6 Grammatische Grundlegung des Chinese Language Proficiency Test HSK — Übung
-
-- **Segment:** `unit:82362` · **unitId:** `82362`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82362&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
 ### Bauen am Bauhaus — Aufbauseminar
 
 - **Segment:** `unit:126643` · **unitId:** `126643`
@@ -5067,14 +4379,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
-### Bellini, Dürer, Tizian... Altarmalerei der Renaissance in Venedig — Oberseminar
+### Bildende Kunst des Mittelalters im GNM — Aufbauseminar
 
-- **Segment:** `unit:85501` · **unitId:** `85501`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85501&periodId=589>
+- **Segment:** `unit:138348` · **unitId:** `138348`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138348&periodId=589>
 
-- **Veranstaltungsart:** Oberseminar
+- **Veranstaltungsart:** Aufbauseminar
 - **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
+- **Turnus:** Unregelmäßig
 
 ### Bildethik — Seminar
 
@@ -5098,13 +4410,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **Turnus:** Unregelmäßig
-
-### Christlich und Rechts: Influencer-Allianzen für mehr Reichweite? — Seminar
-
-- **Segment:** `unit:122273` · **unitId:** `122273`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122273&periodId=589>
-
-- **Veranstaltungsart:** Seminar
 
 ### Comprensione e produzione orale 2
 
@@ -5136,33 +4441,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **Turnus:** nicht in diesem Semester
 
-### Cranach I.: Die frühen Jahre der Wittenberger Bilderfabrik — Vorlesung
-
-- **Segment:** `unit:104740` · **unitId:** `104740`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104740&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Cranach II: Die späten Jahre der Wittenberger Bildermanufaktur — Vorlesung
-
-- **Segment:** `unit:115786` · **unitId:** `115786`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115786&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
-### Cultura e civiltà II — Übung
-
-- **Segment:** `unit:89518` · **unitId:** `89518`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89518&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Turnus:** nur im Wintersemester
-
 ### Das 19. Jahrhundert im GNM: Geschichte - Objekte - Ausstellungskonzepte — Seminar
 
 - **Segment:** `unit:111358` · **unitId:** `111358`
@@ -5187,15 +4465,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83415&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Das weibliche Rollenbild in der frühen Neuzeit zwischen Realität und Fiktion — Oberseminar
-
-- **Segment:** `unit:82474` · **unitId:** `82474`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82474&periodId=589>
-
-- **Veranstaltungsart:** Oberseminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
@@ -5271,15 +4540,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
 
-### Dürer + der Aztekenschatz: Wahrnehmungsformen außereuropäischer Kulturen in der Renaissance — Vorlesung
-
-- **Segment:** `unit:119843` · **unitId:** `119843`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119843&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
 ### Dürer als Universalkünstler - Teil II — Ober- und Hauptseminar
 
 - **Segment:** `unit:138353` · **unitId:** `138353`
@@ -5310,15 +4570,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127216&periodId=589>
 
 - **Veranstaltungsart:** Ober- und Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
-### Einführung in die Barockarchitektur: Architekten - Bauaufgaben - Auftraggeber — Aufbauseminar
-
-- **Segment:** `unit:111188` · **unitId:** `111188`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111188&periodId=589>
-
-- **Veranstaltungsart:** Aufbauseminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
@@ -5365,13 +4616,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Sommersemester
 
-### Ethics Lab — Seminar
-
-- **Segment:** `unit:139394` · **unitId:** `139394`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139394&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-
 ### Feminismus?! Ästhetik und Theorie der Geschlechterdifferenz im Kunstfeld — Vorlesung
 
 - **Segment:** `unit:122856` · **unitId:** `122856`
@@ -5408,22 +4652,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### Gotische Skulptur in Frankreich — Aufbauseminar
-
-- **Segment:** `unit:123004` · **unitId:** `123004`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123004&periodId=589>
-
-- **Veranstaltungsart:** Aufbauseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
-### Gott im Krieg. Religiöse Narrative und Inszenierungen in Zeiten von Kriegen und Konflikten — Seminar
-
-- **Segment:** `unit:127167` · **unitId:** `127167`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127167&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-
 ### Grammar & Vocabulary for Erasmus students
 
 - **Segment:** `unit:110306` · **unitId:** `110306`
@@ -5450,31 +4678,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mi | Mi | 12:00–14:00 | — | — |
 
-### Grammatica e stilistica I — Übung
-
-- **Segment:** `unit:86556` · **unitId:** `86556`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86556&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
-- **Turnus:** nur im Wintersemester
-
-### Grundlagen - Methoden - Kategorien — Seminar
-
-- **Segment:** `unit:115620` · **unitId:** `115620`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115620&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nur im Wintersemester
-
-### Grundzüge der Theologie für Nicht-Theologen — Seminar
-
-- **Segment:** `unit:116041` · **unitId:** `116041`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116041&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nur im Wintersemester
-
 ### Hans Baldung Grien — Ober- und Hauptseminar
 
 - **Segment:** `unit:131219` · **unitId:** `131219`
@@ -5484,35 +4687,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
-### Heldinnen - Göttinnen - Heilige. Weibliche Rollenporträts zwischen Mythos, Macht und Frömmigkeit im Italien der Frühen Neuzeit — Seminar
-
-- **Segment:** `unit:138365` · **unitId:** `138365`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138365&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
 ### Innen wie außen. Apps zu historischen Bauten — Seminar
 
 - **Segment:** `unit:120506` · **unitId:** `120506`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120506&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-
-### Interdisziplinäre Lehrveranstaltung — Seminar
-
-- **Segment:** `unit:130818` · **unitId:** `130818`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130818&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 4.0
-- **Turnus:** Unregelmäßig
-
-### Journalistische Berufsethik — Seminar
-
-- **Segment:** `unit:111435` · **unitId:** `111435`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111435&periodId=589>
 
 - **Veranstaltungsart:** Seminar
 
@@ -5530,14 +4708,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 16:00–18:00 | 14.04.2026–14.07.2026 | 06201.01.024 (TSG R. 1.024 Bibliothek Christliche Publizistik/Syst. Theologie/Ethik) |
-
-### KI und Chat GPT. Wissenschaftsjournalistische Herausforderungen — Seminar
-
-- **Segment:** `unit:116045` · **unitId:** `116045`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116045&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nicht in diesem Semester
 
 ### Kirchner und der Expressionismus — Ober- und Hauptseminar
 
@@ -5580,13 +4750,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Sa | 13:00–14:30 | 16.05.2026 | 06201.01.024 (TSG R. 1.024 Bibliothek Christliche Publizistik/Syst. Theologie/Ethik) |
 | Einzeltermin | Fr | 13:30–15:00 | 19.06.2026 | 06201.01.024 (TSG R. 1.024 Bibliothek Christliche Publizistik/Syst. Theologie/Ethik) |
 | Einzeltermin | Sa | 13:00–14:30 | 20.06.2026 | 06201.01.024 (TSG R. 1.024 Bibliothek Christliche Publizistik/Syst. Theologie/Ethik) |
-
-### Konstruktiver Journalismus & Co. - Neue Formen des Textjournalismus in Praxis, Theorie und Medienethik — Seminar
-
-- **Segment:** `unit:127259` · **unitId:** `127259`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127259&periodId=589>
-
-- **Veranstaltungsart:** Seminar
 
 ### Krisenkommunikation in Theorie und Praxis — Seminar
 
@@ -5671,14 +4834,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
 | wöchentlich | Mi | 16:00–18:00 | 15.04.2026–15.07.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
 
-### Latein II für Fortgeschrittene - Intensivkurs (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
-
-- **Segment:** `unit:89729` · **unitId:** `89729`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89729&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** Unregelmäßig
-
 ### Medienethik: Themen und Diskurse — Online-Kurs
 
 - **Segment:** `unit:86363` · **unitId:** `86363`
@@ -5718,15 +4873,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Do | 16:00–19:00 | 18.06.2026 | 06201.01.024 (TSG R. 1.024 Bibliothek Christliche Publizistik/Syst. Theologie/Ethik) |
 | Einzeltermin | Do | 16:00–19:00 | 25.06.2026 | — |
 
-### Museen verstehen: Architektur - Ausstellung - Ausstattung — Vorlesung
-
-- **Segment:** `unit:115790` · **unitId:** `115790`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115790&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
 ### Natur und Kunst - Kulturgeschichte und Ökologie. Ein Gang durch die Jahrhunderte in den Sammlungen des GNM — Ober- und Hauptseminar
 
 - **Segment:** `unit:116325` · **unitId:** `116325`
@@ -5763,32 +4909,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
-### Propädeutik - Quellenkunde und Kunsttheorie — Seminar
-
-- **Segment:** `unit:104494` · **unitId:** `104494`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104494&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
-### Protest*Aktionen*Straße Zur medialen Inszenierung von Straßenaktionen — Seminar
-
-- **Segment:** `unit:111458` · **unitId:** `111458`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111458&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nicht in diesem Semester
-
-### Protestantischer Kirchenbau der Frühen Neuzeit — Aufbauseminar
-
-- **Segment:** `unit:126701` · **unitId:** `126701`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126701&periodId=589>
-
-- **Veranstaltungsart:** Aufbauseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
 ### Regional, national, global. Herausforderungen für eine postkoloniale Kunst- und Kulturgeschichte — Ober- und Hauptseminar
 
 - **Segment:** `unit:127218` · **unitId:** `127218`
@@ -5804,15 +4924,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126699&periodId=589>
 
 - **Veranstaltungsart:** Aufbauseminar
-- **Turnus:** Unregelmäßig
-
-### Romanische Portale in Frankreich — Aufbauseminar
-
-- **Segment:** `unit:138350` · **unitId:** `138350`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138350&periodId=589>
-
-- **Veranstaltungsart:** Aufbauseminar
-- **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
 ### Rubens und die Italiener — Aufbauseminar
@@ -5871,22 +4982,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
-### Spätromanik und frühe Gotikrezeption in Deutschland — Aufbauseminar
-
-- **Segment:** `unit:126702` · **unitId:** `126702`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126702&periodId=589>
-
-- **Veranstaltungsart:** Aufbauseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
-### Status: Es ist kompliziert. Was ist der Mensch? Was ist das Tier? Eine Annäherung an die Verhältnisbestimmung von Tier und Mensch in zeitgenössischen Kino-Filmen — Seminar
-
-- **Segment:** `unit:117136` · **unitId:** `117136`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117136&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-
 ### The R and R Studio Environment (short test)
 
 - **Segment:** `unit:75716` · **unitId:** `75716`
@@ -5939,22 +5034,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 06201.01.024 (TSG R. 1.024 Bibliothek Christliche Publizistik/Syst. Theologie/Ethik) |
 
-### Weltuntergang mit Publikum Narrationen und mediale Inszenierungen dystopischen Empfindens und Denkens in Krisenzeiten — Seminar
-
-- **Segment:** `unit:119057` · **unitId:** `119057`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119057&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-
-### Wenn's keiner gewesen sein will. "Verantwortung" als Kategorie von Medienethik und digitaler Ethik — Seminar
-
-- **Segment:** `unit:116043` · **unitId:** `116043`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116043&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 3.0
-- **Turnus:** nur im Wintersemester
-
 ### Wiener Werkstätte. Die Moderne entsteht — Ober- und Hauptseminar
 
 - **Segment:** `unit:115782` · **unitId:** `115782`
@@ -5963,10 +5042,3 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Ober- und Hauptseminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
-
-### Woke - aufgewacht!? Eine medienethische Herausforderung — Seminar
-
-- **Segment:** `unit:122027` · **unitId:** `122027`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122027&periodId=589>
-
-- **Veranstaltungsart:** Seminar

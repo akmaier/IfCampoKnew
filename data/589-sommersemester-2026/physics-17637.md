@@ -377,7 +377,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 13101.01.683 (SR 01.683 Seminarraum der Theoretischen Physik I) |
 
 ### Grundlagen der biologischen Strahlenwirkung - Vorlesung
 
@@ -3223,7 +3230,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| Mi | Mi | 14:00–16:00 | — | — |
 
 ### 70221 Advances in Spin and Photon-Based Quantum Technologies - Leistung
 
@@ -4969,7 +4976,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mo | 13:00–15:00 | 13.04.2026–13.07.2026 | 13101.01.332 (SR 01.332 Seminarraum Festkörperphysik) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (96)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (55)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -4982,14 +4989,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 10.0
 - **Turnus:** nur im Wintersemester
 
-### Advanced Course in Experimental Physics  (Lasers, Atomic Physics and Quantum Optics)(Laser exercise lab)(EV-AL) — Übung
-
-- **Segment:** `unit:84291` · **unitId:** `84291`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84291&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
 ### Advanced Course in Experimental Physics (Lasers, Atomic Physics and Quantum Optics) (Excercise class) — Übung
 
 - **Segment:** `unit:84886` · **unitId:** `84886`
@@ -4997,24 +4996,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
-
-### Advanced lab course for master students in physics, part 1 — Praktikum
-
-- **Segment:** `unit:85211` · **unitId:** `85211`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85211&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
-
-### Advanced lab course for master students in physics, part 2 — Praktikum
-
-- **Segment:** `unit:94014` · **unitId:** `94014`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94014&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
 
 ### Advanced Machine Learning for Physics and Scientific Discovery — Hauptseminar
 
@@ -5025,24 +5006,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 10.0
 - **Turnus:** nur im Wintersemester
 
-### Advanced nonlinear optics — Vorlesung
-
-- **Segment:** `unit:95857` · **unitId:** `95857`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95857&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
-
-### Advanced Optical Spectroscopy in Solids — Vorlesung mit Übung
-
-- **Segment:** `unit:116402` · **unitId:** `116402`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116402&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
 ### Advanced Projects in Computational Physics 2 — Praktikum
 
 - **Segment:** `unit:93897` · **unitId:** `93897`
@@ -5050,48 +5013,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Advanced theoretical physics: Advanced quantum mechanics — Vorlesung
-
-- **Segment:** `unit:91909` · **unitId:** `91909`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91909&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 10.0
-- **Turnus:** nur im Wintersemester
-
-### Advanced theoretical physics: Advanced quantum mechanics (Exercise class) — Übung
-
-- **Segment:** `unit:88568` · **unitId:** `88568`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88568&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** in jedem Semester
-
-### Allgemeine Relativitätstheorie — Vorlesung
-
-- **Segment:** `unit:82220` · **unitId:** `82220`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82220&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### Allgemeine Relativitätstheorie II — Vorlesung mit Übung
-
-- **Segment:** `unit:107047` · **unitId:** `107047`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107047&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-
-### Arduino hard- and software for lab applications and beyond — Praktikum
-
-- **Segment:** `unit:104111` · **unitId:** `104111`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104111&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
 
 ### Astrophysical Radiation Processes — Hauptseminar
@@ -5102,15 +5023,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
-
-### Attosekundenphysik — Vorlesung
-
-- **Segment:** `unit:85923` · **unitId:** `85923`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85923&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
 
 ### Being creative in physics — Hauptseminar
 
@@ -5219,32 +5131,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 7.5
 - **Turnus:** Unregelmäßig
 
-### Current Trends in Correlated Quantum Systems - Journal club — Masterseminar
-
-- **Segment:** `unit:132877` · **unitId:** `132877`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132877&periodId=589>
-
-- **Veranstaltungsart:** Masterseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
-### Data acquisition and digital processing of analog signals — Vorlesung
-
-- **Segment:** `unit:83181` · **unitId:** `83181`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83181&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### Data acquisition and digital processing of analog signals (exercises) — Übung
-
-- **Segment:** `unit:86112` · **unitId:** `86112`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86112&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Sommersemester
-
 ### Detektoren für Teilchen und Strahlung — Hauptseminar
 
 - **Segment:** `unit:84243` · **unitId:** `84243`
@@ -5262,15 +5148,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
-
-### Dimensionsanalyse und experimentelles Arbeiten — Vorlesung
-
-- **Segment:** `unit:85810` · **unitId:** `85810`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85810&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
 
 ### Einführung in die Biomedizinische Technik — Vorlesung
 
@@ -5306,13 +5183,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
 
-### Exercises for Theory of Soft Matter and Biological Physics — Übung
-
-- **Segment:** `unit:110919` · **unitId:** `110919`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110919&periodId=589>
-
-- **Veranstaltungsart:** Übung
-
 ### Exercises to Methods of data analysis II — Übung
 
 - **Segment:** `unit:90746` · **unitId:** `90746`
@@ -5322,37 +5192,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### Extreme Astrophysics — Hauptseminar
-
-- **Segment:** `unit:110955` · **unitId:** `110955`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110955&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
-### Finite Projektive Physik: von der klassischen Mechanik zur Quantenfeldtheorie — Vorlesung mit Übung
-
-- **Segment:** `unit:122366` · **unitId:** `122366`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122366&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-
 ### From Artificial Intelligence to Artificial Scientists — Vorlesung
 
 - **Segment:** `unit:121188` · **unitId:** `121188`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121188&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
-
-### Galaxien und Kosmologie — Hauptseminar
-
-- **Segment:** `unit:87610` · **unitId:** `87610`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87610&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Grammar & Vocabulary for Erasmus students
 
@@ -5367,15 +5212,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Sa | Sa | 13:00–19:00 | — | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
-### Group Theory for Physicists — Vorlesung mit Übung
-
-- **Segment:** `unit:82991` · **unitId:** `82991`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82991&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
-
 ### Grundlagen der systemnahen Programmierung in C
 
 - **Segment:** `unit:20891` · **unitId:** `20891`
@@ -5389,13 +5225,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Fr | Fr | 08:00–09:00 | — | 11907.01.030 (H19) |
-
-### Interpreting Astronomical Spectra 2 — Praktikum
-
-- **Segment:** `unit:119091` · **unitId:** `119091`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119091&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
 
 ### Introduction to Astroparticle Physics — Vorlesung
 
@@ -5479,14 +5308,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
 | wöchentlich | Mi | 16:00–18:00 | 15.04.2026–15.07.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
 
-### Latein II für Fortgeschrittene - Intensivkurs (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
-
-- **Segment:** `unit:89729` · **unitId:** `89729`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89729&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** Unregelmäßig
-
 ### Machine Learning for Physicists (UE) — Übung
 
 - **Segment:** `unit:111312` · **unitId:** `111312`
@@ -5538,48 +5359,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### Modern Optics 1: Advanced Optics — Vorlesung
-
-- **Segment:** `unit:88880` · **unitId:** `88880`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88880&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Modern Optics 1: Advanced Optics (Excercise class) — Übung
-
-- **Segment:** `unit:82652` · **unitId:** `82652`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82652&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Multiwavelength astronomy — Hauptseminar
-
-- **Segment:** `unit:93123` · **unitId:** `93123`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93123&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
-### Neural Networks in Quantum Science: From Fundamentals to Applications — Hauptseminar
-
-- **Segment:** `unit:124004` · **unitId:** `124004`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124004&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
-### Nobel Prizes in Theory of Light and Matter — Hauptseminar
-
-- **Segment:** `unit:113087` · **unitId:** `113087`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113087&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-
 ### Non-equilibrium approaches to complex quantum materials — Hauptseminar
 
 - **Segment:** `unit:107721` · **unitId:** `107721`
@@ -5588,39 +5367,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Hauptseminar
 - **Turnus:** nur im Wintersemester
 
-### Novel 2D Materials / Neue zweidimensionale Materialien — Hauptseminar
-
-- **Segment:** `unit:111071` · **unitId:** `111071`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111071&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
 ### Novel techniques in ultrafast spectroscopy — Seminar
 
 - **Segment:** `unit:113614` · **unitId:** `113614`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113614&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
-### Optical properties of solids — Hauptseminar
-
-- **Segment:** `unit:130797` · **unitId:** `130797`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130797&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
-### Path Integrals — Vorlesung mit Übung
-
-- **Segment:** `unit:119023` · **unitId:** `119023`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119023&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
@@ -5650,57 +5402,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
-
-### Physics seminar: "Problems of the International Physicists' Tournament" — Hauptseminar
-
-- **Segment:** `unit:90877` · **unitId:** `90877`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90877&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Physics Seminar: Physics of low dimensional Materials — Hauptseminar
-
-- **Segment:** `unit:111073` · **unitId:** `111073`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111073&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
-### Physikalisches Seminar: Materie in intensiven Laserfeldern — Hauptseminar
-
-- **Segment:** `unit:88034` · **unitId:** `88034`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88034&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### Physikalisches Seminar: Nonlinear and Quantum Optics — Hauptseminar
-
-- **Segment:** `unit:92583` · **unitId:** `92583`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92583&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
-
-### Quanten Algorithmen — Seminar
-
-- **Segment:** `unit:120739` · **unitId:** `120739`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120739&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-
-### Quantum and/or classical algorithms — Hauptseminar
-
-- **Segment:** `unit:87248` · **unitId:** `87248`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87248&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** nur im Wintersemester
 
 ### Quantum Control — Hauptseminar
 
@@ -5747,15 +5448,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** in jedem Semester
-
-### Struktur kristalliner Materie I — Vorlesung
-
-- **Segment:** `unit:84622` · **unitId:** `84622`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84622&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
 
 ### Superconducting Qubits — Hauptseminar
 
@@ -5814,40 +5506,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 08:15–09:45 | 14.04.2026–14.07.2026 | 11906.01.040 (H20) |
-
-### Theoretical Surface Physics — Vorlesung
-
-- **Segment:** `unit:99205` · **unitId:** `99205`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99205&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### Tutorial Group Theory for Physicists — Übung
-
-- **Segment:** `unit:82539` · **unitId:** `82539`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82539&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** in jedem Semester
-
-### Waveguides, optical fibres and photonic crystal fibres — Vorlesung mit Übung
-
-- **Segment:** `unit:88741` · **unitId:** `88741`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88741&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Übung zur Theoretical Surface Physics
-
-- **Segment:** `unit:85845` · **unitId:** `85845`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85845&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Sommersemester
 
 ### Übungen zu Detektoren für Teilchen und Strahlung
 

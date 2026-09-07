@@ -5,7 +5,7 @@ campo_segment: "title:17183"
 campo_path: "title:16758|title:16763|title:17183"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183"
 po_version_count: 4
-course_count: 620
+course_count: 501
 ---
 
 # Englisch für das Lehramt
@@ -36,7 +36,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Campo-Segment:** `title:17279`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|title:17279>
 
-## Veranstaltungen (620)
+## Veranstaltungen (501)
 
 ### 19th-Century Literature and Culture - Vorlesung
 
@@ -58,38 +58,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:13658624` · **unitId:** `130600`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12812940|exam:12812944|exam:12813051|exam:13658624>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130600&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 16:15–17:45 | 14.10.2025–03.02.2026 | 00501.01.012 ( KH 1.012 Hörsaal Kollegienhaus) |
-
-### 19th-Century Literature and Culture - Vorlesung
-
-- **Segment:** `exam:13658625` · **unitId:** `130600`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813221|exam:13658625>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130600&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 16:15–17:45 | 14.10.2025–03.02.2026 | 00501.01.012 ( KH 1.012 Hörsaal Kollegienhaus) |
-
-### 19th-Century Literature and Culture - Vorlesung
-
-- **Segment:** `exam:13658626` · **unitId:** `130600`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813336|exam:13658626>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130600&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
@@ -133,102 +101,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 10:15–11:45 | 13.10.2025–02.02.2026 | 00501.02.012 ( KH 2.012 Hörsaal Kollegienhaus) |
-
-### 20th- and 21st-Century Novels - Vorlesung
-
-- **Segment:** `exam:13696894` · **unitId:** `130602`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813221|exam:13696894>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130602&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:15–11:45 | 13.10.2025–02.02.2026 | 00501.02.012 ( KH 2.012 Hörsaal Kollegienhaus) |
-
-### 20th- and 21st-Century Novels - Vorlesung
-
-- **Segment:** `exam:13696895` · **unitId:** `130602`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813336|exam:13696895>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130602&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:15–11:45 | 13.10.2025–02.02.2026 | 00501.02.012 ( KH 2.012 Hörsaal Kollegienhaus) |
-
-### Advances in Construction Grammar - Oberseminar
-
-- **Segment:** `exam:13731413` · **unitId:** `130620`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12812746|exam:12812753|exam:12812872|exam:13731413>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130620&periodId=565>
-
-- **Veranstaltungsart:** Oberseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 16:15–17:45 | 13.10.2025–02.02.2026 | 05801.01.310 ( C 301 Übungsraum) |
-
-### Advances in Construction Grammar - Oberseminar
-
-- **Segment:** `exam:13731414` · **unitId:** `130620`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12812940|exam:12812944|exam:12813043|exam:13731414>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130620&periodId=565>
-
-- **Veranstaltungsart:** Oberseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 16:15–17:45 | 13.10.2025–02.02.2026 | 05801.01.310 ( C 301 Übungsraum) |
-
-### Advances in Construction Grammar - Oberseminar
-
-- **Segment:** `exam:13731415` · **unitId:** `130620`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813213|exam:13731415>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130620&periodId=565>
-
-- **Veranstaltungsart:** Oberseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 16:15–17:45 | 13.10.2025–02.02.2026 | 05801.01.310 ( C 301 Übungsraum) |
-
-### Advances in Construction Grammar - Oberseminar
-
-- **Segment:** `exam:13731416` · **unitId:** `130620`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813328|exam:13731416>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130620&periodId=565>
-
-- **Veranstaltungsart:** Oberseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 16:15–17:45 | 13.10.2025–02.02.2026 | 05801.01.310 ( C 301 Übungsraum) |
 
 ### Assessing English Language Skills  - Proseminar / Mittelseminar
 
@@ -378,38 +250,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:12812952` · **unitId:** `96940`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12812940|exam:12812944|exam:12812948|exam:12812952>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96940&periodId=565>
-
-- **Veranstaltungsart:** Aufbauseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:00–12:00 | 13.10.2025–02.02.2026 | 00501.01.012 ( KH 1.012 Hörsaal Kollegienhaus) |
-
-### Aufbauseminar English Linguistics II (Erlangen) - Aufbauseminar
-
-- **Segment:** `exam:12813122` · **unitId:** `96940`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813118|exam:12813122>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96940&periodId=565>
-
-- **Veranstaltungsart:** Aufbauseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:00–12:00 | 13.10.2025–02.02.2026 | 00501.01.012 ( KH 1.012 Hörsaal Kollegienhaus) |
-
-### Aufbauseminar English Linguistics II (Erlangen) - Aufbauseminar
-
-- **Segment:** `exam:12813263` · **unitId:** `96940`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813259|exam:12813263>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96940&periodId=565>
 
 - **Veranstaltungsart:** Aufbauseminar
@@ -582,38 +422,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Di | 14:15–15:45 | 14.10.2025–03.02.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
 
-### Aufbauseminar Literature - Aufbauseminar
-
-- **Segment:** `exam:12813128` · **unitId:** `92490`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813126|exam:12813128>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92490&periodId=565>
-
-- **Veranstaltungsart:** Aufbauseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 14.10.2025–03.02.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
-
-### Aufbauseminar Literature - Aufbauseminar
-
-- **Segment:** `exam:12813269` · **unitId:** `92490`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813267|exam:12813269>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92490&periodId=565>
-
-- **Veranstaltungsart:** Aufbauseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 14.10.2025–03.02.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
-
 ### Basisvorlesung English Linguistics II - Vorlesung
 
 - **Segment:** `exam:13656570` · **unitId:** `130623`
@@ -646,38 +454,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Di | 18:00–19:00 | 14.10.2025–03.02.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
 
-### Basisvorlesung English Linguistics II - Vorlesung
-
-- **Segment:** `exam:13656564` · **unitId:** `130623`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813118|exam:13656564>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130623&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 18:00–19:00 | 14.10.2025–03.02.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
-
-### Basisvorlesung English Linguistics II - Vorlesung
-
-- **Segment:** `exam:13656565` · **unitId:** `130623`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813259|exam:13656565>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130623&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 18:00–19:00 | 14.10.2025–03.02.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
-
 ### Bilingual Lexicography - Hauptseminar
 
 - **Segment:** `exam:13683153` · **unitId:** `130626`
@@ -698,38 +474,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:13683154` · **unitId:** `130626`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12812940|exam:12812944|exam:12813007|exam:13683154>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130626&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 08:15–09:45 | 15.10.2025–04.02.2026 | 05801.01.310 ( C 301 Übungsraum) |
-
-### Bilingual Lexicography - Hauptseminar
-
-- **Segment:** `exam:13683155` · **unitId:** `130626`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813177|exam:13683155>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130626&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 08:15–09:45 | 15.10.2025–04.02.2026 | 05801.01.310 ( C 301 Übungsraum) |
-
-### Bilingual Lexicography - Hauptseminar
-
-- **Segment:** `exam:13683156` · **unitId:** `130626`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813292|exam:13683156>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130626&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar
@@ -872,22 +616,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### Contemporary Asian-American Writing - Mittelseminar
 
-- **Segment:** `exam:13695934` · **unitId:** `130673`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813150|exam:13695934>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130673&periodId=565>
-
-- **Veranstaltungsart:** Mittelseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:15–11:45 | 13.10.2025–02.02.2026 | 00501.01.014 ( KH 1.014 Hörsaal Kollegienhaus) |
-
-### Contemporary Asian-American Writing - Mittelseminar
-
 - **Segment:** `exam:13696362` · **unitId:** `130673`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813581|exam:12813585|exam:12813658|exam:13696362>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130673&periodId=565>
@@ -957,25 +685,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:13695398` · **unitId:** `130679`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12812940|exam:12812944|exam:12812980|exam:13695398>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130679&periodId=565>
-
-- **Veranstaltungsart:** Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung+Sa | — | 10:15–17:00 | 08.11.2025 | 05801.01.310 ( C 301 Übungsraum) |
-| Blockveranstaltung+Sa | — | 10:15–17:00 | 13.12.2025 | 05801.01.310 ( C 301 Übungsraum) |
-| Blockveranstaltung+Sa | — | 10:15–17:00 | 10.01.2026 | 05801.01.310 ( C 301 Übungsraum) |
-| Blockveranstaltung+Sa | — | 10:15–17:00 | 31.01.2026 | 05801.01.310 ( C 301 Übungsraum) |
-
-### Cultures of Breathing: From John Donne to Darth Vader and Beyond - Mittelseminar
-
-- **Segment:** `exam:13695399` · **unitId:** `130679`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813150|exam:13695399>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130679&periodId=565>
 
 - **Veranstaltungsart:** Mittelseminar
@@ -1103,40 +812,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:12812998` · **unitId:** `94515`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12812940|exam:12812944|exam:12812993|exam:12812998>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94515&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 08:15–09:45 | 21.10.2025–03.02.2026 | — |
-
-### Descriptive Phonetics / Phonetics 1: Theory - Vorlesung
-
-- **Segment:** `exam:12813168` · **unitId:** `94515`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813163|exam:12813168>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94515&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 08:15–09:45 | 21.10.2025–03.02.2026 | — |
-
-### Descriptive Phonetics / Phonetics 1: Theory - Vorlesung
-
-- **Segment:** `exam:12813283` · **unitId:** `94515`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813278|exam:12813283>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94515&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
@@ -1516,22 +1191,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### Dimensions of Power in William Shakespeare's Plays - Mittelseminar
 
-- **Segment:** `exam:13695489` · **unitId:** `130596`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813150|exam:13695489>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130596&periodId=565>
-
-- **Veranstaltungsart:** Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 14:15–15:45 | 15.10.2025–04.02.2026 | 00501.00.023 ( KH 0.023 Hörsaal Kollegienhaus) |
-
-### Dimensions of Power in William Shakespeare's Plays - Mittelseminar
-
 - **Segment:** `exam:13696295` · **unitId:** `130596`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813581|exam:12813585|exam:12813658|exam:13696295>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130596&periodId=565>
@@ -1610,38 +1269,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mi | 18:00–19:30 | 15.10.2025–04.02.2026 | 05801.01.310 ( C 301 Übungsraum) |
 
-### Early Modern and Postmodern Affective Cultures: Staging/Filming Shakespeare - Hauptseminar
-
-- **Segment:** `exam:13683207` · **unitId:** `130603`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813191|exam:13683207>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130603&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 18:00–19:30 | 15.10.2025–04.02.2026 | 05801.01.310 ( C 301 Übungsraum) |
-
-### Early Modern and Postmodern Affective Cultures: Staging/Filming Shakespeare - Hauptseminar
-
-- **Segment:** `exam:13683208` · **unitId:** `130603`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813306|exam:13683208>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130603&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 18:00–19:30 | 15.10.2025–04.02.2026 | 05801.01.310 ( C 301 Übungsraum) |
-
 ### English German Contrasts (Linguistisches Mittelseminar Erlangen) - Mittelseminar
 
 - **Segment:** `exam:13731508` · **unitId:** `132486`
@@ -1662,22 +1289,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:13731503` · **unitId:** `132486`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12812940|exam:12812944|exam:12812967|exam:13731503>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132486&periodId=565>
-
-- **Veranstaltungsart:** Mittelseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung | — | 10:00–15:00 | 22.09.2025–02.10.2025 | 05901.01.059 ( 01.059) |
-
-### English German Contrasts (Linguistisches Mittelseminar Erlangen) - Mittelseminar
-
-- **Segment:** `exam:13731504` · **unitId:** `132486`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813137|exam:13731504>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132486&periodId=565>
 
 - **Veranstaltungsart:** Mittelseminar
@@ -1870,36 +1481,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mi | 16:15–17:45 | 15.10.2025–04.02.2026 | 05801.00.317 ( C 202) |
 
-### Examensseminar L-Gym Literaturwissenschaft - Examensseminar
-
-- **Segment:** `exam:12813202` · **unitId:** `86912`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813191|exam:12813202>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86912&periodId=565>
-
-- **Veranstaltungsart:** Examensseminar
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 16:15–17:45 | 15.10.2025–04.02.2026 | 05801.00.317 ( C 202) |
-
-### Examensseminar L-Gym Literaturwissenschaft - Examensseminar
-
-- **Segment:** `exam:12813317` · **unitId:** `86912`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813306|exam:12813317>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86912&periodId=565>
-
-- **Veranstaltungsart:** Examensseminar
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 16:15–17:45 | 15.10.2025–04.02.2026 | 05801.00.317 ( C 202) |
-
 ### Examensseminar L-Gym Sprachwissenschaft - Examensseminar
 
 - **Segment:** `exam:12812834` · **unitId:** `85027`
@@ -1920,38 +1501,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:12813014` · **unitId:** `85027`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12812940|exam:12812944|exam:12813007|exam:12813014>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85027&periodId=565>
-
-- **Veranstaltungsart:** Examensseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:15–11:45 | 13.10.2025–02.02.2026 | 05901.01.055 ( 01.055) |
-
-### Examensseminar L-Gym Sprachwissenschaft - Examensseminar
-
-- **Segment:** `exam:12813184` · **unitId:** `85027`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813177|exam:12813184>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85027&periodId=565>
-
-- **Veranstaltungsart:** Examensseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:15–11:45 | 13.10.2025–02.02.2026 | 05901.01.055 ( 01.055) |
-
-### Examensseminar L-Gym Sprachwissenschaft - Examensseminar
-
-- **Segment:** `exam:12813299` · **unitId:** `85027`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813292|exam:12813299>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85027&periodId=565>
 
 - **Veranstaltungsart:** Examensseminar
@@ -1998,40 +1547,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | wöchentlich | Mi | 12:15–13:45 | 15.10.2025–04.02.2026 | 05801.01.310 ( C 301 Übungsraum) |
 | Einzeltermin | Mi | 12:00–14:00 | 04.02.2026 | 05801.01.312 ( C 303 Seminarraum) |
 
-### Fictions of Catastrophe - Hauptseminar
-
-- **Segment:** `exam:13683293` · **unitId:** `130585`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813191|exam:13683293>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130585&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 12:15–13:45 | 15.10.2025–04.02.2026 | 05801.01.310 ( C 301 Übungsraum) |
-| Einzeltermin | Mi | 12:00–14:00 | 04.02.2026 | 05801.01.312 ( C 303 Seminarraum) |
-
-### Fictions of Catastrophe - Hauptseminar
-
-- **Segment:** `exam:13683294` · **unitId:** `130585`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813306|exam:13683294>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130585&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 12:15–13:45 | 15.10.2025–04.02.2026 | 05801.01.310 ( C 301 Übungsraum) |
-| Einzeltermin | Mi | 12:00–14:00 | 04.02.2026 | 05801.01.312 ( C 303 Seminarraum) |
-
 ### Figures of Non-Binarism from Ovid to Kae Tempest - Hauptseminar
 
 - **Segment:** `exam:13683371` · **unitId:** `130605`
@@ -2052,38 +1567,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:13683372` · **unitId:** `130605`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12812940|exam:12812944|exam:12813021|exam:13683372>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130605&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 16:15–17:45 | 15.10.2025–04.02.2026 | 05801.01.310 ( C 301 Übungsraum) |
-
-### Figures of Non-Binarism from Ovid to Kae Tempest - Hauptseminar
-
-- **Segment:** `exam:13683373` · **unitId:** `130605`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813191|exam:13683373>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130605&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 16:15–17:45 | 15.10.2025–04.02.2026 | 05801.01.310 ( C 301 Übungsraum) |
-
-### Figures of Non-Binarism from Ovid to Kae Tempest - Hauptseminar
-
-- **Segment:** `exam:13683374` · **unitId:** `130605`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813306|exam:13683374>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130605&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar
@@ -2196,38 +1679,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Di | 14:15–15:45 | 14.10.2025–03.02.2026 | 00501.01.012 ( KH 1.012 Hörsaal Kollegienhaus) |
 
-### Grundseminar Culture - Grundseminar
-
-- **Segment:** `exam:12813134` · **unitId:** `95291`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813131|exam:12813134>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95291&periodId=565>
-
-- **Veranstaltungsart:** Grundseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 14.10.2025–03.02.2026 | 00501.01.012 ( KH 1.012 Hörsaal Kollegienhaus) |
-
-### Grundseminar Culture - Grundseminar
-
-- **Segment:** `exam:12813275` · **unitId:** `95291`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813272|exam:12813275>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95291&periodId=565>
-
-- **Veranstaltungsart:** Grundseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 14.10.2025–03.02.2026 | 00501.01.012 ( KH 1.012 Hörsaal Kollegienhaus) |
-
 ### Grundseminar English Linguistics I (Erlangen) - Grundseminar
 
 - **Segment:** `exam:12812756` · **unitId:** `89856`
@@ -2248,38 +1699,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:12812949` · **unitId:** `89856`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12812940|exam:12812944|exam:12812948|exam:12812949>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89856&periodId=565>
-
-- **Veranstaltungsart:** Grundseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:15–15:45 | 20.10.2025–02.02.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
-
-### Grundseminar English Linguistics I (Erlangen) - Grundseminar
-
-- **Segment:** `exam:12813119` · **unitId:** `89856`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813118|exam:12813119>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89856&periodId=565>
-
-- **Veranstaltungsart:** Grundseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:15–15:45 | 20.10.2025–02.02.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
-
-### Grundseminar English Linguistics I (Erlangen) - Grundseminar
-
-- **Segment:** `exam:12813260` · **unitId:** `89856`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813259|exam:12813260>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89856&periodId=565>
 
 - **Veranstaltungsart:** Grundseminar
@@ -2454,38 +1873,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### Grundseminar Literature (Erlangen) - Grundseminar
 
-- **Segment:** `exam:12813127` · **unitId:** `90210`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813126|exam:12813127>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90210&periodId=565>
-
-- **Veranstaltungsart:** Grundseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:15–15:45 | 20.10.2025–02.02.2026 | 00501.01.013 ( KH 1.013 Hörsaal Kollegienhaus) |
-
-### Grundseminar Literature (Erlangen) - Grundseminar
-
-- **Segment:** `exam:12813268` · **unitId:** `90210`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813267|exam:12813268>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90210&periodId=565>
-
-- **Veranstaltungsart:** Grundseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:15–15:45 | 20.10.2025–02.02.2026 | 00501.01.013 ( KH 1.013 Hörsaal Kollegienhaus) |
-
-### Grundseminar Literature (Erlangen) - Grundseminar
-
 - **Segment:** `exam:12813599` · **unitId:** `90210`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813581|exam:12813585|exam:12813596|exam:12813597|exam:12813599>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90210&periodId=565>
@@ -2638,38 +2025,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Di | 10:15–11:45 | 14.10.2025–03.02.2026 | 05801.01.310 ( C 301 Übungsraum) |
 
-### Iconic and Religious Animals: Wolves, Tigers and More - Hauptseminar
-
-- **Segment:** `exam:13683564` · **unitId:** `130604`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813191|exam:13683564>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130604&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:15–11:45 | 14.10.2025–03.02.2026 | 05801.01.310 ( C 301 Übungsraum) |
-
-### Iconic and Religious Animals: Wolves, Tigers and More - Hauptseminar
-
-- **Segment:** `exam:13683565` · **unitId:** `130604`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813306|exam:13683565>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130604&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:15–11:45 | 14.10.2025–03.02.2026 | 05801.01.310 ( C 301 Übungsraum) |
-
 ### Introduction to (Diachronic) Construction Grammar - Hauptseminar
 
 - **Segment:** `exam:13683516` · **unitId:** `130621`
@@ -2690,38 +2045,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:13683517` · **unitId:** `130621`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12812940|exam:12812944|exam:12813007|exam:13683517>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130621&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:15–11:45 | 14.10.2025–03.02.2026 | 05801.04.316 ( C 601 Seminarraum) |
-
-### Introduction to (Diachronic) Construction Grammar - Hauptseminar
-
-- **Segment:** `exam:13683518` · **unitId:** `130621`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813177|exam:13683518>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130621&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:15–11:45 | 14.10.2025–03.02.2026 | 05801.04.316 ( C 601 Seminarraum) |
-
-### Introduction to (Diachronic) Construction Grammar - Hauptseminar
-
-- **Segment:** `exam:13683519` · **unitId:** `130621`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813292|exam:13683519>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130621&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar
@@ -2844,22 +2167,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:12812977` · **unitId:** `111384`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12812940|exam:12812944|exam:12812967|exam:12812977>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111384&periodId=565>
-
-- **Veranstaltungsart:** Mittelseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 00501.00.020 ( KH 0.020 Hörsaal Kollegienhaus) |
-
-### Linguistisches Mittelseminar (Erlangen) - Mittelseminar
-
-- **Segment:** `exam:12813147` · **unitId:** `111384`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813137|exam:12813147>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111384&periodId=565>
 
 - **Veranstaltungsart:** Mittelseminar
@@ -3160,38 +2467,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Do | 16:15–17:45 | 16.10.2025–05.02.2026 | 05801.04.316 ( C 601 Seminarraum) |
 
-### Multimodal Communication - Hauptseminar
-
-- **Segment:** `exam:13684619` · **unitId:** `130629`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813177|exam:13684619>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130629&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 16:15–17:45 | 16.10.2025–05.02.2026 | 05801.04.316 ( C 601 Seminarraum) |
-
-### Multimodal Communication - Hauptseminar
-
-- **Segment:** `exam:13684620` · **unitId:** `130629`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813292|exam:13684620>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130629&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 16:15–17:45 | 16.10.2025–05.02.2026 | 05801.04.316 ( C 601 Seminarraum) |
-
 ### Nachhaltige Bildung im Fremdsprachenunterricht - Proseminar (Mittelseminar, PO 2020)
 
 - **Segment:** `exam:12812611` · **unitId:** `115091`
@@ -3352,38 +2627,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mo | 16:15–17:45 | 13.10.2025–02.02.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
 
-### North American Cultural Studies - Hauptseminar
-
-- **Segment:** `exam:13701073` · **unitId:** `130586`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813221|exam:13701073>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130586&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 16:15–17:45 | 13.10.2025–02.02.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
-
-### North American Cultural Studies - Hauptseminar
-
-- **Segment:** `exam:13701074` · **unitId:** `130586`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813336|exam:13701074>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130586&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 16:15–17:45 | 13.10.2025–02.02.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
-
 ### North American Literary Studies - Hauptseminar
 
 - **Segment:** `exam:13703554` · **unitId:** `130587`
@@ -3416,13 +2659,13 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mo | 12:15–13:45 | 13.10.2025–02.02.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
 
-### North American Literary Studies - Hauptseminar
+### Oberseminar Linguistics - Oberseminar
 
-- **Segment:** `exam:13703556` · **unitId:** `130587`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813221|exam:13703556>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130587&periodId=565>
+- **Segment:** `exam:13731413` · **unitId:** `130620`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12812746|exam:12812753|exam:12812872|exam:13731413>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130620&periodId=565>
 
-- **Veranstaltungsart:** Hauptseminar
+- **Veranstaltungsart:** Oberseminar
 - **Unterrichtssprache:** Englisch
 - **Turnus:** Unregelmäßig
 
@@ -3430,15 +2673,15 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 12:15–13:45 | 13.10.2025–02.02.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:15–17:45 | 13.10.2025–02.02.2026 | 05801.01.310 ( C 301 Übungsraum) |
 
-### North American Literary Studies - Hauptseminar
+### Oberseminar Linguistics - Oberseminar
 
-- **Segment:** `exam:13703557` · **unitId:** `130587`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813336|exam:13703557>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130587&periodId=565>
+- **Segment:** `exam:13731414` · **unitId:** `130620`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12812940|exam:12812944|exam:12813043|exam:13731414>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130620&periodId=565>
 
-- **Veranstaltungsart:** Hauptseminar
+- **Veranstaltungsart:** Oberseminar
 - **Unterrichtssprache:** Englisch
 - **Turnus:** Unregelmäßig
 
@@ -3446,7 +2689,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 12:15–13:45 | 13.10.2025–02.02.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:15–17:45 | 13.10.2025–02.02.2026 | 05801.01.310 ( C 301 Übungsraum) |
 
 ### Practical Phonetics - Übung
 
@@ -3503,40 +2746,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:12812999` · **unitId:** `89517`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12812940|exam:12812944|exam:12812993|exam:12812999>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89517&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 08:15–09:45 | 21.10.2025–03.02.2026 | 05801.U1.021 (SL 102, Bismarckstr.1 Multimedia-Sprachlabor (Belegung nur nach Rücksprache mit den Raumverantwortlichen)) |
-
-### Practical Phonetics - Übung
-
-- **Segment:** `exam:12813169` · **unitId:** `89517`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813163|exam:12813169>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89517&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 08:15–09:45 | 21.10.2025–03.02.2026 | 05801.U1.021 (SL 102, Bismarckstr.1 Multimedia-Sprachlabor (Belegung nur nach Rücksprache mit den Raumverantwortlichen)) |
-
-### Practical Phonetics - Übung
-
-- **Segment:** `exam:12813284` · **unitId:** `89517`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813278|exam:12813284>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89517&periodId=565>
 
 - **Veranstaltungsart:** Übung
@@ -3650,38 +2859,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Do | 10:15–11:45 | 16.10.2025–05.02.2026 | 05801.04.316 ( C 601 Seminarraum) |
 
-### Psycholinguistics - Hauptseminar
-
-- **Segment:** `exam:13684053` · **unitId:** `130630`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813177|exam:13684053>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130630&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:15–11:45 | 16.10.2025–05.02.2026 | 05801.04.316 ( C 601 Seminarraum) |
-
-### Psycholinguistics - Hauptseminar
-
-- **Segment:** `exam:13684054` · **unitId:** `130630`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813292|exam:13684054>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130630&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:15–11:45 | 16.10.2025–05.02.2026 | 05801.04.316 ( C 601 Seminarraum) |
-
 ### Quantitative Approaches to Linguistic Data Analysis: Multidimensional Analysis as a Study of Underlying Patterns in Discourse - Seminar
 
 - **Segment:** `exam:13741975` · **unitId:** `131797`
@@ -3734,22 +2911,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:13741993` · **unitId:** `131797`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12812940|exam:12812944|exam:12812967|exam:13741993>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131797&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 14:00–16:00 | 15.10.2025–04.02.2026 | 56901.01.032 (CIP-Pool 4 (aktuell noch keine Rechnerausstattung - Vorbelegungsrecht HTA Departments für WS bis 15.07.26))) |
-
-### Quantitative Approaches to Linguistic Data Analysis: Multidimensional Analysis as a Study of Underlying Patterns in Discourse - Seminar
-
-- **Segment:** `exam:13741994` · **unitId:** `131797`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813137|exam:13741994>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131797&periodId=565>
 
 - **Veranstaltungsart:** Seminar
@@ -3876,22 +3037,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### Slave Narratives - Mittelseminar
 
-- **Segment:** `exam:13695648` · **unitId:** `132061`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813150|exam:13695648>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132061&periodId=565>
-
-- **Veranstaltungsart:** Mittelseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 16:00–18:00 | 15.10.2025–04.02.2026 | 05801.04.316 ( C 601 Seminarraum) |
-
-### Slave Narratives - Mittelseminar
-
 - **Segment:** `exam:13696342` · **unitId:** `132061`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813581|exam:12813585|exam:12813658|exam:13696342>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132061&periodId=565>
@@ -3956,88 +3101,8 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### Sprachhistorisches Seminar - Sprachhistorisches Seminar
 
-- **Segment:** `exam:13684055` · **unitId:** `130619`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12812746|exam:12812753|exam:12812872|exam:13684055>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130619&periodId=565>
-
-- **Veranstaltungsart:** Sprachhistorisches Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 14.10.2025–03.02.2026 | 05801.04.316 ( C 601 Seminarraum) |
-
-### Sprachhistorisches Seminar - Sprachhistorisches Seminar
-
 - **Segment:** `exam:13684062` · **unitId:** `130619`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12812940|exam:12812944|exam:12812967|exam:13684062>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130619&periodId=565>
-
-- **Veranstaltungsart:** Sprachhistorisches Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 14.10.2025–03.02.2026 | 05801.04.316 ( C 601 Seminarraum) |
-
-### Sprachhistorisches Seminar - Sprachhistorisches Seminar
-
-- **Segment:** `exam:13684056` · **unitId:** `130619`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12812940|exam:12812944|exam:12813043|exam:13684056>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130619&periodId=565>
-
-- **Veranstaltungsart:** Sprachhistorisches Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 14.10.2025–03.02.2026 | 05801.04.316 ( C 601 Seminarraum) |
-
-### Sprachhistorisches Seminar - Sprachhistorisches Seminar
-
-- **Segment:** `exam:13684063` · **unitId:** `130619`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813137|exam:13684063>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130619&periodId=565>
-
-- **Veranstaltungsart:** Sprachhistorisches Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 14.10.2025–03.02.2026 | 05801.04.316 ( C 601 Seminarraum) |
-
-### Sprachhistorisches Seminar - Sprachhistorisches Seminar
-
-- **Segment:** `exam:13684057` · **unitId:** `130619`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813213|exam:13684057>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130619&periodId=565>
-
-- **Veranstaltungsart:** Sprachhistorisches Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 14.10.2025–03.02.2026 | 05801.04.316 ( C 601 Seminarraum) |
-
-### Sprachhistorisches Seminar - Sprachhistorisches Seminar
-
-- **Segment:** `exam:13684058` · **unitId:** `130619`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813328|exam:13684058>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130619&periodId=565>
 
 - **Veranstaltungsart:** Sprachhistorisches Seminar
@@ -4434,22 +3499,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mi | 14:15–15:45 | 15.10.2025–04.02.2026 | 05801.00.317 ( C 202) |
 
-### Textanalyseseminar - Seminar
-
-- **Segment:** `exam:13614366` · **unitId:** `130583`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813150|exam:13614366>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130583&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch oder Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 14:15–15:45 | 15.10.2025–04.02.2026 | 05801.00.317 ( C 202) |
-
 ### The Frontier in American Culture - Mittelseminar
 
 - **Segment:** `exam:13696097` · **unitId:** `130676`
@@ -4470,22 +3519,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:13696117` · **unitId:** `130676`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12812940|exam:12812944|exam:12812980|exam:13696117>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130676&periodId=565>
-
-- **Veranstaltungsart:** Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 12:15–13:45 | 15.10.2025–04.02.2026 | 00501.01.012 ( KH 1.012 Hörsaal Kollegienhaus) |
-
-### The Frontier in American Culture - Mittelseminar
-
-- **Segment:** `exam:13696118` · **unitId:** `130676`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813150|exam:13696118>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130676&periodId=565>
 
 - **Veranstaltungsart:** Mittelseminar
@@ -4550,38 +3583,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:13684121` · **unitId:** `130584`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12812940|exam:12812944|exam:12813021|exam:13684121>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130584&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch oder Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 12:15–13:45 | 16.10.2025–05.02.2026 | 05801.00.317 ( C 202) |
-
-### Theories and Practices of Reading - Hauptseminar
-
-- **Segment:** `exam:13684122` · **unitId:** `130584`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813191|exam:13684122>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130584&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch oder Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 12:15–13:45 | 16.10.2025–05.02.2026 | 05801.00.317 ( C 202) |
-
-### Theories and Practices of Reading - Hauptseminar
-
-- **Segment:** `exam:13684123` · **unitId:** `130584`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813306|exam:13684123>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130584&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar
@@ -5068,22 +4069,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### Victorian Poetry in Context - Mittelseminar
 
-- **Segment:** `exam:13696254` · **unitId:** `130598`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813150|exam:13696254>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130598&periodId=565>
-
-- **Veranstaltungsart:** Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 14:15–15:45 | 15.10.2025–04.02.2026 | 05801.01.310 ( C 301 Übungsraum) |
-
-### Victorian Poetry in Context - Mittelseminar
-
 - **Segment:** `exam:13696287` · **unitId:** `130598`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813581|exam:12813585|exam:12813658|exam:13696287>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130598&periodId=565>
@@ -5162,21 +4147,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### 70011 Grundseminar - Leistung
 
-- **Segment:** `exam:12813116` · **unitId:** `28154`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813115|exam:12813116>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=28154&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 70011 Grundseminar - Leistung
-
 - **Segment:** `exam:12813491` · **unitId:** `28154`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813483|exam:12813489|exam:12813490|exam:12813491>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=28154&periodId=565>
@@ -5224,21 +4194,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:12812947` · **unitId:** `28155`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12812940|exam:12812944|exam:12812945|exam:12812947>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=28155&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 70012 Aufbauseminar - Leistung
-
-- **Segment:** `exam:12813117` · **unitId:** `28155`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813115|exam:12813117>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=28155&periodId=565>
 
 - **ECTS-Punkte:** 5.0
@@ -5351,70 +4306,10 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | Fr | Fr | — | — | — |
 
-### 70101 Grundseminar - Leistung
-
-- **Segment:** `exam:12813123` · **unitId:** `21725`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813118|exam:12813123>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=21725&periodId=565>
-
-- **ECTS-Punkte:** 4.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | — | — | — |
-
-### 70101 Grundseminar - Leistung
-
-- **Segment:** `exam:12813264` · **unitId:** `21725`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813259|exam:12813264>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=21725&periodId=565>
-
-- **ECTS-Punkte:** 4.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | — | — | — |
-
 ### 70112 Aufbauseminar - Leistung
 
 - **Segment:** `exam:12812954` · **unitId:** `38422`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12812940|exam:12812944|exam:12812948|exam:12812954>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=38422&periodId=565>
-
-- **ECTS-Punkte:** 6.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | 16:00–18:00 | — | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
-
-### 70112 Aufbauseminar - Leistung
-
-- **Segment:** `exam:12813124` · **unitId:** `38422`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813118|exam:12813124>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=38422&periodId=565>
-
-- **ECTS-Punkte:** 6.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | 16:00–18:00 | — | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
-
-### 70112 Aufbauseminar - Leistung
-
-- **Segment:** `exam:12813265` · **unitId:** `38422`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813259|exam:12813265>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=38422&periodId=565>
 
 - **ECTS-Punkte:** 6.0
@@ -5456,70 +4351,10 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | Fr | Fr | 18:00–20:15 | — | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
 
-### 70211 Grundseminar - Leistung
-
-- **Segment:** `exam:12813129` · **unitId:** `39819`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813126|exam:12813129>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39819&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | 18:00–20:15 | — | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
-
-### 70211 Grundseminar - Leistung
-
-- **Segment:** `exam:12813270` · **unitId:** `39819`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813267|exam:12813270>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39819&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | 18:00–20:15 | — | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
-
 ### 70212 Aufbauseminar - Leistung
 
 - **Segment:** `exam:12812960` · **unitId:** `39820`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12812940|exam:12812944|exam:12812956|exam:12812960>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39820&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | 14:00–16:00 | — | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
-
-### 70212 Aufbauseminar - Leistung
-
-- **Segment:** `exam:12813130` · **unitId:** `39820`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813126|exam:12813130>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39820&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | 14:00–16:00 | — | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
-
-### 70212 Aufbauseminar - Leistung
-
-- **Segment:** `exam:12813271` · **unitId:** `39820`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813267|exam:12813271>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39820&periodId=565>
 
 - **ECTS-Punkte:** 5.0
@@ -5561,70 +4396,10 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### 70301 Vorlesung Landeskunde: USA/GB - Leistung
-
-- **Segment:** `exam:12813135` · **unitId:** `21883`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813131|exam:12813135>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=21883&periodId=565>
-
-- **ECTS-Punkte:** 4.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 70301 Vorlesung Landeskunde: USA/GB - Leistung
-
-- **Segment:** `exam:12813276` · **unitId:** `21883`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813272|exam:12813276>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=21883&periodId=565>
-
-- **ECTS-Punkte:** 4.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
 ### 70302 Grundseminar mit Projektarbeit - Leistung
 
 - **Segment:** `exam:12812966` · **unitId:** `21884`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12812940|exam:12812944|exam:12812961|exam:12812966>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=21884&periodId=565>
-
-- **ECTS-Punkte:** 6.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | 14:00–16:00 | — | — |
-
-### 70302 Grundseminar mit Projektarbeit - Leistung
-
-- **Segment:** `exam:12813136` · **unitId:** `21884`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813131|exam:12813136>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=21884&periodId=565>
-
-- **ECTS-Punkte:** 6.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | 14:00–16:00 | — | — |
-
-### 70302 Grundseminar mit Projektarbeit - Leistung
-
-- **Segment:** `exam:12813277` · **unitId:** `21884`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813272|exam:12813277>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=21884&periodId=565>
 
 - **ECTS-Punkte:** 6.0
@@ -5711,21 +4486,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | So | So | — | — | — |
 
-### 71011 Proseminar - Leistung
-
-- **Segment:** `exam:12813148` · **unitId:** `40010`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813137|exam:12813148>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=40010&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| So | So | — | — | — |
-
 ### 71012 Seminar (Sprachgeschichte) - Leistung
 
 - **Segment:** `exam:12812797` · **unitId:** `40011`
@@ -5745,21 +4505,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:12812979` · **unitId:** `40011`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12812940|exam:12812944|exam:12812967|exam:12812979>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=40011&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | 10:00–12:00 | — | 05701.00.017 ( Kl. Hörsaal) |
-
-### 71012 Seminar (Sprachgeschichte) - Leistung
-
-- **Segment:** `exam:12813149` · **unitId:** `40011`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813137|exam:12813149>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=40011&periodId=565>
 
 - **ECTS-Punkte:** 5.0
@@ -6041,21 +4786,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | So | So | — | — | — |
 
-### 71211 Proseminar - Leistung
-
-- **Segment:** `exam:12813161` · **unitId:** `40012`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813150|exam:12813161>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=40012&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| So | So | — | — | — |
-
 ### 71212 Textanalyse: Engl./Am. Literatur - Leistung
 
 - **Segment:** `exam:12812810` · **unitId:** `40013`
@@ -6075,21 +4805,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:12812992` · **unitId:** `40013`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12812940|exam:12812944|exam:12812980|exam:12812992>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=40013&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | — | — | — |
-
-### 71212 Textanalyse: Engl./Am. Literatur - Leistung
-
-- **Segment:** `exam:12813162` · **unitId:** `40013`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813150|exam:12813162>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=40013&periodId=565>
 
 - **ECTS-Punkte:** 5.0
@@ -6134,34 +4849,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:12813003` · **unitId:** `30625`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12812940|exam:12812944|exam:12812993|exam:12813003>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=30625&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 71303 Writing in Academic Contexts - Leistung
-
-- **Segment:** `exam:12813173` · **unitId:** `30625`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813163|exam:12813173>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=30625&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 71303 Writing in Academic Contexts - Leistung
-
-- **Segment:** `exam:12813288` · **unitId:** `30625`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813278|exam:12813288>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=30625&periodId=565>
 
 - **ECTS-Punkte:** 5.0
@@ -6230,34 +4917,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### 71305 Schriftliche Prüfung Phonetics I: Theory - Leistung
 
-- **Segment:** `exam:12813174` · **unitId:** `32300`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813163|exam:12813174>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=32300&periodId=565>
-
-- **ECTS-Punkte:** 2.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 71305 Schriftliche Prüfung Phonetics I: Theory - Leistung
-
-- **Segment:** `exam:12813289` · **unitId:** `32300`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813278|exam:12813289>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=32300&periodId=565>
-
-- **ECTS-Punkte:** 2.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 71305 Schriftliche Prüfung Phonetics I: Theory - Leistung
-
 - **Segment:** `exam:12813520` · **unitId:** `32300`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813483|exam:12813489|exam:12813508|exam:12813520>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=32300&periodId=565>
@@ -6314,34 +4973,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### 71306 Audioprüfung Phonetics II: Error Treatment - Leistung
 
-- **Segment:** `exam:12813175` · **unitId:** `32301`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813163|exam:12813175>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=32301&periodId=565>
-
-- **ECTS-Punkte:** 2.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 71306 Audioprüfung Phonetics II: Error Treatment - Leistung
-
-- **Segment:** `exam:12813290` · **unitId:** `32301`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813278|exam:12813290>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=32301&periodId=565>
-
-- **ECTS-Punkte:** 2.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 71306 Audioprüfung Phonetics II: Error Treatment - Leistung
-
 - **Segment:** `exam:12813521` · **unitId:** `32301`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813483|exam:12813489|exam:12813508|exam:12813521>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=32301&periodId=565>
@@ -6372,36 +5003,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:12813006` · **unitId:** `32720`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12812940|exam:12812944|exam:12812993|exam:12813006>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=32720&periodId=565>
-
-- **ECTS-Punkte:** 1.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 71307 Englisch: Conversation Practice - Leistung
-
-- **Segment:** `exam:12813176` · **unitId:** `32720`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813163|exam:12813176>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=32720&periodId=565>
-
-- **ECTS-Punkte:** 1.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 71307 Englisch: Conversation Practice - Leistung
-
-- **Segment:** `exam:12813291` · **unitId:** `32720`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813278|exam:12813291>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=32720&periodId=565>
 
 - **ECTS-Punkte:** 1.0
@@ -6488,36 +5089,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | Mi | Mi | 08:15–09:45 | — | 05801.01.310 ( C 301 Übungsraum) |
 
-### 71401 Hauptseminar - Leistung
-
-- **Segment:** `exam:12813185` · **unitId:** `23345`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813177|exam:12813185>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23345&periodId=565>
-
-- **ECTS-Punkte:** 7.0
-- **Unterrichtssprache:** Deutsch oder Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | 08:15–09:45 | — | 05801.01.310 ( C 301 Übungsraum) |
-
-### 71401 Hauptseminar - Leistung
-
-- **Segment:** `exam:12813300` · **unitId:** `23345`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813292|exam:12813300>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23345&periodId=565>
-
-- **ECTS-Punkte:** 7.0
-- **Unterrichtssprache:** Deutsch oder Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | 08:15–09:45 | — | 05801.01.310 ( C 301 Übungsraum) |
-
 ### 71402 Examenskurs - Leistung
 
 - **Segment:** `exam:12812836` · **unitId:** `23346`
@@ -6537,36 +5108,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:12813016` · **unitId:** `23346`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12812940|exam:12812944|exam:12813007|exam:12813016>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23346&periodId=565>
-
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch oder Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| So | So | — | — | — |
-
-### 71402 Examenskurs - Leistung
-
-- **Segment:** `exam:12813186` · **unitId:** `23346`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813177|exam:12813186>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23346&periodId=565>
-
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch oder Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| So | So | — | — | — |
-
-### 71402 Examenskurs - Leistung
-
-- **Segment:** `exam:12813301` · **unitId:** `23346`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813292|exam:12813301>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23346&periodId=565>
 
 - **ECTS-Punkte:** 3.0
@@ -6623,36 +5164,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | Di | Di | — | — | — |
 
-### 71501 Hauptseminar - Leistung
-
-- **Segment:** `exam:12813206` · **unitId:** `23347`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813191|exam:12813206>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23347&periodId=565>
-
-- **ECTS-Punkte:** 7.0
-- **Unterrichtssprache:** Deutsch oder Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | — | — | — |
-
-### 71501 Hauptseminar - Leistung
-
-- **Segment:** `exam:12813321` · **unitId:** `23347`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813306|exam:12813321>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23347&periodId=565>
-
-- **ECTS-Punkte:** 7.0
-- **Unterrichtssprache:** Deutsch oder Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | — | — | — |
-
 ### 71502 Examenskurs - Leistung
 
 - **Segment:** `exam:12812863` · **unitId:** `23348`
@@ -6683,70 +5194,10 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | So | So | — | — | — |
 
-### 71502 Examenskurs - Leistung
-
-- **Segment:** `exam:12813207` · **unitId:** `23348`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813191|exam:12813207>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23348&periodId=565>
-
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch oder Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| So | So | — | — | — |
-
-### 71502 Examenskurs - Leistung
-
-- **Segment:** `exam:12813322` · **unitId:** `23348`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813306|exam:12813322>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23348&periodId=565>
-
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch oder Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| So | So | — | — | — |
-
 ### 71601 Sprachpraktische Übung für Fortgeschrittene - Leistung
 
 - **Segment:** `exam:12813042` · **unitId:** `23336`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12812940|exam:12812944|exam:12813039|exam:12813042>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23336&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Sa | Sa | 09:00–15:30 | 07.12.2025 23:59:59 | 05801.U1.060 ( Audimax Auditorium Maximum) |
-
-### 71601 Sprachpraktische Übung für Fortgeschrittene - Leistung
-
-- **Segment:** `exam:12813212` · **unitId:** `23336`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813209|exam:12813212>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23336&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Sa | Sa | 09:00–15:30 | 07.12.2025 23:59:59 | 05801.U1.060 ( Audimax Auditorium Maximum) |
-
-### 71601 Sprachpraktische Übung für Fortgeschrittene - Leistung
-
-- **Segment:** `exam:12813327` · **unitId:** `23336`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813324|exam:12813327>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23336&periodId=565>
 
 - **ECTS-Punkte:** 5.0
@@ -6764,6 +5215,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12812746|exam:12812753|exam:12812865|exam:12812870>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73428&periodId=565>
 
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -6817,36 +5269,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | Do | Do | 10:00–12:00 | — | 05701.00.017 ( Kl. Hörsaal) |
 
-### 71701 Vorlesung und/oder Übung Linguistik (Angewandte Linguistik, Altenglisch etc. für Fortgeschrittene) - Leistung
-
-- **Segment:** `exam:12813218` · **unitId:** `23337`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813213|exam:12813218>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23337&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch oder Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | 10:00–12:00 | — | 05701.00.017 ( Kl. Hörsaal) |
-
-### 71701 Vorlesung und/oder Übung Linguistik (Angewandte Linguistik, Altenglisch etc. für Fortgeschrittene) - Leistung
-
-- **Segment:** `exam:12813333` · **unitId:** `23337`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813328|exam:12813333>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23337&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch oder Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | 10:00–12:00 | — | 05701.00.017 ( Kl. Hörsaal) |
-
 ### 71801 Vorlesung und/oder Übung Literaturwissenschaft - Leistung
 
 - **Segment:** `exam:12812885` · **unitId:** `23338`
@@ -6866,36 +5288,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:12813056` · **unitId:** `23338`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12812940|exam:12812944|exam:12813051|exam:12813056>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23338&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | — | 07.12.2025 23:59:59 | — |
-
-### 71801 Vorlesung und/oder Übung Literaturwissenschaft - Leistung
-
-- **Segment:** `exam:12813226` · **unitId:** `23338`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813221|exam:12813226>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23338&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | — | 07.12.2025 23:59:59 | — |
-
-### 71801 Vorlesung und/oder Übung Literaturwissenschaft - Leistung
-
-- **Segment:** `exam:12813341` · **unitId:** `23338`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813336|exam:12813341>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23338&periodId=565>
 
 - **ECTS-Punkte:** 5.0
@@ -8158,18 +6550,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### 77110 Basismodul Englischdidaktik
-
-- **Segment:** `exam:12813231` · **unitId:** `22758`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813230|exam:12813231>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=22758&periodId=565>
-
-### 77110 Basismodul Englischdidaktik
-
-- **Segment:** `exam:12813346` · **unitId:** `22758`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813345|exam:12813346>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=22758&periodId=565>
-
 ### AE_ESEnFD - Examensvorbereitendes Seminar RS, GYM  - Examensseminar
 
 - **Segment:** `exam:12812618` · **unitId:** `95703`
@@ -8222,38 +6602,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:12813081` · **unitId:** `95703`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12812940|exam:12813060|exam:12813078|exam:12813081>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95703&periodId=565>
-
-- **Veranstaltungsart:** Examensseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–15:00 | 14.10.2025–03.02.2026 | 00501.01.014 ( KH 1.014 Hörsaal Kollegienhaus) |
-
-### AE_ESEnFD - Examensvorbereitendes Seminar RS, GYM  - Examensseminar
-
-- **Segment:** `exam:12813239` · **unitId:** `95703`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813230|exam:12813237|exam:12813239>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95703&periodId=565>
-
-- **Veranstaltungsart:** Examensseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–15:00 | 14.10.2025–03.02.2026 | 00501.01.014 ( KH 1.014 Hörsaal Kollegienhaus) |
-
-### AE_ESEnFD - Examensvorbereitendes Seminar RS, GYM  - Examensseminar
-
-- **Segment:** `exam:12813354` · **unitId:** `95703`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813345|exam:12813352|exam:12813354>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95703&periodId=565>
 
 - **Veranstaltungsart:** Examensseminar
@@ -8524,38 +6872,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### AE_MSLAnT - Second Language Acquisition and Language Teaching - Mittelseminar (Hauptseminar, PO 2020)
 
-- **Segment:** `exam:12813240` · **unitId:** `87086`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813230|exam:12813237|exam:12813240>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87086&periodId=565>
-
-- **Veranstaltungsart:** Mittelseminar (Hauptseminar, PO 2020)
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 14.10.2025–03.02.2026 | 00501.00.015 ( KH 0.015 Hörsaal Kollegienhaus (SR)) |
-
-### AE_MSLAnT - Second Language Acquisition and Language Teaching - Mittelseminar (Hauptseminar, PO 2020)
-
-- **Segment:** `exam:12813355` · **unitId:** `87086`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813345|exam:12813352|exam:12813355>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87086&periodId=565>
-
-- **Veranstaltungsart:** Mittelseminar (Hauptseminar, PO 2020)
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 14.10.2025–03.02.2026 | 00501.00.015 ( KH 0.015 Hörsaal Kollegienhaus (SR)) |
-
-### AE_MSLAnT - Second Language Acquisition and Language Teaching - Mittelseminar (Hauptseminar, PO 2020)
-
 - **Segment:** `exam:12813457` · **unitId:** `87086`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813369|exam:12813433|exam:12813451|exam:12813457>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87086&periodId=565>
@@ -8670,38 +6986,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:12813080` · **unitId:** `101354`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12812940|exam:12813060|exam:12813078|exam:12813080>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101354&periodId=565>
-
-- **Veranstaltungsart:** Examensseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 11:30–12:30 | 14.10.2025–03.02.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
-
-### AN_ESFADI - Examensvorbereitendes Seminar GS, MS - Examensseminar
-
-- **Segment:** `exam:12813238` · **unitId:** `101354`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813230|exam:12813237|exam:12813238>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101354&periodId=565>
-
-- **Veranstaltungsart:** Examensseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 11:30–12:30 | 14.10.2025–03.02.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
-
-### AN_ESFADI - Examensvorbereitendes Seminar GS, MS - Examensseminar
-
-- **Segment:** `exam:12813353` · **unitId:** `101354`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813345|exam:12813352|exam:12813353>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101354&periodId=565>
 
 - **Veranstaltungsart:** Examensseminar
@@ -9171,40 +7455,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### SZEALaKUK/US - Landeskunde UK/US  - Vorlesung
 
-- **Segment:** `exam:12813133` · **unitId:** `97030`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813131|exam:12813133>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97030&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 4.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 10:15–11:45 | 17.10.2025–06.02.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) 05801.U1.060 ( Audimax Auditorium Maximum) |
-
-### SZEALaKUK/US - Landeskunde UK/US  - Vorlesung
-
-- **Segment:** `exam:12813274` · **unitId:** `97030`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813272|exam:12813274>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97030&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 4.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 10:15–11:45 | 17.10.2025–06.02.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) 05801.U1.060 ( Audimax Auditorium Maximum) |
-
-### SZEALaKUK/US - Landeskunde UK/US  - Vorlesung
-
 - **Segment:** `exam:12813397` · **unitId:** `97030`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813369|exam:12813375|exam:12813396|exam:12813397>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97030&periodId=565>
@@ -9358,40 +7608,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### SZEAOÜED - Übersetzung E-D  - Übung
 
-- **Segment:** `exam:12813211` · **unitId:** `86701`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813209|exam:12813211>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86701&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 18:00–19:30 | 15.10.2025–04.02.2026 | 00501.02.018 ( KH 2.018 Hörsaal Kollegienhaus (SR)) |
-
-### SZEAOÜED - Übersetzung E-D  - Übung
-
-- **Segment:** `exam:12813326` · **unitId:** `86701`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813324|exam:12813326>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86701&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 18:00–19:30 | 15.10.2025–04.02.2026 | 00501.02.018 ( KH 2.018 Hörsaal Kollegienhaus (SR)) |
-
-### SZEAOÜED - Übersetzung E-D  - Übung
-
 - **Segment:** `exam:12813421` · **unitId:** `86701`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813369|exam:12813375|exam:12813418|exam:12813421>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86701&periodId=565>
@@ -9511,40 +7727,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### SZEASpSk - Speaking Skills - Übung
 
-- **Segment:** `exam:12813164` · **unitId:** `100876`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813163|exam:12813164>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100876&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:00–10:45 | 13.10.2025–02.02.2026 | 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
-
-### SZEASpSk - Speaking Skills - Übung
-
-- **Segment:** `exam:12813279` · **unitId:** `100876`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813278|exam:12813279>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100876&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:00–10:45 | 13.10.2025–02.02.2026 | 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
-
-### SZEASpSk - Speaking Skills - Übung
-
 - **Segment:** `exam:12813412` · **unitId:** `100876`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813369|exam:12813375|exam:12813410|exam:12813412>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100876&periodId=565>
@@ -9632,40 +7814,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:12812996` · **unitId:** `87515`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12812940|exam:12812944|exam:12812993|exam:12812996>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87515&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 08:15–09:45 | 17.10.2025–06.02.2026 | 00501.00.024 (KH 0.024 Kollegienhaus - Belegung ausschließlich durch das Institut Politische Wissenschaft) 00501.00.015 ( KH 0.015 Hörsaal Kollegienhaus (SR)) |
-
-### SZEAWS - Writing Skills - Übung
-
-- **Segment:** `exam:12813166` · **unitId:** `87515`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813110|exam:12813114|exam:12813163|exam:12813166>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87515&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 08:15–09:45 | 17.10.2025–06.02.2026 | 00501.00.024 (KH 0.024 Kollegienhaus - Belegung ausschließlich durch das Institut Politische Wissenschaft) 00501.00.015 ( KH 0.015 Hörsaal Kollegienhaus (SR)) |
-
-### SZEAWS - Writing Skills - Übung
-
-- **Segment:** `exam:12813281` · **unitId:** `87515`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17183|exam:12813254|exam:12813258|exam:12813278|exam:12813281>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87515&periodId=565>
 
 - **Veranstaltungsart:** Übung

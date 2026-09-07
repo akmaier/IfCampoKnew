@@ -4,8 +4,8 @@ period_name: "Wintersemester 2025/26"
 campo_segment: "title:17185"
 campo_path: "title:16758|title:16763|title:17185"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185"
-po_version_count: 4
-course_count: 142
+po_version_count: 1
+course_count: 113
 ---
 
 # Spanisch
@@ -14,29 +14,14 @@ course_count: 142
 
 _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theologie_  
 
-## Prüfungsordnungs-Versionen (4)
-
-### 72542 Spanische Literatur- und Sprachwissenschaft
-
-- **Campo-Segment:** `exam:12814164`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12814094|exam:12814098|exam:12814154|exam:12814164>
-
-### 72552 Spanische Literatur- und Sprachwissenschaft
-
-- **Campo-Segment:** `exam:12814176`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12814094|exam:12814098|exam:12814167|exam:12814176>
+## Prüfungsordnungs-Versionen (1)
 
 ### 72613 Einführung Didaktik der romanischen Sprachen
 
 - **Campo-Segment:** `exam:12813960`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12813851|exam:12813957|exam:12813958|exam:12813960>
 
-### 72613 Einführung Didaktik der romanischen Sprachen
-
-- **Campo-Segment:** `exam:12814189`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12814094|exam:12814186|exam:12814187|exam:12814189>
-
-## Veranstaltungen (142)
+## Veranstaltungen (113)
 
 ### Angeleitete Lektüre Spanisch - Seminar
 
@@ -53,17 +38,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:12814084` · **unitId:** `122381`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12813978|exam:12814072|exam:12814073|exam:12814084>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122381&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 1.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-### Angeleitete Lektüre Spanisch - Seminar
-
-- **Segment:** `exam:12814198` · **unitId:** `122381`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12814094|exam:12814186|exam:12814187|exam:12814198>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122381&periodId=565>
 
 - **Veranstaltungsart:** Seminar
@@ -92,23 +66,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:12813993` · **unitId:** `89838`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12813978|exam:12813982|exam:12813992|exam:12813993>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89838&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Spanisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 12:15–13:45 | 15.10.2025–04.02.2026 | 05801.04.112 ( A 602) |
-
-### Comprensión y comunicación escrita - Übung
-
-- **Segment:** `exam:12814109` · **unitId:** `89838`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12814094|exam:12814098|exam:12814108|exam:12814109>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89838&periodId=565>
 
 - **Veranstaltungsart:** Übung
@@ -156,23 +113,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mo | 12:15–13:45 | 13.10.2025–02.02.2026 | 00501.00.015 ( KH 0.015 Hörsaal Kollegienhaus (SR)) |
 
-### Cultura española - Übung
-
-- **Segment:** `exam:12814117` · **unitId:** `92785`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12814094|exam:12814098|exam:12814114|exam:12814117>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92785&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Spanisch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 12:15–13:45 | 13.10.2025–02.02.2026 | 00501.00.015 ( KH 0.015 Hörsaal Kollegienhaus (SR)) |
-
 ### Cultura hispanoamericana - Übung
 
 - **Segment:** `exam:12813908` · **unitId:** `88003`
@@ -194,23 +134,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:12814026` · **unitId:** `88003`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12813978|exam:12813982|exam:12814025|exam:12814026>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88003&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Spanisch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:15–11:45 | 13.10.2025–02.02.2026 | 54801.01.013 (SP 01.013 Schlossplatz 1) |
-
-### Cultura hispanoamericana - Übung
-
-- **Segment:** `exam:12814142` · **unitId:** `88003`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12814094|exam:12814098|exam:12814141|exam:12814142>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88003&periodId=565>
 
 - **Veranstaltungsart:** Übung
@@ -258,23 +181,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mo | 10:00–12:00 | 20.10.2025–02.02.2026 | 05801.02.110 ( A 401) |
 
-### Einführung in die Didaktik der romanischen Sprachen - Übungsseminar
-
-- **Segment:** `exam:12814196` · **unitId:** `122382`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12814094|exam:12814186|exam:12814187|exam:12814196>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122382&periodId=565>
-
-- **Veranstaltungsart:** Übungsseminar
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:00–12:00 | 20.10.2025–02.02.2026 | 05801.02.110 ( A 401) |
-
 ### Español intermedio I - Übung
 
 - **Segment:** `exam:12813857` · **unitId:** `92053`
@@ -297,24 +203,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:12813984` · **unitId:** `92053`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12813978|exam:12813982|exam:12813983|exam:12813984>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92053&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Spanisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:15–15:45 | 16.10.2025–05.02.2026 | 54801.01.013 (SP 01.013 Schlossplatz 1) |
-| wöchentlich | Di | 10:15–11:45 | 21.10.2025–03.02.2026 | 54801.02.012 (SP 02.012 Schlossplatz 1) |
-
-### Español intermedio I - Übung
-
-- **Segment:** `exam:12814100` · **unitId:** `92053`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12814094|exam:12814098|exam:12814099|exam:12814100>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92053&periodId=565>
 
 - **Veranstaltungsart:** Übung
@@ -365,24 +253,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | wöchentlich | Di | 10:15–11:45 | 14.10.2025–03.02.2026 | 54801.01.013 (SP 01.013 Schlossplatz 1) |
 | wöchentlich | Do | 14:15–15:45 | 16.10.2025–05.02.2026 | 54606.01.003 (F 13 (IFA)) |
 
-### Español intermedio II - Übung
-
-- **Segment:** `exam:12814105` · **unitId:** `86547`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12814094|exam:12814098|exam:12814103|exam:12814105>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86547&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 7.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:15–11:45 | 14.10.2025–03.02.2026 | 54801.01.013 (SP 01.013 Schlossplatz 1) |
-| wöchentlich | Do | 14:15–15:45 | 16.10.2025–05.02.2026 | 54606.01.003 (F 13 (IFA)) |
-
 ### Examensseminar Fachdidaktik Französisch/Spanisch/Italienisch - Examensseminar
 
 - **Segment:** `exam:13605271` · **unitId:** `115457`
@@ -419,24 +289,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Einzeltermin | Do | 08:15–13:45 | 12.02.2026 | 05902.00.015 ( 00.15 PSG) |
 | Einzeltermin | Fr | 08:15–13:45 | 13.02.2026 | 05902.00.015 ( 00.15 PSG) |
 
-### Examensseminar Fachdidaktik Französisch/Spanisch/Italienisch - Examensseminar
-
-- **Segment:** `exam:13605273` · **unitId:** `115457`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12814094|exam:12814186|exam:12814199|exam:13605273>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115457&periodId=565>
-
-- **Veranstaltungsart:** Examensseminar
-- **ECTS-Punkte:** 1.0
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 12:15–14:45 | 15.12.2025 | 05902.00.015 ( 00.15 PSG) |
-| Einzeltermin | Do | 08:15–13:45 | 12.02.2026 | 05902.00.015 ( 00.15 PSG) |
-| Einzeltermin | Fr | 08:15–13:45 | 13.02.2026 | 05902.00.015 ( 00.15 PSG) |
-
 ### Gramática y Estilística II (Studienbeginn ab WS 2021/22) - Übung
 
 - **Segment:** `exam:12813877` · **unitId:** `87609`
@@ -458,23 +310,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:12814032` · **unitId:** `87609`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12813978|exam:12813982|exam:12814030|exam:12814032>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87609&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Spanisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:15–13:45 | 14.10.2025–03.02.2026 | 00501.00.020 ( KH 0.020 Hörsaal Kollegienhaus) |
-
-### Gramática y Estilística II (Studienbeginn ab WS 2021/22) - Übung
-
-- **Segment:** `exam:12814149` · **unitId:** `87609`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12814094|exam:12814098|exam:12814145|exam:12814149>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87609&periodId=565>
 
 - **Veranstaltungsart:** Übung
@@ -588,22 +423,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 05801.00.316 ( C 201 00.316) |
 
-### Mittelseminar Fachdidaktik Spanisch - Seminar
-
-- **Segment:** `exam:12814204` · **unitId:** `125352`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12814094|exam:12814186|exam:12814199|exam:12814204>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125352&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 05801.00.316 ( C 201 00.316) |
-
 ### Producción escrita - Übung
 
 - **Segment:** `exam:12813915` · **unitId:** `94927`
@@ -625,23 +444,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:12814031` · **unitId:** `94927`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12813978|exam:12813982|exam:12814030|exam:12814031>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94927&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Spanisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:15–11:45 | 15.10.2025–04.02.2026 | 54606.01.003 (F 13 (IFA)) |
-
-### Producción escrita - Übung
-
-- **Segment:** `exam:12814148` · **unitId:** `94927`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12814094|exam:12814098|exam:12814145|exam:12814148>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94927&periodId=565>
 
 - **Veranstaltungsart:** Übung
@@ -689,23 +491,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mi | 12:00–14:00 | 15.10.2025–04.02.2026 | 05801.00.316 ( C 201 00.316) |
 
-### Proseminar Fachdidaktik Spanisch - Proseminar
-
-- **Segment:** `exam:12814197` · **unitId:** `122505`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12814094|exam:12814186|exam:12814187|exam:12814197>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122505&periodId=565>
-
-- **Veranstaltungsart:** Proseminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Spanisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 12:00–14:00 | 15.10.2025–04.02.2026 | 05801.00.316 ( C 201 00.316) |
-
 ### Spanische Kulturwissenschaft und Landeskunde - Übung
 
 - **Segment:** `exam:12813934` · **unitId:** `100778`
@@ -740,23 +525,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Do | 14:15–15:45 | 23.10.2025–05.02.2026 | 00501.00.015 ( KH 0.015 Hörsaal Kollegienhaus (SR)) |
 
-### Spanische Kulturwissenschaft und Landeskunde - Übung
-
-- **Segment:** `exam:12814147` · **unitId:** `100778`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12814094|exam:12814098|exam:12814145|exam:12814147>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100778&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Spanisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:15–15:45 | 23.10.2025–05.02.2026 | 00501.00.015 ( KH 0.015 Hörsaal Kollegienhaus (SR)) |
-
 ### Traducción alemán - español - Übung
 
 - **Segment:** `exam:12813876` · **unitId:** `84970`
@@ -778,23 +546,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:12814000` · **unitId:** `84970`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12813978|exam:12813982|exam:12813998|exam:12814000>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84970&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Spanisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 16:15–17:45 | 21.10.2025–03.02.2026 | 54606.01.003 (F 13 (IFA)) |
-
-### Traducción alemán - español - Übung
-
-- **Segment:** `exam:12814116` · **unitId:** `84970`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12814094|exam:12814098|exam:12814114|exam:12814116>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84970&periodId=565>
 
 - **Veranstaltungsart:** Übung
@@ -859,23 +610,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mo | 16:15–17:45 | 13.10.2025–02.02.2026 | 05203.02.215 (SZ 02.215 (Bismarckstr. 10) Belegung nur nach Rücksprache mit der Raumverantwortlichen) |
 
-### Traducción español - alemán - Übung
-
-- **Segment:** `exam:12814115` · **unitId:** `92661`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12814094|exam:12814098|exam:12814114|exam:12814115>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92661&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 16:15–17:45 | 13.10.2025–02.02.2026 | 05203.02.215 (SZ 02.215 (Bismarckstr. 10) Belegung nur nach Rücksprache mit der Raumverantwortlichen) |
-
 ### Tutorium zu Basisseminar spanische Sprachwissenschaft - Tutorium
 
 - **Segment:** `exam:12813952` · **unitId:** `108131`
@@ -895,21 +629,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:12814067` · **unitId:** `108131`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12813978|exam:12813982|exam:12814064|exam:12814067>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=108131&periodId=565>
-
-- **Veranstaltungsart:** Tutorium
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 16:15–17:00 | 20.10.2025–02.02.2026 | 56701.02.007 ( Romanistik) |
-
-### Tutorium zu Basisseminar spanische Sprachwissenschaft - Tutorium
-
-- **Segment:** `exam:12814182` · **unitId:** `108131`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12814094|exam:12814098|exam:12814179|exam:12814182>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=108131&periodId=565>
 
 - **Veranstaltungsart:** Tutorium
@@ -1630,23 +1349,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mo | 12:15–13:45 | 13.10.2025–02.02.2026 | 56701.02.036 ( Romanistik) |
 
-### AS span. Lit.wiss. - Aufbauseminar spanische Literaturwissenschaft - Aufbauseminar
-
-- **Segment:** `exam:12814133` · **unitId:** `101280`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12814094|exam:12814098|exam:12814132|exam:12814133>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101280&periodId=565>
-
-- **Veranstaltungsart:** Aufbauseminar
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 12:15–13:45 | 13.10.2025–02.02.2026 | 56701.02.036 ( Romanistik) |
-
 ### BS span. Sprachwiss. - Basisseminar spanische Sprachwissenschaft - Einführungskurs
 
 - **Segment:** `exam:12813951` · **unitId:** `94136`
@@ -1681,23 +1383,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Di | 12:00–14:00 | 14.10.2025–03.02.2026 | 56701.02.014 ( 02.014) |
 
-### BS span. Sprachwiss. - Basisseminar spanische Sprachwissenschaft - Einführungskurs
-
-- **Segment:** `exam:12814181` · **unitId:** `94136`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12814094|exam:12814098|exam:12814179|exam:12814181>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94136&periodId=565>
-
-- **Veranstaltungsart:** Einführungskurs
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:00–14:00 | 14.10.2025–03.02.2026 | 56701.02.014 ( 02.014) |
-
 ### ES span. Lit.wiss. - Vertiefungsseminar spanische Literaturwissenschaft - Examensseminar
 
 - **Segment:** `exam:12813942` · **unitId:** `98470`
@@ -1719,23 +1404,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:12814057` · **unitId:** `98470`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12813978|exam:12813982|exam:12814052|exam:12814057>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98470&periodId=565>
-
-- **Veranstaltungsart:** Examensseminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 10:15–11:45 | 17.10.2025–06.02.2026 | 56701.02.014 ( 02.[Telefon entfernt].02.036 ( Romanistik) |
-
-### ES span. Lit.wiss. - Vertiefungsseminar spanische Literaturwissenschaft - Examensseminar
-
-- **Segment:** `exam:12814172` · **unitId:** `98470`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12814094|exam:12814098|exam:12814167|exam:12814172>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98470&periodId=565>
 
 - **Veranstaltungsart:** Examensseminar
@@ -1817,40 +1485,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 56701.02.014 ( 02.[Telefon entfernt].02.007 ( Romanistik) |
 
-### HS rom. Sprachwiss. - Hauptseminar romanische Sprachwissenschaft - Hauptseminar
-
-- **Segment:** `exam:12814159` · **unitId:** `87888`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12814094|exam:12814098|exam:12814154|exam:12814159>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87888&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 8.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 56701.02.014 ( 02.[Telefon entfernt].02.007 ( Romanistik) |
-
-### HS rom. Sprachwiss. - Hauptseminar romanische Sprachwissenschaft - Hauptseminar
-
-- **Segment:** `exam:12814171` · **unitId:** `87888`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12814094|exam:12814098|exam:12814167|exam:12814171>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87888&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 8.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 56701.02.014 ( 02.[Telefon entfernt].02.007 ( Romanistik) |
-
 ### HS span. Lit.wiss. - Hauptseminar spanische Literaturwissenschaft - Hauptseminar
 
 - **Segment:** `exam:12813922` · **unitId:** `84706`
@@ -1919,40 +1553,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mo | 18:15–19:45 | 13.10.2025–02.02.2026 | 56701.02.036 ( Romanistik) |
 
-### HS span. Lit.wiss. - Hauptseminar spanische Literaturwissenschaft - Hauptseminar
-
-- **Segment:** `exam:12814156` · **unitId:** `84706`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12814094|exam:12814098|exam:12814154|exam:12814156>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84706&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 8.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 18:15–19:45 | 13.10.2025–02.02.2026 | 56701.02.036 ( Romanistik) |
-
-### HS span. Lit.wiss. - Hauptseminar spanische Literaturwissenschaft - Hauptseminar
-
-- **Segment:** `exam:12814169` · **unitId:** `84706`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12814094|exam:12814098|exam:12814167|exam:12814169>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84706&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 8.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 18:15–19:45 | 13.10.2025–02.02.2026 | 56701.02.036 ( Romanistik) |
-
 ### PS span. Lit.wiss. - Proseminar spanische Literaturwissenschaft - Proseminar
 
 - **Segment:** `exam:12813897` · **unitId:** `94631`
@@ -2004,23 +1604,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:15–15:45 | 13.10.2025–02.02.2026 | 56701.02.036 ( Romanistik) |
 
-### PS span. Lit.wiss. - Proseminar spanische Literaturwissenschaft - Proseminar
-
-- **Segment:** `exam:12814137` · **unitId:** `94631`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12814094|exam:12814098|exam:12814132|exam:12814137>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94631&periodId=565>
-
-- **Veranstaltungsart:** Proseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:15–15:45 | 13.10.2025–02.02.2026 | 56701.02.036 ( Romanistik) |
-
 ### PS span. Sprachwiss. - Proseminar spanische Sprachwissenschaft - Proseminar
 
 - **Segment:** `exam:12813883` · **unitId:** `89818`
@@ -2042,23 +1625,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:12814006` · **unitId:** `89818`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12813978|exam:12813982|exam:12814004|exam:12814006>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89818&periodId=565>
-
-- **Veranstaltungsart:** Proseminar
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Spanisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 14:00–16:00 | 17.10.2025–06.02.2026 | 56701.02.014 ( 02.014) |
-
-### PS span. Sprachwiss. - Proseminar spanische Sprachwissenschaft - Proseminar
-
-- **Segment:** `exam:12814122` · **unitId:** `89818`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12814094|exam:12814098|exam:12814120|exam:12814122>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89818&periodId=565>
 
 - **Veranstaltungsart:** Proseminar
@@ -2106,23 +1672,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Do | 08:15–09:45 | 16.10.2025–05.02.2026 | 54606.01.003 (F 13 (IFA)) |
 
-### SZSPPFPa - Fonética práctica  - Übung
-
-- **Segment:** `exam:12814104` · **unitId:** `99291`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12814094|exam:12814098|exam:12814103|exam:12814104>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99291&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Spanisch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 08:15–09:45 | 16.10.2025–05.02.2026 | 54606.01.003 (F 13 (IFA)) |
-
 ### SZSPPGrEstIa - Gramática y estilística  I - Übung
 
 - **Segment:** `exam:12813870` · **unitId:** `91472`
@@ -2144,23 +1693,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:12813994` · **unitId:** `91472`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12813978|exam:12813982|exam:12813992|exam:12813994>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91472&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Spanisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 16:15–17:45 | 24.10.2025–06.02.2026 | 05701.00.010 ( 00.010 Übungsraum 1) |
-
-### SZSPPGrEstIa - Gramática y estilística  I - Übung
-
-- **Segment:** `exam:12814110` · **unitId:** `91472`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12814094|exam:12814098|exam:12814108|exam:12814110>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91472&periodId=565>
 
 - **Veranstaltungsart:** Übung
@@ -2242,23 +1774,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Do | 08:00–10:00 | 16.10.2025–05.02.2026 | 00501.00.023 ( KH 0.023 Hörsaal Kollegienhaus) |
 
-### VL rom. Sprachwiss. - Vorlesung Romanistik Sprachwissenschaft - Vorlesung
-
-- **Segment:** `exam:12814128` · **unitId:** `100633`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12814094|exam:12814098|exam:12814127|exam:12814128>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100633&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 08:00–10:00 | 16.10.2025–05.02.2026 | 00501.00.023 ( KH 0.023 Hörsaal Kollegienhaus) |
-
 ### VS span. Sprachwiss. - Vertiefungsseminar spanische Sprachwissenschaft - Examensseminar
 
 - **Segment:** `exam:12813923` · **unitId:** `95218`
@@ -2293,40 +1808,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Do | 16:00–18:00 | 16.10.2025–05.02.2026 | 56701.02.036 ( Romanistik) |
 
-### VS span. Sprachwiss. - Vertiefungsseminar spanische Sprachwissenschaft - Examensseminar
-
-- **Segment:** `exam:12814157` · **unitId:** `95218`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17185|exam:12814094|exam:12814098|exam:12814154|exam:12814157>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95218&periodId=565>
-
-- **Veranstaltungsart:** Examensseminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 16:00–18:00 | 16.10.2025–05.02.2026 | 56701.02.036 ( Romanistik) |
-
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (17)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (10)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
-
-### Angeleitete Lektüre Spanisch — Seminar
-
-- **Segment:** `unit:115451` · **unitId:** `115451`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115451&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
-### Angeleitete Lektüre Spanisch — Seminar
-
-- **Segment:** `unit:119317` · **unitId:** `119317`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119317&periodId=565>
-
-- **Veranstaltungsart:** Seminar
 
 ### Basisseminar spanische Literaturwissenschaft — Einführungskurs
 
@@ -2336,23 +1820,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Einführungskurs
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
-
-### Didáctica del plurilingüismo — Mittelseminar
-
-- **Segment:** `unit:115456` · **unitId:** `115456`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115456&periodId=565>
-
-- **Veranstaltungsart:** Mittelseminar
-- **Turnus:** Unregelmäßig
-
-### Fonética práctica B — Übung
-
-- **Segment:** `unit:89664` · **unitId:** `89664`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89664&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
-- **Turnus:** nur im Wintersemester
 
 ### Gramática y estilística II
 
@@ -2368,24 +1835,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mi | Mi | 10:15–11:45 | — | 05701.00.021 ( 00.021 Seminarraum) |
 
-### Gramática y estilística II (Studienbeginn WS 2017/18 - SoSe 2021) — Übung
-
-- **Segment:** `unit:111394` · **unitId:** `111394`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111394&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
-- **Turnus:** in jedem Semester
-
-### Hauptseminar französische / italienische / spanische Sprachwissenschaft
-
-- **Segment:** `unit:103260` · **unitId:** `103260`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103260&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 8.0
-- **Turnus:** in jedem Semester
-
 ### Hauptseminar spanische Literaturwissenschaft
 
 - **Segment:** `unit:111688` · **unitId:** `111688`
@@ -2400,15 +1849,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 8.0
-- **Turnus:** in jedem Semester
-
-### Introducción a la cultura española — Übung
-
-- **Segment:** `unit:83347` · **unitId:** `83347`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83347&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
 - **Turnus:** in jedem Semester
 
 ### Klausur zum Nachweis Gesicherter Lateinkenntnisse
@@ -2472,13 +1912,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Blockveranstaltung | — | 09:00–14:15 | 18.02.2026–10.03.2026 | 05901.02.058 ( 2.058 R 2.058) |
 
-### Proseminar französische / spanische Sprachwissenschaft
+### Proseminar spanische Literaturwissenschaft C
 
-- **Segment:** `unit:82617` · **unitId:** `82617`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82617&periodId=565>
+- **Segment:** `unit:104645` · **unitId:** `104645`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104645&periodId=565>
 
 - **Veranstaltungsart:** Proseminar
-- **ECTS-Punkte:** 3.0
+- **ECTS-Punkte:** 5.0
 - **Turnus:** in jedem Semester
 
 ### Schriftliche Übersetzungsleistung Latein I für Anfänger (Zulassungsvoraussetzung zu Kurs Latein II für Fortgeschrittene)

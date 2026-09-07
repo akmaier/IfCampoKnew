@@ -728,7 +728,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Do | 15:45–17:15 | 23.10.2025–05.02.2026 | 75201.00.310 (St.Paul 00.310 Textilwerkstatt (40)) |
 
-### MA EEBF M6/MA Pädagogik MII/Modul 2 - Semiar Allg. Päd.: Medien, Wissen, Bildung - Grundlagen der Medienpädagogik (Standort Nürnberg) - Seminar
+### MA EEBF M6/MA Pädagogik MII: Medien, Wissen, Bildung - Grundlagen der Medienpädagogik - Seminar
 
 - **Segment:** `exam:13779737` · **unitId:** `89141`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17591|exam:13779655|exam:13779656|exam:13779657|exam:13779727|exam:13779733|exam:13779737>
@@ -744,7 +744,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:00–15:30 | 13.10.2025–02.02.2026 | 20301.01.028 (1.028 Seminarraum MM-Labor (18)) |
 
-### MA EEBF M6/MA Pädagogik MII: Lernen und mediendidaktisches Handeln in mediatisierten Kontexten - Seminar
+### MA EEBF M6/MA Pädagogik MII: Mediendidaktik: Empower Future Learning - Seminar
 
 - **Segment:** `exam:13779736` · **unitId:** `92830`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17591|exam:13779655|exam:13779656|exam:13779657|exam:13779727|exam:13779733|exam:13779736>
@@ -1241,7 +1241,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mi | 16:30–18:45 | 22.10.2025–04.02.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (39)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (33)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -1280,6 +1280,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Di | Di | — | — | — |
 
+### Anthropologie und ästhetische Bildung — Seminar
+
+- **Segment:** `unit:115987` · **unitId:** `115987`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115987&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+
 ### Aquarell (A+V) — Seminar
 
 - **Segment:** `unit:134733` · **unitId:** `134733`
@@ -1317,15 +1324,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 14:15–15:45 | 14.10.2025–03.02.2026 | 00801.00.112 (H Anatomie I (Eingang über Universitätsstraße 19)) |
-
-### Biologische Psychologie — Proseminar
-
-- **Segment:** `unit:89019` · **unitId:** `89019`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89019&periodId=565>
-
-- **Veranstaltungsart:** Proseminar
-- **ECTS-Punkte:** 3.0
-- **Turnus:** nur im Wintersemester
 
 ### Biologische Psychologie (Nebenfach)
 
@@ -1380,15 +1378,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
-### Einführung in die Ethnographie / Introduction into Ethnography — Vorlesung
-
-- **Segment:** `unit:118297` · **unitId:** `118297`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118297&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Einführung in die Psychologie (Nebenfach)
 
 - **Segment:** `unit:49005` · **unitId:** `49005`
@@ -1416,31 +1405,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Di | Di | 10:00–12:00 | — | — |
-
-### Forschungskolloquium — Seminar
-
-- **Segment:** `unit:134761` · **unitId:** `134761`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134761&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
-### Forschungsseminar Einführung in die Ethnographie / Research Seminar Introduction into Ethnography
-
-- **Segment:** `unit:118298` · **unitId:** `118298`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118298&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Frauen als Auftraggeberinnen in der Frühen Neuzeit: Malerei - Skulptur - Architektur — Seminar
-
-- **Segment:** `unit:133896` · **unitId:** `133896`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133896&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
 
 ### Interpretative Medienanalyse — Seminar
 
@@ -1479,10 +1443,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mi | 12:00–14:00 | 15.10.2025–04.02.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
 
-### Kultur und Erziehung — Seminar
+### Kultursoziologie und Qualitative Methoden — Seminar
 
-- **Segment:** `unit:115979` · **unitId:** `115979`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115979&periodId=565>
+- **Segment:** `unit:119428` · **unitId:** `119428`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119428&periodId=565>
 
 - **Veranstaltungsart:** Seminar
 
@@ -1532,13 +1496,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Blockveranstaltung | — | 09:00–14:15 | 18.02.2026–10.03.2026 | 05901.02.058 ( 2.058 R 2.058) |
-
-### MA Pädagogik MV: Medienpädagogische Handlungsfelder und Methoden — Seminar
-
-- **Segment:** `unit:111721` · **unitId:** `111721`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111721&periodId=565>
-
-- **Veranstaltungsart:** Seminar
 
 ### Proseminar Allgemeine Psychologie I: Kognition
 
@@ -1593,13 +1550,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Ober- und Hauptseminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
-
-### Visuelle Kultur und Qualitative Methoden — Seminar
-
-- **Segment:** `unit:111647` · **unitId:** `111647`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111647&periodId=565>
-
-- **Veranstaltungsart:** Seminar
 
 ### Vorlesung Allgemeine Psychologie I: Wahrnehmung
 

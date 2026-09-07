@@ -7681,7 +7681,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Fr | 12:15–13:45 | 17.10.2025–06.02.2026 | 56701.02.014 ( 02.[Telefon entfernt].02.036 ( Romanistik) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (144)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (72)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -7692,13 +7692,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 
-### Ab nach Jerusalem! Pilger und Touristen des 14. bis 16. Jahrhunderts in Palästina [Hauptseminar Lateinische Literatur und Sprache II]
+### 21st Century Feminist Life Writing in North America — Hauptseminar
 
-- **Segment:** `unit:82813` · **unitId:** `82813`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82813&periodId=565>
+- **Segment:** `unit:111373` · **unitId:** `111373`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111373&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 6.0
+- **Turnus:** Unregelmäßig
+
+### 24/7 Everything and the Poetics of Deceleration — Hauptseminar
+
+- **Segment:** `unit:122563` · **unitId:** `122563`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122563&periodId=565>
+
+- **Veranstaltungsart:** Hauptseminar
 - **Turnus:** Unregelmäßig
 
 ### Academic Discourse (M.A) — Übung
@@ -7717,34 +7724,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mi | 14:15–15:45 | 15.10.2025–04.02.2026 | 00501.02.018 ( KH 2.018 Hörsaal Kollegienhaus (SR)) |
 
-### After Babel. Digital Theology and Contextualities — Seminar
-
-- **Segment:** `unit:119047` · **unitId:** `119047`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119047&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
-### Aktuelle Fragen der Angewandten Ethik (PS/MS) — Kombiseminar
-
-- **Segment:** `unit:116284` · **unitId:** `116284`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116284&periodId=565>
-
-- **Veranstaltungsart:** Kombiseminar
-
 ### Albert Camus: Philosophische und literarische Texte (PS/MS) — Kombiseminar
 
 - **Segment:** `unit:115602` · **unitId:** `115602`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115602&periodId=565>
 
 - **Veranstaltungsart:** Kombiseminar
-
-### AM Narrative / AM Kulturwissenschaft: Europas hoher Norden: Mythos, Kultur und Identität in Literatur und Film (BLOCKSEMINAR, zusammen mit Katie Ritson, LMU München)
-
-- **Segment:** `unit:126289` · **unitId:** `126289`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126289&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
 
 ### AM Narrative / AM Kulturwissenschaft: Literatur und Ökologie (zusammen mit Dirk Niefanger) — Seminar
 
@@ -7754,85 +7739,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **Turnus:** in jedem Semester
 
-### AM Narrative Übung 2
-
-- **Segment:** `unit:85080` · **unitId:** `85080`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85080&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Sommersemester
-
-### AM Skandinavistik: Dark Pedagogy und Nachhaltigkeitsbildung im Klimawandel. Perspektiven aus Skandinavien — Übung
-
-- **Segment:** `unit:137875` · **unitId:** `137875`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137875&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** in jedem Semester
-
-### American Poetry of the 20th and 21st Century — Hauptseminar
-
-- **Segment:** `unit:127239` · **unitId:** `127239`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127239&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** Unregelmäßig
-
-### American Prose Fiction: Henry James and Hanya Yanagihara — Hauptseminar
-
-- **Segment:** `unit:84806` · **unitId:** `84806`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84806&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** nur im Wintersemester
-
 ### An Anatomy of Conspiracy: Intrigues, Deceptions and Manipulations in Shakespeare’s Plays and Shakespeare’s Lives — Hauptseminar
 
 - **Segment:** `unit:134238` · **unitId:** `134238`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134238&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar
-
-### Analytische Philosophie der Kunst — Proseminar / Mittelseminar
-
-- **Segment:** `unit:134430` · **unitId:** `134430`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134430&periodId=565>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Turnus:** Unregelmäßig
-
-### Analytische Philosophie der Kunst (HS/MAS) — Kombiseminar
-
-- **Segment:** `unit:111711` · **unitId:** `111711`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111711&periodId=565>
-
-- **Veranstaltungsart:** Kombiseminar
-- **Turnus:** nicht in diesem Semester
-
-### Asiatisch-Afrikanische Religionen: Transkulturelle Dynamiken und Wirtschaftsinteressen im globalen Kontext — Seminar
-
-- **Segment:** `unit:134628` · **unitId:** `134628`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134628&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** Unregelmäßig
-
-### Aufklärung — Vorlesung
-
-- **Segment:** `unit:95851` · **unitId:** `95851`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95851&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
-
-### Authors as Fans: American Prose Fiction and Its Intertexts — Hauptseminar
-
-- **Segment:** `unit:122564` · **unitId:** `122564`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122564&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** Unregelmäßig
 
 ### Autobiographisches Schreiben in Frankreich und der Frankophonie — Vorlesung
 
@@ -7842,54 +7754,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Sommersemester
 
-### Automatisch Publizieren. Ethische und journalistische Perspektiven zum Einsatz von KI in Medienunternehmen — Seminar
+### Bildethik — Seminar
 
-- **Segment:** `unit:119056` · **unitId:** `119056`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119056&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
-### BA 4. FS: [Praxismodul] Einführung in die Stilistik der arabischsprachigen Online-Zeitungen — Kurs
-
-- **Segment:** `unit:93376` · **unitId:** `93376`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93376&periodId=565>
-
-- **Veranstaltungsart:** Kurs
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### Bellini, Dürer, Tizian... Altarmalerei der Renaissance in Venedig — Oberseminar
-
-- **Segment:** `unit:85501` · **unitId:** `85501`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85501&periodId=565>
-
-- **Veranstaltungsart:** Oberseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### Bewusstsein, Gedächtnis, Emotion - Einführung in die Philosophie der Psychologie — Proseminar / Mittelseminar
-
-- **Segment:** `unit:122277` · **unitId:** `122277`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122277&periodId=565>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Turnus:** Unregelmäßig
-
-### Bewusstsein, Gedächtnis, Emotion - Einführung in die Philosophie der Psychologie — Proseminar / Mittelseminar
-
-- **Segment:** `unit:134127` · **unitId:** `134127`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134127&periodId=565>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Turnus:** Unregelmäßig
-
-### Bild und Text im Früh- und Hochmittelalter [Seminar Paläographie und Kodikologie I]
-
-- **Segment:** `unit:101919` · **unitId:** `101919`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101919&periodId=565>
+- **Segment:** `unit:111457` · **unitId:** `111457`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111457&periodId=565>
 
 - **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 6.0
+- **ECTS-Punkte:** 5.0
+- **Turnus:** Unregelmäßig
+
+### Boulevardjournalismus — Seminar
+
+- **Segment:** `unit:101603` · **unitId:** `101603`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101603&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
 ### Briefromane des 18. Jahrhunderts in Frankreich und Deutschland — Hauptseminar
@@ -7899,13 +7779,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Hauptseminar
 
-### Christfluencer und ihre digitale Mission: Vom Altar zum Algorithmus? — Seminar
-
-- **Segment:** `unit:119055` · **unitId:** `119055`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119055&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
 ### Computerspiele und Religion — Seminar
 
 - **Segment:** `unit:116042` · **unitId:** `116042`
@@ -7914,22 +7787,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **Turnus:** nicht in diesem Semester
 
-### Cranach I.: Die frühen Jahre der Wittenberger Bilderfabrik — Vorlesung
-
-- **Segment:** `unit:104740` · **unitId:** `104740`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104740&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Critiques of Culture, Comparison and Representation in Anthropology and Religious Studies — Seminar
-
-- **Segment:** `unit:129074` · **unitId:** `129074`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=129074&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
 ### Cultural and Literary Animal Studies — Hauptseminar
 
 - **Segment:** `unit:119807` · **unitId:** `119807`
@@ -7937,12 +7794,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Hauptseminar
 
-### Das Militär und Autokratisierungsprozesse in Asien — Masterseminar
+### Cultures of Work: Literatures, Photography and Film — Hauptseminar
 
-- **Segment:** `unit:127091` · **unitId:** `127091`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127091&periodId=565>
+- **Segment:** `unit:119806` · **unitId:** `119806`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119806&periodId=565>
 
-- **Veranstaltungsart:** Masterseminar
+- **Veranstaltungsart:** Hauptseminar
 
 ### Das Verhältnis zwischen Großbritannien und Kontinentaleuropa in britischen Gemälden des 17. und 18. Jahrhunderts — Vorlesung
 
@@ -7953,21 +7810,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### Data, Language, and Society — Seminar
+### Deepfakes: Ethische, medienwissenschaftliche, pädagogische Perspektiven — Seminar
 
-- **Segment:** `unit:127829` · **unitId:** `127829`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127829&periodId=565>
+- **Segment:** `unit:128966` · **unitId:** `128966`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128966&periodId=565>
 
 - **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
-### Der Poetische Realismus — Hauptseminar
-
-- **Segment:** `unit:118761` · **unitId:** `118761`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118761&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
 
 ### Descomposiciones. Naturaleza y contaminación en la literatura hispanoamericana entre el siglo XX y XXI — Hauptseminar
 
@@ -7984,22 +7832,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Hauptseminar
 - **Turnus:** nur im Wintersemester
-
-### Die Nachricht im Info-Tsunami - oder: Accuracy always takes precedence over speed. - durchgeführt von Oliver Trenkamp — Seminar
-
-- **Segment:** `unit:134697` · **unitId:** `134697`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134697&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** Unregelmäßig
-
-### Die Philosophie Nelson Goodmans — Proseminar / Mittelseminar
-
-- **Segment:** `unit:126650` · **unitId:** `126650`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126650&periodId=565>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Turnus:** Unregelmäßig
 
 ### Die realistische Novelle: digitale Analysen — Seminar
 
@@ -8035,74 +7867,19 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Oberseminar
 - **Turnus:** Unregelmäßig
 
-### Eco-Apocalypse, Extinction and Endings in American Literature and Culture — Hauptseminar
+### Eine Reise nach Japan: Der Blick nach ,Osten' und seine Bedeutung für die westliche Moderne — Ober- und Hauptseminar
 
-- **Segment:** `unit:119264` · **unitId:** `119264`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119264&periodId=565>
+- **Segment:** `unit:127216` · **unitId:** `127216`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127216&periodId=565>
 
-- **Veranstaltungsart:** Hauptseminar
-
-### Eine praktische Einführung in die Welt der Podcasts: Vom Skript bis zur Produktion — Seminar
-
-- **Segment:** `unit:117494` · **unitId:** `117494`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117494&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nicht in diesem Semester
-
-### Einführung in die analytische Philosophie — Proseminar / Mittelseminar
-
-- **Segment:** `unit:122647` · **unitId:** `122647`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122647&periodId=565>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
+- **Veranstaltungsart:** Ober- und Hauptseminar
+- **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
-
-### Einführung in die Angewandte Ethik — Proseminar / Mittelseminar
-
-- **Segment:** `unit:122917` · **unitId:** `122917`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122917&periodId=565>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Turnus:** nur im Wintersemester
-
-### Einführung in die Angewandte Ethik — Proseminar / Mittelseminar
-
-- **Segment:** `unit:134446` · **unitId:** `134446`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134446&periodId=565>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Turnus:** nur im Sommersemester
 
 ### Einführung in die jüdische Philosophie — Proseminar / Mittelseminar
 
 - **Segment:** `unit:122922` · **unitId:** `122922`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122922&periodId=565>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Turnus:** Unregelmäßig
-
-### Einführung in die Mediensysteme — Seminar
-
-- **Segment:** `unit:92874` · **unitId:** `92874`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92874&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Einführung in die Philosophie (Propädeutik I), Gruppe 2 — Vorlesung
-
-- **Segment:** `unit:86439` · **unitId:** `86439`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86439&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
-
-### Einführung in die Wissenschaftsphilosophie — Proseminar / Mittelseminar
-
-- **Segment:** `unit:126793` · **unitId:** `126793`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126793&periodId=565>
 
 - **Veranstaltungsart:** Proseminar / Mittelseminar
 - **Turnus:** Unregelmäßig
@@ -8115,19 +7892,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Hauptseminar
 - **Turnus:** Unregelmäßig
 
-### Erzähltexte von 1945-60 — Seminar und Übung
+### Erzähltexte von 1945-60 (Erlangen für MA/BA/LA GY/RS) — Seminar und Übung
 
 - **Segment:** `unit:137792` · **unitId:** `137792`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137792&periodId=565>
 
 - **Veranstaltungsart:** Seminar und Übung
-
-### Ethics Lab — Seminar
-
-- **Segment:** `unit:139394` · **unitId:** `139394`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139394&periodId=565>
-
-- **Veranstaltungsart:** Seminar
 
 ### Ethik der verbalen Kommunikation — Seminar
 
@@ -8165,12 +7935,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
-### Gedächtnis, Emotion, Identität - Eine Einführung in die Philosophie der Psychologie (PS/MS) — Kombiseminar
+### Frauen in der Kunst — Seminar
 
-- **Segment:** `unit:115565` · **unitId:** `115565`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115565&periodId=565>
+- **Segment:** `unit:91700` · **unitId:** `91700`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91700&periodId=565>
 
-- **Veranstaltungsart:** Kombiseminar
+- **Veranstaltungsart:** Seminar
+- **Turnus:** nur im Wintersemester
 
 ### Gender, Diversität, Postcolonial Herausforderungen für das Museum der Gegenwart — Oberseminar
 
@@ -8181,50 +7952,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### Gender, Literature and the Public Sphere (Seminar in englischer Sprache) (Master) — Hauptseminar
+### Glück und Moral: Tugenden in der Philosophie als Lebenskunst — Proseminar / Mittelseminar
 
-- **Segment:** `unit:118967` · **unitId:** `118967`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118967&periodId=565>
+- **Segment:** `unit:134058` · **unitId:** `134058`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134058&periodId=565>
 
-- **Veranstaltungsart:** Hauptseminar
-
-### Global Energy Politics — Hauptseminar
-
-- **Segment:** `unit:134254` · **unitId:** `134254`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134254&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-
-### Globale Intersektionalität in neuen religiösen Bewegungen in Afrika: Perspektiven aus Religionswissenschaft und interkultureller Theologie — Seminar
-
-- **Segment:** `unit:127089` · **unitId:** `127089`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127089&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
-### Gott im Krieg. Religiöse Narrative und Inszenierungen in Zeiten von Kriegen und Konflikten — Seminar
-
-- **Segment:** `unit:127167` · **unitId:** `127167`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127167&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
-### Grundfragen der Philosophie I: Was soll ich tun? — Vorlesung
-
-- **Segment:** `unit:118981` · **unitId:** `118981`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118981&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
+- **Veranstaltungsart:** Proseminar / Mittelseminar
 - **Turnus:** Unregelmäßig
 
-### Grundkurs Praktische Philosophie, Gruppe 2
+### Hannah Höch: Künstlerin (in) der Avantgarde — Ober- und Hauptseminar
 
-- **Segment:** `unit:93700` · **unitId:** `93700`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93700&periodId=565>
+- **Segment:** `unit:133893` · **unitId:** `133893`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133893&periodId=565>
 
-- **Veranstaltungsart:** Grundkurs
-- **Turnus:** nur im Wintersemester
+- **Veranstaltungsart:** Ober- und Hauptseminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** Unregelmäßig
 
 ### Hauptseminar französische Literaturwissenschaft B
 
@@ -8259,21 +8002,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 8.0
 - **Turnus:** in jedem Semester
 
-### Hauptseminar: Cicero, De lege agraria
+### HS "Literature and Film" — Hauptseminar
 
-- **Segment:** `unit:119182` · **unitId:** `119182`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119182&periodId=565>
+- **Segment:** `unit:137909` · **unitId:** `137909`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137909&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar
-
-### Heldinnen - Göttinnen - Heilige. Weibliche Rollenporträts zwischen Mythos, Macht und Frömmigkeit im Italien der Frühen Neuzeit — Seminar
-
-- **Segment:** `unit:138365` · **unitId:** `138365`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138365&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
 
 ### HS/Ü Schwarzer Markt für rote Bücher — Hauptseminar
 
@@ -8289,21 +8023,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Hauptseminar
 
-### HS/Ü: Mehrsprachigkeit (in) der Literatur — Seminar und Übung
-
-- **Segment:** `unit:133787` · **unitId:** `133787`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133787&periodId=565>
-
-- **Veranstaltungsart:** Seminar und Übung
-- **Turnus:** in jedem Semester
-
-### HS/Ü: The "Exotic" in Western European Literature and Culture (Masterseminar) — Hauptseminar
-
-- **Segment:** `unit:126417` · **unitId:** `126417`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126417&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-
 ### HS/Ü: Wikipedia lesen, analysieren, bearbeiten, schreiben — Seminar und Übung
 
 - **Segment:** `unit:133789` · **unitId:** `133789`
@@ -8312,13 +8031,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar und Übung
 - **Turnus:** nur im Sommersemester
 
-### In Science we trust? Wissenschaftsskeptizismus und Wissenschaftsbeeinflussung — Proseminar / Mittelseminar
+### Innovation und Tradition in der Literatur, Kunst und Kultur der italienischen Renaissance — Vorlesung
 
-- **Segment:** `unit:118997` · **unitId:** `118997`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118997&periodId=565>
+- **Segment:** `unit:84275` · **unitId:** `84275`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84275&periodId=565>
 
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Turnus:** Unregelmäßig
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** in jedem Semester
 
 ### Interdisziplinäres Seminar RW
 
@@ -8337,36 +8056,29 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **Turnus:** nur im Wintersemester
 
-### Introduction to philosophy of technology — Proseminar / Mittelseminar
+### Interpretative Medienanalyse — Hauptseminar
 
-- **Segment:** `unit:122996` · **unitId:** `122996`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122996&periodId=565>
+- **Segment:** `unit:134136` · **unitId:** `134136`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134136&periodId=565>
 
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Turnus:** Unregelmäßig
+- **Veranstaltungsart:** Hauptseminar
 
-### Introduction to Philosophy of Technology — Proseminar / Mittelseminar
+### Kinder- und Hausmärchen digital: Quellen, Analysen, theoretische Zugänge — Seminar
 
-- **Segment:** `unit:134593` · **unitId:** `134593`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134593&periodId=565>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Turnus:** Unregelmäßig
-
-### ISG zu Cultural and Literary Animal Studies — Übung
-
-- **Segment:** `unit:119815` · **unitId:** `119815`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119815&periodId=565>
-
-- **Veranstaltungsart:** Übung
-
-### KI und Chat GPT. Wissenschaftsjournalistische Herausforderungen — Seminar
-
-- **Segment:** `unit:116045` · **unitId:** `116045`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116045&periodId=565>
+- **Segment:** `unit:123803` · **unitId:** `123803`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123803&periodId=565>
 
 - **Veranstaltungsart:** Seminar
-- **Turnus:** nicht in diesem Semester
+- **ECTS-Punkte:** 5.0
+- **Turnus:** Unregelmäßig
+
+### Klassische Texte in der Philosophie des Geistes — Proseminar / Mittelseminar
+
+- **Segment:** `unit:138144` · **unitId:** `138144`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138144&periodId=565>
+
+- **Veranstaltungsart:** Proseminar / Mittelseminar
+- **Turnus:** Unregelmäßig
 
 ### Klausur zum Nachweis Gesicherter Lateinkenntnisse
 
@@ -8382,24 +8094,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | 16:00–19:00 | 07.12.2025 23:59:59 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
 
-### Klimakrise im zeitgenössischen Kino-Film oder: Wie das Unbegreifliche und Absehbare erfahrbar werden lassen — Seminar
+### Kunstsoziologie der klassischen Moderne — Seminar
 
-- **Segment:** `unit:127165` · **unitId:** `127165`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127165&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
-### Kolloquium Literaturgeschichte: Dichtkunst. Poetiken von der Antike bis zur Barockzeit — Übung
-
-- **Segment:** `unit:114732` · **unitId:** `114732`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114732&periodId=565>
-
-- **Veranstaltungsart:** Übung
-
-### Konstruktiver Journalismus & Co. - Neue Formen des Textjournalismus in Praxis, Theorie und Medienethik — Seminar
-
-- **Segment:** `unit:127259` · **unitId:** `127259`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127259&periodId=565>
+- **Segment:** `unit:111684` · **unitId:** `111684`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111684&periodId=565>
 
 - **Veranstaltungsart:** Seminar
 
@@ -8459,43 +8157,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Blockveranstaltung | — | 09:00–14:15 | 18.02.2026–10.03.2026 | 05901.02.058 ( 2.058 R 2.058) |
 
-### Literatur / Kultur / Medien — Hauptseminar
-
-- **Segment:** `unit:86937` · **unitId:** `86937`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86937&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** nur im Wintersemester
-
-### Literatur barrierefrei — Hauptseminar
-
-- **Segment:** `unit:91346` · **unitId:** `91346`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91346&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** nur im Wintersemester
-
 ### Literatur und Emotion: Traditionelle, digitale und experimentelle Zugänge — Seminar
 
 - **Segment:** `unit:135536` · **unitId:** `135536`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135536&periodId=565>
 
 - **Veranstaltungsart:** Seminar
-
-### Literatur und Öffentlichkeit in Westdeutschland (1945 bis 1989) — Hauptseminar
-
-- **Segment:** `unit:121946` · **unitId:** `121946`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121946&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-
-### Logik für Fortgeschrittene — Proseminar / Mittelseminar
-
-- **Segment:** `unit:126982` · **unitId:** `126982`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126982&periodId=565>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Turnus:** Unregelmäßig
 
 ### M/SM: Einführung in die Human Animal Studies — Hauptseminar
 
@@ -8505,28 +8172,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Hauptseminar
 - **Turnus:** nur im Sommersemester
 
-### M/SM: Fiktionalität und Faktualität: Texte und Theorien — Übung
+### M/SM: Literatur und Abendmahl — Hauptseminar
 
-- **Segment:** `unit:110269` · **unitId:** `110269`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110269&periodId=565>
-
-- **Veranstaltungsart:** Übung
-
-### M/SM: Hartmann von Aue: ›Iwein‹ und Chrétien de Troyes: ›Yvain‹ — Hauptseminar / Masterseminar
-
-- **Segment:** `unit:137581` · **unitId:** `137581`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137581&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
-- **Turnus:** in jedem Semester
-
-### M/SM: Stadt/Land/Fluss — Hauptseminar
-
-- **Segment:** `unit:93119` · **unitId:** `93119`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93119&periodId=565>
+- **Segment:** `unit:98664` · **unitId:** `98664`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98664&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar
 - **Turnus:** nur im Wintersemester
+
+### M/SM: Modelle der Romantik:  Gesellschaft, Künste, Wissenschaften. — Hauptseminar
+
+- **Segment:** `unit:91291` · **unitId:** `91291`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91291&periodId=565>
+
+- **Veranstaltungsart:** Hauptseminar
+- **Turnus:** nur im Sommersemester
 
 ### M/SM: Weimar - Jena. Literatur, gesellschaftliche Kommunikation und Wertebildung um 1800 — Hauptseminar
 
@@ -8535,36 +8195,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Hauptseminar
 - **Turnus:** nur im Wintersemester
-
-### M/SM: Weisen der Welterzeugung in Literatur und Wissenschaft — Hauptseminar
-
-- **Segment:** `unit:110270` · **unitId:** `110270`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110270&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-
-### M: Europäische Erinnerungskulturen: Signaturen der Gegenwartsliteratur — Hauptseminar
-
-- **Segment:** `unit:115225` · **unitId:** `115225`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115225&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-
-### MA M3 Kernmodul 2: PRAKTIKEN: Vertiefung — Seminar
-
-- **Segment:** `unit:120135` · **unitId:** `120135`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120135&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
-### MA Medien 2. FS - Modul 5: Vertiefungsseminar — Masterseminar
-
-- **Segment:** `unit:89757` · **unitId:** `89757`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89757&periodId=565>
-
-- **Veranstaltungsart:** Masterseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
 
 ### MA TFV 2. FS - Modul 5: Ästhetik des Theaters — Masterseminar
 
@@ -8575,13 +8205,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
-### Macht und Zensur: Literatur in der Diktatur (Master) — Hauptseminar / Masterseminar
+### Mensch - Natur - Kunst: Welt-Bilder und Gegen-Welten — Ober- und Hauptseminar
 
-- **Segment:** `unit:137871` · **unitId:** `137871`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137871&periodId=565>
+- **Segment:** `unit:122847` · **unitId:** `122847`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122847&periodId=565>
 
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
-- **Turnus:** in jedem Semester
+- **Veranstaltungsart:** Ober- und Hauptseminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** Unregelmäßig
 
 ### Metaphern: Linguistische und literaturwissenschaftliche Perspektiven — Hauptseminar
 
@@ -8598,45 +8229,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Mittelseminar
 - **Turnus:** nur im Wintersemester
 
-### Museen verstehen: Architektur - Ausstellung - Ausstattung — Vorlesung
+### Nelson Goodman: The Languages of Art — Proseminar / Mittelseminar
 
-- **Segment:** `unit:115790` · **unitId:** `115790`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115790&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
-### Philosophy of Artificial Intelligence. An Introduction (PS/MS) — Kombiseminar
-
-- **Segment:** `unit:115755` · **unitId:** `115755`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115755&periodId=565>
-
-- **Veranstaltungsart:** Kombiseminar
-
-### Platon: Gorgias — Proseminar / Mittelseminar
-
-- **Segment:** `unit:122644` · **unitId:** `122644`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122644&periodId=565>
+- **Segment:** `unit:138238` · **unitId:** `138238`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138238&periodId=565>
 
 - **Veranstaltungsart:** Proseminar / Mittelseminar
 - **Turnus:** Unregelmäßig
 
-### Platon: Gorgias — Proseminar / Mittelseminar
+### Poetik-Kolleg: Ann Cotten — Seminar und Übung
 
-- **Segment:** `unit:134042` · **unitId:** `134042`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134042&periodId=565>
+- **Segment:** `unit:133784` · **unitId:** `133784`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=565>
 
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Turnus:** Unregelmäßig
-
-### Platon: Menon — Proseminar / Mittelseminar
-
-- **Segment:** `unit:126649` · **unitId:** `126649`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126649&periodId=565>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Turnus:** Unregelmäßig
+- **Veranstaltungsart:** Seminar und Übung
+- **Turnus:** nur im Sommersemester
 
 ### Poetry Slam: Text, Performance, Event — Seminar
 
@@ -8644,29 +8251,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139350&periodId=565>
 
 - **Veranstaltungsart:** Seminar
-
-### Protest*Aktionen*Straße Zur medialen Inszenierung von Straßenaktionen — Seminar
-
-- **Segment:** `unit:111458` · **unitId:** `111458`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111458&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nicht in diesem Semester
-
-### PS Einführung in die Medienethik (praktisch: 54401) — Proseminar
-
-- **Segment:** `unit:90362` · **unitId:** `90362`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90362&periodId=565>
-
-- **Veranstaltungsart:** Proseminar
-- **Turnus:** nur im Sommersemester
-
-### Raubdrucke von Martin Luther bis Michael Ende (Lit AM-G) — Kolleg
-
-- **Segment:** `unit:126238` · **unitId:** `126238`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126238&periodId=565>
-
-- **Veranstaltungsart:** Kolleg
 
 ### Referat mit Thesenpapier zu Interdisziplinäres Basismodul zur Einführung in den Theoriekomplex Literatur/Kultur/Medien
 
@@ -8682,35 +8266,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### RV Literatur / Kultur / Medien — Vorlesung
-
-- **Segment:** `unit:86899` · **unitId:** `86899`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86899&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** in jedem Semester
-
-### RV Literatur / Kultur / Medien — Vorlesung
-
-- **Segment:** `unit:116062` · **unitId:** `116062`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116062&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-
-### RV Literatur und Öffentlichkeit — Vorlesung
-
-- **Segment:** `unit:116063` · **unitId:** `116063`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116063&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-
-### RV/Kolleg Literatur / Kultur / Medien — Vorlesung
-
-- **Segment:** `unit:121948` · **unitId:** `121948`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121948&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-
 ### Schriftliche Übersetzungsleistung Latein I für Anfänger (Zulassungsvoraussetzung zu Kurs Latein II für Fortgeschrittene)
 
 - **Segment:** `unit:39848` · **unitId:** `39848`
@@ -8725,59 +8280,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Do | Do | 14:00–16:00 | 07.12.2025 23:59:59 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
 
-### Soziologie, Sozialreportage und Empirischer Journalismus — Hauptseminar
+### Sinnlichkeit im Florenz der Medici — Vorlesung
 
-- **Segment:** `unit:122459` · **unitId:** `122459`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122459&periodId=565>
+- **Segment:** `unit:111187` · **unitId:** `111187`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111187&periodId=565>
 
-- **Veranstaltungsart:** Hauptseminar
-
-### Status: Es ist kompliziert. Was ist der Mensch? Was ist das Tier? Eine Annäherung an die Verhältnisbestimmung von Tier und Mensch in zeitgenössischen Kino-Filmen — Seminar
-
-- **Segment:** `unit:117136` · **unitId:** `117136`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117136&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
-### Themen der zeitgenössischen Erkenntnistheorie — Proseminar / Mittelseminar
-
-- **Segment:** `unit:138123` · **unitId:** `138123`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138123&periodId=565>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Turnus:** Unregelmäßig
-
-### Transnationale Erinnerungsräume — Übung
-
-- **Segment:** `unit:115227` · **unitId:** `115227`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115227&periodId=565>
-
-- **Veranstaltungsart:** Übung
-
-### Vertiefte Methodik MA — Masterseminar
-
-- **Segment:** `unit:96011` · **unitId:** `96011`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96011&periodId=565>
-
-- **Veranstaltungsart:** Masterseminar
+- **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### Video-Journalismus: Eine praktische Einführung ins visuelle Storytelling, Texten und Produzieren — Seminar
-
-- **Segment:** `unit:117493` · **unitId:** `117493`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117493&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nicht in diesem Semester
-
-### VM: Transkulturelle Erzählformen der Identität und Diversität — Seminar
-
-- **Segment:** `unit:101692` · **unitId:** `101692`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101692&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nur im Wintersemester
+- **Turnus:** Unregelmäßig
 
 ### VM: Ökologien des Waldes. Literatur, Kunst und Film vom 18. Jh. bis zur Gegenwart — Hauptseminar
 
@@ -8785,22 +8295,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119003&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar
-
-### Von Anderen lernen - Zeugnisse in der Erkenntnistheorie — Proseminar / Mittelseminar
-
-- **Segment:** `unit:134076` · **unitId:** `134076`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134076&periodId=565>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Turnus:** Unregelmäßig
-
-### Vorlesung: Einführung in die Soziologischen Theorien
-
-- **Segment:** `unit:88877` · **unitId:** `88877`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88877&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Sommersemester
 
 ### Vorlesungsmitschrift zu Interdisziplinäres Basismodul zur Einführung in den Theoriekomplex Literatur/Kultur/Medien
 
@@ -8815,54 +8309,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### Was ist Liebe? — Proseminar / Mittelseminar
-
-- **Segment:** `unit:118989` · **unitId:** `118989`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118989&periodId=565>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Turnus:** Unregelmäßig
-
-### Wikipedia und Germanistik — Workshop
-
-- **Segment:** `unit:126254` · **unitId:** `126254`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126254&periodId=565>
-
-- **Veranstaltungsart:** Workshop
-
-### Wir hatten es doch schon gesehen... Und wie weiter?  Wenn Wirklichkeit die Fiktion überholt. Umgang mit Pandemie im zeitgenössischen Film — Seminar
-
-- **Segment:** `unit:97275` · **unitId:** `97275`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97275&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### Woke - aufgewacht!? Eine medienethische Herausforderung — Seminar
-
-- **Segment:** `unit:122027` · **unitId:** `122027`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122027&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
-### Workshop MA Germanistik: un/mündig
-
-- **Segment:** `unit:111687` · **unitId:** `111687`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111687&periodId=565>
-
-- **Veranstaltungsart:** Workshop
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### Ü: Literatursoziologie — Übung
-
-- **Segment:** `unit:94186` · **unitId:** `94186`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94186&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Sommersemester
 
 ### “Global Crusoe”: The Robinsonade Across Anglophone (Media) Cultures — Hauptseminar
 

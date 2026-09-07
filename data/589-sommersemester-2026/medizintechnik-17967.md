@@ -5,7 +5,7 @@ campo_segment: "title:17967"
 campo_path: "title:17593|title:17601|title:17967"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967"
 po_version_count: 10
-course_count: 3324
+course_count: 3080
 fau_studiengang:
   - title: "Medizintechnik (B.Sc.)"
     rel_path: "studiengang/medizintechnik-b-sc.md"
@@ -454,7 +454,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Campo-Segment:** `exam:14534157`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14532481|exam:14532482|exam:14532483|exam:14534102|exam:14534126|exam:14534157>
 
-## Veranstaltungen (3324)
+## Veranstaltungen (3080)
 
 ### Advanced Context Recognition ACR - Seminar
 
@@ -527,23 +527,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Do | 15:00–17:00 | 16.04.2026–16.07.2026 | — |
 | wöchentlich | Mo | 10:00–12:00 | 20.04.2026–13.07.2026 | — |
-
-### Ausgewählte Kapitel der Navigation und Identifikation - Hauptseminar
-
-- **Segment:** `exam:14523086` · **unitId:** `87303`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523068|exam:14523086>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87303&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch oder Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | — |
 
 ### Ausgewählte Kapitel der Navigation und Identifikation - Hauptseminar
 
@@ -762,24 +745,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wird noch angekündigt | — | — | — | — |
-
-### Experimentalphysik für Medizin- und Elektrotechniker II - Vorlesung
-
-- **Segment:** `exam:14523097` · **unitId:** `84001`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523096|exam:14523097>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84001&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 4.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 13003.00.874 (HD Hörsaal Physikum) |
-| 14-täglich | Fr | 12:00–14:00 | 17.04.2026–10.07.2026 | 13003.00.874 (HD Hörsaal Physikum) |
 
 ### Experimentalphysik für Medizin- und Elektrotechniker II - Vorlesung
 
@@ -1034,22 +999,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 10:15–11:45 | 14.04.2026–09.06.2026 | 56201.00.010 (00.010 MaD-Lab Seminarraum, Carl-Thiersch-Str. 2b) |
 | wöchentlich | Mi | 10:15–11:45 | 15.04.2026–10.06.2026 | 56201.00.010 (00.010 MaD-Lab Seminarraum, Carl-Thiersch-Str. 2b) |
-
-### MED 45951 Cognitive Neurowissenschaften - Seminar
-
-- **Segment:** `exam:14523082` · **unitId:** `86035`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523068|exam:14523082>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86035&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:15–16:30 | 13.04.2026–13.07.2026 | 00601.01.009 (SR 2, Physio 1) |
 
 ### MED 45951 Cognitive Neurowissenschaften - Seminar
 
@@ -1458,7 +1407,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132432&periodId=589>
 
 - **Veranstaltungsart:** Projekt
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Di | 14:15–15:45 | 14.04.2026 | — |
 
 ### Project Biomechanical Movement Analysis and Simulation - Projekt
 
@@ -1467,7 +1423,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132432&periodId=589>
 
 - **Veranstaltungsart:** Projekt
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Di | 14:15–15:45 | 14.04.2026 | — |
 
 ### Project Biomechanical Movement Analysis and Simulation - Projekt
 
@@ -1476,7 +1439,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132432&periodId=589>
 
 - **Veranstaltungsart:** Projekt
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Di | 14:15–15:45 | 14.04.2026 | — |
 
 ### Project Intelligent Language Systems - Praktikum/Projekt
 
@@ -2230,21 +2200,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### Übungen zu Experimentalphysik für Medizin- und Elektrotechniker II - Übung
 
-- **Segment:** `exam:14523098` · **unitId:** `110503`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523096|exam:14523098>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110503&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| 14-täglich | Fr | 12:00–14:00 | 24.04.2026–03.07.2026 | 13003.00.874 (HD Hörsaal Physikum) |
-
-### Übungen zu Experimentalphysik für Medizin- und Elektrotechniker II - Übung
-
 - **Segment:** `exam:14526983` · **unitId:** `110503`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14526981|exam:14526983>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110503&periodId=589>
@@ -2633,21 +2588,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### 1995 Industriepraktikum (B.Sc. Medizintechnik 2013) - Leistung
-
-- **Segment:** `exam:14523062` · **unitId:** `81658`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523061|exam:14523062>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=81658&periodId=589>
-
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
 ### 1997 Masterseminar (M.Sc. Medizintechnik 20182) - Leistung
 
 - **Segment:** `exam:14540086` · **unitId:** `51160`
@@ -2662,12 +2602,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | — | — | — |
-
-### 1999 Bachelorarbeit (B.Sc. Medizintechnik 2013)
-
-- **Segment:** `exam:14523063` · **unitId:** `36691`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523063>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36691&periodId=589>
 
 ### 1999 Bachelorarbeit (B.Sc. Medizintechnik 20182)
 
@@ -2867,18 +2801,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14550574|exam:14550575|exam:14550582>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=63922&periodId=589>
 
-### 22830 Informationssysteme im Gesundheitswesen
-
-- **Segment:** `exam:14522822` · **unitId:** `27279`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522818|exam:14522822>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27279&periodId=589>
-
-### 22850 Wissensbasierte Systeme in der Medizin 1
-
-- **Segment:** `exam:14522332` · **unitId:** `59083`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522326|exam:14522332>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59083&periodId=589>
-
 ### 22901 Kommunikationsnetze - Leistung
 
 - **Segment:** `exam:14526317` · **unitId:** `24028`
@@ -2932,12 +2854,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14550140` · **unitId:** `32109`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14550032|exam:14550135|exam:14550140>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=32109&periodId=589>
-
-### 23030 Qualitätsmanagement II - Phasenübergreifendes Qualitätsmanagement
-
-- **Segment:** `exam:14522758` · **unitId:** `32113`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522753|exam:14522758>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=32113&periodId=589>
 
 ### 23070 Biomedizinische Signalanalyse
 
@@ -2998,12 +2914,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14550750` · **unitId:** `56379`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14550574|exam:14550743|exam:14550750>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56379&periodId=589>
-
-### 23070 Biomedizinische Signalanalyse/Biomedical Signal Analysis
-
-- **Segment:** `exam:14522872` · **unitId:** `32120`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14522872>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=32120&periodId=589>
 
 ### 23070 Biomedizinische Signalanalyse/Biomedical Signal Analysis
 
@@ -3346,18 +3256,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 240675 Glas und Keramik
 
-- **Segment:** `exam:14522632` · **unitId:** `52844`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522632>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=52844&periodId=589>
-
-### 240675 Glas und Keramik
-
-- **Segment:** `exam:14522989` · **unitId:** `52844`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14522989>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=52844&periodId=589>
-
-### 240675 Glas und Keramik
-
 - **Segment:** `exam:14526490` · **unitId:** `52844`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14526245|exam:14526490>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=52844&periodId=589>
@@ -3397,18 +3295,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14551247` · **unitId:** `113352`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14551114|exam:14551247>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113352&periodId=589>
-
-### 248483 Technische Grundlagen medizinischer Diagnostikverfahren
-
-- **Segment:** `exam:14522635` · **unitId:** `52686`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522635>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=52686&periodId=589>
-
-### 248483 Technische Grundlagen medizinischer Diagnostikverfahren
-
-- **Segment:** `exam:14522992` · **unitId:** `52686`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14522992>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=52686&periodId=589>
 
 ### 248483 Technische Grundlagen medizinischer Diagnostikverfahren
 
@@ -3598,21 +3484,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### 25201 Elektromagnetische Felder I - Leistung
-
-- **Segment:** `exam:14522308` · **unitId:** `20910`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522271|exam:14522305|exam:14522308>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20910&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | 11:00–12:00 | — | 12801.01.210 (H11) |
 
 ### 25201 Elektromagnetische Felder I - Leistung
 
@@ -3848,21 +3719,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 25611 Grundlagen der Elektrotechnik I für MT - Leistung
 
-- **Segment:** `exam:14523124` · **unitId:** `35000`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523120|exam:14523124>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=35000&periodId=589>
-
-- **ECTS-Punkte:** 7.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | 08:00–10:00 | — | 11907.01.030 (H19) |
-
-### 25611 Grundlagen der Elektrotechnik I für MT - Leistung
-
 - **Segment:** `exam:14527009` · **unitId:** `35000`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14527005|exam:14527009>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=35000&periodId=589>
@@ -3893,21 +3749,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 25701 Grundlagen der Elektrotechnik II - Leistung
 
-- **Segment:** `exam:14523129` · **unitId:** `20890`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523125|exam:14523129>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20890&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | 11:00–12:30 | — | — |
-
-### 25701 Grundlagen der Elektrotechnik II - Leistung
-
 - **Segment:** `exam:14527014` · **unitId:** `20890`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14527010|exam:14527014>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20890&periodId=589>
@@ -3935,21 +3776,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Di | Di | 11:00–12:30 | — | — |
-
-### 25801 Grundlagen der Elektrotechnik III - Leistung
-
-- **Segment:** `exam:14522313` · **unitId:** `20899`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522271|exam:14522309|exam:14522313>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20899&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | 08:00–09:30 | — | 11907.01.030 (H19) |
 
 ### 25801 Grundlagen der Elektrotechnik III - Leistung
 
@@ -4163,21 +3989,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 26801 Signale und Systeme I - Leistung
 
-- **Segment:** `exam:14522324` · **unitId:** `20903`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522271|exam:14522320|exam:14522324>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20903&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | 11:00–12:30 | — | — |
-
-### 26801 Signale und Systeme I - Leistung
-
 - **Segment:** `exam:14526244` · **unitId:** `20903`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14526191|exam:14526240|exam:14526244>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20903&periodId=589>
@@ -4328,21 +4139,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 28001 Abschlussklausur Anatomie und Physiologie für Nichtmediziner - Leistung
 
-- **Segment:** `exam:14523067` · **unitId:** `27290`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523065|exam:14523067>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27290&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | 11:00–12:00 | — | 12801.01.210 (H11) |
-
-### 28001 Abschlussklausur Anatomie und Physiologie für Nichtmediziner - Leistung
-
 - **Segment:** `exam:14526944` · **unitId:** `27290`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14526942|exam:14526944>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27290&periodId=589>
@@ -4400,21 +4196,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Di | Di | 11:00–12:00 | — | 12801.01.210 (H11) |
-
-### 28101 Abschlussklausur Grundlagen von Biochemie und Molekularer Medizin - Leistung
-
-- **Segment:** `exam:14523088` · **unitId:** `27291`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523068|exam:14523088>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27291&periodId=589>
-
-- **ECTS-Punkte:** 1.25
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | 14:15–15:45 | — | 06901.00.035 (Hörsaal Biochemie) |
 
 ### 28121 Biomedizin - Leistung
 
@@ -4475,21 +4256,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mi | Mi | 10:00–16:00 | — | — |
-
-### 29101 Informationssysteme im Gesundheitswesen - Leistung
-
-- **Segment:** `exam:14522304` · **unitId:** `28415`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522271|exam:14522302|exam:14522304>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=28415&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | 10:00–11:00 | — | — |
 
 ### 29101 Informationssysteme im Gesundheitswesen - Leistung
 
@@ -4577,21 +4343,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 30001 Algorithmik kontinuierlicher Systeme - Leistung
 
-- **Segment:** `exam:14523140` · **unitId:** `22683`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523136|exam:14523140>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=22683&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | 14:00–15:30 | — | — |
-
-### 30001 Algorithmik kontinuierlicher Systeme - Leistung
-
 - **Segment:** `exam:14530946` · **unitId:** `22683`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14528584|exam:14528586|exam:14528588|exam:14530942|exam:14530946>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=22683&periodId=589>
@@ -4604,21 +4355,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Fr | Fr | 14:00–15:30 | — | — |
-
-### 30002 Übung Algorithmik kontinuierlicher Systeme - Leistung
-
-- **Segment:** `exam:14523141` · **unitId:** `22684`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523136|exam:14523141>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=22684&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
 
 ### 30002 Übung Algorithmik kontinuierlicher Systeme - Leistung
 
@@ -4753,7 +4489,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| Di | Di | 13:30–14:30 | — | — |
 
 ### 31011 AI in medical robotics - Leistung
 
@@ -4860,21 +4596,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 31101 Grundlagen der Technischen Informatik - Leistung
 
-- **Segment:** `exam:14522318` · **unitId:** `20844`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522271|exam:14522314|exam:14522318>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20844&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | 11:00–13:00 | — | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
-
-### 31101 Grundlagen der Technischen Informatik - Leistung
-
 - **Segment:** `exam:14526238` · **unitId:** `20844`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14526191|exam:14526234|exam:14526238>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20844&periodId=589>
@@ -4932,21 +4653,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Do | Do | 11:00–13:00 | — | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
-
-### 31102 Übung Grundlagen der Technischen Informatik - Leistung
-
-- **Segment:** `exam:14522319` · **unitId:** `20845`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522271|exam:14522314|exam:14522319>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20845&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
 
 ### 31102 Übung Grundlagen der Technischen Informatik - Leistung
 
@@ -5487,12 +5193,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### 342006 Nichtlineare Kontinuumsmechanik / Nonlinear Continuum Mechanics
-
-- **Segment:** `exam:14522810` · **unitId:** `62049`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522753|exam:14522810>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=62049&periodId=589>
 
 ### 342006 Nichtlineare Kontinuumsmechanik / Nonlinear Continuum Mechanics
 
@@ -6851,18 +6551,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 43374 Computer Graphics Deluxe
 
-- **Segment:** `exam:14522677` · **unitId:** `120400`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522677>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120400&periodId=589>
-
-### 43374 Computer Graphics Deluxe
-
-- **Segment:** `exam:14523034` · **unitId:** `120400`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14523034>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120400&periodId=589>
-
-### 43374 Computer Graphics Deluxe
-
 - **Segment:** `exam:14534419` · **unitId:** `120393`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14532481|exam:14532482|exam:14532483|exam:14534204|exam:14534205|exam:14534419>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120393&periodId=589>
@@ -6908,18 +6596,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14549421` · **unitId:** `120411`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14548905|exam:14549335|exam:14549421>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120411&periodId=589>
-
-### 43394 Computergraphik (Vorlesung mit Übung und Praktikum)
-
-- **Segment:** `exam:14522519` · **unitId:** `69364`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522519>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69364&periodId=589>
-
-### 43394 Computergraphik (Vorlesung mit Übung und Praktikum)
-
-- **Segment:** `exam:14522876` · **unitId:** `69364`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14522876>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69364&periodId=589>
 
 ### 43394 Computergraphik (Vorlesung mit Übung und Praktikum)
 
@@ -7043,18 +6719,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 43722 Scientific Visualization
 
-- **Segment:** `exam:14522523` · **unitId:** `78779`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522523>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78779&periodId=589>
-
-### 43722 Scientific Visualization
-
-- **Segment:** `exam:14522880` · **unitId:** `78779`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14522880>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78779&periodId=589>
-
-### 43722 Scientific Visualization
-
 - **Segment:** `exam:14534230` · **unitId:** `78768`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14532481|exam:14532482|exam:14532483|exam:14534204|exam:14534205|exam:14534230>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78768&periodId=589>
@@ -7088,18 +6752,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14550638` · **unitId:** `78768`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14550574|exam:14550627|exam:14550638>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78768&periodId=589>
-
-### 43723 Scientific Visualization
-
-- **Segment:** `exam:14522699` · **unitId:** `133598`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522699>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133598&periodId=589>
-
-### 43723 Scientific Visualization
-
-- **Segment:** `exam:14523056` · **unitId:** `133598`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14523056>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133598&periodId=589>
 
 ### 43723 Scientific Visualization
 
@@ -7175,18 +6827,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 43822 Computer Graphics
 
-- **Segment:** `exam:14522694` · **unitId:** `121980`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522694>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121980&periodId=589>
-
-### 43822 Computer Graphics
-
-- **Segment:** `exam:14523051` · **unitId:** `121980`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14523051>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121980&periodId=589>
-
-### 43822 Computer Graphics
-
 - **Segment:** `exam:14534433` · **unitId:** `121979`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14532481|exam:14532482|exam:14532483|exam:14534204|exam:14534205|exam:14534433>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121979&periodId=589>
@@ -7220,12 +6860,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14550733` · **unitId:** `121979`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14550574|exam:14550627|exam:14550733>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121979&periodId=589>
-
-### 43940 Echtzeitsysteme
-
-- **Segment:** `exam:14522335` · **unitId:** `59621`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522326|exam:14522335>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59621&periodId=589>
 
 ### 43940 Echtzeitsysteme
 
@@ -7310,12 +6944,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14549340` · **unitId:** `63146`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14548905|exam:14549335|exam:14549340>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=63146&periodId=589>
-
-### 43950 Kommunikationssysteme
-
-- **Segment:** `exam:14522340` · **unitId:** `57531`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522326|exam:14522340>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57531&periodId=589>
 
 ### 43961 Knowledge Discovery in Databases mit Übung
 
@@ -7635,12 +7263,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 44145 Computer Architectures for Medical Applications
 
-- **Segment:** `exam:14522344` · **unitId:** `66429`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522326|exam:14522344>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66429&periodId=589>
-
-### 44145 Computer Architectures for Medical Applications
-
 - **Segment:** `exam:14534474` · **unitId:** `34271`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14532481|exam:14532482|exam:14532483|exam:14534204|exam:14534462|exam:14534474>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=34271&periodId=589>
@@ -7806,18 +7428,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14550455` · **unitId:** `122159`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14550032|exam:14550380|exam:14550455>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122159&periodId=589>
-
-### 44157 Interfacing the Neuromuscular system: Applications for Human/Machine Interfaces and Neurophysiology
-
-- **Segment:** `exam:14522674` · **unitId:** `115011`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522674>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115011&periodId=589>
-
-### 44157 Interfacing the Neuromuscular system: Applications for Human/Machine Interfaces and Neurophysiology
-
-- **Segment:** `exam:14523031` · **unitId:** `115011`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14523031>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115011&periodId=589>
 
 ### 44157 Interfacing the Neuromuscular system: Applications for Human/Machine Interfaces and Neurophysiology
 
@@ -8091,18 +7701,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 44171 Advanced Programming Techniques
 
-- **Segment:** `exam:14522293` · **unitId:** `48041`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522271|exam:14522292|exam:14522293>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=48041&periodId=589>
-
-### 44171 Advanced Programming Techniques
-
-- **Segment:** `exam:14522824` · **unitId:** `48041`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522818|exam:14522824>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=48041&periodId=589>
-
-### 44171 Advanced Programming Techniques
-
 - **Segment:** `exam:14526213` · **unitId:** `48041`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14526191|exam:14526212|exam:14526213>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=48041&periodId=589>
@@ -8203,18 +7801,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14550900|exam:14551022|exam:14551033>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=79076&periodId=589>
 
-### 442006 Charakterisierung und Prüfung von Werkstoffen
-
-- **Segment:** `exam:14522638` · **unitId:** `53055`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522638>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53055&periodId=589>
-
-### 442006 Charakterisierung und Prüfung von Werkstoffen
-
-- **Segment:** `exam:14522995` · **unitId:** `53055`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14522995>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53055&periodId=589>
-
 ### 442006 Charakterisierung und Prüfung von Werkstoffen - Leistung
 
 - **Segment:** `exam:14526495` · **unitId:** `45446`
@@ -8277,12 +7863,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 44260 Nichtlineare Finite Elemente / Nonlinear Finite Elements
 
-- **Segment:** `exam:14522766` · **unitId:** `57876`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522753|exam:14522766>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57876&periodId=589>
-
-### 44260 Nichtlineare Finite Elemente / Nonlinear Finite Elements
-
 - **Segment:** `exam:14534929` · **unitId:** `58445`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14532481|exam:14532482|exam:14532483|exam:14534921|exam:14534922|exam:14534929>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=58445&periodId=589>
@@ -8304,12 +7884,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14550142` · **unitId:** `58445`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14550032|exam:14550135|exam:14550142>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=58445&periodId=589>
-
-### 44410 Eingebettete Systeme
-
-- **Segment:** `exam:14522462` · **unitId:** `122914`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522326|exam:14522462>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122914&periodId=589>
 
 ### 44410 Eingebettete Systeme
 
@@ -8403,18 +7977,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 44455 Speech and Language Processing
 
-- **Segment:** `exam:14522525` · **unitId:** `75906`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522525>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75906&periodId=589>
-
-### 44455 Speech and Language Processing
-
-- **Segment:** `exam:14522882` · **unitId:** `75906`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14522882>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75906&periodId=589>
-
-### 44455 Speech and Language Processing
-
 - **Segment:** `exam:14534546` · **unitId:** `75256`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14532481|exam:14532482|exam:14532483|exam:14534204|exam:14534532|exam:14534546>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75256&periodId=589>
@@ -8448,18 +8010,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14550813` · **unitId:** `75256`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14550574|exam:14550812|exam:14550813>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75256&periodId=589>
-
-### 44481 Visual Computing in Medicine
-
-- **Segment:** `exam:14522529` · **unitId:** `34263`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522529>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=34263&periodId=589>
-
-### 44481 Visual Computing in Medicine
-
-- **Segment:** `exam:14522886` · **unitId:** `34263`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14522886>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=34263&periodId=589>
 
 ### 44481 Visual Computing in Medicine
 
@@ -8715,21 +8265,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 45001 Mathematik A 1 - Leistung
 
-- **Segment:** `exam:14523103` · **unitId:** `20847`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523100|exam:14523103>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20847&periodId=589>
-
-- **ECTS-Punkte:** 7.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | 14:00–15:30 | — | 11901.00.226 (H8 Hörsaal 8) |
-
-### 45001 Mathematik A 1 - Leistung
-
 - **Segment:** `exam:14526988` · **unitId:** `20847`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14526985|exam:14526988>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20847&periodId=589>
@@ -8757,21 +8292,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Di | Di | 14:00–15:30 | — | 11901.00.226 (H8 Hörsaal 8) |
-
-### 45101 Grundlagen der Messtechnik - Leistung
-
-- **Segment:** `exam:14522731` · **unitId:** `21039`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522704|exam:14522728|exam:14522731>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=21039&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | 14:00–15:00 | — | 12801.01.210 (H11) |
 
 ### 45101 Grundlagen der Messtechnik - Leistung
 
@@ -8835,21 +8355,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 45101 Mathematik A 2 - Leistung
 
-- **Segment:** `exam:14523108` · **unitId:** `20849`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523105|exam:14523108>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20849&periodId=589>
-
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | 11:00–13:00 | — | — |
-
-### 45101 Mathematik A 2 - Leistung
-
 - **Segment:** `exam:14526993` · **unitId:** `20849`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14526990|exam:14526993>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20849&periodId=589>
@@ -8877,21 +8382,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | 11:00–13:00 | — | — |
-
-### 45102 Übung Mathematik A 2 - Leistung
-
-- **Segment:** `exam:14523109` · **unitId:** `20850`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523105|exam:14523109>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20850&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
 
 ### 45102 Übung Mathematik A 2 - Leistung
 
@@ -8925,12 +8415,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 451696 Cyber-Physical Systems
 
-- **Segment:** `exam:14522425` · **unitId:** `53087`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522326|exam:14522425>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53087&periodId=589>
-
-### 451696 Cyber-Physical Systems
-
 - **Segment:** `exam:14534348` · **unitId:** `58762`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14532481|exam:14532482|exam:14532483|exam:14534204|exam:14534205|exam:14534348>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=58762&periodId=589>
@@ -8952,21 +8436,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14549151` · **unitId:** `58762`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14548905|exam:14549008|exam:14549151>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=58762&periodId=589>
-
-### 45201 Mathematik A 3 - Leistung
-
-- **Segment:** `exam:14523113` · **unitId:** `20895`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523110|exam:14523113>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20895&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | 14:00–15:00 | — | 11901.00.236 (K1-119 Brose-Saal) |
 
 ### 45201 Mathematik A 3 - Leistung
 
@@ -9042,21 +8511,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mi | Mi | 14:00–16:00 | — | 11907.01.040 (H18) |
-
-### 45301 Mathematik A 4 - Leistung
-
-- **Segment:** `exam:14523118` · **unitId:** `20897`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523115|exam:14523118>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20897&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | 08:00–09:00 | — | — |
 
 ### 45301 Mathematik A 4 - Leistung
 
@@ -9255,21 +8709,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Fr | Fr | 08:00–09:00 | — | — |
-
-### 45701 Produktionstechnik I und II - Leistung
-
-- **Segment:** `exam:14522736` · **unitId:** `21047`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522704|exam:14522732|exam:14522736>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=21047&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | 14:00–16:00 | — | — |
 
 ### 45701 Produktionstechnik I und II - Leistung
 
@@ -9567,12 +9006,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14550032|exam:14550294|exam:14550343>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53103&periodId=589>
 
-### 465562 Advanced Programming Techniques
-
-- **Segment:** `exam:14522429` · **unitId:** `57630`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522326|exam:14522429>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57630&periodId=589>
-
 ### 465562 Advanced Programming Techniques - Leistung
 
 - **Segment:** `exam:14526499` · **unitId:** `38916`
@@ -9600,21 +9033,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Di | Di | 11:00–12:00 | — | 11901.00.222 (H7 Hörsaal 7) |
-
-### 46601 Statik und Festigkeitslehre - Leistung
-
-- **Segment:** `exam:14523148` · **unitId:** `21058`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523142|exam:14523148>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=21058&periodId=589>
-
-- **ECTS-Punkte:** 7.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | 11:00–12:30 | — | — |
 
 ### 46601 Statik und Festigkeitslehre - Leistung
 
@@ -10182,18 +9600,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 47570 Ultraschalltechnik
 
-- **Segment:** `exam:14522533` · **unitId:** `33660`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522533>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=33660&periodId=589>
-
-### 47570 Ultraschalltechnik
-
-- **Segment:** `exam:14522890` · **unitId:** `33660`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14522890>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=33660&periodId=589>
-
-### 47570 Ultraschalltechnik
-
 - **Segment:** `exam:14534848` · **unitId:** `61451`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14532481|exam:14532482|exam:14532483|exam:14534622|exam:14534836|exam:14534848>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=61451&periodId=589>
@@ -10614,18 +10020,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 47590 Bildgebende Verfahren in der Medizin
 
-- **Segment:** `exam:14522535` · **unitId:** `33667`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522535>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=33667&periodId=589>
-
-### 47590 Bildgebende Verfahren in der Medizin
-
-- **Segment:** `exam:14522892` · **unitId:** `33667`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14522892>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=33667&periodId=589>
-
-### 47590 Bildgebende Verfahren in der Medizin
-
 - **Segment:** `exam:14534850` · **unitId:** `58523`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14532481|exam:14532482|exam:14532483|exam:14534622|exam:14534836|exam:14534850>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=58523&periodId=589>
@@ -10725,12 +10119,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14550408` · **unitId:** `73834`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14550032|exam:14550380|exam:14550408>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73834&periodId=589>
-
-### 47615 Numerische und physikalische Grundlagen von Bildgebungsalgorithmen für die CT-basierte Strahlentherapieplanung
-
-- **Segment:** `exam:14522348` · **unitId:** `79090`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522326|exam:14522348>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=79090&periodId=589>
 
 ### 47615 Numerische und physikalische Grundlagen von Bildgebungsalgorithmen für die CT-basierte Strahlentherapieplanung
 
@@ -11358,30 +10746,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 47666 Bewegungsanalyse und biomechanische Grenzgebiete
 
-- **Segment:** `exam:14522626` · **unitId:** `107400`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522626>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107400&periodId=589>
-
-### 47666 Bewegungsanalyse und biomechanische Grenzgebiete
-
-- **Segment:** `exam:14522691` · **unitId:** `76011`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522691>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=76011&periodId=589>
-
-### 47666 Bewegungsanalyse und biomechanische Grenzgebiete
-
-- **Segment:** `exam:14522983` · **unitId:** `107400`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14522983>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107400&periodId=589>
-
-### 47666 Bewegungsanalyse und biomechanische Grenzgebiete
-
-- **Segment:** `exam:14523048` · **unitId:** `76011`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14523048>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=76011&periodId=589>
-
-### 47666 Bewegungsanalyse und biomechanische Grenzgebiete
-
 - **Segment:** `exam:14543918` · **unitId:** `76011`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14541641|exam:14541642|exam:14541643|exam:14543380|exam:14543900|exam:14543918>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=76011&periodId=589>
@@ -11550,18 +10914,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 47677 Data Science Survival Skills
 
-- **Segment:** `exam:14522537` · **unitId:** `79074`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522537>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=79074&periodId=589>
-
-### 47677 Data Science Survival Skills
-
-- **Segment:** `exam:14522894` · **unitId:** `79074`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14522894>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=79074&periodId=589>
-
-### 47677 Data Science Survival Skills
-
 - **Segment:** `exam:14534261` · **unitId:** `76876`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14532481|exam:14532482|exam:14532483|exam:14534204|exam:14534205|exam:14534261>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=76876&periodId=589>
@@ -11709,12 +11061,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14551023` · **unitId:** `76881`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14550900|exam:14551022|exam:14551023>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=76881&periodId=589>
-
-### 47680 Biomechanik der Bewegung
-
-- **Segment:** `exam:14522770` · **unitId:** `68791`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522753|exam:14522770>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68791&periodId=589>
 
 ### 47680 Biomechanik der Bewegung
 
@@ -11931,12 +11277,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14551009` · **unitId:** `118603`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14550900|exam:14550992|exam:14551009>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118603&periodId=589>
-
-### 47800 Digital Communications
-
-- **Segment:** `exam:14522351` · **unitId:** `64997`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522326|exam:14522351>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=64997&periodId=589>
 
 ### 47800 Digital Communications
 
@@ -12630,21 +11970,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 56401 Werkstoffe und ihre Struktur - Leistung
 
-- **Segment:** `exam:14522741` · **unitId:** `25456`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522704|exam:14522738|exam:14522741>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=25456&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | 11:00–12:30 | — | 11901.00.240 (H10 Hörsaal 10) |
-
-### 56401 Werkstoffe und ihre Struktur - Leistung
-
 - **Segment:** `exam:14526418` · **unitId:** `25456`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14526245|exam:14526415|exam:14526418>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=25456&periodId=589>
@@ -13213,21 +12538,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 58701 Biomechanik - Leistung
 
-- **Segment:** `exam:14522744` · **unitId:** `27306`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522704|exam:14522742|exam:14522744>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27306&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | 14:00–15:00 | — | 11901.00.226 (H8 Hörsaal 8) |
-
-### 58701 Biomechanik - Leistung
-
 - **Segment:** `exam:14526425` · **unitId:** `27306`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14526245|exam:14526423|exam:14526425>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27306&periodId=589>
@@ -13285,12 +12595,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mi | Mi | 14:00–15:00 | — | 11901.00.226 (H8 Hörsaal 8) |
-
-### 587565 Exercises for Advanced Programming Techniques
-
-- **Segment:** `exam:14522433` · **unitId:** `52741`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522326|exam:14522433>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=52741&periodId=589>
 
 ### 587565 Exercises for Advanced Programming Techniques
 
@@ -13363,21 +12667,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mi | Mi | 09:00–12:30 | — | — |
-
-### 58911 Surfaces of Biomaterials - Leistung
-
-- **Segment:** `exam:14522747` · **unitId:** `36728`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522704|exam:14522745|exam:14522747>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36728&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | 08:00–09:00 | — | 12801.01.220 (H12 Emmy-Noether-Hörsaal) |
 
 ### 58911 Surfaces of Biomaterials - Leistung
 
@@ -13531,21 +12820,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 59501 Grundlagenpraktikum für MT - Leistung
 
-- **Segment:** `exam:14523134` · **unitId:** `32919`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523130|exam:14523134>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=32919&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 59501 Grundlagenpraktikum für MT - Leistung
-
 - **Segment:** `exam:14527019` · **unitId:** `32919`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14527015|exam:14527019>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=32919&periodId=589>
@@ -13576,21 +12850,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 60001 Experimentalphysik I - Leistung
 
-- **Segment:** `exam:14523095` · **unitId:** `20893`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523092|exam:14523095>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20893&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | 14:00–15:30 | — | — |
-
-### 60001 Experimentalphysik I - Leistung
-
 - **Segment:** `exam:14526980` · **unitId:** `20893`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14526977|exam:14526980>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20893&periodId=589>
@@ -13618,21 +12877,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Do | Do | 14:00–15:30 | — | — |
-
-### 60101 Experimentalphysik II - Leistung
-
-- **Segment:** `exam:14523099` · **unitId:** `20894`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523096|exam:14523099>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20894&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | 13:00–14:30 | — | — |
 
 ### 60101 Experimentalphysik II - Leistung
 
@@ -13890,12 +13134,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### 625543 Grundlagen der Elektrischen Energieversorgung (MT)
-
-- **Segment:** `exam:14522436` · **unitId:** `53056`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522326|exam:14522436>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53056&periodId=589>
-
 ### 625543 Grundlagen der Elektrischen Energieversorgung (MT) - Leistung
 
 - **Segment:** `exam:14526505` · **unitId:** `45448`
@@ -14037,18 +13275,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14532481|exam:14532482|exam:14532483|exam:14534102|exam:14534103|exam:14534118>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=52861&periodId=589>
 
-### 634654 Werkstoffkunde und Technologie der Metalle für MT
-
-- **Segment:** `exam:14522641` · **unitId:** `53287`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522641>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53287&periodId=589>
-
-### 634654 Werkstoffkunde und Technologie der Metalle für MT
-
-- **Segment:** `exam:14522998` · **unitId:** `53287`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14522998>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53287&periodId=589>
-
 ### 634654 Werkstoffkunde und Technologie der Metalle für MT - Leistung
 
 - **Segment:** `exam:14526508` · **unitId:** `44642`
@@ -14111,12 +13337,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 636348 Cyber-Physical Systems
 
-- **Segment:** `exam:14522439` · **unitId:** `68297`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522326|exam:14522439>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68297&periodId=589>
-
-### 636348 Cyber-Physical Systems
-
 - **Segment:** `exam:14534367` · **unitId:** `67223`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14532481|exam:14532482|exam:14532483|exam:14534204|exam:14534205|exam:14534367>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=67223&periodId=589>
@@ -14168,18 +13388,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Di | Di | 14:00–15:30 | — | 12801.01.220 (H12 Emmy-Noether-Hörsaal) |
-
-### 642026 Organ-Funktion und Organ-Technik
-
-- **Segment:** `exam:14522644` · **unitId:** `53220`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522644>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53220&periodId=589>
-
-### 642026 Organ-Funktion und Organ-Technik
-
-- **Segment:** `exam:14523001` · **unitId:** `53220`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14523001>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53220&periodId=589>
 
 ### 642026 Organ-Funktion und Organ-Technik - Leistung
 
@@ -14270,18 +13478,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mi | Mi | — | — | — |
-
-### 645618 Human Computer Interaction
-
-- **Segment:** `exam:14522648` · **unitId:** `57463`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522648>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57463&periodId=589>
-
-### 645618 Human Computer Interaction
-
-- **Segment:** `exam:14523005` · **unitId:** `57463`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14523005>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57463&periodId=589>
 
 ### 645618 Human Computer Interaction
 
@@ -14387,18 +13583,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 64620 Numerik I für Ingenieure
 
-- **Segment:** `exam:14522540` · **unitId:** `65619`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522540>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65619&periodId=589>
-
-### 64620 Numerik I für Ingenieure
-
-- **Segment:** `exam:14522897` · **unitId:** `65619`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14522897>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65619&periodId=589>
-
-### 64620 Numerik I für Ingenieure
-
 - **Segment:** `exam:14534268` · **unitId:** `66643`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14532481|exam:14532482|exam:14532483|exam:14534204|exam:14534205|exam:14534268>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66643&periodId=589>
@@ -14420,18 +13604,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14549071` · **unitId:** `66643`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14548905|exam:14549008|exam:14549071>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66643&periodId=589>
-
-### 64631 Numerik II für Ingenieure
-
-- **Segment:** `exam:14522544` · **unitId:** `63111`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522544>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=63111&periodId=589>
-
-### 64631 Numerik II für Ingenieure
-
-- **Segment:** `exam:14522901` · **unitId:** `63111`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14522901>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=63111&periodId=589>
 
 ### 64631 Numerik II für Ingenieure
 
@@ -14483,18 +13655,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 650143 Systemprogrammierung Vertiefung
 
-- **Segment:** `exam:14522652` · **unitId:** `52656`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522652>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=52656&periodId=589>
-
-### 650143 Systemprogrammierung Vertiefung
-
-- **Segment:** `exam:14523009` · **unitId:** `52656`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14523009>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=52656&periodId=589>
-
-### 650143 Systemprogrammierung Vertiefung
-
 - **Segment:** `exam:14534371` · **unitId:** `62638`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14532481|exam:14532482|exam:14532483|exam:14534204|exam:14534205|exam:14534371>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=62638&periodId=589>
@@ -14540,24 +13700,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14550346` · **unitId:** `53086`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14550032|exam:14550294|exam:14550346>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53086&periodId=589>
-
-### 65718 Introduction to Machine Learning
-
-- **Segment:** `exam:14522548` · **unitId:** `76711`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522548>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=76711&periodId=589>
-
-### 65718 Introduction to Machine Learning
-
-- **Segment:** `exam:14522905` · **unitId:** `76711`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14522905>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=76711&periodId=589>
-
-### 658644 Human Factors in Security and Privacy
-
-- **Segment:** `exam:14522443` · **unitId:** `58544`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522326|exam:14522443>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=58544&periodId=589>
 
 ### 658644 Human Factors in Security and Privacy
 
@@ -14664,18 +13806,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14550156` · **unitId:** `60903`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14550032|exam:14550135|exam:14550156>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=60903&periodId=589>
-
-### 66995 Computertomographie - eine theoretische und praktische Einführung
-
-- **Segment:** `exam:14522553` · **unitId:** `70225`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522553>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70225&periodId=589>
-
-### 66995 Computertomographie - eine theoretische und praktische Einführung
-
-- **Segment:** `exam:14522910` · **unitId:** `70225`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14522910>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70225&periodId=589>
 
 ### 66995 Computertomographie - eine theoretische und praktische Einführung
 
@@ -15301,7 +14431,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| Mo | Mo | 10:00–14:00 | — | — |
 
 ### 72781 Geometric Numerical Integration - Leistung
 
@@ -15316,7 +14446,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| Mo | Mo | 10:00–14:00 | — | — |
 
 ### 72782 Geometric Numerical Integration - Leistung
 
@@ -16450,6 +15580,51 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | So | So | 08:00–09:00 | — | — |
 
+### 75941 Research Project on Surgical Robotics - Leistung
+
+- **Segment:** `exam:14539949` · **unitId:** `114369`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14536896|exam:14536897|exam:14536898|exam:14539775|exam:14539948|exam:14539949>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114369&periodId=589>
+
+- **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | 08:00–09:00 | — | — |
+
+### 75941 Research Project on Surgical Robotics - Leistung
+
+- **Segment:** `exam:14545548` · **unitId:** `114369`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14541641|exam:14541642|exam:14541643|exam:14545375|exam:14545547|exam:14545548>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114369&periodId=589>
+
+- **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | 08:00–09:00 | — | — |
+
+### 75941 Research Project on Surgical Robotics - Leistung
+
+- **Segment:** `exam:14551284` · **unitId:** `114369`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14551114|exam:14551283|exam:14551284>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114369&periodId=589>
+
+- **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | 08:00–09:00 | — | — |
+
 ### 76021 Biomedical Image Analysis Project - Leistung
 
 - **Segment:** `exam:14535275` · **unitId:** `107502`
@@ -17409,12 +16584,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 773774 Eingebettete Systeme (Vorlesung mit erweiterten Übungen)
 
-- **Segment:** `exam:14522447` · **unitId:** `53172`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522326|exam:14522447>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53172&periodId=589>
-
-### 773774 Eingebettete Systeme (Vorlesung mit erweiterten Übungen)
-
 - **Segment:** `exam:14534443` · **unitId:** `123370`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14532481|exam:14532482|exam:14532483|exam:14534204|exam:14534205|exam:14534443>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123370&periodId=589>
@@ -17436,6 +16605,51 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14549246` · **unitId:** `123370`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14548905|exam:14549008|exam:14549246>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123370&periodId=589>
+
+### 775681 Seminar Ausgewählte Kapitel der Nachrichtentechnik - Leistung
+
+- **Segment:** `exam:14538681` · **unitId:** `44440`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14536896|exam:14536897|exam:14536898|exam:14538527|exam:14538679|exam:14538681>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44440&periodId=589>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### 775681 Seminar Ausgewählte Kapitel der Nachrichtentechnik - Leistung
+
+- **Segment:** `exam:14543340` · **unitId:** `44440`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14541641|exam:14541642|exam:14541643|exam:14543169|exam:14543338|exam:14543340>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44440&periodId=589>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### 775681 Seminar Ausgewählte Kapitel der Nachrichtentechnik - Leistung
+
+- **Segment:** `exam:14548865` · **unitId:** `44440`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14548694|exam:14548863|exam:14548865>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44440&periodId=589>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### 77701 Hauptseminar Ausgewählte Kapitel der Navigation und Identifikation - Leistung
 
@@ -17466,18 +16680,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### 779501 Kommunikation in Technik-Wissenschaften
-
-- **Segment:** `exam:14522657` · **unitId:** `55617`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522657>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55617&periodId=589>
-
-### 779501 Kommunikation in Technik-Wissenschaften
-
-- **Segment:** `exam:14523014` · **unitId:** `55617`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14523014>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55617&periodId=589>
 
 ### 779501 Kommunikation in Technik-Wissenschaften - Leistung
 
@@ -17574,18 +16776,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14550715` · **unitId:** `53175`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14550574|exam:14550627|exam:14550715>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53175&periodId=589>
-
-### 800224 Medical Imaging System Technology
-
-- **Segment:** `exam:14522660` · **unitId:** `62155`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522660>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=62155&periodId=589>
-
-### 800224 Medical Imaging System Technology
-
-- **Segment:** `exam:14523017` · **unitId:** `62155`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14523017>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=62155&periodId=589>
 
 ### 800224 Medical Imaging System Technology
 
@@ -17888,12 +17078,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 866129 Forensische Informatik
 
-- **Segment:** `exam:14522452` · **unitId:** `56763`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522326|exam:14522452>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56763&periodId=589>
-
-### 866129 Forensische Informatik
-
 - **Segment:** `exam:14534605` · **unitId:** `53041`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14532481|exam:14532482|exam:14532483|exam:14534204|exam:14534532|exam:14534605>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53041&periodId=589>
@@ -18057,24 +17241,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### 92230 Kommunikation in Technik-Wissenschaften
-
-- **Segment:** `exam:14522561` · **unitId:** `35062`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522561>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=35062&periodId=589>
-
-### 92230 Kommunikation in Technik-Wissenschaften
-
-- **Segment:** `exam:14522918` · **unitId:** `35062`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14522918>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=35062&periodId=589>
-
-### 92290 Kommunikationsnetze
-
-- **Segment:** `exam:14522355` · **unitId:** `60429`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522326|exam:14522355>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=60429&periodId=589>
-
 ### 92290 Kommunikationsnetze
 
 - **Segment:** `exam:14534748` · **unitId:** `61329`
@@ -18098,18 +17264,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14549756` · **unitId:** `61329`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14549528|exam:14549738|exam:14549756>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=61329&periodId=589>
-
-### 92345 Human-centered mechatronics and robotics
-
-- **Segment:** `exam:14522563` · **unitId:** `75696`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522563>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75696&periodId=589>
-
-### 92345 Human-centered mechatronics and robotics
-
-- **Segment:** `exam:14522920` · **unitId:** `75696`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14522920>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75696&periodId=589>
 
 ### 92345 Human-centered mechatronics and robotics
 
@@ -18263,18 +17417,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 92359 Robot mechanisms and user interfaces
 
-- **Segment:** `exam:14522568` · **unitId:** `76854`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522568>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=76854&periodId=589>
-
-### 92359 Robot mechanisms and user interfaces
-
-- **Segment:** `exam:14522925` · **unitId:** `76854`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14522925>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=76854&periodId=589>
-
-### 92359 Robot mechanisms and user interfaces
-
 - **Segment:** `exam:14534637` · **unitId:** `76855`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14532481|exam:14532482|exam:14532483|exam:14534622|exam:14534623|exam:14534637>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=76855&periodId=589>
@@ -18326,18 +17468,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14550962` · **unitId:** `76855`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14550900|exam:14550953|exam:14550962>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=76855&periodId=589>
-
-### 92390 Photonik 1
-
-- **Segment:** `exam:14522572` · **unitId:** `60172`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522572>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=60172&periodId=589>
-
-### 92390 Photonik 1
-
-- **Segment:** `exam:14522929` · **unitId:** `60172`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14522929>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=60172&periodId=589>
 
 ### 92390 Photonik 1
 
@@ -18407,18 +17537,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 92510 Digitaltechnik
 
-- **Segment:** `exam:14522359` · **unitId:** `66309`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522326|exam:14522359>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66309&periodId=589>
-
-### 92510 Digitaltechnik
-
-- **Segment:** `exam:14522828` · **unitId:** `66309`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522818|exam:14522828>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66309&periodId=589>
-
-### 92510 Digitaltechnik
-
 - **Segment:** `exam:14534641` · **unitId:** `65398`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14532481|exam:14532482|exam:14532483|exam:14534622|exam:14534623|exam:14534641>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65398&periodId=589>
@@ -18471,12 +17589,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14550900|exam:14550953|exam:14550966>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107345&periodId=589>
 
-### 92520 Elektromagnetische Felder I
-
-- **Segment:** `exam:14522832` · **unitId:** `57489`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522818|exam:14522832>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57489&periodId=589>
-
 ### 92523 Halbleitertechnik III - Leistungshalbleiterbauelemente (HL III)
 
 - **Segment:** `exam:14534765` · **unitId:** `78871`
@@ -18527,12 +17639,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 92530 Elektromagnetische Felder II
 
-- **Segment:** `exam:14522363` · **unitId:** `57053`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522326|exam:14522363>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57053&periodId=589>
-
-### 92530 Elektromagnetische Felder II
-
 - **Segment:** `exam:14534771` · **unitId:** `56080`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14532481|exam:14532482|exam:14532483|exam:14534622|exam:14534730|exam:14534771>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56080&periodId=589>
@@ -18560,18 +17666,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14550978` · **unitId:** `118582`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14550900|exam:14550953|exam:14550978>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118582&periodId=589>
-
-### 92549 Anwendungen von Quantentechnologien
-
-- **Segment:** `exam:14522688` · **unitId:** `120452`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522688>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120452&periodId=589>
-
-### 92549 Anwendungen von Quantentechnologien
-
-- **Segment:** `exam:14523045` · **unitId:** `120452`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14523045>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120452&periodId=589>
 
 ### 92549 Anwendungen von Quantentechnologien
 
@@ -18743,18 +17837,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 92554 Quantensensorik
 
-- **Segment:** `exam:14522684` · **unitId:** `120434`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522684>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120434&periodId=589>
-
-### 92554 Quantensensorik
-
-- **Segment:** `exam:14523041` · **unitId:** `120434`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14523041>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120434&periodId=589>
-
-### 92554 Quantensensorik
-
 - **Segment:** `exam:14534426` · **unitId:** `120448`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14532481|exam:14532482|exam:14532483|exam:14534204|exam:14534205|exam:14534426>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120448&periodId=589>
@@ -18899,18 +17981,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 92563 Anwendungen von Quantentechnologien
 
-- **Segment:** `exam:15914320` · **unitId:** `137281`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:15914320>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137281&periodId=589>
-
-### 92563 Anwendungen von Quantentechnologien
-
-- **Segment:** `exam:15914321` · **unitId:** `137281`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:15914321>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137281&periodId=589>
-
-### 92563 Anwendungen von Quantentechnologien
-
 - **Segment:** `exam:15914348` · **unitId:** `137281`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14526245|exam:15914348>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137281&periodId=589>
@@ -19005,18 +18075,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14550032|exam:14550135|exam:15914467>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137282&periodId=589>
 
-### 92580 Grundlagen der Elektrotechnik III
-
-- **Segment:** `exam:14522836` · **unitId:** `55944`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522818|exam:14522836>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55944&periodId=589>
-
-### 92590 Halbleiterbauelemente
-
-- **Segment:** `exam:14522367` · **unitId:** `56703`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522326|exam:14522367>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56703&periodId=589>
-
 ### 92590 Halbleiterbauelemente
 
 - **Segment:** `exam:14534645` · **unitId:** `55644`
@@ -19043,12 +18101,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 92601 Nachrichtentechnische Systeme
 
-- **Segment:** `exam:14522372` · **unitId:** `70491`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522326|exam:14522372>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70491&periodId=589>
-
-### 92601 Nachrichtentechnische Systeme
-
 - **Segment:** `exam:14534650` · **unitId:** `70492`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14532481|exam:14532482|exam:14532483|exam:14534622|exam:14534623|exam:14534650>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70492&periodId=589>
@@ -19070,24 +18122,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14549658` · **unitId:** `70492`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14549528|exam:14549631|exam:14549658>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70492&periodId=589>
-
-### 92610 Passive Bauelemente und deren HF-Verhalten
-
-- **Segment:** `exam:14522273` · **unitId:** `58277`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522271|exam:14522272|exam:14522273>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=58277&periodId=589>
-
-### 92610 Passive Bauelemente und deren HF-Verhalten
-
-- **Segment:** `exam:14522378` · **unitId:** `58277`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522326|exam:14522378>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=58277&periodId=589>
-
-### 92610 Passive Bauelemente und deren HF-Verhalten
-
-- **Segment:** `exam:14522841` · **unitId:** `58277`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522818|exam:14522841>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=58277&periodId=589>
 
 ### 92610 Passive Bauelemente und deren HF-Verhalten
 
@@ -19175,24 +18209,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 92660 Schaltungstechnik
 
-- **Segment:** `exam:14522277` · **unitId:** `62787`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522271|exam:14522272|exam:14522277>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=62787&periodId=589>
-
-### 92660 Schaltungstechnik
-
-- **Segment:** `exam:14522382` · **unitId:** `62787`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522326|exam:14522382>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=62787&periodId=589>
-
-### 92660 Schaltungstechnik
-
-- **Segment:** `exam:14522845` · **unitId:** `62787`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522818|exam:14522845>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=62787&periodId=589>
-
-### 92660 Schaltungstechnik
-
 - **Segment:** `exam:14526197` · **unitId:** `62787`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14526191|exam:14526192|exam:14526197>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=62787&periodId=589>
@@ -19226,18 +18242,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14549671` · **unitId:** `62216`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14549528|exam:14549631|exam:14549671>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=62216&periodId=589>
-
-### 92670 Sensorik
-
-- **Segment:** `exam:14522297` · **unitId:** `65496`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522271|exam:14522292|exam:14522297>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65496&periodId=589>
-
-### 92670 Sensorik
-
-- **Segment:** `exam:14522849` · **unitId:** `65496`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522818|exam:14522849>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65496&periodId=589>
 
 ### 92670 Sensorik
 
@@ -19301,12 +18305,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 92720 Hochfrequenztechnik
 
-- **Segment:** `exam:14522386` · **unitId:** `60160`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522326|exam:14522386>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=60160&periodId=589>
-
-### 92720 Hochfrequenztechnik
-
 - **Segment:** `exam:14534775` · **unitId:** `59483`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14532481|exam:14532482|exam:14532483|exam:14534622|exam:14534730|exam:14534775>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59483&periodId=589>
@@ -19328,12 +18326,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14549783` · **unitId:** `59483`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14549528|exam:14549738|exam:14549783>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59483&periodId=589>
-
-### 92730 Kommunikationselektronik
-
-- **Segment:** `exam:14522391` · **unitId:** `66797`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522326|exam:14522391>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66797&periodId=589>
 
 ### 92730 Kommunikationselektronik
 
@@ -19529,12 +18521,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 93105 Sichere Systeme
 
-- **Segment:** `exam:14522421` · **unitId:** `107518`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522326|exam:14522421>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107518&periodId=589>
-
-### 93105 Sichere Systeme
-
 - **Segment:** `exam:14534561` · **unitId:** `108243`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14532481|exam:14532482|exam:14532483|exam:14534204|exam:14534532|exam:14534561>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=108243&periodId=589>
@@ -19635,24 +18621,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14548905|exam:14549008|exam:14549084>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55667&periodId=589>
 
-### 93150 Rechnerkommunikation
-
-- **Segment:** `exam:14522395` · **unitId:** `61860`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522326|exam:14522395>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=61860&periodId=589>
-
-### 93170 Systemnahe Programmierung in C
-
-- **Segment:** `exam:14522576` · **unitId:** `59602`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522576>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59602&periodId=589>
-
-### 93170 Systemnahe Programmierung in C
-
-- **Segment:** `exam:14522933` · **unitId:** `59602`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14522933>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59602&periodId=589>
-
 ### 93170 Systemnahe Programmierung in C
 
 - **Segment:** `exam:14534285` · **unitId:** `59003`
@@ -19715,18 +18683,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 93180 Systemprogrammierung
 
-- **Segment:** `exam:14522582` · **unitId:** `59339`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522582>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59339&periodId=589>
-
-### 93180 Systemprogrammierung
-
-- **Segment:** `exam:14522939` · **unitId:** `59339`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14522939>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59339&periodId=589>
-
-### 93180 Systemprogrammierung
-
 - **Segment:** `exam:14534291` · **unitId:** `60030`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14532481|exam:14532482|exam:14532483|exam:14534204|exam:14534205|exam:14534291>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=60030&periodId=589>
@@ -19748,30 +18704,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14549094` · **unitId:** `60030`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14548905|exam:14549008|exam:14549094>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=60030&periodId=589>
-
-### 93181 Grundlagen der Systemprogrammierung
-
-- **Segment:** `exam:14522281` · **unitId:** `63173`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522271|exam:14522272|exam:14522281>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=63173&periodId=589>
-
-### 93181 Grundlagen der Systemprogrammierung
-
-- **Segment:** `exam:14522590` · **unitId:** `63173`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522590>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=63173&periodId=589>
-
-### 93181 Grundlagen der Systemprogrammierung
-
-- **Segment:** `exam:14522854` · **unitId:** `63173`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522818|exam:14522854>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=63173&periodId=589>
-
-### 93181 Grundlagen der Systemprogrammierung
-
-- **Segment:** `exam:14522947` · **unitId:** `63173`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14522947>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=63173&periodId=589>
 
 ### 93181 Grundlagen der Systemprogrammierung
 
@@ -19845,36 +18777,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14550574|exam:14550627|exam:14550667>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74864&periodId=589>
 
-### 93330 Deep Learning for Beginners
-
-- **Segment:** `exam:14522596` · **unitId:** `79073`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522596>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=79073&periodId=589>
-
-### 93330 Deep Learning for Beginners
-
-- **Segment:** `exam:14522953` · **unitId:** `79073`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14522953>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=79073&periodId=589>
-
-### 93331 Deep Learning for Beginners (VHB)
-
-- **Segment:** `exam:15789874` · **unitId:** `135382`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:15789874>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135382&periodId=589>
-
-### 93331 Deep Learning for Beginners (VHB)
-
-- **Segment:** `exam:15789875` · **unitId:** `135382`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:15789875>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135382&periodId=589>
-
-### 93500 Digitale Signalverarbeitung
-
-- **Segment:** `exam:14522400` · **unitId:** `66432`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522326|exam:14522400>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66432&periodId=589>
-
 ### 93500 Digitale Signalverarbeitung
 
 - **Segment:** `exam:14534308` · **unitId:** `65784`
@@ -19934,12 +18836,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14550670` · **unitId:** `65784`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14550574|exam:14550627|exam:14550670>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65784&periodId=589>
-
-### 93510 Digitale Übertragung
-
-- **Segment:** `exam:14522405` · **unitId:** `56617`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522326|exam:14522405>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56617&periodId=589>
 
 ### 93510 Digitale Übertragung
 
@@ -20189,24 +19085,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 94500 Dynamik starrer Körper
 
-- **Segment:** `exam:14522471` · **unitId:** `62841`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522466|exam:14522471>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=62841&periodId=589>
-
-### 94500 Dynamik starrer Körper
-
-- **Segment:** `exam:14522716` · **unitId:** `62841`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522704|exam:14522715|exam:14522716>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=62841&periodId=589>
-
-### 94500 Dynamik starrer Körper
-
-- **Segment:** `exam:14522772` · **unitId:** `62841`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522753|exam:14522772>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=62841&periodId=589>
-
-### 94500 Dynamik starrer Körper
-
 - **Segment:** `exam:14526614` · **unitId:** `62841`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14526602|exam:14526613|exam:14526614>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=62841&periodId=589>
@@ -20241,12 +19119,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14550032|exam:14550135|exam:14550173>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=62149&periodId=589>
 
-### 94510 Grundlagen der Messtechnik
-
-- **Segment:** `exam:14522476` · **unitId:** `58056`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522466|exam:14522476>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=58056&periodId=589>
-
 ### 94535 Maßgeschneiderte Prozesstechnologien
 
 - **Segment:** `exam:14535245` · **unitId:** `125714`
@@ -20270,24 +19142,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14550458` · **unitId:** `125714`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14550032|exam:14550380|exam:14550458>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125714&periodId=589>
-
-### 94550 Methode der Finiten Elemente
-
-- **Segment:** `exam:14522480` · **unitId:** `62821`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522466|exam:14522480>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=62821&periodId=589>
-
-### 94550 Methode der Finiten Elemente
-
-- **Segment:** `exam:14522706` · **unitId:** `62821`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522704|exam:14522705|exam:14522706>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=62821&periodId=589>
-
-### 94550 Methode der Finiten Elemente
-
-- **Segment:** `exam:14522777` · **unitId:** `62821`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522753|exam:14522777>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=62821&periodId=589>
 
 ### 94550 Methode der Finiten Elemente
 
@@ -20324,24 +19178,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14550178` · **unitId:** `62129`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14550032|exam:14550135|exam:14550178>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=62129&periodId=589>
-
-### 94570 Produktionstechnik I und II
-
-- **Segment:** `exam:14522485` · **unitId:** `64544`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522466|exam:14522485>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=64544&periodId=589>
-
-### 94591 Technische Darstellungslehre 2
-
-- **Segment:** `exam:14522782` · **unitId:** `35890`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522753|exam:14522782>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=35890&periodId=589>
-
-### 94705 Maschinenelemente 1
-
-- **Segment:** `exam:14522761` · **unitId:** `112202`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522753|exam:14522761>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112202&periodId=589>
 
 ### 94705 Maschinenelemente 1
 
@@ -20390,18 +19226,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14538489` · **unitId:** `69037`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14536896|exam:14536897|exam:14536898|exam:14538424|exam:14538425|exam:14538489>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69037&periodId=589>
-
-### 94951 Grundlagen der Robotik
-
-- **Segment:** `exam:14522599` · **unitId:** `70283`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522599>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70283&periodId=589>
-
-### 94951 Grundlagen der Robotik
-
-- **Segment:** `exam:14522956` · **unitId:** `70283`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14522956>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70283&periodId=589>
 
 ### 94973 Praktikum Design and Implementation of High-Frequency and High-Datarate Systems
 
@@ -20492,18 +19316,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14551106` · **unitId:** `123948`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14550900|exam:14551062|exam:14551106>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123948&periodId=589>
-
-### 95010 Grundlagen der Elektrischen Antriebstechnik
-
-- **Segment:** `exam:14522603` · **unitId:** `65677`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522603>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65677&periodId=589>
-
-### 95010 Grundlagen der Elektrischen Antriebstechnik
-
-- **Segment:** `exam:14522960` · **unitId:** `65677`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14522960>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65677&periodId=589>
 
 ### 95010 Grundlagen der Elektrischen Antriebstechnik
 
@@ -20645,12 +19457,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 95270 Die Werkzeugmaschine als mechatronisches System
 
-- **Segment:** `exam:14522785` · **unitId:** `65465`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522753|exam:14522785>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65465&periodId=589>
-
-### 95270 Die Werkzeugmaschine als mechatronisches System
-
 - **Segment:** `exam:14526776` · **unitId:** `65465`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14526650|exam:14526776>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65465&periodId=589>
@@ -20663,12 +19469,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 95350 Mechatronische Systeme im Maschinenbau II
 
-- **Segment:** `exam:14522788` · **unitId:** `55928`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522753|exam:14522788>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55928&periodId=589>
-
-### 95350 Mechatronische Systeme im Maschinenbau II
-
 - **Segment:** `exam:14526779` · **unitId:** `55928`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14526650|exam:14526779>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55928&periodId=589>
@@ -20678,30 +19478,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14530679` · **unitId:** `55928`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14528584|exam:14528586|exam:14528588|exam:14530550|exam:14530679>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55928&periodId=589>
-
-### 95610 Werkstoffkunde für EEI
-
-- **Segment:** `exam:14522409` · **unitId:** `64088`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522326|exam:14522409>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=64088&periodId=589>
-
-### 95690 Messtechnik und Werkstoffeigenschaften
-
-- **Segment:** `exam:14522609` · **unitId:** `57551`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522609>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57551&periodId=589>
-
-### 95690 Messtechnik und Werkstoffeigenschaften
-
-- **Segment:** `exam:14522966` · **unitId:** `57551`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14522966>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57551&periodId=589>
-
-### 95800 Medizintechnik I
-
-- **Segment:** `exam:14523149` · **unitId:** `27274`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523149>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27274&periodId=589>
 
 ### 95801 Medizintechnik I (Biomaterialien)
 
@@ -20726,12 +19502,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14550322` · **unitId:** `66843`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14550032|exam:14550294|exam:14550322>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66843&periodId=589>
-
-### 95810 Medizintechnik II
-
-- **Segment:** `exam:14523152` · **unitId:** `27275`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523152>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27275&periodId=589>
 
 ### 958291 Hardware-Software-Co-Design (Vorlesung mit erweiterter Übung)
 
@@ -20759,12 +19529,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 95850 Signale und Systeme II
 
-- **Segment:** `exam:14522287` · **unitId:** `27280`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522271|exam:14522272|exam:14522287>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27280&periodId=589>
-
-### 95850 Signale und Systeme II
-
 - **Segment:** `exam:14526207` · **unitId:** `27280`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14526191|exam:14526192|exam:14526207>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27280&periodId=589>
@@ -20774,18 +19538,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14530091` · **unitId:** `27280`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14528584|exam:14528586|exam:14528588|exam:14530089|exam:14530090|exam:14530091>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27280&periodId=589>
-
-### 95860 Werkstoffe und Verfahren der medizinischen Diagnostik I
-
-- **Segment:** `exam:14522613` · **unitId:** `27281`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522613>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27281&periodId=589>
-
-### 95860 Werkstoffe und Verfahren der medizinischen Diagnostik I
-
-- **Segment:** `exam:14522970` · **unitId:** `27281`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14522970>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27281&periodId=589>
 
 ### 95860 Werkstoffe und Verfahren der medizinischen Diagnostik I
 
@@ -20835,24 +19587,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14550032|exam:14550294|exam:14550328>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37103&periodId=589>
 
-### 95870 Biomechanik
-
-- **Segment:** `exam:14522491` · **unitId:** `27282`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522466|exam:14522491>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27282&periodId=589>
-
-### 95880 Technische Thermodynamik
-
-- **Segment:** `exam:14522494` · **unitId:** `27283`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522466|exam:14522494>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27283&periodId=589>
-
-### 95880 Technische Thermodynamik
-
-- **Segment:** `exam:14522711` · **unitId:** `27283`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522704|exam:14522705|exam:14522711>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27283&periodId=589>
-
 ### 95880 Technische Thermodynamik
 
 - **Segment:** `exam:14526609` · **unitId:** `27283`
@@ -20864,12 +19598,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14530506` · **unitId:** `27283`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14528584|exam:14528586|exam:14528588|exam:14530499|exam:14530500|exam:14530506>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27283&periodId=589>
-
-### 95891 Surfaces of Biomaterials
-
-- **Segment:** `exam:14522498` · **unitId:** `36727`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522466|exam:14522498>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36727&periodId=589>
 
 ### 95891 Surfaces of Biomaterials
 
@@ -20921,18 +19649,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 95910 Licht in der Medizintechnik
 
-- **Segment:** `exam:14522501` · **unitId:** `27286`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522466|exam:14522501>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27286&periodId=589>
-
-### 95910 Licht in der Medizintechnik
-
-- **Segment:** `exam:14522721` · **unitId:** `27286`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522704|exam:14522715|exam:14522721>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27286&periodId=589>
-
-### 95910 Licht in der Medizintechnik
-
 - **Segment:** `exam:14526619` · **unitId:** `27286`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14526602|exam:14526613|exam:14526619>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27286&periodId=589>
@@ -20948,12 +19664,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14530520` · **unitId:** `107304`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14528584|exam:14528586|exam:14528588|exam:14530499|exam:14530510|exam:14530520>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107304&periodId=589>
-
-### 95930 Technische Darstellungslehre I
-
-- **Segment:** `exam:14522748` · **unitId:** `27288`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522704|exam:14522748>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27288&periodId=589>
 
 ### 95930 Technische Darstellungslehre I
 
@@ -20978,18 +19688,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14530546` · **unitId:** `27288`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14528584|exam:14528586|exam:14528588|exam:14530499|exam:14530546>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27288&periodId=589>
-
-### 95940 Qualitätsmanagement I - Qualitätstechniken für die Produktentstehung
-
-- **Segment:** `exam:14522505` · **unitId:** `27289`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522466|exam:14522505>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27289&periodId=589>
-
-### 95940 Qualitätsmanagement I - Qualitätstechniken für die Produktentstehung
-
-- **Segment:** `exam:14522725` · **unitId:** `27289`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522704|exam:14522715|exam:14522725>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27289&periodId=589>
 
 ### 95940 Qualitätsmanagement I - Qualitätstechniken für die Produktentstehung
 
@@ -21026,12 +19724,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14550359` · **unitId:** `53127`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14550032|exam:14550294|exam:14550359>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53127&periodId=589>
-
-### 96030 Medizinelektronik
-
-- **Segment:** `exam:14522412` · **unitId:** `80696`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522326|exam:14522412>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=80696&periodId=589>
 
 ### 96030 Medizinelektronik
 
@@ -21188,12 +19880,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14549796` · **unitId:** `65295`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14549528|exam:14549738|exam:14549796>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65295&periodId=589>
-
-### 961501 Onlinekurs "Angewandte Medizintechnik in der Orthopädie"
-
-- **Segment:** `exam:14522986` · **unitId:** `61331`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14522986>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=61331&periodId=589>
 
 ### 961501 Onlinekurs "Angewandte Medizintechnik in der Orthopädie"
 
@@ -21623,18 +20309,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 965073 Grundlagen der Elektrischen Antriebstechnik
 
-- **Segment:** `exam:14522663` · **unitId:** `59479`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522663>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59479&periodId=589>
-
-### 965073 Grundlagen der Elektrischen Antriebstechnik
-
-- **Segment:** `exam:14523020` · **unitId:** `59479`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14523020>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59479&periodId=589>
-
-### 965073 Grundlagen der Elektrischen Antriebstechnik
-
 - **Segment:** `exam:14534701` · **unitId:** `52388`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14532481|exam:14532482|exam:14532483|exam:14534622|exam:14534623|exam:14534701>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=52388&periodId=589>
@@ -21803,18 +20477,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 96630 Leistungselektronik
 
-- **Segment:** `exam:14522416` · **unitId:** `65543`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522326|exam:14522416>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65543&periodId=589>
-
-### 96630 Leistungselektronik
-
-- **Segment:** `exam:14522860` · **unitId:** `65543`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522818|exam:14522860>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65543&periodId=589>
-
-### 96630 Leistungselektronik
-
 - **Segment:** `exam:14534816` · **unitId:** `66155`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14532481|exam:14532482|exam:14532483|exam:14534622|exam:14534730|exam:14534816>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66155&periodId=589>
@@ -21878,18 +20540,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14551280` · **unitId:** `113364`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14551114|exam:14551280>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113364&periodId=589>
-
-### 96801 Kommunikationsstrukturen
-
-- **Segment:** `exam:14522615` · **unitId:** `65616`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522615>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65616&periodId=589>
-
-### 96801 Kommunikationsstrukturen
-
-- **Segment:** `exam:14522972` · **unitId:** `65616`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14522972>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65616&periodId=589>
 
 ### 96801 Kommunikationsstrukturen
 
@@ -22293,18 +20943,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14550032|exam:14550135|exam:14550196>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=63168&periodId=589>
 
-### 97040 Einführung in die Regelungstechnik
-
-- **Segment:** `exam:14522619` · **unitId:** `66959`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522619>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66959&periodId=589>
-
-### 97040 Einführung in die Regelungstechnik
-
-- **Segment:** `exam:14522976` · **unitId:** `66959`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14522976>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66959&periodId=589>
-
 ### 97060 Regelungstechnik B (Zustandsraummethoden)
 
 - **Segment:** `exam:14534691` · **unitId:** `65073`
@@ -22377,18 +21015,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14550032|exam:14550380|exam:14550439>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=79077&periodId=589>
 
-### 97090 Simulation und Modellierung I
-
-- **Segment:** `exam:14522622` · **unitId:** `64363`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522622>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=64363&periodId=589>
-
-### 97090 Simulation und Modellierung I
-
-- **Segment:** `exam:14522979` · **unitId:** `64363`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14522979>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=64363&periodId=589>
-
 ### 97091 Gießereitechnik
 
 - **Segment:** `exam:15909559` · **unitId:** `136993`
@@ -22436,12 +21062,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14550203` · **unitId:** `58877`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14550032|exam:14550135|exam:14550203>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=58877&periodId=589>
-
-### 97110 Technische Produktgestaltung
-
-- **Segment:** `exam:14522791` · **unitId:** `65722`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522753|exam:14522791>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65722&periodId=589>
 
 ### 97110 Technische Produktgestaltung
 
@@ -22493,12 +21113,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 97130 Lineare Kontinuumsmechanik / Linear Continuum Mechanics
 
-- **Segment:** `exam:14522794` · **unitId:** `56934`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522753|exam:14522794>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56934&periodId=589>
-
-### 97130 Lineare Kontinuumsmechanik / Linear Continuum Mechanics
-
 - **Segment:** `exam:14534997` · **unitId:** `56268`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14532481|exam:14532482|exam:14532483|exam:14534921|exam:14534922|exam:14534997>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56268&periodId=589>
@@ -22544,12 +21158,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14550216` · **unitId:** `64039`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14550032|exam:14550135|exam:14550216>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=64039&periodId=589>
-
-### 97160 Methodisches und rechnerunterstütztes Konstruieren
-
-- **Segment:** `exam:14522800` · **unitId:** `60143`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522753|exam:14522800>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=60143&periodId=589>
 
 ### 97160 Methodisches und rechnerunterstütztes Konstruieren
 
@@ -22805,12 +21413,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 97270 Mehrkörperdynamik
 
-- **Segment:** `exam:14522804` · **unitId:** `63013`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522753|exam:14522804>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=63013&periodId=589>
-
-### 97270 Mehrkörperdynamik
-
 - **Segment:** `exam:14535035` · **unitId:** `62010`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14532481|exam:14532482|exam:14532483|exam:14534921|exam:14534922|exam:14535035>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=62010&periodId=589>
@@ -22832,12 +21434,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14550248` · **unitId:** `62010`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14550032|exam:14550135|exam:14550248>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=62010&periodId=589>
-
-### 97278 Geometric Numerical Integration
-
-- **Segment:** `exam:14522814` · **unitId:** `126842`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522753|exam:14522814>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126842&periodId=589>
 
 ### 97278 Geometric Numerical Integration
 
@@ -22943,12 +21539,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 97440 Numerische Methoden in der Mechanik
 
-- **Segment:** `exam:14522808` · **unitId:** `62550`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522753|exam:14522808>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=62550&periodId=589>
-
-### 97440 Numerische Methoden in der Mechanik
-
 - **Segment:** `exam:14535240` · **unitId:** `63530`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14532481|exam:14532482|exam:14532483|exam:14534921|exam:14535167|exam:14535240>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=63530&periodId=589>
@@ -23043,12 +21633,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14547163|exam:14547164|exam:14547165|exam:14551114|exam:14551232>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113346&periodId=589>
 
-### 981660 Simulation und Wissenschaftliches Rechnen
-
-- **Segment:** `exam:14522456` · **unitId:** `66793`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522326|exam:14522456>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66793&periodId=589>
-
 ### 981660 Simulation und Wissenschaftliches Rechnen - Leistung
 
 - **Segment:** `exam:14526550` · **unitId:** `38861`
@@ -23115,18 +21699,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### 993143 Fundamentals of Polymer Materials (Polymerwerkstoffe)
-
-- **Segment:** `exam:14522668` · **unitId:** `52842`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522668>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=52842&periodId=589>
-
-### 993143 Fundamentals of Polymer Materials (Polymerwerkstoffe)
-
-- **Segment:** `exam:14523025` · **unitId:** `52842`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14523025>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=52842&periodId=589>
-
 ### 993143 Fundamentals of Polymer Materials (Polymerwerkstoffe) - Leistung
 
 - **Segment:** `exam:14526553` · **unitId:** `41745`
@@ -23186,18 +21758,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### 994856 Medizintechnik in Forschung und Industrie I + II
-
-- **Segment:** `exam:14522671` · **unitId:** `53370`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522325|exam:14522508|exam:14522671>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53370&periodId=589>
-
-### 994856 Medizintechnik in Forschung und Industrie I + II
-
-- **Segment:** `exam:14523028` · **unitId:** `53370`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522752|exam:14522865|exam:14523028>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53370&periodId=589>
 
 ### 994856 Medizintechnik in Forschung und Industrie I + II
 
@@ -23430,24 +21990,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### AlgoKS - Algorithmik kontinuierlicher Systeme - Vorlesung
 
-- **Segment:** `exam:14523138` · **unitId:** `87137`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523136|exam:14523138>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87137&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 11901.00.222 (H7 Hörsaal 7) |
-| wöchentlich | Fr | 08:15–09:45 | 24.04.2026–17.07.2026 | 11901.00.222 (H7 Hörsaal 7) |
-
-### AlgoKS - Algorithmik kontinuierlicher Systeme - Vorlesung
-
 - **Segment:** `exam:14527023` · **unitId:** `87137`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14527021|exam:14527023>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87137&periodId=589>
@@ -23481,23 +22023,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 11901.00.222 (H7 Hörsaal 7) |
 | wöchentlich | Fr | 08:15–09:45 | 24.04.2026–17.07.2026 | 11901.00.222 (H7 Hörsaal 7) |
-
-### AnaPhys_MT - Grundlagen der Anatomie und Physiologie für Medizintechniker, Naturwissenschaftler und Ingenieure - Vorlesung
-
-- **Segment:** `exam:14523066` · **unitId:** `82711`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523065|exam:14523066>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82711&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 00601.00.012 (Hörsaal Physiologie) |
 
 ### AnaPhys_MT - Grundlagen der Anatomie und Physiologie für Medizintechniker, Naturwissenschaftler und Ingenieure - Vorlesung
 
@@ -23855,23 +22380,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### BioMech - Biomechanik - Vorlesung
 
-- **Segment:** `exam:14522743` · **unitId:** `93265`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522704|exam:14522742|exam:14522743>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93265&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 16:15–17:45 | 15.04.2026–15.07.2026 | 11901.00.240 (H10 Hörsaal 10) |
-
-### BioMech - Biomechanik - Vorlesung
-
 - **Segment:** `exam:14526424` · **unitId:** `93265`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14526245|exam:14526423|exam:14526424>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93265&periodId=589>
@@ -24073,16 +22581,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 11302.00.152 (00.152-113 Übungsraum) |
-
-### Chir-205 - Erkrankungen des Skelettsystems; Pathomechanismen, Diagnostik und Therapie - Seminar
-
-- **Segment:** `exam:14523071` · **unitId:** `82937`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523068|exam:14523071>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82937&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
 
 ### Chir-205 - Erkrankungen des Skelettsystems; Pathomechanismen, Diagnostik und Therapie - Seminar
 
@@ -24858,24 +23356,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### EMF I - Elektromagnetische Felder I - Vorlesung mit Übung
 
-- **Segment:** `exam:14522306` · **unitId:** `90083`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522271|exam:14522305|exam:14522306>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90083&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:15–11:45 | 15.04.2026 | — |
-| wöchentlich | Mi | 10:15–11:45 | 22.04.2026–15.07.2026 | 11501.00.155 (H15 Hans-Wilhelm-Schüßler-Hörsaal) |
-
-### EMF I - Elektromagnetische Felder I - Vorlesung mit Übung
-
 - **Segment:** `exam:14526226` · **unitId:** `90083`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14526191|exam:14526225|exam:14526226>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90083&periodId=589>
@@ -25502,24 +23982,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### GET II - Grundlagen der Elektrotechnik II - Vorlesung
 
-- **Segment:** `exam:14523127` · **unitId:** `84133`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523125|exam:14523127>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84133&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 08:15–09:45 | 16.04.2026–16.07.2026 | 11906.01.040 (H20) |
-| wöchentlich | Do | 14:15–15:45 | 16.04.2026–30.04.2026 | 11906.01.040 (H20) |
-
-### GET II - Grundlagen der Elektrotechnik II - Vorlesung
-
 - **Segment:** `exam:14527012` · **unitId:** `84133`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14527010|exam:14527012>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84133&periodId=589>
@@ -25556,22 +24018,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### GET II Tut - Grundlagen der Elektrotechnik II Tutorium - Tutorium
 
-- **Segment:** `exam:14523128` · **unitId:** `104082`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523125|exam:14523128>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104082&periodId=589>
-
-- **Veranstaltungsart:** Tutorium
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 08:15–09:45 | 29.04.2026–15.07.2026 | 11501.01.104 (H5 Hörsaal 5) |
-
-### GET II Tut - Grundlagen der Elektrotechnik II Tutorium - Tutorium
-
 - **Segment:** `exam:14527013` · **unitId:** `104082`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14527010|exam:14527013>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104082&periodId=589>
@@ -25604,22 +24050,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### GET II Ü - Grundlagen der Elektrotechnik II Übung - Übung
 
-- **Segment:** `exam:14523126` · **unitId:** `82386`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523125|exam:14523126>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82386&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 16:15–17:45 | 15.04.2026–15.07.2026 | 11501.00.155 (H15 Hans-Wilhelm-Schüßler-Hörsaal) |
-
-### GET II Ü - Grundlagen der Elektrotechnik II Übung - Übung
-
 - **Segment:** `exam:14527011` · **unitId:** `82386`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14527010|exam:14527011>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82386&periodId=589>
@@ -25649,25 +24079,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 16:15–17:45 | 15.04.2026–15.07.2026 | 11501.00.155 (H15 Hans-Wilhelm-Schüßler-Hörsaal) |
-
-### GMT PR - Praktikum Grundlagen der Messtechnik - Praktikum
-
-- **Segment:** `exam:14523133` · **unitId:** `91448`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523130|exam:14523133>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91448&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 09:00–11:00 | 13.04.2026–13.07.2026 | — |
-| wöchentlich | Mo | 13:00–17:00 | 13.04.2026–13.07.2026 | — |
-| wöchentlich | Do | 09:00–11:00 | 16.04.2026–16.07.2026 | — |
-| wöchentlich | Do | 12:00–16:00 | 16.04.2026–16.07.2026 | — |
 
 ### GMT PR - Praktikum Grundlagen der Messtechnik - Praktikum
 
@@ -25957,23 +24368,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### HFSem - Seminar Hochfrequenztechnik/Mikrowellentechnik - Hauptseminar
 
-- **Segment:** `exam:14523069` · **unitId:** `82404`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523068|exam:14523069>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82404&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 12:15–13:45 | 17.04.2026–17.07.2026 | 11501.06.226 (HF-Technik: BZ 06.226 Besprechungszimmer (alt 6.18)) |
-
-### HFSem - Seminar Hochfrequenztechnik/Mikrowellentechnik - Hauptseminar
-
 - **Segment:** `exam:14526946` · **unitId:** `82404`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14526945|exam:14526946>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82404&periodId=589>
@@ -26160,16 +24554,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### I-Med. 355 - Interventionelle und Diagnostische Endoskopie - Vorlesung mit Übung
 
-- **Segment:** `exam:14523085` · **unitId:** `86867`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523068|exam:14523085>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86867&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-### I-Med. 355 - Interventionelle und Diagnostische Endoskopie - Vorlesung mit Übung
-
 - **Segment:** `exam:14526966` · **unitId:** `86867`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14526945|exam:14526966>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86867&periodId=589>
@@ -26309,22 +24693,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### IngMathA2U - Übungen zur Mathematik für Ingenieure A2 : CE, EEI, BP-E, MT - Übung
 
-- **Segment:** `exam:14523106` · **unitId:** `86806`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523105|exam:14523106>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86806&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 16:15–17:45 | 16.04.2026–16.07.2026 | 11901.00.226 (H8 Hörsaal 8) |
-
-### IngMathA2U - Übungen zur Mathematik für Ingenieure A2 : CE, EEI, BP-E, MT - Übung
-
 - **Segment:** `exam:14526991` · **unitId:** `86806`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14526990|exam:14526991>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86806&periodId=589>
@@ -26354,24 +24722,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 16:15–17:45 | 16.04.2026–16.07.2026 | 11901.00.226 (H8 Hörsaal 8) |
-
-### IngMathA2V - Mathematik für Ingenieure A2 : CE, EEI, BP-E, MT - Vorlesung
-
-- **Segment:** `exam:14523107` · **unitId:** `87275`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523105|exam:14523107>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87275&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 11901.00.226 (H8 Hörsaal 8) |
-| wöchentlich | Mi | 16:15–17:45 | 15.04.2026–15.07.2026 | 11901.00.226 (H8 Hörsaal 8) |
-| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 11901.00.226 (H8 Hörsaal 8) |
 
 ### IngMathA2V - Mathematik für Ingenieure A2 : CE, EEI, BP-E, MT - Vorlesung
 
@@ -26411,23 +24761,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### IngMathA4U - Übungen zur Mathematik für Ingenieure A4 : EEI,CE,MT - Übung
 
-- **Segment:** `exam:14523116` · **unitId:** `87561`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523115|exam:14523116>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87561&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 08:00–10:00 | 13.04.2026–13.07.2026 | 12801.01.252 (Übung 3 / 01.252-128) |
-| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
-
-### IngMathA4U - Übungen zur Mathematik für Ingenieure A4 : EEI,CE,MT - Übung
-
 - **Segment:** `exam:14527001` · **unitId:** `87561`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14527000|exam:14527001>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87561&periodId=589>
@@ -26459,23 +24792,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mo | 08:00–10:00 | 13.04.2026–13.07.2026 | 12801.01.252 (Übung 3 / 01.252-128) |
 | wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
-
-### IngMathA4V - Mathematik für Ingenieure A4 : EEI,CE,MT - Vorlesung
-
-- **Segment:** `exam:14523117` · **unitId:** `91712`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523115|exam:14523117>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91712&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 12:15–13:45 | 13.04.2026 | 11907.01.030 (H19) |
-| wöchentlich | Mo | 12:15–13:45 | 20.04.2026–13.07.2026 | 11907.01.030 (H19) |
 
 ### IngMathA4V - Mathematik für Ingenieure A4 : EEI,CE,MT - Vorlesung
 
@@ -26798,28 +25114,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:00–16:00 | 20.04.2026–20.07.2026 | 11907.01.030 (H19) 11501.01.104 (H5 Hörsaal 5) |
-
-### ITSecSem - IT-Sicherheits-Konferenzseminar (Bachelor) - Hauptseminar
-
-- **Segment:** `exam:14523083` · **unitId:** `86620`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523068|exam:14523083>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86620&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 18:00–20:00 | 15.04.2026 | 11302.02.134 (02.134-113 Übungsraum) |
-| Einzeltermin | Mi | 18:00–20:00 | 22.04.2026 | 11302.02.134 (02.134-113 Übungsraum) |
-| Einzeltermin | Mi | 18:00–20:00 | 20.05.2026 | 11302.02.134 (02.134-113 Übungsraum) |
-| Einzeltermin | Mi | 18:00–20:00 | 10.06.2026 | 11302.02.134 (02.134-113 Übungsraum) |
-| Einzeltermin | Do | 08:00–20:00 | 10.09.2026 | 11302.02.134 (02.134-113 Übungsraum) |
-| Einzeltermin | Fr | 08:00–20:00 | 11.09.2026 | 11302.02.134 (02.134-113 Übungsraum) |
 
 ### ITSecSem - IT-Sicherheits-Konferenzseminar (Bachelor) - Hauptseminar
 
@@ -27186,17 +25480,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### MedInfSem - Seminar Informationssysteme im Gesundheitswesen - Hauptseminar
 
-- **Segment:** `exam:14523076` · **unitId:** `83640`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523068|exam:14523076>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83640&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-### MedInfSem - Seminar Informationssysteme im Gesundheitswesen - Hauptseminar
-
 - **Segment:** `exam:14526955` · **unitId:** `83640`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14526945|exam:14526955>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83640&periodId=589>
@@ -27286,23 +25569,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### MedSem - Seminar Medizintechnik - Hauptseminar
 
-- **Segment:** `exam:14523073` · **unitId:** `83130`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523068|exam:14523073>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83130&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–08.07.2026 | 11501.06.226 (HF-Technik: BZ 06.226 Besprechungszimmer (alt 6.18)) |
-
-### MedSem - Seminar Medizintechnik - Hauptseminar
-
 - **Segment:** `exam:14526951` · **unitId:** `83130`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14526945|exam:14526951>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83130&periodId=589>
@@ -27368,23 +25634,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 14:15–15:45 | 15.04.2026–08.07.2026 | 11501.06.226 (HF-Technik: BZ 06.226 Besprechungszimmer (alt 6.18)) |
-
-### METGUK - Seminar Glas und Keramik für Medizintechnik - Seminar
-
-- **Segment:** `exam:14523077` · **unitId:** `83646`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523068|exam:14523077>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83646&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch oder Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 16:00–17:30 | 29.04.2026–15.07.2026 | 11401.00.109 (0.56 Praktikum) |
 
 ### METGUK - Seminar Glas und Keramik für Medizintechnik - Seminar
 
@@ -28525,23 +26774,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### PhoSem - Seminar Photonik/Lasertechnik - Hauptseminar
 
-- **Segment:** `exam:14523078` · **unitId:** `83946`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523068|exam:14523078>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83946&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:15–15:45 | 20.04.2026–13.07.2026 | 11501.06.226 (HF-Technik: BZ 06.226 Besprechungszimmer (alt 6.18)) |
-
-### PhoSem - Seminar Photonik/Lasertechnik - Hauptseminar
-
 - **Segment:** `exam:14526957` · **unitId:** `83946`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14526945|exam:14526957>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83946&periodId=589>
@@ -28698,23 +26930,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### PR GET III B - Praktikum Grundlagen der Elektrotechnik III Kurs B - Praktikum
 
-- **Segment:** `exam:14523135` · **unitId:** `118893`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523130|exam:14523135>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118893&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 0.83
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:00–17:00 | 16.04.2026–16.07.2026 | 11501.00.150 (0.150-115 GET Praktikum) |
-
-### PR GET III B - Praktikum Grundlagen der Elektrotechnik III Kurs B - Praktikum
-
 - **Segment:** `exam:14527020` · **unitId:** `118893`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14527015|exam:14527020>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118893&periodId=589>
@@ -28746,25 +26961,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 14:00–17:00 | 16.04.2026–16.07.2026 | 11501.00.150 (0.150-115 GET Praktikum) |
-
-### PR GETI-MT - Praktikum Grundlagen der Elektrotechnik I für Medizintechnik - Praktikum
-
-- **Segment:** `exam:14523132` · **unitId:** `87057`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523130|exam:14523132>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87057&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 0.83
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:00–18:00 | 27.04.2026–13.07.2026 | 11501.04.219 (EL 4.11/12 Praktikumsraum) |
-| wöchentlich | Mo | 14:00–18:00 | 27.04.2026–13.07.2026 | 11501.04.221 (EL 4.13 Praktikumsraum) |
-| Einzeltermin | Di | 09:00–10:00 | 21.04.2026 | — |
 
 ### PR GETI-MT - Praktikum Grundlagen der Elektrotechnik I für Medizintechnik - Praktikum
 
@@ -29040,22 +27236,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-### PR-GTI - Praktische Übungen zu Grundlagen der Technischen Informatik - Übung
-
-- **Segment:** `exam:14522316` · **unitId:** `82902`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522271|exam:14522314|exam:14522316>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82902&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 09:00–13:00 | 06.08.2026–13.08.2026 | 12801.02.133 (02.133-128 Praktikumsraum) |
 
 ### PR-GTI - Praktische Übungen zu Grundlagen der Technischen Informatik - Übung
 
@@ -29975,23 +28155,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### PT -TUT (PT II & PT 3 MB) - Produktionstechnik - Tutorium (P) (PT II & PT 3 MB) - Tutorium
 
-- **Segment:** `exam:14522735` · **unitId:** `87958`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522704|exam:14522732|exam:14522735>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87958&periodId=589>
-
-- **Veranstaltungsart:** Tutorium
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 11901.00.226 (H8 Hörsaal 8) |
-| wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 11002.00.020 (H17 Maschinenbau Hörsaal Maschinenbau) |
-
-### PT -TUT (PT II & PT 3 MB) - Produktionstechnik - Tutorium (P) (PT II & PT 3 MB) - Tutorium
-
 - **Segment:** `exam:14526405` · **unitId:** `87958`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14526245|exam:14526402|exam:14526405>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87958&periodId=589>
@@ -30057,23 +28220,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 11901.00.226 (H8 Hörsaal 8) |
 | wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 11002.00.020 (H17 Maschinenbau Hörsaal Maschinenbau) |
-
-### PT II & PT 3 MB - Produktionstechnik (PT II & PT 3 MB) - Vorlesung
-
-- **Segment:** `exam:14522733` · **unitId:** `83979`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522704|exam:14522732|exam:14522733>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83979&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 08:15–09:45 | 13.04.2026–13.07.2026 | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
-| wöchentlich | Mo | 08:15–09:45 | 13.04.2026–13.07.2026 | 11501.00.151 (0.151-115 Seminar) |
 
 ### PT II & PT 3 MB - Produktionstechnik (PT II & PT 3 MB) - Vorlesung
 
@@ -30325,22 +28471,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### S&F (Ü) - Übungen zur Statik und Festigkeitslehre - Übung
 
-- **Segment:** `exam:14523146` · **unitId:** `103652`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523142|exam:14523146>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103652&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | 11907.01.030 (H19) |
-
-### S&F (Ü) - Übungen zur Statik und Festigkeitslehre - Übung
-
 - **Segment:** `exam:14527038` · **unitId:** `103652`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14527034|exam:14527038>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103652&periodId=589>
@@ -30525,24 +28655,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### SEM MEDEL - Hauptseminar Medizinelektronik und elektronische Assistenzsysteme für den Alltag - Seminar
 
-- **Segment:** `exam:14523075` · **unitId:** `83460`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523068|exam:14523075>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83460&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 14:15–15:45 | 27.04.2026 | 11501.04.222 (04.222 EL4.14 &quot;Tietze-Schenk-Saal&quot;) |
-| Blockveranstaltung | — | 09:00–15:00 | 10.08.2026–11.08.2026 | 11501.04.222 (04.222 EL4.14 &quot;Tietze-Schenk-Saal&quot;) |
-
-### SEM MEDEL - Hauptseminar Medizinelektronik und elektronische Assistenzsysteme für den Alltag - Seminar
-
 - **Segment:** `exam:14526954` · **unitId:** `83460`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14526945|exam:14526954>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83460&periodId=589>
@@ -30612,24 +28724,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | Einzeltermin | Mo | 14:15–15:45 | 27.04.2026 | 11501.04.222 (04.222 EL4.14 &quot;Tietze-Schenk-Saal&quot;) |
 | Blockveranstaltung | — | 09:00–15:00 | 10.08.2026–11.08.2026 | 11501.04.222 (04.222 EL4.14 &quot;Tietze-Schenk-Saal&quot;) |
-
-### SEM MELAAL - Advanced Seminar on Medical Electronics and Systems for Ambient Assisted Living AAL - Seminar
-
-- **Segment:** `exam:14523070` · **unitId:** `82448`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523068|exam:14523070>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82448&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 16:15–17:30 | 22.04.2026 | 11501.04.222 (04.222 EL4.14 &quot;Tietze-Schenk-Saal&quot;) |
-| Blockveranstaltung | — | 09:00–16:00 | 05.08.2026–06.08.2026 | 11501.04.222 (04.222 EL4.14 &quot;Tietze-Schenk-Saal&quot;) |
 
 ### SEM MELAAL - Advanced Seminar on Medical Electronics and Systems for Ambient Assisted Living AAL - Seminar
 
@@ -30822,23 +28916,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 16:15–17:45 | 22.04.2026–15.07.2026 | 56901.01.015 (Meeting 01.015) |
-
-### SemBioMatMT - Seminar Biomaterialien für Medizintechniker - Seminar
-
-- **Segment:** `exam:14523080` · **unitId:** `84590`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523068|exam:14523080>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84590&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 12:00–14:00 | 09.06.2026 | 12401.01.225 (1.225 Kursraum) |
 
 ### SemBioMatMT - Seminar Biomaterialien für Medizintechniker - Seminar
 
@@ -31069,23 +29146,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### SemRSUVI - Seminar Road Scene Understanding for the Visually Impaired - Seminar
 
-- **Segment:** `exam:14523091` · **unitId:** `92254`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523068|exam:14523091>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92254&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 10:15–11:30 | 17.04.2026–17.07.2026 | — |
-
-### SemRSUVI - Seminar Road Scene Understanding for the Visually Impaired - Seminar
-
 - **Segment:** `exam:14526975` · **unitId:** `92254`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14526945|exam:14526975>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92254&periodId=589>
@@ -31168,23 +29228,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Fr | 10:15–11:30 | 17.04.2026–17.07.2026 | — |
-
-### SemSprachPath - Seminar Automatic Analysis of Voice, Speech and Language Disorders in Speech Pathologies - Hauptseminar
-
-- **Segment:** `exam:14523074` · **unitId:** `83411`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523068|exam:14523074>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83411&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 09:00–11:00 | 13.04.2026–13.07.2026 | 11302.02.133 (02.133-113 Übungsraum) |
 
 ### SemSprachPath - Seminar Automatic Analysis of Voice, Speech and Language Disorders in Speech Pathologies - Hauptseminar
 
@@ -31798,23 +29841,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### SuBio - Surfaces of Biomaterials / Oberflächen von Biomaterialien - Vorlesung
 
-- **Segment:** `exam:14522746` · **unitId:** `88171`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522704|exam:14522745|exam:14522746>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88171&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:15–11:45 | 20.04.2026–13.07.2026 | 11401.00.116 (H14 Bernhard-Ilschner-Hörsaal (0.61)) |
-
-### SuBio - Surfaces of Biomaterials / Oberflächen von Biomaterialien - Vorlesung
-
 - **Segment:** `exam:14526431` · **unitId:** `88171`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14526245|exam:14526430|exam:14526431>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88171&periodId=589>
@@ -31900,23 +29926,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### SuF-VL - Statik und Festigkeitslehre - Vorlesung
 
-- **Segment:** `exam:14523143` · **unitId:** `83320`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523142|exam:14523143>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83320&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | 11901.00.222 (H7 Hörsaal 7) |
-| wöchentlich | Mi | 10:15–11:45 | 22.04.2026–15.07.2026 | 11901.00.222 (H7 Hörsaal 7) |
-
-### SuF-VL - Statik und Festigkeitslehre - Vorlesung
-
 - **Segment:** `exam:14527035` · **unitId:** `83320`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14527034|exam:14527035>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83320&periodId=589>
@@ -31948,22 +29957,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | 11901.00.222 (H7 Hörsaal 7) |
 | wöchentlich | Mi | 10:15–11:45 | 22.04.2026–15.07.2026 | 11901.00.222 (H7 Hörsaal 7) |
-
-### SuF-Ü - Übung  zur Statik und Festigkeitslehre - Übung
-
-- **Segment:** `exam:14523144` · **unitId:** `91315`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523142|exam:14523144>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91315&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 18:15–19:45 | 09.04.2026–16.07.2026 | 11901.00.222 (H7 Hörsaal 7) |
 
 ### SuF-Ü - Übung  zur Statik und Festigkeitslehre - Übung
 
@@ -32100,17 +30093,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | Einzeltermin | Fr | 10:15–11:45 | 17.04.2026 | 12801.01.210 (H11) |
 | wöchentlich | Mi | 14:00–17:00 | 29.04.2026–15.07.2026 | 07205.03.018 (CIP-Pool MB Konrad-Zuse-Str. 3) |
-
-### TECH-ORTHO - Technik in der Orthopädie - Seminar
-
-- **Segment:** `exam:14523081` · **unitId:** `85081`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523068|exam:14523081>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85081&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
 
 ### TECH-ORTHO - Technik in der Orthopädie - Seminar
 
@@ -32408,23 +30390,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### TutAlgoKS - Übung zu Algorithmik kontinuierlicher Systeme - Übung
 
-- **Segment:** `exam:14523137` · **unitId:** `84959`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523136|exam:14523137>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84959&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 12:15–13:45 | 23.04.2026–16.07.2026 | 11501.00.156 (H16 Hörsaal 16) 11501.02.019 (02.019 Seminarraum) |
-
-### TutAlgoKS - Übung zu Algorithmik kontinuierlicher Systeme - Übung
-
 - **Segment:** `exam:14527022` · **unitId:** `84959`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14527021|exam:14527022>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84959&periodId=589>
@@ -32459,22 +30424,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### TutAlgoKSRUE - Rechnerübung zu Algorithmik kontinuierlicher Systeme - Übung
 
-- **Segment:** `exam:14523139` · **unitId:** `89716`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14523136|exam:14523139>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89716&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | — |
-
-### TutAlgoKSRUE - Rechnerübung zu Algorithmik kontinuierlicher Systeme - Übung
-
 - **Segment:** `exam:14527024` · **unitId:** `89716`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14524687|exam:14524689|exam:14524690|exam:14527021|exam:14527024>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89716&periodId=589>
@@ -32504,22 +30453,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | — |
-
-### TutEMFI - Tutorium zu Elektromagnetische Felder I - Tutorium
-
-- **Segment:** `exam:14522307` · **unitId:** `87654`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522271|exam:14522305|exam:14522307>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87654&periodId=589>
-
-- **Veranstaltungsart:** Tutorium
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 11501.01.105 (H6 Hörsaal 6) |
 
 ### TutEMFI - Tutorium zu Elektromagnetische Felder I - Tutorium
 
@@ -32880,23 +30813,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 16:15–17:45 | 30.04.2026–16.07.2026 | 11302.02.133 (02.133-113 Übungsraum) |
-
-### UE-GTI - Übungen zu Grundlagen der Technischen Informatik - Übung
-
-- **Segment:** `exam:14522317` · **unitId:** `84182`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17967|exam:14520767|exam:14520769|exam:14520771|exam:14522271|exam:14522314|exam:14522317>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84182&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 12801.02.112 (02.112-128 Besprechungs- und Seminarraum) |
 
 ### UE-GTI - Übungen zu Grundlagen der Technischen Informatik - Übung
 
@@ -33335,18 +31251,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mo | 10:00–12:00 | 20.04.2026–13.07.2026 | 11501.00.157 (0.157-115 CIP Pool EEI) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (559)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (420)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
-
-### "Hallo Welt!" für Fortgeschrittene — Hauptseminar
-
-- **Segment:** `unit:113225` · **unitId:** `113225`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113225&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
 
 ### A look inside the human body - gait analysis and simulation
 
@@ -33377,15 +31284,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88567&periodId=589>
 
 - **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** in jedem Semester
-
-### Advanced C++ Programming — Vorlesung
-
-- **Segment:** `unit:92774` · **unitId:** `92774`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92774&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
 - **Turnus:** in jedem Semester
 
@@ -33517,15 +31415,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mi | Mi | 11:00–12:30 | — | — |
 
-### Algorithms of Numerical Linear Algebra — Vorlesung mit Übung
-
-- **Segment:** `unit:93186` · **unitId:** `93186`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93186&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Algorithms, Programming and Data Representation — Vorlesung
 
 - **Segment:** `unit:83497` · **unitId:** `83497`
@@ -33612,15 +31501,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Di | Di | 11:00–12:30 | — | 12801.01.220 (H12 Emmy-Noether-Hörsaal) |
 
-### Analoge elektronische Systeme — Vorlesung
-
-- **Segment:** `unit:83949` · **unitId:** `83949`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83949&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Angewandte EMV — Vorlesung
 
 - **Segment:** `unit:82616` · **unitId:** `82616`
@@ -33645,15 +31525,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87812&periodId=589>
 
 - **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
-### Anwendungen von Quantentechnologien — Vorlesung
-
-- **Segment:** `unit:114490` · **unitId:** `114490`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114490&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
 
@@ -33726,14 +31597,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 14:15–15:45 | 14.04.2026–14.07.2026 | 11302.00.152 (00.152-113 Übungsraum) |
-
-### Arzneimitteltherapie bei häufigen Erkrankungen — Vorlesung
-
-- **Segment:** `unit:90017` · **unitId:** `90017`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90017&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
 
 ### Audiologie/Hörgeräteakustik — Vorlesung
 
@@ -33836,21 +31699,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Bild am Dienstag - Medizin in Röntgenbildern — Vorlesung
-
-- **Segment:** `unit:102886` · **unitId:** `102886`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102886&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 13:00–13:45 | 21.04.2026–14.07.2026 | — |
-
 ### Bild-, Video- und mehrdimensionale Signalverarbeitung
 
 - **Segment:** `unit:73766` · **unitId:** `73766`
@@ -33879,23 +31727,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Bildgebende Radarsysteme — Vorlesung
-
-- **Segment:** `unit:82339` · **unitId:** `82339`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82339&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Bildgebende Radarsysteme Übung
-
-- **Segment:** `unit:82259` · **unitId:** `82259`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82259&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
 ### Biologische Psychologie — Proseminar
 
 - **Segment:** `unit:89019` · **unitId:** `89019`
@@ -33911,15 +31742,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 14:15–15:45 | 21.04.2026–14.07.2026 | 00801.00.112 (H Anatomie I (Eingang über Universitätsstraße 19)) |
-
-### Biologische Psychologie — Vorlesung
-
-- **Segment:** `unit:94099` · **unitId:** `94099`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94099&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 3.0
-- **Turnus:** nur im Wintersemester
 
 ### Biologische Psychologie (Nebenfach)
 
@@ -33959,22 +31781,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 10:15–11:45 | 22.04.2026–15.07.2026 | 11401.00.116 (H14 Bernhard-Ilschner-Hörsaal (0.61)) |
-
-### Biomechanik: Mechanische Eigenschaften biologischer Materialien — Vorlesung
-
-- **Segment:** `unit:91150` · **unitId:** `91150`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91150&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:15–15:45 | 20.04.2026–13.07.2026 | 11401.03.053 (3.31, Martensstr. 5 Seminarraum) |
 
 ### Biomedizinische Signalanalyse Übung
 
@@ -34087,14 +31893,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mi | Mi | 08:00–09:00 | — | 11907.01.040 (H18) |
 
-### BWL für Ingenieure I — Vorlesung
-
-- **Segment:** `unit:82996` · **unitId:** `82996`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82996&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
-
 ### BWL für Ingenieure II — Vorlesung mit Übung
 
 - **Segment:** `unit:83990` · **unitId:** `83990`
@@ -34183,24 +31981,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Communication Systems — Vorlesung
-
-- **Segment:** `unit:82737` · **unitId:** `82737`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82737&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
-### Communication Systems Exercises — Übung
-
-- **Segment:** `unit:84346` · **unitId:** `84346`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84346&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
 
 ### Composites and Nanomaterials in Medical Technology — Vorlesung
@@ -34447,33 +32227,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | nach Vereinbarung | — | — | — | — |
 
-### Computer Graphics — Vorlesung
-
-- **Segment:** `unit:82995` · **unitId:** `82995`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82995&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 3.75
-- **Turnus:** nur im Wintersemester
-
-### Computer Graphics Advanced Tutorials — Übung
-
-- **Segment:** `unit:83779` · **unitId:** `83779`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83779&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
-### Computer Graphics Basic Tutorials — Übung
-
-- **Segment:** `unit:82317` · **unitId:** `82317`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82317&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 1.25
-- **Turnus:** nur im Wintersemester
-
 ### Convex Optimization in Communications and Signal Processing
 
 - **Segment:** `unit:35730` · **unitId:** `35730`
@@ -34534,14 +32287,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** in jedem Semester
 
-### Datenbanken in Rechnernetzen — Vorlesung
-
-- **Segment:** `unit:90647` · **unitId:** `90647`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90647&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
-
 ### Deep Learning
 
 - **Segment:** `unit:49298` · **unitId:** `49298`
@@ -34597,23 +32342,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | 12401.01.225 (1.225 Kursraum) 11401.01.251 (1.84 Seminarraum WW5) |
 
-### Design Patterns und Anti-Patterns — Seminar
-
-- **Segment:** `unit:89686` · **unitId:** `89686`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89686&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nur im Sommersemester
-
-### Designing Technology — Vorlesung mit Übung
-
-- **Segment:** `unit:85539` · **unitId:** `85539`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85539&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Die Werkzeugmaschine als mechatronisches System — Vorlesung
 
 - **Segment:** `unit:85372` · **unitId:** `85372`
@@ -34651,15 +32379,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Do | Do | 11:00–12:30 | — | 11901.00.222 (H7 Hörsaal 7) |
 
-### Digital Communications — Vorlesung
-
-- **Segment:** `unit:84031` · **unitId:** `84031`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84031&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Digital Health — Vorlesung mit Übung
 
 - **Segment:** `unit:93366` · **unitId:** `93366`
@@ -34686,15 +32405,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
-
-### Digital Signal Processing — Vorlesung
-
-- **Segment:** `unit:83669` · **unitId:** `83669`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83669&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Digital Twins in Neural Engineering DTN — Seminar
 
@@ -34772,23 +32482,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84159&periodId=589>
 
 - **Veranstaltungsart:** Übung
-- **Turnus:** nur im Sommersemester
-
-### Digitaltechnik — Vorlesung
-
-- **Segment:** `unit:84396` · **unitId:** `84396`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84396&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
-### DIY - Individual Prototyping and Systems Engineering (fällt aus) — Vorlesung
-
-- **Segment:** `unit:88139` · **unitId:** `88139`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88139&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Sommersemester
 
 ### Echtzeitsysteme — Vorlesung
@@ -34939,23 +32632,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | 11:00–11:30 | — | 54301.02.219 ( 02.219 Seminarraum, Nägelsbachstr. 49b) |
 
-### Einführung in die Regelungstechnik — Vorlesung mit Übung
-
-- **Segment:** `unit:83321` · **unitId:** `83321`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83321&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Einführung in die Regelungstechnik - Übungen
-
-- **Segment:** `unit:87774` · **unitId:** `87774`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87774&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
 ### Eingebettete Systeme — Vorlesung
 
 - **Segment:** `unit:82795` · **unitId:** `82795`
@@ -35006,15 +32682,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Fr | Fr | 08:00–09:30 | — | 11901.00.240 (H10 Hörsaal 10) |
-
-### Elektrische Kleinmaschinen — Vorlesung
-
-- **Segment:** `unit:84026` · **unitId:** `84026`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84026&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Elektrische, magnetische, optische Eigenschaften — Vorlesung
 
@@ -35174,14 +32841,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Do | Do | 14:00–15:30 | — | 11901.00.240 (H10 Hörsaal 10) |
 
-### Ergänzungen und Übungen zu Nachrichtentechnische Systeme - Übertragungstechnik
-
-- **Segment:** `unit:82236` · **unitId:** `82236`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82236&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
 ### Ergänzungen zu  Werkstoffe und ihre Struktur — Übung
 
 - **Segment:** `unit:84197` · **unitId:** `84197`
@@ -35233,23 +32892,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mi | 14:00–18:00 | 10.06.2026–15.07.2026 | 12801.02.133 (02.133-128 Praktikumsraum) |
 
-### Ethics and Philosophy of AI — Vorlesung
-
-- **Segment:** `unit:112940` · **unitId:** `112940`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112940&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
-
-### Ethics of Technology: Software, Hardware, Wetware — Seminar
-
-- **Segment:** `unit:83861` · **unitId:** `83861`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83861&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.5
-- **Turnus:** in jedem Semester
-
 ### Evolutionäre Informationssysteme — Vorlesung
 
 - **Segment:** `unit:82681` · **unitId:** `82681`
@@ -35285,14 +32927,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:84187` · **unitId:** `84187`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84187&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Exercise Mathematics for Engineers III — Übung
-
-- **Segment:** `unit:90033` · **unitId:** `90033`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90033&periodId=589>
 
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
@@ -35589,15 +33223,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Fr | Fr | 14:00–15:00 | — | 11501.04.023 (04.023 Hörsaal) |
 
-### Geometric beam theory — Vorlesung mit Übung
-
-- **Segment:** `unit:84410` · **unitId:** `84410`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84410&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Geometric Modeling
 
 - **Segment:** `unit:38902` · **unitId:** `38902`
@@ -35611,15 +33236,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Di | Di | 11:00–12:30 | — | — |
-
-### Geometric Modeling — Vorlesung
-
-- **Segment:** `unit:83792` · **unitId:** `83792`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83792&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Gießereitechnik — Vorlesung mit Übung
 
@@ -35836,14 +33452,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### Grundlagen der Messtechnik - Übung
-
-- **Segment:** `unit:82219` · **unitId:** `82219`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82219&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
 ### Grundlagen der Produktentwicklung
 
 - **Segment:** `unit:32155` · **unitId:** `32155`
@@ -35858,15 +33466,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mi | Mi | 14:00–16:00 | — | 11907.01.030 (H19) |
 
-### Grundlagen der Technischen Informatik — Vorlesung
-
-- **Segment:** `unit:82247` · **unitId:** `82247`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82247&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Grundlagen von Biochemie und Molekularer Medizin — Vorlesung
 
 - **Segment:** `unit:84550` · **unitId:** `84550`
@@ -35874,15 +33473,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 1.25
-- **Turnus:** nur im Wintersemester
-
-### Halbleiterbauelemente — Vorlesung
-
-- **Segment:** `unit:82469` · **unitId:** `82469`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82469&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
 ### Halbleitertechnik III - Leistungshalbleiterbauelemente (HL III)
@@ -35899,15 +33489,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mi | Mi | 11:00–12:30 | — | 11901.00.240 (H10 Hörsaal 10) |
 
-### Halbleitertechnik III  Leistungshalbleiterbauelemente — Vorlesung
-
-- **Segment:** `unit:82243` · **unitId:** `82243`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82243&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Halbleitertechnik VI - Flexible Elektronik (HL VI)
 
 - **Segment:** `unit:78891` · **unitId:** `78891`
@@ -35921,24 +33502,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### Halbleitertechnik VI  Flexible Elektronik — Vorlesung
-
-- **Segment:** `unit:88843` · **unitId:** `88843`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88843&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
-### Halbleitertechnologie I - Technologie integrierter Schaltungen — Vorlesung
-
-- **Segment:** `unit:82370` · **unitId:** `82370`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82370&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Halbleitertechnologie I - Technologie integrierter Schaltungen (HLT I)
 
@@ -35983,15 +33546,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | 11901.00.226 (H8 Hörsaal 8) |
-
-### Hardware-Beschreibungssprache VHDL — Vorlesung mit Übung
-
-- **Segment:** `unit:82223` · **unitId:** `82223`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82223&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** in jedem Semester
 
 ### Hardware-Software-Co-Design
 
@@ -36074,14 +33628,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Heterogene Rechnerarchitekturen Online — Vorlesung
-
-- **Segment:** `unit:82293` · **unitId:** `82293`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82293&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** in jedem Semester
-
 ### HF-Schaltungen und Systeme
 
 - **Segment:** `unit:26384` · **unitId:** `26384`
@@ -36126,31 +33672,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | 11501.05.222 (HF-Technik: SR 05.222 Seminarraum (alt 5.14)) |
-
-### Hochfrequenztechnik — Vorlesung
-
-- **Segment:** `unit:82461` · **unitId:** `82461`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82461&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Hochfrequenztechnik Tutorium
-
-- **Segment:** `unit:114400` · **unitId:** `114400`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114400&periodId=589>
-
-- **Veranstaltungsart:** Tutorium
-- **Turnus:** nur im Wintersemester
-
-### Hochfrequenztechnik Übung
-
-- **Segment:** `unit:82792` · **unitId:** `82792`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82792&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
 
 ### Human-Machine Touch Laboratory: Exploring Sensorimotor Interfaces — Praktikum
 
@@ -36222,15 +33743,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 11501.01.104 (H5 Hörsaal 5) |
 | wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 11501.01.104 (H5 Hörsaal 5) |
 
-### Image Processing in Optical Nanoscopy — Vorlesung mit Übung
-
-- **Segment:** `unit:89700` · **unitId:** `89700`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89700&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Image, Video, and Multidimensional Signal Processing
 
 - **Segment:** `unit:49410` · **unitId:** `49410`
@@ -36301,15 +33813,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Di | Di | 08:00–10:00 | — | — |
 
-### Innovation and Leadership — Vorlesung mit Übung
-
-- **Segment:** `unit:83328` · **unitId:** `83328`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83328&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Innovation design (Präsentation)
 
 - **Segment:** `unit:48462` · **unitId:** `48462`
@@ -36351,15 +33854,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Fr | Fr | — | — | — |
-
-### Innovation Technology I — Vorlesung mit Übung
-
-- **Segment:** `unit:92668` · **unitId:** `92668`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92668&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
 
 ### Innovation technology I (Präsentation)
 
@@ -36426,14 +33920,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | 08:00–10:00 | — | 11901.00.226 (H8 Hörsaal 8) |
 
-### Integrierte Produktentwicklung — Vorlesung mit Übung
-
-- **Segment:** `unit:82361` · **unitId:** `82361`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82361&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Turnus:** nur im Wintersemester
-
 ### Integrierte Schaltungen für Funkanwendungen
 
 - **Segment:** `unit:26388` · **unitId:** `26388`
@@ -36447,24 +33933,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Do | Do | 14:00–15:30 | — | 12801.01.220 (H12 Emmy-Noether-Hörsaal) |
-
-### Integrierte Schaltungen für Funkanwendungen — Vorlesung
-
-- **Segment:** `unit:83559` · **unitId:** `83559`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83559&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Interdisziplinäre Medizin — Vorlesung
-
-- **Segment:** `unit:90055` · **unitId:** `90055`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90055&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
 
 ### Interpretation and Analysis of Neural and Muscle Signals — Hauptseminar
 
@@ -36511,32 +33979,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | 09:00–12:00 | — | — |
-
-### Introduction to simulation, network and data analysis in cancer and oncotherapy — Vorlesung
-
-- **Segment:** `unit:121136` · **unitId:** `121136`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121136&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-### Introduction to simulation, network and data analysis in Medical Systems Biology — Vorlesung
-
-- **Segment:** `unit:116320` · **unitId:** `116320`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116320&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-
-### Jüngste Entwicklungen der Medizinischen Systembiologie I (SoSe) — Seminar
-
-- **Segment:** `unit:91442` · **unitId:** `91442`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91442&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
 
 ### Kanalcodierung
 
@@ -36691,15 +34133,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mi | Mi | 11:00–12:00 | — | 11907.01.030 (H19) |
 
-### Kommunikationsstrukturen — Vorlesung
-
-- **Segment:** `unit:82232` · **unitId:** `82232`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82232&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Konstruieren mit Kunststoffen
 
 - **Segment:** `unit:28018` · **unitId:** `28018`
@@ -36721,24 +34154,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
-### Konzeptionelle Modellierung — Vorlesung
-
-- **Segment:** `unit:82414` · **unitId:** `82414`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82414&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
-### Krankheitsmechanismen [MedTech] — Seminar
-
-- **Segment:** `unit:86845` · **unitId:** `86845`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86845&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 1.25
 - **Turnus:** nur im Wintersemester
 
 ### Kunststoff-Eigenschaften und -Verarbeitung
@@ -36879,15 +34294,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Einzeltermin | Fr | 11:00–11:45 | 17.04.2026 | 05101.00.016 (SR) |
 
-### Laborpraktikum Digitale Signalverarbeitung
-
-- **Segment:** `unit:85034` · **unitId:** `85034`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85034&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
 ### Laborpraktikum Image and Video Compression
 
 - **Segment:** `unit:82950` · **unitId:** `82950`
@@ -36929,14 +34335,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
 | wöchentlich | Mi | 16:00–18:00 | 15.04.2026–15.07.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
 
-### Latein II für Fortgeschrittene - Intensivkurs (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
-
-- **Segment:** `unit:89729` · **unitId:** `89729`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89729&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** Unregelmäßig
-
 ### Legged Locomotion of Robots Laborprojekt — Praktikum
 
 - **Segment:** `unit:91117` · **unitId:** `91117`
@@ -36945,31 +34343,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Sommersemester
-
-### Leistungselektronik — Vorlesung
-
-- **Segment:** `unit:83520` · **unitId:** `83520`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83520&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Leistungselektronik Tutorium
-
-- **Segment:** `unit:84434` · **unitId:** `84434`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84434&periodId=589>
-
-- **Veranstaltungsart:** Tutorium
-- **Turnus:** nur im Wintersemester
-
-### Lineare Kontinuumsmechanik / Linear Continuum Mechanics — Vorlesung
-
-- **Segment:** `unit:82940` · **unitId:** `82940`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82940&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
 
 ### Low Power Biomedical Electronics
 
@@ -37056,24 +34429,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
-### Machine Learning: Advances — Hauptseminar
-
-- **Segment:** `unit:82987` · **unitId:** `82987`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82987&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Machine Learning: Introduction — Hauptseminar
-
-- **Segment:** `unit:92696` · **unitId:** `92696`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92696&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
 ### Magnetic Resonance Imaging 1 — Vorlesung
@@ -37192,15 +34547,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
 
-### Maschinelles Lernen und Datenanalytik für Industrie 4.0 — Hauptseminar
-
-- **Segment:** `unit:85298` · **unitId:** `85298`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85298&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nicht in diesem Semester
-
 ### Maschinen und Werkzeuge der Umformtechnik
 
 - **Segment:** `unit:32016` · **unitId:** `32016`
@@ -37278,33 +34624,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Do | Do | 08:00–09:30 | — | 11906.01.040 (H20) |
 
-### Mathematik für Ingenieure A/E 1 — Vorlesung
-
-- **Segment:** `unit:137955` · **unitId:** `137955`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137955&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 7.5
-- **Turnus:** nur im Wintersemester
-
-### Mathematik für Ingenieure A1: EEI, MT,CE,BP — Vorlesung
-
-- **Segment:** `unit:83664` · **unitId:** `83664`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83664&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 7.5
-- **Turnus:** nur im Wintersemester
-
-### Mathematik für Ingenieure A3:CE,EEI,MT,BPT-E — Vorlesung
-
-- **Segment:** `unit:82660` · **unitId:** `82660`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82660&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Maßgeschneiderte Prozesstechnologien
 
 - **Segment:** `unit:125702` · **unitId:** `125702`
@@ -37318,15 +34637,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Fr | Fr | 14:00–16:00 | — | 11901.00.240 (H10 Hörsaal 10) |
-
-### Maßgeschneiderte Prozesstechnologien — Vorlesung
-
-- **Segment:** `unit:82278` · **unitId:** `82278`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82278&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
 
 ### Mechatronic components and systems — Vorlesung
 
@@ -37419,15 +34729,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
 
-### Medizintechnik in Forschung und Industrie — Kolloquium
-
-- **Segment:** `unit:88582` · **unitId:** `88582`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88582&periodId=589>
-
-- **Veranstaltungsart:** Kolloquium
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
 ### Medizintechnische Anwendungen der HF-Technik
 
 - **Segment:** `unit:34947` · **unitId:** `34947`
@@ -37441,15 +34742,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### Medizintechnische Anwendungen der Hochfrequenztechnik — Vorlesung
-
-- **Segment:** `unit:82634` · **unitId:** `82634`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82634&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Medizintechnische Anwendungen der Hochfrequenztechnik Übung
 
@@ -37558,14 +34850,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Mikromechanik — Vorlesung
-
-- **Segment:** `unit:85276` · **unitId:** `85276`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85276&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
-
 ### Modelling and Synthesis of Digital Systems — Vorlesung
 
 - **Segment:** `unit:118585` · **unitId:** `118585`
@@ -37610,15 +34894,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Molecular Communications — Vorlesung
-
-- **Segment:** `unit:87901` · **unitId:** `87901`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87901&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Movement Neuroscience: Connections between the Brain and Muscles in Humans — Vorlesung
 
 - **Segment:** `unit:88863` · **unitId:** `88863`
@@ -37659,14 +34934,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 11501.04.222 (04.222 EL4.14 &quot;Tietze-Schenk-Saal&quot;) |
 | wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 11501.04.221 (EL 4.13 Praktikumsraum) |
 
-### Nachrichtentechnische Systeme - Übertragungstechnik — Vorlesung
-
-- **Segment:** `unit:85129` · **unitId:** `85129`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85129&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
-
 ### Network Medicine — Hauptseminar
 
 - **Segment:** `unit:92174` · **unitId:** `92174`
@@ -37683,23 +34950,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Neurophysiology and Neuroengineering Applications in Sports — Hauptseminar
-
-- **Segment:** `unit:111733` · **unitId:** `111733`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111733&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
-### Nichtlineare Finite Elemente / Nonlinear Finite Elements — Vorlesung
-
-- **Segment:** `unit:83037` · **unitId:** `83037`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83037&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Wintersemester
 
 ### Nichtlineare Kontinuumsmechanik / Nonlinear Continuum Mechanics
@@ -37767,15 +35017,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Optical Technologies in Life Science — Vorlesung mit Übung
-
-- **Segment:** `unit:87849` · **unitId:** `87849`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87849&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Optimierung für Ingenieure
 
 - **Segment:** `unit:26739` · **unitId:** `26739`
@@ -37806,15 +35047,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 11501.04.023 (04.023 Hörsaal) |
 | wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 11501.04.023 (04.023 Hörsaal) |
-
-### Optische und Mechanische Gewebeanalytik für die Medizintechnik (OMG) — Vorlesung mit Übung
-
-- **Segment:** `unit:122228` · **unitId:** `122228`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122228&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Parallele Systeme
 
@@ -37889,15 +35121,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Di | Di | 11:00–12:30 | — | — |
 
-### Pattern Recognition Exercises — Übung
-
-- **Segment:** `unit:83155` · **unitId:** `83155`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83155&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 1.25
-- **Turnus:** nur im Wintersemester
-
 ### Photonics in Medical Technology Exercise — Übung
 
 - **Segment:** `unit:104679` · **unitId:** `104679`
@@ -37914,14 +35137,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Photonik 1 Übung
-
-- **Segment:** `unit:82962` · **unitId:** `82962`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82962&periodId=589>
-
-- **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
 
 ### Photonik 2
@@ -37969,37 +35184,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 11501.06.226 (HF-Technik: BZ 06.226 Besprechungszimmer (alt 6.18)) |
 
-### Polymer Materials for Medical Applications — Vorlesung
-
-- **Segment:** `unit:83334` · **unitId:** `83334`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83334&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 3.0
-- **Turnus:** nur im Wintersemester
-
-### Praktikum Elektrische Antriebstechnik MA
-
-- **Segment:** `unit:90824` · **unitId:** `90824`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90824&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
 ### Praktikum Elektrische Energieversorgung
 
 - **Segment:** `unit:83508` · **unitId:** `83508`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83508&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
-### Praktikum Energieelektronik
-
-- **Segment:** `unit:82773` · **unitId:** `82773`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82773&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
@@ -38058,23 +35246,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mi | 13:00–16:00 | 15.04.2026–15.07.2026 | 11501.00.150 (0.150-115 GET Praktikum) |
 
-### Praktikum Grundlagen der Elektrotechnik II (MT)
-
-- **Segment:** `unit:82342` · **unitId:** `82342`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82342&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **Turnus:** nur im Wintersemester
-
-### Praktikum Hochfrequenztechnik/Mikrowellentechnik
-
-- **Segment:** `unit:83978` · **unitId:** `83978`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83978&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
 ### Praktikum Hochspannungstechnik
 
 - **Segment:** `unit:82553` · **unitId:** `82553`
@@ -38083,15 +35254,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
 - **Turnus:** in jedem Semester
-
-### Praktikum Leistungselektronik
-
-- **Segment:** `unit:85180` · **unitId:** `85180`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85180&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
 
 ### Praktikum Optimierung für Ingenieure
 
@@ -38107,28 +35269,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Praktikum Photonik/Lasertechnik 1
-
-- **Segment:** `unit:107618` · **unitId:** `107618`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107618&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
 ### Praktikum Power System Operations and Control
 
 - **Segment:** `unit:84146` · **unitId:** `84146`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84146&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
-### Praktikum Radarsysteme und Radarsignalverarbeitung
-
-- **Segment:** `unit:130692` · **unitId:** `130692`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130692&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
@@ -38140,15 +35284,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84887&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
-- **Turnus:** nur im Wintersemester
-
-### Praktikum Technische Dynamik / Laboratory course Applied Dynamics
-
-- **Segment:** `unit:82696` · **unitId:** `82696`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82696&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
 
 ### Probability and stochastic processes — Vorlesung
@@ -38223,15 +35358,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Tutorium
 - **Turnus:** nur im Wintersemester
 
-### Programming Discussion for Optimization for Engineers — Übung
-
-- **Segment:** `unit:84350` · **unitId:** `84350`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84350&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
 ### Project Biomedical Network Science — Projektseminar
 
 - **Segment:** `unit:85347` · **unitId:** `85347`
@@ -38304,22 +35430,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-### Quantenelektronik I - Quantentechnologien 1 — Vorlesung
-
-- **Segment:** `unit:82455` · **unitId:** `82455`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82455&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Sommersemester
-
-### Quanteninformationstechnologie — Vorlesung
-
-- **Segment:** `unit:91691` · **unitId:** `91691`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91691&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
 
 ### Radar, RFID and Wireless Sensor Systems — Vorlesung
 
@@ -38411,14 +35521,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mi | 10:15–11:45 | 29.04.2026–08.07.2026 | — |
 
-### Rechnerübungen zu Simulation und wissenschaftliches Rechnen 1
-
-- **Segment:** `unit:90453` · **unitId:** `90453`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90453&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
 ### Reconfigurable Computing
 
 - **Segment:** `unit:34951` · **unitId:** `34951`
@@ -38469,23 +35571,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Fr | Fr | 11:00–12:30 | — | 11906.01.030 (H21) |
 
-### Regelungstechnik A (Grundlagen) — Vorlesung mit Übung
-
-- **Segment:** `unit:84783` · **unitId:** `84783`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84783&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Regelungstechnik A (Grundlagen) - Übungen
-
-- **Segment:** `unit:83805` · **unitId:** `83805`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83805&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
 ### Regelungstechnik B (Zustandsraummethoden)
 
 - **Segment:** `unit:21014` · **unitId:** `21014`
@@ -38500,15 +35585,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Fr | Fr | 11:00–12:30 | — | — |
 
-### Regelungstechnik B (Zustandsraummethoden) — Vorlesung mit Übung
-
-- **Segment:** `unit:83019` · **unitId:** `83019`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83019&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Reinforcement Learning — Vorlesung mit Übung
 
 - **Segment:** `unit:110859` · **unitId:** `110859`
@@ -38517,24 +35593,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
-
-### Robot mechanisms and user interfaces — Vorlesung
-
-- **Segment:** `unit:82850` · **unitId:** `82850`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82850&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Robot mechanisms and user interfaces (Exercise) — Übung
-
-- **Segment:** `unit:84969` · **unitId:** `84969`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84969&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
 
 ### Robotics 1
 
@@ -38655,22 +35713,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | 11:00–13:00 | — | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
 
-### Scannen und Drucken in 3D-Vorlesung
-
-- **Segment:** `unit:85207` · **unitId:** `85207`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85207&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
-
-### Scannen und Drucken in 3D-Übung
-
-- **Segment:** `unit:84766` · **unitId:** `84766`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84766&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
 ### Schaltungen und Systeme der Übertragungstechnik
 
 - **Segment:** `unit:26402` · **unitId:** `26402`
@@ -38755,33 +35797,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
 
-### Seminar AI for medical image segmentation — Hauptseminar
-
-- **Segment:** `unit:133282` · **unitId:** `133282`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133282&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Seminar Digital Pathology and Deep Learning — Hauptseminar
-
-- **Segment:** `unit:84279` · **unitId:** `84279`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84279&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Seminar Humans in the Loop: The Design of Interactive AI Systems — Hauptseminar
-
-- **Segment:** `unit:86226` · **unitId:** `86226`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86226&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### Seminar Mensch-Roboter-Interaktion
 
 - **Segment:** `unit:89247` · **unitId:** `89247`
@@ -38797,40 +35812,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113085&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
-
-### Seminar und Praktikum zur Biosignalverarbeitung
-
-- **Segment:** `unit:96657` · **unitId:** `96657`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96657&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Sensorik (Übung)
-
-- **Segment:** `unit:85009` · **unitId:** `85009`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85009&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Sensorik / Sensors — Vorlesung
-
-- **Segment:** `unit:82849` · **unitId:** `82849`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82849&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Sensorik / Sensors (Tutorium)
-
-- **Segment:** `unit:88197` · **unitId:** `88197`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88197&periodId=589>
-
-- **Veranstaltungsart:** Tutorium
-- **Turnus:** nur im Wintersemester
 
 ### Sensorimotor Neuroprosthetics — Seminar
 
@@ -38905,15 +35886,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Fr | Fr | — | — | — |
 
-### Sichere Systeme Übung
-
-- **Segment:** `unit:88001` · **unitId:** `88001`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88001&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
 ### Simulation und Wissenschaftliches Rechnen 1
 
 - **Segment:** `unit:25902` · **unitId:** `25902`
@@ -38971,22 +35943,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Fr | 10:00–12:00 | 17.04.2026–17.07.2026 | 05101.00.016 (SR) |
 
-### Speech and Language Understanding Exercises — Übung
-
-- **Segment:** `unit:84928` · **unitId:** `84928`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84928&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** in jedem Semester
-
-### Statik und Festigkeitslehre — Sonstige Lehrveranstaltung
-
-- **Segment:** `unit:88460` · **unitId:** `88460`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88460&periodId=589>
-
-- **Veranstaltungsart:** Sonstige Lehrveranstaltung
-- **Turnus:** nur im Wintersemester
-
 ### Statistical Signal Processing
 
 - **Segment:** `unit:26404` · **unitId:** `26404`
@@ -39000,14 +35956,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mi | Mi | 14:00–15:30 | — | 11907.01.040 (H18) |
-
-### Supplements Communication Networks — Übung
-
-- **Segment:** `unit:82387` · **unitId:** `82387`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82387&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
 
 ### Surgical Technologies Innovation — Vorlesung mit Übung
 
@@ -39030,15 +35978,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Sa | Sa | 11:00–12:30 | — | 11901.00.240 (H10 Hörsaal 10) |
 
-### Swarm Intelligence (SI), formerly Organic Computing (OC) — Vorlesung
-
-- **Segment:** `unit:87690` · **unitId:** `87690`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87690&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
 ### Systemprogrammierung
 
 - **Segment:** `unit:22687` · **unitId:** `22687`
@@ -39052,30 +35991,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Di | Di | 14:00–16:00 | — | 12801.01.210 (H11) |
-
-### Systemprogrammierung 1 - Übungen (für Wiederholer)
-
-- **Segment:** `unit:84480` · **unitId:** `84480`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84480&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Systemprogrammierung 2 — Vorlesung
-
-- **Segment:** `unit:82441` · **unitId:** `82441`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82441&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
-
-### Systemprogrammierung 2 - Übungen
-
-- **Segment:** `unit:85304` · **unitId:** `85304`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85304&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** in jedem Semester
 
 ### Technische Akustik — Vorlesung
 
@@ -39111,15 +36026,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82532&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
-- **Turnus:** nur im Wintersemester
-
-### Technische Grundlagen medizinischer Diagnostikverfahren — Vorlesung
-
-- **Segment:** `unit:88052` · **unitId:** `88052`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88052&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
 
 ### Technische Schwingungslehre
@@ -39239,22 +36145,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Do | Do | 11:00–13:00 | — | 11901.00.240 (H10 Hörsaal 10) |
 
-### Tutoreneinführung zur Linearen Kontinuumsmechanik — Sonstige Lehrveranstaltung
-
-- **Segment:** `unit:101407` · **unitId:** `101407`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101407&periodId=589>
-
-- **Veranstaltungsart:** Sonstige Lehrveranstaltung
-- **Turnus:** nur im Wintersemester
-
-### Tutorials to Geometric Modeling — Übung
-
-- **Segment:** `unit:82989` · **unitId:** `82989`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82989&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
 ### Tutorials to Global Illumination — Übung
 
 - **Segment:** `unit:88029` · **unitId:** `88029`
@@ -39272,51 +36162,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Do | 09:00–12:00 | 16.04.2026–16.07.2026 | 11302.00.156 (00.156-113 CIP CIP-Pool Informatik (CIP4)) |
 | wöchentlich | Do | 09:00–12:00 | 16.04.2026–16.07.2026 | 11302.00.153 (00.153-113 CIP CIP-Pool Informatik (CIP3)) |
 
-### Tutorium Halbleiterbauelemente
-
-- **Segment:** `unit:82875` · **unitId:** `82875`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82875&periodId=589>
-
-- **Veranstaltungsart:** Tutorium
-- **Turnus:** nur im Wintersemester
-
-### Tutorium Nachrichtentechnische Systeme
-
-- **Segment:** `unit:82788` · **unitId:** `82788`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82788&periodId=589>
-
-- **Veranstaltungsart:** Tutorium
-- **Turnus:** nur im Wintersemester
-
 ### Tutorium zu Grundlagen der Elektrotechnik I (MT und ME)
 
 - **Segment:** `unit:85943` · **unitId:** `85943`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85943&periodId=589>
-
-- **Veranstaltungsart:** Tutorium
-- **Turnus:** nur im Wintersemester
-
-### Tutorium zu Simulation und Wissenschaftliches Rechnen 1
-
-- **Segment:** `unit:83714` · **unitId:** `83714`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83714&periodId=589>
-
-- **Veranstaltungsart:** Tutorium
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
-### Tutorium zur Dynamik starrer Körper
-
-- **Segment:** `unit:83331` · **unitId:** `83331`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83331&periodId=589>
-
-- **Veranstaltungsart:** Tutorium
-- **Turnus:** nur im Wintersemester
-
-### Tutorium zur Linearen Kontinuumsmechanik / Linear Continuum Mechanics - Tutorials
-
-- **Segment:** `unit:82537` · **unitId:** `82537`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82537&periodId=589>
 
 - **Veranstaltungsart:** Tutorium
 - **Turnus:** nur im Wintersemester
@@ -39461,15 +36310,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | 07204.02.028 (SR 02.028 Seminarraum der LS Autonome Systeme und Mechatronik u. Medizinische Biotechnologie) |
 
-### Visual Computing in Medicine 1 — Vorlesung
-
-- **Segment:** `unit:82653` · **unitId:** `82653`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82653&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
 ### Vorlesung Differentielle und Persönlichkeitspsychologie
 
 - **Segment:** `unit:87220` · **unitId:** `87220`
@@ -39502,14 +36342,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mi | 16:15–17:45 | 15.04.2026–15.07.2026 | 54201.00.030 ( Hörsaal - Studienzentrum Stintzingstraße) |
 
-### Vorlesung Maschinenelemente I
-
-- **Segment:** `unit:84846` · **unitId:** `84846`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84846&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
-
 ### Vorlesung Sozialpsychologie, Teil 2
 
 - **Segment:** `unit:91381` · **unitId:** `91381`
@@ -39526,15 +36358,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 54201.00.030 ( Hörsaal - Studienzentrum Stintzingstraße) |
 
-### Vorlesung zu Simulation  und wissenschaftliches Rechnen 1
-
-- **Segment:** `unit:84098` · **unitId:** `84098`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84098&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
 ### Werkstoffe der Elektronik in der Medizin — Vorlesung mit Übung
 
 - **Segment:** `unit:104606` · **unitId:** `104606`
@@ -39550,15 +36373,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 16:15–17:45 | 13.05.2026–15.07.2026 | 11401.00.123 (0.68 Seminarraum Werkstoffwissenschaften) |
-
-### Werkstoffe und Verfahren der medizinischen Diagnostik I — Vorlesung
-
-- **Segment:** `unit:86376` · **unitId:** `86376`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86376&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** in jedem Semester
 
 ### Werkstoffe und Verfahren der medizinischen Diagnostik II — Vorlesung mit Übung
 
@@ -39640,22 +36454,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
 
-### Übung zu Halbleitertechnik III - Leistungshalbleiterbauelemente
-
-- **Segment:** `unit:83339` · **unitId:** `83339`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83339&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Übung zu Halbleitertechnologie I - Technologie integrierter Schaltungen
-
-- **Segment:** `unit:83346` · **unitId:** `83346`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83346&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
 ### Übung zu Handhabungs- und Montagetechnik
 
 - **Segment:** `unit:86771` · **unitId:** `86771`
@@ -39735,23 +36533,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
 
-### Übung zu Simulation und Wissenschaftliches Rechnen 1
-
-- **Segment:** `unit:84040` · **unitId:** `84040`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84040&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
-### Übungen zu Analoge elektronische Systeme
-
-- **Segment:** `unit:85063` · **unitId:** `85063`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85063&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
 ### Übungen zu Berechnung und Auslegung elektrischer Maschinen
 
 - **Segment:** `unit:83417` · **unitId:** `83417`
@@ -39782,27 +36563,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Fr | 10:15–11:45 | 17.04.2026–17.07.2026 | 11501.01.019 (01.019 Seminarraum) |
 
-### Übungen zu Grundlagen der Elektrischen Antriebstechnik
-
-- **Segment:** `unit:82770` · **unitId:** `82770`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82770&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 1.0
-- **Turnus:** nur im Wintersemester
-
 ### Übungen zu Grundlagen der Elektrotechnik I (MT und ME)
 
 - **Segment:** `unit:86905` · **unitId:** `86905`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86905&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Übungen zu Halbleiterbauelemente
-
-- **Segment:** `unit:82326` · **unitId:** `82326`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82326&periodId=589>
 
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
@@ -39855,14 +36619,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
 
-### Übungen zu Maschinenelemente I
-
-- **Segment:** `unit:84321` · **unitId:** `84321`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84321&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
 ### Übungen zu Multiphysikalische Systeme und Komponenten
 
 - **Segment:** `unit:83372` · **unitId:** `83372`
@@ -39902,55 +36658,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Fr | 08:15–09:45 | 08.05.2026–17.07.2026 | 11501.04.222 (04.222 EL4.14 &quot;Tietze-Schenk-Saal&quot;) |
-
-### Übungen zu Swarm Intelligence
-
-- **Segment:** `unit:84148` · **unitId:** `84148`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84148&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
-### Übungen zur Dynamik starrer Körper
-
-- **Segment:** `unit:84619` · **unitId:** `84619`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84619&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Übungen zur Experimentalphysik für Elektro- und Medizintechniker I
-
-- **Segment:** `unit:83025` · **unitId:** `83025`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83025&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Übungen zur Linearen Kontinuumsmechanik / Linear Continuum Mechanics - Exercises
-
-- **Segment:** `unit:84512` · **unitId:** `84512`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84512&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Übungen zur Mathematik für Ingenieure A3: CE, EEI, MT, BPT-E
-
-- **Segment:** `unit:82771` · **unitId:** `82771`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82771&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Übungen zur Mehrkörperdynamik
-
-- **Segment:** `unit:82710` · **unitId:** `82710`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82710&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
 
 ### Übungen zur Technischen Schwingungslehre
 

@@ -5,7 +5,7 @@ campo_segment: "title:17153"
 campo_path: "title:16758|title:16763|title:17153"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17153"
 po_version_count: 0
-course_count: 356
+course_count: 336
 ---
 
 # Französisch
@@ -14,7 +14,7 @@ course_count: 356
 
 _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theologie_  
 
-## Veranstaltungen (356)
+## Veranstaltungen (336)
 
 ### Angeleitete Lektüre Französisch - Seminar
 
@@ -288,23 +288,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### Einführung in die Didaktik der romanischen Sprachen - Übungsseminar
 
-- **Segment:** `exam:13112242` · **unitId:** `122382`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17153|exam:13112196|exam:13112234|exam:13112235|exam:13112242>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122382&periodId=565>
-
-- **Veranstaltungsart:** Übungsseminar
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:00–12:00 | 20.10.2025–02.02.2026 | 05801.02.110 ( A 401) |
-
-### Einführung in die Didaktik der romanischen Sprachen - Übungsseminar
-
 - **Segment:** `exam:13112317` · **unitId:** `122382`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17153|exam:13112252|exam:13112310|exam:13112311|exam:13112317>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122382&periodId=565>
@@ -394,24 +377,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:13605279` · **unitId:** `115457`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17153|exam:13112089|exam:13112173|exam:13112187|exam:13605279>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115457&periodId=565>
-
-- **Veranstaltungsart:** Examensseminar
-- **ECTS-Punkte:** 1.0
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 12:15–14:45 | 15.12.2025 | 05902.00.015 ( 00.15 PSG) |
-| Einzeltermin | Do | 08:15–13:45 | 12.02.2026 | 05902.00.015 ( 00.15 PSG) |
-| Einzeltermin | Fr | 08:15–13:45 | 13.02.2026 | 05902.00.015 ( 00.15 PSG) |
-
-### Examensseminar Fachdidaktik Französisch/Spanisch/Italienisch - Examensseminar
-
-- **Segment:** `exam:13605280` · **unitId:** `115457`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17153|exam:13112196|exam:13112234|exam:13112244|exam:13605280>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115457&periodId=565>
 
 - **Veranstaltungsart:** Examensseminar
@@ -959,23 +924,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### Mittelseminar Fachdidaktik Französisch - Seminar
 
-- **Segment:** `exam:13112248` · **unitId:** `127217`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17153|exam:13112196|exam:13112234|exam:13112244|exam:13112248>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127217&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 4.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 14.10.2025–03.02.2026 | 05801.00.316 ( C 201 00.316) |
-
-### Mittelseminar Fachdidaktik Französisch - Seminar
-
 - **Segment:** `exam:13112324` · **unitId:** `127217`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17153|exam:13112252|exam:13112310|exam:13112319|exam:13112324>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127217&periodId=565>
@@ -1392,23 +1340,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:13112186` · **unitId:** `126446`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17153|exam:13112089|exam:13112173|exam:13112174|exam:13112186>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126446&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Französisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:00–14:00 | 14.10.2025–03.02.2026 | 05801.00.316 ( C 201 00.316) |
-
-### Proseminar Fachdidaktik Französisch - Seminar
-
-- **Segment:** `exam:13112243` · **unitId:** `126446`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17153|exam:13112196|exam:13112234|exam:13112235|exam:13112243>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126446&periodId=565>
 
 - **Veranstaltungsart:** Seminar
@@ -3211,21 +3142,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### 24601 Hauptseminar französische Literaturwissenschaft - Leistung
 
-- **Segment:** `exam:13112219` · **unitId:** `30180`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17153|exam:13112196|exam:13112200|exam:13112211|exam:13112219>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=30180&periodId=565>
-
-- **ECTS-Punkte:** 8.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 24601 Hauptseminar französische Literaturwissenschaft - Leistung
-
 - **Segment:** `exam:13112667` · **unitId:** `30180`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17153|exam:13112473|exam:13112476|exam:13112657|exam:13112666|exam:13112667>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=30180&periodId=565>
@@ -3333,21 +3249,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:13112159` · **unitId:** `23077`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17153|exam:13112089|exam:13112093|exam:13112148|exam:13112157|exam:13112159>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23077&periodId=565>
-
-- **ECTS-Punkte:** 8.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 24701 Hauptseminar französische Sprachwissenschaft - Leistung
-
-- **Segment:** `exam:13112230` · **unitId:** `23077`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17153|exam:13112196|exam:13112200|exam:13112223|exam:13112230>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23077&periodId=565>
 
 - **ECTS-Punkte:** 8.0
@@ -3553,34 +3454,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### 25711 Übung Einführung in die Fachdidaktik des Französischen - Leistung
-
-- **Segment:** `exam:13112240` · **unitId:** `30173`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17153|exam:13112196|exam:13112234|exam:13112235|exam:13112240>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=30173&periodId=565>
-
-- **ECTS-Punkte:** 3.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | 10:15–11:45 | — | — |
-
-### 25712 Proseminar / Übung - Leistung
-
-- **Segment:** `exam:13112241` · **unitId:** `30174`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17153|exam:13112196|exam:13112234|exam:13112235|exam:13112241>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=30174&periodId=565>
-
-- **ECTS-Punkte:** 2.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | — | — | — |
 
 ### 25721 Proseminar Fachdidaktik Französisch - Leistung
 
@@ -3876,20 +3749,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### 25811 Mittelseminar Französische Sprach-, Literatur- und Kulturvermittlung - Leistung
-
-- **Segment:** `exam:13112247` · **unitId:** `30172`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17153|exam:13112196|exam:13112234|exam:13112244|exam:13112247>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=30172&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | — | — | — |
-
 ### 25821 Mittelseminar Fachdidaktik Französisch - Leistung
 
 - **Segment:** `exam:13112083` · **unitId:** `41156`
@@ -4127,12 +3986,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17153|exam:13112473|exam:13112476|exam:13112569>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=76487&periodId=565>
 
-### 72450 Französische Sprachpraxis 5
-
-- **Segment:** `exam:13112207` · **unitId:** `23069`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17153|exam:13112196|exam:13112200|exam:13112207>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23069&periodId=565>
-
 ### AS franz. Lit.wiss. - Aufbauseminar französische Literaturwissenschaft - Aufbauseminar
 
 - **Segment:** `exam:13111901` · **unitId:** `95305`
@@ -4239,23 +4092,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:13111978` · **unitId:** `83256`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17153|exam:13111967|exam:13111971|exam:13111977|exam:13111978>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83256&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 12:00–14:00 | 15.10.2025–04.02.2026 | 56701.02.014 ( 02.014) |
-
-### BS franz. Sprachwiss. - Basisseminar französische Sprachwissenschaft - Seminar
-
-- **Segment:** `exam:13112202` · **unitId:** `83256`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17153|exam:13112196|exam:13112200|exam:13112201|exam:13112202>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83256&periodId=565>
 
 - **Veranstaltungsart:** Seminar
@@ -4407,23 +4243,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### ES franz. Lit.wiss. - Vertiefungsseminar französische Literaturwissenschaft - Examensseminar
 
-- **Segment:** `exam:13112228` · **unitId:** `88136`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17153|exam:13112196|exam:13112200|exam:13112223|exam:13112228>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88136&periodId=565>
-
-- **Veranstaltungsart:** Examensseminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 12:15–13:45 | 16.10.2025–05.02.2026 | 56701.02.036 ( Romanistik) |
-
-### ES franz. Lit.wiss. - Vertiefungsseminar französische Literaturwissenschaft - Examensseminar
-
 - **Segment:** `exam:13112675` · **unitId:** `88136`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17153|exam:13112473|exam:13112476|exam:13112670|exam:13112675>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88136&periodId=565>
@@ -4528,40 +4347,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:13112164` · **unitId:** `84642`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17153|exam:13112089|exam:13112093|exam:13112161|exam:13112164>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84642&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 8.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 16:15–17:45 | 14.10.2025–03.02.2026 | 56701.02.014 ( 02.014) |
-
-### HS franz. Lit.wiss. - Hauptseminar französische Literaturwissenschaft - Hauptseminar
-
-- **Segment:** `exam:13112214` · **unitId:** `84642`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17153|exam:13112196|exam:13112200|exam:13112211|exam:13112214>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84642&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 8.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 16:15–17:45 | 14.10.2025–03.02.2026 | 56701.02.014 ( 02.014) |
-
-### HS franz. Lit.wiss. - Hauptseminar französische Literaturwissenschaft - Hauptseminar
-
-- **Segment:** `exam:13112226` · **unitId:** `84642`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17153|exam:13112196|exam:13112200|exam:13112223|exam:13112226>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84642&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar
@@ -4713,40 +4498,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### HS franz. Sprachwiss. - Hauptseminar französische Sprachwissenschaft - Hauptseminar
 
-- **Segment:** `exam:13112212` · **unitId:** `95767`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17153|exam:13112196|exam:13112200|exam:13112211|exam:13112212>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95767&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 8.0
-- **Unterrichtssprache:** Französisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 14.10.2025–03.02.2026 | 56701.02.007 ( Romanistik) |
-
-### HS franz. Sprachwiss. - Hauptseminar französische Sprachwissenschaft - Hauptseminar
-
-- **Segment:** `exam:13112224` · **unitId:** `95767`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17153|exam:13112196|exam:13112200|exam:13112223|exam:13112224>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95767&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 8.0
-- **Unterrichtssprache:** Französisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 14.10.2025–03.02.2026 | 56701.02.007 ( Romanistik) |
-
-### HS franz. Sprachwiss. - Hauptseminar französische Sprachwissenschaft - Hauptseminar
-
 - **Segment:** `exam:13112659` · **unitId:** `95767`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17153|exam:13112473|exam:13112476|exam:13112657|exam:13112659>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95767&periodId=565>
@@ -4868,40 +4619,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:13112165` · **unitId:** `87888`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17153|exam:13112089|exam:13112093|exam:13112161|exam:13112165>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87888&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 8.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 56701.02.014 ( 02.[Telefon entfernt].02.007 ( Romanistik) |
-
-### HS rom. Sprachwiss. - Hauptseminar romanische Sprachwissenschaft - Hauptseminar
-
-- **Segment:** `exam:13112215` · **unitId:** `87888`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17153|exam:13112196|exam:13112200|exam:13112211|exam:13112215>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87888&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 8.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 56701.02.014 ( 02.[Telefon entfernt].02.007 ( Romanistik) |
-
-### HS rom. Sprachwiss. - Hauptseminar romanische Sprachwissenschaft - Hauptseminar
-
-- **Segment:** `exam:13112227` · **unitId:** `87888`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17153|exam:13112196|exam:13112200|exam:13112223|exam:13112227>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87888&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar
@@ -5170,22 +4887,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:13112096` · **unitId:** `97200`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17153|exam:13112089|exam:13112093|exam:13112094|exam:13112096>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97200&periodId=565>
-
-- **Veranstaltungsart:** Tutorium
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 13:00–14:00 | 16.10.2025–05.02.2026 | 05801.04.111 ( A 603) |
-
-### Tut. franz. Sprachwiss. - Tutorium zu Basisseminar französische Sprachwissenschaft - Tutorium
-
-- **Segment:** `exam:13112204` · **unitId:** `97200`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17153|exam:13112196|exam:13112200|exam:13112201|exam:13112204>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97200&periodId=565>
 
 - **Veranstaltungsart:** Tutorium
@@ -5519,23 +5220,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### VS franz. Sprachwiss. - Vertiefungsseminar französische Sprachwissenschaft - Examensseminar
 
-- **Segment:** `exam:13112217` · **unitId:** `86473`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17153|exam:13112196|exam:13112200|exam:13112211|exam:13112217>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86473&periodId=565>
-
-- **Veranstaltungsart:** Examensseminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 14:00–16:00 | 15.10.2025–04.02.2026 | 56701.02.007 ( Romanistik) |
-
-### VS franz. Sprachwiss. - Vertiefungsseminar französische Sprachwissenschaft - Examensseminar
-
 - **Segment:** `exam:13112658` · **unitId:** `86473`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17153|exam:13112473|exam:13112476|exam:13112657|exam:13112658>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86473&periodId=565>
@@ -5551,32 +5235,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mi | 14:00–16:00 | 15.10.2025–04.02.2026 | 56701.02.007 ( Romanistik) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (22)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (12)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
-
-### Angeleitete Lektüre Französisch — Sonstige Lehrveranstaltung
-
-- **Segment:** `unit:89110` · **unitId:** `89110`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89110&periodId=565>
-
-- **Veranstaltungsart:** Sonstige Lehrveranstaltung
-- **ECTS-Punkte:** 1.0
-- **Turnus:** in jedem Semester
-
-### Angeleitete Lektüre Französisch — Seminar
-
-- **Segment:** `unit:115450` · **unitId:** `115450`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115450&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
-### Angeleitete Lektüre Französisch — Seminar
-
-- **Segment:** `unit:119316` · **unitId:** `119316`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119316&periodId=565>
-
-- **Veranstaltungsart:** Seminar
 
 ### Aufbauseminar französische Literaturwissenschaft
 
@@ -5586,15 +5247,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Aufbauseminar
 - **ECTS-Punkte:** 3.0
 - **Turnus:** nur im Wintersemester
-
-### Aufbauseminar zur französischen Sprachwissenschaft: Sprachhistorischer Kurs Französisch I
-
-- **Segment:** `unit:92183` · **unitId:** `92183`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92183&periodId=565>
-
-- **Veranstaltungsart:** Aufbauseminar
-- **ECTS-Punkte:** 3.0
-- **Turnus:** nur im Sommersemester
 
 ### Basisseminar französische Literaturwissenschaft A — Einführungskurs
 
@@ -5631,31 +5283,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 3.0
 - **Turnus:** nur im Sommersemester
-
-### Différences individuelles en cours de FLE — Mittelseminar
-
-- **Segment:** `unit:122502` · **unitId:** `122502`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122502&periodId=565>
-
-- **Veranstaltungsart:** Mittelseminar
-
-### Expression écrite I — Übung
-
-- **Segment:** `unit:89531` · **unitId:** `89531`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89531&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Turnus:** nur im Sommersemester
-
-### Hauptseminar französische / italienische / spanische Sprachwissenschaft
-
-- **Segment:** `unit:103260` · **unitId:** `103260`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103260&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 8.0
-- **Turnus:** in jedem Semester
 
 ### Hauptseminar französische Literaturwissenschaft B
 
@@ -5727,24 +5354,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Blockveranstaltung | — | 09:00–14:15 | 18.02.2026–10.03.2026 | 05901.02.058 ( 2.058 R 2.058) |
 
-### Phonetik und Phonologie des Französischen — Übung
-
-- **Segment:** `unit:87814` · **unitId:** `87814`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87814&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
-- **Turnus:** nur im Sommersemester
-
-### Proseminar französische / spanische Sprachwissenschaft
-
-- **Segment:** `unit:82617` · **unitId:** `82617`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82617&periodId=565>
-
-- **Veranstaltungsart:** Proseminar
-- **ECTS-Punkte:** 3.0
-- **Turnus:** in jedem Semester
-
 ### Schriftliche Übersetzungsleistung Latein I für Anfänger (Zulassungsvoraussetzung zu Kurs Latein II für Fortgeschrittene)
 
 - **Segment:** `unit:39848` · **unitId:** `39848`
@@ -5759,20 +5368,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Do | Do | 14:00–16:00 | 07.12.2025 23:59:59 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
 
-### Tutorium zu Phonetik und Phonologie des Französischen
+### Vorlesung französische / italienische Sprachwissenschaft
 
-- **Segment:** `unit:87963` · **unitId:** `87963`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87963&periodId=565>
+- **Segment:** `unit:95766` · **unitId:** `95766`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95766&periodId=565>
 
-- **Veranstaltungsart:** Tutorium
-- **Turnus:** nur im Sommersemester
-
-### Vertiefungsseminar französische Sprachwissenschaft — Examensseminar
-
-- **Segment:** `unit:82642` · **unitId:** `82642`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82642&periodId=565>
-
-- **Veranstaltungsart:** Examensseminar
+- **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.0
 - **Turnus:** in jedem Semester
 

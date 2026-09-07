@@ -724,7 +724,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Fr | 11:00–12:45 | 17.10.2025–06.02.2026 | 05801.04.213 ( B 604) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (17)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (9)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -751,14 +751,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übungsseminar
 
-### Biblisch-koranische Diskurse — Vorlesung
-
-- **Segment:** `unit:119857` · **unitId:** `119857`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119857&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** in jedem Semester
-
 ### Klausur zum Nachweis Gesicherter Lateinkenntnisse
 
 - **Segment:** `unit:39849` · **unitId:** `39849`
@@ -772,13 +764,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | 16:00–19:00 | 07.12.2025 23:59:59 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
-
-### Koran und Moderne, MA, 2.FS — Seminar
-
-- **Segment:** `unit:119225` · **unitId:** `119225`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119225&periodId=565>
-
-- **Veranstaltungsart:** Seminar
 
 ### Latein I für Anfänger (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -827,29 +812,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Blockveranstaltung | — | 09:00–14:15 | 18.02.2026–10.03.2026 | 05901.02.058 ( 2.058 R 2.058) |
 
-### Lektüreübung (Quran and modernity), MA, 2. FS
-
-- **Segment:** `unit:112220` · **unitId:** `112220`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112220&periodId=565>
-
-- **Veranstaltungsart:** Übung
-
-### Lektüreübung (Quran and modernity), MA, 2.FS — Vorlesung mit Übung
-
-- **Segment:** `unit:119226` · **unitId:** `119226`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119226&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-
-### MA 2. FS: [Modul Klassische Arabische Literatur] Poesie — Masterseminar
-
-- **Segment:** `unit:94537` · **unitId:** `94537`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94537&periodId=565>
-
-- **Veranstaltungsart:** Masterseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
 ### MA 2. FS: [Modul Klassische arabische Literatur] Prosa — Masterseminar
 
 - **Segment:** `unit:93955` · **unitId:** `93955`
@@ -868,20 +830,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
-### MA: Averroes: Philosophie und islamische Rechtswissenschaft — Vorlesung mit Übung
-
-- **Segment:** `unit:111956` · **unitId:** `111956`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111956&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-
-### Quran and modernity (Modul: Koran und Moderne), MA, 2. FS — Seminar
-
-- **Segment:** `unit:127558` · **unitId:** `127558`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127558&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
 ### Schriftliche Übersetzungsleistung Latein I für Anfänger (Zulassungsvoraussetzung zu Kurs Latein II für Fortgeschrittene)
 
 - **Segment:** `unit:39848` · **unitId:** `39848`
@@ -895,10 +843,3 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Do | Do | 14:00–16:00 | 07.12.2025 23:59:59 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
-
-### Von Alembik bis Zenith. Einblicke in die vormodernen Wissenschaften in den islamisch geprägten Gesellschaften. — Seminar
-
-- **Segment:** `unit:135705` · **unitId:** `135705`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135705&periodId=565>
-
-- **Veranstaltungsart:** Seminar

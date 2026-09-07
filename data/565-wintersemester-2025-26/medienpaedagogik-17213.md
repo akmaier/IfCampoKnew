@@ -5,7 +5,7 @@ campo_segment: "title:17213"
 campo_path: "title:16758|title:16763|title:17213"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17213"
 po_version_count: 4
-course_count: 8
+course_count: 9
 ---
 
 # Medienpädagogik
@@ -36,12 +36,12 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Campo-Segment:** `exam:12710206`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17213|exam:12710204|exam:12710205|exam:12710206>
 
-## Veranstaltungen (8)
+## Veranstaltungen (9)
 
 ### Einführung: Erweiterung Medienpädagogik - Einführungskurs
 
-- **Segment:** `exam:13758638` · **unitId:** `133055`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17213|exam:12711640|exam:13758638>
+- **Segment:** `exam:17878650` · **unitId:** `133055`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17213|exam:12711640|exam:17878650>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133055&periodId=565>
 
 - **Veranstaltungsart:** Einführungskurs
@@ -145,6 +145,25 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Einzeltermin | Mi | 17:30–19:00 | 10.12.2025 | — |
 | Einzeltermin | Mi | 17:30–19:00 | 07.01.2026 | — |
 | Einzeltermin | Sa | 09:00–15:30 | 24.01.2026 | — |
+
+### Medienerziehung in Schule und Unterricht - Seminar
+
+- **Segment:** `exam:17869287` · **unitId:** `111536`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17213|exam:12711640|exam:17869287>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111536&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.5
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–18:30 | 14.11.2025 | — |
+| Einzeltermin | Sa | 09:00–15:30 | 15.11.2025 | — |
+| Einzeltermin | Fr | 14:00–19:00 | 12.12.2025 | — |
+| Einzeltermin | Sa | 09:00–15:30 | 13.12.2025 | — |
 
 ### Praxisprojekt Mediengestaltung - Sonstige Lehrveranstaltung
 

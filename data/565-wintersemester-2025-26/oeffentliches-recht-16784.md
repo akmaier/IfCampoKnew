@@ -329,6 +329,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16784|exam:11978214|exam:11978218|exam:11978219|exam:11978220|exam:11978273|exam:11978276>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36874&periodId=565>
 
+- **ECTS-Punkte:** 10.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -474,32 +475,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Do | 14:00–16:00 | 16.10.2025–05.02.2026 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (18)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (7)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
-
-### Bayer. Sicherheits- und Polizeirecht — Vorlesung mit Übung
-
-- **Segment:** `unit:107591` · **unitId:** `107591`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107591&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-
-### Grundkurs Öffentliches Recht II (Grundrechte) — Vorlesung
-
-- **Segment:** `unit:95292` · **unitId:** `95292`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95292&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Sommersemester
-
-### Grundrechte — Vorlesung
-
-- **Segment:** `unit:85714` · **unitId:** `85714`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85714&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Sommersemester
 
 ### Klausur zum Nachweis Gesicherter Lateinkenntnisse
 
@@ -514,22 +492,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | 16:00–19:00 | 07.12.2025 23:59:59 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
-
-### Kommunalrecht — Vorlesung
-
-- **Segment:** `unit:96775` · **unitId:** `96775`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96775&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Sommersemester
-
-### Kommunalrecht — Vorlesung
-
-- **Segment:** `unit:99853` · **unitId:** `99853`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99853&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Sommersemester
 
 ### Latein I für Anfänger (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -578,21 +540,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Blockveranstaltung | — | 09:00–14:15 | 18.02.2026–10.03.2026 | 05901.02.058 ( 2.058 R 2.058) |
 
-### Polizei- und Sicherheitsrecht — Vorlesung
-
-- **Segment:** `unit:120083` · **unitId:** `120083`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120083&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-
-### Propädeutische Übung zum Sicherheits- und Polizeirecht
-
-- **Segment:** `unit:87471` · **unitId:** `87471`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87471&periodId=565>
-
-- **Veranstaltungsart:** Propädeutische Übung
-- **Turnus:** nur im Sommersemester
-
 ### Propädeutische Übungen Grundrechte
 
 - **Segment:** `unit:89226` · **unitId:** `89226`
@@ -601,35 +548,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Propädeutische Übung
 - **Turnus:** nur im Sommersemester
 
-### PÜ Allgemeines Verwaltungsrecht — Propädeutische Übung
-
-- **Segment:** `unit:97899` · **unitId:** `97899`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97899&periodId=565>
-
-- **Veranstaltungsart:** Propädeutische Übung
-- **Turnus:** nur im Wintersemester
-
-### PÜ Polizei- und Sicherheitsrecht — Propädeutische Übung
-
-- **Segment:** `unit:111660` · **unitId:** `111660`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111660&periodId=565>
-
-- **Veranstaltungsart:** Propädeutische Übung
-- **Turnus:** jedes 2. Semester
-
 ### PÜ Staatsorganisationsrecht — Propädeutische Übung
 
 - **Segment:** `unit:123007` · **unitId:** `123007`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123007&periodId=565>
 
 - **Veranstaltungsart:** Propädeutische Übung
-
-### Rechtstheorie und juristische Methodenlehre — Vorlesung
-
-- **Segment:** `unit:110335` · **unitId:** `110335`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110335&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
 
 ### Schriftliche Übersetzungsleistung Latein I für Anfänger (Zulassungsvoraussetzung zu Kurs Latein II für Fortgeschrittene)
 
@@ -644,11 +568,3 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Do | Do | 14:00–16:00 | 07.12.2025 23:59:59 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
-
-### Vorlesung Allgemeines Verwaltungsrecht
-
-- **Segment:** `unit:114266` · **unitId:** `114266`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114266&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester

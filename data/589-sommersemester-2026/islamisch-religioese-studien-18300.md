@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:18300"
 campo_path: "title:17593|title:17595|title:18300"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300"
-po_version_count: 3
-course_count: 162
+po_version_count: 1
+course_count: 102
 fau_studiengang:
   - title: "Islamisch-Religiöse Studien (B.A.)"
     rel_path: "studiengang/islamisch-religioese-studien-b-a.md"
@@ -405,62 +405,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (3)
-
-### 1500 Schlüsselqualifikationen
-
-- **Campo-Segment:** `exam:15474434`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15474428|exam:15474431|exam:15474433|exam:15474434>
-
-### 1500 Schlüsselqualifikationen
-
-- **Campo-Segment:** `exam:15477524`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15477518|exam:15477521|exam:15477523|exam:15477524>
+## Prüfungsordnungs-Versionen (1)
 
 ### 1500 Schlüsselqualifikationen
 
 - **Campo-Segment:** `exam:15480655`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15480649|exam:15480652|exam:15480654|exam:15480655>
 
-## Veranstaltungen (162)
-
-### Arabisch II (B.A. Islamisch-Religiöse Studien) - Übung
-
-- **Segment:** `exam:15475981` · **unitId:** `103644`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15474428|exam:15474431|exam:15474433|exam:15475980|exam:15475981>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103644&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 16:00–18:00 | 20.04.2026–13.07.2026 | — |
-| wöchentlich | Do | 08:30–10:00 | 23.04.2026–16.07.2026 | 54801.02.012 (SP 02.012 Schlossplatz 1) |
-| wöchentlich | Do | 10:15–11:45 | 23.04.2026–16.07.2026 | 54801.02.012 (SP 02.012 Schlossplatz 1) |
-
-### Arabisch II (B.A. Islamisch-Religiöse Studien) - Übung
-
-- **Segment:** `exam:15479112` · **unitId:** `103644`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15477518|exam:15477521|exam:15477523|exam:15479111|exam:15479112>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103644&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 16:00–18:00 | 20.04.2026–13.07.2026 | — |
-| wöchentlich | Do | 08:30–10:00 | 23.04.2026–16.07.2026 | 54801.02.012 (SP 02.012 Schlossplatz 1) |
-| wöchentlich | Do | 10:15–11:45 | 23.04.2026–16.07.2026 | 54801.02.012 (SP 02.012 Schlossplatz 1) |
+## Veranstaltungen (102)
 
 ### Arabisch II (B.A. Islamisch-Religiöse Studien) - Übung
 
@@ -502,40 +454,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### BA 4.+5.+6. FS, Ein-Fach und Zwei-Fach IRS, Islamische Mystik, Vorlesung - Vorlesung
 
-- **Segment:** `exam:15475944` · **unitId:** `112301`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15474428|exam:15474431|exam:15474433|exam:15475943|exam:15475944>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112301&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:00–14:00 | 12.05.2026–14.07.2026 | — |
-
-### BA 4.+5.+6. FS, Ein-Fach und Zwei-Fach IRS, Islamische Mystik, Vorlesung - Vorlesung
-
-- **Segment:** `exam:15479050` · **unitId:** `112301`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15477518|exam:15477521|exam:15477523|exam:15479049|exam:15479050>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112301&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:00–14:00 | 12.05.2026–14.07.2026 | — |
-
-### BA 4.+5.+6. FS, Ein-Fach und Zwei-Fach IRS, Islamische Mystik, Vorlesung - Vorlesung
-
 - **Segment:** `exam:15895638` · **unitId:** `112301`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15486905|exam:15486908|exam:15486909|exam:15486910|exam:15486944|exam:15895638>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112301&periodId=589>
@@ -550,124 +468,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 12:00–14:00 | 12.05.2026–14.07.2026 | — |
-
-### BA 4./5./6. FS:  Seminar (Modul: Islamische Mystik, neue PO) - Seminar
-
-- **Segment:** `exam:15475947` · **unitId:** `90322`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15474428|exam:15474431|exam:15474433|exam:15475943|exam:15475947>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90322&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 12.05.2026–14.07.2026 | 53101.03.113 |
-
-### BA 4./5./6. FS:  Seminar (Modul: Islamische Mystik, neue PO) - Seminar
-
-- **Segment:** `exam:15479053` · **unitId:** `90322`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15477518|exam:15477521|exam:15477523|exam:15479049|exam:15479053>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90322&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 12.05.2026–14.07.2026 | 53101.03.113 |
-
-### BA 4./6. FS: Die Darstellungen von Musliminnen und muslimischen Anführerinnen (Modul: Islam, Menschenrechte und Gender II) auch für MA Medien-Ethik-Religion - Seminar
-
-- **Segment:** `exam:15479056` · **unitId:** `104136`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15477518|exam:15477521|exam:15477523|exam:15479054|exam:15479056>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104136&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 12:00–14:00 | 08.05.2026 | 53101.03.113 |
-| Einzeltermin | Fr | 12:00–14:00 | 29.05.2026 | 53101.03.113 |
-| Einzeltermin | Fr | 12:00–14:00 | 05.06.2026 | 53101.03.113 |
-| Einzeltermin | Fr | 12:00–14:00 | 12.06.2026 | 53101.03.113 |
-| Einzeltermin | Fr | 12:00–14:00 | 19.06.2026 | 53101.03.113 |
-
-### BA 4./6. FS: Die Darstellungen von Musliminnen und muslimischen Anführerinnen (Modul: Islam, Menschenrechte und Gender II) auch für MA Medien-Ethik-Religion - Seminar
-
-- **Segment:** `exam:15479060` · **unitId:** `104136`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15477518|exam:15477521|exam:15477523|exam:15479058|exam:15479060>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104136&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 12:00–14:00 | 08.05.2026 | 53101.03.113 |
-| Einzeltermin | Fr | 12:00–14:00 | 29.05.2026 | 53101.03.113 |
-| Einzeltermin | Fr | 12:00–14:00 | 05.06.2026 | 53101.03.113 |
-| Einzeltermin | Fr | 12:00–14:00 | 12.06.2026 | 53101.03.113 |
-| Einzeltermin | Fr | 12:00–14:00 | 19.06.2026 | 53101.03.113 |
-
-### BA 4./6. FS: Die Darstellungen von Musliminnen und muslimischen Anführerinnen (Modul: Islam, Menschenrechte und Gender II) auch für MA Medien-Ethik-Religion - Seminar
-
-- **Segment:** `exam:15479078` · **unitId:** `104136`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15477518|exam:15477521|exam:15477523|exam:15479075|exam:15479078>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104136&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 12:00–14:00 | 08.05.2026 | 53101.03.113 |
-| Einzeltermin | Fr | 12:00–14:00 | 29.05.2026 | 53101.03.113 |
-| Einzeltermin | Fr | 12:00–14:00 | 05.06.2026 | 53101.03.113 |
-| Einzeltermin | Fr | 12:00–14:00 | 12.06.2026 | 53101.03.113 |
-| Einzeltermin | Fr | 12:00–14:00 | 19.06.2026 | 53101.03.113 |
-
-### BA 4./6. FS: Die Darstellungen von Musliminnen und muslimischen Anführerinnen (Modul: Islam, Menschenrechte und Gender II) auch für MA Medien-Ethik-Religion - Seminar
-
-- **Segment:** `exam:15479082` · **unitId:** `104136`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15477518|exam:15477521|exam:15477523|exam:15479079|exam:15479082>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104136&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 12:00–14:00 | 08.05.2026 | 53101.03.113 |
-| Einzeltermin | Fr | 12:00–14:00 | 29.05.2026 | 53101.03.113 |
-| Einzeltermin | Fr | 12:00–14:00 | 05.06.2026 | 53101.03.113 |
-| Einzeltermin | Fr | 12:00–14:00 | 12.06.2026 | 53101.03.113 |
-| Einzeltermin | Fr | 12:00–14:00 | 19.06.2026 | 53101.03.113 |
 
 ### BA 4./6. FS: Die Darstellungen von Musliminnen und muslimischen Anführerinnen (Modul: Islam, Menschenrechte und Gender II) auch für MA Medien-Ethik-Religion - Seminar
 
@@ -797,40 +597,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### BA 5. FS, Ein-Fach, Praktikum Begleitkurs - Kurs
 
-- **Segment:** `exam:15475938` · **unitId:** `113144`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15474428|exam:15474431|exam:15474433|exam:15475936|exam:15475938>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113144&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| nach Vereinbarung | — | — | — | — |
-
-### BA 5. FS, Ein-Fach, Praktikum Begleitkurs - Kurs
-
-- **Segment:** `exam:15479042` · **unitId:** `113144`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15477518|exam:15477521|exam:15477523|exam:15479040|exam:15479042>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113144&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| nach Vereinbarung | — | — | — | — |
-
-### BA 5. FS, Ein-Fach, Praktikum Begleitkurs - Kurs
-
 - **Segment:** `exam:15482172` · **unitId:** `113144`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15480649|exam:15480652|exam:15480654|exam:15482170|exam:15482172>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113144&periodId=589>
@@ -845,23 +611,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | nach Vereinbarung | — | — | — | — |
-
-### BA 5./6. FS: Vorlesung (Modul: Islamische Philosophie & Ästhetik/Ethik),  (Master Medien Ethik Religion, 2. FS, Modul Theologische Grundlagen) - Vorlesung
-
-- **Segment:** `exam:15479074` · **unitId:** `95217`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15477518|exam:15477521|exam:15477523|exam:15479071|exam:15479074>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95217&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 12.05.2026–14.07.2026 | 53101.03.113 |
 
 ### BA 5./6. FS: Vorlesung (Modul: Islamische Philosophie & Ästhetik/Ethik),  (Master Medien Ethik Religion, 2. FS, Modul Theologische Grundlagen) - Vorlesung
 
@@ -882,22 +631,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### Bibelkunde des Neuen Testaments - Übung
 
-- **Segment:** `exam:15479039` · **unitId:** `130943`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15477518|exam:15477521|exam:15477523|exam:15479024|exam:15479034|exam:15479039>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130943&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 12:00–14:00 | 13.04.2026–13.07.2026 | 06201.02.020 ( TSG HS B (02.020) Theologisches Seminargebäude, Kochstraße 6) |
-
-### Bibelkunde des Neuen Testaments - Übung
-
 - **Segment:** `exam:15482169` · **unitId:** `130943`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15480649|exam:15480652|exam:15480654|exam:15482155|exam:15482164|exam:15482169>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130943&periodId=589>
@@ -911,43 +644,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 12:00–14:00 | 13.04.2026–13.07.2026 | 06201.02.020 ( TSG HS B (02.020) Theologisches Seminargebäude, Kochstraße 6) |
-
-### Empirische Forschung im Kontext islamischer Religionspädagogik - Seminar
-
-- **Segment:** `exam:15879396` · **unitId:** `135439`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15474428|exam:15474431|exam:15474433|exam:15475934|exam:15879396>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135439&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Do | 15:00–18:00 | 30.04.2026 | — |
-| Einzeltermin | Do | 15:00–18:00 | 07.05.2026 | — |
-| Einzeltermin | Do | 15:00–18:00 | 28.05.2026 | — |
-| Einzeltermin | Do | 15:00–18:00 | 18.06.2026 | — |
-| Einzeltermin | Do | 15:00–18:00 | 02.07.2026 | — |
-| Einzeltermin | Do | 15:00–18:00 | 09.07.2026 | — |
-
-### Hadith I, BA, 2. FS - Seminar
-
-- **Segment:** `exam:15479096` · **unitId:** `127573`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15477518|exam:15477521|exam:15477523|exam:15479092|exam:15479096>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127573&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 56701.03.017 ( 03.017) |
 
 ### Hadith I, BA, 2. FS - Seminar
 
@@ -980,22 +676,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 56701.03.017 ( 03.017) |
-
-### Hadith I, BA, 2. FS - Vorlesung
-
-- **Segment:** `exam:15479095` · **unitId:** `127537`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15477518|exam:15477521|exam:15477523|exam:15479092|exam:15479095>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127537&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 56701.03.017 ( 03.017) |
 
 ### Hadith I, BA, 2. FS - Vorlesung
 
@@ -1044,22 +724,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 12:00–14:00 | 23.04.2026–16.07.2026 | 56701.03.011 |
-
-### Islamisch-Religiöse Studien im internationalen Raum - Seminar
-
-- **Segment:** `exam:15879414` · **unitId:** `135440`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15474428|exam:15474431|exam:15474433|exam:15475934|exam:15879414>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135440&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wird noch angekündigt | — | — | — | — |
 
 ### Islamische Seelsorge in Theorie und Praxis - Workshop
 
@@ -1444,41 +1108,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Mo | 16:00–19:00 | 27.04.2026 | 56701.03.011 |
 | Blockveranstaltung+SaundSo | — | 00:00–00:01 | 29.05.2026–31.05.2026 | — |
 
-### Normenlehre I, BA, 1.FS - Vorlesung
-
-- **Segment:** `exam:15475976` · **unitId:** `123763`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15474428|exam:15474431|exam:15474433|exam:15475973|exam:15475976>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123763&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 10:00–12:00 | 15.05.2026 | — |
-| Blockveranstaltung+SaundSo | — | 08:00–15:00 | 29.05.2026–31.05.2026 | — |
-
-### Normenlehre II, BA, 4. 6. FS - Seminar
-
-- **Segment:** `exam:15792975` · **unitId:** `127551`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15477518|exam:15477521|exam:15477523|exam:15479105|exam:15792975>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127551&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 16:00–18:00 | 21.04.2026 | 56701.03.033 |
-| Einzeltermin | Fr | 10:00–18:00 | 03.07.2026 | 56701.03.017 ( 03.017) |
-| Blockveranstaltung+SaundSo | — | 10:00–18:00 | 04.07.2026–05.07.2026 | — |
-
 ### Normenlehre II, BA, 4. 6. FS - Seminar
 
 - **Segment:** `exam:15792976` · **unitId:** `127551`
@@ -1497,56 +1126,11 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Fr | 10:00–18:00 | 03.07.2026 | 56701.03.017 ( 03.017) |
 | Blockveranstaltung+SaundSo | — | 10:00–18:00 | 04.07.2026–05.07.2026 | — |
 
-### 17001 Interreligiöses Lernen - Leistung
-
-- **Segment:** `exam:15479026` · **unitId:** `50387`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15477518|exam:15477521|exam:15477523|exam:15479024|exam:15479025|exam:15479026>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50387&periodId=589>
-
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
 ### 1701 Interreligiöses Lernen
 
 - **Segment:** `exam:15482156` · **unitId:** `76303`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15480649|exam:15480652|exam:15480654|exam:15482155|exam:15482156>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=76303&periodId=589>
-
-### 1995 Praktikumsbericht (B.A.,1Fach Islamisch-Religiöse Studien 20162) - Leistung
-
-- **Segment:** `exam:15475937` · **unitId:** `46316`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15474428|exam:15474431|exam:15474433|exam:15475936|exam:15475937>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46316&periodId=589>
-
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 1995 Praktikumsbericht (B.A.,1Fach Islamisch-Religiöse Studien 20182) - Leistung
-
-- **Segment:** `exam:15479041` · **unitId:** `50381`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15477518|exam:15477521|exam:15477523|exam:15479040|exam:15479041>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50381&periodId=589>
-
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
 
 ### 1995 Praktikumsbericht (B.A.,1Fach Islamisch-Religiöse Studien 20212) - Leistung
 
@@ -1562,18 +1146,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### 1999 Bachelorarbeit (B.A.,1Fach Islamisch-Religiöse Studien 20162)
-
-- **Segment:** `exam:15475939` · **unitId:** `46318`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15474428|exam:15474431|exam:15474433|exam:15475939>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46318&periodId=589>
-
-### 1999 Bachelorarbeit (B.A.,1Fach Islamisch-Religiöse Studien 20182)
-
-- **Segment:** `exam:15479043` · **unitId:** `50383`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15477518|exam:15477521|exam:15477523|exam:15479043>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50383&periodId=589>
 
 ### 1999 Bachelorarbeit (B.A.,1Fach Islamisch-Religiöse Studien 20212)
 
@@ -1703,21 +1275,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 43111 Aqida - Leistung
 
-- **Segment:** `exam:15479046` · **unitId:** `50363`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15477518|exam:15477521|exam:15477523|exam:15479045|exam:15479046>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50363&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 43111 Aqida - Leistung
-
 - **Segment:** `exam:15482176` · **unitId:** `50363`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15480649|exam:15480652|exam:15480654|exam:15482175|exam:15482176>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50363&periodId=589>
@@ -1738,36 +1295,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50363&periodId=589>
 
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 43201 Modulabschlussprüfung Islamische Mystik - Leistung
-
-- **Segment:** `exam:15475945` · **unitId:** `43282`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15474428|exam:15474431|exam:15474433|exam:15475943|exam:15475945>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43282&periodId=589>
-
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 43201 Modulabschlussprüfung Islamische Mystik - Leistung
-
-- **Segment:** `exam:15479051` · **unitId:** `43282`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15477518|exam:15477521|exam:15477523|exam:15479049|exam:15479051>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43282&periodId=589>
-
-- **ECTS-Punkte:** 10.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -1808,21 +1335,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 43321 Muslimisches Leben in Geschichte und Gegenwart II - Leistung
 
-- **Segment:** `exam:15479059` · **unitId:** `50373`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15477518|exam:15477521|exam:15477523|exam:15479058|exam:15479059>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50373&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 43321 Muslimisches Leben in Geschichte und Gegenwart II - Leistung
-
 - **Segment:** `exam:15482184` · **unitId:** `50373`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15480649|exam:15480652|exam:15480654|exam:15482183|exam:15482184>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50373&periodId=589>
@@ -1853,41 +1365,11 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 43511 Kalam I - Leistung
 
-- **Segment:** `exam:15479064` · **unitId:** `50366`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15477518|exam:15477521|exam:15477523|exam:15479062|exam:15479064>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50366&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 43511 Kalam I - Leistung
-
 - **Segment:** `exam:15482189` · **unitId:** `50366`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15480649|exam:15480652|exam:15480654|exam:15482187|exam:15482189>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50366&periodId=589>
 
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 43611 Islamische Philosophie und Ästhetik / Ethik - Leistung
-
-- **Segment:** `exam:15479072` · **unitId:** `50369`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15477518|exam:15477521|exam:15477523|exam:15479071|exam:15479072>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50369&periodId=589>
-
-- **ECTS-Punkte:** 10.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -1913,21 +1395,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 43721 Islam, Menschenrechte und Gender II - Leistung
 
-- **Segment:** `exam:15479081` · **unitId:** `50377`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15477518|exam:15477521|exam:15477523|exam:15479079|exam:15479081>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50377&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 43721 Islam, Menschenrechte und Gender II - Leistung
-
 - **Segment:** `exam:15482206` · **unitId:** `50377`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15480649|exam:15480652|exam:15480654|exam:15482204|exam:15482206>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50377&periodId=589>
@@ -1940,21 +1407,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### 45131 Hadith I - Leistung
-
-- **Segment:** `exam:15479093` · **unitId:** `50353`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15477518|exam:15477521|exam:15477523|exam:15479092|exam:15479093>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50353&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | 12:15–13:45 | — | 56701.03.011 |
 
 ### 45131 Hadith I - Leistung
 
@@ -1988,39 +1440,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 45231 Hadith II - Leistung
 
-- **Segment:** `exam:15479101` · **unitId:** `50357`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15477518|exam:15477521|exam:15477523|exam:15479100|exam:15479101>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50357&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 45231 Hadith II - Leistung
-
 - **Segment:** `exam:15482222` · **unitId:** `50357`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15480649|exam:15480652|exam:15480654|exam:15482221|exam:15482222>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50357&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 45431 Normenlehre II - Leistung
-
-- **Segment:** `exam:15479106` · **unitId:** `50360`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15477518|exam:15477521|exam:15477523|exam:15479105|exam:15479106>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50360&periodId=589>
 
 - **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
@@ -2038,36 +1460,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50360&periodId=589>
 
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 51061 Arabisch I - Leistung
-
-- **Segment:** `exam:15475979` · **unitId:** `43328`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15474428|exam:15474431|exam:15474433|exam:15475977|exam:15475979>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43328&periodId=589>
-
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 51061 Arabisch I - Leistung
-
-- **Segment:** `exam:15479110` · **unitId:** `43328`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15477518|exam:15477521|exam:15477523|exam:15479108|exam:15479110>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43328&periodId=589>
-
-- **ECTS-Punkte:** 10.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -2108,36 +1500,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 51161 Arabisch II - Leistung
 
-- **Segment:** `exam:15475982` · **unitId:** `43329`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15474428|exam:15474431|exam:15474433|exam:15475980|exam:15475982>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43329&periodId=589>
-
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | 09:30–11:00 | — | — |
-
-### 51161 Arabisch II - Leistung
-
-- **Segment:** `exam:15479113` · **unitId:** `43329`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15477518|exam:15477521|exam:15477523|exam:15479111|exam:15479113>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43329&periodId=589>
-
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | 09:30–11:00 | — | — |
-
-### 51161 Arabisch II - Leistung
-
 - **Segment:** `exam:15482236` · **unitId:** `43329`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15480649|exam:15480652|exam:15480654|exam:15482234|exam:15482236>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43329&periodId=589>
@@ -2168,36 +1530,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 51361 Arabisch IV - Leistung
 
-- **Segment:** `exam:15475987` · **unitId:** `43331`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15474428|exam:15474431|exam:15474433|exam:15475986|exam:15475987>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43331&periodId=589>
-
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | 09:00–10:30 | — | — |
-
-### 51361 Arabisch IV - Leistung
-
-- **Segment:** `exam:15479118` · **unitId:** `43331`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15477518|exam:15477521|exam:15477523|exam:15479117|exam:15479118>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43331&periodId=589>
-
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | 09:00–10:30 | — | — |
-
-### 51361 Arabisch IV - Leistung
-
 - **Segment:** `exam:15482240` · **unitId:** `43331`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15480649|exam:15480652|exam:15480654|exam:15482239|exam:15482240>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43331&periodId=589>
@@ -2211,35 +1543,11 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | Di | Di | 09:00–10:30 | — | — |
 
-### 74310 Aqida
-
-- **Segment:** `exam:15475941` · **unitId:** `43272`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15474428|exam:15474431|exam:15474433|exam:15475941>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43272&periodId=589>
-
-### 74330 Muslimisches Leben in Geschichte und Gegenwart
-
-- **Segment:** `exam:15475948` · **unitId:** `43276`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15474428|exam:15474431|exam:15474433|exam:15475948>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43276&periodId=589>
-
-### 74350 Kalam
-
-- **Segment:** `exam:15475952` · **unitId:** `43273`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15474428|exam:15474431|exam:15474433|exam:15475952>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43273&periodId=589>
-
 ### 74351 Kalam I
 
 - **Segment:** `exam:15486912` · **unitId:** `58459`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15486905|exam:15486908|exam:15486909|exam:15486910|exam:15486911|exam:15486912>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=58459&periodId=589>
-
-### 74352 Kalam II
-
-- **Segment:** `exam:15479066` · **unitId:** `50365`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15477518|exam:15477521|exam:15477523|exam:15479066>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50365&periodId=589>
 
 ### 74352 Kalam II
 
@@ -2253,23 +1561,11 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15486905|exam:15486908|exam:15486909|exam:15486910|exam:15486911|exam:15486915>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65938&periodId=589>
 
-### 74360 Islamische Philosophie und Ästhetik / Ethik
-
-- **Segment:** `exam:15475954` · **unitId:** `43275`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15474428|exam:15474431|exam:15474433|exam:15475954>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43275&periodId=589>
-
 ### 74361 Islamische Philosophie und Ästhetik / Ethik
 
 - **Segment:** `exam:15486920` · **unitId:** `60704`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15486905|exam:15486908|exam:15486909|exam:15486910|exam:15486911|exam:15486920>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=60704&periodId=589>
-
-### 74370 Islam und Gender
-
-- **Segment:** `exam:15475956` · **unitId:** `43277`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15474428|exam:15474431|exam:15474433|exam:15475956>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43277&periodId=589>
 
 ### 74371 Islam, Menschenrechte und Gender I
 
@@ -2283,53 +1579,17 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15486905|exam:15486908|exam:15486909|exam:15486910|exam:15486911|exam:15486927>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66206&periodId=589>
 
-### 74490 Propädeutikum
-
-- **Segment:** `exam:15475958` · **unitId:** `35900`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15474428|exam:15474431|exam:15474433|exam:15475958>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=35900&periodId=589>
-
-### 74490 Propädeutikum
-
-- **Segment:** `exam:15479083` · **unitId:** `35900`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15477518|exam:15477521|exam:15477523|exam:15479083>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=35900&periodId=589>
-
 ### 74491 Propädeutikum
 
 - **Segment:** `exam:15482208` · **unitId:** `76291`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15480649|exam:15480652|exam:15480654|exam:15482208>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=76291&periodId=589>
 
-### 74500 Koranrezitation
-
-- **Segment:** `exam:15475961` · **unitId:** `35880`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15474428|exam:15474431|exam:15474433|exam:15475961>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=35880&periodId=589>
-
-### 74500 Koranrezitation
-
-- **Segment:** `exam:15479086` · **unitId:** `35880`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15477518|exam:15477521|exam:15477523|exam:15479086>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=35880&periodId=589>
-
 ### 74501 Koranrezitation
 
 - **Segment:** `exam:15482210` · **unitId:** `76293`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15480649|exam:15480652|exam:15480654|exam:15482210>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=76293&periodId=589>
-
-### 74511 Koran / Hadith I
-
-- **Segment:** `exam:15475963` · **unitId:** `43270`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15474428|exam:15474431|exam:15474433|exam:15475963>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43270&periodId=589>
-
-### 74512 Koran I
-
-- **Segment:** `exam:15479088` · **unitId:** `50350`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15477518|exam:15477521|exam:15477523|exam:15479088>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50350&periodId=589>
 
 ### 74512 Koran I
 
@@ -2342,18 +1602,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:15486954` · **unitId:** `64360`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15486905|exam:15486908|exam:15486909|exam:15486910|exam:15486954>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=64360&periodId=589>
-
-### 74521 Koran / Hadith II
-
-- **Segment:** `exam:15475969` · **unitId:** `43271`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15474428|exam:15474431|exam:15474433|exam:15475969>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43271&periodId=589>
-
-### 74522 Koran II
-
-- **Segment:** `exam:15479097` · **unitId:** `50354`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15477518|exam:15477521|exam:15477523|exam:15479097>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50354&periodId=589>
 
 ### 74522 Koran II
 
@@ -2372,12 +1620,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:15482224` · **unitId:** `76292`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15480649|exam:15480652|exam:15480654|exam:15482224>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=76292&periodId=589>
-
-### 74542 Normenlehre I
-
-- **Segment:** `exam:15479102` · **unitId:** `50358`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15477518|exam:15477521|exam:15477523|exam:15479102>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50358&periodId=589>
 
 ### 74542 Normenlehre I
 
@@ -2445,18 +1687,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15496290|exam:15496291|exam:15496292|exam:15496303>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=109391&periodId=589>
 
-### 75126 Arabisch III
-
-- **Segment:** `exam:15475983` · **unitId:** `43326`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15474428|exam:15474431|exam:15474433|exam:15475983>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43326&periodId=589>
-
-### 75126 Arabisch III
-
-- **Segment:** `exam:15479114` · **unitId:** `43326`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15477518|exam:15477521|exam:15477523|exam:15479114>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43326&periodId=589>
-
 ### 75127 Arabisch III
 
 - **Segment:** `exam:15482237` · **unitId:** `76298`
@@ -2465,39 +1695,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 98402 Klausur oder mündliche Prüfung zu Biblicum AT - Leistung
 
-- **Segment:** `exam:15479036` · **unitId:** `35158`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15477518|exam:15477521|exam:15477523|exam:15479024|exam:15479034|exam:15479036>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=35158&periodId=589>
-
-- **ECTS-Punkte:** 4.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | — | 07.06.2026 23:59:59 | — |
-
-### 98402 Klausur oder mündliche Prüfung zu Biblicum AT - Leistung
-
 - **Segment:** `exam:15482166` · **unitId:** `35158`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15480649|exam:15480652|exam:15480654|exam:15482155|exam:15482164|exam:15482166>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=35158&periodId=589>
-
-- **ECTS-Punkte:** 4.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | — | 07.06.2026 23:59:59 | — |
-
-### 98403 Klausur oder mündliche Prüfung zu Biblicum NT - Leistung
-
-- **Segment:** `exam:15479037` · **unitId:** `35160`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18300|exam:15477518|exam:15477521|exam:15477523|exam:15479024|exam:15479034|exam:15479037>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=35160&periodId=589>
 
 - **ECTS-Punkte:** 4.0
 - **Unterrichtssprache:** Deutsch
@@ -2556,18 +1756,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 08:00–09:30 | 21.04.2026–14.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (45)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (30)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
-
-### 4. FS, Ein-Fach, Islamische Mystik, Seminar
-
-- **Segment:** `unit:112365` · **unitId:** `112365`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112365&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
 
 ### 6. FS, Ein-Fach und Zwei-Fach (frei wählbar), Islamische Philosophie & Ästhetik/Ethik, Seminar
 
@@ -2577,13 +1768,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** in jedem Semester
-
-### Analysing Audiovisual Culture in Digital Humanities — Seminar
-
-- **Segment:** `unit:139354` · **unitId:** `139354`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139354&periodId=589>
-
-- **Veranstaltungsart:** Seminar
 
 ### Arabisch I  (Islamisch-Religiöse Studien) — Übung
 
@@ -2603,15 +1787,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 10.0
 - **Turnus:** nur im Wintersemester
 
-### BA 3. FS: Das islamische Denken in der Umbruchzeit: Verhältnis von Tradition und Moderne bei ausgewählten muslimischen Denkern des 19. und 20. Jahrhunderts (Modul: Kalam II) — Seminar
-
-- **Segment:** `unit:117521` · **unitId:** `117521`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117521&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Turnus:** jedes 2. Semester
-
 ### BA 4.+5.+6. FS Ein-Fach und Zwei-Fach IRS Seminar: Einführung in die islamische Mystik (Modul Islamische Mystik)
 
 - **Segment:** `unit:98157` · **unitId:** `98157`
@@ -2621,14 +1796,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** in jedem Semester
 
-### BA 5. FS: Einführung in die islamische Philosophie (Modul: Islamische Philosophie & Ästhetik/Ethik) — Seminar
+### BA 4./5./6. FS:  Seminar (Modul: Islamische Mystik, neue PO)
 
-- **Segment:** `unit:85559` · **unitId:** `85559`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85559&periodId=589>
+- **Segment:** `unit:90322` · **unitId:** `90322`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90322&periodId=589>
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:00–12:00 | 12.05.2026–14.07.2026 | 53101.03.113 |
 
 ### BA 5. FS: Islam, Menschenrechte und Gender I — Seminar
 
@@ -2663,14 +1845,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **Turnus:** Unregelmäßig
 
-### Einführung in das Alte Testament für Geisteswissenschaftler — Übung
-
-- **Segment:** `unit:130094` · **unitId:** `130094`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130094&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** Unregelmäßig
-
 ### Einführung in das Studium der Digitalen Geistes- und Sozialwissenschaften — Seminar
 
 - **Segment:** `unit:86197` · **unitId:** `86197`
@@ -2679,22 +1853,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
 - **Turnus:** in jedem Semester
-
-### Essentials of Data Visualisation in Digital Humanities — Seminar
-
-- **Segment:** `unit:139355` · **unitId:** `139355`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139355&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-
-### Evangelikalismus/Pentekostalismus und die Bedrohung liberal-demokratischer Ordnungen — Übung
-
-- **Segment:** `unit:130991` · **unitId:** `130991`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130991&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
-- **Turnus:** jedes 2. Semester
 
 ### Grammar & Vocabulary for Erasmus students
 
@@ -2709,13 +1867,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Sa | Sa | 13:00–19:00 | — | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
-### Hadith I, BA, 2.FS — Vorlesung
-
-- **Segment:** `unit:111966` · **unitId:** `111966`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111966&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-
 ### Interdisziplinäres Blockseminar mit Exkursion
 
 - **Segment:** `unit:82373` · **unitId:** `82373`
@@ -2724,13 +1875,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 3.0
 - **Turnus:** nur im Wintersemester
-
-### Interreligiöse Zugänge zu den heiligen Schriften (Bibel und Koran im Gespräch) Modul Muslimisches Leben in Geschichte und Gegenwart, BA Islamisch-Religiöse Studien und Gegenwart, BA Islamisch-Religiöse Studien) — Seminar
-
-- **Segment:** `unit:128502` · **unitId:** `128502`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128502&periodId=589>
-
-- **Veranstaltungsart:** Seminar
 
 ### Klausur zum Nachweis Gesicherter Lateinkenntnisse
 
@@ -2745,29 +1889,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | 15:00–18:00 | 07.06.2026 23:59:59 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
-
-### Koran I,   BA, 1. FS — Vorlesung
-
-- **Segment:** `unit:88501` · **unitId:** `88501`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88501&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 3.0
-- **Turnus:** nur im Wintersemester
-
-### Koran I, BA, 1. FS — Vorlesung
-
-- **Segment:** `unit:116579` · **unitId:** `116579`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116579&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-
-### Koran I, BA, 1. FS — Vorlesung
-
-- **Segment:** `unit:123764` · **unitId:** `123764`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123764&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
 
 ### Latein I für Anfänger (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -2801,14 +1922,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
 | wöchentlich | Mi | 16:00–18:00 | 15.04.2026–15.07.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
 
-### Latein II für Fortgeschrittene - Intensivkurs (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
-
-- **Segment:** `unit:89729` · **unitId:** `89729`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89729&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** Unregelmäßig
-
 ### Lektüreübung zu Textgrundlagen Islamisch-Religiöser Forschung, MA
 
 - **Segment:** `unit:123845` · **unitId:** `123845`
@@ -2841,14 +1954,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### MA 1: Forschungsmethoden und Quellenanalyse (Übung) — Masterseminar
-
-- **Segment:** `unit:94221` · **unitId:** `94221`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94221&periodId=589>
-
-- **Veranstaltungsart:** Masterseminar
 - **Turnus:** nur im Wintersemester
 
 ### MA 1: Koran und Kontext — Vorlesung
@@ -2895,15 +2000,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 4.0
 - **Turnus:** jedes 2. Semester
 
-### MA IRS Seminar Gegenwartsfragen islamischer Religionsdiskurse
-
-- **Segment:** `unit:100592` · **unitId:** `100592`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100592&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### MA IRS: 3. FS: Orientierungsmodul — Kurs
 
 - **Segment:** `unit:104406` · **unitId:** `104406`
@@ -2922,12 +2018,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 10.0
 - **Turnus:** in jedem Semester
 
-### Modul Muslimisches Leben in Geschichte und Gegenwart II — Seminar
+### Normenlehre I, BA, 1.FS — Vorlesung
 
-- **Segment:** `unit:119290` · **unitId:** `119290`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119290&periodId=589>
+- **Segment:** `unit:123763` · **unitId:** `123763`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123763&periodId=589>
 
-- **Veranstaltungsart:** Seminar
+- **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 10:00–12:00 | 15.05.2026 | — |
+| Blockveranstaltung+SaundSo | — | 08:00–15:00 | 29.05.2026–31.05.2026 | — |
 
 ### Poetry Slam: Text, Performance, Event — Seminar
 
@@ -2958,12 +2063,3 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Do | Do | 14:00–16:00 | 07.06.2026 23:59:59 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
-
-### Ü "Theologie trifft Astronomie: Komplementäre Perspektiven auf bedeutende Orte und Zeiten im islamischen Ritus" — Übung
-
-- **Segment:** `unit:117382` · **unitId:** `117382`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117382&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig

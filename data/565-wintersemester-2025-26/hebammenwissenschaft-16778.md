@@ -1536,7 +1536,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mo | 10:00–12:00 | 13.10.2025–02.02.2026 | 13003.00.836 (HF Hörsaal Physikum) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (51)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (43)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -1660,6 +1660,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Einzeltermin | Sa | 11:30–14:00 | 01.11.2025 | — |
 
+### 036 PERLE Sonografie für Anfängerinnen und Anfänger, Do., 06.11.2025, 17:00-19:30 Uhr — Kurs
+
+- **Segment:** `unit:132451` · **unitId:** `132451`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132451&periodId=565>
+
+- **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 17:00–19:30 | 06.11.2025 | — |
+
 ### 038 PERLE Sonografie für Anfängerinnen und Anfänger, Mo., 10.11.2025, 17:00 - 19:30 Uhr, SkillsLab Perle — Kurs
 
 - **Segment:** `unit:132455` · **unitId:** `132455`
@@ -1689,6 +1704,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Do | 16:30–19:30 | 13.11.2025 | — |
+
+### 045 Sonografie für Fortgeschrittene, Fr., 14.11.2025, 16:00 - 18:30 Uhr SkillsLab Perle — Kurs
+
+- **Segment:** `unit:132462` · **unitId:** `132462`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132462&periodId=565>
+
+- **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 16:00–18:30 | 14.11.2025 | — |
 
 ### 047 PERLE Fit für den Staionseinsatz, Sa. 15.11.2025, 14:30 - 18:30 Uhr, SkillsLab Perle — Kurs
 
@@ -1945,74 +1975,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Einzeltermin | Do | 17:00–19:00 | 08.01.2026 | — |
 
-### Allgemeine medizinische Kompetenz, Notfallmedizin, Vitalfunktionen — Vorlesung mit Übung
-
-- **Segment:** `unit:112939` · **unitId:** `112939`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112939&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-
-### Die Förderung der physiologischen Geburt — Vorlesung
-
-- **Segment:** `unit:107918` · **unitId:** `107918`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107918&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.0
-- **Turnus:** nur im Wintersemester
-
-### Fertigkeitstraining "Neonatologie" — Übung
-
-- **Segment:** `unit:128934` · **unitId:** `128934`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128934&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Sommersemester
-
-### Gesundheits- und Versorgungssystem im Kontext von Hebammenwesen und -wissenschaft — Vorlesung
-
-- **Segment:** `unit:128927` · **unitId:** `128927`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128927&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 1.25
-- **Turnus:** nur im Sommersemester
-
-### Gesundheits- und Versorgungssystem im Kontext von Hebammenwesen und wissenschaft — Seminar
-
-- **Segment:** `unit:83930` · **unitId:** `83930`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83930&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nur im Sommersemester
-
-### Gesundheits-/Hebammenwissenschaftliches Denken und Methodenkompetenz II — Seminar
-
-- **Segment:** `unit:112988` · **unitId:** `112988`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112988&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### Grundlagen der Kinderheilkunde und Virusinfektionen bei Neugeborenen — Vorlesung
-
-- **Segment:** `unit:112990` · **unitId:** `112990`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112990&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
-### Innere Medizin für Hebammenwissenschaftler/-innen — Vorlesung
-
-- **Segment:** `unit:92143` · **unitId:** `92143`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92143&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
 ### Klausur zum Nachweis Gesicherter Lateinkenntnisse
 
 - **Segment:** `unit:39849` · **unitId:** `39849`
@@ -2073,24 +2035,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Blockveranstaltung | — | 09:00–14:15 | 18.02.2026–10.03.2026 | 05901.02.058 ( 2.058 R 2.058) |
-
-### Mikrobiologie, Virologie und Hygiene [2.2] für Studierende der Hebammenwissenschaften(B.Sc.) — Vorlesung
-
-- **Segment:** `unit:85739` · **unitId:** `85739`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85739&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### Rechtliche Grundlagen und berufliches Selbstverständnis II — Vorlesung
-
-- **Segment:** `unit:128928` · **unitId:** `128928`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128928&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 1.25
-- **Turnus:** nur im Sommersemester
 
 ### Schriftliche Übersetzungsleistung Latein I für Anfänger (Zulassungsvoraussetzung zu Kurs Latein II für Fortgeschrittene)
 

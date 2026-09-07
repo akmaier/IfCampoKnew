@@ -5,7 +5,7 @@ campo_segment: "title:18251"
 campo_path: "title:17593|title:17595|title:18251"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251"
 po_version_count: 2
-course_count: 342
+course_count: 298
 ---
 
 # Deutsch als Zweitsprache
@@ -26,7 +26,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Campo-Segment:** `exam:15909619`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14926263|exam:14926265|exam:14926266|exam:14926269|exam:14926309|exam:15909619>
 
-## Veranstaltungen (342)
+## Veranstaltungen (298)
 
 ### Alphabetisierung für Jugendliche und junge Erwachsene (vhb-Seminar) - Online-Kurs
 
@@ -62,16 +62,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:17856174` · **unitId:** `131455`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14929985|exam:14929986|exam:14929987|exam:14929988|exam:14929992|exam:17856174>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131455&periodId=589>
-
-- **Veranstaltungsart:** Online-Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-### Alphabetisierung für Jugendliche und junge Erwachsene (vhb-Seminar) - Online-Kurs
-
-- **Segment:** `exam:17855902` · **unitId:** `131455`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933535|exam:14933545|exam:17855902>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131455&periodId=589>
 
 - **Veranstaltungsart:** Online-Kurs
@@ -262,26 +252,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:14931762` · **unitId:** `92076`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14931756|exam:14931757|exam:14931758|exam:14931759|exam:14931760|exam:14931762>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92076&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Do | 14:00–15:30 | 16.04.2026 | 20301.U1.038 (U1.038 Seminarraum (50)) |
-| wöchentlich | Do | 14:00–15:30 | 16.04.2026–16.07.2026 | 75201.00.301 (St.Paul 00.301 Zeichensaal (100)) |
-| Einzeltermin | Do | 12:00–13:30 | 23.07.2026 | 20301.01.021 (1.021 Computerseminarraum (25)) |
-| Einzeltermin | Do | 14:00–15:30 | 23.07.2026 | 20301.01.021 (1.021 Computerseminarraum (25)) |
-
-### Einführung in die Didaktik des Deutschen als Zweitsprache - Vorlesung
-
-- **Segment:** `exam:17856601` · **unitId:** `92076`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933535|exam:14933536|exam:17856601>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92076&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
@@ -490,22 +460,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:00–15:30 | 13.04.2026–13.07.2026 | 75201.00.202 (St.Paul(V) 00.202 Seminarraum (20)) |
 
-### Mehrsprachigkeit im Anfängeruntericht - Seminar
-
-- **Segment:** `exam:14933548` · **unitId:** `119465`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933535|exam:14933545|exam:14933548>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119465&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:00–15:30 | 13.04.2026–13.07.2026 | 75201.00.202 (St.Paul(V) 00.202 Seminarraum (20)) |
-
 ### Ringvorlesung - Vorlesung
 
 - **Segment:** `exam:15800245` · **unitId:** `111579`
@@ -630,21 +584,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:14931771` · **unitId:** `111579`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14931756|exam:14931757|exam:14931758|exam:14931759|exam:14931769|exam:14931771>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111579&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 17:30–19:00 | 14.04.2026–14.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
-
-### Ringvorlesung - Vorlesung
-
-- **Segment:** `exam:14933552` · **unitId:** `111579`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933535|exam:14933545|exam:14933552>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111579&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
@@ -830,22 +769,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Di | 14:00–15:30 | 14.04.2026–14.07.2026 | 20301.02.047 (2.047 Seminarraum (40)) |
 
-### Sprachbewusstes fachliches Lernen - Seminar
-
-- **Segment:** `exam:15800358` · **unitId:** `135026`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933535|exam:14933545|exam:15800358>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135026&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–15:30 | 14.04.2026–14.07.2026 | 20301.02.047 (2.047 Seminarraum (40)) |
-
 ### Sprachförderung im Sommercamp - Vorbereitungsseminar - Seminar
 
 - **Segment:** `exam:14928344` · **unitId:** `111580`
@@ -869,25 +792,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:14931879` · **unitId:** `111580`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14931756|exam:14931757|exam:14931758|exam:14931759|exam:14931878|exam:14931879>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111580&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung | — | 14:00–17:15 | 08.05.2026 | — |
-| Blockveranstaltung | — | 14:00–17:15 | 12.06.2026 | — |
-| Blockveranstaltung | — | 14:00–17:15 | 26.06.2026 | — |
-| Blockveranstaltung | — | 14:00–17:15 | 10.07.2026 | — |
-| Blockveranstaltung | — | 14:00–17:15 | 31.07.2026 | — |
-
-### Sprachförderung im Sommercamp - Vorbereitungsseminar - Seminar
-
-- **Segment:** `exam:14933643` · **unitId:** `111580`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933535|exam:14933641|exam:14933643>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111580&periodId=589>
 
 - **Veranstaltungsart:** Seminar
@@ -1073,23 +977,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 
-### Sprachliche Bildung im Fachunterricht - Seminar
-
-- **Segment:** `exam:15799242` · **unitId:** `93847`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933535|exam:14933536|exam:15799242>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93847&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
-
 ### Sprachsystem und Deutsch als Zweitsprache (vhb-Tutorium) - Tutorium
 
 - **Segment:** `exam:14926355` · **unitId:** `90277`
@@ -1193,17 +1080,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:14931765` · **unitId:** `83912`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14931756|exam:14931757|exam:14931758|exam:14931759|exam:14931763|exam:14931765>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83912&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-### Sprachsystem und Deutsch als Zweitsprache (vhb-Vorlesung) - Vorlesung
-
-- **Segment:** `exam:15799886` · **unitId:** `83912`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933535|exam:14933539|exam:15799886>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83912&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
@@ -1373,18 +1249,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14931756|exam:14931757|exam:14931758|exam:14931882|exam:14931883|exam:14931884>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=63323&periodId=589>
 
-### 79376 Swahili
-
-- **Segment:** `exam:14933555` · **unitId:** `59393`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933535|exam:14933554|exam:14933555>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59393&periodId=589>
-
-### 79376 Swahili
-
-- **Segment:** `exam:14933648` · **unitId:** `59393`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933644|exam:14933647|exam:14933648>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59393&periodId=589>
-
 ### 79377 Arabisch
 
 - **Segment:** `exam:15770518` · **unitId:** `135050`
@@ -1444,18 +1308,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Segment:** `exam:14931889` · **unitId:** `65266`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14931756|exam:14931757|exam:14931758|exam:14931882|exam:14931883|exam:14931889>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65266&periodId=589>
-
-### 79377 Arabisch
-
-- **Segment:** `exam:14933560` · **unitId:** `56659`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933535|exam:14933554|exam:14933560>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56659&periodId=589>
-
-### 79377 Arabisch
-
-- **Segment:** `exam:14933653` · **unitId:** `56659`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933644|exam:14933647|exam:14933653>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56659&periodId=589>
 
 ### 79378 Aramäisch
 
@@ -1517,18 +1369,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14931756|exam:14931757|exam:14931758|exam:14931882|exam:14931883|exam:14931902>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56398&periodId=589>
 
-### 79378 Aramäisch
-
-- **Segment:** `exam:14933573` · **unitId:** `65505`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933535|exam:14933554|exam:14933573>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65505&periodId=589>
-
-### 79378 Aramäisch
-
-- **Segment:** `exam:14933666` · **unitId:** `65505`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933644|exam:14933647|exam:14933666>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65505&periodId=589>
-
 ### 79379 Hebräisch
 
 - **Segment:** `exam:15770586` · **unitId:** `135054`
@@ -1588,18 +1428,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Segment:** `exam:14931905` · **unitId:** `57651`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14931756|exam:14931757|exam:14931758|exam:14931882|exam:14931883|exam:14931905>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57651&periodId=589>
-
-### 79379 Hebräisch
-
-- **Segment:** `exam:14933576` · **unitId:** `68288`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933535|exam:14933554|exam:14933576>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68288&periodId=589>
-
-### 79379 Hebräisch
-
-- **Segment:** `exam:14933669` · **unitId:** `68288`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933644|exam:14933647|exam:14933669>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68288&periodId=589>
 
 ### 79380 Persisch
 
@@ -1661,18 +1489,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14931756|exam:14931757|exam:14931758|exam:14931882|exam:14931883|exam:14931908>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=61511&periodId=589>
 
-### 79380 Persisch
-
-- **Segment:** `exam:14933579` · **unitId:** `64415`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933535|exam:14933554|exam:14933579>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=64415&periodId=589>
-
-### 79380 Persisch
-
-- **Segment:** `exam:14933672` · **unitId:** `64415`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933644|exam:14933647|exam:14933672>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=64415&periodId=589>
-
 ### 79381 Türkisch
 
 - **Segment:** `exam:15770612` · **unitId:** `135058`
@@ -1732,18 +1548,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Segment:** `exam:14931911` · **unitId:** `56553`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14931756|exam:14931757|exam:14931758|exam:14931882|exam:14931883|exam:14931911>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56553&periodId=589>
-
-### 79381 Türkisch
-
-- **Segment:** `exam:14933582` · **unitId:** `65362`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933535|exam:14933554|exam:14933582>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65362&periodId=589>
-
-### 79381 Türkisch
-
-- **Segment:** `exam:14933675` · **unitId:** `65362`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933644|exam:14933647|exam:14933675>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65362&periodId=589>
 
 ### 79382 Chinesisch
 
@@ -1805,18 +1609,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14931756|exam:14931757|exam:14931758|exam:14931882|exam:14931883|exam:14931916>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=62703&periodId=589>
 
-### 79382 Chinesisch
-
-- **Segment:** `exam:14933587` · **unitId:** `60019`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933535|exam:14933554|exam:14933587>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=60019&periodId=589>
-
-### 79382 Chinesisch
-
-- **Segment:** `exam:14933680` · **unitId:** `60019`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933644|exam:14933647|exam:14933680>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=60019&periodId=589>
-
 ### 79383 Tschechisch
 
 - **Segment:** `exam:15770673` · **unitId:** `135062`
@@ -1876,18 +1668,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Segment:** `exam:14931921` · **unitId:** `60138`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14931756|exam:14931757|exam:14931758|exam:14931882|exam:14931883|exam:14931921>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=60138&periodId=589>
-
-### 79383 Tschechisch
-
-- **Segment:** `exam:14933592` · **unitId:** `62610`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933535|exam:14933554|exam:14933592>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=62610&periodId=589>
-
-### 79383 Tschechisch
-
-- **Segment:** `exam:14933685` · **unitId:** `62610`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933644|exam:14933647|exam:14933685>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=62610&periodId=589>
 
 ### 79384 Neugriechisch
 
@@ -1949,18 +1729,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14931756|exam:14931757|exam:14931758|exam:14931882|exam:14931883|exam:14931926>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57083&periodId=589>
 
-### 79384 Neugriechisch
-
-- **Segment:** `exam:14933597` · **unitId:** `65647`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933535|exam:14933554|exam:14933597>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65647&periodId=589>
-
-### 79384 Neugriechisch
-
-- **Segment:** `exam:14933690` · **unitId:** `65647`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933644|exam:14933647|exam:14933690>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65647&periodId=589>
-
 ### 79385 Polnisch
 
 - **Segment:** `exam:15771032` · **unitId:** `135067`
@@ -2020,18 +1788,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Segment:** `exam:14931929` · **unitId:** `57553`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14931756|exam:14931757|exam:14931758|exam:14931882|exam:14931883|exam:14931929>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57553&periodId=589>
-
-### 79385 Polnisch
-
-- **Segment:** `exam:14933600` · **unitId:** `68384`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933535|exam:14933554|exam:14933600>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68384&periodId=589>
-
-### 79385 Polnisch
-
-- **Segment:** `exam:14933693` · **unitId:** `68384`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933644|exam:14933647|exam:14933693>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68384&periodId=589>
 
 ### 79386 Rumänisch
 
@@ -2093,18 +1849,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14931756|exam:14931757|exam:14931758|exam:14931882|exam:14931883|exam:14931932>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66716&periodId=589>
 
-### 79386 Rumänisch
-
-- **Segment:** `exam:14933603` · **unitId:** `55958`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933535|exam:14933554|exam:14933603>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55958&periodId=589>
-
-### 79386 Rumänisch
-
-- **Segment:** `exam:14933696` · **unitId:** `55958`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933644|exam:14933647|exam:14933696>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55958&periodId=589>
-
 ### 79387 Russisch
 
 - **Segment:** `exam:15771070` · **unitId:** `135071`
@@ -2164,18 +1908,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Segment:** `exam:14931937` · **unitId:** `63488`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14931756|exam:14931757|exam:14931758|exam:14931882|exam:14931883|exam:14931937>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=63488&periodId=589>
-
-### 79387 Russisch
-
-- **Segment:** `exam:14933608` · **unitId:** `59220`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933535|exam:14933554|exam:14933608>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59220&periodId=589>
-
-### 79387 Russisch
-
-- **Segment:** `exam:14933701` · **unitId:** `59220`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933644|exam:14933647|exam:14933701>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59220&periodId=589>
 
 ### 79388 Wahlbereich I: Migration und historisches Lernen
 
@@ -2249,18 +1981,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14931756|exam:14931757|exam:14931758|exam:14931882|exam:14931883|exam:14931946>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=62462&periodId=589>
 
-### 79389 Spanisch
-
-- **Segment:** `exam:14933617` · **unitId:** `60241`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933535|exam:14933554|exam:14933617>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=60241&periodId=589>
-
-### 79389 Spanisch
-
-- **Segment:** `exam:14933710` · **unitId:** `60241`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933644|exam:14933647|exam:14933710>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=60241&periodId=589>
-
 ### 79390 Portugiesisch
 
 - **Segment:** `exam:15771130` · **unitId:** `135075`
@@ -2320,18 +2040,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Segment:** `exam:14931953` · **unitId:** `55673`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14931756|exam:14931757|exam:14931758|exam:14931882|exam:14931883|exam:14931953>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55673&periodId=589>
-
-### 79390 Portugiesisch
-
-- **Segment:** `exam:14933624` · **unitId:** `66225`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933535|exam:14933554|exam:14933624>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66225&periodId=589>
-
-### 79390 Portugiesisch
-
-- **Segment:** `exam:14933717` · **unitId:** `66225`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933644|exam:14933647|exam:14933717>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66225&periodId=589>
 
 ### 79391 Italienisch
 
@@ -2393,18 +2101,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14931756|exam:14931757|exam:14931758|exam:14931882|exam:14931883|exam:14931958>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=58113&periodId=589>
 
-### 79391 Italienisch
-
-- **Segment:** `exam:14933629` · **unitId:** `66994`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933535|exam:14933554|exam:14933629>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66994&periodId=589>
-
-### 79391 Italienisch
-
-- **Segment:** `exam:14933722` · **unitId:** `66994`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933644|exam:14933647|exam:14933722>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66994&periodId=589>
-
 ### 79392 Schwedisch
 
 - **Segment:** `exam:15771178` · **unitId:** `135079`
@@ -2464,18 +2160,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Segment:** `exam:14931965` · **unitId:** `59053`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14931756|exam:14931757|exam:14931758|exam:14931882|exam:14931883|exam:14931965>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59053&periodId=589>
-
-### 79392 Schwedisch
-
-- **Segment:** `exam:14933636` · **unitId:** `62820`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933535|exam:14933554|exam:14933636>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=62820&periodId=589>
-
-### 79392 Schwedisch
-
-- **Segment:** `exam:14933729` · **unitId:** `62820`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933644|exam:14933647|exam:14933729>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=62820&periodId=589>
 
 ### 79393 Französisch
 
@@ -2548,21 +2232,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Segment:** `exam:14926294` · **unitId:** `131711`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14926263|exam:14926265|exam:14926266|exam:14926269|exam:14926270|exam:14926294>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131711&periodId=589>
-
-### 93501 Grundlagen des Deutschen als Zweitsprache - Leistung
-
-- **Segment:** `exam:14933537` · **unitId:** `43552`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933535|exam:14933536|exam:14933537>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43552&periodId=589>
-
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | 14:00–15:30 | 07.06.2026 23:59:59 | — |
 
 ### 93521 Grundlagenmodul I DaZ - Leistung
 
@@ -2944,36 +2613,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | Mi | Mi | — | 07.06.2026 23:59:59 | — |
 
-### 93701 Lehren und Lernen in der zweiten Sprache - Leistung
-
-- **Segment:** `exam:14933546` · **unitId:** `43554`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933535|exam:14933545|exam:14933546>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43554&periodId=589>
-
-- **ECTS-Punkte:** 15.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | — | 07.06.2026 23:59:59 | — |
-
-### 93711 Sprachvergleich unter didaktischen Aspekten - Leistung
-
-- **Segment:** `exam:14933646` · **unitId:** `46614`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933644|exam:14933645|exam:14933646>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46614&periodId=589>
-
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | — | 07.06.2026 23:59:59 | — |
-
 ### 93731 Vertiefungsmodul II DaZ (für nachträglich Studierende) - Leistung
 
 - **Segment:** `exam:14926676` · **unitId:** `111810`
@@ -3079,21 +2718,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:14931881` · **unitId:** `43775`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14931756|exam:14931757|exam:14931758|exam:14931759|exam:14931878|exam:14931881>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43775&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | — | 07.06.2026 23:59:59 | — |
-
-### 93951 Praktikumsbericht - Leistung
-
-- **Segment:** `exam:14933642` · **unitId:** `43775`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18251|exam:14933532|exam:14933533|exam:14933534|exam:14933535|exam:14933641|exam:14933642>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43775&periodId=589>
 
 - **ECTS-Punkte:** 5.0
@@ -3299,17 +2923,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | 05902.00.015 ( 00.15 PSG) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (65)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (54)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
-
-### Analyse von Lehrmaterialien und Aufgabenstellungen — Seminar
-
-- **Segment:** `unit:94874` · **unitId:** `94874`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94874&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nur im Wintersemester
 
 ### Arabisch: Elementarkurs II
 
@@ -3352,7 +2968,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120234&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Di | 17:30–19:00 | 14.04.2026 | — |
 
 ### Chinesisch Elementarkurs 1
 
@@ -3409,21 +3032,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Do | Do | 16:30–18:00 | — | — |
-
-### Der Poetische Realismus — Hauptseminar
-
-- **Segment:** `unit:118761` · **unitId:** `118761`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118761&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-
-### Diagnosegestützte Sprachförderung in der Schule — Seminar
-
-- **Segment:** `unit:93360` · **unitId:** `93360`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93360&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nur im Wintersemester
 
 ### Dramatik der Gegenwart — Hauptseminar
 
@@ -3486,12 +3094,19 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Sa | Sa | 12:15–13:45 | — | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
 
-### Friedrich Schiller- Werk und Rezeption (NDL VM-1&NDL VM-2) — Hauptseminar
+### Grundlagen des Deutschen als Zweitsprache
 
-- **Segment:** `unit:130328` · **unitId:** `130328`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130328&periodId=589>
+- **Segment:** `unit:43552` · **unitId:** `43552`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43552&periodId=589>
 
-- **Veranstaltungsart:** Hauptseminar
+- **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | Do | 14:00–15:30 | 07.06.2026 23:59:59 | — |
 
 ### Hebräisch: Elementarkurs II
 
@@ -3506,14 +3121,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### Interkulturelle Bildung, Werteerziehung — Seminar
-
-- **Segment:** `unit:122735` · **unitId:** `122735`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122735&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nur im Wintersemester
 
 ### Italienisch Elementarkurs 1
 
@@ -3609,13 +3216,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | 15:00–18:00 | 07.06.2026 23:59:59 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
 
-### Kontroversen zur Kinder- und Jugendliteratur (Nürnberg: nur GS/MS/RS/Berufl.Schulen) — Hauptseminar
-
-- **Segment:** `unit:123939` · **unitId:** `123939`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123939&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-
 ### Latein I für Anfänger (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
 - **Segment:** `unit:96547` · **unitId:** `96547`
@@ -3648,13 +3248,19 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
 | wöchentlich | Mi | 16:00–18:00 | 15.04.2026–15.07.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
 
-### Latein II für Fortgeschrittene - Intensivkurs (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
+### Lehren und Lernen in der zweiten Sprache
 
-- **Segment:** `unit:89729` · **unitId:** `89729`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89729&periodId=589>
+- **Segment:** `unit:43554` · **unitId:** `43554`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43554&periodId=589>
 
-- **Veranstaltungsart:** Übung
-- **Turnus:** Unregelmäßig
+- **ECTS-Punkte:** 15.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | — | 07.06.2026 23:59:59 | — |
 
 ### Ling VM 2: Gegenwartssprache/DaF (HS): (Fremd-)Spracherwerb - Was können wir aus den Spracherwerbstheorien für die Sprachvermittlung lernen? — Hauptseminar
 
@@ -3681,29 +3287,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Hauptseminar
 - **Turnus:** in jedem Semester
-
-### Ling VM-Hauptseminar: Sprachwandel/Variation (Erlangen, nur für BA, LA Gym und Berufliche Schulen)
-
-- **Segment:** `unit:119353` · **unitId:** `119353`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119353&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** in jedem Semester
-
-### Ling VM-Kolleg (Erlangen, Live-Stream zum Campus Regensburger Straße in Nbg.)
-
-- **Segment:** `unit:87183` · **unitId:** `87183`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87183&periodId=589>
-
-- **Veranstaltungsart:** Kolleg
-- **Turnus:** in jedem Semester
-
-### Medien im DaZ-Unterricht — Seminar
-
-- **Segment:** `unit:119471` · **unitId:** `119471`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119471&periodId=589>
-
-- **Veranstaltungsart:** Seminar
 
 ### Neugriechisch: Elementarkurs II
 
@@ -3800,15 +3383,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Fr | Fr | 14:30–16:00 | — | 54201.00.010 (SR 1 Studienzentrum) |
 
-### Ringvorlesung Deutsch als Zweitsprache (Tutorium/Seminar) — Sonstige Lehrveranstaltung
-
-- **Segment:** `unit:84131` · **unitId:** `84131`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84131&periodId=589>
-
-- **Veranstaltungsart:** Sonstige Lehrveranstaltung
-- **ECTS-Punkte:** 1.0
-- **Turnus:** in jedem Semester
-
 ### Russisch A1: Elementarkurs I
 
 - **Segment:** `unit:37632` · **unitId:** `37632`
@@ -3878,21 +3452,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Fr | Fr | 15:00–16:00 | — | — |
-
-### Schreiben - Lesen - Umgang mit Fehlern - Grundlagen eines jeden Unterrichts — Seminar
-
-- **Segment:** `unit:119470` · **unitId:** `119470`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119470&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
-### Schreiben zwischen DaZ- und Regelunterricht — Seminar
-
-- **Segment:** `unit:111576` · **unitId:** `111576`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111576&periodId=589>
-
-- **Veranstaltungsart:** Seminar
 
 ### Schriftliche Übersetzungsleistung Latein I für Anfänger (Zulassungsvoraussetzung zu Kurs Latein II für Fortgeschrittene)
 
@@ -4006,13 +3565,19 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Fr | Fr | 14:30–16:00 | — | 05801.U1.0232 (SL 104, Bismarckstr. 1 Multimedia-Sprachlabor (Belegung nur nach Rücksprache mit den Raumverantwortlichen)) |
 
-### Sprachvermittlung und literar-ästhestisches Lernen — Seminar
+### Sprachvergleich unter didaktischen Aspekten
 
-- **Segment:** `unit:122725` · **unitId:** `122725`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122725&periodId=589>
+- **Segment:** `unit:46614` · **unitId:** `46614`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46614&periodId=589>
 
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
+- **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | — | 07.06.2026 23:59:59 | — |
 
 ### Tschechisch: Elementarkurs II
 

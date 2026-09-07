@@ -4,8 +4,8 @@ period_name: "Wintersemester 2025/26"
 campo_segment: "title:16812"
 campo_path: "title:16758|title:16765|title:16812"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812"
-po_version_count: 16
-course_count: 228
+po_version_count: 14
+course_count: 197
 fau_studiengang:
   - title: "Molecular Science (B.Sc.)"
     rel_path: "studiengang/molecular-science-b-sc.md"
@@ -337,7 +337,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (16)
+## Prüfungsordnungs-Versionen (14)
 
 ### 12010 Schlüsselqualifikationen
 
@@ -368,11 +368,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Campo-Segment:** `exam:13538410`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17003|exam:13538315|exam:13538317|exam:13538319|exam:13538409|exam:13538410>
-
-### 1710 Vertiefungsrichtung Nano Science
-
-- **Campo-Segment:** `exam:13541344`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17003|exam:13541338|exam:13541340|exam:13541342|exam:13541343|exam:13541344>
 
 ### 1711 Advances in Bio-Organic and Bio-Inorganic Chemistry
 
@@ -409,17 +404,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Campo-Segment:** `exam:13538438`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17003|exam:13538315|exam:13538317|exam:13538319|exam:13538409|exam:13538438>
 
-### 1720 Vertiefungsrichtung Life Science
-
-- **Campo-Segment:** `exam:13541363`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17003|exam:13541338|exam:13541340|exam:13541342|exam:13541343|exam:13541363>
-
 ### Research Module - lab project in your focus dicipline, pls check with the supervising Professors directly
 
 - **Campo-Segment:** `title:17014`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17004|title:17014>
 
-## Veranstaltungen (228)
+## Veranstaltungen (197)
 
 ### (DD-Bio) - Biology-informed drug discovery - Vorlesung
 
@@ -427,7 +417,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17004|title:17017|title:17018|exam:13548912>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90260&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -510,24 +502,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### Experimentalphysik für Naturwissenschaftler I - Vorlesung
 
-- **Segment:** `exam:13541455` · **unitId:** `87813`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17003|exam:13541338|exam:13541340|exam:13541342|exam:13541453|exam:13541455>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87813&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 08:15–09:45 | 20.10.2025–02.02.2026 | 13003.00.874 (HD Hörsaal Physikum) |
-| wöchentlich | Mi | 08:15–09:45 | 15.10.2025–04.02.2026 | 13003.00.874 (HD Hörsaal Physikum) |
-
-### Experimentalphysik für Naturwissenschaftler I - Vorlesung
-
 - **Segment:** `exam:13548991` · **unitId:** `87813`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17005|title:17007|exam:13548989|exam:13548991>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87813&periodId=565>
@@ -565,26 +539,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:13538329` · **unitId:** `86543`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17003|exam:13538315|exam:13538317|exam:13538319|exam:13538328|exam:13538329>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86543&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 12:00–14:00 | 13.10.2025–02.02.2026 | 13003.00.847 (HE Hörsaal Physikum) |
-| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 12801.01.210 (H11) |
-| wöchentlich | Mo | 12:00–14:00 | 08.12.2025–19.01.2026 | 12801.01.230 (H13 Johann-Radon-Hörsaal) |
-| Einzeltermin | Mo | 12:00–14:00 | 26.01.2026 | — |
-| Einzeltermin | Mo | 12:00–14:00 | 02.02.2026 | 12801.01.230 (H13 Johann-Radon-Hörsaal) |
-
-### Mathematik für Naturwissenschaften - Vorlesung mit Übung
-
-- **Segment:** `exam:13541450` · **unitId:** `86543`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17003|exam:13541338|exam:13541340|exam:13541342|exam:13541449|exam:13541450>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86543&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
@@ -671,7 +625,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17005|title:17010|title:17011|exam:13549091|exam:13549095>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118324&periodId=565>
 
+- **Veranstaltungsart:** Praktikum
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -729,22 +685,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### Übungen zur Experimentalphysik für Naturwissenschaftler I - Übung
 
-- **Segment:** `exam:13541454` · **unitId:** `85325`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17003|exam:13541338|exam:13541340|exam:13541342|exam:13541453|exam:13541454>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85325&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 08:15–09:45 | 24.10.2025–06.02.2026 | 13101.00.732 (SR 00.732 Seminarraum der Didaktik der Physik) |
-
-### Übungen zur Experimentalphysik für Naturwissenschaftler I - Übung
-
 - **Segment:** `exam:13548990` · **unitId:** `85325`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17005|title:17007|exam:13548989|exam:13548990>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85325&periodId=565>
@@ -763,22 +703,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:13538331` · **unitId:** `86879`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17003|exam:13538315|exam:13538317|exam:13538319|exam:13538328|exam:13538331>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86879&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 16:00–17:30 | 13.10.2025–02.02.2026 | 13003.U1.850 (SR Biologie Seminarraum Biologie Nr. U1.850 (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
-
-### Übungen zur Mathematik für Naturwissenschaftler - Übung
-
-- **Segment:** `exam:13541452` · **unitId:** `86879`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17003|exam:13541338|exam:13541340|exam:13541342|exam:13541449|exam:13541452>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86879&periodId=565>
 
 - **Veranstaltungsart:** Übung
@@ -824,12 +748,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:13543026` · **unitId:** `128587`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17003|exam:13542894|exam:13542895|exam:13542896|exam:13543020|exam:13543026>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128587&periodId=565>
-
-### 1999 Bachelorarbeit (B.Sc. Molecular Science 2013)
-
-- **Segment:** `exam:13541379` · **unitId:** `37378`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17003|exam:13541338|exam:13541340|exam:13541342|exam:13541379>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37378&periodId=565>
 
 ### 1999 Bachelorarbeit (B.Sc. Molecular Science 20202)
 
@@ -1329,6 +1247,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17005|title:17010|title:17012|exam:13549046|exam:13549049>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71622&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -1386,21 +1305,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:13538330` · **unitId:** `23733`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17003|exam:13538315|exam:13538317|exam:13538319|exam:13538328|exam:13538330>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23733&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | 10:15–11:45 | — | 05801.U1.060 ( Audimax Auditorium Maximum) |
-
-### 46401 Klausur Mathematik für Naturwissenschaftler - Leistung
-
-- **Segment:** `exam:13541451` · **unitId:** `23733`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17003|exam:13541338|exam:13541340|exam:13541342|exam:13541449|exam:13541451>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23733&periodId=565>
 
 - **ECTS-Punkte:** 5.0
@@ -1625,18 +1529,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17005|title:17009|exam:13548973>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71580&periodId=565>
 
-### 62023 Quantitative Analytische Chemie
-
-- **Segment:** `exam:13541385` · **unitId:** `67311`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17003|exam:13541338|exam:13541340|exam:13541342|exam:13541385>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=67311&periodId=565>
-
-### 62024 Qualitative Analytische Chemie
-
-- **Segment:** `exam:13541387` · **unitId:** `67147`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17003|exam:13541338|exam:13541340|exam:13541342|exam:13541387>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=67147&periodId=565>
-
 ### 62029 Organische Chemie 1
 
 - **Segment:** `exam:13538348` · **unitId:** `71523`
@@ -1709,18 +1601,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17005|title:17008|exam:13549030>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71556&periodId=565>
 
-### 62042 Anorganische Chemie - Chemie der Metalle
-
-- **Segment:** `exam:13541389` · **unitId:** `67433`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17003|exam:13541338|exam:13541340|exam:13541342|exam:13541389>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=67433&periodId=565>
-
-### 62043 Anorganisch Präparative Chemie
-
-- **Segment:** `exam:13541392` · **unitId:** `61598`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17003|exam:13541338|exam:13541340|exam:13541342|exam:13541392>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=61598&periodId=565>
-
 ### 62045 Präparativ Anorganische Chemie
 
 - **Segment:** `exam:13538363` · **unitId:** `71529`
@@ -1744,102 +1624,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:17701361` · **unitId:** `138113`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17003|exam:13538315|exam:13538317|exam:13538319|exam:17701361>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138113&periodId=565>
-
-### 62105 Organisches Praktikum
-
-- **Segment:** `exam:13541394` · **unitId:** `57573`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17003|exam:13541338|exam:13541340|exam:13541342|exam:13541394>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57573&periodId=565>
-
-### 62106 Organische Chemie
-
-- **Segment:** `exam:13541396` · **unitId:** `66291`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17003|exam:13541338|exam:13541340|exam:13541342|exam:13541396>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66291&periodId=565>
-
-### 62115 Physikalische Chemie 3 - Praktikum für Anfänger
-
-- **Segment:** `exam:13541398` · **unitId:** `65448`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17003|exam:13541338|exam:13541340|exam:13541342|exam:13541398>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65448&periodId=565>
-
-### 62117 Physikalische Chemie 1 - Thermodynamik und Elektrochemie
-
-- **Segment:** `exam:13541400` · **unitId:** `60048`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17003|exam:13541338|exam:13541340|exam:13541342|exam:13541400>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=60048&periodId=565>
-
-### 62118 Physikalische Chemie 2a - Aufbau der Materie
-
-- **Segment:** `exam:13541402` · **unitId:** `62526`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17003|exam:13541338|exam:13541340|exam:13541342|exam:13541402>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=62526&periodId=565>
-
-### 62119 Physikalische Chemie 2b - Kinetik
-
-- **Segment:** `exam:13541404` · **unitId:** `57917`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17003|exam:13541338|exam:13541340|exam:13541342|exam:13541404>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57917&periodId=565>
-
-### 62123 Theoretische Chemie 1
-
-- **Segment:** `exam:13541406` · **unitId:** `61179`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17003|exam:13541338|exam:13541340|exam:13541342|exam:13541406>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=61179&periodId=565>
-
-### 62124 Theoretische Chemie 2
-
-- **Segment:** `exam:13541408` · **unitId:** `65925`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17003|exam:13541338|exam:13541340|exam:13541342|exam:13541408>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65925&periodId=565>
-
-### 62126 Computational Molecular Chemistry
-
-- **Segment:** `exam:13541410` · **unitId:** `34115`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17003|exam:13541338|exam:13541340|exam:13541342|exam:13541410>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=34115&periodId=565>
-
-### 62142 Mechanismen und Stereochemie OC
-
-- **Segment:** `exam:13541412` · **unitId:** `56580`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17003|exam:13541338|exam:13541340|exam:13541342|exam:13541412>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56580&periodId=565>
-
-### 62143 Mechanismen und Stereochemie AC
-
-- **Segment:** `exam:13541415` · **unitId:** `60841`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17003|exam:13541338|exam:13541340|exam:13541342|exam:13541415>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=60841&periodId=565>
-
-### 62963 Allgemeine Organische Chemie
-
-- **Segment:** `exam:13541429` · **unitId:** `56895`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17003|exam:13541338|exam:13541340|exam:13541342|exam:13541429>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=56895&periodId=565>
-
-### 62964 Allgemeine Anorganische Chemie
-
-- **Segment:** `exam:13541432` · **unitId:** `59737`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17003|exam:13541338|exam:13541340|exam:13541342|exam:13541432>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59737&periodId=565>
-
-### 63034 Molekülsynthesen
-
-- **Segment:** `exam:13541434` · **unitId:** `37678`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17003|exam:13541338|exam:13541340|exam:13541342|exam:13541434>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37678&periodId=565>
-
-### 63035 Molekülchemisches Praktikum AC
-
-- **Segment:** `exam:13541442` · **unitId:** `37679`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17003|exam:13541338|exam:13541340|exam:13541342|exam:13541442>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37679&periodId=565>
-
-### 63036 Molekülchemisches Praktikum OC
-
-- **Segment:** `exam:13541445` · **unitId:** `37680`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17003|exam:13541338|exam:13541340|exam:13541342|exam:13541445>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37680&periodId=565>
 
 ### 63069 Research Lab - Drug Discovery
 
@@ -1870,21 +1654,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 63801 Experimentalphysik I - Leistung
 
-- **Segment:** `exam:13541456` · **unitId:** `22510`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17003|exam:13541338|exam:13541340|exam:13541342|exam:13541453|exam:13541456>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=22510&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | 09:00–10:30 | — | 11906.01.040 (H20) |
-
-### 63801 Experimentalphysik I - Leistung
-
 - **Segment:** `exam:13548992` · **unitId:** `22510`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17005|title:17007|exam:13548989|exam:13548992>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=22510&periodId=565>
@@ -1902,21 +1671,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:13538362` · **unitId:** `22511`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17003|exam:13538315|exam:13538317|exam:13538319|exam:13538359|exam:13538362>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=22511&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | 09:00–10:30 | — | 11907.01.040 (H18) |
-
-### 63802 Experimentalphysik II - Leistung
-
-- **Segment:** `exam:13541460` · **unitId:** `22511`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17003|exam:13541338|exam:13541340|exam:13541342|exam:13541457|exam:13541460>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=22511&periodId=565>
 
 - **ECTS-Punkte:** 5.0
@@ -2016,38 +1770,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:13538388` · **unitId:** `82746`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17003|exam:13538315|exam:13538317|exam:13538319|exam:13538387|exam:13538388>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82746&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 08:15–09:45 | 15.10.2025–04.02.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
-
-### BCNF1 - Einführung in die Biochemie für Naturwisschenschaftler und Techniker Teil1 - Vorlesung
-
-- **Segment:** `exam:13541420` · **unitId:** `82746`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17003|exam:13541338|exam:13541340|exam:13541342|exam:13541419|exam:13541420>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82746&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 08:15–09:45 | 15.10.2025–04.02.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
-
-### BCNF1 - Einführung in die Biochemie für Naturwisschenschaftler und Techniker Teil1 - Vorlesung
-
-- **Segment:** `exam:13541425` · **unitId:** `82746`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17003|exam:13541338|exam:13541340|exam:13541342|exam:13541424|exam:13541425>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82746&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
@@ -2186,7 +1908,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17004|title:17017|title:17018|exam:13548915>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82876&periodId=565>
 
+- **Veranstaltungsart:** Praktikum
+- **ECTS-Punkte:** 10.0
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -2216,7 +1941,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17004|title:17017|title:17018|exam:13548911>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82410&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung mit Übung
 - **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -3258,22 +2985,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### Tox/Recht - Grundlagen der Gefahrstoffverordnung - Vorlesung
 
-- **Segment:** `exam:13541382` · **unitId:** `82487`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17003|exam:13541338|exam:13541340|exam:13541342|exam:13541381|exam:13541382>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82487&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:00–11:45 | 14.10.2025–03.02.2026 | 13301.U1.0171 (C1 - Chemikum) |
-
-### Tox/Recht - Grundlagen der Gefahrstoffverordnung - Vorlesung
-
 - **Segment:** `exam:13548949` · **unitId:** `82487`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16812|title:17005|title:17006|exam:13548948|exam:13548949>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82487&periodId=565>
@@ -3304,40 +3015,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 10:00–11:45 | 14.10.2025–03.02.2026 | 13301.U1.0171 (C1 - Chemikum) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (59)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (24)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
-
-### Advanced Bioinorganic Chemistry, Metalloenzymes and Metals in Medicine - Seminar
-
-- **Segment:** `unit:123949` · **unitId:** `123949`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123949&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 14:00–14:45 | 24.10.2025–06.02.2026 | 11201.U1.049 (A00.14 Seminarraum) |
-
-### Advanced Biomolecular Simulations (2V/1UE) — Vorlesung mit Übung
-
-- **Segment:** `unit:95965` · **unitId:** `95965`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95965&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Turnus:** nur im Sommersemester
-
-### Allgemeine Genetik für  MoWi — Vorlesung
-
-- **Segment:** `unit:82971` · **unitId:** `82971`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82971&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** in jedem Semester
 
 ### Anorganische Chemie 2 - Chemie der Metalle — Vorlesung mit Übung
 
@@ -3354,15 +3034,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85726&periodId=565>
 
 - **Veranstaltungsart:** Übung
-- **Turnus:** nur im Sommersemester
-
-### Biomolecules and metal ions — Vorlesung
-
-- **Segment:** `unit:98111` · **unitId:** `98111`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98111&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
 ### Carbon allotropes: from characterization to applications — Vorlesung
@@ -3403,70 +3074,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 11:15–12:00 | 13.10.2025–02.02.2026 | 13301.01.0241 (C4 - Chemikum) |
 
-### Chemie und Technologie der Lebensmittel, Teil 2, 5, 6 oder 9 — Vorlesung
+### Grundlagen der Nanowissenschaften — Vorlesung
 
-- **Segment:** `unit:84796` · **unitId:** `84796`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84796&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** in jedem Semester
-
-### Einführung in die Biochemie für Naturwissenschaftler Teil2 — Vorlesung
-
-- **Segment:** `unit:84927` · **unitId:** `84927`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84927&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Sommersemester
-
-### Einführung in die Nanowissenschaften — Vorlesung
-
-- **Segment:** `unit:82749` · **unitId:** `82749`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82749&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** in jedem Semester
-
-### Experimentalphysik für Naturwissenschaftler II — Vorlesung
-
-- **Segment:** `unit:87295` · **unitId:** `87295`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87295&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### Heterocyclic Chemistry — Vorlesung mit Übung
-
-- **Segment:** `unit:120354` · **unitId:** `120354`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120354&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### HZB Photon School - Advanced synchrotron-based photon science methods — Vorlesung
-
-- **Segment:** `unit:115689` · **unitId:** `115689`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115689&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Wintersemester
-
-### Inorganic Nanoparticles & Supraparticles — Vorlesung
-
-- **Segment:** `unit:97570` · **unitId:** `97570`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97570&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Sommersemester
-
-### Integrierter Kurs Angewandte Spektroskopie II — Vorlesung
-
-- **Segment:** `unit:96152` · **unitId:** `96152`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96152&periodId=565>
+- **Segment:** `unit:92967` · **unitId:** `92967`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92967&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Sommersemester
@@ -3541,29 +3152,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
-### Metalle in der Medizin für Molekularwissenschaftler / Metalloenzymes and Metals in Medicine — Vorlesung
+### Medical Life Sciences — Vorlesung
 
-- **Segment:** `unit:97887` · **unitId:** `97887`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97887&periodId=565>
+- **Segment:** `unit:118165` · **unitId:** `118165`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118165&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
-- **Turnus:** in jedem Semester
-
-### Metallic Nanoparticles in Medicine — Vorlesung mit Übung
-
-- **Segment:** `unit:82299` · **unitId:** `82299`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82299&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
 - **Turnus:** nur im Sommersemester
-
-### Metallorganische Chemie der Haupt- und Nebengruppenelemente — Vorlesung
-
-- **Segment:** `unit:83907` · **unitId:** `83907`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83907&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
 
 ### Modelling & Simulations — Vorlesung
 
@@ -3573,76 +3168,18 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Sommersemester
 
-### Molecular Modeling PRA — Vorlesung mit Übung
+### Molekülchemisches Praktikum AC
 
-- **Segment:** `unit:82368` · **unitId:** `82368`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82368&periodId=565>
+- **Segment:** `unit:94669` · **unitId:** `94669`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94669&periodId=565>
 
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Turnus:** nur im Sommersemester
-
-### Molecular Nano Science (summer semester) — Seminar
-
-- **Segment:** `unit:99581` · **unitId:** `99581`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99581&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nur im Sommersemester
-
-### Molecular Switches and Molecular Machines — Vorlesung mit Übung
-
-- **Segment:** `unit:83134` · **unitId:** `83134`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83134&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Turnus:** nur im Sommersemester
-
-### Nanoprobes — Seminar
-
-- **Segment:** `unit:95177` · **unitId:** `95177`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95177&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nur im Sommersemester
+- **Veranstaltungsart:** Praktikum
+- **Turnus:** in jedem Semester
 
 ### Neurotech: Physics and Chemistry of Neuromodulation Technologies — Vorlesung mit Übung
 
 - **Segment:** `unit:82551` · **unitId:** `82551`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82551&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### Organic Thin Films — Vorlesung mit Übung
-
-- **Segment:** `unit:85658` · **unitId:** `85658`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85658&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 16:15–18:30 | 20.10.2025–02.02.2026 | 11201.00.11311 (0.113-12 Seminarraum 0.113-12) |
-
-### Organische Reaktionsmechanismen + Stereochemie — Vorlesung
-
-- **Segment:** `unit:86432` · **unitId:** `86432`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86432&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Organometallic Catalysis — Vorlesung mit Übung
-
-- **Segment:** `unit:89807` · **unitId:** `89807`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89807&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
@@ -3656,58 +3193,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Praktikum
 - **Turnus:** in jedem Semester
 
-### Physikalische Chemie 1 — Vorlesung
-
-- **Segment:** `unit:93098` · **unitId:** `93098`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93098&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### Physikalische Chemie 1 - Übung
-
-- **Segment:** `unit:89032` · **unitId:** `89032`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89032&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Sommersemester
-
-### Physikalische Chemie 3 — Vorlesung
-
-- **Segment:** `unit:85767` · **unitId:** `85767`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85767&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### Praktikum Molecular Nano Science
-
-- **Segment:** `unit:119217` · **unitId:** `119217`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119217&periodId=565>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 10.0
-- **Turnus:** nur im Sommersemester
-
-### Praktikum Molecular Nano Science 1 — Praxisseminar
-
-- **Segment:** `unit:99844` · **unitId:** `99844`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99844&periodId=565>
-
-- **Veranstaltungsart:** Praxisseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### Praktikum Organische Chemie - Seminar
-
-- **Segment:** `unit:90534` · **unitId:** `90534`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90534&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nur im Sommersemester
-
 ### Präparative Anorganische Chemie - Praktikum
 
 - **Segment:** `unit:83770` · **unitId:** `83770`
@@ -3715,14 +3200,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
-
-### Quantitative analytische Chemie - Praktikum
-
-- **Segment:** `unit:86977` · **unitId:** `86977`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86977&periodId=565>
-
-- **Veranstaltungsart:** Praktikum
 - **Turnus:** nur im Sommersemester
 
 ### Quantum Chemistry 2 — Vorlesung mit Übung
@@ -3758,14 +3235,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | nach Vereinbarung | — | — | — | — |
-
-### Schlüsselreaktionen in der OC — Seminar
-
-- **Segment:** `unit:95898` · **unitId:** `95898`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95898&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nur im Wintersemester
 
 ### Schriftliche Übersetzungsleistung Latein I für Anfänger (Zulassungsvoraussetzung zu Kurs Latein II für Fortgeschrittene)
 
@@ -3811,31 +3280,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Fr | 12:15–13:45 | 17.10.2025–06.02.2026 | 08801.00.020 ( Seminarraum ZMPT 00.[Telefon entfernt].00.030 ( Hörsaal - Studienzentrum Stintzingstraße) |
 
-### Stereoselective Synthesis — Vorlesung mit Übung
-
-- **Segment:** `unit:120352` · **unitId:** `120352`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120352&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### Synthesechemie OC/Molekülsynthesen OC — Vorlesung
-
-- **Segment:** `unit:85066` · **unitId:** `85066`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85066&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Sommersemester
-
-### Synthesechemie PRA OC/Molekülsynthesen PRA OC — Praktikum
-
-- **Segment:** `unit:86459` · **unitId:** `86459`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86459&periodId=565>
-
-- **Veranstaltungsart:** Praktikum
-- **Turnus:** in jedem Semester
-
 ### Theoretische Chemie 1 — Vorlesung
 
 - **Segment:** `unit:83765` · **unitId:** `83765`
@@ -3843,45 +3287,4 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### Theoretische Chemie 1 - Übung
-
-- **Segment:** `unit:82186` · **unitId:** `82186`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82186&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Sommersemester
-
-### Theory of Surface Phenomena / Theorie der Oberflächenphänomene — Vorlesung mit Übung
-
-- **Segment:** `unit:83617` · **unitId:** `83617`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83617&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### Tutorium Retrosynthese
-
-- **Segment:** `unit:99876` · **unitId:** `99876`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99876&periodId=565>
-
-- **Veranstaltungsart:** Tutorium
-- **Turnus:** nur im Wintersemester
-
-### Tutorium zur Synthesechemie/Molekülsynthesen OC
-
-- **Segment:** `unit:90748` · **unitId:** `90748`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90748&periodId=565>
-
-- **Veranstaltungsart:** Tutorium
-- **Turnus:** nur im Sommersemester
-
-### Übungen zur Experimentalphysik für Naturwissenschaftler II
-
-- **Segment:** `unit:86987` · **unitId:** `86987`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86987&periodId=565>
-
-- **Veranstaltungsart:** Übung
 - **Turnus:** nur im Sommersemester

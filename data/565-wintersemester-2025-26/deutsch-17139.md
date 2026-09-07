@@ -5,7 +5,7 @@ campo_segment: "title:17139"
 campo_path: "title:16758|title:16763|title:17139"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139"
 po_version_count: 21
-course_count: 1002
+course_count: 976
 ---
 
 # Deutsch
@@ -121,7 +121,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Campo-Segment:** `title:17297`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|title:17297>
 
-## Veranstaltungen (1002)
+## Veranstaltungen (976)
 
 ### Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten) - Seminar
 
@@ -871,25 +871,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### Basismodul Fachdidaktik Deutsch: Einführung in die Literatur-, Sprach- und Mediendidaktik Deutsch - Seminar und Übung
 
-- **Segment:** `exam:12786155` · **unitId:** `91933`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12786097|exam:12786150|exam:12786151|exam:12786152|exam:12786155>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91933&periodId=565>
-
-- **Veranstaltungsart:** Seminar und Übung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Sa | 09:00–18:00 | 11.10.2025 | 20301.01.042 (1.042 großer Hörsaal (230)) |
-| wöchentlich | Mo | 17:30–19:00 | 13.10.2025–15.12.2025 | — |
-| wöchentlich | Mo | 17:30–19:00 | 13.10.2025–15.12.2025 | 20301.01.042 (1.042 großer Hörsaal (230)) |
-
-### Basismodul Fachdidaktik Deutsch: Einführung in die Literatur-, Sprach- und Mediendidaktik Deutsch - Seminar und Übung
-
 - **Segment:** `exam:12786335` · **unitId:** `91933`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12786179|exam:12786326|exam:12786332|exam:12786335>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91933&periodId=565>
@@ -1399,23 +1380,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:13726097` · **unitId:** `130310`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12785975|exam:12785981|exam:12786058|exam:13726097>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130310&periodId=565>
-
-- **Veranstaltungsart:** Praxisseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 09:00–12:00 | 15.10.2025–03.12.2025 | 05801.04.310 ( C 603) |
-| Einzeltermin | Di | 18:00–20:00 | 18.11.2025 | — |
-
-### Energy meets Crisis. Climate Fiction in der Gegenwart (Praxisseminar) - Praxisseminar
-
-- **Segment:** `exam:13698425` · **unitId:** `130310`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12786097|exam:12786101|exam:12786107|exam:12786110|exam:13698425>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130310&periodId=565>
 
 - **Veranstaltungsart:** Praxisseminar
@@ -2019,23 +1983,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### Exil im 20. Jahrhundert: literarische Perspektiven und künstlerische Positionen (mit Exkursion) (Nürnberg: nur GS/MS/RS/Berufl.Schulen) - Hauptseminar
 
-- **Segment:** `exam:13728903` · **unitId:** `130314`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12786097|exam:12786101|exam:12786107|exam:12786110|exam:13728903>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130314&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 09:45–11:15 | 16.10.2025–05.02.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
-
-### Exil im 20. Jahrhundert: literarische Perspektiven und künstlerische Positionen (mit Exkursion) (Nürnberg: nur GS/MS/RS/Berufl.Schulen) - Hauptseminar
-
 - **Segment:** `exam:13711413` · **unitId:** `130314`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12786179|exam:12786183|exam:12786184|exam:12786206|exam:12786207|exam:13711413>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130314&periodId=565>
@@ -2476,22 +2423,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:13642324` · **unitId:** `130328`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12785975|exam:12785981|exam:12786058|exam:13642324>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130328&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:00–12:00 | 13.10.2025–02.02.2026 | 05801.00.317 ( C 202) |
-
-### Friedrich Schiller- Werk und Rezeption (NDL VM-1&NDL VM-2) - Hauptseminar
-
-- **Segment:** `exam:13642174` · **unitId:** `130328`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12786097|exam:12786101|exam:12786107|exam:12786110|exam:13642174>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130328&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar
@@ -3695,22 +3626,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:13754021` · **unitId:** `132876`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12785975|exam:12785981|exam:12786058|exam:13754021>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132876&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 21.10.2025–03.02.2026 | 05801.01.210 ( B 301) |
-
-### Kino, Konsum und Massenkultur: Siegfried Kracauer und die 1920er Jahre - Hauptseminar
-
-- **Segment:** `exam:13754038` · **unitId:** `132876`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12786097|exam:12786101|exam:12786107|exam:12786110|exam:13754038>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132876&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar
@@ -6238,23 +6153,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar (nur LA RS, GYM) - Hauptseminar
 
-- **Segment:** `exam:12786164` · **unitId:** `90703`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12786097|exam:12786150|exam:12786157|exam:12786158|exam:12786164>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90703&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 4.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–15:30 | 14.10.2025–03.02.2026 | — |
-
-### Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar (nur LA RS, GYM) - Hauptseminar
-
 - **Segment:** `exam:12786343` · **unitId:** `90703`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12786179|exam:12786326|exam:12786337|exam:12786343>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90703&periodId=565>
@@ -6553,25 +6451,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar: Grundlagen der Lesedidaktik (Janle) - Hauptseminar
 
-- **Segment:** `exam:13639599` · **unitId:** `106626`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12786097|exam:12786150|exam:12786157|exam:12786158|exam:13639599>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106626&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Sa | 09:00–17:00 | 25.10.2025 | 05801.01.210 ( B 301) |
-| Einzeltermin | Sa | 09:00–12:00 | 06.12.2025 | — |
-| Einzeltermin | Sa | 09:00–17:00 | 17.01.2026 | 05801.01.210 ( B 301) |
-| Einzeltermin | Sa | 09:00–10:30 | 31.01.2026 | — |
-
-### Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar: Grundlagen der Lesedidaktik (Janle) - Hauptseminar
-
 - **Segment:** `exam:13639600` · **unitId:** `106626`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12786179|exam:12786326|exam:12786337|exam:13639600>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106626&periodId=565>
@@ -6807,22 +6686,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:12786091` · **unitId:** `107477`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12785975|exam:12786073|exam:12786084|exam:12786091>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107477&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 17:30–19:00 | 16.10.2025–05.02.2026 | — |
-
-### Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar: Was hat das mit mir zu tun? Holocaust und NS-Verbrechen als Thema im Deutschunterricht (VHB) - Hauptseminar
-
-- **Segment:** `exam:12786165` · **unitId:** `107477`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12786097|exam:12786150|exam:12786157|exam:12786158|exam:12786165>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107477&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar
@@ -7548,23 +7411,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:13725951` · **unitId:** `130308`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12785975|exam:12785981|exam:12786058|exam:13725951>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130308&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:00–16:00 | 13.10.2025–02.02.2026 | 05801.01.110 ( PSG A 301) 05801.02.111 ( PSG A 402) |
-| Einzeltermin | Mo | 16:00–18:00 | 02.02.2026 | 05801.00.317 ( C 202) |
-
-### Wiener Moderne - Hauptseminar
-
-- **Segment:** `exam:13698135` · **unitId:** `130308`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12786097|exam:12786101|exam:12786107|exam:12786110|exam:13698135>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130308&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar
@@ -10034,21 +9880,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### 74911 Komparatistik - Leistung
 
-- **Segment:** `exam:12786122` · **unitId:** `40842`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12786097|exam:12786101|exam:12786107|exam:12786110|exam:12786122>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=40842&periodId=565>
-
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| So | So | — | — | — |
-
-### 74911 Komparatistik - Leistung
-
 - **Segment:** `exam:12786247` · **unitId:** `40842`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12786179|exam:12786183|exam:12786184|exam:12786206|exam:12786235|exam:12786247>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=40842&periodId=565>
@@ -10349,21 +10180,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### 75801 Examensvorbereitungskurs - Leistung
 
-- **Segment:** `exam:12786172` · **unitId:** `22810`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12786097|exam:12786150|exam:12786168|exam:12786172>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=22810&periodId=565>
-
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 75801 Examensvorbereitungskurs - Leistung
-
 - **Segment:** `exam:12786331` · **unitId:** `22810`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12786179|exam:12786326|exam:12786327|exam:12786331>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=22810&periodId=565>
@@ -10412,12 +10228,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Segment:** `exam:12784314` · **unitId:** `62201`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12783851|exam:12783852|exam:12783853|exam:12783855|exam:12784314>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=62201&periodId=565>
-
-### 77300 Grundlagen der Germanistischen Linguistik
-
-- **Segment:** `exam:12786138` · **unitId:** `55823`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12786097|exam:12786101|exam:12786138>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55823&periodId=565>
 
 ### 77302 Grundlagen der Germanistischen Linguistik 2 (Ling BM 2)
 
@@ -10521,12 +10331,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12783851|exam:12783852|exam:12783853|exam:12783855|exam:12784318>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=61435&periodId=565>
 
-### 77330 Grundlagen der Neueren deutschen Literatur
-
-- **Segment:** `exam:12786140` · **unitId:** `67927`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12786097|exam:12786101|exam:12786140>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=67927&periodId=565>
-
 ### 77331 Grundlagen der Neueren deutschen Literaturwissenschaft 1 (NdL BM 1, BA+GY/RS)
 
 - **Segment:** `exam:12785185` · **unitId:** `58876`
@@ -10587,23 +10391,11 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12783851|exam:12783852|exam:12783853|exam:12783855|exam:12784320>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=61583&periodId=565>
 
-### 77340 Historische Sprachwissenschaft
-
-- **Segment:** `exam:12786142` · **unitId:** `68115`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12786097|exam:12786101|exam:12786142>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68115&periodId=565>
-
 ### 77350 Grammatik der deutschen Gegenwartssprache
 
 - **Segment:** `exam:12784322` · **unitId:** `61993`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12783851|exam:12783852|exam:12783853|exam:12783855|exam:12784322>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=61993&periodId=565>
-
-### 77350 Grammatik der deutschen Gegenwartssprache
-
-- **Segment:** `exam:12786144` · **unitId:** `55609`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12786097|exam:12786101|exam:12786144>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55609&periodId=565>
 
 ### 77370 Systematische Aspekte der Literaturwissenschaft
 
@@ -10617,41 +10409,11 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12783851|exam:12783852|exam:12783853|exam:12783855|exam:12784327>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=58714&periodId=565>
 
-### 77380 Literaturgeschichte I: Mittelalterliche und frühneuzeitliche deutsche Literatur
-
-- **Segment:** `exam:12786146` · **unitId:** `65239`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12786097|exam:12786101|exam:12786146>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65239&periodId=565>
-
 ### 77390 Literaturgeschichte II: Neuere deutsche Literatur
 
 - **Segment:** `exam:12784329` · **unitId:** `61487`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12783851|exam:12783852|exam:12783853|exam:12783855|exam:12784329>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=61487&periodId=565>
-
-### 77390 Literaturgeschichte II: Neuere deutsche Literatur
-
-- **Segment:** `exam:12786148` · **unitId:** `67975`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12786097|exam:12786101|exam:12786148>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=67975&periodId=565>
-
-### 77411 Grammatik und Text
-
-- **Segment:** `exam:12786103` · **unitId:** `65252`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12786097|exam:12786101|exam:12786102|exam:12786103>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65252&periodId=565>
-
-### 77421 Semantik und Lexikon
-
-- **Segment:** `exam:12786105` · **unitId:** `60068`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12786097|exam:12786101|exam:12786102|exam:12786105>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=60068&periodId=565>
-
-### 77471 Literaturwissenschaft
-
-- **Segment:** `exam:12786108` · **unitId:** `64862`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12786097|exam:12786101|exam:12786107|exam:12786108>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=64862&periodId=565>
 
 ### 77901 Grundlagen der Fachdidaktik Deutsch
 
@@ -10765,21 +10527,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:12785792` · **unitId:** `41883`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12785649|exam:12785782|exam:12785788|exam:12785792>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=41883&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | 17:30–19:00 | — | — |
-
-### 79011 Grundlagen der Fachdidaktik Deutsch - Leistung
-
-- **Segment:** `exam:12786156` · **unitId:** `41883`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12786097|exam:12786150|exam:12786151|exam:12786152|exam:12786156>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=41883&periodId=565>
 
 - **ECTS-Punkte:** 5.0
@@ -11089,21 +10836,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:12785969` · **unitId:** `41885`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12785816|exam:12785949|exam:12785960|exam:12785969>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=41885&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | 09:00–11:00 | — | — |
-
-### 79211 Vertiefungsmodul Fachdidaktik Deutsch - Leistung
-
-- **Segment:** `exam:12786167` · **unitId:** `41885`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12786097|exam:12786150|exam:12786157|exam:12786158|exam:12786167>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=41885&periodId=565>
 
 - **ECTS-Punkte:** 5.0
@@ -11589,22 +11321,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### Außerschulische Lernorte - Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar (alle Schularten) - Hauptseminar
 
-- **Segment:** `exam:13754067` · **unitId:** `111528`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12786097|exam:12786150|exam:12786157|exam:12786158|exam:13754067>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111528&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:00–15:30 | 13.10.2025–02.02.2026 | 20301.U1.012 (U1.012 Seminarraum (40)) |
-
-### Außerschulische Lernorte - Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar (alle Schularten) - Hauptseminar
-
 - **Segment:** `exam:13754068` · **unitId:** `111528`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12786179|exam:12786326|exam:12786337|exam:13754068>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111528&periodId=565>
@@ -11781,24 +11497,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Segment:** `exam:12786075` · **unitId:** `86767`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12785975|exam:12786073|exam:12786074|exam:12786075>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86767&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| 14-täglich | Mo | 15:45–19:00 | 20.10.2025–26.01.2026 | 20301.U1.031 (U1.031 Seminarraum (40)) |
-| Einzeltermin | Fr | 14:00–17:00 | 05.12.2025 | 20301.U1.031 (U1.031 Seminarraum (40)) |
-
-### Examenskurs Deutschdidaktik - Examensvorbereitung "Didaktik der deutschen Sprache und Literatur" - Hauptseminar
-
-- **Segment:** `exam:12786169` · **unitId:** `86767`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12786097|exam:12786150|exam:12786168|exam:12786169>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86767&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar
@@ -14964,23 +14662,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### vhb - Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar: Filmdidaktik und Filmästhetik (VHB) - Hauptseminar
 
-- **Segment:** `exam:12786162` · **unitId:** `84342`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12786097|exam:12786150|exam:12786157|exam:12786158|exam:12786162>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84342&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 4.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 15:45–17:15 | 17.10.2025–06.02.2026 | — |
-
-### vhb - Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar: Filmdidaktik und Filmästhetik (VHB) - Hauptseminar
-
 - **Segment:** `exam:12786341` · **unitId:** `84342`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12786179|exam:12786326|exam:12786337|exam:12786341>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84342&periodId=565>
@@ -15457,23 +15138,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### Vorlesung VM - Vertiefungmodul Fachdidaktik Deutsch (ab PO 20202): Vorlesung: Deutschdidaktik als forschende Disziplin - Vorlesung
 
-- **Segment:** `exam:12786159` · **unitId:** `88698`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12786097|exam:12786150|exam:12786157|exam:12786158|exam:12786159>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88698&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 1.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 17:30–19:00 | 14.10.2025–09.12.2025 | — |
-
-### Vorlesung VM - Vertiefungmodul Fachdidaktik Deutsch (ab PO 20202): Vorlesung: Deutschdidaktik als forschende Disziplin - Vorlesung
-
 - **Segment:** `exam:12786338` · **unitId:** `88698`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17139|exam:12786179|exam:12786326|exam:12786337|exam:12786338>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88698&periodId=565>
@@ -15523,33 +15187,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Di | 17:30–19:00 | 14.10.2025–09.12.2025 | — |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (146)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (70)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
-
-### AM: Wiener Moderne — Seminar
-
-- **Segment:** `unit:94263` · **unitId:** `94263`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94263&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nur im Wintersemester
-
-### Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (alte FPO, nur GS): Sprache, Literatur, Medien
-
-- **Segment:** `unit:101339` · **unitId:** `101339`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101339&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
-### Aufbaumodul Fachdidaktik Deutsch-Übung (nur GS)
-
-- **Segment:** `unit:99984` · **unitId:** `99984`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99984&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** in jedem Semester
 
 ### Aufbaumodul Fachdidaktik Deutsch-Übung (nur MS): Literatur- und Mediendidaktik
 
@@ -15591,19 +15231,19 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 
+### Basismodul Lit BM — Einführungskurs
+
+- **Segment:** `unit:121949` · **unitId:** `121949`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121949&periodId=565>
+
+- **Veranstaltungsart:** Einführungskurs
+
 ### Briefromane des 18. Jahrhunderts in Frankreich und Deutschland — Hauptseminar
 
 - **Segment:** `unit:121947` · **unitId:** `121947`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121947&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar
-
-### Creative Writing - von der Idee bis fertig — Seminar
-
-- **Segment:** `unit:110056` · **unitId:** `110056`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110056&periodId=565>
-
-- **Veranstaltungsart:** Seminar
 
 ### Crossover-Literatur / All-Age-Literatur (Nbg.) — Seminar
 
@@ -15619,26 +15259,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 
-### Der Inkle und Yariko-Stoff im 18. Jahrhundert (Lit AM-L) — Seminar
+### Die Neue Sachlichkeit (Nürnberg: nur GS/MS/RS/Berufl.Schulen) — Hauptseminar
 
-- **Segment:** `unit:118963` · **unitId:** `118963`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118963&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
-### Der Poetische Realismus — Hauptseminar
-
-- **Segment:** `unit:118761` · **unitId:** `118761`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118761&periodId=565>
+- **Segment:** `unit:126249` · **unitId:** `126249`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126249&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar
-
-### Deutschsprachige Literatur in Rumänien nach 1945 (von Paul Celan bis Herta Müller) — Proseminar
-
-- **Segment:** `unit:115142` · **unitId:** `115142`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115142&periodId=565>
-
-- **Veranstaltungsart:** Proseminar
 
 ### Die realistische Novelle: digitale Analysen — Seminar
 
@@ -15649,17 +15275,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
-### Dramen der Gegenwart (Lit AM-L) — Seminar
+### Dramatik der Gegenwart — Hauptseminar
 
-- **Segment:** `unit:126406` · **unitId:** `126406`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126406&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
-### E.T.A. Hoffmanns Schauerroman "Die Elixiere des Teufels" (Nürnberg: für LA GS/MS/RS) (VM NdL-1/VM NdL-2) — Hauptseminar
-
-- **Segment:** `unit:137869` · **unitId:** `137869`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137869&periodId=565>
+- **Segment:** `unit:121943` · **unitId:** `121943`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121943&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar
 
@@ -15670,26 +15289,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 
-### Epochen im Überblick vom Barock bis zur Gegenwart (Lit AM-G) (Erlangen für BA/LA GY/RS) — Kolleg
-
-- **Segment:** `unit:137843` · **unitId:** `137843`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137843&periodId=565>
-
-- **Veranstaltungsart:** Kolleg
-
-### Erzähltexte von 1945-60 — Seminar und Übung
+### Erzähltexte von 1945-60 (Erlangen für MA/BA/LA GY/RS) — Seminar und Übung
 
 - **Segment:** `unit:137792` · **unitId:** `137792`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137792&periodId=565>
 
 - **Veranstaltungsart:** Seminar und Übung
-
-### Erzählungen der Romantik — Hauptseminar
-
-- **Segment:** `unit:133783` · **unitId:** `133783`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133783&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
 
 ### EXAM NdL: — Examensseminar
 
@@ -15699,20 +15304,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Examensseminar
 - **Turnus:** nur im Wintersemester
 
-### Examenskurs (Nbg) (Di 14.00-15.30 Uhr) — Examensseminar
-
-- **Segment:** `unit:115218` · **unitId:** `115218`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115218&periodId=565>
-
-- **Veranstaltungsart:** Examensseminar
-
-### Examenskurs (Nbg) (Di 15.45-17.15 Uhr) — Examensseminar
-
-- **Segment:** `unit:115224` · **unitId:** `115224`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115224&periodId=565>
-
-- **Veranstaltungsart:** Examensseminar
-
 ### Examenskurs NdL — Examensseminar
 
 - **Segment:** `unit:115141` · **unitId:** `115141`
@@ -15720,10 +15311,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Examensseminar
 
-### Examenskurs NdL (Erlangen für: LA GYM/RS) — Examensseminar
+### Examenskurs NdL — Examensseminar
 
-- **Segment:** `unit:137867` · **unitId:** `137867`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137867&periodId=565>
+- **Segment:** `unit:126245` · **unitId:** `126245`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126245&periodId=565>
 
 - **Veranstaltungsart:** Examensseminar
 
@@ -15734,27 +15325,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Examensseminar
 
-### Examenskurs NdL (Nürnberg, nur LA GS, MS, RS, Berufl. Schulen) — Examensseminar
-
-- **Segment:** `unit:118855` · **unitId:** `118855`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118855&periodId=565>
-
-- **Veranstaltungsart:** Examensseminar
-
 ### Examenskurs NdL (Nürnberg: nur GS/MS/RS/Berufl. Schulen) — Examensseminar
 
 - **Segment:** `unit:121988` · **unitId:** `121988`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121988&periodId=565>
 
 - **Veranstaltungsart:** Examensseminar
-
-### Examensseminar Mediävistik: Höfische Epik
-
-- **Segment:** `unit:137697` · **unitId:** `137697`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137697&periodId=565>
-
-- **Veranstaltungsart:** Examensseminar
-- **Turnus:** in jedem Semester
 
 ### Examensseminar NDL
 
@@ -15769,6 +15345,24 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110057&periodId=565>
 
 - **Veranstaltungsart:** Examensseminar
+
+### Examensvorbereitung "Didaktik der deutschen Sprache und Literatur" (Präsenz Nürnberg) — Hauptseminar
+
+- **Segment:** `unit:92903` · **unitId:** `92903`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92903&periodId=565>
+
+- **Veranstaltungsart:** Hauptseminar
+- **ECTS-Punkte:** 2.0
+- **Turnus:** in jedem Semester
+
+### Examensvorbereitung Grundschule: "Didaktik der deutschen Sprache und Literatur" (Nürnberg) — Examensseminar
+
+- **Segment:** `unit:99330` · **unitId:** `99330`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99330&periodId=565>
+
+- **Veranstaltungsart:** Examensseminar
+- **ECTS-Punkte:** 2.0
+- **Turnus:** in jedem Semester
 
 ### Fanfiction: Zugänge der digitalen Literaturwissenschaft — Seminar
 
@@ -15787,21 +15381,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Hauptseminar
 - **Turnus:** in jedem Semester
 
-### Gender und Literatur: Theorien, Methoden, Lektüren (Lit AM-W) — Seminar
-
-- **Segment:** `unit:133939` · **unitId:** `133939`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133939&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
-### Gender, Literature and the Public Sphere (Seminar in englischer Sprache) (Master) — Hauptseminar
-
-- **Segment:** `unit:118967` · **unitId:** `118967`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118967&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-
 ### Goethe im Kontext: Wahlverwandtschaften und Wissenschaftsreflexion (Lit AM-W) — Seminar
 
 - **Segment:** `unit:118789` · **unitId:** `118789`
@@ -15810,13 +15389,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
-
-### Grimmelshausens Simplicissimus Teutsch — Hauptseminar
-
-- **Segment:** `unit:126240` · **unitId:** `126240`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126240&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
 
 ### Hauptseminar Mediävistik
 
@@ -15842,28 +15414,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **Turnus:** Unregelmäßig
 
-### Hauptseminar Mediävistik und Examenskurs
-
-- **Segment:** `unit:110017` · **unitId:** `110017`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110017&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
-### Hauptseminar Mediävistik und Examenskurs: Märendichtung / Novellistik
-
-- **Segment:** `unit:137698` · **unitId:** `137698`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137698&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
-### Historische Kinder- und Jugendliteratur im Kontext (Nürnberg: nur GS/MS/RS/Berufl.Schulen) / (Lit AM-L) — Seminar
-
-- **Segment:** `unit:126248` · **unitId:** `126248`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126248&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
 ### HS/Ü Schwarzer Markt für rote Bücher — Hauptseminar
 
 - **Segment:** `unit:126251` · **unitId:** `126251`
@@ -15875,21 +15425,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:126416` · **unitId:** `126416`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126416&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-
-### HS/Ü: Mehrsprachigkeit (in) der Literatur — Seminar und Übung
-
-- **Segment:** `unit:133787` · **unitId:** `133787`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133787&periodId=565>
-
-- **Veranstaltungsart:** Seminar und Übung
-- **Turnus:** in jedem Semester
-
-### HS/Ü: The "Exotic" in Western European Literature and Culture (Masterseminar) — Hauptseminar
-
-- **Segment:** `unit:126417` · **unitId:** `126417`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126417&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar
 
@@ -15908,6 +15443,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar und Übung
 - **Turnus:** nur im Sommersemester
+
+### Kinder- und Hausmärchen digital: Quellen, Analysen, theoretische Zugänge — Seminar
+
+- **Segment:** `unit:123803` · **unitId:** `123803`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123803&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** Unregelmäßig
 
 ### Klausur zum Nachweis Gesicherter Lateinkenntnisse
 
@@ -15930,13 +15474,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **Turnus:** nicht in diesem Semester
-
-### Kontroversen zur Kinder- und Jugendliteratur (Nürnberg: nur GS/MS/RS/Berufl.Schulen) — Hauptseminar
-
-- **Segment:** `unit:123939` · **unitId:** `123939`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123939&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
 
 ### Künstliche Menschen und künstliche Intelligenz in der Literatur von 1800 bis zur Gegenwart (neuer BA: Lit AM-G): — Kolleg
 
@@ -15992,66 +15529,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Blockveranstaltung | — | 09:00–14:15 | 18.02.2026–10.03.2026 | 05901.02.058 ( 2.058 R 2.058) |
 
-### Lektüreübung "Arabel" / "Willehalm" — Kolleg
-
-- **Segment:** `unit:133748` · **unitId:** `133748`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133748&periodId=565>
-
-- **Veranstaltungsart:** Kolleg
-- **Turnus:** in jedem Semester
-
-### Ling AM-2: Seminar Linguistik
-
-- **Segment:** `unit:96097` · **unitId:** `96097`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96097&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
-
-### Ling AM-2: Seminar Linguistik
-
-- **Segment:** `unit:106655` · **unitId:** `106655`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106655&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
-
-### Ling BM-2: Einführung in die historische Sprachwissenschaft (Erlangen, nur für BA, LA Gym, LA RS) — Kurs
-
-- **Segment:** `unit:103808` · **unitId:** `103808`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103808&periodId=565>
-
-- **Veranstaltungsart:** Kurs
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### Ling BM-2: Einführung in die historische Sprachwissenschaft (Nürnberg, nur LA GS, MS, RS) — Kurs
-
-- **Segment:** `unit:90626` · **unitId:** `90626`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90626&periodId=565>
-
-- **Veranstaltungsart:** Kurs
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### Ling BM-2: Tutorium (Erlangen) — Übung
-
-- **Segment:** `unit:135426` · **unitId:** `135426`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135426&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** Unregelmäßig
-
-### Ling BM-2: Tutorium (Nürnberg) — Übung
-
-- **Segment:** `unit:135427` · **unitId:** `135427`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135427&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** Unregelmäßig
-
 ### Ling VM 1: Sprachwandel und Variation (HS): Dialektologie und Lexikologie am Beispiel des Fränkischen Wörterbuchs — Hauptseminar
 
 - **Segment:** `unit:95033` · **unitId:** `95033`
@@ -16061,66 +15538,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 7.0
 - **Turnus:** in jedem Semester
 
-### Ling VM 2: Gegenwartssprache/DaF (HS): Neologismen — Hauptseminar
-
-- **Segment:** `unit:100080` · **unitId:** `100080`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100080&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 7.0
-- **Turnus:** nur im Wintersemester
-
 ### Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen)
 
 - **Segment:** `unit:83620` · **unitId:** `83620`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83620&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar
-- **Turnus:** in jedem Semester
-
-### Ling VM-Kolleg (Erlangen, Live-Stream zum Campus Regensburger Straße in Nbg.)
-
-- **Segment:** `unit:87183` · **unitId:** `87183`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87183&periodId=565>
-
-- **Veranstaltungsart:** Kolleg
-- **Turnus:** in jedem Semester
-
-### Lit AM (alter BA): Gender Studies und Literaturwissenschaft — Proseminar
-
-- **Segment:** `unit:115211` · **unitId:** `115211`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115211&periodId=565>
-
-- **Veranstaltungsart:** Proseminar
-
-### Lit AM-G Aufbaumodul Literaturgeschichte:  Dichtung des deutschen Mittelalters - Gattungen und Themen — Kolleg
-
-- **Segment:** `unit:137699` · **unitId:** `137699`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137699&periodId=565>
-
-- **Veranstaltungsart:** Kolleg
-- **Turnus:** in jedem Semester
-
-### Lit AM-G: "Die Welt ist ein Dorf, oder: Heinrich Wittenwilers 'Der Ring'" — Seminar
-
-- **Segment:** `unit:125928` · **unitId:** `125928`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125928&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
-### Lit AM-G: Überblick über die Literatur vom 16. Jh. bis zur Gegenwart — Kolleg
-
-- **Segment:** `unit:137786` · **unitId:** `137786`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137786&periodId=565>
-
-- **Veranstaltungsart:** Kolleg
-
-### Lit AM-L (Nürnberg: GS/MS/RS/Berufl. S.): Nibelungenlied — Seminar
-
-- **Segment:** `unit:137578` · **unitId:** `137578`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137578&periodId=565>
-
-- **Veranstaltungsart:** Seminar
 - **Turnus:** in jedem Semester
 
 ### Lit AM-L GSMS: Tracy Deonn, Donald Duck und der König auf Camelot - die Rezeption mittelalterlicher Literatur im modernen Kinder- und Jugendbuch — Seminar
@@ -16138,35 +15561,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **Turnus:** in jedem Semester
 
-### Lit AM-L:  'Tristan und Isolde' als Weltliteratur — Seminar
+### Lit AM-L: Annemarie Schwarzenbach: „Winter in Vorderasien“ (1934) und andere Reiseprosa (ER: für RS/BA/LA GYM) — Proseminar
 
-- **Segment:** `unit:110006` · **unitId:** `110006`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110006&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
-### Lit AM-L: "Der Augen Wonne und des Herzens Tod: Minnelieder Heinrichs von Morungen" — Seminar
-
-- **Segment:** `unit:126133` · **unitId:** `126133`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126133&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
-### Lit AM-L: Aufbaumodul Literatur, Lektüren und Kontexte — Proseminar
-
-- **Segment:** `unit:137580` · **unitId:** `137580`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137580&periodId=565>
+- **Segment:** `unit:133780` · **unitId:** `133780`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133780&periodId=565>
 
 - **Veranstaltungsart:** Proseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
-
-### Lit AM-L: Die interkulturelle Dimension von Goethes West-östlichem Divan — Proseminar
-
-- **Segment:** `unit:115209` · **unitId:** `115209`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115209&periodId=565>
-
-- **Veranstaltungsart:** Proseminar
+- **Turnus:** nur im Sommersemester
 
 ### Lit AM-L: Fragile Figuren oder heroische Heldenbilder? Das Nibelungenlied — Seminar
 
@@ -16175,21 +15576,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 
-### Lit AM-L: Mittelhochdeutsch II — Seminar
+### Lit AM-L: Liebe auf den ersten … Vers? Konzeptionen von Liebe und Leid in der höfischen Literatur — Seminar
 
-- **Segment:** `unit:133738` · **unitId:** `133738`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133738&periodId=565>
+- **Segment:** `unit:118606` · **unitId:** `118606`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118606&periodId=565>
 
 - **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
-### Lit AM-W: Von der Leerstelle über den hermeneutischen Zirkel bis zum Tod des Autors. Grundlegende Konzepte der Literaturwissenschaft — Proseminar
-
-- **Segment:** `unit:133782` · **unitId:** `133782`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133782&periodId=565>
-
-- **Veranstaltungsart:** Proseminar
-- **Turnus:** nur im Sommersemester
+- **Turnus:** nicht in diesem Semester
 
 ### Lit BM-Erlangen: Grundlagen des wissenschaftlichen Arbeitens in der Literaturwissenschaft — Einführungskurs
 
@@ -16206,19 +15599,18 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Einführungskurs
 - **Turnus:** nur im Sommersemester
 
-### Lit BM: Grundlagen des wissenschaftlichen Arbeitens in der Literaturwissenschaft — Einführungskurs
+### Lit BM: Grundlagen des wissenschaftlichen Arbeitens (DIESER KURS FINDET NICHT STATT) — Einführungskurs
 
-- **Segment:** `unit:118961` · **unitId:** `118961`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118961&periodId=565>
+- **Segment:** `unit:134041` · **unitId:** `134041`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134041&periodId=565>
 
 - **Veranstaltungsart:** Einführungskurs
-- **ECTS-Punkte:** 5.0
 - **Turnus:** in jedem Semester
 
 ### Lit BM: Grundlagen des wissenschaftlichen Arbeitens in der Literaturwissenschaft — Einführungskurs
 
-- **Segment:** `unit:137574` · **unitId:** `137574`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137574&periodId=565>
+- **Segment:** `unit:118961` · **unitId:** `118961`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118961&periodId=565>
 
 - **Veranstaltungsart:** Einführungskurs
 - **ECTS-Punkte:** 5.0
@@ -16231,55 +15623,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Einführungskurs
 
-### Literatur barrierefrei — Hauptseminar
-
-- **Segment:** `unit:91346` · **unitId:** `91346`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91346&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** nur im Wintersemester
-
-### Literatur der 'Völkischen Bewegung' — Hauptseminar
-
-- **Segment:** `unit:126242` · **unitId:** `126242`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126242&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-
-### Literatur mit Stacheln - das Epigramm vom 17. Jahrhundert bis heute — Proseminar
-
-- **Segment:** `unit:115127` · **unitId:** `115127`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115127&periodId=565>
-
-- **Veranstaltungsart:** Proseminar
-
 ### Literatur und Emotion: Traditionelle, digitale und experimentelle Zugänge — Seminar
 
 - **Segment:** `unit:135536` · **unitId:** `135536`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135536&periodId=565>
 
 - **Veranstaltungsart:** Seminar
-
-### Literatur und Öffentlichkeit in Westdeutschland (1945 bis 1989) — Hauptseminar
-
-- **Segment:** `unit:121946` · **unitId:** `121946`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121946&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-
-### Literatur und Ökologie — Hauptseminar
-
-- **Segment:** `unit:126241` · **unitId:** `126241`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126241&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-
-### Literatur- und Kulturgeschichte des künstlichen Menschen und der künstlichen Intelligenz (NdL VM-1, NdL VM-2) — Hauptseminar
-
-- **Segment:** `unit:137847` · **unitId:** `137847`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137847&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
 
 ### Literaturwissenschaftliche Netzwerkanalyse — Seminar
 
@@ -16289,83 +15638,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **Turnus:** Unregelmäßig
 
-### Literaturwissenschaftliche Theorien, Modelle und Methoden in der analytischen Praxis: Goethes „Werther“ und „Wahlverwandtschaften“.  (Lit AM-W) — Seminar
+### M/SM: Literatur und Abendmahl — Hauptseminar
 
-- **Segment:** `unit:133940` · **unitId:** `133940`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133940&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
-### M-LingGram - HS: Grammatik und Lexikon: Theorie und Anwendung, aus Muttersprachen- und DaF-Perspektive — Hauptseminar
-
-- **Segment:** `unit:89744` · **unitId:** `89744`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89744&periodId=565>
+- **Segment:** `unit:98664` · **unitId:** `98664`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98664&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar
-- **Turnus:** nur im Sommersemester
-
-### M-LingHist - HS: Historische Linguistik und Sprachwandel — Hauptseminar
-
-- **Segment:** `unit:91716` · **unitId:** `91716`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91716&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** nur im Sommersemester
-
-### M-LingHist - UE zum HS: Historische Linguistik und Sprachwandel — Übung
-
-- **Segment:** `unit:99011` · **unitId:** `99011`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99011&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Sommersemester
-
-### M/SM: Fiktionalität und Faktualität: Texte und Theorien — Übung
-
-- **Segment:** `unit:110269` · **unitId:** `110269`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110269&periodId=565>
-
-- **Veranstaltungsart:** Übung
-
-### M/SM: Hartmann von Aue: ›Iwein‹ und Chrétien de Troyes: ›Yvain‹ — Hauptseminar / Masterseminar
-
-- **Segment:** `unit:137581` · **unitId:** `137581`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137581&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
-- **Turnus:** in jedem Semester
-
-### M/SM: Ovids Metamorphosen und ihre deutsche Übertragung durch Albrecht von Halberstadt und Jörg Wickram — Masterseminar
-
-- **Segment:** `unit:100925` · **unitId:** `100925`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100925&periodId=565>
-
-- **Veranstaltungsart:** Masterseminar
-- **ECTS-Punkte:** 7.0
-- **Turnus:** nur im Sommersemester
-
-### M/SM: Ulrich von dem Türlin: "Arabel" -- ein Prequel zu Wolframs "Willehalm" — Hauptseminar / Masterseminar
-
-- **Segment:** `unit:133746` · **unitId:** `133746`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133746&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
-- **Turnus:** in jedem Semester
-
-### M/SM: Was ist eigentlich mittelalterliches Deutsch? (Florian Kragl / Oliver Schallert) — Hauptseminar / Masterseminar
-
-- **Segment:** `unit:127880` · **unitId:** `127880`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127880&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
-
-### M/SM: Weisen der Welterzeugung in Literatur und Wissenschaft — Hauptseminar
-
-- **Segment:** `unit:110270` · **unitId:** `110270`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110270&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
+- **Turnus:** nur im Wintersemester
 
 ### M/SM: Würste, Braten und Bier - Kulinarische Motivfelder in der vormodernen Literatur — Hauptseminar / Masterseminar
 
@@ -16373,48 +15652,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133747&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar / Masterseminar
-- **Turnus:** in jedem Semester
-
-### M: Europäische Erinnerungskulturen: Signaturen der Gegenwartsliteratur — Hauptseminar
-
-- **Segment:** `unit:115225` · **unitId:** `115225`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115225&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-
-### Macht und Zensur: Literatur in der Diktatur (Master) — Hauptseminar / Masterseminar
-
-- **Segment:** `unit:137871` · **unitId:** `137871`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137871&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
-- **Turnus:** in jedem Semester
-
-### Med AM-Mhd: Aufbaumodul Mittelhochdeutsch — Aufbauseminar
-
-- **Segment:** `unit:88038` · **unitId:** `88038`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88038&periodId=565>
-
-- **Veranstaltungsart:** Aufbauseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Med AM-Mhd: Aufbaumodul Mittelhochdeutsch — Aufbauseminar
-
-- **Segment:** `unit:137576` · **unitId:** `137576`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137576&periodId=565>
-
-- **Veranstaltungsart:** Aufbauseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
-
-### Med BM nv: Grundlagen der Germanistischen Mediävistik — Einführungskurs
-
-- **Segment:** `unit:87103` · **unitId:** `87103`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87103&periodId=565>
-
-- **Veranstaltungsart:** Einführungskurs
-- **ECTS-Punkte:** 5.0
 - **Turnus:** in jedem Semester
 
 ### Med BM: Grundlagen der Germanistischen Mediävistik — Kurs
@@ -16425,66 +15662,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Kurs
 - **Turnus:** in jedem Semester
 
-### Metamorphosen: Mythos - Rezeption - Transformation von der Antike bis zur Gegenwart (Lit AM-G) — Kolleg
-
-- **Segment:** `unit:134043` · **unitId:** `134043`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134043&periodId=565>
-
-- **Veranstaltungsart:** Kolleg
-
 ### Metaphern: Linguistische und literaturwissenschaftliche Perspektiven — Hauptseminar
 
 - **Segment:** `unit:118769` · **unitId:** `118769`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118769&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar
-
-### Nachkriegszeiten in der Literatur (mit fakultativer Exkursion nach Danzig) — Seminar
-
-- **Segment:** `unit:110050` · **unitId:** `110050`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110050&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nicht in diesem Semester
-
-### NdL BM 1: Grundlagen und Analyseverfahren der NdL — Einführungskurs
-
-- **Segment:** `unit:83850` · **unitId:** `83850`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83850&periodId=565>
-
-- **Veranstaltungsart:** Einführungskurs
-- **Turnus:** nur im Wintersemester
-
-### NdL BM-1 — Einführungskurs
-
-- **Segment:** `unit:115121` · **unitId:** `115121`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115121&periodId=565>
-
-- **Veranstaltungsart:** Einführungskurs
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### NdL BM-1: Grundlagen und Analyseverfahren der NdL I (Erlangen) — Einführungskurs
-
-- **Segment:** `unit:137801` · **unitId:** `137801`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137801&periodId=565>
-
-- **Veranstaltungsart:** Einführungskurs
-
-### NdL BM-2: Grundlagen und Analyseverfahren der NdL II — Einführungskurs
-
-- **Segment:** `unit:109902` · **unitId:** `109902`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=109902&periodId=565>
-
-- **Veranstaltungsart:** Einführungskurs
-
-### NdL BM-2: Grundlagen und Analyseverfahren der NdL II (Erlangen) — Einführungskurs
-
-- **Segment:** `unit:134020` · **unitId:** `134020`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134020&periodId=565>
-
-- **Veranstaltungsart:** Einführungskurs
-- **Turnus:** in jedem Semester
 
 ### Novelle — Proseminar
 
@@ -16493,12 +15676,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Proseminar
 
-### Otfried Preußler (Nürnberg: für LA GS/MS/RS) — Hauptseminar
+### Poetik-Kolleg: Ann Cotten — Seminar und Übung
 
-- **Segment:** `unit:137790` · **unitId:** `137790`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137790&periodId=565>
+- **Segment:** `unit:133784` · **unitId:** `133784`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=565>
 
-- **Veranstaltungsart:** Hauptseminar
+- **Veranstaltungsart:** Seminar und Übung
+- **Turnus:** nur im Sommersemester
 
 ### Poetry Slam: Text, Performance, Event — Seminar
 
@@ -16506,27 +15690,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139350&periodId=565>
 
 - **Veranstaltungsart:** Seminar
-
-### Raubdrucke von Martin Luther bis Michael Ende (Lit AM-G) — Kolleg
-
-- **Segment:** `unit:126238` · **unitId:** `126238`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126238&periodId=565>
-
-- **Veranstaltungsart:** Kolleg
-
-### Raumtheoretische Zugänge zur Literatur (Erlangen für MA/BA/LA GY/RS) — Seminar und Übung
-
-- **Segment:** `unit:137788` · **unitId:** `137788`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137788&periodId=565>
-
-- **Veranstaltungsart:** Seminar und Übung
-
-### RV Literatur und Öffentlichkeit — Vorlesung
-
-- **Segment:** `unit:116063` · **unitId:** `116063`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116063&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
 
 ### Schriftliche Übersetzungsleistung Latein I für Anfänger (Zulassungsvoraussetzung zu Kurs Latein II für Fortgeschrittene)
 
@@ -16541,46 +15704,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Do | Do | 14:00–16:00 | 07.12.2025 23:59:59 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
-
-### Seminar Mediävistik im Aufbaumodul
-
-- **Segment:** `unit:89777` · **unitId:** `89777`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89777&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nur im Wintersemester
-
-### Transnationale Erinnerungsräume — Übung
-
-- **Segment:** `unit:115227` · **unitId:** `115227`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115227&periodId=565>
-
-- **Veranstaltungsart:** Übung
-
-### UE Mediävistik: Heiliges Land: Jerusalem und seine Umgebung in der Wahrnehmung des Mittelalters und der frühen Neuzeit — Übung
-
-- **Segment:** `unit:110063` · **unitId:** `110063`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110063&periodId=565>
-
-- **Veranstaltungsart:** Übung
-
-### UE: Krieg und Frieden: Vom Trojanerkrieg bis zur Literatur der Ritterorden — Übung
-
-- **Segment:** `unit:86813` · **unitId:** `86813`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86813&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Turnus:** in jedem Semester
-
-### UE: Krieg und Frieden: Vom Trojanerkrieg bis zur Literatur der Ritterorden — Übung
-
-- **Segment:** `unit:87890` · **unitId:** `87890`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87890&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Turnus:** nur im Wintersemester
 
 ### Utopien und Dystopien in Literatur, Kunst und Film (VM) — Hauptseminar
 
@@ -16605,45 +15728,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Proseminar
 - **Turnus:** nur im Sommersemester
 
-### Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar: KI im Deutschunterricht. Chancen und Probleme
-
-- **Segment:** `unit:107647` · **unitId:** `107647`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107647&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 4.0
-- **Turnus:** in jedem Semester
-
-### Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar: Leseförderung und literarische Bildung im Medienverbund mit Kinder- und Jugendliteratur (LA RS/GY)
-
-- **Segment:** `unit:92746` · **unitId:** `92746`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92746&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 4.0
-- **Turnus:** nicht in diesem Semester
-
-### VL Frühe Neuzeit / Aufklärung — Vorlesung
-
-- **Segment:** `unit:109992` · **unitId:** `109992`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=109992&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-
 ### VM: Büchner in seiner Zeit — Hauptseminar
 
 - **Segment:** `unit:91655` · **unitId:** `91655`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91655&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar
-- **Turnus:** nur im Wintersemester
-
-### VM: Transkulturelle Erzählformen der Identität und Diversität — Seminar
-
-- **Segment:** `unit:101692` · **unitId:** `101692`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101692&periodId=565>
-
-- **Veranstaltungsart:** Seminar
 - **Turnus:** nur im Wintersemester
 
 ### VM: Ökologien des Waldes. Literatur, Kunst und Film vom 18. Jh. bis zur Gegenwart — Hauptseminar
@@ -16661,22 +15751,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Proseminar
 - **Turnus:** nur im Sommersemester
 
-### Übung Mediävistik: Deutsche und französische Liederhandschriften
-
-- **Segment:** `unit:126233` · **unitId:** `126233`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126233&periodId=565>
-
-- **Veranstaltungsart:** Übung
-
-### Übungsmodul Fachdidaktik Deutsch Sprach-, Literatur- und Mediendidaktik (nur GS)
-
-- **Segment:** `unit:102743` · **unitId:** `102743`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102743&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 1.0
-- **Turnus:** Unregelmäßig
-
 ### Übungsmodul GS (Albrecht)
 
 - **Segment:** `unit:90530` · **unitId:** `90530`
@@ -16685,6 +15759,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+### Übungsmodul Sprachdidaktik Deutsch (GS, FPO 20162)
+
+- **Segment:** `unit:88500` · **unitId:** `88500`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88500&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 03:00–04:00 | 13.10.2025–02.02.2026 | — |
 
 ## Lehramts-Prüfungsordnungen
 

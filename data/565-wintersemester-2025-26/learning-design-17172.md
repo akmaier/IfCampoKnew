@@ -5,7 +5,7 @@ campo_segment: "title:17172"
 campo_path: "title:16758|title:16763|title:17172"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17172"
 po_version_count: 0
-course_count: 25
+course_count: 27
 ---
 
 # Learning Design
@@ -14,7 +14,7 @@ course_count: 25
 
 _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theologie_  
 
-## Veranstaltungen (25)
+## Veranstaltungen (27)
 
 ### Betriebspädagogisches Seminar: E-Learning und Wissensmanagement - Übung
 
@@ -110,6 +110,63 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Di | 09:45–11:15 | 14.10.2025–03.02.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
 
+### ITG Informationstechnische Grundlagen - Seminar
+
+- **Segment:** `exam:17869293` · **unitId:** `92352`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17172|exam:12826974|exam:12826975|exam:12826976|exam:12826996|exam:17869293>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92352&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| nach Vereinbarung | — | — | — | — |
+| Einzeltermin | Fr | 14:00–15:30 | 17.10.2025 | — |
+| Einzeltermin | Mi | 17:30–19:00 | 26.11.2025 | — |
+| Einzeltermin | Mi | 17:30–19:00 | 10.12.2025 | — |
+| Einzeltermin | Mi | 17:30–19:00 | 07.01.2026 | — |
+| Einzeltermin | Sa | 09:00–15:30 | 24.01.2026 | — |
+
+### Learning Analytics - Seminar
+
+- **Segment:** `exam:13729800` · **unitId:** `132445`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17172|exam:12826974|exam:12826975|exam:12826976|exam:12827021|exam:13729800>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132445&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 10:00–12:00 | 16.10.2025 | — |
+| Einzeltermin | Do | 10:00–12:00 | 23.10.2025 | — |
+| Blockveranstaltung | — | 09:00–18:00 | 03.11.2025–07.11.2025 | — |
+
+### MA EEBF M7/MA Pädagogik MVIII: Aktuelle Ansätze medienpädagogischer Forschung - Seminar
+
+- **Segment:** `exam:17869884` · **unitId:** `91808`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17172|exam:12826974|exam:12826975|exam:12826976|exam:12826977|exam:12826984|exam:17869884>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91808&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 09:45–11:15 | 13.10.2025–02.02.2026 | 20301.01.028 (1.028 Seminarraum MM-Labor (18)) |
+
 ### MA Learning Design: Rechtliche und medienethische Grundlagen - Seminar
 
 - **Segment:** `exam:12827026` · **unitId:** `125606`
@@ -128,6 +185,23 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Einzeltermin | Fr | 14:00–17:00 | 17.10.2025 | 20301.U1.029 (U1.029 Seminarraum (18)) |
 | Einzeltermin | Sa | 08:30–14:30 | 15.11.2025 | 20301.U1.029 (U1.029 Seminarraum (18)) |
 | Einzeltermin | Fr | 14:00–17:00 | 12.12.2025 | 20301.U1.029 (U1.029 Seminarraum (18)) |
+
+### MA Pädagogik MIX: Feldforschung Medienpädagogik - Seminar
+
+- **Segment:** `exam:17878974` · **unitId:** `98199`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17172|exam:12826974|exam:12826975|exam:12826976|exam:12826987|exam:17878974>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98199&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:00–14:00 | 14.10.2025–03.02.2026 | 21202.03.4004 |
 
 ### MA Pädagogik MVIII/MA EEBF M7: Kontexte medienpädagogischer Forschung und Praxis/Medienpädagogik (Profilvertiefung) - Seminar
 
@@ -151,32 +225,16 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17172|exam:12826974|exam:12826975|exam:12826976|exam:12826991|exam:13730902>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131886&periodId=565>
 
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 11:30–13:00 | 14.10.2025–03.02.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
-
-### Transnational Virtual Exchange - Seminar
-
-- **Segment:** `exam:13729800` · **unitId:** `132445`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17172|exam:12826974|exam:12826975|exam:12826976|exam:12827021|exam:13729800>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132445&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Do | 10:00–12:00 | 16.10.2025 | — |
-| Einzeltermin | Do | 10:00–12:00 | 23.10.2025 | — |
-| Blockveranstaltung | — | 09:00–18:00 | 03.11.2025–07.11.2025 | — |
 
 ### Zukunftstechnologien für Bildungskontexte - 3D-Druck, KI und Robotik - Seminar
 
@@ -197,12 +255,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Einzeltermin | Fr | 14:00–18:00 | 21.11.2025 | 20301.01.028 (1.028 Seminarraum MM-Labor (18)) |
 | Einzeltermin | Di | 17:30–19:00 | 09.12.2025 | — |
 | Einzeltermin | Fr | 14:00–18:00 | 09.01.2026 | 20302.01.121 (1.121 Seminarraum (40)) |
-
-### 1999 Mastermodul (M.A. Learning Design - Digitale Transformation in der Bildung 20232)
-
-- **Segment:** `exam:12826987` · **unitId:** `115849`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17172|exam:12826974|exam:12826975|exam:12826976|exam:12826987>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115849&periodId=565>
 
 ### 23001 Wissenschaftliches Basismodul - Leistung
 

@@ -281,7 +281,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Wintersemester
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -299,7 +299,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Wintersemester
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -317,7 +317,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Wintersemester
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -335,7 +335,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Wintersemester
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -353,7 +353,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Wintersemester
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 

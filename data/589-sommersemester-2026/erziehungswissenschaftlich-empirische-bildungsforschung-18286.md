@@ -188,7 +188,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (34)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (29)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -435,14 +435,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | 15:00–18:00 | 07.06.2026 23:59:59 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
 
-### LA M2 / EE-BF M2 / ZS M1 / LA Freier Bereich : SEM "Theorien pädagogischen Handelns auch im internationalen Vergleich und im Kontext der Migration" (Standort Nürnberg) — Seminar
-
-- **Segment:** `unit:101497` · **unitId:** `101497`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101497&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
 ### LA M2 / EE-BF M6d / LA Freier Bereich: SEM "International Education (Theorien und Konzepte der internationalen Bildung) in englischer Sprache (Standort Nürnberg)" — Seminar
 
 - **Segment:** `unit:98003` · **unitId:** `98003`
@@ -459,13 +451,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Fr | 08:30–17:30 | 08.05.2026 | 20301.U1.029 (U1.029 Seminarraum (18)) |
 | Einzeltermin | Sa | 08:30–16:00 | 09.05.2026 | 20301.U1.029 (U1.029 Seminarraum (18)) |
 | Einzeltermin | Sa | 08:30–12:00 | 16.05.2026 | — |
-
-### LA M2 / EE-BF M6d / MA Päd M II : SEM "Theorien und Konzepte der internationalen Bildung" (in englischer Sprache) — Seminar
-
-- **Segment:** `unit:108237` · **unitId:** `108237`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=108237&periodId=589>
-
-- **Veranstaltungsart:** Seminar
 
 ### LA M2/ MA Päd M VI/ EE-BF M7d / ZS M4 : SEM "Handlungsfelder der internationalen Bildung: Zugänge und Erkundungen" (English-friendly) (Standort Nürnberg) — Seminar
 
@@ -514,14 +499,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
 | wöchentlich | Mi | 16:00–18:00 | 15.04.2026–15.07.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
 
-### Latein II für Fortgeschrittene - Intensivkurs (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
-
-- **Segment:** `unit:89729` · **unitId:** `89729`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89729&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** Unregelmäßig
-
 ### MA EEBF M1 Erziehungswissenschaftliche Grundlagen — Seminar
 
 - **Segment:** `unit:125320` · **unitId:** `125320`
@@ -567,27 +544,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:00–15:30 | 13.04.2026–13.07.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
 
-### MA Pädagogik MVIII/MA EEBF M7: Kontexte medienpädagogischer Forschung und Praxis/Medienpädagogik (Profilvertiefung) — Seminar
-
-- **Segment:** `unit:111970` · **unitId:** `111970`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111970&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
 ### Masterstudiengang EE-BF Modul 2: Erziehungswissenschaftliche Vertiefung — Seminar
 
 - **Segment:** `unit:125444` · **unitId:** `125444`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125444&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-### Masterstudiengang EE-BF Modul 6: Mentorat Qualitätsentwicklung in Schule und Unterricht (Profilgrundlagen) Anmeldung ab dem 07.10.2024 möglich — Seminar
-
-- **Segment:** `unit:84638` · **unitId:** `84638`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84638&periodId=589>
 
 - **Veranstaltungsart:** Seminar
 - **Unterrichtssprache:** Deutsch

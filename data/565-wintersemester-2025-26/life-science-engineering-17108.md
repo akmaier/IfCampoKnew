@@ -5,7 +5,7 @@ campo_segment: "title:17108"
 campo_path: "title:16758|title:16764|title:17108"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108"
 po_version_count: 0
-course_count: 342
+course_count: 266
 ---
 
 # Life Science Engineering
@@ -14,7 +14,7 @@ course_count: 342
 
 _Section: Studiengänge der Technischen Fakultät_  
 
-## Veranstaltungen (342)
+## Veranstaltungen (266)
 
 ### Advanced Bioanalytics - Übung - Übung
 
@@ -47,25 +47,6 @@ _Section: Studiengänge der Technischen Fakultät_
 
 - **Segment:** `exam:12477432` · **unitId:** `83963`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12477415|exam:12477417|exam:12477419|exam:12477431|exam:12477432>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83963&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 08:15–09:45 | 21.10.2025–16.12.2025 | 11202.00.307 (H1 Egerlandstr.3 Anorganische Chemie) |
-| wöchentlich | Do | 08:15–09:45 | 16.10.2025–18.12.2025 | 11202.00.307 (H1 Egerlandstr.3 Anorganische Chemie) |
-| wöchentlich | Fr | 12:15–13:45 | 17.10.2025–12.12.2025 | 11202.00.307 (H1 Egerlandstr.3 Anorganische Chemie) |
-
-### Allgemeine und Anorganische Chemie (mit Experimenten) - Vorlesung
-
-- **Segment:** `exam:12480442` · **unitId:** `83963`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480441|exam:12480442>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83963&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
@@ -120,24 +101,6 @@ _Section: Studiengänge der Technischen Fakultät_
 
 - **Segment:** `exam:12477467` · **unitId:** `82667`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12477415|exam:12477417|exam:12477419|exam:12477466|exam:12477467>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82667&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 7.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 14.10.2025–03.02.2026 | 13003.00.827 (HG Hörsaal Physikum) |
-| wöchentlich | Mi | 10:15–11:45 | 15.10.2025–04.02.2026 | 13003.00.827 (HG Hörsaal Physikum) |
-
-### Experimentalphysik für  CBI, LSE, CEN, Energietechnik - Vorlesung
-
-- **Segment:** `exam:12480469` · **unitId:** `82667`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480468|exam:12480469>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82667&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
@@ -292,22 +255,6 @@ _Section: Studiengänge der Technischen Fakultät_
 
 ### Übung zu Bioseparation - Übung
 
-- **Segment:** `exam:12480529` · **unitId:** `90173`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480528|exam:12480529>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90173&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:15–11:45 | 13.10.2025–02.02.2026 | 11002.00.020 (H17 Maschinenbau Hörsaal Maschinenbau) |
-
-### Übung zu Bioseparation - Übung
-
 - **Segment:** `exam:12485008` · **unitId:** `90173`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12483429|exam:12483431|exam:12483433|exam:12485007|exam:12485008>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90173&periodId=565>
@@ -372,22 +319,6 @@ _Section: Studiengänge der Technischen Fakultät_
 
 ### Übungen zur Experimentalphysik für Chemical Engineering CEN - Übung
 
-- **Segment:** `exam:12480470` · **unitId:** `84789`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480468|exam:12480470>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84789&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 12:15–13:45 | 15.10.2025–04.02.2026 | 13101.00.732 (SR 00.732 Seminarraum der Didaktik der Physik) |
-
-### Übungen zur Experimentalphysik für Chemical Engineering CEN - Übung
-
 - **Segment:** `exam:12484969` · **unitId:** `84789`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12483429|exam:12483431|exam:12483433|exam:12484967|exam:12484969>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84789&periodId=565>
@@ -420,22 +351,6 @@ _Section: Studiengänge der Technischen Fakultät_
 
 ### Übungen zur Experimentalphysik für Chemie- und Bio-Ing. - Übung
 
-- **Segment:** `exam:12480471` · **unitId:** `87986`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480468|exam:12480471>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87986&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 12:00–13:00 | 15.10.2025–04.02.2026 | 13003.00.836 (HF Hörsaal Physikum) |
-
-### Übungen zur Experimentalphysik für Chemie- und Bio-Ing. - Übung
-
 - **Segment:** `exam:12484970` · **unitId:** `87986`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12483429|exam:12483431|exam:12483433|exam:12484967|exam:12484970>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87986&periodId=565>
@@ -454,22 +369,6 @@ _Section: Studiengänge der Technischen Fakultät_
 
 - **Segment:** `exam:12477470` · **unitId:** `82428`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12477415|exam:12477417|exam:12477419|exam:12477466|exam:12477470>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82428&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| 14-täglich | Mi | 12:00–13:30 | 15.10.2025–04.02.2026 | 13101.00.103 (SR 00.103 Seminarraum der Angewandten Physik) |
-
-### Übungen zur Experimentalphysik für Energietechnik - Übung
-
-- **Segment:** `exam:12480472` · **unitId:** `82428`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480468|exam:12480472>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82428&periodId=565>
 
 - **Veranstaltungsart:** Übung
@@ -517,23 +416,6 @@ _Section: Studiengänge der Technischen Fakultät_
 
 ### Übungen zur Experimentalphysik für Life Science Engineering - Übung
 
-- **Segment:** `exam:12480473` · **unitId:** `99605`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480468|exam:12480473>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99605&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 12:15–13:00 | 15.10.2025–04.02.2026 | 13101.01.779 (SR 01.779 Seminarraum des Instituts für Optik, Information und Photonik) |
-| wöchentlich | Mi | 12:15–13:45 | 15.10.2025–04.02.2026 | 13501.00.020 (SR Staudtstr. 3 Lehrstuhl für Kristallographie) |
-
-### Übungen zur Experimentalphysik für Life Science Engineering - Übung
-
 - **Segment:** `exam:12484972` · **unitId:** `99605`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12483429|exam:12483431|exam:12483433|exam:12484967|exam:12484972>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99605&periodId=565>
@@ -553,22 +435,6 @@ _Section: Studiengänge der Technischen Fakultät_
 
 - **Segment:** `exam:12477489` · **unitId:** `114415`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12477415|exam:12477417|exam:12477419|exam:12477484|exam:12477489>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114415&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:15–11:45 | 16.10.2025–05.02.2026 | 11501.04.023 (04.023 Hörsaal) |
-
-### Übungen zur Mathematik für Ingenieure D3: BT, CBI, CEN - Übung
-
-- **Segment:** `exam:12480491` · **unitId:** `114415`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480486|exam:12480491>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114415&periodId=565>
 
 - **Veranstaltungsart:** Übung
@@ -618,12 +484,6 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12477415|exam:12477417|exam:12477419|exam:12477428>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=30359&periodId=565>
 
-### 1999 Bachelorarbeit (B.Sc. Life Science Engineering 20152)
-
-- **Segment:** `exam:12480438` · **unitId:** `43084`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480438>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43084&periodId=565>
-
 ### 1999 Bachelorarbeit (B.Sc. Life Science Engineering 20192)
 
 - **Segment:** `exam:12484908` · **unitId:** `54077`
@@ -640,21 +500,6 @@ _Section: Studiengänge der Technischen Fakultät_
 
 - **Segment:** `exam:12477497` · **unitId:** `24399`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12477415|exam:12477417|exam:12477419|exam:12477494|exam:12477497>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=24399&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | 08:00–10:00 | — | 12801.01.210 (H11) |
-
-### 20401 Konstruktionslehre - Leistung
-
-- **Segment:** `exam:12480496` · **unitId:** `24399`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480492|exam:12480496>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=24399&periodId=565>
 
 - **ECTS-Punkte:** 5.0
@@ -685,21 +530,6 @@ _Section: Studiengänge der Technischen Fakultät_
 
 - **Segment:** `exam:12477435` · **unitId:** `20937`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12477415|exam:12477417|exam:12477419|exam:12477431|exam:12477435>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20937&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | 08:30–10:00 | — | 12104.01.421 (KS I Kurssaal I Hanns-Hofmann-Hörsaal) |
-
-### 20501 Allgemeine und Anorganische Chemie - Leistung
-
-- **Segment:** `exam:12480445` · **unitId:** `20937`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480441|exam:12480445>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20937&periodId=565>
 
 - **ECTS-Punkte:** 5.0
@@ -758,21 +588,6 @@ _Section: Studiengänge der Technischen Fakultät_
 
 ### 20501 Technisches Zeichnen - Leistung
 
-- **Segment:** `exam:12480497` · **unitId:** `24400`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480492|exam:12480497>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=24400&periodId=565>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | 08:00–09:30 | — | — |
-
-### 20501 Technisches Zeichnen - Leistung
-
 - **Segment:** `exam:12484994` · **unitId:** `24400`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12483429|exam:12483431|exam:12483433|exam:12484992|exam:12484994>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=24400&periodId=565>
@@ -803,21 +618,6 @@ _Section: Studiengänge der Technischen Fakultät_
 
 ### 20502 Anorganisch-chemisches Praktikum inkl. Proseminar - Leistung
 
-- **Segment:** `exam:12480446` · **unitId:** `20938`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480441|exam:12480446>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20938&periodId=565>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 20502 Anorganisch-chemisches Praktikum inkl. Proseminar - Leistung
-
 - **Segment:** `exam:12484920` · **unitId:** `20938`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12483429|exam:12483431|exam:12483433|exam:12484915|exam:12484920>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20938&periodId=565>
@@ -830,21 +630,6 @@ _Section: Studiengänge der Technischen Fakultät_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### 20611 Chemische und biologische Prozesstechnik mit Einführungsprojekt - Leistung
-
-- **Segment:** `exam:12480501` · **unitId:** `43048`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480498|exam:12480501>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43048&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | 14:00–16:00 | — | — |
 
 ### 20701 Epidemiologie - Leistung
 
@@ -876,21 +661,6 @@ _Section: Studiengänge der Technischen Fakultät_
 |---|---|---|---|---|
 | Di | Di | — | — | — |
 
-### 20721 Grundlagen der Verfahrenstechnik 1 - Phasengleichgewichte und Grenzflächen - Leistung
-
-- **Segment:** `exam:12480509` · **unitId:** `42749`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480503|exam:12480509>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=42749&periodId=565>
-
-- **ECTS-Punkte:** 7.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | 11:00–13:00 | — | 11901.00.240 (H10 Hörsaal 10) |
-
 ### 20761 Thermodynamik und Wärmeübertragung - Leistung
 
 - **Segment:** `exam:12484998` · **unitId:** `54033`
@@ -921,21 +691,6 @@ _Section: Studiengänge der Technischen Fakultät_
 |---|---|---|---|---|
 | Mo | Mo | 08:00–10:00 | — | 11901.00.222 (H7 Hörsaal 7) |
 
-### 20801 Bioreaktions- und Bioverfahrenstechnik für LSE - Leistung
-
-- **Segment:** `exam:12480517` · **unitId:** `24404`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480514|exam:12480517>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=24404&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | 08:00–10:00 | — | 11901.00.222 (H7 Hörsaal 7) |
-
 ### 20841 Biotechnologie 2: Bioreaktions- und Bioverfahrenstechnik - Leistung
 
 - **Segment:** `exam:12485002` · **unitId:** `54035`
@@ -955,21 +710,6 @@ _Section: Studiengänge der Technischen Fakultät_
 
 - **Segment:** `exam:12477513` · **unitId:** `24406`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12477415|exam:12477417|exam:12477419|exam:12477512|exam:12477513>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=24406&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | 14:00–16:00 | — | — |
-
-### 20901 Mechanische Verfahrenstechnik - Leistung
-
-- **Segment:** `exam:12480521` · **unitId:** `24406`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480518|exam:12480521>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=24406&periodId=565>
 
 - **ECTS-Punkte:** 5.0
@@ -1028,21 +768,6 @@ _Section: Studiengänge der Technischen Fakultät_
 
 ### 21001 Prozessmaschinen und Apparatetechnik - Leistung
 
-- **Segment:** `exam:12480525` · **unitId:** `24407`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480522|exam:12480525>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=24407&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | 14:00–16:00 | — | — |
-
-### 21001 Prozessmaschinen und Apparatetechnik - Leistung
-
 - **Segment:** `exam:12484895` · **unitId:** `24407`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12483429|exam:12483431|exam:12483433|exam:12484858|exam:12484892|exam:12484895>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=24407&periodId=565>
@@ -1058,24 +783,11 @@ _Section: Studiengänge der Technischen Fakultät_
 
 ### 21211 Bioseparation - Leistung
 
-- **Segment:** `exam:12480531` · **unitId:** `43080`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480528|exam:12480531>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43080&periodId=565>
-
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | 11:00–13:00 | — | 11901.00.226 (H8 Hörsaal 8) |
-
-### 21211 Bioseparation - Leistung
-
 - **Segment:** `exam:12485010` · **unitId:** `43080`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12483429|exam:12483431|exam:12483433|exam:12485007|exam:12485010>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43080&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -1090,6 +802,7 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12491231|exam:12491232|exam:12494318|exam:12494325|exam:12494328>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43080&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -1145,21 +858,6 @@ _Section: Studiengänge der Technischen Fakultät_
 
 ### 24903 Physikalische Chemie - Leistung
 
-- **Segment:** `exam:12480450` · **unitId:** `27724`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480447|exam:12480450>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27724&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | 11:00–12:30 | — | 11901.00.226 (H8 Hörsaal 8) |
-
-### 24903 Physikalische Chemie - Leistung
-
 - **Segment:** `exam:12484924` · **unitId:** `27724`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12483429|exam:12483431|exam:12483433|exam:12484921|exam:12484924>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27724&periodId=565>
@@ -1187,21 +885,6 @@ _Section: Studiengänge der Technischen Fakultät_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Di | Di | 11:00–12:30 | — | 11901.00.240 (H10 Hörsaal 10) |
-
-### 24911 Chemische Reaktionstechnik - Leistung
-
-- **Segment:** `exam:12480420` · **unitId:** `25473`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480413|exam:12480417|exam:12480420>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=25473&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | 11:00–13:00 | — | 11901.00.226 (H8 Hörsaal 8) |
 
 ### 24911 Chemische Reaktionstechnik - Leistung
 
@@ -1265,21 +948,6 @@ _Section: Studiengänge der Technischen Fakultät_
 
 ### 28611 Mikrobiologie - Leistung
 
-- **Segment:** `exam:12480453` · **unitId:** `43045`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480452|exam:12480453>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43045&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | 10:15–11:45 | — | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
-
-### 28611 Mikrobiologie - Leistung
-
 - **Segment:** `exam:12484928` · **unitId:** `43045`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12483429|exam:12483431|exam:12483433|exam:12484926|exam:12484928>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43045&periodId=565>
@@ -1298,21 +966,6 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Segment:** `exam:12477451` · **unitId:** `35374`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12477415|exam:12477417|exam:12477419|exam:12477449|exam:12477451>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=35374&periodId=565>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 28801 Mikrobiologisches Praktikum - Leistung
-
-- **Segment:** `exam:12480454` · **unitId:** `24392`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480452|exam:12480454>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=24392&periodId=565>
 
 - **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
@@ -1355,21 +1008,6 @@ _Section: Studiengänge der Technischen Fakultät_
 
 ### 29001 Biochemie 1 - Leistung
 
-- **Segment:** `exam:12480458` · **unitId:** `25485`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480455|exam:12480458>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=25485&periodId=565>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | 13:00–14:30 | — | 11906.01.040 (H20) |
-
-### 29001 Biochemie 1 - Leistung
-
 - **Segment:** `exam:12484932` · **unitId:** `25485`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12483429|exam:12483431|exam:12483433|exam:12484929|exam:12484932>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=25485&periodId=565>
@@ -1387,21 +1025,6 @@ _Section: Studiengänge der Technischen Fakultät_
 
 - **Segment:** `exam:12477456` · **unitId:** `25486`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12477415|exam:12477417|exam:12477419|exam:12477452|exam:12477456>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=25486&periodId=565>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | 15:00–16:00 | — | 11906.01.030 (H21) |
-
-### 29002 Biochemie 2 - Leistung
-
-- **Segment:** `exam:12480459` · **unitId:** `25486`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480455|exam:12480459>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=25486&periodId=565>
 
 - **ECTS-Punkte:** 2.5
@@ -1653,40 +1276,10 @@ _Section: Studiengänge der Technischen Fakultät_
 |---|---|---|---|---|
 | Di | Di | 11:00–14:00 | — | 12801.01.210 (H11) |
 
-### 34901 Organische Chemie - Leistung
-
-- **Segment:** `exam:12480466` · **unitId:** `24420`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480462|exam:12480466>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=24420&periodId=565>
-
-- **ECTS-Punkte:** 7.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | 11:00–14:00 | — | 12801.01.210 (H11) |
-
 ### 34902 Organisch - chemisches Praktikum - Leistung
 
 - **Segment:** `exam:12477465` · **unitId:** `24419`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12477415|exam:12477417|exam:12477419|exam:12477460|exam:12477465>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=24419&periodId=565>
-
-- **ECTS-Punkte:** 0.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 34902 Organisch - chemisches Praktikum - Leistung
-
-- **Segment:** `exam:12480467` · **unitId:** `24419`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480462|exam:12480467>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=24419&periodId=565>
 
 - **ECTS-Punkte:** 0.0
@@ -1728,21 +1321,6 @@ _Section: Studiengänge der Technischen Fakultät_
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### 40221 Messtechnik und Instrumentelle Analytik - Leistung
-
-- **Segment:** `exam:12480538` · **unitId:** `43046`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480534|exam:12480538>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43046&periodId=565>
-
-- **ECTS-Punkte:** 7.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | 11:00–12:30 | — | — |
-
 ### 40601 Projektierungskurs - Leistung
 
 - **Segment:** `exam:12492882` · **unitId:** `24468`
@@ -1774,21 +1352,6 @@ _Section: Studiengänge der Technischen Fakultät_
 
 ### 40701 Medizinische Biotechnologie - Leistung
 
-- **Segment:** `exam:12480549` · **unitId:** `25483`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480546|exam:12480549>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=25483&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | 14:00–16:00 | — | 11907.01.040 (H18) |
-
-### 40701 Medizinische Biotechnologie - Leistung
-
 - **Segment:** `exam:12485014` · **unitId:** `25483`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12483429|exam:12483431|exam:12483433|exam:12485011|exam:12485014>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=25483&periodId=565>
@@ -1801,21 +1364,6 @@ _Section: Studiengänge der Technischen Fakultät_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mi | Mi | 14:00–16:00 | — | 11907.01.040 (H18) |
-
-### 41011 Computeranwendungen in der Verfahrenstechnik 1 - Leistung
-
-- **Segment:** `exam:12480558` · **unitId:** `42747`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480550|exam:12480558>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=42747&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | 11:00–12:30 | — | 11901.00.240 (H10 Hörsaal 10) |
 
 ### 41011 Computeranwendungen in der Verfahrenstechnik 1 - Leistung
 
@@ -2164,36 +1712,6 @@ _Section: Studiengänge der Technischen Fakultät_
 |---|---|---|---|---|
 | Do | Do | 08:00–09:30 | — | — |
 
-### 46601 Statik und Festigkeitslehre - Leistung
-
-- **Segment:** `exam:12480567` · **unitId:** `21058`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480562|exam:12480567>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=21058&periodId=565>
-
-- **ECTS-Punkte:** 7.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | 08:00–09:30 | — | — |
-
-### 47301 Reaktionstechnik - Leistung
-
-- **Segment:** `exam:12480425` · **unitId:** `26234`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480413|exam:12480421|exam:12480425>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=26234&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | 11:00–13:00 | — | 11901.00.226 (H8 Hörsaal 8) |
-
 ### 47301 Reaktionstechnik - Leistung
 
 - **Segment:** `exam:12484883` · **unitId:** `26234`
@@ -2213,21 +1731,6 @@ _Section: Studiengänge der Technischen Fakultät_
 
 - **Segment:** `exam:12477476` · **unitId:** `25496`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12477415|exam:12477417|exam:12477419|exam:12477473|exam:12477476>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=25496&periodId=565>
-
-- **ECTS-Punkte:** 7.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | 14:00–15:30 | — | — |
-
-### 47401 Mathematik D 1 - Leistung
-
-- **Segment:** `exam:12480478` · **unitId:** `25496`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480475|exam:12480478>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=25496&periodId=565>
 
 - **ECTS-Punkte:** 7.5
@@ -2269,40 +1772,10 @@ _Section: Studiengänge der Technischen Fakultät_
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### 47402 Übung Mathematik D 1 - Leistung
-
-- **Segment:** `exam:12480479` · **unitId:** `25497`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480475|exam:12480479>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=25497&periodId=565>
-
-- **ECTS-Punkte:** 0.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
 ### 47501 Mathematik D 2 - Leistung
 
 - **Segment:** `exam:12477482` · **unitId:** `25498`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12477415|exam:12477417|exam:12477419|exam:12477479|exam:12477482>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=25498&periodId=565>
-
-- **ECTS-Punkte:** 7.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | 14:00–15:30 | — | 11901.00.226 (H8 Hörsaal 8) |
-
-### 47501 Mathematik D 2 - Leistung
-
-- **Segment:** `exam:12480484` · **unitId:** `25498`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480481|exam:12480484>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=25498&periodId=565>
 
 - **ECTS-Punkte:** 7.5
@@ -2346,21 +1819,6 @@ _Section: Studiengänge der Technischen Fakultät_
 
 ### 47601 Mathematik D 3 - Leistung
 
-- **Segment:** `exam:12480489` · **unitId:** `25500`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480486|exam:12480489>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=25500&periodId=565>
-
-- **ECTS-Punkte:** 7.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | 14:00–15:30 | — | — |
-
-### 47601 Mathematik D 3 - Leistung
-
 - **Segment:** `exam:12484986` · **unitId:** `25500`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12483429|exam:12483431|exam:12483433|exam:12484983|exam:12484986>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=25500&periodId=565>
@@ -2378,21 +1836,6 @@ _Section: Studiengänge der Technischen Fakultät_
 
 - **Segment:** `exam:12477488` · **unitId:** `32787`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12477415|exam:12477417|exam:12477419|exam:12477484|exam:12477488>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=32787&periodId=565>
-
-- **ECTS-Punkte:** 0.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 47602 Übung Mathematik D 3 - Leistung
-
-- **Segment:** `exam:12480490` · **unitId:** `32787`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480486|exam:12480490>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=32787&periodId=565>
 
 - **ECTS-Punkte:** 0.0
@@ -2645,20 +2088,6 @@ _Section: Studiengänge der Technischen Fakultät_
 
 ### 58011 Medizintechnik I (Biomaterialien) - Leistung
 
-- **Segment:** `exam:12480429` · **unitId:** `50612`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480413|exam:12480426|exam:12480429>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50612&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | 08:00–09:30 | — | — |
-
-### 58011 Medizintechnik I (Biomaterialien) - Leistung
-
 - **Segment:** `exam:12484887` · **unitId:** `50612`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12483429|exam:12483431|exam:12483433|exam:12484858|exam:12484884|exam:12484887>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50612&periodId=565>
@@ -2675,21 +2104,6 @@ _Section: Studiengänge der Technischen Fakultät_
 
 - **Segment:** `exam:12477472` · **unitId:** `20943`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12477415|exam:12477417|exam:12477419|exam:12477466|exam:12477472>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20943&periodId=565>
-
-- **ECTS-Punkte:** 7.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | 09:00–12:00 | — | — |
-
-### 60401 Experimentalphysik - Leistung
-
-- **Segment:** `exam:12480474` · **unitId:** `20943`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480468|exam:12480474>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20943&periodId=565>
 
 - **ECTS-Punkte:** 7.5
@@ -2779,32 +2193,11 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12477415|exam:12477417|exam:12477419|exam:12477457>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=24386&periodId=565>
 
-### 63471 Grundlagen der Arzneiformenlehre
-
-- **Segment:** `exam:12480460` · **unitId:** `43068`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480460>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43068&periodId=565>
-
 ### 63481 Biopharmazie
 
 - **Segment:** `exam:12477424` · **unitId:** `41401`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12477415|exam:12477417|exam:12477419|exam:12477423|exam:12477424>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=41401&periodId=565>
-
-### 642026 Organ-Funktion und Organ-Technik - Leistung
-
-- **Segment:** `exam:12480433` · **unitId:** `46706`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480413|exam:12480430|exam:12480433>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46706&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | 14:00–15:30 | — | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
 
 ### 642026 Organ-Funktion und Organ-Technik - Leistung
 
@@ -2970,12 +2363,6 @@ _Section: Studiengänge der Technischen Fakultät_
 
 ### 92111 Biothermofluiddynamik
 
-- **Segment:** `exam:12480526` · **unitId:** `43070`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480526>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43070&periodId=565>
-
-### 92111 Biothermofluiddynamik
-
 - **Segment:** `exam:12494323` · **unitId:** `43070`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12491231|exam:12491232|exam:12494318|exam:12494323>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43070&periodId=565>
@@ -2992,23 +2379,11 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12477415|exam:12477417|exam:12477419|exam:12477423|exam:12477426>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=35375&periodId=565>
 
-### 92141 Immunologie
-
-- **Segment:** `exam:12480415` · **unitId:** `35375`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480413|exam:12480415>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=35375&periodId=565>
-
 ### 92162 Biophysik und Biomechanik
 
 - **Segment:** `exam:12491398` · **unitId:** `74745`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12491231|exam:12491232|exam:12491233|exam:12491337|exam:12491398>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74745&periodId=565>
-
-### 92210 Einführung in das Life Science Engineering
-
-- **Segment:** `exam:12480532` · **unitId:** `43067`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480532>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43067&periodId=565>
 
 ### 93310 Computeranwendungen in der Verfahrenstechnik
 
@@ -3040,32 +2415,11 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12477415|exam:12477417|exam:12477419|exam:12477537>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=25025&periodId=565>
 
-### 94033 Bioprozessautomation
-
-- **Segment:** `exam:12480540` · **unitId:** `43069`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480540>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43069&periodId=565>
-
 ### 94480 Reinraumtechnik
 
 - **Segment:** `exam:12491425` · **unitId:** `24436`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12491231|exam:12491232|exam:12491233|exam:12491423|exam:12491425>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=24436&periodId=565>
-
-### 959016 Zellkulturtechnik für LSE (Wahlpflichtfach) - Leistung
-
-- **Segment:** `exam:12480437` · **unitId:** `49773`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480413|exam:12480434|exam:12480437>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49773&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
 
 ### 959016 Zellkulturtechnik für LSE (Wahlpflichtfach) - Leistung
 
@@ -3095,17 +2449,6 @@ _Section: Studiengänge der Technischen Fakultät_
 
 ### AC59 - Anorganisch-analytisch-chemischer Kurs für Anfänger (CBI/BT/CEN) - Praktikum
 
-- **Segment:** `exam:12480444` · **unitId:** `85401`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480441|exam:12480444>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85401&periodId=565>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-### AC59 - Anorganisch-analytisch-chemischer Kurs für Anfänger (CBI/BT/CEN) - Praktikum
-
 - **Segment:** `exam:12484918` · **unitId:** `85401`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12483429|exam:12483431|exam:12483433|exam:12484915|exam:12484918>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85401&periodId=565>
@@ -3119,23 +2462,6 @@ _Section: Studiengänge der Technischen Fakultät_
 
 - **Segment:** `exam:12477433` · **unitId:** `95724`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12477415|exam:12477417|exam:12477419|exam:12477431|exam:12477433>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95724&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 0.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 08:30–10:00 | 15.10.2025–17.12.2025 | 12104.01.421 (KS I Kurssaal I Hanns-Hofmann-Hörsaal) |
-
-### AC59 - Seminar z. Anorgan.-Chemischen Praktikum für CBI, BT, CEN - Seminar
-
-- **Segment:** `exam:12480443` · **unitId:** `95724`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480441|exam:12480443>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95724&periodId=565>
 
 - **Veranstaltungsart:** Seminar
@@ -3201,22 +2527,6 @@ _Section: Studiengänge der Technischen Fakultät_
 
 ### BCNF1 - Einführung in die Biochemie für Naturwisschenschaftler und Techniker Teil1 - Vorlesung
 
-- **Segment:** `exam:12480456` · **unitId:** `82746`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480455|exam:12480456>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82746&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 08:15–09:45 | 15.10.2025–04.02.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
-
-### BCNF1 - Einführung in die Biochemie für Naturwisschenschaftler und Techniker Teil1 - Vorlesung
-
 - **Segment:** `exam:12484930` · **unitId:** `82746`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12483429|exam:12483431|exam:12483433|exam:12484929|exam:12484930>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82746&periodId=565>
@@ -3246,23 +2556,6 @@ _Section: Studiengänge der Technischen Fakultät_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 12:15–13:45 | 22.10.2025–04.02.2026 | 12401.00.111 (0.111 Seminarraum 0.111) |
-
-### BioSep I - Bioseparation - Vorlesung
-
-- **Segment:** `exam:12480530` · **unitId:** `94564`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480528|exam:12480530>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94564&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch oder Englisch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 10:15–11:45 | 17.10.2025–06.02.2026 | 11201.00.245 (T 0.75 großer Seminarraum) |
 
 ### BioSep I - Bioseparation - Vorlesung
 
@@ -3320,7 +2613,9 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12483429|exam:12483431|exam:12483433|exam:12484944|exam:12484947>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88913&periodId=565>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -3397,23 +2692,6 @@ _Section: Studiengänge der Technischen Fakultät_
 
 ### CRT-ET - Chemische Reaktionstechnik 1 für ET - Vorlesung
 
-- **Segment:** `exam:12480418` · **unitId:** `89264`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480413|exam:12480417|exam:12480418>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89264&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:15–15:45 | 13.10.2025–02.02.2026 | 11201.00.245 (T 0.75 großer Seminarraum) |
-
-### CRT-ET - Chemische Reaktionstechnik 1 für ET - Vorlesung
-
 - **Segment:** `exam:12484871` · **unitId:** `89264`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12483429|exam:12483431|exam:12483433|exam:12484858|exam:12484870|exam:12484871>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89264&periodId=565>
@@ -3428,22 +2706,6 @@ _Section: Studiengänge der Technischen Fakultät_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:15–15:45 | 13.10.2025–02.02.2026 | 11201.00.245 (T 0.75 großer Seminarraum) |
-
-### CRT-ETU - Chemische Reaktionstechnik 1 für ET Übungen - Übung
-
-- **Segment:** `exam:12480419` · **unitId:** `95605`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480413|exam:12480417|exam:12480419>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95605&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 14:15–15:45 | 17.10.2025–06.02.2026 | 11201.00.245 (T 0.75 großer Seminarraum) |
 
 ### CRT-ETU - Chemische Reaktionstechnik 1 für ET Übungen - Übung
 
@@ -3600,21 +2862,6 @@ _Section: Studiengänge der Technischen Fakultät_
 
 ### IngMathD1U - Übungen zur Mathematik für Ingenieure D1: BT, CBI, CEN - Übung
 
-- **Segment:** `exam:12480480` · **unitId:** `114566`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480475|exam:12480480>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114566&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 08:15–09:45 | 13.10.2025–02.02.2026 | 11901.U1.245 (K2-119 Seminarraum) |
-
-### IngMathD1U - Übungen zur Mathematik für Ingenieure D1: BT, CBI, CEN - Übung
-
 - **Segment:** `exam:12484978` · **unitId:** `114566`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12483429|exam:12483431|exam:12483433|exam:12484974|exam:12484978>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114566&periodId=565>
@@ -3632,24 +2879,6 @@ _Section: Studiengänge der Technischen Fakultät_
 
 - **Segment:** `exam:12477474` · **unitId:** `82195`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12477415|exam:12477417|exam:12477419|exam:12477473|exam:12477474>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82195&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 7.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 12:15–13:45 | 20.10.2025–02.02.2026 | 11906.01.030 (H21) |
-| wöchentlich | Fr | 08:15–09:45 | 17.10.2025–06.02.2026 | 11906.01.030 (H21) |
-
-### IngMathD1V - Mathematik für Ingenieure D1: BT, CBI, CEN, IP, MWT, NT - Vorlesung
-
-- **Segment:** `exam:12480476` · **unitId:** `82195`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480475|exam:12480476>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82195&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
@@ -3702,24 +2931,6 @@ _Section: Studiengänge der Technischen Fakultät_
 
 ### IngMathD3V - Mathematik für Ingenieure D3: BT, CBI, CEN, IP - Vorlesung
 
-- **Segment:** `exam:12480487` · **unitId:** `85795`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480486|exam:12480487>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85795&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 7.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 12:15–13:45 | 20.10.2025–02.02.2026 | 11906.01.040 (H20) |
-| wöchentlich | Do | 16:15–17:45 | 16.10.2025–05.02.2026 | 11906.01.040 (H20) 13003.00.807 (HH Hörsaal Physikum) |
-
-### IngMathD3V - Mathematik für Ingenieure D3: BT, CBI, CEN, IP - Vorlesung
-
 - **Segment:** `exam:12484984` · **unitId:** `85795`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12483429|exam:12483431|exam:12483433|exam:12484983|exam:12484984>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85795&periodId=565>
@@ -3755,23 +2966,6 @@ _Section: Studiengänge der Technischen Fakultät_
 
 ### KL  Ü - Konstruktionslehre  - Vorlesung mit Übung
 
-- **Segment:** `exam:12480493` · **unitId:** `84579`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480492|exam:12480493>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84579&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:15–11:45 | 14.10.2025–03.02.2026 | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
-
-### KL  Ü - Konstruktionslehre  - Vorlesung mit Übung
-
 - **Segment:** `exam:12484989` · **unitId:** `84579`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12483429|exam:12483431|exam:12483433|exam:12484988|exam:12484989>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84579&periodId=565>
@@ -3791,23 +2985,6 @@ _Section: Studiengänge der Technischen Fakultät_
 
 - **Segment:** `exam:12477496` · **unitId:** `86220`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12477415|exam:12477417|exam:12477419|exam:12477494|exam:12477496>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86220&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:15–15:45 | 20.10.2025–02.02.2026 | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
-
-### KL - Konstruktionslehre - Vorlesung
-
-- **Segment:** `exam:12480494` · **unitId:** `86220`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480492|exam:12480494>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86220&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
@@ -3906,22 +3083,6 @@ _Section: Studiengänge der Technischen Fakultät_
 
 ### LSE-WT-UE - Übung zu Thermodynamik und Wärmeübertragung - Übung
 
-- **Segment:** `exam:12480511` · **unitId:** `88320`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480510|exam:12480511>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88320&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:15–13:45 | 14.10.2025–03.02.2026 | 11002.00.020 (H17 Maschinenbau Hörsaal Maschinenbau) |
-
-### LSE-WT-UE - Übung zu Thermodynamik und Wärmeübertragung - Übung
-
 - **Segment:** `exam:12484996` · **unitId:** `88320`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12483429|exam:12483431|exam:12483433|exam:12484995|exam:12484996>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88320&periodId=565>
@@ -3935,23 +3096,6 @@ _Section: Studiengänge der Technischen Fakultät_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 12:15–13:45 | 14.10.2025–03.02.2026 | 11002.00.020 (H17 Maschinenbau Hörsaal Maschinenbau) |
-
-### LSE-WT-VL - Thermodynamik und Wärmeübertragung - Vorlesung
-
-- **Segment:** `exam:12480512` · **unitId:** `90348`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480510|exam:12480512>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90348&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 14.10.2025–03.02.2026 | 12106.00.633 (VT-Seminarraum FST-Cauerstraße 4) |
-| wöchentlich | Do | 12:15–13:45 | 16.10.2025–05.02.2026 | 12106.00.633 (VT-Seminarraum FST-Cauerstraße 4) |
 
 ### LSE-WT-VL - Thermodynamik und Wärmeübertragung - Vorlesung
 
@@ -3972,22 +3116,6 @@ _Section: Studiengänge der Technischen Fakultät_
 
 ### MBT (Üb) - Medizinische Biotechnologie - Übung - Übung
 
-- **Segment:** `exam:12480548` · **unitId:** `86753`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480546|exam:12480548>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86753&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch oder Englisch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 12:15–13:45 | 15.10.2025–04.02.2026 | 07204.02.028 (SR 02.028 Seminarraum der LS Autonome Systeme und Mechatronik u. Medizinische Biotechnologie) |
-
-### MBT (Üb) - Medizinische Biotechnologie - Übung - Übung
-
 - **Segment:** `exam:12485013` · **unitId:** `86753`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12483429|exam:12483431|exam:12483433|exam:12485011|exam:12485013>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86753&periodId=565>
@@ -4001,23 +3129,6 @@ _Section: Studiengänge der Technischen Fakultät_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 12:15–13:45 | 15.10.2025–04.02.2026 | 07204.02.028 (SR 02.028 Seminarraum der LS Autonome Systeme und Mechatronik u. Medizinische Biotechnologie) |
-
-### MBT - Medizinische Biotechnologie  - Vorlesung
-
-- **Segment:** `exam:12480547` · **unitId:** `85624`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480546|exam:12480547>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85624&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:15–11:45 | 14.10.2025–03.02.2026 | 07204.02.028 (SR 02.028 Seminarraum der LS Autonome Systeme und Mechatronik u. Medizinische Biotechnologie) |
 
 ### MBT - Medizinische Biotechnologie  - Vorlesung
 
@@ -4035,23 +3146,6 @@ _Section: Studiengänge der Technischen Fakultät_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 10:15–11:45 | 14.10.2025–03.02.2026 | 07204.02.028 (SR 02.028 Seminarraum der LS Autonome Systeme und Mechatronik u. Medizinische Biotechnologie) |
-
-### MedTech1BioMat - Medizintechnik I (Biomaterialien) - Vorlesung
-
-- **Segment:** `exam:12480428` · **unitId:** `93539`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480413|exam:12480426|exam:12480428>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93539&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 12:15–13:45 | 24.10.2025–06.02.2026 | 11901.00.222 (H7 Hörsaal 7) |
 
 ### MedTech1BioMat - Medizintechnik I (Biomaterialien) - Vorlesung
 
@@ -4121,24 +3215,6 @@ _Section: Studiengänge der Technischen Fakultät_
 
 ### MVT - Mechanische Verfahrenstechnik - Vorlesung mit Übung
 
-- **Segment:** `exam:12480519` · **unitId:** `84263`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480518|exam:12480519>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84263&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 08:15–09:45 | 15.10.2025–04.02.2026 | 11401.00.116 (H14 Bernhard-Ilschner-Hörsaal (0.61)) 11002.00.020 (H17 Maschinenbau Hörsaal Maschinenbau) |
-| wöchentlich | Fr | 08:15–09:45 | 17.10.2025–06.02.2026 | 11901.00.222 (H7 Hörsaal 7) |
-
-### MVT - Mechanische Verfahrenstechnik - Vorlesung mit Übung
-
 - **Segment:** `exam:12485004` · **unitId:** `84263`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12483429|exam:12483431|exam:12483433|exam:12485003|exam:12485004>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84263&periodId=565>
@@ -4185,16 +3261,6 @@ _Section: Studiengänge der Technischen Fakultät_
 
 ### OC 53 - Organisch-chemisches Praktikum für Chemieingenieure - Praktikum
 
-- **Segment:** `exam:12480464` · **unitId:** `85016`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480462|exam:12480464>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85016&periodId=565>
-
-- **Veranstaltungsart:** Praktikum
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-### OC 53 - Organisch-chemisches Praktikum für Chemieingenieure - Praktikum
-
 - **Segment:** `exam:12484963` · **unitId:** `85016`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12483429|exam:12483431|exam:12483433|exam:12484961|exam:12484963>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85016&periodId=565>
@@ -4207,23 +3273,6 @@ _Section: Studiengänge der Technischen Fakultät_
 
 - **Segment:** `exam:12477463` · **unitId:** `92709`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12477415|exam:12477417|exam:12477419|exam:12477460|exam:12477463>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92709&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 15:00–18:00 | 13.10.2025–02.02.2026 | 13301.U1.0171 (C1 - Chemikum) |
-| wöchentlich | Fr | 14:00–16:00 | 17.10.2025–06.02.2026 | 13301.U1.0171 (C1 - Chemikum) |
-
-### OC 54 - Organische Chemie - Vorlesung
-
-- **Segment:** `exam:12480465` · **unitId:** `92709`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480462|exam:12480465>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92709&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
@@ -4272,22 +3321,6 @@ _Section: Studiengänge der Technischen Fakultät_
 
 ### OC 55 - Seminar zum organisch-chemischen Praktikum für Chemieingenieure - Hauptseminar
 
-- **Segment:** `exam:12480463` · **unitId:** `84617`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480462|exam:12480463>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84617&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 08:15–09:00 | 14.10.2025–03.02.2026 | 13301.01.0241 (C4 - Chemikum) 13301.00.110 (00.110 - Chemikum Seminarraum Organische Chemie) |
-
-### OC 55 - Seminar zum organisch-chemischen Praktikum für Chemieingenieure - Hauptseminar
-
 - **Segment:** `exam:12484962` · **unitId:** `84617`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12483429|exam:12483431|exam:12483433|exam:12484961|exam:12484962>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84617&periodId=565>
@@ -4301,23 +3334,6 @@ _Section: Studiengänge der Technischen Fakultät_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 08:15–09:00 | 14.10.2025–03.02.2026 | 13301.01.0241 (C4 - Chemikum) 13301.00.110 (00.110 - Chemikum Seminarraum Organische Chemie) |
-
-### OFOT - Organ-Funktion & Organ-Technik - Vorlesung
-
-- **Segment:** `exam:12480432` · **unitId:** `85246`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480413|exam:12480430|exam:12480432>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85246&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 12:15–13:45 | 16.10.2025–05.02.2026 | 07204.02.028 (SR 02.028 Seminarraum der LS Autonome Systeme und Mechatronik u. Medizinische Biotechnologie) |
 
 ### OFOT - Organ-Funktion & Organ-Technik - Vorlesung
 
@@ -4335,22 +3351,6 @@ _Section: Studiengänge der Technischen Fakultät_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 12:15–13:45 | 16.10.2025–05.02.2026 | 07204.02.028 (SR 02.028 Seminarraum der LS Autonome Systeme und Mechatronik u. Medizinische Biotechnologie) |
-
-### OFOT-UE - Organ-Funktion & Organ-Technik - Übung - Übung
-
-- **Segment:** `exam:12480431` · **unitId:** `83020`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480413|exam:12480430|exam:12480431>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83020&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 16:15–17:45 | 14.10.2025–03.02.2026 | 07204.02.028 (SR 02.028 Seminarraum der LS Autonome Systeme und Mechatronik u. Medizinische Biotechnologie) |
 
 ### OFOT-UE - Organ-Funktion & Organ-Technik - Übung - Übung
 
@@ -4403,24 +3403,6 @@ _Section: Studiengänge der Technischen Fakultät_
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:15–15:45 | 20.10.2025–02.02.2026 | 12102.00.231 (LSTM-SR LSTM-Seminarraum) |
 | wöchentlich | Fr | 12:15–13:45 | 17.10.2025–06.02.2026 | 12103.00.332 |
-
-### PR-CBI/CEN/LSE - Verfahrenstechnisches Praktikum für CBI, CEN und LSE - Praktikum
-
-- **Segment:** `exam:12480560` · **unitId:** `85355`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480559|exam:12480560>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85355&periodId=565>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 14:00–20:00 | 15.10.2025–04.02.2026 | — |
-| wöchentlich | Do | 08:00–20:00 | 16.10.2025–05.02.2026 | — |
 
 ### PR-CBI/CEN/LSE - Verfahrenstechnisches Praktikum für CBI, CEN und LSE - Praktikum
 
@@ -4655,43 +3637,10 @@ _Section: Studiengänge der Technischen Fakultät_
 |---|---|---|---|---|
 | wöchentlich | Di | 08:15–09:45 | 14.10.2025–03.02.2026 | 11906.01.030 (H21) |
 
-### SuF-T - Tutorium zur Statik und Festigkeitslehre - Tutorium
-
-- **Segment:** `exam:12480568` · **unitId:** `91465`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480562|exam:12480568>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91465&periodId=565>
-
-- **Veranstaltungsart:** Tutorium
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 08:15–09:45 | 14.10.2025–03.02.2026 | 11906.01.030 (H21) |
-
 ### SuF-VL - Statik und Festigkeitslehre - Vorlesung
 
 - **Segment:** `exam:12477544` · **unitId:** `83320`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12477415|exam:12477417|exam:12477419|exam:12477542|exam:12477544>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83320&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:15–11:45 | 20.10.2025–02.02.2026 | 11901.00.222 (H7 Hörsaal 7) |
-| wöchentlich | Di | 12:15–13:45 | 14.10.2025–03.02.2026 | 11901.00.222 (H7 Hörsaal 7) |
-
-### SuF-VL - Statik und Festigkeitslehre - Vorlesung
-
-- **Segment:** `exam:12480564` · **unitId:** `83320`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480562|exam:12480564>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83320&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
@@ -4721,22 +3670,6 @@ _Section: Studiengänge der Technischen Fakultät_
 |---|---|---|---|---|
 | wöchentlich | Di | 10:15–11:45 | 14.10.2025–03.02.2026 | 11906.01.030 (H21) |
 
-### SuF-Ü - Übung  zur Statik und Festigkeitslehre - Übung
-
-- **Segment:** `exam:12480565` · **unitId:** `91315`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480562|exam:12480565>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91315&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:15–11:45 | 14.10.2025–03.02.2026 | 11906.01.030 (H21) |
-
 ### TL W - Wahlmodul Technikland - Sonstige Lehrveranstaltung
 
 - **Segment:** `exam:12494356` · **unitId:** `105011`
@@ -4747,22 +3680,6 @@ _Section: Studiengänge der Technischen Fakultät_
 - **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-### TUT MVT - Tutorien Mechanischen Verfahrenstechnik - Tutorium
-
-- **Segment:** `exam:13744549` · **unitId:** `92935`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480518|exam:13744549>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92935&periodId=565>
-
-- **Veranstaltungsart:** Tutorium
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 08:15–09:45 | 13.10.2025–02.02.2026 | 12103.00.332 |
 
 ### TUT MVT - Tutorien Mechanischen Verfahrenstechnik - Tutorium
 
@@ -4806,37 +3723,10 @@ _Section: Studiengänge der Technischen Fakultät_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
 
-### Tutoreneinführung - Statik und Festigkeitslehre - Sonstige Lehrveranstaltung
-
-- **Segment:** `exam:12480563` · **unitId:** `88460`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480562|exam:12480563>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88460&periodId=565>
-
-- **Veranstaltungsart:** Sonstige Lehrveranstaltung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
 ### TZ - Konstruktionslehre Übung - Technisches Zeichnen - Übung
 
 - **Segment:** `exam:12477499` · **unitId:** `86330`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12477415|exam:12477417|exam:12477419|exam:12477498|exam:12477499>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86330&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:15–15:45 | 16.10.2025–05.02.2026 | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
-
-### TZ - Konstruktionslehre Übung - Technisches Zeichnen - Übung
-
-- **Segment:** `exam:12480495` · **unitId:** `86330`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480492|exam:12480495>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86330&periodId=565>
 
 - **Veranstaltungsart:** Übung
@@ -4953,23 +3843,6 @@ _Section: Studiengänge der Technischen Fakultät_
 
 ### ÜMedTech1BioMat - Übungen zu Medizintechnik I (Biomaterialien) - Übung
 
-- **Segment:** `exam:12480427` · **unitId:** `83187`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12480408|exam:12480410|exam:12480412|exam:12480413|exam:12480426|exam:12480427>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83187&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:15–15:45 | 20.10.2025–02.02.2026 | 11401.00.116 (H14 Bernhard-Ilschner-Hörsaal (0.61)) |
-
-### ÜMedTech1BioMat - Übungen zu Medizintechnik I (Biomaterialien) - Übung
-
 - **Segment:** `exam:12484885` · **unitId:** `83187`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16764|title:17108|exam:12483429|exam:12483431|exam:12483433|exam:12484858|exam:12484884|exam:12484885>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83187&periodId=565>
@@ -4985,7 +3858,7 @@ _Section: Studiengänge der Technischen Fakultät_
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:15–15:45 | 20.10.2025–02.02.2026 | 11401.00.116 (H14 Bernhard-Ilschner-Hörsaal (0.61)) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (99)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (63)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -5004,6 +3877,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Sommersemester
+
+### Bioanalytik - Praktikum
+
+- **Segment:** `unit:101346` · **unitId:** `101346`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101346&periodId=565>
+
+- **Veranstaltungsart:** Praktikum
+- **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Sommersemester
 
 ### Bioanalytik - Übung
@@ -5078,14 +3960,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
-### BWL für Ingenieure II — Vorlesung mit Übung
-
-- **Segment:** `unit:83990` · **unitId:** `83990`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83990&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Turnus:** nur im Sommersemester
-
 ### Chemische Energiespeicherung
 
 - **Segment:** `unit:36480` · **unitId:** `36480`
@@ -5099,22 +3973,27 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Di | Di | 08:00–10:00 | — | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
 
-### Chemische Thermodynamik (UE) — Übung
+### Chemische und Biologische Prozesstechnik - Praktikum — Praxisseminar
 
-- **Segment:** `unit:85236` · **unitId:** `85236`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85236&periodId=565>
+- **Segment:** `unit:85838` · **unitId:** `85838`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85838&periodId=565>
 
-- **Veranstaltungsart:** Übung
+- **Veranstaltungsart:** Praxisseminar
 - **Turnus:** nur im Sommersemester
 
-### Chemische Thermodynamik (VL) — Vorlesung
+### Chemische und biologische Prozesstechnik mit Einführungsprojekt
 
-- **Segment:** `unit:83236` · **unitId:** `83236`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83236&periodId=565>
+- **Segment:** `unit:43048` · **unitId:** `43048`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43048&periodId=565>
 
-- **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | 14:00–16:00 | — | — |
 
 ### Chemische und Biologische Prozesstechnik mit Einführungsprojekt — Vorlesung
 
@@ -5153,74 +4032,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Computational Fluid Dynamics II — Vorlesung
-
-- **Segment:** `unit:83034` · **unitId:** `83034`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83034&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### Computeranwendungen in der Verfahrenstechnik 1 (Übung4)
-
-- **Segment:** `unit:82986` · **unitId:** `82986`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82986&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Sommersemester
-
-### Data Science for Engineers (Exercise) — Übung
-
-- **Segment:** `unit:114868` · **unitId:** `114868`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114868&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### Discrete Element Simulations — Vorlesung
-
-- **Segment:** `unit:110299` · **unitId:** `110299`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110299&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 7.5
-- **Turnus:** nur im Sommersemester
-
-### Discrete Element Simulations — Übung
-
-- **Segment:** `unit:110301` · **unitId:** `110301`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110301&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Sommersemester
-
-### Einführung in die Biochemie für Naturwissenschaftler Teil2 — Vorlesung
-
-- **Segment:** `unit:84927` · **unitId:** `84927`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84927&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Sommersemester
-
-### Einführung in die Regelungstechnik - Übungen
-
-- **Segment:** `unit:87774` · **unitId:** `87774`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87774&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Exercises in Clean Combustion Technology — Übung
-
-- **Segment:** `unit:86882` · **unitId:** `86882`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86882&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
 ### Experimental Fluid Mechanics (Strömungsmesstechnik) — Vorlesung mit Übung
 
 - **Segment:** `unit:82693` · **unitId:** `82693`
@@ -5230,21 +4041,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
-### Fundamentals of Electrical Engineering - Group Tutorials — Tutorium
+### Fluid-Feststoff-Strömungen / Fluid-Solid-Flows — Vorlesung
 
-- **Segment:** `unit:83836` · **unitId:** `83836`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83836&periodId=565>
-
-- **Veranstaltungsart:** Tutorium
-- **Turnus:** nur im Sommersemester
-
-### Grenzflächen in der Verfahrenstechnik — Vorlesung
-
-- **Segment:** `unit:84585` · **unitId:** `84585`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84585&periodId=565>
+- **Segment:** `unit:88374` · **unitId:** `88374`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88374&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
+- **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
 ### Grundlagen der Bioinformatik — Vorlesung
@@ -5254,6 +4057,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Sommersemester
+
+### Grundlagen der Verfahrenstechnik 1 - Phasengleichgewichte und Grenzflächen
+
+- **Segment:** `unit:42749` · **unitId:** `42749`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=42749&periodId=565>
+
+- **ECTS-Punkte:** 7.5
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | 11:00–13:00 | — | 11901.00.240 (H10 Hörsaal 10) |
 
 ### Hochdrucktrenntechnik
 
@@ -5368,15 +4185,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | 16:00–19:00 | 07.12.2025 23:59:59 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
 
-### Lab Course in Clean Combustion Technology — Praktikum
-
-- **Segment:** `unit:87089` · **unitId:** `87089`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87089&periodId=565>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
 ### Latein I für Anfänger (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
 - **Segment:** `unit:96547` · **unitId:** `96547`
@@ -5424,31 +4232,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Blockveranstaltung | — | 09:00–14:15 | 18.02.2026–10.03.2026 | 05901.02.058 ( 2.058 R 2.058) |
 
-### Maschinelles Lernen und Künstliche Intelligenz im Ingenieurwesen (PR) — Praktikum
-
-- **Segment:** `unit:92752` · **unitId:** `92752`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92752&periodId=565>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
-### Maschinelles Lernen und Künstliche Intelligenz im Ingenieurwesen (V) — Vorlesung
-
-- **Segment:** `unit:85335` · **unitId:** `85335`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85335&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Sommersemester
-
-### Maschinelles Lernen und Künstliche Intelligenz im Ingenieurwesen (Ü) — Übung
-
-- **Segment:** `unit:84438` · **unitId:** `84438`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84438&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Sommersemester
-
 ### Mathematik B 1
 
 - **Segment:** `unit:20939` · **unitId:** `20939`
@@ -5491,15 +4274,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Do | Do | 11:00–12:30 | — | — |
 
-### Membranverfahren/Membrane Separation Technologies — Vorlesung
-
-- **Segment:** `unit:89146` · **unitId:** `89146`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89146&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
 ### Messtechnik 1 - Messtechnik und Analytik — Vorlesung
 
 - **Segment:** `unit:85463` · **unitId:** `85463`
@@ -5507,6 +4281,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Sommersemester
+
+### Messtechnik und Instrumentelle Analytik
+
+- **Segment:** `unit:43046` · **unitId:** `43046`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43046&periodId=565>
+
+- **ECTS-Punkte:** 7.5
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | Fr | 11:00–12:30 | — | — |
 
 ### Messtechnikpraktikum
 
@@ -5544,6 +4332,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Do | Do | 09:15–10:15 | — | — |
 
+### Partikelbasierte Strömungsmechanik (PSTM-UE) — Übung
+
+- **Segment:** `unit:83087` · **unitId:** `83087`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83087&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **Turnus:** nur im Wintersemester
+
 ### Partikelbasierte Strömungsmechanik (PSTM-V) — Vorlesung
 
 - **Segment:** `unit:82879` · **unitId:** `82879`
@@ -5551,14 +4347,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Wintersemester
-
-### Physikalische Chemie für CBI, CEN u. BT — Vorlesung
-
-- **Segment:** `unit:85407` · **unitId:** `85407`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85407&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Sommersemester
 
 ### Polymer Science and Processing
 
@@ -5631,33 +4419,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Praktikum
 - **Turnus:** nur im Sommersemester
 
-### Product Engineering — Vorlesung
-
-- **Segment:** `unit:85337` · **unitId:** `85337`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85337&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 7.5
-- **Turnus:** nur im Sommersemester
-
-### Prozessmaschinen und Apparatetechnik — Vorlesung
-
-- **Segment:** `unit:84137` · **unitId:** `84137`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84137&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 3.0
-- **Turnus:** nur im Sommersemester
-
-### Prozessmaschinen und Apparatetechnik Übung
-
-- **Segment:** `unit:85534` · **unitId:** `85534`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85534&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
-- **Turnus:** nur im Sommersemester
-
 ### Qualitätsmanagement
 
 - **Segment:** `unit:35236` · **unitId:** `35236`
@@ -5671,14 +4432,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | 11:00–13:00 | — | 11906.01.030 (H21) |
-
-### Scannen und Drucken in 3D-Übung
-
-- **Segment:** `unit:84766` · **unitId:** `84766`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84766&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
 
 ### Schriftliche Übersetzungsleistung Latein I für Anfänger (Zulassungsvoraussetzung zu Kurs Latein II für Fortgeschrittene)
 
@@ -5694,48 +4447,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Do | Do | 14:00–16:00 | 07.12.2025 23:59:59 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
 
-### Self-Organisation Processes — Vorlesung
+### Thermophysikalische Eigenschaften von Arbeitsstoffen der Verfahrens- und Energietechnik — Vorlesung mit Übung
 
-- **Segment:** `unit:82761` · **unitId:** `82761`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82761&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### Self-Organisation Processes (Exercise) — Übung
-
-- **Segment:** `unit:95430` · **unitId:** `95430`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95430&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### Technology of Tissue Engineering — Vorlesung
-
-- **Segment:** `unit:96329` · **unitId:** `96329`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96329&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### Technology of Tissue Engineering - Praktikum
-
-- **Segment:** `unit:94108` · **unitId:** `94108`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94108&periodId=565>
-
-- **Veranstaltungsart:** Praktikum
-- **Turnus:** nur im Sommersemester
-
-### Thermofluiddynamik der Biotechnologie — Vorlesung mit Übung
-
-- **Segment:** `unit:101952` · **unitId:** `101952`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101952&periodId=565>
+- **Segment:** `unit:84105` · **unitId:** `84105`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84105&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 7.5
+- **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
 ### Transportprozesse
@@ -5792,74 +4510,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Tutorium
 - **Turnus:** nur im Sommersemester
 
-### Umweltbioverfahrenstechnik — Vorlesung
-
-- **Segment:** `unit:83713` · **unitId:** `83713`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83713&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### Vertiefung Bioseparation (PR) — Praktikum
-
-- **Segment:** `unit:104672` · **unitId:** `104672`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104672&periodId=565>
-
-- **Veranstaltungsart:** Praktikum
-- **Turnus:** nur im Sommersemester
-
-### Vertiefung Bioseparation (VL) — Vorlesung
-
-- **Segment:** `unit:84496` · **unitId:** `84496`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84496&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Sommersemester
-
-### Vertiefung Medizinische Biotechnologie — Vorlesung
-
-- **Segment:** `unit:85721` · **unitId:** `85721`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85721&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### Vertiefung Medizinische Biotechnologie - Praktikum Malaria
-
-- **Segment:** `unit:104804` · **unitId:** `104804`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104804&periodId=565>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
-### Vertiefung Medizinische Biotechnologie - Praktikum Muskelbiomechanik
-
-- **Segment:** `unit:100175` · **unitId:** `100175`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100175&periodId=565>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
-### Vertiefung Medizinische Biotechnologie - Übung
-
-- **Segment:** `unit:102602` · **unitId:** `102602`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102602&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Sommersemester
-
-### Übung - Grundlagen der Bioinformatik [UeBioinf]
-
-- **Segment:** `unit:90484` · **unitId:** `90484`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90484&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Sommersemester
-
 ### Übung Bioverfahrenstechnik (Vertiefung)
 
 - **Segment:** `unit:98083` · **unitId:** `98083`
@@ -5867,14 +4517,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Sommersemester
-
-### Übung Computeranwendungen in der  Verfahrenstechnik 2
-
-- **Segment:** `unit:83796` · **unitId:** `83796`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83796&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
 
 ### Übung Mathematik B 1
 
@@ -5889,14 +4531,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### Übung Mechanischen Verfahrenstechnik
-
-- **Segment:** `unit:86855` · **unitId:** `86855`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86855&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
 
 ### Übung Messtechnik 1 - Messtechnik und Analytik
 
@@ -5914,31 +4548,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
 
-### Übung zu Grenzflächen in der Verfahrenstechnik
-
-- **Segment:** `unit:83024` · **unitId:** `83024`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83024&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Sommersemester
-
-### Übung zu Membranverfahren/Membrane Separation Technologies
-
-- **Segment:** `unit:87004` · **unitId:** `87004`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87004&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Sommersemester
-
-### Übung zu Zellkulturtechnik LSE
-
-- **Segment:** `unit:91657` · **unitId:** `91657`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91657&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
 ### Übung zur Bioreaktions- und Bioverfahrenstechnik (CBI, BT, LSE, MT)
 
 - **Segment:** `unit:85817` · **unitId:** `85817`
@@ -5954,37 +4563,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 08:15–09:45 | 21.10.2025–03.02.2026 | 11501.04.019 (04.019 Seminarraum) |
 
-### Übung zur Bioreaktions- und Bioverfahrenstechnik (nur LSE)
+### Übungen zur Mathematik für Ingenieure D1: CBI, CEN, IP, LSE, MWT, NT
 
-- **Segment:** `unit:96631` · **unitId:** `96631`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96631&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Sommersemester
-
-### Übungen zu Umweltbioverfahrenstechnik
-
-- **Segment:** `unit:86579` · **unitId:** `86579`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86579&periodId=565>
+- **Segment:** `unit:90332` · **unitId:** `90332`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90332&periodId=565>
 
 - **Veranstaltungsart:** Übung
-- **Turnus:** nur im Sommersemester
-
-### Übungen zu Wissenschaftliches Arbeiten in den Ingenieur- und Naturwissenschaften
-
-- **Segment:** `unit:112709` · **unitId:** `112709`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112709&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 13:00–18:00 | 05.12.2025 | 11501.02.019 (02.019 Seminarraum) |
-| Einzeltermin | Fr | 13:00–18:00 | 09.01.2026 | 11501.02.019 (02.019 Seminarraum) |
+- **Turnus:** nur im Wintersemester
 
 ### Übungen zur Mathematik für Ingenieure D2: BT, CBI, CEN
 
@@ -5993,12 +4578,4 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
-### Übungen zur Statik und Festigkeitslehre
-
-- **Segment:** `unit:103652` · **unitId:** `103652`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103652&periodId=565>
-
-- **Veranstaltungsart:** Übung
 - **Turnus:** nur im Sommersemester

@@ -4,8 +4,8 @@ period_name: "Wintersemester 2025/26"
 campo_segment: "title:16810"
 campo_path: "title:16758|title:16765|title:16810"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16810"
-po_version_count: 6
-course_count: 27
+po_version_count: 3
+course_count: 15
 ---
 
 # Integrated Life Sciences: Biology, Biomathematics, Biophysics
@@ -14,74 +14,29 @@ course_count: 27
 
 _Section: Studiengänge der Naturwissenschaftlichen Fakultät_  
 
-## Prüfungsordnungs-Versionen (6)
+## Prüfungsordnungs-Versionen (3)
 
 ### 1815 Mandatory Elective Modules Group 1
 
 - **Campo-Segment:** `exam:13422668`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16810|exam:13422648|exam:13422649|exam:13422650|exam:13422658|exam:13422659|exam:13422668>
 
-### 1815 Mandatory Elective Modules Group 1
-
-- **Campo-Segment:** `exam:13424239`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16810|exam:13424234|exam:13424235|exam:13424236|exam:13424237|exam:13424238|exam:13424239>
-
 ### 1825 Mandatory Elective Modules Group 2
 
 - **Campo-Segment:** `exam:13422722`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16810|exam:13422648|exam:13422649|exam:13422650|exam:13422658|exam:13422714|exam:13422722>
-
-### 1825 Mandatory Elective Modules Group 2
-
-- **Campo-Segment:** `exam:13424299`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16810|exam:13424234|exam:13424235|exam:13424236|exam:13424237|exam:13424298|exam:13424299>
 
 ### 1835 Mandatory Elective Modules Group 3
 
 - **Campo-Segment:** `exam:13422757`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16810|exam:13422648|exam:13422649|exam:13422650|exam:13422658|exam:13422749|exam:13422757>
 
-### 1835 Mandatory Elective Modules Group 3
-
-- **Campo-Segment:** `exam:13424341`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16810|exam:13424234|exam:13424235|exam:13424236|exam:13424237|exam:13424340|exam:13424341>
-
-## Veranstaltungen (27)
-
-### 1999 Master's thesis (M.Sc. Integrated Life Sciences: Biology, Biomathematics, Biophysics 20152)
-
-- **Segment:** `exam:13424377` · **unitId:** `43824`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16810|exam:13424234|exam:13424235|exam:13424236|exam:13424377>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43824&periodId=565>
-
-### 48071 Introduction to Statistics and Statistical Programming
-
-- **Segment:** `exam:13424283` · **unitId:** `43496`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16810|exam:13424234|exam:13424235|exam:13424236|exam:13424237|exam:13424238|exam:13424283>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43496&periodId=565>
-
-### 48071 Introduction to Statistics and Statistical Programming
-
-- **Segment:** `exam:13424326` · **unitId:** `43496`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16810|exam:13424234|exam:13424235|exam:13424236|exam:13424237|exam:13424298|exam:13424326>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43496&periodId=565>
-
-### 48071 Introduction to Statistics and Statistical Programming
-
-- **Segment:** `exam:13424363` · **unitId:** `43496`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16810|exam:13424234|exam:13424235|exam:13424236|exam:13424237|exam:13424340|exam:13424363>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43496&periodId=565>
+## Veranstaltungen (15)
 
 ### 48091 Biomathematics
 
 - **Segment:** `exam:13422660` · **unitId:** `43497`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16810|exam:13422648|exam:13422649|exam:13422650|exam:13422658|exam:13422659|exam:13422660>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43497&periodId=565>
-
-### 48091 Biomathematics
-
-- **Segment:** `exam:13424290` · **unitId:** `43497`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16810|exam:13424234|exam:13424235|exam:13424236|exam:13424237|exam:13424238|exam:13424290>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43497&periodId=565>
 
 ### 48101 Systems Biology
@@ -90,22 +45,10 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16810|exam:13422648|exam:13422649|exam:13422650|exam:13422658|exam:13422659|exam:13422664>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43498&periodId=565>
 
-### 48101 Systems Biology
-
-- **Segment:** `exam:13424294` · **unitId:** `43498`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16810|exam:13424234|exam:13424235|exam:13424236|exam:13424237|exam:13424238|exam:13424294>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43498&periodId=565>
-
 ### 48111 Bioimaging and Biophysics A
 
 - **Segment:** `exam:13422715` · **unitId:** `43502`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16810|exam:13422648|exam:13422649|exam:13422650|exam:13422658|exam:13422714|exam:13422715>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43502&periodId=565>
-
-### 48111 Bioimaging and Biophysics A
-
-- **Segment:** `exam:13424333` · **unitId:** `43502`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16810|exam:13424234|exam:13424235|exam:13424236|exam:13424237|exam:13424298|exam:13424333>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43502&periodId=565>
 
 ### 48112 Bioimaging and Biophysics B
@@ -114,34 +57,16 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16810|exam:13422648|exam:13422649|exam:13422650|exam:13422658|exam:13422714|exam:13422719>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43503&periodId=565>
 
-### 48112 Bioimaging and Biophysics B
-
-- **Segment:** `exam:13424337` · **unitId:** `43503`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16810|exam:13424234|exam:13424235|exam:13424236|exam:13424237|exam:13424298|exam:13424337>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43503&periodId=565>
-
 ### 48121 Interactions of Biological Macromolecules A
 
 - **Segment:** `exam:13422750` · **unitId:** `43500`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16810|exam:13422648|exam:13422649|exam:13422650|exam:13422658|exam:13422749|exam:13422750>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43500&periodId=565>
 
-### 48121 Interactions of Biological Macromolecules A
-
-- **Segment:** `exam:13424370` · **unitId:** `43500`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16810|exam:13424234|exam:13424235|exam:13424236|exam:13424237|exam:13424340|exam:13424370>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43500&periodId=565>
-
 ### 48122 Interactions of Biological Macromolecules B
 
 - **Segment:** `exam:13422753` · **unitId:** `43501`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16810|exam:13422648|exam:13422649|exam:13422650|exam:13422658|exam:13422749|exam:13422753>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43501&periodId=565>
-
-### 48122 Interactions of Biological Macromolecules B
-
-- **Segment:** `exam:13424373` · **unitId:** `43501`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16810|exam:13424234|exam:13424235|exam:13424236|exam:13424237|exam:13424340|exam:13424373>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43501&periodId=565>
 
 ### 80711 Introduction to Statistics and Statistical Programming - Leistung
@@ -182,36 +107,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **ECTS-Punkte:** 20.0
 - **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 80811 Advanced Module - Leistung
-
-- **Segment:** `exam:13424380` · **unitId:** `43507`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16810|exam:13424234|exam:13424235|exam:13424236|exam:13424379|exam:13424380>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43507&periodId=565>
-
-- **ECTS-Punkte:** 20.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 83311 Portfolio exam: Methods of Modern (Confocal-) Light Microscopy - Leistung
-
-- **Segment:** `exam:13424383` · **unitId:** `44028`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16810|exam:13424234|exam:13424235|exam:13424381|exam:13424383>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44028&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 
 #### Termine
 
@@ -284,9 +179,18 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (45)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (40)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
+
+### Assignment problem session "Introduction to Statistics and Statistical Programming" — Übung
+
+- **Segment:** `unit:96279` · **unitId:** `96279`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96279&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 0.0
+- **Turnus:** nur im Sommersemester
 
 ### Cell Adhesion and Cytoskeleton: Cell Biological, Biophysical, and Medical Aspects — Vorlesung mit Übung
 
@@ -352,6 +256,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:93543` · **unitId:** `93543`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93543&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** jedes 4. Semester
+
+### Complex Systems 3: Self-organization, game theory, discrete dynamical systems — Vorlesung mit Übung
+
+- **Segment:** `unit:85880` · **unitId:** `85880`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85880&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
@@ -439,21 +352,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
-### ILS-MA-B12: Python Programming — Übung
+### ILS-MA-B1: Systems Biology, Laboratory Course — Übung
 
-- **Segment:** `unit:82717` · **unitId:** `82717`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82717&periodId=565>
+- **Segment:** `unit:87233` · **unitId:** `87233`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87233&periodId=565>
 
 - **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### ILS-MA-B1: Systems Biology, Lecture — Vorlesung
-
-- **Segment:** `unit:84643` · **unitId:** `84643`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84643&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Wintersemester
 
@@ -461,7 +365,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 15:00–17:00 | 15.10.2025–04.02.2026 | 13001.01.178 (SR 01.178 Seminarraum Biochemie und Mikrobiologie) |
+| wöchentlich | Mi | 15:15–16:45 | 15.10.2025–04.02.2026 | 13001.01.178 (SR 01.178 Seminarraum Biochemie und Mikrobiologie) |
 
 ### ILS-MA-I1A BioImaging & Biophysics: Laboratory Course — Übung
 
@@ -479,22 +383,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:15–18:00 | 13.10.2025–02.02.2026 | — |
 | Einzeltermin | Mo | 12:00–18:00 | 24.11.2025 | 13002.00.774 (Kursraum J Fluoreszenzmikroskopraum) |
-
-### ILS-MA-I1A BioImaging & Biophysics: Lecture — Vorlesung
-
-- **Segment:** `unit:88869` · **unitId:** `88869`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88869&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:15–12:00 | 13.10.2025–02.02.2026 | 13002.00.581 (00.581 Seminarraum Zellbiologie im Biologikum) |
 
 ### ILS-MA-I3: Metabolic Networks II, Lecture — Vorlesung
 
@@ -648,24 +536,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Do | 08:15–09:00 | 16.10.2025–05.02.2026 | 13201.02.184 (SR BTE Seminarraum im BTE-Gebäude) |
 | wöchentlich | Fr | 08:15–09:00 | 17.10.2025–06.02.2026 | 13201.02.184 (SR BTE Seminarraum im BTE-Gebäude) |
 
-### Masterarbeiten Pharmazeutische Biologie — Sonstige Lehrveranstaltung
-
-- **Segment:** `unit:82833` · **unitId:** `82833`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82833&periodId=565>
-
-- **Veranstaltungsart:** Sonstige Lehrveranstaltung
-- **ECTS-Punkte:** 30.0
-- **Turnus:** nur im Sommersemester
-
-### Masterarbeiten Tierphysiologie — Sonstige Lehrveranstaltung
-
-- **Segment:** `unit:85642` · **unitId:** `85642`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85642&periodId=565>
-
-- **Veranstaltungsart:** Sonstige Lehrveranstaltung
-- **ECTS-Punkte:** 30.0
-- **Turnus:** in jedem Semester
-
 ### Mathematische Modellierung Praxis — Projektseminar
 
 - **Segment:** `unit:83909` · **unitId:** `83909`
@@ -698,13 +568,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 12:00–14:00 | 13.10.2025–02.02.2026 | 12801.01.251 (Übung 2 / 01.251-128) |
 
-### Mechanobiology: cellular forces, tissue mechanics and mechanotransduction — Vorlesung mit Übung
+### MG 2 BioImaging & Biophysics — Vorlesung mit Übung
 
-- **Segment:** `unit:120108` · **unitId:** `120108`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120108&periodId=565>
+- **Segment:** `unit:83421` · **unitId:** `83421`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83421&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
+- **ECTS-Punkte:** 7.5
 - **Turnus:** nur im Sommersemester
 
 ### Modern optics 1: Advanced optics
@@ -766,24 +636,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mi | Mi | 10:00–12:00 | — | — |
 
-### Modern Optics 3: Quantum Optics — Vorlesung
-
-- **Segment:** `unit:83650` · **unitId:** `83650`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83650&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### Molekulare Neurophysiologie — Seminar und Übung
-
-- **Segment:** `unit:112417` · **unitId:** `112417`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112417&periodId=565>
-
-- **Veranstaltungsart:** Seminar und Übung
-- **ECTS-Punkte:** 7.5
-- **Turnus:** nur im Wintersemester
-
 ### Orientierungsmodul Entwicklungsbiologie 2: Gewebsdifferenzierung und Organogenese — Seminar und Übung
 
 - **Segment:** `unit:91407` · **unitId:** `91407`
@@ -822,15 +674,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Mi | 09:15–10:45 | 11.03.2026 | 13003.00.877 (HC Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 | Einzeltermin | Mo | 14:15–16:00 | 23.03.2026 | 13003.00.877 (HC Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 | Einzeltermin | Do | 10:15–11:45 | 26.03.2026 | 13003.U1.850 (SR Biologie Seminarraum Biologie Nr. U1.850 (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
-
-### Partial Differential Equations for Life Sciences — Vorlesung
-
-- **Segment:** `unit:85708` · **unitId:** `85708`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85708&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
 
 ### Schriftliche Übersetzungsleistung Latein I für Anfänger (Zulassungsvoraussetzung zu Kurs Latein II für Fortgeschrittene)
 

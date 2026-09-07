@@ -402,7 +402,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 08:15–09:45 | 14.04.2026–14.07.2026 | 53101.02.206 (CCC 2.206 Übungsraum, Seminarraum) |
+| wöchentlich | Mo | 08:15–09:45 | 13.04.2026–13.07.2026 | 54301.02.313 ( 02.313 Seminarraum) |
+| wöchentlich | Mo | 08:15–09:45 | 13.04.2026–13.07.2026 | 54301.02.319 (02.319 Konferenzraum) |
 
 ### Spezielle Krankheits- und Verfahrenslehre der Psychotherapie: Evidenzbasierte psychotherapeutische Verfahren bei Erwachsenen und älteren Personen - Seminar
 

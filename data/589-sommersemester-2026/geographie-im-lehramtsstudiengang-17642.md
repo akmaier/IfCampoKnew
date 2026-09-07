@@ -5,7 +5,7 @@ campo_segment: "title:17642"
 campo_path: "title:17593|title:17602|title:17642"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642"
 po_version_count: 1
-course_count: 378
+course_count: 302
 ---
 
 # Geographie im Lehramtsstudiengang
@@ -21,7 +21,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Campo-Segment:** `title:17867`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|title:17867>
 
-## Veranstaltungen (378)
+## Veranstaltungen (302)
 
 ### Einführung in die Planung und Analyse von Geographieunterricht (P&A) Kurs D | GS-MS-RS-GY (in N, Mo 11:30h) - Seminar
 
@@ -397,132 +397,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 | wöchentlich | Mi | 12:30–14:00 | 15.04.2026–16.07.2026 | 55801.00.210 (00.210 Seminarraum) |
 | Einzeltermin | Do | 10:15–11:45 | 30.04.2026 | 55801.00.210 (00.210 Seminarraum) |
 
-### Forschungskolloquium Kulturgeographie & Physische Geographie - Kolloquium
-
-- **Segment:** `exam:14245592` · **unitId:** `112130`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245588|exam:14245592>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112130&periodId=589>
-
-- **Veranstaltungsart:** Kolloquium
-- **ECTS-Punkte:** 2.5
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 18:30–20:00 | 13.04.2026–13.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
-| wöchentlich | Mi | 12:30–14:00 | 15.04.2026–16.07.2026 | 55801.00.210 (00.210 Seminarraum) |
-| Einzeltermin | Do | 10:15–11:45 | 30.04.2026 | 55801.00.210 (00.210 Seminarraum) |
-
-### Forschungskolloquium Kulturgeographie & Physische Geographie - Kolloquium
-
-- **Segment:** `exam:14245601` · **unitId:** `112130`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245597|exam:14245601>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112130&periodId=589>
-
-- **Veranstaltungsart:** Kolloquium
-- **ECTS-Punkte:** 2.5
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 18:30–20:00 | 13.04.2026–13.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
-| wöchentlich | Mi | 12:30–14:00 | 15.04.2026–16.07.2026 | 55801.00.210 (00.210 Seminarraum) |
-| Einzeltermin | Do | 10:15–11:45 | 30.04.2026 | 55801.00.210 (00.210 Seminarraum) |
-
-### Forschungskolloquium Kulturgeographie & Physische Geographie - Kolloquium
-
-- **Segment:** `exam:14245610` · **unitId:** `112130`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245606|exam:14245610>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112130&periodId=589>
-
-- **Veranstaltungsart:** Kolloquium
-- **ECTS-Punkte:** 2.5
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 18:30–20:00 | 13.04.2026–13.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
-| wöchentlich | Mi | 12:30–14:00 | 15.04.2026–16.07.2026 | 55801.00.210 (00.210 Seminarraum) |
-| Einzeltermin | Do | 10:15–11:45 | 30.04.2026 | 55801.00.210 (00.210 Seminarraum) |
-
-### Forschungskolloquium Kulturgeographie & Physische Geographie - Kolloquium
-
-- **Segment:** `exam:14245703` · **unitId:** `112130`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245698|exam:14245703>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112130&periodId=589>
-
-- **Veranstaltungsart:** Kolloquium
-- **ECTS-Punkte:** 2.5
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 18:30–20:00 | 13.04.2026–13.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
-| wöchentlich | Mi | 12:30–14:00 | 15.04.2026–16.07.2026 | 55801.00.210 (00.210 Seminarraum) |
-| Einzeltermin | Do | 10:15–11:45 | 30.04.2026 | 55801.00.210 (00.210 Seminarraum) |
-
-### Forschungskolloquium Kulturgeographie & Physische Geographie - Kolloquium
-
-- **Segment:** `exam:14245710` · **unitId:** `112130`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245705|exam:14245710>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112130&periodId=589>
-
-- **Veranstaltungsart:** Kolloquium
-- **ECTS-Punkte:** 2.5
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 18:30–20:00 | 13.04.2026–13.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
-| wöchentlich | Mi | 12:30–14:00 | 15.04.2026–16.07.2026 | 55801.00.210 (00.210 Seminarraum) |
-| Einzeltermin | Do | 10:15–11:45 | 30.04.2026 | 55801.00.210 (00.210 Seminarraum) |
-
-### Forschungskolloquium Kulturgeographie & Physische Geographie - Kolloquium
-
-- **Segment:** `exam:14245716` · **unitId:** `112130`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245712|exam:14245716>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112130&periodId=589>
-
-- **Veranstaltungsart:** Kolloquium
-- **ECTS-Punkte:** 2.5
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 18:30–20:00 | 13.04.2026–13.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
-| wöchentlich | Mi | 12:30–14:00 | 15.04.2026–16.07.2026 | 55801.00.210 (00.210 Seminarraum) |
-| Einzeltermin | Do | 10:15–11:45 | 30.04.2026 | 55801.00.210 (00.210 Seminarraum) |
-
-### Forschungskolloquium Kulturgeographie & Physische Geographie - Kolloquium
-
-- **Segment:** `exam:14245726` · **unitId:** `112130`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245722|exam:14245726>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112130&periodId=589>
-
-- **Veranstaltungsart:** Kolloquium
-- **ECTS-Punkte:** 2.5
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 18:30–20:00 | 13.04.2026–13.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
-| wöchentlich | Mi | 12:30–14:00 | 15.04.2026–16.07.2026 | 55801.00.210 (00.210 Seminarraum) |
-| Einzeltermin | Do | 10:15–11:45 | 30.04.2026 | 55801.00.210 (00.210 Seminarraum) |
-
 ### Vorlesung Physische Geographie vertieft:  - Vorlesung
 
 - **Segment:** `exam:14244859` · **unitId:** `112123`
@@ -620,36 +494,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Segment:** `exam:14245386` · **unitId:** `36180`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245374|exam:14245375|exam:14245376|exam:14245378|exam:14245382|exam:14245386>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36180&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | — | — | — |
-
-### 40321 Grundvorlesung Kulturgeographie II - Leistung
-
-- **Segment:** `exam:14245587` · **unitId:** `36180`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245583|exam:14245587>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36180&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | — | — | — |
-
-### 40321 Grundvorlesung Kulturgeographie II - Leistung
-
-- **Segment:** `exam:14245771` · **unitId:** `36180`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245753|exam:14245754|exam:14245755|exam:14245757|exam:14245767|exam:14245771>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36180&periodId=589>
 
 - **ECTS-Punkte:** 5.0
@@ -781,36 +625,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 |---|---|---|---|---|
 | Mo | Mo | — | — | — |
 
-### 40533 Kleines Geländeseminar (3 Tage) - Leistung
-
-- **Segment:** `exam:14245679` · **unitId:** `36423`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245659|exam:14245679>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36423&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | — | — | — |
-
-### 40533 Kleines Geländeseminar (3 Tage) - Leistung
-
-- **Segment:** `exam:14245826` · **unitId:** `36423`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245753|exam:14245754|exam:14245755|exam:14245757|exam:14245811|exam:14245826>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36423&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | — | — | — |
-
 ### 40542 Kulturgeographie Vertieft 1 (Teil 1) - Leistung
 
 - **Segment:** `exam:14244851` · **unitId:** `110920`
@@ -856,36 +670,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 |---|---|---|---|---|
 | Mi | Mi | — | — | — |
 
-### 40542 Kulturgeographie Vertieft 1 (Teil 1) - Leistung
-
-- **Segment:** `exam:14245593` · **unitId:** `110920`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245588|exam:14245593>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110920&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | — | — | — |
-
-### 40542 Kulturgeographie Vertieft 1 (Teil 1) - Leistung
-
-- **Segment:** `exam:14245603` · **unitId:** `110920`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245597|exam:14245603>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110920&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | — | — | — |
-
 ### 40543 Kulturgeographie Vertieft 1 (Teil 2) - Leistung
 
 - **Segment:** `exam:14244852` · **unitId:** `110921`
@@ -905,21 +689,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Segment:** `exam:14245289` · **unitId:** `110921`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245183|exam:14245184|exam:14245185|exam:14245187|exam:14245283|exam:14245289>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110921&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | — | — | — |
-
-### 40543 Kulturgeographie Vertieft 1 (Teil 2) - Leistung
-
-- **Segment:** `exam:14245612` · **unitId:** `110921`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245606|exam:14245612>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110921&periodId=589>
 
 - **ECTS-Punkte:** 0.0
@@ -1036,39 +805,10 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 |---|---|---|---|---|
 | Mo | Mo | — | — | — |
 
-### 40591 Spezielle Physische Geographie - Leistung
-
-- **Segment:** `exam:14245697` · **unitId:** `111036`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245680|exam:14245697>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111036&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | — | — | — |
-
 ### 40642 Kolloquium: KG Vertieft oder Regionale Geographie I - Leistung
 
 - **Segment:** `exam:14245271` · **unitId:** `46972`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245183|exam:14245184|exam:14245185|exam:14245187|exam:14245265|exam:14245271>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46972&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | — | — | — |
-
-### 40642 Kolloquium: KG Vertieft oder Regionale Geographie I - Leistung
-
-- **Segment:** `exam:14245594` · **unitId:** `46972`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245588|exam:14245594>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46972&periodId=589>
 
 - **ECTS-Punkte:** 0.0
@@ -1093,38 +833,10 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 |---|---|---|---|---|
 | Mo | Mo | — | — | — |
 
-### 40682 Forschungskolloquium: KG Vertieft oder Regionale Geographie I - Leistung
-
-- **Segment:** `exam:14245604` · **unitId:** `73536`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245597|exam:14245604>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73536&periodId=589>
-
-- **ECTS-Punkte:** 1.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | — | — | — |
-
 ### 40692 Forschungskolloquium: KG Vertieft oder Regionale Geographie II - Leistung
 
 - **Segment:** `exam:14245290` · **unitId:** `73545`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245183|exam:14245184|exam:14245185|exam:14245187|exam:14245283|exam:14245290>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73545&periodId=589>
-
-- **ECTS-Punkte:** 1.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | — | — | — |
-
-### 40692 Forschungskolloquium: KG Vertieft oder Regionale Geographie II - Leistung
-
-- **Segment:** `exam:14245613` · **unitId:** `73545`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245606|exam:14245613>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73545&periodId=589>
 
 - **ECTS-Punkte:** 1.0
@@ -1195,36 +907,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 |---|---|---|---|---|
 | Mo | Mo | — | — | — |
 
-### 40821 Geländepraktikum - Leistung
-
-- **Segment:** `exam:14245657` · **unitId:** `36109`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245654|exam:14245657>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36109&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | — | — | — |
-
-### 40821 Geländepraktikum - Leistung
-
-- **Segment:** `exam:14245781` · **unitId:** `36109`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245753|exam:14245754|exam:14245755|exam:14245757|exam:14245779|exam:14245781>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36109&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | — | — | — |
-
 ### 40831 Hauptseminar zum Großen Geländeseminar - Leistung
 
 - **Segment:** `exam:14245138` · **unitId:** `36405`
@@ -1281,34 +963,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 |---|---|---|---|---|
 | Mo | Mo | — | — | — |
 
-### 40831 Hauptseminar zum Großen Geländeseminar - Leistung
-
-- **Segment:** `exam:14245640` · **unitId:** `36405`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245622|exam:14245640>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36405&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | — | — | — |
-
-### 40831 Hauptseminar zum Großen Geländeseminar - Leistung
-
-- **Segment:** `exam:14245800` · **unitId:** `36405`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245753|exam:14245754|exam:14245755|exam:14245757|exam:14245782|exam:14245800>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36405&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | — | — | — |
-
 ### 40832 Großes Geländeseminar - Leistung
 
 - **Segment:** `exam:14245139` · **unitId:** `38593`
@@ -1355,34 +1009,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Segment:** `exam:14245515` · **unitId:** `38593`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245489|exam:14245491|exam:14245492|exam:14245495|exam:14245496|exam:14245515>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=38593&periodId=589>
-
-- **ECTS-Punkte:** 10.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | — | — | — |
-
-### 40832 Großes Geländeseminar - Leistung
-
-- **Segment:** `exam:14245641` · **unitId:** `38593`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245622|exam:14245641>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=38593&periodId=589>
-
-- **ECTS-Punkte:** 10.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | — | — | — |
-
-### 40832 Großes Geländeseminar - Leistung
-
-- **Segment:** `exam:14245801` · **unitId:** `38593`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245753|exam:14245754|exam:14245755|exam:14245757|exam:14245782|exam:14245801>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=38593&periodId=589>
 
 - **ECTS-Punkte:** 10.0
@@ -1558,21 +1184,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 |---|---|---|---|---|
 | Mo | Mo | — | — | — |
 
-### 41031 Hauptseminar KG - Leistung
-
-- **Segment:** `exam:14245678` · **unitId:** `36406`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245659|exam:14245678>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36406&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | — | — | — |
-
 ### 41121 Grundvorlesung Physische Geographie II - Leistung
 
 - **Segment:** `exam:14244768` · **unitId:** `36181`
@@ -1663,55 +1274,10 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 |---|---|---|---|---|
 | Fr | Fr | — | — | — |
 
-### 41121 Grundvorlesung Physische Geographie II - Leistung
-
-- **Segment:** `exam:14245648` · **unitId:** `36181`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245645|exam:14245648>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36181&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | — | — | — |
-
-### 41121 Grundvorlesung Physische Geographie II - Leistung
-
-- **Segment:** `exam:14245805` · **unitId:** `36181`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245753|exam:14245754|exam:14245755|exam:14245757|exam:14245802|exam:14245805>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36181&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | — | — | — |
-
 ### 41323 Kleines Geländeseminar (3 Tage) - Leistung
 
 - **Segment:** `exam:14245258` · **unitId:** `36422`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245183|exam:14245184|exam:14245185|exam:14245187|exam:14245242|exam:14245258>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36422&periodId=589>
-
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | — | — | — |
-
-### 41323 Kleines Geländeseminar (3 Tage) - Leistung
-
-- **Segment:** `exam:14245696` · **unitId:** `36422`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245680|exam:14245696>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36422&periodId=589>
 
 - **ECTS-Punkte:** 2.0
@@ -1779,34 +1345,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 |---|---|---|---|---|
 | Fr | Fr | — | — | — |
 
-### 41921 Regionalvorlesung - Leistung
-
-- **Segment:** `exam:14245704` · **unitId:** `36438`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245698|exam:14245704>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36438&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | — | — | — |
-
-### 41921 Regionalvorlesung - Leistung
-
-- **Segment:** `exam:14245717` · **unitId:** `36438`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245712|exam:14245717>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36438&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | — | — | — |
-
 ### 41922 Regionalvorlesung - Leistung
 
 - **Segment:** `exam:14245155` · **unitId:** `36439`
@@ -1853,34 +1391,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Segment:** `exam:14245531` · **unitId:** `36439`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245489|exam:14245491|exam:14245492|exam:14245495|exam:14245516|exam:14245531>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36439&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | — | — | — |
-
-### 41922 Regionalvorlesung - Leistung
-
-- **Segment:** `exam:14245711` · **unitId:** `36439`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245705|exam:14245711>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36439&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | — | — | — |
-
-### 41922 Regionalvorlesung - Leistung
-
-- **Segment:** `exam:14245727` · **unitId:** `36439`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245722|exam:14245727>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36439&periodId=589>
 
 - **ECTS-Punkte:** 0.0
@@ -2445,20 +1955,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 |---|---|---|---|---|
 | Mo | Mo | — | — | — |
 
-### 42961 Übung: Karteninterpretation - Leistung
-
-- **Segment:** `exam:14245658` · **unitId:** `43917`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245654|exam:14245658>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43917&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | — | — | — |
-
 ### 43032 Praktische Übung Methoden der Geographie I - Leistung
 
 - **Segment:** `exam:14244840` · **unitId:** `118258`
@@ -2487,38 +1983,10 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 |---|---|---|---|---|
 | Mo | Mo | — | — | — |
 
-### 44422 Kolloquium: PG Vertieft oder Regionale Geographie - Leistung
-
-- **Segment:** `exam:14245702` · **unitId:** `46974`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245698|exam:14245702>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46974&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | — | — | — |
-
 ### 44432 Kolloquium: PG Vertieft oder Regionale Geographie - Leistung
 
 - **Segment:** `exam:14245303` · **unitId:** `46975`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245183|exam:14245184|exam:14245185|exam:14245187|exam:14245299|exam:14245303>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46975&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | — | — | — |
-
-### 44432 Kolloquium: PG Vertieft oder Regionale Geographie - Leistung
-
-- **Segment:** `exam:14245709` · **unitId:** `46975`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245705|exam:14245709>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46975&periodId=589>
 
 - **ECTS-Punkte:** 0.0
@@ -2557,52 +2025,10 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 |---|---|---|---|---|
 | Di | Di | — | — | — |
 
-### 44441 Vorlesung: PG Vertieft oder Regionale Geographie - Leistung
-
-- **Segment:** `exam:14245701` · **unitId:** `73550`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245698|exam:14245701>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73550&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | — | — | — |
-
-### 44441 Vorlesung: PG Vertieft oder Regionale Geographie - Leistung
-
-- **Segment:** `exam:14245718` · **unitId:** `73550`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245712|exam:14245718>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73550&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | — | — | — |
-
 ### 44442 Forschungskolloquium: PG Vertieft oder Regionale Geographie - Leistung
 
 - **Segment:** `exam:14245313` · **unitId:** `73551`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245183|exam:14245184|exam:14245185|exam:14245187|exam:14245306|exam:14245313>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73551&periodId=589>
-
-- **ECTS-Punkte:** 1.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | — | — | — |
-
-### 44442 Forschungskolloquium: PG Vertieft oder Regionale Geographie - Leistung
-
-- **Segment:** `exam:14245719` · **unitId:** `73551`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245712|exam:14245719>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73551&periodId=589>
 
 - **ECTS-Punkte:** 1.0
@@ -2641,52 +2067,10 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 |---|---|---|---|---|
 | Di | Di | — | — | — |
 
-### 44451 Vorlesung: PG Vertieft oder Regionale Geographie - Leistung
-
-- **Segment:** `exam:14245708` · **unitId:** `73558`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245705|exam:14245708>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73558&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | — | — | — |
-
-### 44451 Vorlesung: PG Vertieft oder Regionale Geographie - Leistung
-
-- **Segment:** `exam:14245728` · **unitId:** `73558`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245722|exam:14245728>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73558&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | — | — | — |
-
 ### 44452 Forschungskolloquium: PG Vertieft oder Regionale Geographie - Leistung
 
 - **Segment:** `exam:14245323` · **unitId:** `73559`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245183|exam:14245184|exam:14245185|exam:14245187|exam:14245316|exam:14245323>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73559&periodId=589>
-
-- **ECTS-Punkte:** 1.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | — | — | — |
-
-### 44452 Forschungskolloquium: PG Vertieft oder Regionale Geographie - Leistung
-
-- **Segment:** `exam:14245729` · **unitId:** `73559`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245722|exam:14245729>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73559&periodId=589>
 
 - **ECTS-Punkte:** 1.0
@@ -2802,51 +2186,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 |---|---|---|---|---|
 | Mi | Mi | — | — | — |
 
-### 44472 Regionale Geographie 1 (Teil 1) - Leistung
-
-- **Segment:** `exam:14245596` · **unitId:** `111271`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245588|exam:14245596>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111271&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | — | — | — |
-
-### 44472 Regionale Geographie 1 (Teil 1) - Leistung
-
-- **Segment:** `exam:14245602` · **unitId:** `111271`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245597|exam:14245602>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111271&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | — | — | — |
-
-### 44472 Regionale Geographie 1 (Teil 1) - Leistung
-
-- **Segment:** `exam:14245825` · **unitId:** `111271`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245753|exam:14245754|exam:14245755|exam:14245757|exam:14245811|exam:14245825>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111271&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | — | — | — |
-
 ### 44473 Regionale Geographie 1 (Teil 2) - Leistung
 
 - **Segment:** `exam:14244782` · **unitId:** `111272`
@@ -2911,21 +2250,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Segment:** `exam:14245288` · **unitId:** `111272`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245183|exam:14245184|exam:14245185|exam:14245187|exam:14245283|exam:14245288>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111272&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | — | — | — |
-
-### 44473 Regionale Geographie 1 (Teil 2) - Leistung
-
-- **Segment:** `exam:14245611` · **unitId:** `111272`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245606|exam:14245611>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111272&periodId=589>
 
 - **ECTS-Punkte:** 0.0
@@ -3114,18 +2438,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245374|exam:14245375|exam:14245376|exam:14245378|exam:14245406>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=67892&periodId=589>
 
-### 64002 Kartographie und Geoinformation
-
-- **Segment:** `exam:14245574` · **unitId:** `61356`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245574>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=61356&periodId=589>
-
-### 64002 Kartographie und Geoinformation
-
-- **Segment:** `exam:14245758` · **unitId:** `67892`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245753|exam:14245754|exam:14245755|exam:14245757|exam:14245758>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=67892&periodId=589>
-
 ### 64012 Grundlagen der Kulturgeographie I
 
 - **Segment:** `exam:14245188` · **unitId:** `64927`
@@ -3136,18 +2448,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Segment:** `exam:14245379` · **unitId:** `58478`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245374|exam:14245375|exam:14245376|exam:14245378|exam:14245379>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=58478&periodId=589>
-
-### 64012 Grundlagen der Kulturgeographie I
-
-- **Segment:** `exam:14245577` · **unitId:** `64927`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245577>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=64927&periodId=589>
-
-### 64012 Grundlagen der Kulturgeographie I
-
-- **Segment:** `exam:14245761` · **unitId:** `58478`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245753|exam:14245754|exam:14245755|exam:14245757|exam:14245761>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=58478&periodId=589>
 
 ### 64013 Grundlagen der Kulturgeographie I
@@ -3192,18 +2492,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245374|exam:14245375|exam:14245376|exam:14245378|exam:14245394>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=63844&periodId=589>
 
-### 64022 Grundlagen der Physischen Geographie I
-
-- **Segment:** `exam:14245580` · **unitId:** `57414`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245580>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57414&periodId=589>
-
-### 64022 Grundlagen der Physischen Geographie I
-
-- **Segment:** `exam:14245764` · **unitId:** `63844`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245753|exam:14245754|exam:14245755|exam:14245757|exam:14245764>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=63844&periodId=589>
-
 ### 64023 Grundlagen der Physischen Geographie I
 
 - **Segment:** `exam:14244764` · **unitId:** `108993`
@@ -3246,28 +2534,10 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245374|exam:14245375|exam:14245376|exam:14245378|exam:14245387>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53456&periodId=589>
 
-### 64071 Seminar Kulturgeographie mit Geländetag
-
-- **Segment:** `exam:14245615` · **unitId:** `53420`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245615>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53420&periodId=589>
-
-### 64071 Seminar Kulturgeographie mit Geländetag
-
-- **Segment:** `exam:14245772` · **unitId:** `53456`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245753|exam:14245754|exam:14245755|exam:14245757|exam:14245772>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53456&periodId=589>
-
 ### 64102 Qualitative und Quantitative Methoden
 
 - **Segment:** `exam:14245218` · **unitId:** `59601`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245183|exam:14245184|exam:14245185|exam:14245187|exam:14245218>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59601&periodId=589>
-
-### 64102 Qualitative und Quantitative Methoden
-
-- **Segment:** `exam:14245642` · **unitId:** `59601`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245642>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59601&periodId=589>
 
 ### 64162 Seminar Physische Geographie mit Geländetag
@@ -3282,42 +2552,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245374|exam:14245375|exam:14245376|exam:14245378|exam:14245401>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53457&periodId=589>
 
-### 64162 Seminar Physische Geographie mit Geländetag
-
-- **Segment:** `exam:14245649` · **unitId:** `53422`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245649>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53422&periodId=589>
-
-### 64162 Seminar Physische Geographie mit Geländetag
-
-- **Segment:** `exam:14245806` · **unitId:** `53457`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245753|exam:14245754|exam:14245755|exam:14245757|exam:14245806>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53457&periodId=589>
-
-### 64201 Modul 1a (DIDGEO) Grundlagen der Geographiedidaktik / Planung und Analyse des Geographieunterrichts
-
-- **Segment:** `exam:14245733` · **unitId:** `67652`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245732|exam:14245733>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=67652&periodId=589>
-
-### 64201 Modul 1a (DIDGEO) Grundlagen der Geographiedidaktik / Planung und Analyse des Geographieunterrichts
-
-- **Segment:** `exam:14245829` · **unitId:** `61206`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245753|exam:14245754|exam:14245755|exam:14245828|exam:14245829>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=61206&periodId=589>
-
-### 64211 Modul 1b (DIDGEO) Methoden und Medien des Geographieunterrichts
-
-- **Segment:** `exam:14245735` · **unitId:** `62163`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245732|exam:14245735>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=62163&periodId=589>
-
-### 64211 Modul 1b (DIDGEO) Methoden und Medien des Geographieunterrichts
-
-- **Segment:** `exam:14245831` · **unitId:** `55731`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245753|exam:14245754|exam:14245755|exam:14245828|exam:14245831>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55731&periodId=589>
-
 ### 64215 GeoDid 2: Geographiedidaktik - Vertiefung
 
 - **Segment:** `exam:14245165` · **unitId:** `45985`
@@ -3329,12 +2563,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Segment:** `exam:14245074` · **unitId:** `45987`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245064|exam:14245065|exam:14245066|exam:14245067|exam:14245074>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45987&periodId=589>
-
-### 64250 Modul 2 (DIDGEO) Universitätsspezifische Ausrichtung
-
-- **Segment:** `exam:14245833` · **unitId:** `60915`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245753|exam:14245754|exam:14245755|exam:14245828|exam:14245833>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=60915&periodId=589>
 
 ### 64289 Methoden der Geographie
 
@@ -3620,44 +2848,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 | Einzeltermin | Fr | 09:45–11:15 | 17.07.2026 | 21101.01.112 (LG H1 (446 Plätze) Hörsaal) |
 | Einzeltermin | Fr | 12:00–13:00 | 09.10.2026 | 55801.00.210 (00.210 Seminarraum) |
 
-### G-VL KG2 - Grundvorlesung Kulturgeographie 2: Siedlungs- und Bevölkerungsgeographie - Vorlesung mit Übung
-
-- **Segment:** `exam:14245585` · **unitId:** `88016`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245583|exam:14245585>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88016&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 09:45–11:15 | 17.04.2026–10.07.2026 | 21102.01.421 (LG H6 BISSANTZ-Hörsaal (240 Plätze)) |
-| Einzeltermin | Fr | 09:45–11:15 | 17.07.2026 | 21101.01.112 (LG H1 (446 Plätze) Hörsaal) |
-| Einzeltermin | Fr | 12:00–13:00 | 09.10.2026 | 55801.00.210 (00.210 Seminarraum) |
-
-### G-VL KG2 - Grundvorlesung Kulturgeographie 2: Siedlungs- und Bevölkerungsgeographie - Vorlesung mit Übung
-
-- **Segment:** `exam:14245769` · **unitId:** `88016`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245753|exam:14245754|exam:14245755|exam:14245757|exam:14245767|exam:14245769>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88016&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 09:45–11:15 | 17.04.2026–10.07.2026 | 21102.01.421 (LG H6 BISSANTZ-Hörsaal (240 Plätze)) |
-| Einzeltermin | Fr | 09:45–11:15 | 17.07.2026 | 21101.01.112 (LG H1 (446 Plätze) Hörsaal) |
-| Einzeltermin | Fr | 12:00–13:00 | 09.10.2026 | 55801.00.210 (00.210 Seminarraum) |
-
 ### G-VL PG 2 - Grundvorlesung Physische Geographie 2: Klimatologie und Biogeographie - Vorlesung mit Übung
 
 - **Segment:** `exam:14244769` · **unitId:** `86103`
@@ -3757,44 +2947,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Segment:** `exam:14245399` · **unitId:** `86103`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245374|exam:14245375|exam:14245376|exam:14245378|exam:14245397|exam:14245399>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86103&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 08:00–09:30 | 17.04.2026–10.07.2026 | 21102.01.421 (LG H6 BISSANTZ-Hörsaal (240 Plätze)) |
-| Einzeltermin | Fr | 08:00–09:30 | 17.07.2026 | 21101.01.112 (LG H1 (446 Plätze) Hörsaal) |
-| Einzeltermin | Fr | 10:15–11:45 | 09.10.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
-
-### G-VL PG 2 - Grundvorlesung Physische Geographie 2: Klimatologie und Biogeographie - Vorlesung mit Übung
-
-- **Segment:** `exam:14245647` · **unitId:** `86103`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245645|exam:14245647>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86103&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 08:00–09:30 | 17.04.2026–10.07.2026 | 21102.01.421 (LG H6 BISSANTZ-Hörsaal (240 Plätze)) |
-| Einzeltermin | Fr | 08:00–09:30 | 17.07.2026 | 21101.01.112 (LG H1 (446 Plätze) Hörsaal) |
-| Einzeltermin | Fr | 10:15–11:45 | 09.10.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
-
-### G-VL PG 2 - Grundvorlesung Physische Geographie 2: Klimatologie und Biogeographie - Vorlesung mit Übung
-
-- **Segment:** `exam:14245804` · **unitId:** `86103`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245753|exam:14245754|exam:14245755|exam:14245757|exam:14245802|exam:14245804>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86103&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
@@ -3933,40 +3085,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Segment:** `exam:14245504` · **unitId:** `83116`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245489|exam:14245491|exam:14245492|exam:14245495|exam:14245496|exam:14245504>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83116&periodId=589>
-
-- **Veranstaltungsart:** Exkursion
-- **ECTS-Punkte:** 6.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wird noch angekündigt | — | — | — | — |
-
-### Gl-Sem - Großes Geländeseminar - Exkursion
-
-- **Segment:** `exam:14245630` · **unitId:** `83116`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245622|exam:14245630>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83116&periodId=589>
-
-- **Veranstaltungsart:** Exkursion
-- **ECTS-Punkte:** 6.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wird noch angekündigt | — | — | — | — |
-
-### Gl-Sem - Großes Geländeseminar - Exkursion
-
-- **Segment:** `exam:14245790` · **unitId:** `83116`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245753|exam:14245754|exam:14245755|exam:14245757|exam:14245782|exam:14245790>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83116&periodId=589>
 
 - **Veranstaltungsart:** Exkursion
@@ -4141,42 +3259,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 | Einzeltermin | Fr | 15:00–17:00 | 30.01.2026 | 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
 | wöchentlich | Mi | 16:15–17:45 | 15.04.2026–15.07.2026 | 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) 55801.00.210 (00.210 Seminarraum) |
 
-### HS-Gl-Sem - Hauptseminar zum Großen Geländeseminar - Hauptseminar
-
-- **Segment:** `exam:14245633` · **unitId:** `83451`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245622|exam:14245633>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83451&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 4.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 15:00–17:00 | 30.01.2026 | 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
-| wöchentlich | Mi | 16:15–17:45 | 15.04.2026–15.07.2026 | 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) 55801.00.210 (00.210 Seminarraum) |
-
-### HS-Gl-Sem - Hauptseminar zum Großen Geländeseminar - Hauptseminar
-
-- **Segment:** `exam:14245793` · **unitId:** `83451`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245753|exam:14245754|exam:14245755|exam:14245757|exam:14245782|exam:14245793>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83451&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 4.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 15:00–17:00 | 30.01.2026 | 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
-| wöchentlich | Mi | 16:15–17:45 | 15.04.2026–15.07.2026 | 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) 55801.00.210 (00.210 Seminarraum) |
-
 ### K II - Hauptseminar Karteninterpretation - Hauptseminar
 
 - **Segment:** `exam:14244874` · **unitId:** `96738`
@@ -4198,23 +3280,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Segment:** `exam:14245262` · **unitId:** `96738`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245183|exam:14245184|exam:14245185|exam:14245187|exam:14245260|exam:14245262>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96738&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
-
-### K II - Hauptseminar Karteninterpretation - Hauptseminar
-
-- **Segment:** `exam:14245656` · **unitId:** `96738`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245654|exam:14245656>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96738&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
@@ -5064,50 +4129,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 | Einzeltermin | Mo | 12:30–17:00 | 20.07.2026 | 05901.01.059 ( 01.059) |
 | Einzeltermin | Do | 09:00–17:00 | 23.07.2026 | 05901.01.053 ( 01.[Telefon entfernt].01.055 ( 01.[Telefon entfernt].01.059 ( 01.059) |
 
-### PR - Geländepraktikum - Praktikum
-
-- **Segment:** `exam:14245655` · **unitId:** `84310`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245654|exam:14245655>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84310&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 08:00–10:00 | 20.07.2026 | — |
-| Einzeltermin | Mo | 08:00–12:00 | 20.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
-| Blockveranstaltung+Sa | — | 08:00–18:00 | 20.07.2026–25.07.2026 | — |
-| Einzeltermin | Mo | 10:00–12:30 | 20.07.2026 | 05901.01.053 ( 01.[Telefon entfernt].01.055 ( 01.[Telefon entfernt].01.059 ( 01.059) |
-| Einzeltermin | Mo | 12:30–17:00 | 20.07.2026 | 05901.01.059 ( 01.059) |
-| Einzeltermin | Do | 09:00–17:00 | 23.07.2026 | 05901.01.053 ( 01.[Telefon entfernt].01.055 ( 01.[Telefon entfernt].01.059 ( 01.059) |
-
-### PR - Geländepraktikum - Praktikum
-
-- **Segment:** `exam:14245780` · **unitId:** `84310`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245753|exam:14245754|exam:14245755|exam:14245757|exam:14245779|exam:14245780>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84310&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 08:00–10:00 | 20.07.2026 | — |
-| Einzeltermin | Mo | 08:00–12:00 | 20.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
-| Blockveranstaltung+Sa | — | 08:00–18:00 | 20.07.2026–25.07.2026 | — |
-| Einzeltermin | Mo | 10:00–12:30 | 20.07.2026 | 05901.01.053 ( 01.[Telefon entfernt].01.055 ( 01.[Telefon entfernt].01.059 ( 01.059) |
-| Einzeltermin | Mo | 12:30–17:00 | 20.07.2026 | 05901.01.059 ( 01.059) |
-| Einzeltermin | Do | 09:00–17:00 | 23.07.2026 | 05901.01.053 ( 01.[Telefon entfernt].01.055 ( 01.[Telefon entfernt].01.059 ( 01.059) |
-
 ### R-VL - Regionalvorlesung (R-VL) - Vorlesung
 
 - **Segment:** `exam:14244783` · **unitId:** `83433`
@@ -5270,60 +4291,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 | wöchentlich | Fr | 08:15–09:45 | 24.04.2026–17.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
 | Einzeltermin | Fr | 12:00–13:00 | 09.10.2026 | 55801.00.210 (00.210 Seminarraum) |
 
-### R-VL - Regionalvorlesung (R-VL) - Vorlesung
-
-- **Segment:** `exam:14245721` · **unitId:** `83433`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245712|exam:14245721>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83433&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 08:15–09:45 | 24.04.2026–17.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
-| Einzeltermin | Fr | 12:00–13:00 | 09.10.2026 | 55801.00.210 (00.210 Seminarraum) |
-
-### R-VL - Regionalvorlesung (R-VL) - Vorlesung
-
-- **Segment:** `exam:14245731` · **unitId:** `83433`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245722|exam:14245731>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83433&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 08:15–09:45 | 24.04.2026–17.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
-| Einzeltermin | Fr | 12:00–13:00 | 09.10.2026 | 55801.00.210 (00.210 Seminarraum) |
-
-### R-VL - Regionalvorlesung (R-VL) - Vorlesung
-
-- **Segment:** `exam:14245827` · **unitId:** `83433`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245753|exam:14245754|exam:14245755|exam:14245757|exam:14245811|exam:14245827>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83433&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 08:15–09:45 | 24.04.2026–17.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
-| Einzeltermin | Fr | 12:00–13:00 | 09.10.2026 | 55801.00.210 (00.210 Seminarraum) |
-
 ### Sem-KG - Hauptseminar Kulturgeographie - Hauptseminar
 
 - **Segment:** `exam:14244795` · **unitId:** `84345`
@@ -5400,24 +4367,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Segment:** `exam:14245231` · **unitId:** `84345`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245183|exam:14245184|exam:14245185|exam:14245187|exam:14245221|exam:14245231>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84345&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 16:00–17:00 | 13.04.2026 | — |
-| wöchentlich | Do | 14:15–17:45 | 23.04.2026–28.05.2026 | 55801.00.210 (00.210 Seminarraum) 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
-
-### Sem-KG - Hauptseminar Kulturgeographie - Hauptseminar
-
-- **Segment:** `exam:14245669` · **unitId:** `84345`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17642|exam:14245569|exam:14245570|exam:14245571|exam:14245573|exam:14245659|exam:14245669>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84345&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar

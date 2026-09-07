@@ -518,7 +518,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 09:00–13:00 | 22.04.2026–15.07.2026 | 13002.00.581 (00.581 Seminarraum Zellbiologie im Biologikum) |
 
 ### Scientific Presentations Module for Cell- and Molecular Biology - Seminar
 
@@ -528,7 +535,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 09:00–13:00 | 22.04.2026–15.07.2026 | 13002.00.581 (00.581 Seminarraum Zellbiologie im Biologikum) |
 
 ### Scientific Presentations Module for Cell- and Molecular Biology - Seminar
 
@@ -538,7 +552,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 09:00–13:00 | 22.04.2026–15.07.2026 | 13002.00.581 (00.581 Seminarraum Zellbiologie im Biologikum) |
 
 ### Scientific Presentations Module for Cell- and Molecular Biology - Seminar
 
@@ -548,7 +569,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 09:00–13:00 | 22.04.2026–15.07.2026 | 13002.00.581 (00.581 Seminarraum Zellbiologie im Biologikum) |
 
 ### 1992 Wahlmodul Internes Praktikum (M.Sc. Zell- und Molekularbiologie 20192)
 
@@ -1263,6 +1291,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 20.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### FMA-Ü-Mibi-Ba - Forschungs-/Vertiefungsmodul Mikrobiologie: Übungen (Backert) - Übung
@@ -1273,6 +1302,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 20.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### FMA-Ü-MPP - Forschungs-/Vertiefungsmodul Molekulare Pflanzenphysiologie: Übungen - Übung
@@ -1697,7 +1727,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Do | 08:00–12:00 | 09.07.2026 | 13002.00.774 (Kursraum J Fluoreszenzmikroskopraum) |
 | Einzeltermin | Do | 12:00–18:00 | 09.07.2026 | 13002.00.774 (Kursraum J Fluoreszenzmikroskopraum) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (61)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (53)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -2186,29 +2216,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### English: Level 4 - Writing Research Papers — Übung
-
-- **Segment:** `unit:111532` · **unitId:** `111532`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111532&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
-
 ### Forschungs-/Vertiefungsmodul Neurobiologie: Seminar — Repetitorium
 
 - **Segment:** `unit:91681` · **unitId:** `91681`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91681&periodId=589>
 
 - **Veranstaltungsart:** Repetitorium
-- **Turnus:** nur im Wintersemester
-
-### Forschungs-/Vertiefungsmodul Neurobiologie: Übungen
-
-- **Segment:** `unit:87777` · **unitId:** `87777`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87777&periodId=589>
-
-- **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
 
 ### Forschungs-/Vertiefungsmodul Zellbiologie: Seminar
@@ -2346,14 +2359,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
 | wöchentlich | Mi | 16:00–18:00 | 15.04.2026–15.07.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
 
-### Latein II für Fortgeschrittene - Intensivkurs (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
-
-- **Segment:** `unit:89729` · **unitId:** `89729`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89729&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** Unregelmäßig
-
 ### Mastermodul Immunologie für Zell- und Molekularbiologen — Seminar und Übung
 
 - **Segment:** `unit:92872` · **unitId:** `92872`
@@ -2372,15 +2377,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 7.5
 - **Turnus:** nur im Wintersemester
 
-### Molekulare Humangenetik für MSc-Studiengang Zell- und Molekularbiologie — Seminar und Übung
-
-- **Segment:** `unit:94400` · **unitId:** `94400`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94400&periodId=589>
-
-- **Veranstaltungsart:** Seminar und Übung
-- **ECTS-Punkte:** 7.5
-- **Turnus:** nur im Wintersemester
-
 ### Mukosale Immunologie — Seminar und Übung
 
 - **Segment:** `unit:122521` · **unitId:** `122521`
@@ -2390,33 +2386,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 7.5
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-### Orientierungsmodul Autoimmunität — Seminar und Übung
-
-- **Segment:** `unit:85114` · **unitId:** `85114`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85114&periodId=589>
-
-- **Veranstaltungsart:** Seminar und Übung
-- **ECTS-Punkte:** 7.5
-- **Turnus:** nur im Wintersemester
-
-### Orientierungsmodul Biochemie II: Pflanze-Umwelt Interaktion — Seminar und Übung
-
-- **Segment:** `unit:86075` · **unitId:** `86075`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86075&periodId=589>
-
-- **Veranstaltungsart:** Seminar und Übung
-- **ECTS-Punkte:** 7.5
-- **Turnus:** nur im Wintersemester
-
-### Orientierungsmodul Neurobiologie — Seminar und Übung
-
-- **Segment:** `unit:92835` · **unitId:** `92835`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92835&periodId=589>
-
-- **Veranstaltungsart:** Seminar und Übung
-- **ECTS-Punkte:** 7.5
-- **Turnus:** nur im Wintersemester
 
 ### Orientierungsmodul: Immunonkologie — Seminar und Übung
 
@@ -2441,6 +2410,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar und Übung
 - **ECTS-Punkte:** 7.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
 ### Orientierungsmodul: Regeneration und Stammzellen — Seminar und Übung
@@ -2457,16 +2427,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Blockveranstaltung | — | 08:00–17:00 | 27.04.2026–22.05.2026 | 13002.00.771 (Kursraum K 00.771 (Entwicklungsbiologie)) |
-
-### Orientierungsmodul: Sekretionssysteme und gezielte Beladung extrazellulärer bakterieller Vesikel — Seminar und Übung
-
-- **Segment:** `unit:129117` · **unitId:** `129117`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=129117&periodId=589>
-
-- **Veranstaltungsart:** Seminar und Übung
-- **ECTS-Punkte:** 7.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
 
 ### Schriftliche Übersetzungsleistung Latein I für Anfänger (Zulassungsvoraussetzung zu Kurs Latein II für Fortgeschrittene)
 

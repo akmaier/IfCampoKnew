@@ -5,7 +5,7 @@ campo_segment: "title:17188"
 campo_path: "title:16758|title:16763|title:17188"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17188"
 po_version_count: 2
-course_count: 456
+course_count: 455
 ---
 
 # Grundschuldidaktik
@@ -26,7 +26,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Campo-Segment:** `exam:13147086`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17188|exam:13146396|exam:13146397|exam:13146426|exam:13147083|exam:13147084|exam:13147086>
 
-## Veranstaltungen (456)
+## Veranstaltungen (455)
 
 ### (LA PRF) - Staatsexamensvorbereitung OC (LAnv)  - Seminar
 
@@ -1063,49 +1063,10 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Do | 14:00–15:30 | 16.10.2025–05.02.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
 
-### MA EEBF M6/MA Pädagogik MII/Modul 2 - Semiar Allg. Päd.: Medien, Wissen, Bildung - Grundlagen der Medienpädagogik (Standort Nürnberg) - Seminar
-
-- **Segment:** `exam:15797130` · **unitId:** `89141`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17188|exam:13146396|exam:13146397|exam:13146426|exam:13147298|exam:13147592|exam:15797130>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89141&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:00–15:30 | 13.10.2025–02.02.2026 | 20301.01.028 (1.028 Seminarraum MM-Labor (18)) |
-
-### MA EEBF M7/Modul 2 - Seminar Allg. Päd.: ChatGPT & Co. - KI in Studium, Schule und im Medienalltag von Kindern und Jugendlichen (Standort Nürnberg) - Seminar
-
-- **Segment:** `exam:13147597` · **unitId:** `84951`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17188|exam:13146396|exam:13146397|exam:13146426|exam:13147298|exam:13147592|exam:13147597>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84951&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–17:15 | 24.10.2025 | 20301.01.041 (1.041 großer Hörsaal (310)) |
-| Einzeltermin | Fr | 14:00–17:15 | 24.10.2025 | 20301.01.010 (1.010 Seminarraum (50)) |
-| Einzeltermin | Fr | 14:00–17:15 | 31.10.2025 | 20301.01.041 (1.041 großer Hörsaal (310)) |
-| Einzeltermin | Fr | 14:00–17:15 | 31.10.2025 | 20301.01.010 (1.010 Seminarraum (50)) |
-| Einzeltermin | Fr | 14:00–17:15 | 21.11.2025 | 20301.01.010 (1.010 Seminarraum (50)) |
-| Einzeltermin | Fr | 14:00–17:15 | 12.12.2025 | 20301.01.010 (1.010 Seminarraum (50)) |
-| Einzeltermin | Fr | 14:00–17:15 | 09.01.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
-| Einzeltermin | Fr | 14:00–17:15 | 30.01.2026 | 20301.01.041 (1.041 großer Hörsaal (310)) |
-
 ### Medienerziehung in Schule und Unterricht - Seminar
 
-- **Segment:** `exam:13147605` · **unitId:** `111536`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17188|exam:13146396|exam:13146397|exam:13146426|exam:13147298|exam:13147592|exam:13147605>
+- **Segment:** `exam:17879432` · **unitId:** `111536`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17188|exam:13146396|exam:13146397|exam:13146426|exam:13147298|exam:13147592|exam:17879432>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111536&periodId=565>
 
 - **Veranstaltungsart:** Seminar
@@ -1137,6 +1098,29 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 15:45–17:15 | 14.10.2025–03.02.2026 | 20302.01.132 (1.132 Aula (780)) |
+
+### Modul 2 - Seminar Allg. Päd.: ChatGPT & Co. - KI in Studium, Schule und im Medienalltag von Kindern und Jugendlichen (Standort Nürnberg) - Seminar
+
+- **Segment:** `exam:13147597` · **unitId:** `84951`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17188|exam:13146396|exam:13146397|exam:13146426|exam:13147298|exam:13147592|exam:13147597>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84951&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:15 | 24.10.2025 | 20301.01.041 (1.041 großer Hörsaal (310)) |
+| Einzeltermin | Fr | 14:00–17:15 | 24.10.2025 | 20301.01.010 (1.010 Seminarraum (50)) |
+| Einzeltermin | Fr | 14:00–17:15 | 31.10.2025 | 20301.01.041 (1.041 großer Hörsaal (310)) |
+| Einzeltermin | Fr | 14:00–17:15 | 31.10.2025 | 20301.01.010 (1.010 Seminarraum (50)) |
+| Einzeltermin | Fr | 14:00–17:15 | 21.11.2025 | 20301.01.010 (1.010 Seminarraum (50)) |
+| Einzeltermin | Fr | 14:00–17:15 | 12.12.2025 | 20301.01.010 (1.010 Seminarraum (50)) |
+| Einzeltermin | Fr | 14:00–17:15 | 09.01.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
+| Einzeltermin | Fr | 14:00–17:15 | 30.01.2026 | 20301.01.041 (1.041 großer Hörsaal (310)) |
 
 ### Modul 2 - Seminar: Bildungsprozesse und Bildungseinrichtungen in einer zunehmend von digitalen Medien geprägten Gesellschaft - Seminar
 
@@ -1171,7 +1155,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Di | 09:45–11:15 | 14.10.2025–03.02.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
 
-### Modul 2 - Seminar: Zielgruppenübergreifende aktive Medienarbeit (Standort Nürnberg) - Seminar
+### Modul 2 - Seminar: Zielgruppenübergreifende aktive Medienarbeit - Exkursion in die Boxdorfer Wohnanlage (Standort Nürnberg) - Seminar
 
 - **Segment:** `exam:13147621` · **unitId:** `118302`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17188|exam:13146396|exam:13146397|exam:13146426|exam:13147298|exam:13147592|exam:13147621>
@@ -5346,7 +5330,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17188|title:17274|exam:13394807|exam:13717485>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118652&periodId=565>
 
+- **Veranstaltungsart:** Seminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -7161,7 +7147,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Di | 11:30–13:00 | 14.10.2025–03.02.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (258)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (147)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -7182,78 +7168,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Do | 17:30–19:00 | 11.12.2025 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 | Einzeltermin | Fr | 14:00–19:00 | 09.01.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 | Einzeltermin | Sa | 09:00–16:00 | 10.01.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
-
-### "Girls just wanna have fun" - Frauen und Mädchen als Akteurinnen des (religiösen) Lernens — Seminar
-
-- **Segment:** `unit:135503` · **unitId:** `135503`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135503&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** Unregelmäßig
-
-### (Religions-)Unterricht in Bewegung - bewegter (Religions-)Unterricht — Hauptseminar
-
-- **Segment:** `unit:127616` · **unitId:** `127616`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127616&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** Unregelmäßig
-
-### Ackerlauer / Blockseminar: Fachübergreifendes Lernen im Sachunterricht: Kinder lernen entdeckend am Beispiel des informatischen Lernens (Kurs A) — Mittelseminar
-
-- **Segment:** `unit:110761` · **unitId:** `110761`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110761&periodId=565>
-
-- **Veranstaltungsart:** Mittelseminar
-- **ECTS-Punkte:** 3.0
-- **Turnus:** Unregelmäßig
-
-### Ackerlauer / Blockseminar: Medienpädagogik in der Grundschule — Mittelseminar
-
-- **Segment:** `unit:126882` · **unitId:** `126882`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126882&periodId=565>
-
-- **Veranstaltungsart:** Mittelseminar
-- **Turnus:** in jedem Semester
-
-### Ackerlauer / Blockveranstaltung: Planungskompetenz mit Chat-GPT und Medienkompetenz in der Praxis — Mittelseminar
-
-- **Segment:** `unit:115111` · **unitId:** `115111`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115111&periodId=565>
-
-- **Veranstaltungsart:** Mittelseminar
-- **Turnus:** Unregelmäßig
-
-### Ackerlauer / Fachübergreifendes Lernen im Sachunterricht: Kinder lernen entdeckend am Beispiel des informatischen Lernens — Mittelseminar
-
-- **Segment:** `unit:86986` · **unitId:** `86986`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86986&periodId=565>
-
-- **Veranstaltungsart:** Mittelseminar
-- **Turnus:** Unregelmäßig
-
-### Ackerlauer / Fachübergreifendes Lernen im Sachunterricht: Kinder lernen entdeckend am Beispiel des informatischen Lernens - Exkursion  (Kurs B) — Seminar
-
-- **Segment:** `unit:116267` · **unitId:** `116267`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116267&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
-### Ackerlauer / Flächenübergreifendes Lernen im Sachunterricht am Beispiel informatisches Lernen — Seminar
-
-- **Segment:** `unit:138541` · **unitId:** `138541`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138541&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
-### Ackerlauer / Grundlagen des Schriftspracherwerbs im Kontext von Vielfalt und individueller Förderung (Kurs D) — Seminar
-
-- **Segment:** `unit:138540` · **unitId:** `138540`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138540&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
 
 ### Aktuelle erziehungswissenschaftliche Probleme und Fragestellungen (Standort Erlangen) — Vorlesung
 
@@ -7294,14 +7208,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
-
-### Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (alte FPO, nur GS): Sprache, Literatur, Medien
-
-- **Segment:** `unit:101339` · **unitId:** `101339`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101339&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
 
 ### Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten)
 
@@ -7396,14 +7302,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | 14-täglich | Fr | 11:30–13:00 | 24.10.2025–30.01.2026 | 20301.01.029 (1.029 Seminarraum (40)) |
 
-### Aufbaumodul Fachdidaktik Deutsch-Übung (nur GS)
-
-- **Segment:** `unit:99984` · **unitId:** `99984`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99984&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** in jedem Semester
-
 ### Aufbaumodul Fachdidaktik Deutsch-Übung (nur GS) (Albrecht)
 
 - **Segment:** `unit:103715` · **unitId:** `103715`
@@ -7435,10 +7333,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Einzeltermin | Fr | 14:00–21:00 | 24.10.2025 | 20301.02.047 (2.047 Seminarraum (40)) |
 
-### Aufbaumodul: Hauptseminar: Geschichte unterrichten: Migration von der Frühen Neuzeit bis heute Erl.
+### Aufbaumodul: Hauptseminar: Geschichte unterrichten: Geschichtskultur als Thema im Geschichtsunterricht
 
-- **Segment:** `unit:86936` · **unitId:** `86936`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86936&periodId=565>
+- **Segment:** `unit:103956` · **unitId:** `103956`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103956&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar
 - **Turnus:** nur im Wintersemester
@@ -7459,55 +7357,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Do | 14:00–15:30 | 16.10.2025–05.02.2026 | 20301.02.047 (2.047 Seminarraum (40)) |
 | Einzeltermin | Mi | 08:30–14:00 | 11.02.2026 | 20301.01.028 (1.028 Seminarraum MM-Labor (18)) |
-
-### Banh  / Offener Unterricht - Schlüssel zur Selbsttätigkeit? — Seminar
-
-- **Segment:** `unit:126885` · **unitId:** `126885`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126885&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
-### Banh / Demokratie im Klassenzimmer — Mittelseminar
-
-- **Segment:** `unit:115491` · **unitId:** `115491`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115491&periodId=565>
-
-- **Veranstaltungsart:** Mittelseminar
-- **Turnus:** in jedem Semester
-
-### Banh / Montessoripädagogik in der Regelschule — Mittelseminar
-
-- **Segment:** `unit:118650` · **unitId:** `118650`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118650&periodId=565>
-
-- **Veranstaltungsart:** Mittelseminar
-- **Turnus:** in jedem Semester
-
-### Banh / Soziales Lernen - Wie entsteht eine Klassengemeinschaft? — Seminar
-
-- **Segment:** `unit:126884` · **unitId:** `126884`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126884&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
-### Banh / Wie lernen Kinder lesen und schreiben? — Mittelseminar
-
-- **Segment:** `unit:118653` · **unitId:** `118653`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118653&periodId=565>
-
-- **Veranstaltungsart:** Mittelseminar
-- **Turnus:** in jedem Semester
-
-### BASISBIO Sommer — Seminar und Übung
-
-- **Segment:** `unit:83605` · **unitId:** `83605`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83605&periodId=565>
-
-- **Veranstaltungsart:** Seminar und Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
 
 ### Basismodul Fachdidaktik Deutsch: Einführung in die Literatur-, Sprach- und Mediendidaktik Deutsch — Seminar und Übung
 
@@ -7552,21 +7401,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **Turnus:** nur im Wintersemester
-
-### Basismodul Konkretion (alte FPO) / Konkretion Geschichtskultur (neue FPO): Geschichte im Film — Seminar
-
-- **Segment:** `unit:95320` · **unitId:** `95320`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95320&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nur im Wintersemester
-
-### Basismodul/Vorlesung
-
-- **Segment:** `unit:124643` · **unitId:** `124643`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124643&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
 
 ### Basismodul: Konkretion — Seminar
 
@@ -7647,29 +7481,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Do | 11:30–13:00 | 16.10.2025–05.02.2026 | 20301.01.042 (1.042 großer Hörsaal (230)) |
 
-### Basismodul: Vorlesung
-
-- **Segment:** `unit:138670` · **unitId:** `138670`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138670&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-
-### Basismodul: Vorlesung (alte FPO) / Basismodul: Vorlesung (neue FPO): Einführung in die Geschichtsdidaktik (Erl.)
-
-- **Segment:** `unit:86751` · **unitId:** `86751`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86751&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Wintersemester
-
-### Basismodul: Vorlesung (alte FPO) / Basismodul: Vorlesung (neue FPO): Einführung in die Geschichtsdidaktik (Nbg.)
-
-- **Segment:** `unit:101910` · **unitId:** `101910`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101910&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** in jedem Semester
-
 ### Basismodul:Konkretion — Seminar
 
 - **Segment:** `unit:130860` · **unitId:** `130860`
@@ -7746,28 +7557,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Do | 09:45–11:15 | 16.10.2025–05.02.2026 | 75202.00.512 (St.Paul 00.512 - (12)) |
 
-### Begleitveranstaltung zum Praktikum EvRel — Praxisseminar
-
-- **Segment:** `unit:104560` · **unitId:** `104560`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104560&periodId=565>
-
-- **Veranstaltungsart:** Praxisseminar
-- **Turnus:** nur im Wintersemester
-
-### Begleitveranstaltung zum studienbegleitenden Praktikum Geschichte Mittelschule — Seminar
-
-- **Segment:** `unit:138727` · **unitId:** `138727`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138727&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
-### Begleitveranstaltung zum studienbegleitenden Praktikum Geschichte MS — Kurs
-
-- **Segment:** `unit:124728` · **unitId:** `124728`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124728&periodId=565>
-
-- **Veranstaltungsart:** Kurs
-
 ### Bewegen an und mit Geräten (Did GS/MS) — Seminar
 
 - **Segment:** `unit:91493` · **unitId:** `91493`
@@ -7825,22 +7614,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### Biblische Themen im Religionsunterricht — Seminar
-
-- **Segment:** `unit:99758` · **unitId:** `99758`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99758&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** Unregelmäßig
-
-### Bildungs- und sozialwissenschaftliche Perspektiven auf Lehrer*innenprofessionalität (Angebot am Standort Erlangen) — Seminar
-
-- **Segment:** `unit:134644` · **unitId:** `134644`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134644&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
 
 ### BIODID I LAGS / LAMS: Biologiedidaktische Grundlagen für die Grund- und Mittelschule (SE) — Seminar
 
@@ -7920,13 +7693,19 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Proseminar
 
-### Büttner / Digitale Medien für den problemorientierten Sachunterricht konzipieren - aber wie? Schwerpunkt regenerative Energie (Kurs A) — Mittelseminar
+### Chor 1 - Erfolgreiche Teilnahme
 
-- **Segment:** `unit:118733` · **unitId:** `118733`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118733&periodId=565>
+- **Segment:** `unit:22790` · **unitId:** `22790`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=22790&periodId=565>
 
-- **Veranstaltungsart:** Mittelseminar
-- **Turnus:** in jedem Semester
+- **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Chor 2 - Erfolgreiche Teilnahme
 
@@ -7942,21 +7721,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Chorklassenprojekt
+### Demokratie in Theorie und Praxis — Proseminar
 
-- **Segment:** `unit:117613` · **unitId:** `117613`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117613&periodId=565>
+- **Segment:** `unit:134410` · **unitId:** `134410`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134410&periodId=565>
 
-- **Veranstaltungsart:** Projekt
-- **ECTS-Punkte:** 6.0
-- **Turnus:** Unregelmäßig
-
-### Christliche Kirchen und Gruppen — Vorlesung mit Übung
-
-- **Segment:** `unit:111360` · **unitId:** `111360`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111360&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
+- **Veranstaltungsart:** Proseminar
 
 ### Deutschdidaktische Zoom-Seminare im Freien Bereich
 
@@ -7964,13 +7734,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107651&periodId=565>
 
 - **Veranstaltungsart:** Seminar
-
-### Deutsche Minderheiten und Nationalitätenkonflikte: Siebenbürgen und Böhmen von der Frühen Neuzeit bis zum 20. Jahrhundert — Hauptseminar
-
-- **Segment:** `unit:120237` · **unitId:** `120237`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120237&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
 
 ### Didaktik der Grundschulmathematik 1 - Arithmetik, Algebra, Sachrechnen
 
@@ -8063,6 +7826,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mi | 11:30–13:00 | 15.10.2025–04.02.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
 
+### Didaktik der Grundschulmathematik 3 - Wahlpflicht — Seminar
+
+- **Segment:** `unit:121807` · **unitId:** `121807`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121807&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+
 ### Didaktik der Grundschulmathematik 3 - Wahlpflichtseminar
 
 - **Segment:** `unit:23655` · **unitId:** `23655`
@@ -8109,15 +7879,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Do | 09:45–11:15 | 16.10.2025–05.02.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 | Einzeltermin | Do | 09:45–11:15 | 29.01.2026 | 75201.00.310 (St.Paul 00.310 Textilwerkstatt (40)) |
 
-### Einführung in das Christentum - elementar — Vorlesung mit Übung
-
-- **Segment:** `unit:138740` · **unitId:** `138740`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138740&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 2.0
-- **Turnus:** nur im Wintersemester
-
 ### Einführung in den Islam — Vorlesung mit Übung
 
 - **Segment:** `unit:82192` · **unitId:** `82192`
@@ -8126,80 +7887,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **Turnus:** nur im Sommersemester
 
-### Einführung in die Musikdidaktik der MS und RS — Proseminar
+### Einführung in die Didaktik des Deutschen als Zweitsprache — Vorlesung
 
-- **Segment:** `unit:102236` · **unitId:** `102236`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102236&periodId=565>
+- **Segment:** `unit:92076` · **unitId:** `92076`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92076&periodId=565>
 
-- **Veranstaltungsart:** Proseminar
-- **ECTS-Punkte:** 2.0
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 3.0
 - **Turnus:** nur im Wintersemester
-
-### Einführung in die Musikpsychologie — Seminar
-
-- **Segment:** `unit:128312` · **unitId:** `128312`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128312&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Turnus:** nur im Sommersemester
-
-### Einführung in die Planung und Analyse von Geographieunterricht (P&A) Kurs E | GS-MS-RS-GY (in N / Mo, 14:00h) — Seminar
-
-- **Segment:** `unit:89834` · **unitId:** `89834`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89834&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 3.0
-- **Turnus:** nur im Sommersemester
-
-### Einführung in die Planung und Analyse von Geographieunterricht (P&A) Kurs F | GS-MS-RS-GY (in N / Mo, 15:45h) — Seminar
-
-- **Segment:** `unit:104300` · **unitId:** `104300`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104300&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 3.0
-- **Turnus:** nur im Sommersemester
-
-### Einführung in die Planung und Analyse von Lehr- Lernprozessen (Angebot am Standort Erlangen) — Seminar
-
-- **Segment:** `unit:119396` · **unitId:** `119396`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119396&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nur im Sommersemester
-
-### Einführung in die Planung und Analyse von Lehr- Lernprozessen (Angebot am Standort Erlangen) — Seminar
-
-- **Segment:** `unit:119566` · **unitId:** `119566`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119566&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
-### Einführung in die Planung und Analyse von Lehr-Lernprozessen — Seminar
-
-- **Segment:** `unit:123458` · **unitId:** `123458`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123458&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
-### Einführung in die Planung und Analyse von Lehr-Lernprozessen — Seminar
-
-- **Segment:** `unit:124279` · **unitId:** `124279`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124279&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
-### Einführung in die Wissenschafts- und Forschungsethik — Seminar
-
-- **Segment:** `unit:95537` · **unitId:** `95537`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95537&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
 
 ### Einführungsmodul GSD: Grundlagen der Grundschuldidaktik - Sachunterricht und Schriftspracherwerb — Vorlesung
 
@@ -8227,15 +7922,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | 14-täglich | Mo | 08:00–09:30 | 20.10.2025–26.01.2026 | 20301.01.042 (1.042 großer Hörsaal (230)) |
 | Einzeltermin | Mo | 14:00–15:30 | 09.02.2026 | 20301.01.041 (1.041 großer Hörsaal (310)) |
 
-### Elemente der Schulgeometrie - Grundschule (ElGeo-GS) — Seminar
-
-- **Segment:** `unit:105413` · **unitId:** `105413`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=105413&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
 ### Ergänzende Kapitel und Übungen zu Elemente der Arithmetik - Grundschule
 
 - **Segment:** `unit:115515` · **unitId:** `115515`
@@ -8249,30 +7935,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 09:45–11:15 | 20.10.2025–02.02.2026 | 20301.02.014 (2.014 Mathe-Lehrwerkstatt (40)) |
-
-### Ergänzende Kapitel und Übungen zu Elemente der Arithmetik - Grundschule GS (Gruppe A)
-
-- **Segment:** `unit:92311` · **unitId:** `92311`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92311&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Ergänzende Kapitel und Übungen zu Elemente der Arithmetik - Grundschule GS (Gruppe F)
-
-- **Segment:** `unit:92247` · **unitId:** `92247`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92247&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Ergänzende Kapitel und Übungen zu Elemente der Arithmetik - Grundschule GS (Gruppe H)
-
-- **Segment:** `unit:100041` · **unitId:** `100041`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100041&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
 
 ### Ethische Bildung — Vorlesung mit Übung
 
@@ -8290,14 +7952,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 09:45–11:15 | 14.10.2025–03.02.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 
-### EWF-Exam Prep Text Production & Landeskunde — Übung
-
-- **Segment:** `unit:87252` · **unitId:** `87252`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87252&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** in jedem Semester
-
 ### EXAM NdL: — Examensseminar
 
 - **Segment:** `unit:102748` · **unitId:** `102748`
@@ -8305,27 +7959,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Examensseminar
 - **Turnus:** nur im Wintersemester
-
-### Examenskurs (Nbg) (Di 14.00-15.30 Uhr) — Examensseminar
-
-- **Segment:** `unit:115218` · **unitId:** `115218`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115218&periodId=565>
-
-- **Veranstaltungsart:** Examensseminar
-
-### Examenskurs (Nbg) (Di 15.45-17.15 Uhr) — Examensseminar
-
-- **Segment:** `unit:115224` · **unitId:** `115224`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115224&periodId=565>
-
-- **Veranstaltungsart:** Examensseminar
-
-### Examenskurs NdL (Erlangen für: LA GYM/RS) — Examensseminar
-
-- **Segment:** `unit:137867` · **unitId:** `137867`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137867&periodId=565>
-
-- **Veranstaltungsart:** Examensseminar
 
 ### Examenskurs NdL (Nbg: GS/MS/RS) — Examensseminar
 
@@ -8349,27 +7982,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Examensseminar
 
-### Examenskurs NdL (Nürnberg, nur LA GS, MS, RS, Berufl. Schulen) — Examensseminar
-
-- **Segment:** `unit:118855` · **unitId:** `118855`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118855&periodId=565>
-
-- **Veranstaltungsart:** Examensseminar
-
 ### Examenskurs NdL (Nürnberg: nur GS/MS/RS/Berufl. Schulen) — Examensseminar
 
 - **Segment:** `unit:121988` · **unitId:** `121988`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121988&periodId=565>
 
 - **Veranstaltungsart:** Examensseminar
-
-### Examensseminar Mediävistik: Höfische Epik
-
-- **Segment:** `unit:137697` · **unitId:** `137697`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137697&periodId=565>
-
-- **Veranstaltungsart:** Examensseminar
-- **Turnus:** in jedem Semester
 
 ### Examensseminar NdL (LA Gymnasium)
 
@@ -8409,15 +8027,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Do | Do | 10:00–11:30 | — | 20301.02.031 (2.031 großer Hörsaal (110)) |
 
-### Forschungskolloquium empirische Musikpädagogik
-
-- **Segment:** `unit:116535` · **unitId:** `116535`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116535&periodId=565>
-
-- **Veranstaltungsart:** Kolloquium
-- **ECTS-Punkte:** 2.0
-- **Turnus:** in jedem Semester
-
 ### Freiwilliges Tutorium für LA M1 Allgemeine Pädagogik I zur (VL) Bildung und Erziehung in historischer und systematischer Perspektive (Prof. Rakhkochkine) (Standort Nürnberg)
 
 - **Segment:** `unit:120502` · **unitId:** `120502`
@@ -8425,22 +8034,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Tutorium
 - **Turnus:** in jedem Semester
-
-### Funktionales Programmieren für Lehramtstudierende — Sonstige Lehrveranstaltung
-
-- **Segment:** `unit:110203` · **unitId:** `110203`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110203&periodId=565>
-
-- **Veranstaltungsart:** Sonstige Lehrveranstaltung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** in jedem Semester
-
-### Gender, Literature and the Public Sphere (Seminar in englischer Sprache) (Master) — Hauptseminar
-
-- **Segment:** `unit:118967` · **unitId:** `118967`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118967&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
 
 ### GeoDid 1: Geographiedidaktik - Grundlagen (Klausur)
 
@@ -8527,13 +8120,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | — | — | — |
 
-### Gesellschaftswissenschaften: Postkoloniale Theorien — Seminar
-
-- **Segment:** `unit:111477` · **unitId:** `111477`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111477&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
 ### Gestalten im Schulalltag
 
 - **Segment:** `unit:26884` · **unitId:** `26884`
@@ -8547,22 +8133,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Di | Di | — | — | — |
-
-### Gewaltorte als Lernorte (Standort Erlangen) — Seminar
-
-- **Segment:** `unit:138620` · **unitId:** `138620`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138620&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
-### GIS & Fernerkundung für Lehrämter (vhb-Kurs) — Seminar
-
-- **Segment:** `unit:87389` · **unitId:** `87389`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87389&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
 
 ### Grundlagen der Chemiedidaktik — Vorlesung
 
@@ -8579,6 +8149,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 09:45–11:15 | 14.10.2025–03.02.2026 | 20301.02.047 (2.047 Seminarraum (40)) |
 
+### Grundlagen der Didaktik der Chemie Gymnasium [DIDCHEM LAG I] — Seminar
+
+- **Segment:** `unit:104164` · **unitId:** `104164`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104164&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **Turnus:** nur im Sommersemester
+
 ### Grundlagen der Ethik (Philosophie 1) — Vorlesung mit Übung
 
 - **Segment:** `unit:130379` · **unitId:** `130379`
@@ -8594,31 +8172,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 14:00–16:15 | 16.10.2025–05.02.2026 | 20301.01.042 (1.042 großer Hörsaal (230)) |
-
-### Grundlagen der Ethik (Philosophie 1) — Vorlesung mit Übung
-
-- **Segment:** `unit:95337` · **unitId:** `95337`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95337&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 4.0
-- **Turnus:** in jedem Semester
-
-### Grundlagen der Ethik (Philosophie 1) — Vorlesung
-
-- **Segment:** `unit:111461` · **unitId:** `111461`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111461&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-
-### Grundlagen der Ethik (Philosophie 1) — Vorlesung mit Übung
-
-- **Segment:** `unit:121597` · **unitId:** `121597`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121597&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 4.0
-- **Turnus:** in jedem Semester
 
 ### Grundlagen der Fachdidaktik Deutsch
 
@@ -8647,42 +8200,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Fr | Fr | 14:00–15:30 | 07.12.2025 23:59:59 | — |
-
-### Hauptseminar
-
-- **Segment:** `unit:116490` · **unitId:** `116490`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116490&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
-### Hauptseminar
-
-- **Segment:** `unit:138667` · **unitId:** `138667`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138667&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-
-### Hauptseminar
-
-- **Segment:** `unit:138992` · **unitId:** `138992`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138992&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-
-### Hauptseminar Mediävistik und Examenskurs
-
-- **Segment:** `unit:110017` · **unitId:** `110017`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110017&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
-### Hauptseminar Mediävistik und Examenskurs: Märendichtung / Novellistik
-
-- **Segment:** `unit:137698` · **unitId:** `137698`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137698&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
 
 ### Hauptseminar: Praxis des Musikunterrichts in der Grundschule
 
@@ -8733,14 +8250,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:00–16:00 | 13.10.2025–02.02.2026 | 20301.U1.038 (U1.038 Seminarraum (50)) |
 
-### Kasanmascheff / Schriftspracherwerb in Theorie und Praxis — Mittelseminar
-
-- **Segment:** `unit:115175` · **unitId:** `115175`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115175&periodId=565>
-
-- **Veranstaltungsart:** Mittelseminar
-- **Turnus:** Unregelmäßig
-
 ### Katholische Theologie (LAEW 4er-Modul I)
 
 - **Segment:** `unit:50778` · **unitId:** `50778`
@@ -8769,6 +8278,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | — | 07.12.2025 23:59:59 | — |
 
+### Keßler-Schnupp / Blended Learning: Ausgewählte Themen des Schriftspracherwerbs — Mittelseminar
+
+- **Segment:** `unit:97656` · **unitId:** `97656`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97656&periodId=565>
+
+- **Veranstaltungsart:** Mittelseminar
+- **Turnus:** in jedem Semester
+
+### Keßler-Schnupp / Theoretische Grundlagen einer Werteerziehung für die Grundschule. Eine Veranstaltung für Lehrende — Seminar
+
+- **Segment:** `unit:123444` · **unitId:** `123444`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123444&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **Turnus:** in jedem Semester
+
 ### Keßler-Schnupp / Was ist Leistung und wie kommt man zu einer objektiven und bewussten Bewertung?(Kurs B) — Mittelseminar
 
 - **Segment:** `unit:96764` · **unitId:** `96764`
@@ -8786,14 +8311,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Mittelseminar
 - **ECTS-Punkte:** 3.0
 - **Turnus:** nur im Wintersemester
-
-### Kirschhock / Blended Learning: Problemkreise im Schriftspracherwerb (Kurs B) — Mittelseminar
-
-- **Segment:** `unit:115184` · **unitId:** `115184`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115184&periodId=565>
-
-- **Veranstaltungsart:** Mittelseminar
-- **Turnus:** Unregelmäßig
 
 ### Klausur oder mündliche Prüfung über die Vorlesungen Einführung in die Didaktik des katholischen Religionsunterrichts und Religiöses Lernen
 
@@ -8851,19 +8368,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Konkretion — Seminar
+### Kopp / Individuell und aktiv lernen im Sachunterricht der Grundschule — Seminar
 
-- **Segment:** `unit:115929` · **unitId:** `115929`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115929&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
-### Konkretion — Seminar
-
-- **Segment:** `unit:124666` · **unitId:** `124666`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124666&periodId=565>
+- **Segment:** `unit:126862` · **unitId:** `126862`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126862&periodId=565>
 
 - **Veranstaltungsart:** Seminar
+- **Turnus:** in jedem Semester
 
 ### Kunstgeschichte im Überblick -  ONLINE Seminar - Keller — Vorlesung
 
@@ -8872,30 +8383,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.0
-- **Turnus:** in jedem Semester
-
-### LA M2 / EE-BF M2 / ZS M1 / LA Freier Bereich : SEM "Theorien pädagogischen Handelns auch im internationalen Vergleich und im Kontext der Migration" (Standort Nürnberg) — Seminar
-
-- **Segment:** `unit:101497` · **unitId:** `101497`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101497&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
-### LA M2 / EE-BF M6d / LA Freier Bereich: SEM "International Education (Theorien und Konzepte der internationalen Bildung) in englischer Sprache (Standort Nürnberg)" — Seminar
-
-- **Segment:** `unit:98003` · **unitId:** `98003`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98003&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
-### LA M2/ MA Päd Modul V: SEM "(Pädagogische) Professionalität im Kontext internationaler Mobilität und Migration (Standort Nürnberg)" — Seminar
-
-- **Segment:** `unit:88204` · **unitId:** `88204`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88204&periodId=565>
-
-- **Veranstaltungsart:** Seminar
 - **Turnus:** in jedem Semester
 
 ### Latein I für Anfänger (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
@@ -8945,14 +8432,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Blockveranstaltung | — | 09:00–14:15 | 18.02.2026–10.03.2026 | 05901.02.058 ( 2.058 R 2.058) |
 
-### Ling Exam: Examenskurs Linguistik (LA GS/MS/RS) — Examensseminar
-
-- **Segment:** `unit:101800` · **unitId:** `101800`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101800&periodId=565>
-
-- **Veranstaltungsart:** Examensseminar
-- **Turnus:** in jedem Semester
-
 ### Literaturdidaktik (Aufbaumodul 1)
 
 - **Segment:** `unit:41890` · **unitId:** `41890`
@@ -8967,13 +8446,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | 08:15–09:45 | 07.12.2025 23:59:59 | — |
 
-### Mathematik an außerschulischen Lernorten (Wahlpflichtseminar GS)
-
-- **Segment:** `unit:120299` · **unitId:** `120299`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120299&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
 ### Mathematik für alle - experimentelle und ästhetische Zugänge im Mathematikunterricht — Seminar
 
 - **Segment:** `unit:139273` · **unitId:** `139273`
@@ -8983,64 +8455,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.5
 - **Turnus:** in jedem Semester
 
-### Mathematik im Bilderbuch (Wahlpflichtseminar GS - 4)
-
-- **Segment:** `unit:84958` · **unitId:** `84958`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84958&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Turnus:** nur im Sommersemester
-
-### Mehrsprachigkeit als Ressource — Seminar
-
-- **Segment:** `unit:86994` · **unitId:** `86994`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86994&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nur im Sommersemester
-
-### Modul 2 - Seminar: Grundlagen Medienerziehung
-
-- **Segment:** `unit:91766` · **unitId:** `91766`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91766&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
 ### Modul I (Übung): Methoden und Ergebnisse empirischer Bildungsforschung (Nürnberg)
 
 - **Segment:** `unit:106849` · **unitId:** `106849`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106849&periodId=565>
 
 - **Veranstaltungsart:** Übung
-- **Turnus:** in jedem Semester
-
-### MODUL II: Psychologie für Lehramt 2 - Begleitseminar B (ERLANGEN)
-
-- **Segment:** `unit:93882` · **unitId:** `93882`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93882&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Turnus:** in jedem Semester
-
-### MODUL III (Psychologie für LA 3) ODER Freier Bereich Psychologie: Klassenmanagement (Block) — Seminar
-
-- **Segment:** `unit:105289` · **unitId:** `105289`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=105289&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
-
-### MODUL III - WiPra-Seminar: Lernkompetenzen (Psychologie für Lehramt 3)
-
-- **Segment:** `unit:90866` · **unitId:** `90866`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90866&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
 - **Turnus:** in jedem Semester
 
 ### Modul III: Bedingungen schulischen Leistungserfolgs — Seminar
@@ -9060,15 +8480,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
-
-### Modul III: Lernen im Spannungsfeld zwischen Selbstbestimmung, Emotion und Motivation — Seminar
-
-- **Segment:** `unit:86559` · **unitId:** `86559`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86559&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
 
 ### Modulabschlussprüfung
 
@@ -9097,62 +8508,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Di | Di | — | 07.12.2025 23:59:59 | — |
-
-### Natur- und Tierethik (Philosophie 2) — Seminar
-
-- **Segment:** `unit:126444` · **unitId:** `126444`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126444&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 4.0
-- **Turnus:** Unregelmäßig
-
-### Neue FPO: Aufbaumodul: Übung: Einführung in die Planung und   Analyse des Geschichtsunterrichts an Grund- und Mittelschulen / Alte FPO: Aufbaumodul: Vorlesung: Geschichtsvermittlung in Theorie und Praxis:an Grund- und Mittelschulen (Nbg.)
-
-- **Segment:** `unit:99410` · **unitId:** `99410`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99410&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Sommersemester
-
-### Nürnberg V/UE Grundfragen der Religionspädagogik I — Vorlesung
-
-- **Segment:** `unit:128530` · **unitId:** `128530`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128530&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** Unregelmäßig
-
-### Paus / Renner: Seminar Holocausteducation mit Exkursion nach Israel
-
-- **Segment:** `unit:115277` · **unitId:** `115277`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115277&periodId=565>
-
-- **Veranstaltungsart:** Kurs
-
-### Pfann / Blended Learning: Churer-Modell - Unterricht zeitgemäß gestalten (Kurs A) — Seminar
-
-- **Segment:** `unit:122319` · **unitId:** `122319`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122319&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
-### Pfann / Eine 1. Klasse unterrichten - Übergang und Anfangsunterricht gestalten — Mittelseminar
-
-- **Segment:** `unit:91584` · **unitId:** `91584`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91584&periodId=565>
-
-- **Veranstaltungsart:** Mittelseminar
-- **Turnus:** in jedem Semester
-
-### Pfann / Vorgelagertes Blockseminar: Außerschulische Lernorte und/oder digitales Lernen (Kurs A)
-
-- **Segment:** `unit:111251` · **unitId:** `111251`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111251&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** Unregelmäßig
 
 ### Philosophie 1
 
@@ -9212,29 +8567,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | 15:00–16:30 | 07.12.2025 23:59:59 | 20302.01.132 (1.132 Aula (780)) |
 
-### Postdigitale Jugendkultur (Angebot am Standort Erlangen) — Seminar
-
-- **Segment:** `unit:119551` · **unitId:** `119551`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119551&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nur im Sommersemester
-
-### Postkoloniale Theorien — Seminar
-
-- **Segment:** `unit:122038` · **unitId:** `122038`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122038&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 08:00–09:30 | 16.10.2025–05.02.2026 | 20302.01.121 (1.121 Seminarraum (40)) |
-
 ### Praktische (und mündliche) Leistungen zu den Veranstaltungen Zeichnung, Malerei und Dreidimensionales Gestalten
 
 - **Segment:** `unit:32998` · **unitId:** `32998`
@@ -9248,15 +8580,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Do | Do | 10:00–12:00 | — | — |
-
-### Projektbegleitendes Musikpädagogik-Seminar
-
-- **Segment:** `unit:116531` · **unitId:** `116531`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116531&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Turnus:** in jedem Semester
 
 ### Proseminar Angewandte Musiktheorie
 
@@ -9398,103 +8721,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### PuGDid 4: Vertiefung der Fachdidaktik Politik und  Gesellschaft - Fachdidaktische Forschungswerkstatt — Seminar
-
-- **Segment:** `unit:111547` · **unitId:** `111547`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111547&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** Unregelmäßig
-
-### Pädagogische Anthropologie und Sozialisationstheorie — Vorlesung
-
-- **Segment:** `unit:115974` · **unitId:** `115974`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115974&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-
-### Pädagogische Anthropologie und Sozialisationstheorie (Angebot am Standort Erlangen) — Vorlesung
-
-- **Segment:** `unit:111749` · **unitId:** `111749`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111749&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-
-### Pädagogische Professionalität und Professionalisierung von Lehrpersonen (Standort Erlangen) — Seminar
-
-- **Segment:** `unit:138609` · **unitId:** `138609`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138609&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
-### Renner / (mainly) asynchronous-online: Primary Education across Europe (course for enrollement only) — Mittelseminar
-
-- **Segment:** `unit:87995` · **unitId:** `87995`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87995&periodId=565>
-
-- **Veranstaltungsart:** Mittelseminar
-- **Turnus:** in jedem Semester
-
-### Renner / Asynchrones Onlineseminar: Konzeptionen des Schriftspracherwerbs — Mittelseminar
-
-- **Segment:** `unit:115241` · **unitId:** `115241`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115241&periodId=565>
-
-- **Veranstaltungsart:** Mittelseminar
-- **Turnus:** Unregelmäßig
-
-### Renner / Asynchrones Onlineseminar: Reformpädagogische und innovative Konzeptionen der Grundschule — Mittelseminar
-
-- **Segment:** `unit:115242` · **unitId:** `115242`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115242&periodId=565>
-
-- **Veranstaltungsart:** Mittelseminar
-- **Turnus:** Unregelmäßig
-
-### Renner / Blended Learning: Grundfragen der Grundschulpädagogik - Diskussion und Reflexion zentraler Themen der Grundschule (Kurs A) — Seminar
-
-- **Segment:** `unit:138690` · **unitId:** `138690`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138690&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
-### Renner / Präsenzseminar: Diagnose und Förderung im Schriftspracherwerb - Arbeit an Fallbeispielen — Mittelseminar
-
-- **Segment:** `unit:95372` · **unitId:** `95372`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95372&periodId=565>
-
-- **Veranstaltungsart:** Mittelseminar
-- **ECTS-Punkte:** 3.0
-- **Turnus:** Unregelmäßig
-
-### Renner / Präsenzseminar: Diagnose und Förderung im Schriftspracherwerb - Arbeit an Fallbeispielen (Kurs B) — Mittelseminar
-
-- **Segment:** `unit:112326` · **unitId:** `112326`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112326&periodId=565>
-
-- **Veranstaltungsart:** Mittelseminar
-- **ECTS-Punkte:** 3.0
-- **Turnus:** Unregelmäßig
-
-### Renner / Synchronous Online Seminar: Global Classroom: Web-based collaboration of students around the world — Mittelseminar
-
-- **Segment:** `unit:115244` · **unitId:** `115244`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115244&periodId=565>
-
-- **Veranstaltungsart:** Mittelseminar
-- **Turnus:** Unregelmäßig
-
-### Ringvorlesung Deutsch als Zweitsprache (Tutorium/Seminar) — Sonstige Lehrveranstaltung
-
-- **Segment:** `unit:84131` · **unitId:** `84131`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84131&periodId=565>
-
-- **Veranstaltungsart:** Sonstige Lehrveranstaltung
-- **ECTS-Punkte:** 1.0
-- **Turnus:** in jedem Semester
-
 ### Schriftliche Übersetzungsleistung Latein I für Anfänger (Zulassungsvoraussetzung zu Kurs Latein II für Fortgeschrittene)
 
 - **Segment:** `unit:39848` · **unitId:** `39848`
@@ -9509,20 +8735,26 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Do | Do | 14:00–16:00 | 07.12.2025 23:59:59 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
 
-### Schule im Kontext kultureller und gesellschaftlicher Transformation (Angebot am Standort Erlangen) — Seminar
-
-- **Segment:** `unit:134638` · **unitId:** `134638`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134638&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
 ### Schulpraktisches Akkordspiel 1 - Erfolgreiche Teilnahme
 
 - **Segment:** `unit:42334` · **unitId:** `42334`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=42334&periodId=565>
 
 - **ECTS-Punkte:** 0.5
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### Schulpraktisches Akkordspiel 2 - Erfolgreiche Teilnahme
+
+- **Segment:** `unit:41508` · **unitId:** `41508`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=41508&periodId=565>
+
+- **ECTS-Punkte:** 1.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -9636,15 +8868,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | 08:15–09:45 | 07.12.2025 23:59:59 | — |
 
-### Sprachliche Bildung im Fachunterricht — Seminar
-
-- **Segment:** `unit:93847` · **unitId:** `93847`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93847&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Turnus:** in jedem Semester
-
 ### Sprachsystem und Deutsch als Zweitsprache (vhb-Tutorium)
 
 - **Segment:** `unit:90277` · **unitId:** `90277`
@@ -9692,55 +8915,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Studienbegleitendes Praktikum Grundschule
-
-- **Segment:** `unit:91751` · **unitId:** `91751`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91751&periodId=565>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 2.0
-- **Turnus:** nur im Wintersemester
-
-### Superheroes und Fabelwesen auf Mission im Wissenschaftsuniversum: Science Comics analysieren und konzeptionieren — Seminar
-
-- **Segment:** `unit:102897` · **unitId:** `102897`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102897&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** Unregelmäßig
-
-### Trinks / Blended Learning: Alles auf Anfang?! - Übergänge im Grundschulalter — Mittelseminar
-
-- **Segment:** `unit:127856` · **unitId:** `127856`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127856&periodId=565>
-
-- **Veranstaltungsart:** Mittelseminar
-- **Turnus:** in jedem Semester
-
-### Trinks / Blended Learning: Grundfragen der Grundschulpädagogik - Diskussion und Reflexion zentraler Themen der Grundschule (Kurs D) — Seminar
-
-- **Segment:** `unit:138545` · **unitId:** `138545`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138545&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
-### Trinks/ Blended Learning: Alles auf Anfang?! - Übergänge im Grundschulalter — Mittelseminar
-
-- **Segment:** `unit:118822` · **unitId:** `118822`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118822&periodId=565>
-
-- **Veranstaltungsart:** Mittelseminar
-- **Turnus:** in jedem Semester
-
-### Trinks: Professioneller Umgang mit Heterogenität (Kurs B) — Mittelseminar
-
-- **Segment:** `unit:118688` · **unitId:** `118688`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118688&periodId=565>
-
-- **Veranstaltungsart:** Mittelseminar
-- **Turnus:** in jedem Semester
-
 ### Turnen an Geräten/Bewegungskünste
 
 - **Segment:** `unit:52050` · **unitId:** `52050`
@@ -9764,22 +8938,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 1.0
 - **Turnus:** nur im Wintersemester
 
-### Unterrichten und Lernen mit digitalen Medien - Kompetenzen für Lehramtsstudierende — Seminar
-
-- **Segment:** `unit:125371` · **unitId:** `125371`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125371&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** in jedem Semester
-
-### Unterrichten und Lernen mit digitalen Medien. Kompetenzen für Lehramtsstudierende — Seminar
-
-- **Segment:** `unit:125263` · **unitId:** `125263`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125263&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-
 ### V/Ü: Grundlagen der Geschichtsdidaktik
 
 - **Segment:** `unit:22777` · **unitId:** `22777`
@@ -9793,13 +8951,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | 18:00–19:00 | — | — |
-
-### Vertiefung schulpädagogischer Fragestellungen — Seminar
-
-- **Segment:** `unit:135015` · **unitId:** `135015`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135015&periodId=565>
-
-- **Veranstaltungsart:** Seminar
 
 ### VL: Einführung in die Ethik in theologischer Perspektive — Vorlesung
 
@@ -9817,15 +8968,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 12:00–14:00 | 13.10.2025–02.02.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
 
-### Vorlesung Kulturgeographie vertieft
-
-- **Segment:** `unit:112120` · **unitId:** `112120`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112120&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** in jedem Semester
-
 ### Vorlesung/Seminar Sportdidaktik
 
 - **Segment:** `unit:23661` · **unitId:** `23661`
@@ -9839,22 +8981,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | 16:30–18:00 | 07.12.2025 23:59:59 | — |
-
-### Wahlpflichtseminar GS III: "Kleine Köpfe, große Ideen: Schülerdenken in der Grundschule erkennen und gezielt fördern"
-
-- **Segment:** `unit:86965` · **unitId:** `86965`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86965&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
-### Wer spricht? Wer fehlt? - Rassismuskritisch unterrichten und lernen im (Religions-)Unterricht — Hauptseminar
-
-- **Segment:** `unit:99409` · **unitId:** `99409`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99409&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** Unregelmäßig
 
 ### Übung zum Examen: AT
 
@@ -9895,22 +9021,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:00–15:30 | 13.10.2025–02.02.2026 | 20301.02.047 (2.047 Seminarraum (40)) |
 
-### Übungen zu Aufbaumodul Analysis III
-
-- **Segment:** `unit:82780` · **unitId:** `82780`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82780&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 1.0
-- **Turnus:** nur im Sommersemester
-
-### Übungen zu Elemente der Schulgeometrie (Didaktik der Grundschulmathematik 2 - Geometrie)
-
-- **Segment:** `unit:120468` · **unitId:** `120468`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120468&periodId=565>
-
-- **Veranstaltungsart:** Übung
-
 ### Übungen zur Experimentalphysik 1
 
 - **Segment:** `unit:88285` · **unitId:** `88285`
@@ -9926,15 +9036,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Fr | 08:00–10:00 | 17.10.2025–06.02.2026 | — |
 
-### Übungsmodul Fachdidaktik Deutsch Sprach-, Literatur- und Mediendidaktik (nur GS)
-
-- **Segment:** `unit:102743` · **unitId:** `102743`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102743&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 1.0
-- **Turnus:** Unregelmäßig
-
 ### Übungsmodul GS (Albrecht)
 
 - **Segment:** `unit:90530` · **unitId:** `90530`
@@ -9944,9 +9045,18 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
 
-### „Performing School“ - Praxistheoretische Persepktiven auf Schule im Kontext kultureller Transformation — Seminar
+### Übungsmodul Sprachdidaktik Deutsch (GS, FPO 20162)
 
-- **Segment:** `unit:127335` · **unitId:** `127335`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127335&periodId=565>
+- **Segment:** `unit:88500` · **unitId:** `88500`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88500&periodId=565>
 
-- **Veranstaltungsart:** Seminar
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 03:00–04:00 | 13.10.2025–02.02.2026 | — |

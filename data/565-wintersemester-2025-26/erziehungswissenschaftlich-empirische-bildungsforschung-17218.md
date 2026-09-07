@@ -5,7 +5,7 @@ campo_segment: "title:17218"
 campo_path: "title:16758|title:16763|title:17218"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17218"
 po_version_count: 0
-course_count: 59
+course_count: 58
 fau_studiengang:
   - title: "Erziehungswissenschaftlich-Empirische Bildungsforschung (M.A.)"
     rel_path: "studiengang/erziehungswissenschaftlich-empirische-bildungsforschung-m-a.md"
@@ -188,7 +188,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Veranstaltungen (59)
+## Veranstaltungen (58)
 
 ### EE-BF M6d / ZS M1 / LA Allgemeine Pädagogik Freier Bereich: SEM "Aktuelle Probleme und Forschungsergebnisse auf dem Gebiet der internationalen Bildung (in systematischer und interdisziplinärer Perspektive)" (Standort Nürnberg) - Seminar
 
@@ -358,7 +358,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 14:00–15:30 | 14.10.2025–03.02.2026 | 20301.U1.029 (U1.029 Seminarraum (18)) |
 
-### MA EEBF M6/MA Pädagogik MII/Modul 2 - Semiar Allg. Päd.: Medien, Wissen, Bildung - Grundlagen der Medienpädagogik (Standort Nürnberg) - Seminar
+### MA EEBF M6/MA Pädagogik MII: Medien, Wissen, Bildung - Grundlagen der Medienpädagogik - Seminar
 
 - **Segment:** `exam:12786678` · **unitId:** `89141`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17218|exam:12786672|exam:12786673|exam:12786674|exam:12786675|exam:12786676|exam:12786678>
@@ -374,7 +374,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:00–15:30 | 13.10.2025–02.02.2026 | 20301.01.028 (1.028 Seminarraum MM-Labor (18)) |
 
-### MA EEBF M6/MA Pädagogik MII: Lernen und mediendidaktisches Handeln in mediatisierten Kontexten - Seminar
+### MA EEBF M6/MA Pädagogik MII: Mediendidaktik: Empower Future Learning - Seminar
 
 - **Segment:** `exam:12786680` · **unitId:** `92830`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17218|exam:12786672|exam:12786673|exam:12786674|exam:12786675|exam:12786676|exam:12786680>
@@ -390,7 +390,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mo | 15:45–17:15 | 13.10.2025–02.02.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
 
-### MA EEBF M7/MA Pädagogik MVI: Medienpädagogik (Profilvertiefung)/Felderkundung Medienpädagogik - Seminar
+### MA EEBF M7/MA Pädagogik MVIII: Aktuelle Ansätze medienpädagogischer Forschung - Seminar
 
 - **Segment:** `exam:12786683` · **unitId:** `91808`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17218|exam:12786672|exam:12786673|exam:12786674|exam:12786675|exam:12786682|exam:12786683>
@@ -405,29 +405,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 09:45–11:15 | 13.10.2025–02.02.2026 | 20301.01.028 (1.028 Seminarraum MM-Labor (18)) |
-
-### MA EEBF M7/Modul 2 - Seminar Allg. Päd.: ChatGPT & Co. - KI in Studium, Schule und im Medienalltag von Kindern und Jugendlichen (Standort Nürnberg) - Seminar
-
-- **Segment:** `exam:15797181` · **unitId:** `84951`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17218|exam:12786672|exam:12786673|exam:12786674|exam:12786675|exam:12786682|exam:15797181>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84951&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–17:15 | 24.10.2025 | 20301.01.041 (1.041 großer Hörsaal (310)) |
-| Einzeltermin | Fr | 14:00–17:15 | 24.10.2025 | 20301.01.010 (1.010 Seminarraum (50)) |
-| Einzeltermin | Fr | 14:00–17:15 | 31.10.2025 | 20301.01.041 (1.041 großer Hörsaal (310)) |
-| Einzeltermin | Fr | 14:00–17:15 | 31.10.2025 | 20301.01.010 (1.010 Seminarraum (50)) |
-| Einzeltermin | Fr | 14:00–17:15 | 21.11.2025 | 20301.01.010 (1.010 Seminarraum (50)) |
-| Einzeltermin | Fr | 14:00–17:15 | 12.12.2025 | 20301.01.010 (1.010 Seminarraum (50)) |
-| Einzeltermin | Fr | 14:00–17:15 | 09.01.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
-| Einzeltermin | Fr | 14:00–17:15 | 30.01.2026 | 20301.01.041 (1.041 großer Hörsaal (310)) |
 
 ### MA Pädagogik MVIII/MA EEBF M7: Kontexte medienpädagogischer Forschung und Praxis/Medienpädagogik (Profilvertiefung) - Seminar
 
@@ -1013,7 +990,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17218|exam:12786672|exam:12786673|exam:12786674|exam:12786777|exam:12786780>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83071&periodId=565>
 
+- **Veranstaltungsart:** Seminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -1083,7 +1062,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Mo | 09:00–19:00 | 03.11.2025 | 75202.00.512 (St.Paul 00.512 - (12)) |
 | Einzeltermin | Mo | 09:00–19:00 | 24.11.2025 | 75202.00.512 (St.Paul 00.512 - (12)) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (8)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (6)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -1108,22 +1087,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | 16:00–19:00 | 07.12.2025 23:59:59 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
-
-### LA M2 / EE-BF M2 / ZS M1 / LA Freier Bereich : SEM "Theorien pädagogischen Handelns auch im internationalen Vergleich und im Kontext der Migration" (Standort Nürnberg) — Seminar
-
-- **Segment:** `unit:101497` · **unitId:** `101497`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101497&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
-### LA M2 / EE-BF M6d / LA Freier Bereich: SEM "International Education (Theorien und Konzepte der internationalen Bildung) in englischer Sprache (Standort Nürnberg)" — Seminar
-
-- **Segment:** `unit:98003` · **unitId:** `98003`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98003&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
 
 ### Latein I für Anfänger (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 

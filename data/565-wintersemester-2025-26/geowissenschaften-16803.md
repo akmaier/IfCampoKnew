@@ -5,7 +5,7 @@ campo_segment: "title:16803"
 campo_path: "title:16758|title:16765|title:16803"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803"
 po_version_count: 0
-course_count: 581
+course_count: 523
 fau_studiengang:
   - title: "Geowissenschaften (B.Sc.)"
     rel_path: "studiengang/geowissenschaften-b-sc.md"
@@ -545,7 +545,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Veranstaltungen (581)
+## Veranstaltungen (523)
 
 ### [AG-E1] Groundwater modeling - Seminar
 
@@ -1332,23 +1332,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### [Geophysik] - Geophysik - Vorlesung
 
-- **Segment:** `exam:13490986` · **unitId:** `104954`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490985|exam:13490986>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104954&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 4.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung | — | 09:00–17:00 | 02.04.2026–10.04.2026 | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
-
-### [Geophysik] - Geophysik - Vorlesung
-
 - **Segment:** `exam:13494009` · **unitId:** `104954`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13492433|exam:13492435|exam:13492437|exam:13494008|exam:13494009>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104954&periodId=565>
@@ -1414,24 +1397,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Blockveranstaltung | — | 09:00–17:00 | 02.04.2026–10.04.2026 | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
-
-### [Minerale und Gesteine] - Minerale und Gesteine - Vorlesung
-
-- **Segment:** `exam:13490930` · **unitId:** `94625`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490928|exam:13490930>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94625&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 14.10.2025–03.02.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
-| wöchentlich | Do | 11:15–12:00 | 16.10.2025–05.02.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
 
 ### [Minerale und Gesteine] - Minerale und Gesteine - Vorlesung
 
@@ -1504,23 +1469,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 14:15–15:45 | 14.10.2025–03.02.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
 | wöchentlich | Do | 11:15–12:00 | 16.10.2025–05.02.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
-
-### [Mineralogie II] - Angewandte Mineralogie 1 - Vorlesung
-
-- **Segment:** `exam:13490953` · **unitId:** `97992`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490951|exam:13490953>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97992&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 08:30–10:00 | 17.10.2025–06.02.2026 | 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
 
 ### [Mineralogie II] - Angewandte Mineralogie 1 - Vorlesung
 
@@ -1868,7 +1816,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13505151|exam:13505152|exam:13505153|exam:13505415|exam:13505452|exam:13505454>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104885&periodId=565>
 
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.0
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -1882,7 +1833,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13505151|exam:13505152|exam:13505153|exam:13505565|exam:13505577|exam:13505579>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104885&periodId=565>
 
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.0
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -2336,17 +2290,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### Geowissenschaftliche Arbeitsmethoden - Geländeübungen I - Übung
 
-- **Segment:** `exam:13490933` · **unitId:** `83916`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490932|exam:13490933>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83916&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-### Geowissenschaftliche Arbeitsmethoden - Geländeübungen I - Übung
-
 - **Segment:** `exam:13493957` · **unitId:** `83916`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13492433|exam:13492435|exam:13492437|exam:13493956|exam:13493957>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83916&periodId=565>
@@ -2388,23 +2331,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **ECTS-Punkte:** 2.0
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
-
-### Geowissenschaftliche Arbeitsmethoden I (Kartenkunde I) - Vorlesung mit Übung
-
-- **Segment:** `exam:13490934` · **unitId:** `89548`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490932|exam:13490934>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89548&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:00–13:30 | 14.10.2025–03.02.2026 | 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
 
 ### Geowissenschaftliche Arbeitsmethoden I (Kartenkunde I) - Vorlesung mit Übung
 
@@ -2476,23 +2402,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### Geowissenschaftliche Arbeitsmethoden II - Geländeübung II - Übung
 
-- **Segment:** `exam:13490938` · **unitId:** `93404`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490937|exam:13490938>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93404&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung+Sa | — | 08:00–18:00 | 23.05.2026 | — |
-
-### Geowissenschaftliche Arbeitsmethoden II - Geländeübung II - Übung
-
 - **Segment:** `exam:13493962` · **unitId:** `93404`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13492433|exam:13492435|exam:13492437|exam:13493961|exam:13493962>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93404&periodId=565>
@@ -2558,23 +2467,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Blockveranstaltung+Sa | — | 08:00–18:00 | 23.05.2026 | — |
-
-### Geowissenschaftliche Arbeitsmethoden II - Vorlesung mit Übung
-
-- **Segment:** `exam:13490939` · **unitId:** `101969`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490937|exam:13490939>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101969&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 15:15–16:45 | 13.10.2025–02.02.2026 | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
 
 ### Geowissenschaftliche Arbeitsmethoden II - Vorlesung mit Übung
 
@@ -2665,24 +2557,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-### Grundlagen der Geowissenschaften I - System Erde I - Vorlesung mit Übung
-
-- **Segment:** `exam:13490923` · **unitId:** `89138`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490922|exam:13490923>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89138&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 08:15–09:45 | 13.10.2025–02.02.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
-| wöchentlich | Do | 12:15–13:45 | 16.10.2025–05.02.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
 
 ### Grundlagen der Geowissenschaften I - System Erde I - Vorlesung mit Übung
 
@@ -2828,26 +2702,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### Mathematik für Naturwissenschaften - Vorlesung mit Übung
 
-- **Segment:** `exam:13490910` · **unitId:** `86543`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490909|exam:13490910>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86543&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 12:00–14:00 | 13.10.2025–02.02.2026 | 13003.00.847 (HE Hörsaal Physikum) |
-| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 12801.01.210 (H11) |
-| wöchentlich | Mo | 12:00–14:00 | 08.12.2025–19.01.2026 | 12801.01.230 (H13 Johann-Radon-Hörsaal) |
-| Einzeltermin | Mo | 12:00–14:00 | 26.01.2026 | — |
-| Einzeltermin | Mo | 12:00–14:00 | 02.02.2026 | 12801.01.230 (H13 Johann-Radon-Hörsaal) |
-
-### Mathematik für Naturwissenschaften - Vorlesung mit Übung
-
 - **Segment:** `exam:13493934` · **unitId:** `86543`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13492433|exam:13492435|exam:13492437|exam:13493933|exam:13493934>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86543&periodId=565>
@@ -2928,25 +2782,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### Mathematische Methoden in den Geowissenschaften - Seminar
 
-- **Segment:** `exam:13653147` · **unitId:** `131557`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490997|exam:13653147>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131557&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:00–11:30 | 15.10.2025–28.01.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
-| Einzeltermin | Mi | 12:30–14:00 | 10.12.2025 | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
-| Einzeltermin | Mi | 08:30–10:00 | 28.01.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
-
-### Mathematische Methoden in den Geowissenschaften - Seminar
-
 - **Segment:** `exam:13653148` · **unitId:** `131557`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13492433|exam:13492435|exam:13492437|exam:13494020|exam:13653148>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131557&periodId=565>
@@ -2982,23 +2817,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | wöchentlich | Mi | 10:00–11:30 | 15.10.2025–28.01.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
 | Einzeltermin | Mi | 12:30–14:00 | 10.12.2025 | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
 | Einzeltermin | Mi | 08:30–10:00 | 28.01.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
-
-### Minerale und Gesteine - Übung - Übung
-
-- **Segment:** `exam:13490929` · **unitId:** `94127`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490928|exam:13490929>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94127&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:15–15:45 | 16.10.2025–05.02.2026 | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
 
 ### Minerale und Gesteine - Übung - Übung
 
@@ -3104,23 +2922,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### Paläobiologie II - Paläobiodiversität VL und Ü - Vorlesung mit Übung
 
-- **Segment:** `exam:13490960` · **unitId:** `87468`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490959|exam:13490960>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87468&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:15–11:45 | 20.10.2025–02.02.2026 | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
-
-### Paläobiologie II - Paläobiodiversität VL und Ü - Vorlesung mit Übung
-
 - **Segment:** `exam:13493984` · **unitId:** `87468`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13492433|exam:13492435|exam:13492437|exam:13493983|exam:13493984>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87468&periodId=565>
@@ -3189,23 +2990,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### Physikalische Methoden in den Geowissenschaften - Seminar
 
-- **Segment:** `exam:13653121` · **unitId:** `131552`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490997|exam:13653121>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131552&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 08:30–10:00 | 21.10.2025–27.01.2026 | 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
-
-### Physikalische Methoden in den Geowissenschaften - Seminar
-
 - **Segment:** `exam:13653122` · **unitId:** `131552`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13492433|exam:13492435|exam:13492437|exam:13494020|exam:13653122>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131552&periodId=565>
@@ -3254,23 +3038,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 16:15–17:45 | 15.10.2025–04.02.2026 | 00301.01.140 (ÜR Mineralogie Übungsraum Mineralogie) |
-
-### Strukturgeologie und Lagerstättenkunde - Lagerstättenkunde (Bachelor) - Seminar
-
-- **Segment:** `exam:13490969` · **unitId:** `96514`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490968|exam:13490969>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96514&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 11:00–12:30 | 15.10.2025–04.02.2026 | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
 
 ### Strukturgeologie und Lagerstättenkunde - Lagerstättenkunde (Bachelor) - Seminar
 
@@ -3325,23 +3092,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### Strukturgeologie und Lagerstättenkunde - Strukturgeologie - Vorlesung
 
-- **Segment:** `exam:13490970` · **unitId:** `102814`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490968|exam:13490970>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102814&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 10:15–11:45 | 17.10.2025–06.02.2026 | 00501.01.014 ( KH 1.014 Hörsaal Kollegienhaus) |
-
-### Strukturgeologie und Lagerstättenkunde - Strukturgeologie - Vorlesung
-
 - **Segment:** `exam:13493994` · **unitId:** `102814`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13492433|exam:13492435|exam:13492437|exam:13493992|exam:13493994>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102814&periodId=565>
@@ -3390,22 +3140,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Fr | 10:15–11:45 | 17.10.2025–06.02.2026 | 00501.01.014 ( KH 1.014 Hörsaal Kollegienhaus) |
-
-### Übungen zur Mathematik für Naturwissenschaftler - Übung
-
-- **Segment:** `exam:13490912` · **unitId:** `86879`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490909|exam:13490912>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86879&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 16:00–17:30 | 13.10.2025–02.02.2026 | 13003.U1.850 (SR Biologie Seminarraum Biologie Nr. U1.850 (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 
 ### Übungen zur Mathematik für Naturwissenschaftler - Übung
 
@@ -3485,12 +3219,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### 1999 Bachelorarbeit (B.Sc. Geowissenschaften 20162)
-
-- **Segment:** `exam:13490903` · **unitId:** `45758`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490903>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45758&periodId=565>
 
 ### 1999 Bachelorarbeit (B.Sc. Geowissenschaften 20192)
 
@@ -3584,21 +3312,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 29101 Biologie für Nebenfächler (V) - Leistung
 
-- **Segment:** `exam:13490908` · **unitId:** `24315`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490906|exam:13490908>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=24315&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | 13:00–14:30 | — | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
-
-### 29101 Biologie für Nebenfächler (V) - Leistung
-
 - **Segment:** `exam:13493932` · **unitId:** `24315`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13492433|exam:13492435|exam:13492437|exam:13493930|exam:13493932>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=24315&periodId=565>
@@ -3674,21 +3387,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 35501 Hydrogeologie - Leistung
 
-- **Segment:** `exam:13490964` · **unitId:** `24318`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490962|exam:13490964>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=24318&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | 08:15–09:15 | — | — |
-
-### 35501 Hydrogeologie - Leistung
-
 - **Segment:** `exam:13493988` · **unitId:** `24318`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13492433|exam:13492435|exam:13492437|exam:13493986|exam:13493988>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=24318&periodId=565>
@@ -3746,21 +3444,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | 08:15–09:15 | — | — |
-
-### 36301 System Erde I - Leistung
-
-- **Segment:** `exam:13490924` · **unitId:** `34485`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490922|exam:13490924>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=34485&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | 12:15–13:45 | — | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
 
 ### 36301 System Erde I - Leistung
 
@@ -3899,6 +3582,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13505151|exam:13505152|exam:13505153|exam:13505212|exam:13505275|exam:13505276>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120955&periodId=565>
 
+- **ECTS-Punkte:** 5.0
+
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
@@ -3910,6 +3595,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:13505492` · **unitId:** `120955`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13505151|exam:13505152|exam:13505153|exam:13505456|exam:13505491|exam:13505492>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120955&periodId=565>
+
+- **ECTS-Punkte:** 5.0
 
 #### Termine
 
@@ -4307,21 +3994,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 40221 Grundvorlesung Physische Geographie I - Leistung
 
-- **Segment:** `exam:13490856` · **unitId:** `36179`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490854|exam:13490856>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36179&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | — | — | — |
-
-### 40221 Grundvorlesung Physische Geographie I - Leistung
-
 - **Segment:** `exam:13493908` · **unitId:** `36179`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13492433|exam:13492435|exam:13492437|exam:13493904|exam:13493908>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36179&periodId=565>
@@ -4586,21 +4258,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:13505185` · **unitId:** `34524`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13505151|exam:13505152|exam:13505153|exam:13505154|exam:13505185>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=34524&periodId=565>
-
-### 46401 Klausur Mathematik für Naturwissenschaftler - Leistung
-
-- **Segment:** `exam:13490911` · **unitId:** `23733`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490909|exam:13490911>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23733&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | 10:15–11:45 | — | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
 ### 46401 Klausur Mathematik für Naturwissenschaftler - Leistung
 
@@ -5077,21 +4734,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 60501 Physik für LA Chemie, Geowissenschaften - Leistung
 
-- **Segment:** `exam:13490917` · **unitId:** `20746`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490913|exam:13490917>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20746&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | 13:00–15:00 | — | — |
-
-### 60501 Physik für LA Chemie, Geowissenschaften - Leistung
-
 - **Segment:** `exam:13493941` · **unitId:** `20746`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13492433|exam:13492435|exam:13492437|exam:13493937|exam:13493941>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20746&periodId=565>
@@ -5503,21 +5145,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 66401 Physikalisches Praktikum für Geowissenschaftler (Ü) - Leistung
 
-- **Segment:** `exam:13490921` · **unitId:** `24359`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490918|exam:13490921>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=24359&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 66401 Physikalisches Praktikum für Geowissenschaftler (Ü) - Leistung
-
 - **Segment:** `exam:13493945` · **unitId:** `24359`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13492433|exam:13492435|exam:13492437|exam:13493942|exam:13493945>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=24359&periodId=565>
@@ -5578,12 +5205,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67300 Mikrofazieskurs
 
-- **Segment:** `exam:13490864` · **unitId:** `45779`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490862|exam:13490863|exam:13490864>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45779&periodId=565>
-
-### 67300 Mikrofazieskurs
-
 - **Segment:** `exam:13492440` · **unitId:** `45779`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13492433|exam:13492435|exam:13492437|exam:13492438|exam:13492439|exam:13492440>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45779&periodId=565>
@@ -5605,12 +5226,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:13651121` · **unitId:** `45779`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13643947|exam:13643949|exam:13643950|exam:13643951|exam:13643952|exam:13651121>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45779&periodId=565>
-
-### 67305 Paläobiologische Geländeübungen
-
-- **Segment:** `exam:13490867` · **unitId:** `45780`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490862|exam:13490863|exam:13490867>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45780&periodId=565>
 
 ### 67305 Paläobiologische Geländeübungen
 
@@ -5644,12 +5259,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67310 Material und Charakterisierung
 
-- **Segment:** `exam:13490871` · **unitId:** `45781`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490862|exam:13490870|exam:13490871>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45781&periodId=565>
-
-### 67310 Material und Charakterisierung
-
 - **Segment:** `exam:13492447` · **unitId:** `45781`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13492433|exam:13492435|exam:13492437|exam:13492438|exam:13492446|exam:13492447>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45781&periodId=565>
@@ -5671,12 +5280,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:13651170` · **unitId:** `45781`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13643947|exam:13643949|exam:13643950|exam:13643951|exam:13643953|exam:13651170>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45781&periodId=565>
-
-### 67315 Chemische Analyse von Gesteinen
-
-- **Segment:** `exam:13490875` · **unitId:** `45782`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490862|exam:13490870|exam:13490875>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45782&periodId=565>
 
 ### 67315 Chemische Analyse von Gesteinen
 
@@ -5704,12 +5307,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67320 Sediment- und Gefügeanalyse
 
-- **Segment:** `exam:13490880` · **unitId:** `45783`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490862|exam:13490879|exam:13490880>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45783&periodId=565>
-
-### 67320 Sediment- und Gefügeanalyse
-
 - **Segment:** `exam:13492456` · **unitId:** `45783`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13492433|exam:13492435|exam:13492437|exam:13492438|exam:13492455|exam:13492456>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45783&periodId=565>
@@ -5734,12 +5331,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67325 Methoden der Sedimentologie
 
-- **Segment:** `exam:13490884` · **unitId:** `45784`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490862|exam:13490879|exam:13490884>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45784&periodId=565>
-
-### 67325 Methoden der Sedimentologie
-
 - **Segment:** `exam:13495483` · **unitId:** `45784`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13495456|exam:13495458|exam:13495460|exam:13495461|exam:13495478|exam:13495483>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45784&periodId=565>
@@ -5761,12 +5352,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:13492460` · **unitId:** `54476`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13492433|exam:13492435|exam:13492437|exam:13492438|exam:13492455|exam:13492460>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54476&periodId=565>
-
-### 67330 Petrologische - Geochemische Methoden und Übungen I
-
-- **Segment:** `exam:13490889` · **unitId:** `45785`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490862|exam:13490888|exam:13490889>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45785&periodId=565>
 
 ### 67331 Petrologische - Geochemische Methoden und Übungen I
 
@@ -5794,12 +5379,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67335 Petrologische - Geochemische Methoden und Übungen II
 
-- **Segment:** `exam:13490893` · **unitId:** `45786`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490862|exam:13490888|exam:13490893>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45786&periodId=565>
-
-### 67335 Petrologische - Geochemische Methoden und Übungen II
-
 - **Segment:** `exam:13492467` · **unitId:** `45786`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13492433|exam:13492435|exam:13492437|exam:13492438|exam:13492462|exam:13492467>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45786&periodId=565>
@@ -5821,12 +5400,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:13651209` · **unitId:** `45786`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13643947|exam:13643949|exam:13643950|exam:13643951|exam:13643955|exam:13651209>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45786&periodId=565>
-
-### 67340 Hydrogeologie und Ingenieurgeologie
-
-- **Segment:** `exam:13490897` · **unitId:** `45794`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490862|exam:13490896|exam:13490897>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45794&periodId=565>
 
 ### 67341 Hydrogeologie und Ingenieurgeologie
 
@@ -5866,12 +5439,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 67345 Ingenieursgeologische Übung und Hydrogeologische Übung
 
-- **Segment:** `exam:13490899` · **unitId:** `45787`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490862|exam:13490896|exam:13490899>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45787&periodId=565>
-
-### 67345 Ingenieursgeologische Übung und Hydrogeologische Übung
-
 - **Segment:** `exam:13492476` · **unitId:** `45787`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13492433|exam:13492435|exam:13492437|exam:13492438|exam:13492470|exam:13492476>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45787&periodId=565>
@@ -5881,12 +5448,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:13495501` · **unitId:** `45787`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13495456|exam:13495458|exam:13495460|exam:13495461|exam:13495495|exam:13495501>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45787&periodId=565>
-
-### 68805 Grundlagen der Geowissenschaften II
-
-- **Segment:** `exam:13490925` · **unitId:** `45764`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490925>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45764&periodId=565>
 
 ### 68805 Grundlagen der Geowissenschaften II
 
@@ -5911,12 +5472,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:13645448` · **unitId:** `45764`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13643947|exam:13643949|exam:13643950|exam:13645448>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45764&periodId=565>
-
-### 68830 Dynamik des Systems Erde
-
-- **Segment:** `exam:13490942` · **unitId:** `45765`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490942>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45765&periodId=565>
 
 ### 68830 Dynamik des Systems Erde
 
@@ -5950,12 +5505,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 68840 Mineralogie I
 
-- **Segment:** `exam:13490945` · **unitId:** `45766`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490945>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45766&periodId=565>
-
-### 68840 Mineralogie I
-
 - **Segment:** `exam:13493969` · **unitId:** `45766`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13492433|exam:13492435|exam:13492437|exam:13493969>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45766&periodId=565>
@@ -5971,12 +5520,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:13500028` · **unitId:** `45766`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13498497|exam:13498499|exam:13498500|exam:13500028>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45766&periodId=565>
-
-### 68850 Paläobiologie I
-
-- **Segment:** `exam:13490955` · **unitId:** `45767`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490955>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45767&periodId=565>
 
 ### 68850 Paläobiologie I
 
@@ -6004,12 +5547,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 68865 Angewandte Geologie II
 
-- **Segment:** `exam:13490965` · **unitId:** `45808`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490965>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45808&periodId=565>
-
-### 68865 Angewandte Geologie II
-
 - **Segment:** `exam:13493989` · **unitId:** `45808`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13492433|exam:13492435|exam:13492437|exam:13493989>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45808&periodId=565>
@@ -6031,12 +5568,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:13645500` · **unitId:** `45808`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13643947|exam:13643949|exam:13643950|exam:13645500>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45808&periodId=565>
-
-### 68880 Regionale Geologie
-
-- **Segment:** `exam:13490972` · **unitId:** `45773`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490972>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45773&periodId=565>
 
 ### 68881 Regionale Geologie
 
@@ -6064,12 +5595,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 68890 Sedimentologie
 
-- **Segment:** `exam:13490978` · **unitId:** `45774`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490978>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45774&periodId=565>
-
-### 68890 Sedimentologie
-
 - **Segment:** `exam:13494001` · **unitId:** `45774`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13492433|exam:13492435|exam:13492437|exam:13494001>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45774&periodId=565>
@@ -6091,12 +5616,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:13645489` · **unitId:** `45774`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13643947|exam:13643949|exam:13643950|exam:13645489>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45774&periodId=565>
-
-### 68900 Geochemie
-
-- **Segment:** `exam:13490981` · **unitId:** `45775`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490981>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45775&periodId=565>
 
 ### 68900 Geochemie
 
@@ -6124,12 +5643,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 68910 Petrologie
 
-- **Segment:** `exam:13490988` · **unitId:** `45776`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490988>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45776&periodId=565>
-
-### 68910 Petrologie
-
 - **Segment:** `exam:13494011` · **unitId:** `45776`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13492433|exam:13492435|exam:13492437|exam:13494011>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45776&periodId=565>
@@ -6151,12 +5664,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:13645496` · **unitId:** `45776`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13643947|exam:13643949|exam:13643950|exam:13645496>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45776&periodId=565>
-
-### 68920 Wissenschaftliches geow. Arbeiten und Präsentieren
-
-- **Segment:** `exam:13490992` · **unitId:** `45777`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490992>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45777&periodId=565>
 
 ### 68921 Wissenschaftliches geow. Arbeiten und Präsentieren
 
@@ -6244,12 +5751,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 69100 Geomaterialien
 
-- **Segment:** `exam:13490995` · **unitId:** `130128`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490995>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130128&periodId=565>
-
-### 69100 Geomaterialien
-
 - **Segment:** `exam:13494018` · **unitId:** `130128`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13492433|exam:13492435|exam:13492437|exam:13494018>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130128&periodId=565>
@@ -6271,21 +5772,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:13645454` · **unitId:** `130850`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13643947|exam:13643949|exam:13643950|exam:13645454>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130850&periodId=565>
-
-### 88101 Minerale und Gesteine - Leistung
-
-- **Segment:** `exam:13490931` · **unitId:** `45795`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490928|exam:13490931>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45795&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | 14:15–15:45 | — | — |
 
 ### 88101 Minerale und Gesteine - Leistung
 
@@ -6349,21 +5835,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 88201 Geowissenschaftliche Arbeitsmethoden I - Leistung
 
-- **Segment:** `exam:13490935` · **unitId:** `45796`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490932|exam:13490935>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45796&periodId=565>
-
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | 12:00–13:30 | — | — |
-
-### 88201 Geowissenschaftliche Arbeitsmethoden I - Leistung
-
 - **Segment:** `exam:13493959` · **unitId:** `45796`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13492433|exam:13492435|exam:13492437|exam:13493956|exam:13493959>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45796&periodId=565>
@@ -6421,21 +5892,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Fr | Fr | 12:00–13:30 | — | — |
-
-### 88202 Geländeübung I - Leistung
-
-- **Segment:** `exam:13490936` · **unitId:** `45989`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490932|exam:13490936>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45989&periodId=565>
-
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
 
 ### 88202 Geländeübung I - Leistung
 
@@ -6499,21 +5955,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 88251 Geowissenschaftliche Arbeitsmethoden II - Leistung
 
-- **Segment:** `exam:13490940` · **unitId:** `45801`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490937|exam:13490940>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45801&periodId=565>
-
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | 15:15–16:45 | — | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
-
-### 88251 Geowissenschaftliche Arbeitsmethoden II - Leistung
-
 - **Segment:** `exam:13493964` · **unitId:** `45801`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13492433|exam:13492435|exam:13492437|exam:13493961|exam:13493964>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45801&periodId=565>
@@ -6574,21 +6015,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 88451 Mineralogie II - Leistung
 
-- **Segment:** `exam:13490954` · **unitId:** `45803`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490951|exam:13490954>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45803&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | 09:00–09:45 | — | — |
-
-### 88451 Mineralogie II - Leistung
-
 - **Segment:** `exam:13493978` · **unitId:** `45803`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13492433|exam:13492435|exam:13492437|exam:13493975|exam:13493978>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45803&periodId=565>
@@ -6631,21 +6057,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Fr | Fr | 09:00–09:45 | — | — |
-
-### 88551 Paläobiologie II - Leistung
-
-- **Segment:** `exam:13490961` · **unitId:** `45800`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490959|exam:13490961>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45800&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | 16:00–17:30 | — | — |
 
 ### 88551 Paläobiologie II - Leistung
 
@@ -6709,21 +6120,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 88701 Strukturgeologie und Lagerstätten - Leistung
 
-- **Segment:** `exam:13490971` · **unitId:** `45802`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490968|exam:13490971>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45802&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | 10:15–11:45 | — | — |
-
-### 88701 Strukturgeologie und Lagerstätten - Leistung
-
 - **Segment:** `exam:13493995` · **unitId:** `45802`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13492433|exam:13492435|exam:13492437|exam:13493992|exam:13493995>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45802&periodId=565>
@@ -6766,21 +6162,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Fr | Fr | 10:15–11:45 | — | — |
-
-### 89051 Geophysik - Leistung
-
-- **Segment:** `exam:13490987` · **unitId:** `45810`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490985|exam:13490987>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45810&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | 14:30–16:00 | — | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
 
 ### 89051 Geophysik - Leistung
 
@@ -6863,6 +6244,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13505151|exam:13505152|exam:13505153|exam:13505586|exam:13505593|exam:13505595>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=72617&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -6877,6 +6259,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13505151|exam:13505152|exam:13505153|exam:13505611|exam:13505628|exam:13505630>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=72617&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -7155,21 +6538,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 91051 Geophysikalische und mathematischen Methoden in den Geowissenschaften  - Leistung
 
-- **Segment:** `exam:13490998` · **unitId:** `130157`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490997|exam:13490998>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130157&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | 10:00–12:00 | — | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
-
-### 91051 Geophysikalische und mathematischen Methoden in den Geowissenschaften  - Leistung
-
 - **Segment:** `exam:13494021` · **unitId:** `130157`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13492433|exam:13492435|exam:13492437|exam:13494020|exam:13494021>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130157&periodId=565>
@@ -7330,23 +6698,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### Bio-NF - Allgemeine Biologie I: Biologie für Nebenfächler (Bio-NF) - Vorlesung
 
-- **Segment:** `exam:13490907` · **unitId:** `84758`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490906|exam:13490907>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84758&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:15–17:30 | 13.10.2025–02.02.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
-
-### Bio-NF - Allgemeine Biologie I: Biologie für Nebenfächler (Bio-NF) - Vorlesung
-
 - **Segment:** `exam:13493931` · **unitId:** `84758`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13492433|exam:13492435|exam:13492437|exam:13493930|exam:13493931>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84758&periodId=565>
@@ -7450,24 +6801,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### Hydro1 - Angewandte Geologie I - Hydrogeologie - Vorlesung mit Übung
 
-- **Segment:** `exam:13490963` · **unitId:** `90836`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490962|exam:13490963>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90836&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 08:15–09:45 | 13.10.2025–02.02.2026 | 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
-| wöchentlich | Do | 17:00–18:30 | 16.10.2025–05.02.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
-
-### Hydro1 - Angewandte Geologie I - Hydrogeologie - Vorlesung mit Übung
-
 - **Segment:** `exam:13493987` · **unitId:** `90836`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13492433|exam:13492435|exam:13492437|exam:13493986|exam:13493987>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90836&periodId=565>
@@ -7557,23 +6890,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### Physikpraktikum - Physikalisches Praktikum für Geowissenschaftler - Praktikum
 
-- **Segment:** `exam:13490919` · **unitId:** `85798`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490918|exam:13490919>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85798&periodId=565>
-
-- **Veranstaltungsart:** Praktikum
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 16:15–17:30 | 15.10.2025 | 13003.00.807 (HH Hörsaal Physikum) |
-| wöchentlich | Mi | 14:00–18:00 | 29.10.2025–04.02.2026 | 07201.00.035 (Praktikumsgebäude, Paul-Gordan-Str. 10) |
-
-### Physikpraktikum - Physikalisches Praktikum für Geowissenschaftler - Praktikum
-
 - **Segment:** `exam:13493943` · **unitId:** `85798`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13492433|exam:13492435|exam:13492437|exam:13493942|exam:13493943>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85798&periodId=565>
@@ -7639,23 +6955,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | Einzeltermin | Mi | 16:15–17:30 | 15.10.2025 | 13003.00.807 (HH Hörsaal Physikum) |
 | wöchentlich | Mi | 14:00–18:00 | 29.10.2025–04.02.2026 | 07201.00.035 (Praktikumsgebäude, Paul-Gordan-Str. 10) |
-
-### PolMik - [Mineralogie II] - Polarisationsmikroskopie - Vorlesung mit Übung
-
-- **Segment:** `exam:13490952` · **unitId:** `87640`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16803|exam:13489425|exam:13489427|exam:13489429|exam:13490951|exam:13490952>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87640&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 08:00–09:45 | 16.10.2025–05.02.2026 | 00301.01.140 (ÜR Mineralogie Übungsraum Mineralogie) |
 
 ### PolMik - [Mineralogie II] - Polarisationsmikroskopie - Vorlesung mit Übung
 
@@ -7871,41 +7170,23 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Fr | 14:00–17:00 | 31.10.2025–06.02.2026 | 11401.00.109 (0.56 Praktikum) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (82)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (41)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
-### (AG II) Hydrogeologische Übung (HYDRORALLEY)
+### [AG - E2b] Arbeiten in der Angewandten Geologie - Hydrogeologische Übung und Auswertung     https://www.studon.fau.de/studon/goto.php?target=crs_2804655 — Seminar
 
-- **Segment:** `unit:104110` · **unitId:** `104110`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104110&periodId=565>
+- **Segment:** `unit:89760` · **unitId:** `89760`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89760&periodId=565>
 
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
-### (AS-II) Methoden der Sedimentologie — Übungsseminar
-
-- **Segment:** `unit:93989` · **unitId:** `93989`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93989&periodId=565>
-
-- **Veranstaltungsart:** Übungsseminar
-- **ECTS-Punkte:** 2.0
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
 ### [AG - V4a] Karst und Hydrogeologie — Vorlesung mit Übung
 
 - **Segment:** `unit:82381` · **unitId:** `82381`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82381&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### [AG-E2] Sanierungsmaßnahmen in der Hydro- und Ingenieurgeologie — Vorlesung mit Übung
-
-- **Segment:** `unit:132090` · **unitId:** `132090`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132090&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
@@ -7920,15 +7201,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### [AG-F3] Umweltisotopie — Vorlesung mit Übung
-
-- **Segment:** `unit:132101` · **unitId:** `132101`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132101&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
 ### [AG-F3a] Seminare der Angewandten Geologie
 
 - **Segment:** `unit:88281` · **unitId:** `88281`
@@ -7937,42 +7209,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
-
-### [AG-V4] Vermessungstechnik — Übungsseminar
-
-- **Segment:** `unit:121109` · **unitId:** `121109`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121109&periodId=565>
-
-- **Veranstaltungsart:** Übungsseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### [AM-E2] Bindemittel; Zementmineralogie — Vorlesung mit Übung
-
-- **Segment:** `unit:100615` · **unitId:** `100615`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100615&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 3.0
-- **Turnus:** nur im Sommersemester
-
-### [AM-V3] Mikrosondenanalytik; Mikrosondenanalytik — Vorlesung mit Übung
-
-- **Segment:** `unit:91788` · **unitId:** `91788`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91788&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 3.0
-- **Turnus:** nur im Sommersemester
-
-### [AM-V4] Rietveld; Rietveld-Kurs — Übungsseminar
-
-- **Segment:** `unit:93152` · **unitId:** `93152`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93152&periodId=565>
-
-- **Veranstaltungsart:** Übungsseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
 
 ### [AS-V3] + [GT-V1] Sedimentpetrographie und Diagenese — Hauptseminar
 
@@ -8013,20 +7249,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Fr | 13:00–17:00 | 24.10.2025–06.02.2026 | — |
 
-### [BSc AG-II] Angewandte Geologie Hydroralley Übung 1 — Vorlesung
-
-- **Segment:** `unit:121117` · **unitId:** `121117`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121117&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-
-### [BSc AG-II] Angewandte Geologie Hydroralley Übung 2 — Vorlesung
-
-- **Segment:** `unit:121119` · **unitId:** `121119`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121119&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-
 ### [BSc AM-II] Angewandte Mineralogie; Chemische Analyse von Gesteinen — Seminar
 
 - **Segment:** `unit:99650` · **unitId:** `99650`
@@ -8059,22 +7281,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Fr | 08:30–11:45 | 17.10.2025–06.02.2026 | 00301.01.140 (ÜR Mineralogie Übungsraum Mineralogie) |
 
-### [BSc PG I] -  [Geoch. Meth. und Ü I] Petrologisch-tektonische Geländeübung
+### [BSc PG - I] [Geoch. Meth. und Ü I] - B Mikroskopie von Magmatiten und Metamorphiten — Vorlesung mit Übung
 
-- **Segment:** `unit:85495` · **unitId:** `85495`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85495&periodId=565>
+- **Segment:** `unit:102310` · **unitId:** `102310`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102310&periodId=565>
 
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-### [BSc; AM-I] Material und Charakterisierung, Angewandte Mineralogie II — Übungsseminar
-
-- **Segment:** `unit:104458` · **unitId:** `104458`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104458&periodId=565>
-
-- **Veranstaltungsart:** Übungsseminar
+- **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 2.0
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
@@ -8083,51 +7295,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 10:15–11:45 | 14.10.2025–03.02.2026 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
-
-### [CE-V3] Hypothesis testing in Earth system science — Seminar
-
-- **Segment:** `unit:110389` · **unitId:** `110389`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110389&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
-### [CE-V3] Laboratory Methods in Paleoenvironmental research — Übung
-
-- **Segment:** `unit:87147` · **unitId:** `87147`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87147&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
-### [CE-V4] Climate and Earth System Data — Übung
-
-- **Segment:** `unit:108690` · **unitId:** `108690`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=108690&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
-### [CE-V4] Research Project Implementation — Seminar
-
-- **Segment:** `unit:89869` · **unitId:** `89869`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89869&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
-### [Geophysik] Geophysik (Prüfung) — Seminar
-
-- **Segment:** `unit:110703` · **unitId:** `110703`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110703&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** jedes 2. Semester
+| wöchentlich | Di | 12:15–13:45 | 14.10.2025–03.02.2026 | 00301.01.140 (ÜR Mineralogie Übungsraum Mineralogie) |
 
 ### [Mineralogie I] - (BSc) Spezielle Minerale — Vorlesung
 
@@ -8138,15 +7306,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.0
 - **Turnus:** nur im Sommersemester
 
-### [Mineralogie I] - (BSc) Symmetrie und Eigenschaften von Mineralen — Vorlesung
-
-- **Segment:** `unit:89474` · **unitId:** `89474`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89474&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 3.0
-- **Turnus:** nur im Sommersemester
-
 ### [Mineralogie I] UE, Spezielle Minerale — Übung
 
 - **Segment:** `unit:88671` · **unitId:** `88671`
@@ -8154,66 +7313,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Sommersemester
-
-### [Mineralogie I] UE, Symmetrie und Eigenschaften von Mineralen — Übung
-
-- **Segment:** `unit:98377` · **unitId:** `98377`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98377&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Sommersemester
-
-### [PG-E2a] Geländepraktika Lagerstätten und Strukturen - Geländepraktikum Strukturgeologie — Exkursion
-
-- **Segment:** `unit:100109` · **unitId:** `100109`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100109&periodId=565>
-
-- **Veranstaltungsart:** Exkursion
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
-### [PG-F3] Methoden der Petrologie - Petrologische Methoden — Übung
-
-- **Segment:** `unit:103602` · **unitId:** `103602`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103602&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| nach Vereinbarung | — | — | — | — |
-
-### [PG-V3] Petrologie II - Metamorphe Gesteine — Übung
-
-- **Segment:** `unit:91080` · **unitId:** `91080`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91080&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
-### AG - I [Hydrogeologie und Ingenieurgeologie] Labor- und Messübung Ingenieurgeologie Kurs I
-
-- **Segment:** `unit:100705` · **unitId:** `100705`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100705&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
-### AG - I [Hydrogeologie und Ingenieurgeologie] Labor- und Messübung Ingenieurgeologie Kurs II
-
-- **Segment:** `unit:98444` · **unitId:** `98444`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98444&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
 
 ### AG-F3a [Georisiken oder Modellierung mit Seminar Angewandte Geologie] Georisiken & Massenbewegungen — Vorlesung
 
@@ -8233,15 +7332,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.0
 - **Turnus:** nur im Wintersemester
 
-### AG-V1 [Grundbau und Statisik] Datenauswertung, Statistik, Modellierung und Übungen Kurs I — Vorlesung mit Übung
-
-- **Segment:** `unit:94333` · **unitId:** `94333`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94333&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
 ### Allgemeine Biologie II: Morphologie und Anatomie der Organismen (Laborübung)
 
 - **Segment:** `unit:86761` · **unitId:** `86761`
@@ -8250,15 +7340,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
-
-### Anorganisch-Chemisches Praktikum für Geowissenschaften, Physik und physische Geographie (+ MWT & Nanotechn. alte PO)
-
-- **Segment:** `unit:120660` · **unitId:** `120660`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120660&periodId=565>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 6.0
-- **Turnus:** nur im Sommersemester
 
 ### AS - I [Sediment- und Gefügeanalyse] - Methoden der Gefügeanalyse — Seminar
 
@@ -8311,6 +7392,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 3.0
 - **Turnus:** nur im Sommersemester
 
+### Geochemie - Globale Stoffkreisläufe — Vorlesung
+
+- **Segment:** `unit:93219` · **unitId:** `93219`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93219&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.0
+- **Turnus:** nur im Sommersemester
+
 ### Georessourcen — Seminar und Übung
 
 - **Segment:** `unit:131623` · **unitId:** `131623`
@@ -8336,15 +7426,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **Turnus:** nur im Sommersemester
 
-### Grundkurs Biomaterial — Seminar
-
-- **Segment:** `unit:92814` · **unitId:** `92814`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92814&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
 ### Grundlagen der Geowissenschaften II - System Erde II — Vorlesung
 
 - **Segment:** `unit:96240` · **unitId:** `96240`
@@ -8363,23 +7444,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### Hydrogeologie und Ingenieurgeologie -  Labor- und Messübung Hydrogeologie [AG-I]
+### Grundwasser Modellierung [AG-E1] Kurs II — Vorlesung mit Übung
 
-- **Segment:** `unit:88708` · **unitId:** `88708`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88708&periodId=565>
+- **Segment:** `unit:90357` · **unitId:** `90357`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90357&periodId=565>
 
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### Kartierübung 1 (im Modul Regionale Geologie) — Praktikum
+### Grundwassermodellierung — Vorlesung
 
-- **Segment:** `unit:84416` · **unitId:** `84416`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84416&periodId=565>
+- **Segment:** `unit:91008` · **unitId:** `91008`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91008&periodId=565>
 
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Wintersemester
 
 ### Klausur zum Nachweis Gesicherter Lateinkenntnisse
 
@@ -8442,116 +7522,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Blockveranstaltung | — | 09:00–14:15 | 18.02.2026–10.03.2026 | 05901.02.058 ( 2.058 R 2.058) |
 
-### MA Angewandte Geologie AG-E2b — Übungsseminar
+### MA Angewandte Geologie AG-E1 — Übungsseminar
 
-- **Segment:** `unit:121107` · **unitId:** `121107`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121107&periodId=565>
-
-- **Veranstaltungsart:** Übungsseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### MA Angewandte Geologie AG-F3a Kurs 2 — Seminar
-
-- **Segment:** `unit:121112` · **unitId:** `121112`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121112&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 14.10.2025–03.02.2026 | — |
-
-### MA Angewandte Geologie AG-F3b Kurs 1 — Übungsseminar
-
-- **Segment:** `unit:121113` · **unitId:** `121113`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121113&periodId=565>
-
-- **Veranstaltungsart:** Übungsseminar
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 16:30–18:00 | 13.10.2025–02.02.2026 | 07202.00.016 (Seminarraum Seminarraum Außenstelle Angewandte Geologie) |
-
-### MA Angewandte Geologie AG-V1 Kurs 1 — Vorlesung mit Übung
-
-- **Segment:** `unit:121098` · **unitId:** `121098`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121098&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
-### MA Angewandte Geologie AG-V2 Kurs 1 — Seminar
-
-- **Segment:** `unit:121100` · **unitId:** `121100`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121100&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
-### MA Angewandte Geologie AG-V2 Kurs 2 — Vorlesung mit Übung
-
-- **Segment:** `unit:121101` · **unitId:** `121101`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121101&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
-### MA Angewandte Geologie AG-V3a Kurs 1 — Seminar
-
-- **Segment:** `unit:121103` · **unitId:** `121103`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121103&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
-### MA Angewandte Geologie AG-V3a Kurs 2 — Vorlesung mit Übung
-
-- **Segment:** `unit:121104` · **unitId:** `121104`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121104&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
-### MA Angewandte Geologie AG-V3b — Übung
-
-- **Segment:** `unit:121105` · **unitId:** `121105`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121105&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### MA Angewandte Geologie AG-V4a — Übungsseminar
-
-- **Segment:** `unit:121108` · **unitId:** `121108`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121108&periodId=565>
+- **Segment:** `unit:121102` · **unitId:** `121102`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121102&periodId=565>
 
 - **Veranstaltungsart:** Übungsseminar
 - **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
-### Mathematische und Physikalische Methoden in den Geowissenschaften: Vertiefung — Tutorium
-
-- **Segment:** `unit:138257` · **unitId:** `138257`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138257&periodId=565>
-
-- **Veranstaltungsart:** Tutorium
 - **Turnus:** nur im Wintersemester
 
 ### Methoden der Angewandten Geologie
@@ -8567,24 +7544,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | 10:15–11:15 | — | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
-
-### Methoden der Angewandten Geologie [AG-F1] — Übungsseminar
-
-- **Segment:** `unit:104231` · **unitId:** `104231`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104231&periodId=565>
-
-- **Veranstaltungsart:** Übungsseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Methoden der Ingenieurgeologie I [AG-V1] — Vorlesung mit Übung
-
-- **Segment:** `unit:93457` · **unitId:** `93457`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93457&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
 
 ### Mineralische Rohstoffe — Seminar und Übung
 
@@ -8618,39 +7577,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Di | Di | 16:00–17:30 | — | — |
 
-### Paläobiologie I - Allgemeine Paläontologie — Vorlesung
-
-- **Segment:** `unit:90560` · **unitId:** `90560`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90560&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.0
-- **Turnus:** nur im Sommersemester
-
-### Petrologie - Petrologische Systeme — Vorlesung
-
-- **Segment:** `unit:100508` · **unitId:** `100508`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100508&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.0
-- **Turnus:** nur im Sommersemester
-
 ### Poetry Slam: Text, Performance, Event — Seminar
 
 - **Segment:** `unit:139350` · **unitId:** `139350`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139350&periodId=565>
 
 - **Veranstaltungsart:** Seminar
-
-### Regionale Geologie - Kartierübung
-
-- **Segment:** `unit:89997` · **unitId:** `89997`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89997&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Turnus:** nur im Sommersemester
 
 ### Schriftliche Übersetzungsleistung Latein I für Anfänger (Zulassungsvoraussetzung zu Kurs Latein II für Fortgeschrittene)
 
@@ -8666,14 +7598,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Do | Do | 14:00–16:00 | 07.12.2025 23:59:59 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
 
-### SQ1_Masterstudium — Praktikum
-
-- **Segment:** `unit:108186` · **unitId:** `108186`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=108186&periodId=565>
-
-- **Veranstaltungsart:** Praktikum
-- **Turnus:** in jedem Semester
-
 ### Störungssysteme und Strukturgeologie + Mikrotektonik
 
 - **Segment:** `unit:46005` · **unitId:** `46005`
@@ -8687,15 +7611,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | — | — | — |
-
-### Ökologie und Diversität B: Übungen zur Biologie und Systematik einheimischer Pflanzen — Vorlesung mit Übung
-
-- **Segment:** `unit:84785` · **unitId:** `84785`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84785&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 3.0
-- **Turnus:** nur im Sommersemester
 
 ### Übungen zum S Chemische Analyse von Gesteinen
 

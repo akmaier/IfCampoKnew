@@ -654,7 +654,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Di | 10:15–11:45 | 14.10.2025–03.02.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (39)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (24)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -686,28 +686,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Sa | Sa | 09:00–12:00 | — | 06201.02.021 ( TSG HS A (02.021) Theologisches Seminargebäude, Kochstraße 6) |
 
-### Deutsch-lateinische Übersetzungsübungen (Aufbau)
-
-- **Segment:** `unit:110882` · **unitId:** `110882`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110882&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** jedes 2. Semester
-
-### Deutsch-lateinische Übersetzungsübungen - Examen
-
-- **Segment:** `unit:119156` · **unitId:** `119156`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119156&periodId=565>
-
-- **Veranstaltungsart:** Übung
-
 ### Deutsch-lateinische Übersetzungsübungen - Examen
 
 - **Segment:** `unit:122701` · **unitId:** `122701`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122701&periodId=565>
 
 - **Veranstaltungsart:** Übung
+
+### Deutsch-lateinische Übersetzungsübungen - Examen
+
+- **Segment:** `unit:127436` · **unitId:** `127436`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127436&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 3.0
+- **Turnus:** in jedem Semester
 
 ### Deutsch-lateinische Übersetzungsübungen - Mittelstufe 1
 
@@ -724,15 +717,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 08:30–10:00 | 13.10.2025–02.02.2026 | 05901.02.058 ( 2.058 R 2.058) |
 
-### Deutsch-lateinische Übersetzungsübungen - Mittelstufe 2
-
-- **Segment:** `unit:127433` · **unitId:** `127433`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127433&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Sommersemester
-
 ### Deutsch-lateinische Übersetzungsübungen - Mittelstufe A
 
 - **Segment:** `unit:122689` · **unitId:** `122689`
@@ -742,71 +726,18 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 ### Deutsch-lateinische Übersetzungsübungen - Oberstufe
 
-- **Segment:** `unit:119165` · **unitId:** `119165`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119165&periodId=565>
+- **Segment:** `unit:122710` · **unitId:** `122710`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122710&periodId=565>
 
 - **Veranstaltungsart:** Übung
 
-### Deutsch-lateinische Übersetzungsübungen - Oberstufe II: Texterstellung
+### Deutsch-lateinische Übersetzungsübungen - Oberstufe
 
-- **Segment:** `unit:95403` · **unitId:** `95403`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95403&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Deutsch-lateinische Übersetzungsübungen - Oberstufe: Examen
-
-- **Segment:** `unit:110886` · **unitId:** `110886`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110886&periodId=565>
-
-- **Veranstaltungsart:** Übung
-
-### Deutsch-lateinische Übersetzungsübungen - Unterstufe 1
-
-- **Segment:** `unit:89620` · **unitId:** `89620`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89620&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Deutsch-lateinische Übersetzungsübungen - Unterstufe 2
-
-- **Segment:** `unit:127439` · **unitId:** `127439`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127439&periodId=565>
+- **Segment:** `unit:127494` · **unitId:** `127494`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127494&periodId=565>
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 3.0
-- **Turnus:** nur im Sommersemester
-
-### Deutsch-lateinische Übersetzungsübungen - Unterstufe A
-
-- **Segment:** `unit:122718` · **unitId:** `122718`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122718&periodId=565>
-
-- **Veranstaltungsart:** Übung
-
-### Deutsch-lateinische Übersetzungsübungen - Unterstufe II
-
-- **Segment:** `unit:119159` · **unitId:** `119159`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119159&periodId=565>
-
-- **Veranstaltungsart:** Übung
-
-### Einführung in die Lateinischen Philologie — Übung
-
-- **Segment:** `unit:122695` · **unitId:** `122695`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122695&periodId=565>
-
-- **Veranstaltungsart:** Übung
-
-### Fachdidaktisches Projekt — Übung
-
-- **Segment:** `unit:127503` · **unitId:** `127503`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127503&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
 - **Turnus:** in jedem Semester
 
 ### Hauptseminar Poesie
@@ -825,13 +756,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 16:15–17:45 | 13.10.2025–02.02.2026 | — |
 
-### Hauptseminar: Cicero, De lege agraria
-
-- **Segment:** `unit:119182` · **unitId:** `119182`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119182&periodId=565>
-
-- **Veranstaltungsart:** Hauptseminar
-
 ### Klausur zum Nachweis Gesicherter Lateinkenntnisse
 
 - **Segment:** `unit:39849` · **unitId:** `39849`
@@ -845,22 +769,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | 16:00–19:00 | 07.12.2025 23:59:59 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
-
-### Kolloquium Literaturgeschichte — Übung
-
-- **Segment:** `unit:122716` · **unitId:** `122716`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122716&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
-- **Turnus:** nur im Wintersemester
-
-### Kolloquium Literaturgeschichte: Dichtkunst. Poetiken von der Antike bis zur Barockzeit — Übung
-
-- **Segment:** `unit:114732` · **unitId:** `114732`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114732&periodId=565>
-
-- **Veranstaltungsart:** Übung
 
 ### Kursorische Lektüre — Übung
 
@@ -925,20 +833,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Blockveranstaltung | — | 09:00–14:15 | 18.02.2026–10.03.2026 | 05901.02.058 ( 2.058 R 2.058) |
 
-### Lateinisch-deutsche Übersetzungsübungen - Mittelstufe: Plinius — Vorlesung mit Übung
-
-- **Segment:** `unit:114650` · **unitId:** `114650`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114650&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-
-### Lateinisch-deutsche Übersetzungsübungen - Mittelstufe: Vergil, Aeneis
-
-- **Segment:** `unit:119153` · **unitId:** `119153`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119153&periodId=565>
-
-- **Veranstaltungsart:** Übung
-
 ### Lateinisch-deutsche Übersetzungsübungen - Oberstufe
 
 - **Segment:** `unit:122709` · **unitId:** `122709`
@@ -956,20 +850,19 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Do | 10:15–11:45 | 16.10.2025 | 00501.01.014 ( KH 1.014 Hörsaal Kollegienhaus) |
 | wöchentlich | Do | 10:15–11:45 | 23.10.2025–05.02.2026 | 05901.05.054 ( 05.054) |
 
-### Lateinisch-deutsche Übersetzungsübungen - Oberstufe
+### Lateinische Literaturwissenschaft III
 
-- **Segment:** `unit:93578` · **unitId:** `93578`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93578&periodId=565>
+- **Segment:** `unit:50305` · **unitId:** `50305`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50305&periodId=565>
 
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
+- **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch
 
-### Lateinisch-deutsche Übersetzungsübungen - Unterstufe
+#### Termine
 
-- **Segment:** `unit:110889` · **unitId:** `110889`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110889&periodId=565>
-
-- **Veranstaltungsart:** Übung
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Lateinische Sprachwissenschaft und Sprachpraxis IIb
 
@@ -1052,6 +945,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Do | Do | 14:00–16:00 | 07.12.2025 23:59:59 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
 
+### Vorlesung Griechisch
+
+- **Segment:** `unit:131245` · **unitId:** `131245`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131245&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 4.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:15–11:45 | 15.10.2025–04.02.2026 | 05901.02.058 ( 2.058 R 2.058) |
+
 ### Vorlesung zu einer Denkmälergattung der Klassischen Archäologie
 
 - **Segment:** `unit:21375` · **unitId:** `21375`
@@ -1065,15 +974,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Di | Di | 10:15–11:45 | — | — |
-
-### Übung Lektüre: Cicero
-
-- **Segment:** `unit:122693` · **unitId:** `122693`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122693&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Turnus:** in jedem Semester
 
 ## Lehramts-Prüfungsordnungen
 
