@@ -5,7 +5,7 @@ campo_segment: "title:18249"
 campo_path: "title:17593|title:17595|title:18249"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18249"
 po_version_count: 0
-course_count: 42
+course_count: 43
 fau_studiengang:
   - title: "Psychologie mit Schwerpunkt Klinische Psychologie und Psychotherapie (M.Sc.)"
     rel_path: "studiengang/psychologie-mit-schwerpunkt-klinische-psychologie-und-psychotherapie-m-sc.md"
@@ -141,7 +141,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Veranstaltungen (42)
+## Veranstaltungen (43)
 
 ### Berufsqualifizierende Tätigkeit [II]: HS - Vertiefte Praxis der Psychotherapie 1 (Interventionspraktikum 1) - Hauptseminar
 
@@ -673,7 +673,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18249|exam:15176721|exam:15176722|exam:15176723|exam:15176775|exam:15176778>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=80963&periodId=589>
 
-- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -757,15 +756,17 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | — | — | — | — |
 
+### 42613 Berufsqualifizierende Tätigkeit [II]: Vertiefte Praxis der Psychotherapie 3
+
+- **Segment:** `exam:17885089` · **unitId:** `139078`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18249|exam:15176721|exam:15176722|exam:15176723|exam:17885089>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139078&periodId=589>
+
 ### M.Sc. Psychologie mit Schwerpunkt Klinische Psychologie und Psychotherapie - Kolloquium M.Sc. Psychologie mit Schwerpunkt Klinische Psychologie und Psychotherapie - Kolloquium
 
 - **Segment:** `exam:15176742` · **unitId:** `115003`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18249|exam:15176721|exam:15176722|exam:15176723|exam:15176739|exam:15176742>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115003&periodId=589>
-
-- **Veranstaltungsart:** Kolloquium
-- **ECTS-Punkte:** 2.0
-- **Turnus:** in jedem Semester
 
 #### Termine
 
