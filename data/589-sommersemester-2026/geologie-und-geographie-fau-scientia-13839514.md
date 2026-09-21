@@ -5,16 +5,16 @@ campo_segment: "exam:13839514"
 campo_path: "title:17593|title:17599|exam:13839514"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13839514"
 po_version_count: 0
-course_count: 12
+course_count: 11
 ---
 
-# - Geologie und Geografie (FAU Scientia)  -
+# - Geologie und Geographie (FAU Scientia)  -
 
 **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13839514>
 
 _Section: FAU Scientia Gaststudium_  
 
-## Veranstaltungen (12)
+## Veranstaltungen (11)
 
 ### Dynamik des Systems Erde - System Erde III - Vorlesung mit Übung
 
@@ -94,14 +94,25 @@ _Section: FAU Scientia Gaststudium_
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+### Vorlesung Physische Geographie vertieft:  - Vorlesung
+
+- **Segment:** `exam:17899856` · **unitId:** `112123`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13839514|exam:17899856>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112123&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung+SaundSo | — | 08:00–18:00 | 26.03.2026–01.04.2026 | — |
+| wöchentlich | Di | 08:15–09:45 | 14.04.2026–14.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
+| Einzeltermin | Do | 17:15–18:30 | 15.10.2026 | 05901.00.040 ( HS C Hörsaal C - 00.[Telefon entfernt].00.210 (00.210 Seminarraum) |
 
 ### [PG-F1] - [PG-F1] Praktikum Petrologische Methoden - Vorlesung
 
@@ -120,26 +131,24 @@ _Section: FAU Scientia Gaststudium_
 |---|---|---|---|---|
 | nach Vereinbarung | — | — | — | — |
 
-### B-Sem - Basisseminar Geographie (Kurs A) - Seminar
+### G-VL KG2 - Grundvorlesung Kulturgeographie 2: Siedlungs- und Bevölkerungsgeographie - Vorlesung mit Übung
 
-- **Segment:** `exam:13839519` · **unitId:** `94922`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13839514|exam:13839519>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94922&periodId=589>
+- **Segment:** `exam:17899864` · **unitId:** `88016`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13839514|exam:17899864>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88016&periodId=589>
 
-- **Veranstaltungsart:** Seminar
+- **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Sa | 09:30–16:00 | 18.04.2026 | — |
-| Einzeltermin | Mi | 14:15–17:45 | 06.05.2026 | 55801.00.210 (00.210 Seminarraum) |
-| Einzeltermin | Mi | 14:15–17:45 | 20.05.2026 | 55801.00.210 (00.210 Seminarraum) |
-| Einzeltermin | Mi | 14:15–17:45 | 10.06.2026 | 55801.00.210 (00.210 Seminarraum) |
-| Einzeltermin | Mi | 14:15–17:45 | 01.07.2026 | 55801.00.210 (00.210 Seminarraum) |
+| wöchentlich | Fr | 09:45–11:15 | 17.04.2026–10.07.2026 | 21102.01.421 (LG H6 BISSANTZ-Hörsaal (240 Plätze)) |
+| Einzeltermin | Fr | 09:45–11:15 | 17.07.2026 | 21101.01.112 (LG H1 (446 Plätze) Hörsaal) |
+| Einzeltermin | Fr | 12:00–13:00 | 09.10.2026 | 55801.00.210 (00.210 Seminarraum) |
 
 ### G-VL PG 2 - Grundvorlesung Physische Geographie 2: Klimatologie und Biogeographie - Vorlesung mit Übung
 
@@ -178,40 +187,6 @@ _Section: FAU Scientia Gaststudium_
 | wöchentlich | Di | 16:00–17:30 | 14.04.2026–14.07.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
 | wöchentlich | Mi | 08:30–10:00 | 15.04.2026–15.07.2026 | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
 
-### MV-KG - Vertiefte Methodik MA - Masterseminar
-
-- **Segment:** `exam:13839551` · **unitId:** `96011`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13839514|exam:13839551>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96011&periodId=589>
-
-- **Veranstaltungsart:** Masterseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 55801.00.210 (00.210 Seminarraum) 55801.00.215 (00.215 Seminarraum) |
-
-### PG-MA - Field Course - PG Masterseminar
-
-- **Segment:** `exam:13839525` · **unitId:** `97752`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13839514|exam:13839525>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97752&periodId=589>
-
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 16:00–18:00 | 15.04.2026 | 55801.00.147 (00.147 Seminarraum 1 Seminarraum 1 Geographie Tennenlohe) |
-| Einzeltermin | Di | 16:00–17:30 | 12.05.2026 | 55801.00.147 (00.147 Seminarraum 1 Seminarraum 1 Geographie Tennenlohe) |
-| Einzeltermin | Di | 16:00–18:00 | 09.06.2026 | — |
-| Blockveranstaltung | — | 10:00–16:00 | 16.06.2026–17.06.2026 | — |
-
 ### RegGeol - Regionale Geologie - Seminar - Seminar
 
 - **Segment:** `exam:13839542` · **unitId:** `90744`
@@ -228,3 +203,18 @@ _Section: FAU Scientia Gaststudium_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 13:30–15:00 | 13.04.2026–13.07.2026 | 00501.02.012 ( KH 2.012 Hörsaal Kollegienhaus) |
+
+## Lehramts-Prüfungsordnungen
+
+- [14. Januar 2013](../pruefungsordnungen/lehramt/lehramtsfaecher/1aes-la-geographie.md)
+- [30. September 2015](../pruefungsordnungen/lehramt/lehramtsfaecher/2aes-la-geographie.md)
+- [28. Oktober 2016](../pruefungsordnungen/lehramt/lehramtsfaecher/3aes-la-geographie.md)
+- [LA Geographie 20201030 ÄS.pdf](../pruefungsordnungen/lehramt/lehramtsfaecher/la-geographie-20201030-aes.md)
+- [LA Geographie FPO LA Geo 20090310 i.d.F. 20201030.pdf](../pruefungsordnungen/lehramt/lehramtsfaecher/la-geographie-fpo-la-geo-20090310-idf-20201030.md)
+- [LA Geographie FPO LA Geo 20090310 i.d.F. 20221011.pdf](../pruefungsordnungen/lehramt/lehramtsfaecher/la-geographie-fpo-la-geo-20090310-idf-20221011.md)
+- [LA Geographie FPO LA Geo 20221011 ÄS.pdf](../pruefungsordnungen/lehramt/lehramtsfaecher/la-geographie-fpo-la-geo-20221011-aes.md)
+- [LA Geographie FPO LA Geo 20230928.pdf](../pruefungsordnungen/lehramt/lehramtsfaecher/la-geographie-fpo-la-geo-20230928.md)
+- [pdf vom 10.03.2009 i.d.F. 14.01.2013](../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-geographie-januar2013.md)
+- [pdf vom 10.03.2009](../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-geographie-neu.md)
+- [pdf vom 10.03.2009 i.d.F. 30.09.2015](../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-geographie-okt2015.md)
+- [pdf vom 10.03.2009 i.d.F. 28.10.2016](../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-geographie-okt2016.md)

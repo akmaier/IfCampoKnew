@@ -297,7 +297,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | 14:00–15:00 | — | 11901.00.236 (K1-119 Brose-Saal) |
+| Do | Do | 14:00–15:00 | — | 11907.01.040 (H18) |
 
 ### 658644 Human Factors in Security and Privacy - Leistung
 
@@ -311,7 +311,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | 14:00–15:00 | — | 11901.00.236 (K1-119 Brose-Saal) |
+| Do | Do | 14:00–15:00 | — | 11907.01.040 (H18) |
 
 ### 92900 Einführung in die IT-Sicherheit
 

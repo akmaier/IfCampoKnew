@@ -636,7 +636,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | 09:00–15:00 | — | — |
+| Do | Do | 11:15–12:15 | — | — |
 
 ### Grundlagen der Informatik — Vorlesung
 

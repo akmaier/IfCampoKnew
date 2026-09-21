@@ -5,7 +5,7 @@ campo_segment: "title:17635"
 campo_path: "title:17593|title:17602|title:17635"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17635"
 po_version_count: 5
-course_count: 86
+course_count: 88
 ---
 
 # Kulturgeographie (2 Fächer)
@@ -41,7 +41,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Campo-Segment:** `exam:14136774`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17635|exam:14136769|exam:14136772|exam:14136773|exam:14136774>
 
-## Veranstaltungen (86)
+## Veranstaltungen (88)
 
 ### Forschungskolloquium Kulturgeographie & Physische Geographie - Kolloquium
 
@@ -230,6 +230,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17635|exam:14132067|exam:14132070|exam:14132071|exam:14133573|exam:14133589|exam:14133591>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117190&periodId=589>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -244,6 +245,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17635|exam:14135171|exam:14135174|exam:14135175|exam:14135176|exam:14135192|exam:14135194>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117190&periodId=589>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -795,6 +797,48 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Segment:** `exam:14138299` · **unitId:** `53423`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17635|exam:14136769|exam:14136772|exam:14136773|exam:14138275|exam:14138299>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53423&periodId=589>
+
+### B-Sem - Basisseminar Geographie (Kurs A) - Seminar
+
+- **Segment:** `exam:17899825` · **unitId:** `94922`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17635|exam:14132067|exam:14132070|exam:14132071|exam:14133573|exam:14133586|exam:17899825>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94922&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Sa | 09:30–16:00 | 18.04.2026 | — |
+| Einzeltermin | Mi | 14:15–17:45 | 06.05.2026 | 55801.00.210 (00.210 Seminarraum) |
+| Einzeltermin | Mi | 14:15–17:45 | 20.05.2026 | 55801.00.210 (00.210 Seminarraum) |
+| Einzeltermin | Mi | 14:15–17:45 | 10.06.2026 | 55801.00.210 (00.210 Seminarraum) |
+| Einzeltermin | Mi | 14:15–17:45 | 01.07.2026 | 55801.00.210 (00.210 Seminarraum) |
+
+### B-Sem - Basisseminar Geographie (Kurs A) - Seminar
+
+- **Segment:** `exam:17899826` · **unitId:** `94922`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17635|exam:14135171|exam:14135174|exam:14135175|exam:14135176|exam:14135189|exam:17899826>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94922&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Sa | 09:30–16:00 | 18.04.2026 | — |
+| Einzeltermin | Mi | 14:15–17:45 | 06.05.2026 | 55801.00.210 (00.210 Seminarraum) |
+| Einzeltermin | Mi | 14:15–17:45 | 20.05.2026 | 55801.00.210 (00.210 Seminarraum) |
+| Einzeltermin | Mi | 14:15–17:45 | 10.06.2026 | 55801.00.210 (00.210 Seminarraum) |
+| Einzeltermin | Mi | 14:15–17:45 | 01.07.2026 | 55801.00.210 (00.210 Seminarraum) |
 
 ### EXA: KG vertieft 1 - Vorlesung Kulturgeographie vertieft - Vorlesung
 

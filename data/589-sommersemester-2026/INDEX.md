@@ -29,7 +29,7 @@ Dieses Verzeichnis enthält pro Campo-Studiengang **eine** Markdown-Datei mit al
 - [- Chemie- und Bioingenieurwesen (FAU Scientia)  -](chemie-und-bioingenieurwesen-fau-scientia-13839715.md)
 - [- Elektro- und Informationstechnik (FAU Scientia)  -](elektro-und-informationstechnik-fau-scientia-13839933.md)
 - [- FAU Kompetenzzentrum für interdisziplinäre Wissenschaftsreflexion - FAU ZIWIS (FAU Scientia)  -](fau-kompetenzzentrum-fuer-interdisziplinaere-wissenschaftsreflexion-fau-ziwis-fau-scientia-13840281.md)
-- [- Geologie und Geografie (FAU Scientia)  -](geologie-und-geografie-fau-scientia-13839514.md)
+- [- Geologie und Geographie (FAU Scientia)  -](geologie-und-geographie-fau-scientia-13839514.md)
 - [- Geschichte (FAU Scientia)  -](geschichte-fau-scientia-13838662.md)
 - [- Informatik (FAU Scientia)  -](informatik-fau-scientia-13839808.md)
 - [- Maschinelles Lernen und Datenanalyse (FAU Scientia)  -](maschinelles-lernen-und-datenanalyse-fau-scientia-13840020.md)
