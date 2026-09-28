@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:18235"
 campo_path: "title:17593|title:17595|title:18235"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18235"
-po_version_count: 0
-course_count: 38
+po_version_count: 12
+course_count: 26
 ---
 
 # The Americas/Las Américas
@@ -14,55 +14,69 @@ course_count: 38
 
 _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theologie_  
 
-## Veranstaltungen (38)
+## Prüfungsordnungs-Versionen (12)
 
 ### Aesthetics of Deception: Cultural History of the Con Artist - Hauptseminar
 
-- **Segment:** `exam:15777310` · **unitId:** `134244`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18235|exam:15624332|exam:15624333|exam:15624334|exam:15624359|exam:15624362|exam:15777310>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134244&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 05801.01.310 ( C 301 Übungsraum) |
+- **Campo-Segment:** `exam:15777310`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18235|exam:15624332|exam:15624333|exam:15624334|exam:15624359|exam:15624362|exam:15777310>
 
 ### Aesthetics of Deception: Cultural History of the Con Artist - Hauptseminar
 
-- **Segment:** `exam:15777288` · **unitId:** `134244`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18235|exam:15624332|exam:15624333|exam:15624334|exam:15624420|exam:15777288>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134244&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 05801.01.310 ( C 301 Übungsraum) |
+- **Campo-Segment:** `exam:15777288`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18235|exam:15624332|exam:15624333|exam:15624334|exam:15624420|exam:15777288>
 
 ### Aesthetics of Deception: Cultural History of the Con Artist - Hauptseminar
 
-- **Segment:** `exam:15777272` · **unitId:** `134244`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18235|exam:15624332|exam:15624333|exam:15624334|exam:15624437|exam:15777272>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134244&periodId=589>
+- **Campo-Segment:** `exam:15777272`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18235|exam:15624332|exam:15624333|exam:15624334|exam:15624437|exam:15777272>
 
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
+### Banned Books: Freedom and Censorship in the US  - Hauptseminar
 
-#### Termine
+- **Campo-Segment:** `exam:15775526`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18235|exam:15624332|exam:15624333|exam:15624334|exam:15624359|exam:15624362|exam:15775526>
 
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 05801.01.310 ( C 301 Übungsraum) |
+### Banned Books: Freedom and Censorship in the US  - Hauptseminar
+
+- **Campo-Segment:** `exam:15775516`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18235|exam:15624332|exam:15624333|exam:15624334|exam:15624420|exam:15775516>
+
+### Banned Books: Freedom and Censorship in the US  - Hauptseminar
+
+- **Campo-Segment:** `exam:15775554`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18235|exam:15624332|exam:15624333|exam:15624334|exam:15624437|exam:15775554>
+
+### Global Human Rights Governance: Accountability across International Relations and Law - Hauptseminar
+
+- **Campo-Segment:** `exam:15704827`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18235|exam:15624332|exam:15624333|exam:15624334|exam:15624381|exam:15624386|exam:15704827>
+
+### Reading Animals - Hauptseminar
+
+- **Campo-Segment:** `exam:15775454`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18235|exam:15624332|exam:15624333|exam:15624334|exam:15624359|exam:15624362|exam:15775454>
+
+### Reading Animals - Hauptseminar
+
+- **Campo-Segment:** `exam:15775464`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18235|exam:15624332|exam:15624333|exam:15624334|exam:15624420|exam:15775464>
+
+### Reading Animals - Hauptseminar
+
+- **Campo-Segment:** `exam:15775452`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18235|exam:15624332|exam:15624333|exam:15624334|exam:15624437|exam:15775452>
+
+### State-centric and cosmopolitan conceptions of human rights - Hauptseminar / Masterseminar
+
+- **Campo-Segment:** `exam:15848452`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18235|exam:15624332|exam:15624333|exam:15624334|exam:15624381|exam:15624386|exam:15848452>
+
+### US Cultural and Literary History: The 19th Century - Vorlesung
+
+- **Campo-Segment:** `exam:15777343`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18235|exam:15624332|exam:15624333|exam:15624334|exam:15624420|exam:15777343>
+
+## Veranstaltungen (26)
 
 ### Ba-Vorl: International Politics (only IBS/IES, WiWi) - Vorlesung
 
@@ -81,57 +95,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mi | 08:00–09:30 | 15.04.2026–15.07.2026 | 21102.01.421 (LG H6 BISSANTZ-Hörsaal (240 Plätze)) |
 
-### Banned Books: Freedom and Censorship in the US  - Hauptseminar
-
-- **Segment:** `exam:15775526` · **unitId:** `134245`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18235|exam:15624332|exam:15624333|exam:15624334|exam:15624359|exam:15624362|exam:15775526>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134245&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:00–12:00 | 13.04.2026–13.07.2026 | 05801.04.316 ( C 601 Seminarraum) |
-| Einzeltermin | Mo | 18:00–20:00 | 27.04.2026 | — |
-
-### Banned Books: Freedom and Censorship in the US  - Hauptseminar
-
-- **Segment:** `exam:15775516` · **unitId:** `134245`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18235|exam:15624332|exam:15624333|exam:15624334|exam:15624420|exam:15775516>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134245&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:00–12:00 | 13.04.2026–13.07.2026 | 05801.04.316 ( C 601 Seminarraum) |
-| Einzeltermin | Mo | 18:00–20:00 | 27.04.2026 | — |
-
-### Banned Books: Freedom and Censorship in the US  - Hauptseminar
-
-- **Segment:** `exam:15775554` · **unitId:** `134245`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18235|exam:15624332|exam:15624333|exam:15624334|exam:15624437|exam:15775554>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134245&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:00–12:00 | 13.04.2026–13.07.2026 | 05801.04.316 ( C 601 Seminarraum) |
-| Einzeltermin | Mo | 18:00–20:00 | 27.04.2026 | — |
-
 ### Exercise to Ba-lecture: International Politics (only IBS/IES) - Übung
 
 - **Segment:** `exam:15624465` · **unitId:** `126652`
@@ -149,22 +112,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | wöchentlich | Mi | 13:15–14:45 | 15.04.2026–15.07.2026 | 21101.00.142 (LG 0.142 (98 Plätze) Übungsraum) 21101.00.141 (LG 0.141 (48 Plätze) Übungsraum) |
 | wöchentlich | Mi | 15:00–16:30 | 15.04.2026–15.07.2026 | 21101.03.155 (LG 3.155 (24 Plätze) Seminarraum) |
 | wöchentlich | Mi | 16:45–18:15 | 15.04.2026–15.07.2026 | 21101.05.155 (LG 5.155 (30 Plätze) Seminarraum) |
-
-### Global Human Rights Governance: Accountability across International Relations and Law - Hauptseminar
-
-- **Segment:** `exam:15704827` · **unitId:** `133956`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18235|exam:15624332|exam:15624333|exam:15624334|exam:15624381|exam:15624386|exam:15704827>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133956&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 05902.00.014 ( 00.14 PSG) |
 
 ### Gramática y Estilística II (Studienbeginn ab WS 2021/22) - Übung
 
@@ -216,54 +163,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 11:30–13:00 | 15.04.2026–15.07.2026 | 21101.00.225 (LG 0.225 (44 Plätze) Übungsraum) |
-
-### Reading Animals - Hauptseminar
-
-- **Segment:** `exam:15775454` · **unitId:** `134243`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18235|exam:15624332|exam:15624333|exam:15624334|exam:15624359|exam:15624362|exam:15775454>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134243&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 00501.00.023 ( KH 0.023 Hörsaal Kollegienhaus) |
-
-### Reading Animals - Hauptseminar
-
-- **Segment:** `exam:15775464` · **unitId:** `134243`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18235|exam:15624332|exam:15624333|exam:15624334|exam:15624420|exam:15775464>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134243&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 00501.00.023 ( KH 0.023 Hörsaal Kollegienhaus) |
-
-### Reading Animals - Hauptseminar
-
-- **Segment:** `exam:15775452` · **unitId:** `134243`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18235|exam:15624332|exam:15624333|exam:15624334|exam:15624437|exam:15775452>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134243&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 00501.00.023 ( KH 0.023 Hörsaal Kollegienhaus) |
 
 ### Readings in North American Cultural Studies - Masterseminar
 
@@ -328,38 +227,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 16:00–18:00 | 16.04.2026–16.07.2026 | 00501.02.012 ( KH 2.012 Hörsaal Kollegienhaus) |
-
-### State-centric and cosmopolitan conceptions of human rights - Hauptseminar / Masterseminar
-
-- **Segment:** `exam:15848452` · **unitId:** `134044`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18235|exam:15624332|exam:15624333|exam:15624334|exam:15624381|exam:15624386|exam:15848452>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134044&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:00–12:00 | 13.04.2026–13.07.2026 | 05801.02.111 ( PSG A 402) |
-
-### US Cultural and Literary History: The 19th Century - Vorlesung
-
-- **Segment:** `exam:15777343` · **unitId:** `134246`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18235|exam:15624332|exam:15624333|exam:15624334|exam:15624420|exam:15777343>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134246&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.01.012 ( KH 1.012 Hörsaal Kollegienhaus) |
 
 ### 1999 Masterarbeit (M.A. The Americas/Las Américas 20212)
 
@@ -515,7 +382,10 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18235|exam:15624332|exam:15624333|exam:15624334|exam:15624447|exam:15624450>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94631&periodId=589>
 
+- **Veranstaltungsart:** Proseminar
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -745,6 +615,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137840&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **ECTS-Punkte:** 7.0
+- **Turnus:** Unregelmäßig
 
 ### Human Rights Law — Vorlesung
 

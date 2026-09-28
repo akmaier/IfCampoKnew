@@ -28,14 +28,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ## Veranstaltungen (62)
 
-### Einführende Sprachübungen Deutsch-Griechisch - Übung
+### Einführende Sprachübungen I Deutsch-Griechisch - Übung
 
 - **Segment:** `exam:12828495` · **unitId:** `115991`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17146|exam:12828455|exam:12828456|exam:12828457|exam:12828459|exam:12828489|exam:12828495>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115991&periodId=565>
 
 - **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 4.0
+- **ECTS-Punkte:** 3.0
 - **Turnus:** jedes 2. Semester
 
 #### Termine
@@ -44,14 +44,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Fr | 14:15–15:45 | 17.10.2025–06.02.2026 | 05901.02.058 ( 2.058 R 2.058) |
 
-### Einführende Sprachübungen Deutsch-Griechisch - Übung
+### Einführende Sprachübungen I Deutsch-Griechisch - Übung
 
 - **Segment:** `exam:12828617` · **unitId:** `115991`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17146|exam:12828577|exam:12828578|exam:12828579|exam:12828581|exam:12828611|exam:12828617>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115991&periodId=565>
 
 - **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 4.0
+- **ECTS-Punkte:** 3.0
 - **Turnus:** jedes 2. Semester
 
 #### Termine
@@ -60,7 +60,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Fr | 14:15–15:45 | 17.10.2025–06.02.2026 | 05901.02.058 ( 2.058 R 2.058) |
 
-### Einführende Sprachübungen Griechisch-Deutsch - Übung
+### Einführende Sprachübungen I Griechisch-Deutsch - Übung
 
 - **Segment:** `exam:13710130` · **unitId:** `131449`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17146|exam:12828455|exam:12828456|exam:12828457|exam:12828459|exam:12828489|exam:13710130>
@@ -77,7 +77,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mi | 08:15–09:45 | 15.10.2025–04.02.2026 | 00501.01.014 ( KH 1.014 Hörsaal Kollegienhaus) |
 
-### Einführende Sprachübungen Griechisch-Deutsch - Übung
+### Einführende Sprachübungen I Griechisch-Deutsch - Übung
 
 - **Segment:** `exam:13710131` · **unitId:** `131449`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17146|exam:12828577|exam:12828578|exam:12828579|exam:12828581|exam:12828611|exam:13710131>
@@ -164,7 +164,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | wöchentlich | Di | 12:00–14:00 | 14.10.2025–03.02.2026 | 06201.02.021 ( TSG HS A (02.021) Theologisches Seminargebäude, Kochstraße 6) |
 | wöchentlich | Do | 10:00–12:00 | 16.10.2025–05.02.2026 | 06201.U1.023 (TSG U1.023 Prüfungszimmer/Sitzungszimmer - intern!) |
 
-### Griechisches Hauptseminar - Hauptseminar
+### Griechisches Hauptseminar: Apollonios Rhodios - Hauptseminar
 
 - **Segment:** `exam:12828556` · **unitId:** `127443`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17146|exam:12828455|exam:12828456|exam:12828457|exam:12828459|exam:12828552|exam:12828556>
@@ -181,7 +181,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Di | 14:15–15:45 | 14.10.2025–03.02.2026 | 05902.00.014 ( 00.14 PSG) |
 
-### Griechisches Hauptseminar - Hauptseminar
+### Griechisches Hauptseminar: Apollonios Rhodios - Hauptseminar
 
 - **Segment:** `exam:12828683` · **unitId:** `127443`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17146|exam:12828577|exam:12828578|exam:12828579|exam:12828581|exam:12828679|exam:12828683>
@@ -198,7 +198,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Di | 14:15–15:45 | 14.10.2025–03.02.2026 | 05902.00.014 ( 00.14 PSG) |
 
-### Griechisches Proseminar - Proseminar
+### Griechisches Proseminar Poesie - Proseminar
 
 - **Segment:** `exam:13710475` · **unitId:** `131365`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17146|exam:12828455|exam:12828456|exam:12828457|exam:12828459|exam:12828467|exam:13710475>
@@ -215,7 +215,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mi | 12:30–14:00 | 15.10.2025–04.02.2026 | 05901.01.053 ( 01.053) |
 
-### Griechisches Proseminar - Proseminar
+### Griechisches Proseminar Poesie - Proseminar
 
 - **Segment:** `exam:13710351` · **unitId:** `131365`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17146|exam:12828455|exam:12828456|exam:12828457|exam:12828459|exam:12828522|exam:13710351>
@@ -232,7 +232,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mi | 12:30–14:00 | 15.10.2025–04.02.2026 | 05901.01.053 ( 01.053) |
 
-### Griechisches Proseminar - Proseminar
+### Griechisches Proseminar Poesie - Proseminar
 
 - **Segment:** `exam:13710476` · **unitId:** `131365`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17146|exam:12828577|exam:12828578|exam:12828579|exam:12828581|exam:12828589|exam:13710476>
@@ -249,7 +249,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mi | 12:30–14:00 | 15.10.2025–04.02.2026 | 05901.01.053 ( 01.053) |
 
-### Griechisches Proseminar - Proseminar
+### Griechisches Proseminar Poesie - Proseminar
 
 - **Segment:** `exam:13710352` · **unitId:** `131365`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17146|exam:12828577|exam:12828578|exam:12828579|exam:12828581|exam:12828644|exam:13710352>
@@ -266,7 +266,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mi | 12:30–14:00 | 15.10.2025–04.02.2026 | 05901.01.053 ( 01.053) |
 
-### Griechisches Proseminar - Proseminar
+### Griechisches Proseminar Poesie - Proseminar
 
 - **Segment:** `exam:13710484` · **unitId:** `131365`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17146|exam:12828577|exam:12828578|exam:12828579|exam:12828581|exam:12828667|exam:13710484>
@@ -334,14 +334,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mi | 14:15–15:45 | 15.10.2025–04.02.2026 | 05902.00.005 ( 00.5 PSG) |
 
-### Sprache I (Deutsch-Griechisch) - Übung
+### Sprache I a (Deutsch-Griechisch) - Übung
 
 - **Segment:** `exam:12828509` · **unitId:** `122928`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17146|exam:12828455|exam:12828456|exam:12828457|exam:12828459|exam:12828501|exam:12828509>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122928&periodId=565>
 
 - **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 4.0
+- **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** jedes 2. Semester
 
@@ -351,14 +351,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Do | 10:15–11:45 | 16.10.2025–05.02.2026 | 00501.01.021 ( KH 1.021 Hörsaal Kollegienhaus (SR)) |
 
-### Sprache I (Deutsch-Griechisch) - Übung
+### Sprache I a (Deutsch-Griechisch) - Übung
 
 - **Segment:** `exam:12828631` · **unitId:** `122928`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17146|exam:12828577|exam:12828578|exam:12828579|exam:12828581|exam:12828623|exam:12828631>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122928&periodId=565>
 
 - **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 4.0
+- **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** jedes 2. Semester
 
@@ -368,14 +368,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Do | 10:15–11:45 | 16.10.2025–05.02.2026 | 00501.01.021 ( KH 1.021 Hörsaal Kollegienhaus (SR)) |
 
-### Sprache I (Griechisch-Deutsch) - Übung
+### Sprache I a (Griechisch-Deutsch) - Übung
 
 - **Segment:** `exam:12828507` · **unitId:** `115993`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17146|exam:12828455|exam:12828456|exam:12828457|exam:12828459|exam:12828501|exam:12828507>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115993&periodId=565>
 
 - **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 6.0
+- **ECTS-Punkte:** 3.0
 - **Turnus:** jedes 2. Semester
 
 #### Termine
@@ -384,14 +384,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:15–15:45 | 13.10.2025–02.02.2026 | 05901.02.058 ( 2.058 R 2.058) |
 
-### Sprache I (Griechisch-Deutsch) - Übung
+### Sprache I a (Griechisch-Deutsch) - Übung
 
 - **Segment:** `exam:12828629` · **unitId:** `115993`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17146|exam:12828577|exam:12828578|exam:12828579|exam:12828581|exam:12828623|exam:12828629>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115993&periodId=565>
 
 - **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 6.0
+- **ECTS-Punkte:** 3.0
 - **Turnus:** jedes 2. Semester
 
 #### Termine
@@ -400,14 +400,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:15–15:45 | 13.10.2025–02.02.2026 | 05901.02.058 ( 2.058 R 2.058) |
 
-### Sprache II (Deutsch-Griechisch) - Übung
+### Sprache II a (Deutsch-Griechisch) - Übung
 
 - **Segment:** `exam:12828539` · **unitId:** `115998`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17146|exam:12828455|exam:12828456|exam:12828457|exam:12828459|exam:12828534|exam:12828539>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115998&periodId=565>
 
 - **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 4.0
+- **ECTS-Punkte:** 3.0
 - **Turnus:** jedes 2. Semester
 
 #### Termine
@@ -416,14 +416,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mi | 14:15–15:45 | 15.10.2025–04.02.2026 | — |
 
-### Sprache II (Deutsch-Griechisch) - Übung
+### Sprache II a (Deutsch-Griechisch) - Übung
 
 - **Segment:** `exam:12828661` · **unitId:** `115998`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17146|exam:12828577|exam:12828578|exam:12828579|exam:12828581|exam:12828656|exam:12828661>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115998&periodId=565>
 
 - **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 4.0
+- **ECTS-Punkte:** 3.0
 - **Turnus:** jedes 2. Semester
 
 #### Termine
@@ -432,14 +432,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mi | 14:15–15:45 | 15.10.2025–04.02.2026 | — |
 
-### Sprache II (Griechisch-Deutsch) - Übung
+### Sprache II a (Griechisch-Deutsch) - Übung
 
 - **Segment:** `exam:12828540` · **unitId:** `115996`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17146|exam:12828455|exam:12828456|exam:12828457|exam:12828459|exam:12828534|exam:12828540>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115996&periodId=565>
 
 - **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 6.0
+- **ECTS-Punkte:** 3.0
 - **Turnus:** jedes 2. Semester
 
 #### Termine
@@ -448,14 +448,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Di | 10:15–11:45 | 14.10.2025–03.02.2026 | 00501.01.021 ( KH 1.021 Hörsaal Kollegienhaus (SR)) |
 
-### Sprache II (Griechisch-Deutsch) - Übung
+### Sprache II a (Griechisch-Deutsch) - Übung
 
 - **Segment:** `exam:12828662` · **unitId:** `115996`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17146|exam:12828577|exam:12828578|exam:12828579|exam:12828581|exam:12828656|exam:12828662>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115996&periodId=565>
 
 - **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 6.0
+- **ECTS-Punkte:** 3.0
 - **Turnus:** jedes 2. Semester
 
 #### Termine
@@ -810,7 +810,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17146|exam:12828455|exam:12828456|exam:12828457|exam:12828459|exam:12828545|exam:12828546>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=42046&periodId=565>
 
-- **ECTS-Punkte:** 8.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -825,7 +824,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17146|exam:12828577|exam:12828578|exam:12828579|exam:12828581|exam:12828667|exam:12828669>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=42046&periodId=565>
 
-- **ECTS-Punkte:** 8.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -966,9 +964,60 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | wöchentlich | Di | 08:00–10:00 | 14.10.2025–03.02.2026 | 00501.02.012 ( KH 2.012 Hörsaal Kollegienhaus) |
 | wöchentlich | Do | 08:00–10:00 | 16.10.2025–05.02.2026 | 00501.02.012 ( KH 2.012 Hörsaal Kollegienhaus) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (7)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (14)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
+
+### Einführende Sprachübungen
+
+- **Segment:** `unit:120105` · **unitId:** `120105`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120105&periodId=565>
+
+- **Veranstaltungsart:** Übung
+
+### Einführende Sprachübungen
+
+- **Segment:** `unit:127510` · **unitId:** `127510`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127510&periodId=565>
+
+- **Veranstaltungsart:** Übung
+
+### Einführende Sprachübungen (Deutsch-Griechisch)
+
+- **Segment:** `unit:98241` · **unitId:** `98241`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98241&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **Turnus:** in jedem Semester
+
+### Einführende Sprachübungen (Griechisch-Deutsch)
+
+- **Segment:** `unit:102582` · **unitId:** `102582`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102582&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **Turnus:** nur im Wintersemester
+
+### Einführende Sprachübungen (griechisch-deutsch)
+
+- **Segment:** `unit:115967` · **unitId:** `115967`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115967&periodId=565>
+
+- **Veranstaltungsart:** Übung
+
+### Einführende Sprachübungen Deutsch-Griechisch
+
+- **Segment:** `unit:122925` · **unitId:** `122925`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122925&periodId=565>
+
+- **Veranstaltungsart:** Übung
+
+### Einführende Sprachübungen Griechisch-Deutsch
+
+- **Segment:** `unit:122923` · **unitId:** `122923`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122923&periodId=565>
+
+- **Veranstaltungsart:** Übung
 
 ### Klausur zum Nachweis Gesicherter Lateinkenntnisse
 
@@ -1031,13 +1080,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Blockveranstaltung | — | 09:00–14:15 | 18.02.2026–10.03.2026 | 05901.02.058 ( 2.058 R 2.058) |
 
-### Lektüreübung
+### Lektüreübung Poesie
 
 - **Segment:** `unit:127518` · **unitId:** `127518`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127518&periodId=565>
 
 - **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
+- **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Sommersemester
 
 ### Schriftliche Übersetzungsleistung Latein I für Anfänger (Zulassungsvoraussetzung zu Kurs Latein II für Fortgeschrittene)

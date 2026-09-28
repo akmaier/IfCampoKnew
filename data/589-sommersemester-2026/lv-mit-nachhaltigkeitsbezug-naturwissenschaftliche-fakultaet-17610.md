@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:17610"
 campo_path: "title:17593|title:17604|title:17610"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17604|title:17610"
-po_version_count: 0
-course_count: 39
+po_version_count: 3
+course_count: 36
 ---
 
 # LV mit Nachhaltigkeitsbezug, Naturwissenschaftliche Fakultät
@@ -14,17 +14,24 @@ course_count: 39
 
 _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_  
 
-## Veranstaltungen (39)
+## Prüfungsordnungs-Versionen (3)
 
 ### Orientierungsmodul: Interkindom communication via extracellular vesicles - Seminar und Übung
 
-- **Segment:** `exam:15900794` · **unitId:** `129112`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17604|title:17610|exam:13836199|exam:15900794>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=129112&periodId=589>
+- **Campo-Segment:** `exam:15900794`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17604|title:17610|exam:13836199|exam:15900794>
 
-- **Veranstaltungsart:** Seminar und Übung
-- **ECTS-Punkte:** 7.5
-- **Turnus:** nur im Sommersemester
+### Resources and global partnerships - Seminar
+
+- **Campo-Segment:** `exam:13836208`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17604|title:17610|exam:13836207|exam:13836208>
+
+### Resources and global partnerships - Seminar
+
+- **Campo-Segment:** `exam:13836219`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17604|title:17610|exam:13836218|exam:13836219>
+
+## Veranstaltungen (36)
 
 ### Pflanzenbestimmungen/Arzneipflanzenexkursionen - Praktikum
 
@@ -33,7 +40,15 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89296&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 08:30–12:30 | 16.04.2026–28.05.2026 | 13002.00.571 (Kursraum F 00.571 (Pharmazeutische Biologie)) |
+| wöchentlich | Do | 13:30–17:30 | 16.04.2026–28.05.2026 | 13002.00.571 (Kursraum F 00.571 (Pharmazeutische Biologie)) |
 
 ### Pflanzenbestimmungen/Arzneipflanzenexkursionen - Praktikum
 
@@ -42,7 +57,15 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89296&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 08:30–12:30 | 16.04.2026–28.05.2026 | 13002.00.571 (Kursraum F 00.571 (Pharmazeutische Biologie)) |
+| wöchentlich | Do | 13:30–17:30 | 16.04.2026–28.05.2026 | 13002.00.571 (Kursraum F 00.571 (Pharmazeutische Biologie)) |
 
 ### Praktikum Molecular Nano Science - Seminar - Seminar
 
@@ -59,40 +82,6 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | nach Vereinbarung | — | — | — | — |
-
-### Resources and global partnerships - Seminar
-
-- **Segment:** `exam:13836208` · **unitId:** `131568`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17604|title:17610|exam:13836207|exam:13836208>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131568&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 11:20–12:50 | 16.04.2026–16.07.2026 | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
-
-### Resources and global partnerships - Seminar
-
-- **Segment:** `exam:13836219` · **unitId:** `131568`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17604|title:17610|exam:13836218|exam:13836219>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131568&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 11:20–12:50 | 16.04.2026–16.07.2026 | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
 
 ### AC2 - Anorganische Chemie 2 - Chemie der Metalle - Vorlesung mit Übung
 
@@ -144,10 +133,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17604|title:17610|exam:13836200|exam:15906480>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90875&periodId=589>
 
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 15.0
 - **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
 
 ### HomCatal-SS - Small Molecule Activation - Vorlesung mit Übung
 
@@ -444,6 +430,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82374&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
 ### PHBWPF - Wahlpflichtfach Pharmazeutische Biologie - Praktikum
@@ -453,6 +440,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82374&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
 ### PHBWPF - Wahlpflichtfach Pharmazeutische Biologie - Praktikum
@@ -462,6 +450,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82374&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
 ### Sem-PG - Hauptseminar Physische Geographie - Hauptseminar

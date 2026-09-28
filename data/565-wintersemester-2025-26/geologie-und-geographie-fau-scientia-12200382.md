@@ -8,7 +8,7 @@ po_version_count: 0
 course_count: 7
 ---
 
-# - Geologie und Geografie (FAU Scientia)  -
+# - Geologie und Geographie (FAU Scientia)  -
 
 **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16766|exam:12200382>
 
@@ -139,3 +139,18 @@ _Section: FAU Scientia Gaststudium_
 |---|---|---|---|---|
 | wöchentlich | Mo | 16:30–18:00 | 13.10.2025–02.02.2026 | 05901.00.040 ( HS C Hörsaal C - 00.[Telefon entfernt].U1.060 ( Audimax Auditorium Maximum) |
 | Einzeltermin | Fr | 10:15–11:45 | 10.04.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
+
+## Lehramts-Prüfungsordnungen
+
+- [14. Januar 2013](../pruefungsordnungen/lehramt/lehramtsfaecher/1aes-la-geographie.md)
+- [30. September 2015](../pruefungsordnungen/lehramt/lehramtsfaecher/2aes-la-geographie.md)
+- [28. Oktober 2016](../pruefungsordnungen/lehramt/lehramtsfaecher/3aes-la-geographie.md)
+- [LA Geographie 20201030 ÄS.pdf](../pruefungsordnungen/lehramt/lehramtsfaecher/la-geographie-20201030-aes.md)
+- [LA Geographie FPO LA Geo 20090310 i.d.F. 20201030.pdf](../pruefungsordnungen/lehramt/lehramtsfaecher/la-geographie-fpo-la-geo-20090310-idf-20201030.md)
+- [LA Geographie FPO LA Geo 20090310 i.d.F. 20221011.pdf](../pruefungsordnungen/lehramt/lehramtsfaecher/la-geographie-fpo-la-geo-20090310-idf-20221011.md)
+- [LA Geographie FPO LA Geo 20221011 ÄS.pdf](../pruefungsordnungen/lehramt/lehramtsfaecher/la-geographie-fpo-la-geo-20221011-aes.md)
+- [LA Geographie FPO LA Geo 20230928.pdf](../pruefungsordnungen/lehramt/lehramtsfaecher/la-geographie-fpo-la-geo-20230928.md)
+- [pdf vom 10.03.2009 i.d.F. 14.01.2013](../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-geographie-januar2013.md)
+- [pdf vom 10.03.2009](../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-geographie-neu.md)
+- [pdf vom 10.03.2009 i.d.F. 30.09.2015](../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-geographie-okt2015.md)
+- [pdf vom 10.03.2009 i.d.F. 28.10.2016](../pruefungsordnungen/lehramt/lehramtsfaecher/lapo-geographie-okt2016.md)

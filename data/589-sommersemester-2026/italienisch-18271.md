@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:18271"
 campo_path: "title:17593|title:17595|title:18271"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18271"
-po_version_count: 0
-course_count: 101
+po_version_count: 2
+course_count: 99
 ---
 
 # Italienisch
@@ -14,7 +14,19 @@ course_count: 101
 
 _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theologie_  
 
-## Veranstaltungen (101)
+## Prüfungsordnungs-Versionen (2)
+
+### MS Sprachübergreifend: Sprache als Werkzeug? Interdisziplinäre Zugänge zwischen Politikdidaktik und Fremdsprachendidaktik - Mittelseminar
+
+- **Campo-Segment:** `exam:15693350`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18271|exam:15115387|exam:15115479|exam:15115489|exam:15693350>
+
+### MS Sprachübergreifend: Sprache als Werkzeug? Interdisziplinäre Zugänge zwischen Politikdidaktik und Fremdsprachendidaktik - Mittelseminar
+
+- **Campo-Segment:** `exam:15693339`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18271|exam:15115498|exam:15115593|exam:15115603|exam:15693339>
+
+## Veranstaltungen (99)
 
 ### Cultura e civiltà I - Seminar
 
@@ -288,40 +300,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mi | 10:15–11:45 | 22.04.2026–15.07.2026 | 05701.00.010 ( 00.010 Übungsraum 1) |
 
-### MS Sprachübergreifend: Sprache als Werkzeug? Interdisziplinäre Zugänge zwischen Politikdidaktik und Fremdsprachendidaktik - Mittelseminar
-
-- **Segment:** `exam:15693350` · **unitId:** `134070`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18271|exam:15115387|exam:15115479|exam:15115489|exam:15693350>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134070&periodId=589>
-
-- **Veranstaltungsart:** Mittelseminar
-- **ECTS-Punkte:** 4.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 16:00–18:00 | 16.04.2026–16.07.2026 | 56701.02.014 ( 02.014) |
-
-### MS Sprachübergreifend: Sprache als Werkzeug? Interdisziplinäre Zugänge zwischen Politikdidaktik und Fremdsprachendidaktik - Mittelseminar
-
-- **Segment:** `exam:15693339` · **unitId:** `134070`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18271|exam:15115498|exam:15115593|exam:15115603|exam:15693339>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134070&periodId=589>
-
-- **Veranstaltungsart:** Mittelseminar
-- **ECTS-Punkte:** 4.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 16:00–18:00 | 16.04.2026–16.07.2026 | 56701.02.014 ( 02.014) |
-
 ### Produzione scritta (preparazione all'esame di stato) - Übung
 
 - **Segment:** `exam:15115444` · **unitId:** `91293`
@@ -362,10 +340,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18271|exam:15115387|exam:15115479|exam:15115480|exam:15115488>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122505&periodId=589>
 
-- **Veranstaltungsart:** Proseminar
-- **ECTS-Punkte:** 2.0
 - **Unterrichtssprache:** Spanisch
-- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -379,10 +354,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18271|exam:15115498|exam:15115593|exam:15115594|exam:15115602>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122505&periodId=589>
 
-- **Veranstaltungsart:** Proseminar
-- **ECTS-Punkte:** 2.0
 - **Unterrichtssprache:** Spanisch
-- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -906,6 +878,8 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18271|exam:15115387|exam:15115391|exam:15115448|exam:15115456|exam:15115458>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23130&periodId=589>
 
+- **ECTS-Punkte:** 8.0
+
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
@@ -917,6 +891,8 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Segment:** `exam:15115572` · **unitId:** `23130`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18271|exam:15115498|exam:15115502|exam:15115562|exam:15115570|exam:15115572>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23130&periodId=589>
+
+- **ECTS-Punkte:** 8.0
 
 #### Termine
 
@@ -1595,6 +1571,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121173&periodId=589>
 
 - **ECTS-Punkte:** 2.5
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Comprensione e produzione orale I — Übung
 

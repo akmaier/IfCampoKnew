@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:18240"
 campo_path: "title:17593|title:17595|title:18240"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18240"
-po_version_count: 4
-course_count: 8
+po_version_count: 5
+course_count: 7
 ---
 
 # Medienpädagogik
@@ -14,7 +14,12 @@ course_count: 8
 
 _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theologie_  
 
-## Prüfungsordnungs-Versionen (4)
+## Prüfungsordnungs-Versionen (5)
+
+### Einführung: Erweiterung Medienpädagogik - Einführungskurs
+
+- **Campo-Segment:** `exam:17878651`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18240|exam:15505507|exam:17878651>
 
 ### 2000 Gesamtkonto
 
@@ -36,23 +41,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Campo-Segment:** `exam:15503983`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18240|exam:15503981|exam:15503982|exam:15503983>
 
-## Veranstaltungen (8)
-
-### Einführung: Erweiterung Medienpädagogik - Einführungskurs
-
-- **Segment:** `exam:17878651` · **unitId:** `133055`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18240|exam:15505507|exam:17878651>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133055&periodId=589>
-
-- **Veranstaltungsart:** Einführungskurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 15:45–17:15 | 13.04.2026 | — |
+## Veranstaltungen (7)
 
 ### Examensseminar Medienpädagogik - Examensseminar
 

@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "exam:13838755"
 campo_path: "title:17593|title:17599|exam:13838755"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13838755"
-po_version_count: 0
-course_count: 33
+po_version_count: 4
+course_count: 29
 ---
 
 # - Religionswissenschaften und Theologie (FAU Scientia)  -
@@ -14,7 +14,29 @@ course_count: 33
 
 _Section: FAU Scientia Gaststudium_  
 
-## Veranstaltungen (33)
+## Prüfungsordnungs-Versionen (4)
+
+### Die Kirche von Rom und der Orient - Seminar
+
+- **Campo-Segment:** `exam:15769157`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13838755|exam:15769157>
+
+### Journalistische Berufsethik im digitalen Wandel - Seminar
+
+- **Campo-Segment:** `exam:15873051`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13838755|exam:15873051>
+
+### Projekt: Arabischsprachige Webseite des Bayerischen Forschungsinstituts - Vorlesung mit Übung
+
+- **Campo-Segment:** `exam:17818924`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13838755|exam:17818924>
+
+### Rückert-Vorlesung - Vorlesung
+
+- **Campo-Segment:** `exam:15771820`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13838755|exam:15771820>
+
+## Veranstaltungen (29)
 
 ### BA 4.+5.+6. FS, Ein-Fach und Zwei-Fach IRS, Islamische Mystik, Vorlesung - Vorlesung
 
@@ -87,23 +109,6 @@ _Section: FAU Scientia Gaststudium_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 14:00–16:00 | 12.05.2026–14.07.2026 | 53101.03.113 |
-
-### Die Kirche von Rom und der Orient - Seminar
-
-- **Segment:** `exam:15769157` · **unitId:** `135041`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13838755|exam:15769157>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135041&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 05801.04.213 ( B 604) |
 
 ### Digitaler Populismus in Religion und Politik - Seminar
 
@@ -189,22 +194,6 @@ _Section: FAU Scientia Gaststudium_
 |---|---|---|---|---|
 | wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 56701.03.011 |
 
-### Journalistische Berufsethik im digitalen Wandel - Seminar
-
-- **Segment:** `exam:15873051` · **unitId:** `134693`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13838755|exam:15873051>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134693&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 16:00–18:00 | 14.04.2026–14.07.2026 | 06201.01.024 (TSG R. 1.024 Bibliothek Christliche Publizistik/Syst. Theologie/Ethik) |
-
 ### MA 2.FS Islamische Ethik im Kontext von Geschichte und Gegenwart, Vorlesung - Vorlesung
 
 - **Segment:** `exam:13838876` · **unitId:** `112367`
@@ -237,16 +226,6 @@ _Section: FAU Scientia Gaststudium_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | nach Vereinbarung | — | — | — | — |
-
-### Projekt: Arabischsprachige Webseite des Bayerischen Forschungsinstituts - Vorlesung mit Übung
-
-- **Segment:** `exam:17818924` · **unitId:** `139435`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13838755|exam:17818924>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139435&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
 
 ### PS Einführung in die Praktische Theologie - Proseminar
 
@@ -298,22 +277,6 @@ _Section: FAU Scientia Gaststudium_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 12:00–14:00 | 15.04.2026–15.07.2026 | 06201.02.020 ( TSG HS B (02.020) Theologisches Seminargebäude, Kochstraße 6) |
-
-### Rückert-Vorlesung - Vorlesung
-
-- **Segment:** `exam:15771820` · **unitId:** `134025`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13838755|exam:15771820>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134025&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 18:00–20:00 | 20.05.2026 | 00501.01.011 ( KH 1.011 Senatssaal im Kollegienhaus) |
 
 ### Seminar Neues Testament und Judentum - Seminar
 
@@ -505,7 +468,18 @@ _Section: FAU Scientia Gaststudium_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89242&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:00–13:00 | 20.07.2026–05.10.2026 | 06201.02.021 ( TSG HS A (02.021) Theologisches Seminargebäude, Kochstraße 6) |
+| wöchentlich | Di | 10:00–13:00 | 21.07.2026–06.10.2026 | 06201.02.021 ( TSG HS A (02.021) Theologisches Seminargebäude, Kochstraße 6) |
+| wöchentlich | Mi | 10:00–13:00 | 22.07.2026–07.10.2026 | 06201.02.021 ( TSG HS A (02.021) Theologisches Seminargebäude, Kochstraße 6) |
+| wöchentlich | Do | 10:00–13:00 | 23.07.2026–08.10.2026 | 06201.02.021 ( TSG HS A (02.021) Theologisches Seminargebäude, Kochstraße 6) 06201.00.025 (TSG R. 0.025 Bibliothek Altes Testament) |
+| wöchentlich | Fr | 10:00–13:00 | 24.07.2026–09.10.2026 | 06201.02.021 ( TSG HS A (02.021) Theologisches Seminargebäude, Kochstraße 6) 06201.00.025 (TSG R. 0.025 Bibliothek Altes Testament) |
 
 ### KG I: VL - VL: Kirchen- und Theologiegeschichte im Überblick I: das Christentum in der Antike - Vorlesung
 

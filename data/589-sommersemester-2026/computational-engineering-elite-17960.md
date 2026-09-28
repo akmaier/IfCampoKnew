@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:17960"
 campo_path: "title:17593|title:17601|title:17960"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960"
-po_version_count: 1
-course_count: 254
+po_version_count: 23
+course_count: 232
 fau_studiengang:
   - title: "Computational Engineering (B.Sc.)"
     rel_path: "studiengang/computational-engineering-b-sc.md"
@@ -389,14 +389,124 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (1)
+## Prüfungsordnungs-Versionen (23)
 
 ### 1808 Technical Application Field
 
 - **Campo-Segment:** `exam:14737579`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737138|exam:14737579>
 
-## Veranstaltungen (254)
+### 30471 Hardware-Software-Co-Design (Lecture with extended exercise) - Leistung
+
+- **Campo-Segment:** `exam:14737068`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14736872|exam:14737067|exam:14737068>
+
+### 37231 Scientific Visualization - Leistung
+
+- **Campo-Segment:** `exam:14737073`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14736872|exam:14737072|exam:14737073>
+
+### 37232 Scientific Visualization - Leistung
+
+- **Campo-Segment:** `exam:14737074`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14736872|exam:14737072|exam:14737074>
+
+### 43181 HPC Software Projekt (5 ECTS)
+
+- **Campo-Segment:** `exam:14737536`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737138|exam:14737458|exam:14737536>
+
+### 43735 Echtzeitfähige Rechnerarchitekturen
+
+- **Campo-Segment:** `exam:14737061`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14736872|exam:14737061>
+
+### 45231 Rheologie / Rheometrie
+
+- **Campo-Segment:** `exam:14737454`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737138|exam:14737371|exam:14737454>
+
+### 45471 Computational Fluid Dynamics 1
+
+- **Campo-Segment:** `exam:14737440`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737138|exam:14737371|exam:14737440>
+
+### 45471 Computational Fluid Dynamics 1
+
+- **Campo-Segment:** `exam:14737575`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737138|exam:14737539|exam:14737575>
+
+### 45473 Computational Fluid Dynamics 1 with laboratory course
+
+- **Campo-Segment:** `exam:14737448`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737138|exam:14737371|exam:14737448>
+
+### 45474 Computational Fluid Dynamics 2 with laboratory course
+
+- **Campo-Segment:** `exam:14737434`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737138|exam:14737371|exam:14737434>
+
+### 47575 Gait analysis and simulation+
+
+- **Campo-Segment:** `exam:14737524`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737138|exam:14737458|exam:14737524>
+
+### 65920 Advanced nonlinear optimization
+
+- **Campo-Segment:** `exam:14737113`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737077|exam:14737078|exam:14737113>
+
+### 65923 Optimization in industry and economy
+
+- **Campo-Segment:** `exam:14737111`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737077|exam:14737078|exam:14737111>
+
+### 65933 Discrete optimization II
+
+- **Campo-Segment:** `exam:14737119`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737077|exam:14737078|exam:14737119>
+
+### 65999 Numerics of Partial Differential Equations II
+
+- **Campo-Segment:** `exam:14737123`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737077|exam:14737078|exam:14737123>
+
+### 92573 Numerical Methods for Semiconductor Devices
+
+- **Campo-Segment:** `exam:17714423`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737138|exam:14737139|exam:17714423>
+
+### 92861 Computational Multibody Dynamics
+
+- **Campo-Segment:** `exam:14737325`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737138|exam:14737267|exam:14737325>
+
+### 93017 Resistive RAM and In-Memory Computing
+
+- **Campo-Segment:** `exam:14737054`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14736872|exam:14737054>
+
+### 93874 Advanced Deep Learning
+
+- **Campo-Segment:** `exam:15913934`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737138|exam:14737458|exam:15913934>
+
+### 95100 Seminar Advances in Deep Learning for Time Series (ADLTS)
+
+- **Campo-Segment:** `exam:14737696`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737631|exam:14737696>
+
+### 97278 Geometric Numerical Integration
+
+- **Campo-Segment:** `exam:14737321`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737138|exam:14737267|exam:14737321>
+
+### 97278 Geometric Numerical Integration
+
+- **Campo-Segment:** `exam:14737329`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737138|exam:14737267|exam:14737329>
+
+## Veranstaltungen (232)
 
 ### Applied Software Engineering Master-Seminar - Hauptseminar
 
@@ -414,10 +524,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737631|exam:14737693|exam:14737695>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126129&periodId=589>
 
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
 
 #### Termine
 
@@ -667,21 +774,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### 30471 Hardware-Software-Co-Design (Lecture with extended exercise) - Leistung
-
-- **Segment:** `exam:14737068` · **unitId:** `129711`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14736872|exam:14737067|exam:14737068>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=129711&periodId=589>
-
-- **ECTS-Punkte:** 7.5
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | 14:00–15:30 | — | 11906.01.030 (H21) |
-
 ### 30961 Iterative Lösungsverfahren für lineare und nichtlineare Gleichungssysteme - Leistung
 
 - **Segment:** `exam:14737689` · **unitId:** `107926`
@@ -887,36 +979,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | Mi | Mi | 13:00–14:30 | — | — |
 
-### 37231 Scientific Visualization - Leistung
-
-- **Segment:** `exam:14737073` · **unitId:** `133592`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14736872|exam:14737072|exam:14737073>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133592&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | 13:00–14:30 | — | — |
-
-### 37232 Scientific Visualization - Leistung
-
-- **Segment:** `exam:14737074` · **unitId:** `133593`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14736872|exam:14737072|exam:14737074>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133593&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
 ### 37403 Programmiertechniken für Supercomputer-VU - Leistung
 
 - **Segment:** `exam:14736909` · **unitId:** `28837`
@@ -1098,7 +1160,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | Di | 11:00–12:30 | — | 11901.00.226 (H8 Hörsaal 8) 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) 11901.00.236 (K1-119 Brose-Saal) 11906.01.040 (H20) 11907.01.030 (H19) 11907.01.040 (H18) |
+| Di | Di | 11:00–12:30 | — | 11901.00.226 (H8 Hörsaal 8) 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) 11906.01.040 (H20) 11907.01.030 (H19) 11907.01.040 (H18) |
 
 ### 42800 Advanced Topics in Deep Learning
 
@@ -1142,12 +1204,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737138|exam:14737221|exam:14737227>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66179&periodId=589>
 
-### 43181 HPC Software Projekt (5 ECTS)
-
-- **Segment:** `exam:14737536` · **unitId:** `133084`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737138|exam:14737458|exam:14737536>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133084&periodId=589>
-
 ### 43311 Practical parallel algorithms with MPI
 
 - **Segment:** `exam:14736937` · **unitId:** `107144`
@@ -1171,12 +1227,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14736889` · **unitId:** `34267`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14736872|exam:14736889>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=34267&periodId=589>
-
-### 43735 Echtzeitfähige Rechnerarchitekturen
-
-- **Segment:** `exam:14737061` · **unitId:** `128943`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14736872|exam:14737061>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128943&periodId=589>
 
 ### 44120 Pattern Analysis
 
@@ -1274,12 +1324,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737138|exam:14737371|exam:14737427>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120505&periodId=589>
 
-### 45231 Rheologie / Rheometrie
-
-- **Segment:** `exam:14737454` · **unitId:** `126377`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737138|exam:14737371|exam:14737454>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126377&periodId=589>
-
 ### 45291 Angewandte Thermofluiddynamik (Fahrzeugantriebe)
 
 - **Segment:** `exam:14737393` · **unitId:** `78280`
@@ -1292,35 +1336,11 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737138|exam:14737371|exam:14737431>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122423&periodId=589>
 
-### 45471 Computational Fluid Dynamics 1
-
-- **Segment:** `exam:14737440` · **unitId:** `126068`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737138|exam:14737371|exam:14737440>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126068&periodId=589>
-
-### 45471 Computational Fluid Dynamics 1
-
-- **Segment:** `exam:14737575` · **unitId:** `126068`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737138|exam:14737539|exam:14737575>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126068&periodId=589>
-
 ### 45472 Computational Fluid Dynamics 2
 
 - **Segment:** `exam:14737444` · **unitId:** `126077`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737138|exam:14737371|exam:14737444>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126077&periodId=589>
-
-### 45473 Computational Fluid Dynamics 1 with laboratory course
-
-- **Segment:** `exam:14737448` · **unitId:** `126081`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737138|exam:14737371|exam:14737448>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126081&periodId=589>
-
-### 45474 Computational Fluid Dynamics 2 with laboratory course
-
-- **Segment:** `exam:14737434` · **unitId:** `126060`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737138|exam:14737371|exam:14737434>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126060&periodId=589>
 
 ### 45485 Numerische Methoden der Thermofluiddynamik II mit Praktikum
 
@@ -1389,12 +1409,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Di | Di | 11:00–12:00 | — | 11901.00.222 (H7 Hörsaal 7) |
-
-### 47575 Gait analysis and simulation+
-
-- **Segment:** `exam:14737524` · **unitId:** `126115`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737138|exam:14737458|exam:14737524>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126115&periodId=589>
 
 ### 47577 Aerodynamics für ACES, CE, MB, MECH, WING
 
@@ -1633,35 +1647,11 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737077|exam:14737078|exam:14737115>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126119&periodId=589>
 
-### 65920 Advanced nonlinear optimization
-
-- **Segment:** `exam:14737113` · **unitId:** `126118`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737077|exam:14737078|exam:14737113>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126118&periodId=589>
-
-### 65923 Optimization in industry and economy
-
-- **Segment:** `exam:14737111` · **unitId:** `126117`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737077|exam:14737078|exam:14737111>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126117&periodId=589>
-
-### 65933 Discrete optimization II
-
-- **Segment:** `exam:14737119` · **unitId:** `126120`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737077|exam:14737078|exam:14737119>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126120&periodId=589>
-
 ### 65993 Numerics of Partial Differential Equations
 
 - **Segment:** `exam:14737100` · **unitId:** `69949`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737077|exam:14737078|exam:14737100>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69949&periodId=589>
-
-### 65999 Numerics of Partial Differential Equations II
-
-- **Segment:** `exam:14737123` · **unitId:** `130095`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737077|exam:14737078|exam:14737123>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130095&periodId=589>
 
 ### 668129 Machine Learning in Communications
 
@@ -1738,7 +1728,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | Mo | 14:00–15:30 | — | 11906.01.030 (H21) 11906.01.040 (H20) 11907.01.030 (H19) 11907.01.040 (H18) 12801.01.210 (H11) |
+| Mo | Mo | 14:00–15:30 | — | — |
 
 ### 716033 Fahrzeugkommunikation (Vorlesung mit Übung) - Leistung
 
@@ -1987,23 +1977,11 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737138|exam:14737337|exam:14737365>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118310&periodId=589>
 
-### 92573 Numerical Methods for Semiconductor Devices
-
-- **Segment:** `exam:17714423` · **unitId:** `138590`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737138|exam:14737139|exam:17714423>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138590&periodId=589>
-
 ### 92860 Computational multibody dynamics
 
 - **Segment:** `exam:14737316` · **unitId:** `121343`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737138|exam:14737267|exam:14737316>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121343&periodId=589>
-
-### 92861 Computational Multibody Dynamics
-
-- **Segment:** `exam:14737325` · **unitId:** `126916`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737138|exam:14737267|exam:14737325>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126916&periodId=589>
 
 ### 92861 Computational Multibody Dynamics
 
@@ -2016,12 +1994,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14737614` · **unitId:** `118396`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737138|exam:14737585|exam:14737614>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118396&periodId=589>
-
-### 93017 Resistive RAM and In-Memory Computing
-
-- **Segment:** `exam:14737054` · **unitId:** `126121`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14736872|exam:14737054>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126121&periodId=589>
 
 ### 93082 Advanced Topics in Numerical Linear Algebra
 
@@ -2083,12 +2055,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737138|exam:14737458|exam:14737507>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118394&periodId=589>
 
-### 93874 Advanced Deep Learning
-
-- **Segment:** `exam:15913934` · **unitId:** `137270`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737138|exam:14737458|exam:15913934>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137270&periodId=589>
-
 ### 93875 HPC meets AI: Efficient and scalable model-based and data-driven numerical methods (HPCmAI)
 
 - **Segment:** `exam:14737690` · **unitId:** `113399`
@@ -2127,12 +2093,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14737343` · **unitId:** `113246`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737138|exam:14737337|exam:14737343>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113246&periodId=589>
-
-### 95100 Seminar Advances in Deep Learning for Time Series (ADLTS)
-
-- **Segment:** `exam:14737696` · **unitId:** `133081`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737631|exam:14737696>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133081&periodId=589>
 
 ### 96030 Medizinelektronik
 
@@ -2229,18 +2189,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14737299` · **unitId:** `58142`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737138|exam:14737267|exam:14737299>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=58142&periodId=589>
-
-### 97278 Geometric Numerical Integration
-
-- **Segment:** `exam:14737321` · **unitId:** `126844`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737138|exam:14737267|exam:14737321>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126844&periodId=589>
-
-### 97278 Geometric Numerical Integration
-
-- **Segment:** `exam:14737329` · **unitId:** `126845`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17960|exam:14736868|exam:14736869|exam:14736871|exam:14737138|exam:14737267|exam:14737329>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126845&periodId=589>
 
 ### 97440 Numerische Methoden in der Mechanik
 
@@ -2933,7 +2881,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 12801.01.151 (01.151-128 Seminarraum) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (326)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (324)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -3260,7 +3208,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | Fr | — | — | — |
+| Fr | Fr | 08:00–09:00 | — | — |
 
 ### Autonomous Systems: From Research to Products — Vorlesung
 
@@ -3467,20 +3415,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
-
-### Computational Fluid Dynamics 1
-
-- **Segment:** `unit:126063` · **unitId:** `126063`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126063&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
 
 ### Computational Fluid Dynamics 2
 
@@ -4670,6 +4604,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Do | Do | 11:00–12:30 | — | 12801.01.220 (H12 Emmy-Noether-Hörsaal) |
 
+### Introduction to the Finite Element Method — Vorlesung
+
+- **Segment:** `unit:85985` · **unitId:** `85985`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85985&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 10601.00.044 (SR TM Seminarraum Technische Mechanik, Raum-Nr. 00.044 (Technische Fakultät, Campus Süd)) |
+
 ### Introduction to the Finite Element Method - Tutorial — Übung
 
 - **Segment:** `unit:85128` · **unitId:** `85128`
@@ -4960,7 +4909,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | 11:00–12:30 | — | 11906.01.040 (H20) 11907.01.030 (H19) 11907.01.040 (H18) |
+| Do | Do | 11:00–12:30 | — | — |
 
 ### Machine Learning: Advances — Hauptseminar
 
@@ -5025,7 +4974,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:00–17:15 | 28.04.2026–14.07.2026 | 11401.01.251 (1.84 Seminarraum WW5) |
+| Einzeltermin | Di | 12:00–14:00 | 19.05.2026 | — |
 
 ### Materials Informatics
 
@@ -5357,6 +5314,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
 
+### Multi-scale Simulation Methods II — Vorlesung mit Übung
+
+- **Segment:** `unit:128538` · **unitId:** `128538`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128538&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 23.04.2026–16.07.2026 | 11401.00.123 (0.68 Seminarraum Werkstoffwissenschaften) |
+
 ### Musikverarbeitung - Synthese — Vorlesung
 
 - **Segment:** `unit:82793` · **unitId:** `82793`
@@ -5488,7 +5460,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | Di | 14:00–15:30 | — | 11906.01.040 (H20) 12801.01.210 (H11) |
+| Di | Di | 14:00–15:30 | — | — |
 
 ### Numerical Optimization and Model Predictive Control — Vorlesung mit Übung
 
@@ -5797,14 +5769,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
 
-### Practicals Materials Simulation — Praktikum
-
-- **Segment:** `unit:129348` · **unitId:** `129348`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=129348&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **Turnus:** in jedem Semester
-
 ### Praktikum Mobilkommunikation
 
 - **Segment:** `unit:85117` · **unitId:** `85117`
@@ -6043,7 +6007,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | 14:00–15:30 | — | 11901.00.222 (H7 Hörsaal 7) 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) 12801.01.210 (H11) |
+| Do | Do | 14:00–15:30 | — | 11901.00.222 (H7 Hörsaal 7) 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
 
 ### Robotics Frameworks
 
@@ -6625,22 +6589,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Turbulence I — Vorlesung
-
-- **Segment:** `unit:135408` · **unitId:** `135408`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135408&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 11501.00.155 (H15 Hans-Wilhelm-Schüßler-Hörsaal) |
-
 ### Turbulence I - Exercise — Übung
 
 - **Segment:** `unit:82748` · **unitId:** `82748`
@@ -6736,21 +6684,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 11907.01.040 (H18) |
 
-### Tutorium zur Nichtlinearen Kontinuumsmechanik
-
-- **Segment:** `unit:134220` · **unitId:** `134220`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134220&periodId=589>
-
-- **Veranstaltungsart:** Tutorium
-- **Unterrichtssprache:** Deutsch oder Englisch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 12:15–13:45 | 17.04.2026–17.07.2026 | 10601.00.044 (SR TM Seminarraum Technische Mechanik, Raum-Nr. 00.044 (Technische Fakultät, Campus Süd)) |
-
 ### Tutorium zur Technischen Schwingungslehre
 
 - **Segment:** `unit:84997` · **unitId:** `84997`
@@ -6829,7 +6762,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86073&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 16:15–17:45 | 16.04.2026–16.07.2026 | 12104.01.411 (KS II Kurssaal II) |
 
 ### Übung zu Cyber-Physical Systems
 

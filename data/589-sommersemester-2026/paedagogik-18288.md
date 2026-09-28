@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:18288"
 campo_path: "title:17593|title:17595|title:18288"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288"
-po_version_count: 4
-course_count: 434
+po_version_count: 104
+course_count: 331
 fau_studiengang:
   - title: "Pädagogik (B.A.)"
     rel_path: "studiengang/paedagogik-b-a.md"
@@ -422,7 +422,407 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (4)
+## Prüfungsordnungs-Versionen (104)
+
+### Basisseminar Arbeit und Organisation - Seminar
+
+- **Campo-Segment:** `exam:15730446`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15247659|exam:15247660|exam:15247691|exam:15730446>
+
+### Basisseminar Arbeit und Organisation - Seminar
+
+- **Campo-Segment:** `exam:15730447`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252712|exam:15730447>
+
+### Basisseminar Bildung und Lebenslauf - Seminar
+
+- **Campo-Segment:** `exam:15736321`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252681|exam:15736321>
+
+### Basisseminar Vergleichende Gesellschaftsanalyse - Seminar
+
+- **Campo-Segment:** `exam:15738078`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15247659|exam:15247660|exam:15247740|exam:15738078>
+
+### Basisseminar Vergleichende Gesellschaftsanalyse - Seminar
+
+- **Campo-Segment:** `exam:15738014`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252624|exam:15738014>
+
+### Basisseminar Vergleichende Gesellschaftsanalyse - Seminar
+
+- **Campo-Segment:** `exam:15738079`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252648|exam:15738079>
+
+### Begleitseminar Abschlussarbeiten (Engel. N.) - Seminar
+
+- **Campo-Segment:** `exam:15252938`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15252927|exam:15252938>
+
+### Bildung und Beruf - Hauptseminar
+
+- **Campo-Segment:** `exam:15738360`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15247659|exam:15247660|exam:15247715|exam:15738360>
+
+### Bildung und Beruf - Hauptseminar
+
+- **Campo-Segment:** `exam:15738361`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252736|exam:15738361>
+
+### Biografieforschung - Hauptseminar
+
+- **Campo-Segment:** `exam:15738956`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15247659|exam:15247660|exam:15247715|exam:15738956>
+
+### Biografieforschung - Hauptseminar
+
+- **Campo-Segment:** `exam:15738957`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252736|exam:15738957>
+
+### Der Wandel von Liebe und Freundschaft im Zeitalter der KI - Seminar
+
+- **Campo-Segment:** `exam:15741054`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252681|exam:15741054>
+
+### Einführung in die Diskursanalyse - Seminar
+
+- **Campo-Segment:** `exam:15725217`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15225354|exam:15225358|exam:15225359|exam:15227045|exam:15227075|exam:15725217>
+
+### Einführung in die Diskursanalyse - Seminar
+
+- **Campo-Segment:** `exam:15725218`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15228637|exam:15228641|exam:15228642|exam:15230328|exam:15230370|exam:15725218>
+
+### Einführung in die Diskursanalyse - Seminar
+
+- **Campo-Segment:** `exam:15725220`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15238337|exam:15238394|exam:15725220>
+
+### Einführung in die Diskursanalyse - Seminar
+
+- **Campo-Segment:** `exam:15725221`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15244545|exam:15244546|exam:15247626|exam:15247649|exam:15725221>
+
+### Einführung in die Diskursanalyse - Seminar
+
+- **Campo-Segment:** `exam:15725222`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15251021|exam:15251044|exam:15725222>
+
+### Einführung in die Diskursanalyse - Seminar
+
+- **Campo-Segment:** `exam:15725223`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15254476|exam:15254499|exam:15725223>
+
+### Einführung in die qualitative Generationenforschung - Seminar
+
+- **Campo-Segment:** `exam:15742900`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252681|exam:15742900>
+
+### Entwicklung von Professionalität als Bildungsprozess - Praxisreflexion - Seminar
+
+- **Campo-Segment:** `exam:15724576`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15228637|exam:15228641|exam:15228642|exam:15230328|exam:15230364|exam:15724576>
+
+### Entwicklung von Professionalität als Bildungsprozess - Praxisreflexion - Seminar
+
+- **Campo-Segment:** `exam:15724577`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15238337|exam:15238388|exam:15724577>
+
+### Ethnographic Reading and Writing - Seminar
+
+- **Campo-Segment:** `exam:15743046`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15247659|exam:15247660|exam:15247740|exam:15743046>
+
+### Ethnographic Reading and Writing - Seminar
+
+- **Campo-Segment:** `exam:15743250`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252624|exam:15743250>
+
+### Ethnographic Reading and Writing - Seminar
+
+- **Campo-Segment:** `exam:15743047`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252648|exam:15743047>
+
+### Ethnographie - Seminar
+
+- **Campo-Segment:** `exam:15726130`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15252944|exam:15726130>
+
+### Felderkundung Orgapäd - Seminar
+
+- **Campo-Segment:** `exam:15726114`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15247659|exam:15247660|exam:15249316|exam:15726114>
+
+### Felderkundung Orgapäd - Seminar
+
+- **Campo-Segment:** `exam:15726116`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15247659|exam:15249474|exam:15249479|exam:15726116>
+
+### Felderkundung Orgapäd - Seminar
+
+- **Campo-Segment:** `exam:15726117`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252829|exam:15726117>
+
+### Felderkundung Orgapäd - Seminar
+
+- **Campo-Segment:** `exam:15726118`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15252910|exam:15252918|exam:15726118>
+
+### Gewerkschaften und industrielle Beziehungen in der Global Care Economy - Seminar
+
+- **Campo-Segment:** `exam:15744039`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15247659|exam:15247660|exam:15247691|exam:15744039>
+
+### Gewerkschaften und industrielle Beziehungen in der Global Care Economy - Seminar
+
+- **Campo-Segment:** `exam:15743855`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15247659|exam:15247660|exam:15247740|exam:15743855>
+
+### Gewerkschaften und industrielle Beziehungen in der Global Care Economy - Seminar
+
+- **Campo-Segment:** `exam:15743765`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252624|exam:15743765>
+
+### Gewerkschaften und industrielle Beziehungen in der Global Care Economy - Seminar
+
+- **Campo-Segment:** `exam:15743856`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252648|exam:15743856>
+
+### Gewerkschaften und industrielle Beziehungen in der Global Care Economy - Seminar
+
+- **Campo-Segment:** `exam:15744040`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252712|exam:15744040>
+
+### Grundlagen der Ethik (Philosophie 1) - Vorlesung mit Übung
+
+- **Campo-Segment:** `exam:15252613`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252604|exam:15252613>
+
+### Humanisierung von Arbeit - Seminar
+
+- **Campo-Segment:** `exam:15725625`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15231940|exam:15231944|exam:15231945|exam:15233633|exam:15233643|exam:15725625>
+
+### Humanisierung von Arbeit - Seminar
+
+- **Campo-Segment:** `exam:15725626`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15239936|exam:15239940|exam:15239941|exam:15239942|exam:15239952|exam:15725626>
+
+### Institutionen und Organisationen pädagogischen Handelns - Vorlesung
+
+- **Campo-Segment:** `exam:15725087`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15225354|exam:15225358|exam:15225359|exam:15227045|exam:15227064|exam:15725087>
+
+### Institutionen und Organisationen pädagogischen Handelns - Vorlesung
+
+- **Campo-Segment:** `exam:15725088`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15228637|exam:15228641|exam:15228642|exam:15230328|exam:15230349|exam:15725088>
+
+### Institutionen und Organisationen pädagogischen Handelns - Vorlesung
+
+- **Campo-Segment:** `exam:15725090`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15238337|exam:15238373|exam:15725090>
+
+### Institutionen und Organisationen pädagogischen Handelns - Vorlesung
+
+- **Campo-Segment:** `exam:15725091`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15244545|exam:15244546|exam:15247626|exam:15247642|exam:15725091>
+
+### Institutionen und Organisationen pädagogischen Handelns - Vorlesung
+
+- **Campo-Segment:** `exam:15725092`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15251021|exam:15251037|exam:15725092>
+
+### Institutionen und Organisationen pädagogischen Handelns - Vorlesung
+
+- **Campo-Segment:** `exam:15725093`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15254476|exam:15254492|exam:15725093>
+
+### Into the field! Theorie und Praxis organisationssoziologischer Feldanalyse - Seminar
+
+- **Campo-Segment:** `exam:15745926`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15247659|exam:15247660|exam:15247691|exam:15745926>
+
+### Into the field! Theorie und Praxis organisationssoziologischer Feldanalyse - Seminar
+
+- **Campo-Segment:** `exam:15745927`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252712|exam:15745927>
+
+### Kolloquium Masterarbeit - Seminar
+
+- **Campo-Segment:** `exam:15909386`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15244545|exam:15244546|exam:15244547|exam:15246092|exam:15909386>
+
+### Kolloquium Masterarbeit - Seminar
+
+- **Campo-Segment:** `exam:15909404`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15247659|exam:15249487|exam:15909404>
+
+### Kolloquium Masterarbeit - Seminar
+
+- **Campo-Segment:** `exam:15911291`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15252927|exam:15911291>
+
+### Kuratorische Praxis der zeitgenössischen Kunst - Seminar
+
+- **Campo-Segment:** `exam:15783773`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15783773>
+
+### Körpersoziologie: Forschungsthemen und -perspektiven - Hauptseminar
+
+- **Campo-Segment:** `exam:15746112`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15247659|exam:15247660|exam:15247715|exam:15746112>
+
+### Körpersoziologie: Forschungsthemen und -perspektiven - Hauptseminar
+
+- **Campo-Segment:** `exam:15746113`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252736|exam:15746113>
+
+### Leihmutterschaft als Thema qualitativer Sozialforschung - Hauptseminar
+
+- **Campo-Segment:** `exam:15746694`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15247659|exam:15247660|exam:15247715|exam:15746694>
+
+### Leihmutterschaft als Thema qualitativer Sozialforschung - Hauptseminar
+
+- **Campo-Segment:** `exam:15746695`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252736|exam:15746695>
+
+### Markets, Culture and Society in India - Seminar
+
+- **Campo-Segment:** `exam:15748867`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15247659|exam:15247660|exam:15247740|exam:15748867>
+
+### Markets, Culture and Society in India - Seminar
+
+- **Campo-Segment:** `exam:15748663`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252624|exam:15748663>
+
+### Markets, Culture and Society in India - Seminar
+
+- **Campo-Segment:** `exam:15748868`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252648|exam:15748868>
+
+### NN - Seminar
+
+- **Campo-Segment:** `exam:15724830`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15225354|exam:15225358|exam:15225359|exam:15227045|exam:15227059|exam:15724830>
+
+### NN - Seminar
+
+- **Campo-Segment:** `exam:15724831`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15228637|exam:15228641|exam:15228642|exam:15230328|exam:15230344|exam:15724831>
+
+### NN - Seminar
+
+- **Campo-Segment:** `exam:15724833`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15238337|exam:15238368|exam:15724833>
+
+### NN - Seminar
+
+- **Campo-Segment:** `exam:15724834`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15244545|exam:15244546|exam:15247626|exam:15247637|exam:15724834>
+
+### NN - Seminar
+
+- **Campo-Segment:** `exam:15724835`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15251021|exam:15251032|exam:15724835>
+
+### NN - Seminar
+
+- **Campo-Segment:** `exam:15724836`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15254476|exam:15254487|exam:15724836>
+
+### Philosophie der Medien (Philosophie 2) - Seminar
+
+- **Campo-Segment:** `exam:15252622`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252614|exam:15252622>
+
+### Philosophie des Menschen (Philosophie 2) - Seminar
+
+- **Campo-Segment:** `exam:15252623`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252614|exam:15252623>
+
+### Pädagogik und das Ende der Geschichte - Seminar
+
+- **Campo-Segment:** `exam:15725240`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15231940|exam:15231944|exam:15231945|exam:15233633|exam:15233643|exam:15725240>
+
+### Pädagogik und das Ende der Geschichte - Seminar
+
+- **Campo-Segment:** `exam:15725241`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15239936|exam:15239940|exam:15239941|exam:15239942|exam:15239952|exam:15725241>
+
+### Pädagogik, Gesellschaft, Organisation - Vorlesung
+
+- **Campo-Segment:** `exam:15724665`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15231940|exam:15231944|exam:15231945|exam:15233633|exam:15233643|exam:15724665>
+
+### Pädagogik, Gesellschaft, Organisation - Vorlesung
+
+- **Campo-Segment:** `exam:15724666`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15239936|exam:15239940|exam:15239941|exam:15239942|exam:15239952|exam:15724666>
+
+### R Einführung und Anwendungen in Arbeit und Organisation - Seminar
+
+- **Campo-Segment:** `exam:15750505`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15247659|exam:15247660|exam:15247691|exam:15750505>
+
+### R Einführung und Anwendungen in Arbeit und Organisation - Seminar
+
+- **Campo-Segment:** `exam:15750506`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252712|exam:15750506>
+
+### Situational Analysis - Seminar
+
+- **Campo-Segment:** `exam:15726195`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15252944|exam:15726195>
+
+### Tech Worker in arbeitssoziologischer Perspektive - Seminar
+
+- **Campo-Segment:** `exam:15752115`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15247659|exam:15247660|exam:15247691|exam:15752115>
+
+### Tech Worker in arbeitssoziologischer Perspektive - Seminar
+
+- **Campo-Segment:** `exam:15752116`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252712|exam:15752116>
+
+### Texte(n) im Museum - Seminar
+
+- **Campo-Segment:** `exam:15783774`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15783774>
+
+### Vergleichende Bildungspolitik Deutschland - Türkei - Seminar
+
+- **Campo-Segment:** `exam:15752893`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15247659|exam:15247660|exam:15247740|exam:15752893>
+
+### Vergleichende Bildungspolitik Deutschland - Türkei - Seminar
+
+- **Campo-Segment:** `exam:15753120`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252624|exam:15753120>
+
+### Vergleichende Bildungspolitik Deutschland - Türkei - Seminar
+
+- **Campo-Segment:** `exam:15752894`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252648|exam:15752894>
+
+### Vergleichende Bildungspolitik Deutschland - Türkei - Seminar
+
+- **Campo-Segment:** `exam:15753522`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252681|exam:15753522>
+
+### Zukünfte (der Organisation) von Arbeit: Konzepte, Methoden, Ideologien - Seminar
+
+- **Campo-Segment:** `exam:15754760`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15247659|exam:15247660|exam:15247691|exam:15754760>
+
+### Zukünfte (der Organisation) von Arbeit: Konzepte, Methoden, Ideologien - Seminar
+
+- **Campo-Segment:** `exam:15754761`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252712|exam:15754761>
 
 ### 1000 Grundlagen- und Orientierungsprüfung (GOP)
 
@@ -434,6 +834,106 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Campo-Segment:** `exam:15228638`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15228637|exam:15228638>
 
+### 1998 Bachelorarbeit (B.A.,2Fäch Pädagogik Erstfach 20152)
+
+- **Campo-Segment:** `exam:15233655`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15231940|exam:15231944|exam:15231945|exam:15233655>
+
+### 33020 Allgemeine Pädagogik I: Historische und systematische Aspekte der Pädagogik
+
+- **Campo-Segment:** `exam:17815368`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:17815368>
+
+### 33021 Allgemeine Pädagogik II: Qualitative Forschung
+
+- **Campo-Segment:** `exam:17815388`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:17815388>
+
+### 52031 Pädagogik, Gesellschaft, Organisation - Leistung
+
+- **Campo-Segment:** `exam:15233644`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15231940|exam:15231944|exam:15231945|exam:15233633|exam:15233643|exam:15233644>
+
+### 52031 Pädagogik, Gesellschaft, Organisation - Leistung
+
+- **Campo-Segment:** `exam:15239953`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15239936|exam:15239940|exam:15239941|exam:15239942|exam:15239952|exam:15239953>
+
+### 73802 Einführung in die Kunstgeschichte
+
+- **Campo-Segment:** `exam:15252600`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252600>
+
+### 75201 Erziehungswissenschaftliche Grundfragen
+
+- **Campo-Segment:** `exam:15233634`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15231940|exam:15231944|exam:15231945|exam:15233633|exam:15233634>
+
+### 75201 Erziehungswissenschaftliche Grundfragen
+
+- **Campo-Segment:** `exam:15239943`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15239936|exam:15239940|exam:15239941|exam:15239942|exam:15239943>
+
+### 75202 Historisch-anthropologische Grundlagen von Erziehung und Bildung
+
+- **Campo-Segment:** `exam:15233637`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15231940|exam:15231944|exam:15231945|exam:15233633|exam:15233637>
+
+### 75202 Historisch-anthropologische Grundlagen von Erziehung und Bildung
+
+- **Campo-Segment:** `exam:15239946`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15239936|exam:15239940|exam:15239941|exam:15239942|exam:15239946>
+
+### 75204 Bildung, Kultur, Medialität
+
+- **Campo-Segment:** `exam:15233645`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15231940|exam:15231944|exam:15231945|exam:15233633|exam:15233645>
+
+### 75204 Bildung, Kultur, Medialität
+
+- **Campo-Segment:** `exam:15239954`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15239936|exam:15239940|exam:15239941|exam:15239942|exam:15239954>
+
+### 75205 Pädagogische Professionalität und Professionalisierungskontexte
+
+- **Campo-Segment:** `exam:15233647`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15231940|exam:15231944|exam:15231945|exam:15233633|exam:15233647>
+
+### 75205 Pädagogische Professionalität und Professionalisierungskontexte
+
+- **Campo-Segment:** `exam:15239956`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15239936|exam:15239940|exam:15239941|exam:15239942|exam:15239956>
+
+### 75206 Forschungsmethoden der Erziehungswissenschaften und ihre Grundlagen
+
+- **Campo-Segment:** `exam:15233649`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15231940|exam:15231944|exam:15231945|exam:15233633|exam:15233649>
+
+### 75206 Forschungsmethoden der Erziehungswissenschaften und ihre Grundlagen
+
+- **Campo-Segment:** `exam:15239958`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15239936|exam:15239940|exam:15239941|exam:15239942|exam:15239958>
+
+### 75207 Felderkundung und Feldforschung
+
+- **Campo-Segment:** `exam:15233651`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15231940|exam:15231944|exam:15231945|exam:15233633|exam:15233651>
+
+### 75208 Erziehungswissenschaft und Pädagogik in kulturellen und gesellschaftlichen Transformationen
+
+- **Campo-Segment:** `exam:15233653`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15231940|exam:15231944|exam:15231945|exam:15233633|exam:15233653>
+
+### 75209 Felderkundung und Feldforschung
+
+- **Campo-Segment:** `exam:15239960`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15239936|exam:15239940|exam:15239941|exam:15239942|exam:15239960>
+
+### 75215 Praktikum (2FBA Pädagogik)
+
+- **Campo-Segment:** `exam:15231947`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15231940|exam:15231944|exam:15231945|exam:15231946|exam:15231947>
+
 ### 990 Module der Grundlagen- und Orientierungsprüfung Pädagogik
 
 - **Campo-Segment:** `exam:15231942`
@@ -444,7 +944,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Campo-Segment:** `exam:15239938`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15239936|exam:15239937|exam:15239938>
 
-## Veranstaltungen (434)
+## Veranstaltungen (331)
 
 ### BA 4./6. FS: Die Darstellungen von Musliminnen und muslimischen Anführerinnen (Modul: Islam, Menschenrechte und Gender II) auch für MA Medien-Ethik-Religion - Seminar
 
@@ -488,315 +988,21 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Fr | 12:00–14:00 | 12.06.2026 | 53101.03.113 |
 | Einzeltermin | Fr | 12:00–14:00 | 19.06.2026 | 53101.03.113 |
 
-### Basisseminar Arbeit und Organisation - Seminar
-
-- **Segment:** `exam:15730446` · **unitId:** `134191`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15247659|exam:15247660|exam:15247691|exam:15730446>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134191&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 05901.01.053 ( 01.053) |
-
-### Basisseminar Arbeit und Organisation - Seminar
-
-- **Segment:** `exam:15730447` · **unitId:** `134191`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252712|exam:15730447>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134191&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 05901.01.053 ( 01.053) |
-
-### Basisseminar Bildung und Lebenslauf - Seminar
-
-- **Segment:** `exam:15736321` · **unitId:** `134169`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252681|exam:15736321>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134169&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 08:15–09:45 | 16.04.2026–16.07.2026 | 05901.05.013 ( 05.013) |
-
-### Basisseminar Vergleichende Gesellschaftsanalyse - Seminar
-
-- **Segment:** `exam:15738078` · **unitId:** `134150`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15247659|exam:15247660|exam:15247740|exam:15738078>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134150&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 05901.05.052 ( 05.052) |
-
-### Basisseminar Vergleichende Gesellschaftsanalyse - Seminar
-
-- **Segment:** `exam:15738014` · **unitId:** `134150`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252624|exam:15738014>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134150&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 05901.05.052 ( 05.052) |
-
-### Basisseminar Vergleichende Gesellschaftsanalyse - Seminar
-
-- **Segment:** `exam:15738079` · **unitId:** `134150`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252648|exam:15738079>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134150&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 05901.05.052 ( 05.052) |
-
-### Begleitseminar Abschlussarbeiten (Engel. N.) - Seminar
-
-- **Segment:** `exam:15252938` · **unitId:** `128356`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15252927|exam:15252938>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128356&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Do | 14:00–17:00 | 07.05.2026 | 05701.00.003 (00.003) |
-| Einzeltermin | Do | 14:00–17:00 | 11.06.2026 | 05701.00.003 (00.003) |
-| Einzeltermin | Do | 09:00–12:00 | 23.07.2026 | 05701.00.003 (00.003) |
-
 ### Begleitseminar Abschlussarbeiten (Klepacki L.) - Seminar
 
 - **Segment:** `exam:15252933` · **unitId:** `119426`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15252927|exam:15252933>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119426&periodId=589>
 
+- **Veranstaltungsart:** Seminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | 14-täglich | Fr | 14:00–16:00 | 17.04.2026–10.07.2026 | — |
-
-### Bildung und Beruf - Hauptseminar
-
-- **Segment:** `exam:15738360` · **unitId:** `134171`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15247659|exam:15247660|exam:15247715|exam:15738360>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134171&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:00–11:30 | 14.04.2026–14.07.2026 | 05901.05.054 ( 05.054) |
-
-### Bildung und Beruf - Hauptseminar
-
-- **Segment:** `exam:15738361` · **unitId:** `134171`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252736|exam:15738361>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134171&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:00–11:30 | 14.04.2026–14.07.2026 | 05901.05.054 ( 05.054) |
-
-### Biografieforschung - Hauptseminar
-
-- **Segment:** `exam:15738956` · **unitId:** `134131`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15247659|exam:15247660|exam:15247715|exam:15738956>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134131&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 08:15–09:45 | 15.04.2026–15.07.2026 | 05901.05.052 ( 05.052) |
-
-### Biografieforschung - Hauptseminar
-
-- **Segment:** `exam:15738957` · **unitId:** `134131`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252736|exam:15738957>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134131&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 08:15–09:45 | 15.04.2026–15.07.2026 | 05901.05.052 ( 05.052) |
-
-### Der Wandel von Liebe und Freundschaft im Zeitalter der KI - Seminar
-
-- **Segment:** `exam:15741054` · **unitId:** `134170`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252681|exam:15741054>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134170&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 05901.05.013 ( 05.013) |
-
-### Einführung in die Diskursanalyse - Seminar
-
-- **Segment:** `exam:15725217` · **unitId:** `134620`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15225354|exam:15225358|exam:15225359|exam:15227045|exam:15227075|exam:15725217>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134620&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 14:00–16:00 | 17.04.2026–17.07.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
-| wöchentlich | Fr | 16:00–18:00 | 12.06.2026–26.06.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
-
-### Einführung in die Diskursanalyse - Seminar
-
-- **Segment:** `exam:15725218` · **unitId:** `134620`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15228637|exam:15228641|exam:15228642|exam:15230328|exam:15230370|exam:15725218>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134620&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 14:00–16:00 | 17.04.2026–17.07.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
-| wöchentlich | Fr | 16:00–18:00 | 12.06.2026–26.06.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
-
-### Einführung in die Diskursanalyse - Seminar
-
-- **Segment:** `exam:15725220` · **unitId:** `134620`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15238337|exam:15238394|exam:15725220>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134620&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 14:00–16:00 | 17.04.2026–17.07.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
-| wöchentlich | Fr | 16:00–18:00 | 12.06.2026–26.06.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
-
-### Einführung in die Diskursanalyse - Seminar
-
-- **Segment:** `exam:15725221` · **unitId:** `134620`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15244545|exam:15244546|exam:15247626|exam:15247649|exam:15725221>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134620&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 14:00–16:00 | 17.04.2026–17.07.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
-| wöchentlich | Fr | 16:00–18:00 | 12.06.2026–26.06.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
-
-### Einführung in die Diskursanalyse - Seminar
-
-- **Segment:** `exam:15725222` · **unitId:** `134620`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15251021|exam:15251044|exam:15725222>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134620&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 14:00–16:00 | 17.04.2026–17.07.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
-| wöchentlich | Fr | 16:00–18:00 | 12.06.2026–26.06.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
-
-### Einführung in die Diskursanalyse - Seminar
-
-- **Segment:** `exam:15725223` · **unitId:** `134620`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15254476|exam:15254499|exam:15725223>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134620&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 14:00–16:00 | 17.04.2026–17.07.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
-| wöchentlich | Fr | 16:00–18:00 | 12.06.2026–26.06.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
 
 ### Einführung in die Medienpädagogik - Seminar
 
@@ -862,54 +1068,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mi | 12:00–14:00 | 22.04.2026–15.07.2026 | 05701.00.021 ( 00.021 Seminarraum) |
 
-### Einführung in die qualitative Generationenforschung - Seminar
-
-- **Segment:** `exam:15742900` · **unitId:** `134106`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252681|exam:15742900>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134106&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 05901.05.052 ( 05.052) |
-
-### Entwicklung von Professionalität als Bildungsprozess - Praxisreflexion - Seminar
-
-- **Segment:** `exam:15724576` · **unitId:** `134613`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15228637|exam:15228641|exam:15228642|exam:15230328|exam:15230364|exam:15724576>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134613&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:00–14:00 | 20.04.2026–29.06.2026 | 05701.00.021 ( 00.021 Seminarraum) |
-
-### Entwicklung von Professionalität als Bildungsprozess - Praxisreflexion - Seminar
-
-- **Segment:** `exam:15724577` · **unitId:** `134613`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15238337|exam:15238388|exam:15724577>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134613&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:00–14:00 | 20.04.2026–29.06.2026 | 05701.00.021 ( 00.021 Seminarraum) |
-
 ### Ethnografie über Feldgrenzen hinweg: Welt, Web, Workplace - Seminar
 
 - **Segment:** `exam:15863162` · **unitId:** `135442`
@@ -972,107 +1130,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Mo | 10:00–14:00 | 08.06.2026 | 05701.00.021 ( 00.021 Seminarraum) |
 | Einzeltermin | Fr | 10:00–18:00 | 19.06.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
 | Einzeltermin | Mo | 10:00–14:00 | 06.07.2026 | 05701.00.021 ( 00.021 Seminarraum) |
-
-### Ethnographic Reading and Writing - Seminar
-
-- **Segment:** `exam:15743046` · **unitId:** `134126`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15247659|exam:15247660|exam:15247740|exam:15743046>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134126&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 04901.00.004 (Kleiner SR IGdM) |
-
-### Ethnographic Reading and Writing - Seminar
-
-- **Segment:** `exam:15743250` · **unitId:** `134126`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252624|exam:15743250>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134126&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 04901.00.004 (Kleiner SR IGdM) |
-
-### Ethnographic Reading and Writing - Seminar
-
-- **Segment:** `exam:15743047` · **unitId:** `134126`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252648|exam:15743047>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134126&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 04901.00.004 (Kleiner SR IGdM) |
-
-### Ethnographie - Seminar
-
-- **Segment:** `exam:15726130` · **unitId:** `134654`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15252944|exam:15726130>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134654&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| 14-täglich | Di | 12:00–14:00 | 14.04.2026–07.07.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
-| Einzeltermin | Fr | 10:00–18:00 | 24.07.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
-
-### Felderkundung Orgapäd - Seminar
-
-- **Segment:** `exam:15726114` · **unitId:** `134653`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15247659|exam:15247660|exam:15249316|exam:15726114>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134653&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
-### Felderkundung Orgapäd - Seminar
-
-- **Segment:** `exam:15726116` · **unitId:** `134653`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15247659|exam:15249474|exam:15249479|exam:15726116>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134653&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
-### Felderkundung Orgapäd - Seminar
-
-- **Segment:** `exam:15726117` · **unitId:** `134653`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252829|exam:15726117>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134653&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
-### Felderkundung Orgapäd - Seminar
-
-- **Segment:** `exam:15726118` · **unitId:** `134653`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15252910|exam:15252918|exam:15726118>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134653&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
 
 ### Felderkundung: Ästhetische und kulturelle Bildung - Seminar
 
@@ -1205,16 +1262,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134635&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| 14-täglich | Do | 14:00–16:00 | 16.04.2026–11.06.2026 | 05701.00.021 ( 00.021 Seminarraum) |
-| Einzeltermin | Sa | 10:00–18:00 | 30.05.2026 | 05701.00.021 ( 00.021 Seminarraum) |
-| 14-täglich | Do | 14:00–16:00 | 18.06.2026–16.07.2026 | 05701.00.021 ( 00.021 Seminarraum) |
 
 ### Geschlecht, Gewalt, Selbstorganisation - Seminar
 
@@ -1223,163 +1271,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134635&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| 14-täglich | Do | 14:00–16:00 | 16.04.2026–11.06.2026 | 05701.00.021 ( 00.021 Seminarraum) |
-| Einzeltermin | Sa | 10:00–18:00 | 30.05.2026 | 05701.00.021 ( 00.021 Seminarraum) |
-| 14-täglich | Do | 14:00–16:00 | 18.06.2026–16.07.2026 | 05701.00.021 ( 00.021 Seminarraum) |
-
-### Gewerkschaften und industrielle Beziehungen in der Global Care Economy - Seminar
-
-- **Segment:** `exam:15744039` · **unitId:** `134158`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15247659|exam:15247660|exam:15247691|exam:15744039>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134158&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 14.04.2026–14.07.2026 | 05901.05.013 ( 05.013) |
-
-### Gewerkschaften und industrielle Beziehungen in der Global Care Economy - Seminar
-
-- **Segment:** `exam:15743855` · **unitId:** `134158`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15247659|exam:15247660|exam:15247740|exam:15743855>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134158&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 14.04.2026–14.07.2026 | 05901.05.013 ( 05.013) |
-
-### Gewerkschaften und industrielle Beziehungen in der Global Care Economy - Seminar
-
-- **Segment:** `exam:15743765` · **unitId:** `134158`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252624|exam:15743765>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134158&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 14.04.2026–14.07.2026 | 05901.05.013 ( 05.013) |
-
-### Gewerkschaften und industrielle Beziehungen in der Global Care Economy - Seminar
-
-- **Segment:** `exam:15743856` · **unitId:** `134158`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252648|exam:15743856>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134158&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 14.04.2026–14.07.2026 | 05901.05.013 ( 05.013) |
-
-### Gewerkschaften und industrielle Beziehungen in der Global Care Economy - Seminar
-
-- **Segment:** `exam:15744040` · **unitId:** `134158`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252712|exam:15744040>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134158&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 14.04.2026–14.07.2026 | 05901.05.013 ( 05.013) |
-
-### Grundlagen der Ethik (Philosophie 1) - Vorlesung mit Übung
-
-- **Segment:** `exam:15252613` · **unitId:** `133850`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252604|exam:15252613>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133850&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:00–16:15 | 16.04.2026–16.07.2026 | 20301.01.042 (1.042 großer Hörsaal (230)) |
-
-### Grundlagen der Mediendidaktik - Seminar
-
-- **Segment:** `exam:15910950` · **unitId:** `93795`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15247659|exam:15247660|exam:15247680|exam:15910950>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93795&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 15:45–17:15 | 15.04.2026–15.07.2026 | — |
-
-### Grundlagen der Mediendidaktik - Seminar
-
-- **Segment:** `exam:15910932` · **unitId:** `93795`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252799|exam:15910932>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93795&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 15:45–17:15 | 15.04.2026–15.07.2026 | — |
-
-### Grundlagen der Mediendidaktik - Seminar
-
-- **Segment:** `exam:15910952` · **unitId:** `93795`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15252886|exam:15252887|exam:15910952>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93795&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 15:45–17:15 | 15.04.2026–15.07.2026 | — |
 
 ### How do you Meme? - Visuelles Material mit der Situationsanalyse erforschen - Seminar
 
@@ -1387,7 +1279,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15225354|exam:15225358|exam:15225359|exam:15227045|exam:15227081|exam:15724657>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134615&periodId=589>
 
+- **Veranstaltungsart:** Seminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -1402,7 +1296,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15228637|exam:15228641|exam:15228642|exam:15230328|exam:15230376|exam:15724658>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134615&periodId=589>
 
+- **Veranstaltungsart:** Seminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -1417,7 +1313,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15238337|exam:15238355|exam:15724660>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134615&periodId=589>
 
+- **Veranstaltungsart:** Seminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -1425,158 +1323,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:00–16:00 | 13.04.2026–06.07.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
 | Einzeltermin | Sa | 10:00–18:00 | 27.06.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
-
-### Humanisierung von Arbeit - Seminar
-
-- **Segment:** `exam:15725625` · **unitId:** `134636`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15231940|exam:15231944|exam:15231945|exam:15233633|exam:15233643|exam:15725625>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134636&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 05902.00.006 ( 00.6 PSG) |
-
-### Humanisierung von Arbeit - Seminar
-
-- **Segment:** `exam:15725626` · **unitId:** `134636`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15239936|exam:15239940|exam:15239941|exam:15239942|exam:15239952|exam:15725626>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134636&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 05902.00.006 ( 00.6 PSG) |
-
-### Institutionen und Organisationen pädagogischen Handelns - Vorlesung
-
-- **Segment:** `exam:15725087` · **unitId:** `134619`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15225354|exam:15225358|exam:15225359|exam:15227045|exam:15227064|exam:15725087>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134619&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 10:00–12:00 | 29.04.2026 | — |
-| Einzeltermin | Mi | 10:00–12:00 | 20.05.2026 | 05701.00.017 ( Kl. Hörsaal) |
-| Einzeltermin | Mi | 10:00–12:00 | 01.07.2026 | 05701.00.017 ( Kl. Hörsaal) |
-| Einzeltermin | Mi | 10:00–12:00 | 08.07.2026 | 05701.00.017 ( Kl. Hörsaal) |
-| Einzeltermin | Mi | 10:00–12:00 | 15.07.2026 | 05701.00.017 ( Kl. Hörsaal) |
-
-### Institutionen und Organisationen pädagogischen Handelns - Vorlesung
-
-- **Segment:** `exam:15725088` · **unitId:** `134619`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15228637|exam:15228641|exam:15228642|exam:15230328|exam:15230349|exam:15725088>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134619&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 10:00–12:00 | 29.04.2026 | — |
-| Einzeltermin | Mi | 10:00–12:00 | 20.05.2026 | 05701.00.017 ( Kl. Hörsaal) |
-| Einzeltermin | Mi | 10:00–12:00 | 01.07.2026 | 05701.00.017 ( Kl. Hörsaal) |
-| Einzeltermin | Mi | 10:00–12:00 | 08.07.2026 | 05701.00.017 ( Kl. Hörsaal) |
-| Einzeltermin | Mi | 10:00–12:00 | 15.07.2026 | 05701.00.017 ( Kl. Hörsaal) |
-
-### Institutionen und Organisationen pädagogischen Handelns - Vorlesung
-
-- **Segment:** `exam:15725090` · **unitId:** `134619`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15238337|exam:15238373|exam:15725090>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134619&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 10:00–12:00 | 29.04.2026 | — |
-| Einzeltermin | Mi | 10:00–12:00 | 20.05.2026 | 05701.00.017 ( Kl. Hörsaal) |
-| Einzeltermin | Mi | 10:00–12:00 | 01.07.2026 | 05701.00.017 ( Kl. Hörsaal) |
-| Einzeltermin | Mi | 10:00–12:00 | 08.07.2026 | 05701.00.017 ( Kl. Hörsaal) |
-| Einzeltermin | Mi | 10:00–12:00 | 15.07.2026 | 05701.00.017 ( Kl. Hörsaal) |
-
-### Institutionen und Organisationen pädagogischen Handelns - Vorlesung
-
-- **Segment:** `exam:15725091` · **unitId:** `134619`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15244545|exam:15244546|exam:15247626|exam:15247642|exam:15725091>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134619&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 10:00–12:00 | 29.04.2026 | — |
-| Einzeltermin | Mi | 10:00–12:00 | 20.05.2026 | 05701.00.017 ( Kl. Hörsaal) |
-| Einzeltermin | Mi | 10:00–12:00 | 01.07.2026 | 05701.00.017 ( Kl. Hörsaal) |
-| Einzeltermin | Mi | 10:00–12:00 | 08.07.2026 | 05701.00.017 ( Kl. Hörsaal) |
-| Einzeltermin | Mi | 10:00–12:00 | 15.07.2026 | 05701.00.017 ( Kl. Hörsaal) |
-
-### Institutionen und Organisationen pädagogischen Handelns - Vorlesung
-
-- **Segment:** `exam:15725092` · **unitId:** `134619`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15251021|exam:15251037|exam:15725092>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134619&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 10:00–12:00 | 29.04.2026 | — |
-| Einzeltermin | Mi | 10:00–12:00 | 20.05.2026 | 05701.00.017 ( Kl. Hörsaal) |
-| Einzeltermin | Mi | 10:00–12:00 | 01.07.2026 | 05701.00.017 ( Kl. Hörsaal) |
-| Einzeltermin | Mi | 10:00–12:00 | 08.07.2026 | 05701.00.017 ( Kl. Hörsaal) |
-| Einzeltermin | Mi | 10:00–12:00 | 15.07.2026 | 05701.00.017 ( Kl. Hörsaal) |
-
-### Institutionen und Organisationen pädagogischen Handelns - Vorlesung
-
-- **Segment:** `exam:15725093` · **unitId:** `134619`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15254476|exam:15254492|exam:15725093>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134619&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 10:00–12:00 | 29.04.2026 | — |
-| Einzeltermin | Mi | 10:00–12:00 | 20.05.2026 | 05701.00.017 ( Kl. Hörsaal) |
-| Einzeltermin | Mi | 10:00–12:00 | 01.07.2026 | 05701.00.017 ( Kl. Hörsaal) |
-| Einzeltermin | Mi | 10:00–12:00 | 08.07.2026 | 05701.00.017 ( Kl. Hörsaal) |
-| Einzeltermin | Mi | 10:00–12:00 | 15.07.2026 | 05701.00.017 ( Kl. Hörsaal) |
 
 ### International and UNESCO-related Perspectives of Aesthetic, Arts and Cultural Education - Seminar
 
@@ -1641,141 +1387,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
-
-### Into the field! Theorie und Praxis organisationssoziologischer Feldanalyse - Seminar
-
-- **Segment:** `exam:15745926` · **unitId:** `134125`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15247659|exam:15247660|exam:15247691|exam:15745926>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134125&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 08:15–09:45 | 15.04.2026–15.07.2026 | 05901.05.013 ( 05.013) |
-
-### Into the field! Theorie und Praxis organisationssoziologischer Feldanalyse - Seminar
-
-- **Segment:** `exam:15745927` · **unitId:** `134125`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252712|exam:15745927>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134125&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 08:15–09:45 | 15.04.2026–15.07.2026 | 05901.05.013 ( 05.013) |
-
-### Kolloquium Masterarbeit - Seminar
-
-- **Segment:** `exam:15909386` · **unitId:** `136990`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15244545|exam:15244546|exam:15244547|exam:15246092|exam:15909386>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136990&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:00–15:30 | 20.04.2026–27.04.2026 | 21202.03.4033 |
-| wöchentlich | Mi | 14:00–15:30 | 13.05.2026–20.05.2026 | 21202.03.4033 |
-| wöchentlich | Mo | 14:00–15:30 | 08.06.2026–22.06.2026 | 21202.03.4033 |
-
-### Kolloquium Masterarbeit - Seminar
-
-- **Segment:** `exam:15909404` · **unitId:** `136990`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15247659|exam:15249487|exam:15909404>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136990&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:00–15:30 | 20.04.2026–27.04.2026 | 21202.03.4033 |
-| wöchentlich | Mi | 14:00–15:30 | 13.05.2026–20.05.2026 | 21202.03.4033 |
-| wöchentlich | Mo | 14:00–15:30 | 08.06.2026–22.06.2026 | 21202.03.4033 |
-
-### Kolloquium Masterarbeit - Seminar
-
-- **Segment:** `exam:15911291` · **unitId:** `136990`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15252927|exam:15911291>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136990&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:00–15:30 | 20.04.2026–27.04.2026 | 21202.03.4033 |
-| wöchentlich | Mi | 14:00–15:30 | 13.05.2026–20.05.2026 | 21202.03.4033 |
-| wöchentlich | Mo | 14:00–15:30 | 08.06.2026–22.06.2026 | 21202.03.4033 |
-
-### Kuratorische Praxis der zeitgenössischen Kunst - Seminar
-
-- **Segment:** `exam:15783773` · **unitId:** `134373`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15783773>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134373&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 16:00–18:00 | 14.04.2026–14.07.2026 | — |
-
-### Körpersoziologie: Forschungsthemen und -perspektiven - Hauptseminar
-
-- **Segment:** `exam:15746112` · **unitId:** `134130`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15247659|exam:15247660|exam:15247715|exam:15746112>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134130&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 05901.05.052 ( 05.052) |
-
-### Körpersoziologie: Forschungsthemen und -perspektiven - Hauptseminar
-
-- **Segment:** `exam:15746113` · **unitId:** `134130`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252736|exam:15746113>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134130&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 05901.05.052 ( 05.052) |
 
 ### LA M2/ MA Päd M VI/ EE-BF M7d / ZS M4 : SEM "Handlungsfelder der internationalen Bildung: Zugänge und Erkundungen" (English-friendly) (Standort Nürnberg) - Seminar
 
@@ -1924,38 +1535,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Sa | 09:00–16:30 | 30.05.2026 | 20301.U1.030 (U1.030 Seminarraum (30)) |
 | 14-täglich | Mo | 17:30–19:00 | 08.06.2026–06.07.2026 | — |
 | Einzeltermin | Mo | 17:30–19:00 | 13.07.2026 | — |
-
-### Leihmutterschaft als Thema qualitativer Sozialforschung - Hauptseminar
-
-- **Segment:** `exam:15746694` · **unitId:** `134132`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15247659|exam:15247660|exam:15247715|exam:15746694>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134132&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 05901.05.012 ( 05.012) |
-
-### Leihmutterschaft als Thema qualitativer Sozialforschung - Hauptseminar
-
-- **Segment:** `exam:15746695` · **unitId:** `134132`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252736|exam:15746695>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134132&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 05901.05.012 ( 05.012) |
 
 ### MA EEBF M6/MA Pädagogik MII: Medien, Wissen, Bildung - Grundlagen der Medienpädagogik - Seminar
 
@@ -2177,164 +1756,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | — |
 
-### Markets, Culture and Society in India - Seminar
-
-- **Segment:** `exam:15748867` · **unitId:** `134159`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15247659|exam:15247660|exam:15247740|exam:15748867>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134159&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | 05901.05.013 ( 05.013) |
-
-### Markets, Culture and Society in India - Seminar
-
-- **Segment:** `exam:15748663` · **unitId:** `134159`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252624|exam:15748663>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134159&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | 05901.05.013 ( 05.013) |
-
-### Markets, Culture and Society in India - Seminar
-
-- **Segment:** `exam:15748868` · **unitId:** `134159`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252648|exam:15748868>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134159&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | 05901.05.013 ( 05.013) |
-
-### NN - Seminar
-
-- **Segment:** `exam:15724830` · **unitId:** `134617`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15225354|exam:15225358|exam:15225359|exam:15227045|exam:15227059|exam:15724830>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134617&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 08:00–10:00 | 15.04.2026–15.07.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
-
-### NN - Seminar
-
-- **Segment:** `exam:15724831` · **unitId:** `134617`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15228637|exam:15228641|exam:15228642|exam:15230328|exam:15230344|exam:15724831>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134617&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 08:00–10:00 | 15.04.2026–15.07.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
-
-### NN - Seminar
-
-- **Segment:** `exam:15724833` · **unitId:** `134617`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15238337|exam:15238368|exam:15724833>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134617&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 08:00–10:00 | 15.04.2026–15.07.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
-
-### NN - Seminar
-
-- **Segment:** `exam:15724834` · **unitId:** `134617`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15244545|exam:15244546|exam:15247626|exam:15247637|exam:15724834>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134617&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 08:00–10:00 | 15.04.2026–15.07.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
-
-### NN - Seminar
-
-- **Segment:** `exam:15724835` · **unitId:** `134617`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15251021|exam:15251032|exam:15724835>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134617&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 08:00–10:00 | 15.04.2026–15.07.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
-
-### NN - Seminar
-
-- **Segment:** `exam:15724836` · **unitId:** `134617`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15254476|exam:15254487|exam:15724836>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134617&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 08:00–10:00 | 15.04.2026–15.07.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
-
 ### Organisation und Optimierung - Seminar
 
 - **Segment:** `exam:15726379` · **unitId:** `134655`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252826|exam:15726379>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134655&periodId=589>
 
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 12:00–14:00 | 22.04.2026–15.07.2026 | 05902.00.004 ( 00.4 PSG) |
-| Einzeltermin | Sa | 10:00–16:00 | 04.07.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
+- **Veranstaltungsart:** Seminar
+- **Turnus:** in jedem Semester
 
 ### Organisation und Optimierung - Seminar
 
@@ -2342,99 +1771,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15252910|exam:15252915|exam:15726380>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134655&periodId=589>
 
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 12:00–14:00 | 22.04.2026–15.07.2026 | 05902.00.004 ( 00.4 PSG) |
-| Einzeltermin | Sa | 10:00–16:00 | 04.07.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
-
-### Philosophie der Medien (Philosophie 2) - Seminar
-
-- **Segment:** `exam:15252622` · **unitId:** `133852`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252614|exam:15252622>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133852&periodId=589>
-
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 11:30–13:00 | 13.04.2026–13.07.2026 | 20301.U1.038 (U1.038 Seminarraum (50)) |
-
-### Philosophie des Menschen (Philosophie 2) - Seminar
-
-- **Segment:** `exam:15252623` · **unitId:** `133854`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252614|exam:15252623>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133854&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 15:30–17:00 | 13.04.2026–13.07.2026 | 20301.U1.038 (U1.038 Seminarraum (50)) |
-
-### Pädagogik und das Ende der Geschichte - Seminar
-
-- **Segment:** `exam:15725240` · **unitId:** `134621`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15231940|exam:15231944|exam:15231945|exam:15233633|exam:15233643|exam:15725240>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134621&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–18.06.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
-| Blockveranstaltung+Sa | — | 10:00–18:00 | 30.05.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
-| Blockveranstaltung+Sa | — | 10:00–18:00 | 04.07.2026 | 05902.00.004 ( 00.4 PSG) |
-
-### Pädagogik und das Ende der Geschichte - Seminar
-
-- **Segment:** `exam:15725241` · **unitId:** `134621`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15239936|exam:15239940|exam:15239941|exam:15239942|exam:15239952|exam:15725241>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134621&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–18.06.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
-| Blockveranstaltung+Sa | — | 10:00–18:00 | 30.05.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
-| Blockveranstaltung+Sa | — | 10:00–18:00 | 04.07.2026 | 05902.00.004 ( 00.4 PSG) |
-
-### Pädagogik, Gesellschaft, Organisation - Vorlesung
-
-- **Segment:** `exam:15724665` · **unitId:** `134616`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15231940|exam:15231944|exam:15231945|exam:15233633|exam:15233643|exam:15724665>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134616&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** in jedem Semester
-
-### Pädagogik, Gesellschaft, Organisation - Vorlesung
-
-- **Segment:** `exam:15724666` · **unitId:** `134616`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15239936|exam:15239940|exam:15239941|exam:15239942|exam:15239952|exam:15724666>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134616&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
 - **Turnus:** in jedem Semester
 
 ### Pädagogische Handlungsformen - Seminar
@@ -2565,54 +1902,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 05901.05.012 ( 05.012) |
 
-### R Einführung und Anwendungen in Arbeit und Organisation - Seminar
-
-- **Segment:** `exam:15750505` · **unitId:** `134197`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15247659|exam:15247660|exam:15247691|exam:15750505>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134197&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 10:15–11:45 | 17.04.2026–17.07.2026 | 05901.05.013 ( 05.013) |
-
-### R Einführung und Anwendungen in Arbeit und Organisation - Seminar
-
-- **Segment:** `exam:15750506` · **unitId:** `134197`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252712|exam:15750506>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134197&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 10:15–11:45 | 17.04.2026–17.07.2026 | 05901.05.013 ( 05.013) |
-
-### Situational Analysis - Seminar
-
-- **Segment:** `exam:15726195` · **unitId:** `134656`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15252944|exam:15726195>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134656&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 15:00–17:00 | 29.04.2026–15.07.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
-
 ### Sozialwissenschaftliche Perspektiven auf Beratung  - Seminar
 
 - **Segment:** `exam:15252828` · **unitId:** `119424`
@@ -2644,61 +1933,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 05701.00.021 ( 00.021 Seminarraum) |
-
-### Tech Worker in arbeitssoziologischer Perspektive - Seminar
-
-- **Segment:** `exam:15752115` · **unitId:** `134755`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15247659|exam:15247660|exam:15247691|exam:15752115>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134755&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 10:15–11:45 | 15.04.2026 | — |
-| Einzeltermin | Sa | 09:15–18:00 | 09.05.2026 | — |
-| Einzeltermin | Do | 09:15–18:00 | 23.07.2026 | — |
-| Einzeltermin | Fr | 09:15–18:00 | 24.07.2026 | — |
-
-### Tech Worker in arbeitssoziologischer Perspektive - Seminar
-
-- **Segment:** `exam:15752116` · **unitId:** `134755`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252712|exam:15752116>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134755&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 10:15–11:45 | 15.04.2026 | — |
-| Einzeltermin | Sa | 09:15–18:00 | 09.05.2026 | — |
-| Einzeltermin | Do | 09:15–18:00 | 23.07.2026 | — |
-| Einzeltermin | Fr | 09:15–18:00 | 24.07.2026 | — |
-
-### Texte(n) im Museum - Seminar
-
-- **Segment:** `exam:15783774` · **unitId:** `134374`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15783774>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134374&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung | — | 10:00–17:00 | 22.09.2026–25.09.2026 | — |
 
 ### Theoriewerkstatt - Seminar
 
@@ -2862,108 +2096,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mi | 08:00–10:00 | 15.04.2026–15.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
 
-### Vergleichende Bildungspolitik Deutschland - Türkei - Seminar
-
-- **Segment:** `exam:15752893` · **unitId:** `134163`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15247659|exam:15247660|exam:15247740|exam:15752893>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134163&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 12:15–13:45 | 17.04.2026–17.07.2026 | 05901.05.052 ( 05.052) |
-
-### Vergleichende Bildungspolitik Deutschland - Türkei - Seminar
-
-- **Segment:** `exam:15753120` · **unitId:** `134163`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252624|exam:15753120>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134163&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 12:15–13:45 | 17.04.2026–17.07.2026 | 05901.05.052 ( 05.052) |
-
-### Vergleichende Bildungspolitik Deutschland - Türkei - Seminar
-
-- **Segment:** `exam:15752894` · **unitId:** `134163`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252648|exam:15752894>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134163&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 12:15–13:45 | 17.04.2026–17.07.2026 | 05901.05.052 ( 05.052) |
-
-### Vergleichende Bildungspolitik Deutschland - Türkei - Seminar
-
-- **Segment:** `exam:15753522` · **unitId:** `134163`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252681|exam:15753522>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134163&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 12:15–13:45 | 17.04.2026–17.07.2026 | 05901.05.052 ( 05.052) |
-
-### Zukünfte (der Organisation) von Arbeit: Konzepte, Methoden, Ideologien - Seminar
-
-- **Segment:** `exam:15754760` · **unitId:** `134747`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15247659|exam:15247660|exam:15247691|exam:15754760>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134747&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 17:00–19:00 | 17.04.2026 | — |
-| Einzeltermin | Fr | 10:00–18:00 | 15.05.2026 | — |
-| Einzeltermin | Fr | 10:00–18:00 | 19.06.2026 | — |
-| Einzeltermin | Fr | 10:00–18:00 | 17.07.2026 | — |
-
-### Zukünfte (der Organisation) von Arbeit: Konzepte, Methoden, Ideologien - Seminar
-
-- **Segment:** `exam:15754761` · **unitId:** `134747`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252712|exam:15754761>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134747&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 17:00–19:00 | 17.04.2026 | — |
-| Einzeltermin | Fr | 10:00–18:00 | 15.05.2026 | — |
-| Einzeltermin | Fr | 10:00–18:00 | 19.06.2026 | — |
-| Einzeltermin | Fr | 10:00–18:00 | 17.07.2026 | — |
-
 ### 17001 Studienleistung zu Freie Ergänzungsstudien - Leistung
 
 - **Segment:** `exam:15251063` · **unitId:** `77102`
@@ -2990,12 +2122,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:15230384` · **unitId:** `81110`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15228637|exam:15228641|exam:15228642|exam:15230384>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=81110&periodId=589>
-
-### 1998 Bachelorarbeit (B.A.,2Fäch Pädagogik Erstfach 20152)
-
-- **Segment:** `exam:15233655` · **unitId:** `130108`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15231940|exam:15231944|exam:15231945|exam:15233655>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130108&periodId=589>
 
 ### 1999 Bachelorarbeit (B.A.,2Fäch Buchwissenschaft Zweitfach 20192)
 
@@ -3524,18 +2650,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15252846|exam:15252847>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=77114&periodId=589>
 
-### 33020 Allgemeine Pädagogik I: Historische und systematische Aspekte der Pädagogik
-
-- **Segment:** `exam:17815368` · **unitId:** `139365`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:17815368>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139365&periodId=589>
-
-### 33021 Allgemeine Pädagogik II: Qualitative Forschung
-
-- **Segment:** `exam:17815388` · **unitId:** `139367`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:17815388>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139367&periodId=589>
-
 ### 33030 Allgemeine Pädagogik II
 
 - **Segment:** `exam:15246100` · **unitId:** `29372`
@@ -4054,36 +3168,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mi | Mi | — | — | — |
-
-### 52031 Pädagogik, Gesellschaft, Organisation - Leistung
-
-- **Segment:** `exam:15233644` · **unitId:** `130115`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15231940|exam:15231944|exam:15231945|exam:15233633|exam:15233643|exam:15233644>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130115&periodId=589>
-
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | — | 07.06.2026 23:59:59 | — |
-
-### 52031 Pädagogik, Gesellschaft, Organisation - Leistung
-
-- **Segment:** `exam:15239953` · **unitId:** `130115`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15239936|exam:15239940|exam:15239941|exam:15239942|exam:15239952|exam:15239953>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130115&periodId=589>
-
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | — | 07.06.2026 23:59:59 | — |
 
 ### 52122 Einführung in die Pädagogik - Leistung
 
@@ -4668,12 +3752,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | Di | Di | 11:00–12:00 | — | 21101.01.113 (LG H2 Hörsaal (155 Plätze)) |
 
-### 73802 Einführung in die Kunstgeschichte
-
-- **Segment:** `exam:15252600` · **unitId:** `128371`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15252600>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128371&periodId=589>
-
 ### 73872 Schlüsselqualifikationen Kunstgeschichte I
 
 - **Segment:** `exam:15225494` · **unitId:** `71467`
@@ -4926,95 +4004,11 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15231940|exam:15231944|exam:15231945|exam:15231946|exam:15231991|exam:15231992>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113117&periodId=589>
 
-### 75201 Erziehungswissenschaftliche Grundfragen
-
-- **Segment:** `exam:15233634` · **unitId:** `130110`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15231940|exam:15231944|exam:15231945|exam:15233633|exam:15233634>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130110&periodId=589>
-
-### 75201 Erziehungswissenschaftliche Grundfragen
-
-- **Segment:** `exam:15239943` · **unitId:** `130110`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15239936|exam:15239940|exam:15239941|exam:15239942|exam:15239943>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130110&periodId=589>
-
-### 75202 Historisch-anthropologische Grundlagen von Erziehung und Bildung
-
-- **Segment:** `exam:15233637` · **unitId:** `130112`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15231940|exam:15231944|exam:15231945|exam:15233633|exam:15233637>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130112&periodId=589>
-
-### 75202 Historisch-anthropologische Grundlagen von Erziehung und Bildung
-
-- **Segment:** `exam:15239946` · **unitId:** `130112`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15239936|exam:15239940|exam:15239941|exam:15239942|exam:15239946>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130112&periodId=589>
-
-### 75204 Bildung, Kultur, Medialität
-
-- **Segment:** `exam:15233645` · **unitId:** `130116`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15231940|exam:15231944|exam:15231945|exam:15233633|exam:15233645>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130116&periodId=589>
-
-### 75204 Bildung, Kultur, Medialität
-
-- **Segment:** `exam:15239954` · **unitId:** `130116`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15239936|exam:15239940|exam:15239941|exam:15239942|exam:15239954>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130116&periodId=589>
-
-### 75205 Pädagogische Professionalität und Professionalisierungskontexte
-
-- **Segment:** `exam:15233647` · **unitId:** `130118`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15231940|exam:15231944|exam:15231945|exam:15233633|exam:15233647>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130118&periodId=589>
-
-### 75205 Pädagogische Professionalität und Professionalisierungskontexte
-
-- **Segment:** `exam:15239956` · **unitId:** `130118`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15239936|exam:15239940|exam:15239941|exam:15239942|exam:15239956>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130118&periodId=589>
-
-### 75206 Forschungsmethoden der Erziehungswissenschaften und ihre Grundlagen
-
-- **Segment:** `exam:15233649` · **unitId:** `130120`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15231940|exam:15231944|exam:15231945|exam:15233633|exam:15233649>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130120&periodId=589>
-
-### 75206 Forschungsmethoden der Erziehungswissenschaften und ihre Grundlagen
-
-- **Segment:** `exam:15239958` · **unitId:** `130120`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15239936|exam:15239940|exam:15239941|exam:15239942|exam:15239958>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130120&periodId=589>
-
-### 75207 Felderkundung und Feldforschung
-
-- **Segment:** `exam:15233651` · **unitId:** `130122`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15231940|exam:15231944|exam:15231945|exam:15233633|exam:15233651>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130122&periodId=589>
-
-### 75208 Erziehungswissenschaft und Pädagogik in kulturellen und gesellschaftlichen Transformationen
-
-- **Segment:** `exam:15233653` · **unitId:** `130124`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15231940|exam:15231944|exam:15231945|exam:15233633|exam:15233653>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130124&periodId=589>
-
-### 75209 Felderkundung und Feldforschung
-
-- **Segment:** `exam:15239960` · **unitId:** `130169`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15239936|exam:15239940|exam:15239941|exam:15239942|exam:15239960>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130169&periodId=589>
-
 ### 75211 Einführung in die Pädagogik
 
 - **Segment:** `exam:15227046` · **unitId:** `35810`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15225354|exam:15225358|exam:15225359|exam:15227045|exam:15227046>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=35810&periodId=589>
-
-### 75215 Praktikum (2FBA Pädagogik)
-
-- **Segment:** `exam:15231947` · **unitId:** `130126`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15231940|exam:15231944|exam:15231945|exam:15231946|exam:15231947>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130126&periodId=589>
 
 ### 75221 Wahlpflichtbereich I: Pädagogische Grundlagen
 
@@ -5242,13 +4236,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:15249335` · **unitId:** `59767`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15247657|exam:15247658|exam:15247659|exam:15247660|exam:15249331|exam:15249335>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59767&periodId=589>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59767&periodId=589>
 
 ### 78388 Grundlagenmodul
 
 - **Segment:** `exam:15251083` · **unitId:** `59767`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18288|exam:15251052|exam:15251053|exam:15251054|exam:15251055|exam:15251079|exam:15251083>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59767&periodId=589>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59767&periodId=589>
 
 ### 83861 Einführung in die Psychologie (Nebenfach) - Leistung
 
@@ -5374,26 +4368,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | wöchentlich | Mo | 09:45–11:15 | 13.04.2026–11.05.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
 | 14-täglich | Sa | 09:00–16:00 | 25.04.2026–09.05.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (320)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (306)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
-
-### "Die Perle der Backsteingotik": Münster Bad Doberan und seine Ausstattung — Aufbauseminar
-
-- **Segment:** `unit:133873` · **unitId:** `133873`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133873&periodId=589>
-
-- **Veranstaltungsart:** Aufbauseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 16:00–18:00 | 20.04.2026–13.07.2026 | 00901.00.027 (Orangerie - Mediathek/Seminarraum) |
-| Blockveranstaltung | — | 10:00–17:00 | 27.05.2026–28.05.2026 | — |
 
 ### "Fare stupire il mondo" - Veit Stoß und die Skulptur der Dürerzeit in Nürnberg — Vorlesung
 
@@ -5510,16 +4487,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126882&periodId=589>
 
 - **Veranstaltungsart:** Mittelseminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–15:00 | 10.04.2026 | — |
-| Einzeltermin | Sa | 09:00–15:00 | 09.05.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
-| Einzeltermin | Sa | 09:00–14:00 | 20.06.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
 
 ### Ackerlauer / Blockseminar: Schriftspracherwerb unter den Aspekten Heterogenität und Mehrsprachigkeit (Kurs A) — Mittelseminar
 
@@ -5583,6 +4551,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 
+### Aktuelle erziehungswissenschaftliche Probleme und Fragestelungen (Angebot am Standort Erlangen) — Vorlesung
+
+- **Segment:** `unit:134651` · **unitId:** `134651`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134651&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:00–16:00 | 16.04.2026–09.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
+
 ### Aktuelle Themen und Fragestellungen der Erziehungswissenschaft (Angebot am Standort Erlangen) — Vorlesung
 
 - **Segment:** `unit:111763` · **unitId:** `111763`
@@ -5605,6 +4588,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **Turnus:** nur im Wintersemester
+
+### Allgemeine Psychologie I (Nebenfach)
+
+- **Segment:** `unit:49006` · **unitId:** `49006`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49006&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | 09:00–10:00 | — | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
 ### Allgemeine Psychologie II (Nebenfach)
 
@@ -5644,22 +4641,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124031&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-
-### Amerikanismus und Neues Bauen in der Weimarer Republik — Aufbauseminar
-
-- **Segment:** `unit:133880` · **unitId:** `133880`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133880&periodId=589>
-
-- **Veranstaltungsart:** Aufbauseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:00–16:00 | 13.04.2026–06.07.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
 
 ### Anthropologie und ästhetische Bildung — Seminar
 
@@ -5720,15 +4701,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115470&periodId=589>
 
 - **Veranstaltungsart:** Übung
-
-### Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten)
-
-- **Segment:** `unit:131467` · **unitId:** `131467`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131467&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 4.0
-- **Turnus:** in jedem Semester
 
 ### Aufbaumodul Fachdidaktik Deutsch-Hauptseminar (nur GS, alle FPO-Varianten): Sprache, Literatur, Medien
 
@@ -5822,6 +4794,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Einzeltermin | Sa | 08:00–14:00 | 30.05.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
 
+### Aufbaumodul Fachdidaktik Deutsch-Übung (nur GS) (Albrecht)
+
+- **Segment:** `unit:103715` · **unitId:** `103715`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103715&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:00–17:00 | 03.07.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
+| Einzeltermin | Sa | 09:30–15:30 | 04.07.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
+
 ### BA 5. FS: [Modul Arabische Sprachwissenschaft und Dialektologie] Arabischer Dialekt - Strukturkurs und Konversation — Übung
 
 - **Segment:** `unit:88410` · **unitId:** `88410`
@@ -5887,22 +4875,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Sommersemester
-
-### BA-6 Modernes Chinesisch 6 — Seminar und Übung
-
-- **Segment:** `unit:133922` · **unitId:** `133922`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133922&periodId=589>
-
-- **Veranstaltungsart:** Seminar und Übung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:15–13:45 | 13.04.2026–13.07.2026 | 08901.00.111 ( 00.111 Seminarraum 1) |
 
 ### Banh  / Offener Unterricht - Schlüssel zur Selbsttätigkeit? — Seminar
 
@@ -6003,19 +4975,19 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 ### Basisseminar: Vergleichende Gesellschaftsanalyse
 
-- **Segment:** `unit:86540` · **unitId:** `86540`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86540&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
-### Basisseminar: Vergleichende Gesellschaftsanalyse
-
 - **Segment:** `unit:96036` · **unitId:** `96036`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96036&periodId=589>
 
 - **Veranstaltungsart:** Seminar
 - **Turnus:** nur im Wintersemester
+
+### Basisseminar: Vergleichende Gesellschaftsanalyse/Soziale Ungleichheit und Gerechtigkeit
+
+- **Segment:** `unit:86540` · **unitId:** `86540`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86540&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Turnus:** in jedem Semester
 
 ### Bauen am Bauhaus — Aufbauseminar
 
@@ -6180,20 +5152,11 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** in jedem Semester
 
-### Bildungs- und sozialwissenschaftliche Perspektiven auf Lehrer*innenprofessionalität (Angebot am Standort Erlangen) — Seminar
-
-- **Segment:** `unit:134644` · **unitId:** `134644`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134644&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 05701.00.021 ( 00.021 Seminarraum) |
+| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
 ### Bildungs- und sozialwissenschaftliche Perspektiven auf Lehrer*innenprofessionalität (Angebot am Standort Erlangen) — Seminar
 
@@ -6257,12 +5220,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Mittelseminar
 - **Turnus:** in jedem Semester
 
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 08:00–09:30 | 14.04.2026–14.07.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
-
 ### Büttner / Digitale Medien für den problemorientierten Sachunterricht konzipieren - aber wie? Schwerpunkt regenerative Energie (Kurs A) — Mittelseminar
 
 - **Segment:** `unit:118733` · **unitId:** `118733`
@@ -6277,14 +5234,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98094&periodId=589>
 
 - **Veranstaltungsart:** Mittelseminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 08:00–09:30 | 16.04.2026–16.07.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
 
 ### Büttner / Forschen und Experimentieren in den verschiedenen Perspektiven des Sachunterrichts (Kurs B) — Seminar
 
@@ -6307,7 +5257,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96841&periodId=589>
 
 - **Veranstaltungsart:** Mittelseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:00–15:30 | 14.04.2026–14.07.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
 
 ### Comprensione e produzione orale 2 — Übung
 
@@ -6331,6 +5288,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121173&periodId=589>
 
 - **ECTS-Punkte:** 2.5
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Comprensione e produzione scritta — Übung
 
@@ -6503,22 +5466,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
-
-### Dürer als Universalkünstler — Ober- und Hauptseminar
-
-- **Segment:** `unit:133912` · **unitId:** `133912`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133912&periodId=589>
-
-- **Veranstaltungsart:** Ober- und Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | — |
 
 ### Dürer als Universalkünstler - Teil II — Ober- und Hauptseminar
 
@@ -6842,22 +5789,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | 14-täglich | Do | 12:15–13:45 | 16.04.2026–09.07.2026 | 05701.00.010 ( 00.010 Übungsraum 1) |
 
-### Frauen als Auftraggeberinnen in der Frühen Neuzeit: Malerei - Skulptur - Architektur — Seminar
-
-- **Segment:** `unit:133896` · **unitId:** `133896`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133896&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 12:00–14:00 | 17.04.2026–17.07.2026 | 00501.01.013 ( KH 1.013 Hörsaal Kollegienhaus) 00901.00.027 (Orangerie - Mediathek/Seminarraum) |
-
 ### Frauen in der Kunst — Seminar
 
 - **Segment:** `unit:91700` · **unitId:** `91700`
@@ -7031,21 +5962,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mi | Mi | — | — | — |
 
-### Hannah Höch: Künstlerin (in) der Avantgarde — Ober- und Hauptseminar
+### Grundlagen der Mediendidaktik — Seminar
 
-- **Segment:** `unit:133893` · **unitId:** `133893`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133893&periodId=589>
+- **Segment:** `unit:93795` · **unitId:** `93795`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93795&periodId=589>
 
-- **Veranstaltungsart:** Ober- und Hauptseminar
-- **ECTS-Punkte:** 5.0
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
+- **Turnus:** in jedem Semester
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 15:45–17:15 | 15.04.2026–15.07.2026 | — |
 
 ### Hans Baldung Grien — Ober- und Hauptseminar
 
@@ -7519,24 +6450,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
-
-### Künstlerische Selbstinszenierung von Alberti bis Abramović — Ober- und Hauptseminar
-
-- **Segment:** `unit:133874` · **unitId:** `133874`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133874&periodId=589>
-
-- **Veranstaltungsart:** Ober- und Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 18:00–20:00 | 20.04.2026–13.07.2026 | 00901.00.027 (Orangerie - Mediathek/Seminarraum) |
-| Einzeltermin | Sa | 10:00–16:00 | 25.04.2026 | — |
-| Einzeltermin | Sa | 10:00–16:00 | 20.06.2026 | — |
 
 ### L' italiano per il lavoro: tipologie testuali — Übung
 
@@ -8049,22 +6962,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Kurs
 
-### Peter Paul Rubens — Aufbauseminar
-
-- **Segment:** `unit:133860` · **unitId:** `133860`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133860&periodId=589>
-
-- **Veranstaltungsart:** Aufbauseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
-
 ### Pfann / Blended Learning: Churer-Modell - Unterricht zeitgemäß gestalten (Kurs A) — Seminar
 
 - **Segment:** `unit:122319` · **unitId:** `122319`
@@ -8106,25 +7003,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Fr | 14:30–19:00 | 12.06.2026 | 20301.02.014 (2.014 Mathe-Lehrwerkstatt (40)) |
 | Einzeltermin | Sa | 09:00–17:00 | 27.06.2026 | 20301.02.015 (2.015 Lernwerkstatt (40)) |
 
-### Planspiel Demokratie:  Entwicklung einer innovativen Lehrmethode zusammen mit Schülern (Standort Erlangen) — Seminar
-
-- **Segment:** `unit:127570` · **unitId:** `127570`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127570&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 17:30–18:00 | 29.04.2026 | — |
-| Einzeltermin | Fr | 13:00–18:00 | 08.05.2026 | 05701.00.021 ( 00.021 Seminarraum) |
-| Einzeltermin | Fr | 13:00–17:00 | 22.05.2026 | 05701.00.021 ( 00.021 Seminarraum) |
-| Einzeltermin | Mo | 08:00–14:00 | 25.05.2026 | — |
-| Einzeltermin | Fr | 08:00–14:00 | 10.07.2026 | — |
-
 ### Politics of Birth - Philosophische und soziologische Perspektiven auf Natalismus und Antinatalismus — Hauptseminar
 
 - **Segment:** `unit:130922` · **unitId:** `130922`
@@ -8162,7 +7040,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Proseminar
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | 00801.00.112 (H Anatomie I (Eingang über Universitätsstraße 19)) |
 
 ### Proseminar italienische Literaturwissenschaft
 
@@ -8201,14 +7086,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138833&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-
-### Pädagogische Anthropologie und Sozialisationstheorie — Vorlesung
-
-- **Segment:** `unit:134640` · **unitId:** `134640`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134640&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** in jedem Semester
 
 ### Regional, national, global. Herausforderungen für eine postkoloniale Kunst- und Kulturgeschichte — Ober- und Hauptseminar
 
@@ -8307,22 +7184,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
-### Schlüsselkonzepte zeitgenössischer Kunst: Von Happening bis Hydrofeminismus — Vorlesung
-
-- **Segment:** `unit:133892` · **unitId:** `133892`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133892&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 08:00–10:00 | 16.04.2026–16.07.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
-
 ### Schlüsselqualifikationen Kunstgeschichte I
 
 - **Segment:** `unit:71468` · **unitId:** `71468`
@@ -8365,21 +7226,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Do | Do | 14:00–16:00 | 07.06.2026 23:59:59 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
 
-### Schule als Kulturort und Erfahrungsraum demokratischer Mitgestaltung?  Pädagogische Haltung und Praxis in postdigitalen und planetaren Dynamiken (Angebot am Standort Erlangen) — Seminar
-
-- **Segment:** `unit:134646` · **unitId:** `134646`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134646&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
-
 ### Schule als Kulturraum — Seminar
 
 - **Segment:** `unit:127342` · **unitId:** `127342`
@@ -8393,7 +7239,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134638&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:00–10:00 | 14.04.2026–14.07.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
 
 ### Sinnlichkeit im Florenz der Medici — Vorlesung
 
@@ -8434,6 +7287,16 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 
+### Sprachsystem und Deutsch als Zweitsprache (vhb-Tutorium)
+
+- **Segment:** `unit:90277` · **unitId:** `90277`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90277&periodId=589>
+
+- **Veranstaltungsart:** Tutorium
+- **ECTS-Punkte:** 1.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
 ### Spätromanik und frühe Gotikrezeption in Deutschland — Aufbauseminar
 
 - **Segment:** `unit:126702` · **unitId:** `126702`
@@ -8442,37 +7305,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Aufbauseminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
-
-### Studium vor Originalen: Die Klassische Moderne im frühen Sammelwesen im Rheinland und in Westfalen — Ober- und Hauptseminar
-
-- **Segment:** `unit:133864` · **unitId:** `133864`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133864&periodId=589>
-
-- **Veranstaltungsart:** Ober- und Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung | — | 10:00–18:00 | 04.08.2026–07.08.2026 | — |
-
-### Studium vor Originalen: Kunst + Museen in Tokyo — Seminar
-
-- **Segment:** `unit:133866` · **unitId:** `133866`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133866&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung+Sa | — | 10:00–16:00 | 02.09.2026–09.09.2026 | — |
 
 ### Tecniche di lettura — Übung
 
@@ -8489,22 +7321,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 08:15–09:00 | 23.04.2026–16.07.2026 | 05701.00.010 ( 00.010 Übungsraum 1) |
-
-### Textile Moderne: Stoffe, Fäden, Netze und was sie für die Kunst bedeuten — Aufbauseminar
-
-- **Segment:** `unit:134687` · **unitId:** `134687`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134687&periodId=589>
-
-- **Veranstaltungsart:** Aufbauseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.00.020 ( KH 0.020 Hörsaal Kollegienhaus) |
 
 ### Traduzione Italiano - Tedesco (Oberstufe) — Übung
 
@@ -8624,22 +7440,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 1.0
 - **Turnus:** nur im Wintersemester
 
-### Typologien des materialisierten Totengedächtnisses — Ober- und Hauptseminar
-
-- **Segment:** `unit:133875` · **unitId:** `133875`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133875&periodId=589>
-
-- **Veranstaltungsart:** Ober- und Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:00–16:00 | 13.04.2026–13.07.2026 | 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
-
 ### Vorlesung Differentielle und Persönlichkeitspsychologie
 
 - **Segment:** `unit:87220` · **unitId:** `87220`
@@ -8710,22 +7510,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### Zwischen Canova und Rodin. Skulptur in Rom von 1822 bis 1871 unter der besonderen Berücksichtigung globaler Verflechtungen — Vorlesung
-
-- **Segment:** `unit:133876` · **unitId:** `133876`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133876&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 29.04.2026–15.07.2026 | 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
 
 ### Ökonomisierung des Sozialen — Seminar
 

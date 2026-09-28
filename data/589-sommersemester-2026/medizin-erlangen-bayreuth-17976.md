@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:17976"
 campo_path: "title:17593|title:17600|title:17976"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976"
-po_version_count: 172
-course_count: 533
+po_version_count: 277
+course_count: 428
 fau_studiengang:
   - title: "Medizin Erlangen/Bayreuth (Staatsexamen)"
     rel_path: "studiengang/medizin-erlangen-bayreuth-staatsexamen.md"
@@ -156,7 +156,472 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (172)
+## Prüfungsordnungs-Versionen (277)
+
+### 001.1 PERLE Bettenprüfungskurs, Do., 16.04.2026, 17:30 - 20:00 Uhr, SimPatik - Kurs
+
+- **Campo-Segment:** `exam:15862962`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871041|exam:15862962>
+
+### 002 PERLE Bettenprüfungskurs, Mo., 20.04.2026, 17:30 - 20:00 Uhr, SimPatiK - Kurs
+
+- **Campo-Segment:** `exam:15862989`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871041|exam:15862989>
+
+### 004 PERLE Nahtkurs 1, Mo. 20.04.2026, 19:00 - 21:00 Uhr, SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15863053`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870810|exam:15863053>
+
+### 005 PERLE Sonografie für Anfängerinnen und Anfänger, Di., 21.04.2026, 16:30 - 19:00 Uhr - Kurs
+
+- **Campo-Segment:** `exam:15863061`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871390|exam:15863061>
+
+### 006 PERLE Nahkturs 1, Do., 23.04.2026, 16:30 - 18:30 Uhr, SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15863178`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870810|exam:15863178>
+
+### 007 PERLE Nahtkurs 1, Do., 23.04.2026, 19:00 - 21:00 Uhr, SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15863214`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870810|exam:15863214>
+
+### 008 PERLE Sonografie für Anfängerinnen und Anfänger, Do., 23.04.2026, 17:00 - 19:00 Uhr, SimPatiK - Kurs
+
+- **Campo-Segment:** `exam:15863249`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871261|exam:15863249>
+
+### 013 PERLE Nahtkurs 2, So., 26.04.2026, 10:00 - 12:30 Uhr, SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15863868`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870895|exam:15863868>
+
+### 014 PERLE Nahktkurs 3, So., 26.04.2026, 13:30 - 15:30 Uhr, SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15889858`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870932|exam:15889858>
+
+### 016 PERLE Leichenschau, So., 26.04.2026, 14:30 - 17:00 Uhr, SimPatiK - Kurs
+
+- **Campo-Segment:** `exam:15864045`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871403|exam:15864045>
+
+### 017 PERLE Drug skills - Kurs, Mo., 27.04.2026, 17:00 - 19:30 Uhr,SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15865910`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870736|exam:15865910>
+
+### 018 PERLE ZVK-Kurs, Mo., 27.04.2026, 17:15 - 20:00 Uhr, SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15866004`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871313|exam:15866004>
+
+### 018.3 PERLE Mikrochirurgie, Di., 28.04.2026, 15:00 - 19:00 Uhr, chirurgisches Bettenhaus, B2-2, Raum 228 - Kurs
+
+- **Campo-Segment:** `exam:15905083`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870776|exam:15905083>
+
+### 020 PERLE Bettenprüfungskurs, Di., 28.04.2026, 17:30 - 20:00 Uhr, SimPatiK - Kurs
+
+- **Campo-Segment:** `exam:15866067`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871041|exam:15866067>
+
+### 021 PERLE Versorgung von Menschen mit chronischen Wunden, Mi., 29.04.2026, 16:30 - 19:30 Uhr, SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15866269`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871235|exam:15866269>
+
+### 025 PERLE Refresher Orthopädie, So., 03.05.2026, 15:30 - 18:30 Uhr, SimPatiK - Kurs
+
+- **Campo-Segment:** `exam:15866894`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871026|exam:15866894>
+
+### 026 PERLE Nahtkurs 1, Mo., 04.05.2026, 16:30 - 18:30 Uhr, SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15868234`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870810|exam:15868234>
+
+### 027 PERLE Nahtkurs 1, Mo., 04.05.2026, 19:00 - 21:00 Uhr - Kurs
+
+- **Campo-Segment:** `exam:15868258`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870810|exam:15868258>
+
+### 027.2 PERLE Mikrochirurgie, Di., 05.05.2026, 15:00 - 19:00 Uhr, chirurgisches Bettenhaus, , B2-2, Raum 226 - Kurs
+
+- **Campo-Segment:** `exam:15905092`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870776|exam:15905092>
+
+### 028.2 PERLE Fit für die Notaufnahme, Mo., 04.05.2026, 16:45 - 20:30 Uhr, Seminarraum Donau/SkillsLab Perle B-00.221 - Kurs
+
+- **Campo-Segment:** `exam:15915540`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871328|exam:15915540>
+
+### 028.2 PERLE medical skills fpr foreign students, (Teil A), Di., 28.04.2026, 16:30 - 18:30 Uhr, SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15896862`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871248|exam:15896862>
+
+### 029  PERLE Bettenprüfungskurs, Do., 07.05.2026, 17:30 - 20:00 Uhr, SimPatiK - Kurs
+
+- **Campo-Segment:** `exam:15868312`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871082|exam:15868312>
+
+### 029.2 PERLE medical skills for foreign students (Teil B), Do., 07.05.2026, 18:15 - 20:15 Uhr, SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15900215`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871248|exam:15900215>
+
+### 031 PERLE Nahtkurs 2, Fr., 08.05.2026, 16:00 - 18:30 Uhr, SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15869164`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870895|exam:15869164>
+
+### 032 PERLE Nahkturs 3, Fr., 08.05.2026, 19:30 - 21:30 Uhr, SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15876800`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870932|exam:15876800>
+
+### 032.2 PERLE Drug skills,  Fr., 08.05.2026, 16:30 - 19:00 Uhr. SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15876944`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870736|exam:15876944>
+
+### 032.3 PERLE, Leichenschau, Fr., 08.05.2026, 17:00 - 19:30 Uhr, SimPatiK - Kurs
+
+- **Campo-Segment:** `exam:15876972`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871403|exam:15876972>
+
+### 032.5 PERLE Sonografie für Anfängerinnen und Anfänger, So., 10.05.2026, 10:00 - 12:30 Uhr, SimPatiK - Kurs
+
+- **Campo-Segment:** `exam:15877083`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871261|exam:15877083>
+
+### 032.6 PERLE Bettenprüfungskurs, So., 10.05.2026, 14:30 - 17:00 Uhr, SimPatiK - Kurs
+
+- **Campo-Segment:** `exam:15877114`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871041|exam:15877114>
+
+### 033 PERLE Nahtkus 1, So., 10.05.2026, 10:30 - 12:30 Uhr, SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15890057`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870810|exam:15890057>
+
+### 034 PERLE Nahtkurs 1, So., 10.05.2026, 13:00 - 15:00 Uhr, SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15877178`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870810|exam:15877178>
+
+### 035 PERLE Versorgung von Menschen mit chronischen Wunden, Mo., 11.05.2026, 16:30 - 19:30 Uhr, SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15877226`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871235|exam:15877226>
+
+### 035.2 PERLE Mikrochirurgie, Di., 12.05.2026, 15:00 - 19:00 Uhr, chirurgisches Bettenhaus, B2-2, Raum 226 - Kurs
+
+- **Campo-Segment:** `exam:15905164`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870776|exam:15905164>
+
+### 035.3 PERLE Bettenprüfungskurs, Mi., 13.05.2026, 17:00 - 19:00 Uhr, SimPatiK - Kurs
+
+- **Campo-Segment:** `exam:15915117`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871041|exam:15915117>
+
+### 037 PERLE Blutkurs 1, Fr., 15.05.2026, 17:00 - 19:30 Uhr, SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15877272`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870810|exam:15877272>
+
+### 038 PERLE Thoraxdrainage-Kurs, Fr., 15.05.2026, 17:30 - 20:15 Uhr, SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15877289`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870976|exam:15877289>
+
+### 039 PERLE Sonografie für Fortgeschrittene, Fr., 15.05.2026,  16:30 - 18:00 Uhr, SimPatiK - Kurs
+
+- **Campo-Segment:** `exam:15877347`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871390|exam:15877347>
+
+### 043 PERLE Blutkurs 2, So., 17.05.2026, 10:30 - 13:00 Uhr, SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15877423`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871179|exam:15877423>
+
+### 044 PERLE ZVK-Kurs, So., 17.05.2026, 10:00 -12:45 Uhr, SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15877472`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871313|exam:15877472>
+
+### 045 PERLE Fit für den Stationseinsatz, So., 17.05.2026, 14:00 - 18:00 Uhr, SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15877499`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871351|exam:15877499>
+
+### 046 PERLE Nahtkurs 2, Mo., 18.05.2026, 16:00 - 18:30 Uhr, SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15877557`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870895|exam:15877557>
+
+### 047 PERLE Nahtkurs 3, Mo., 18.05.2026, 19:30 - 21:30 Uhr, SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15877584`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870932|exam:15877584>
+
+### 048 PERLE Untersuchungskurs Neurologie, Mo., 18.05.2026, 17:00 - 20:00 Uhr, SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15881489`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871002|exam:15881489>
+
+### 049 PERLE Sonografie für Anfängerinnen und Anfänger, Fr., 22.05.2026, 16:30 - 19:00 Uhr, SimPatiK - Kurs
+
+- **Campo-Segment:** `exam:15881583`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871261|exam:15881583>
+
+### 050 PERLE Basics körperliche Untersuchung, Fr., 22.05.2026, 16:45 - 19:00 Uhr, SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15895665`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871382|exam:15895665>
+
+### 052 PERLE Sonografie für Anfängerinnen und Anfänger, Di., 26.05.2026, 16:30 - 19:00 Uhr, SimPatiK - Kurs
+
+- **Campo-Segment:** `exam:15895719`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871372|exam:15895719>
+
+### 053 PERLE ZVK-Kurs, Di., 26.05.2026, 16:30 - 19:15 Uhr, SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15881592`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871382|exam:15881592>
+
+### 054 PERLE Nahtkurs 1, Do., 28.05.2026, 16:30 - 18:30 Uhr, SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15881638`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870810|exam:15881638>
+
+### 055 PERLE Nahtkurs 1, Do., 28.05.2026, 19:00 - 21:00 Uhr, SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15881647`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870810|exam:15881647>
+
+### 056 PERLE Basics Kardiologie, Do., 28.05.2026, 17:00 - 19:15 Uhr, Skillslab Perle - Kurs
+
+- **Campo-Segment:** `exam:15881682`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871372|exam:15881682>
+
+### 057 PERLE Spezielle Punktionen, Fr. 29.05.2026, 16:00 - 19:00 Uhr, SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15881730`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871397|exam:15881730>
+
+### 062 PERLE Fit für den Stationseinsatz, So., 31.05.2026, 14:00 - 18:00 Uhr, SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15882315`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871351|exam:15882315>
+
+### 062 PERLE Sonografie für Anfängerinnen und Anfänger, Di., 02.06.2026, 16:30 - 19:00 Uhr, SimPatiK - Kurs
+
+- **Campo-Segment:** `exam:15882373`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871372|exam:15882373>
+
+### 064 PERLE Blutkurs 1, So., 07.06.2026, 16:00 - 18:30 Uhr, SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15882392`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871153|exam:15882392>
+
+### 065 PERLE Basics HNO, Mo., 08.06.2026, 17:00- 19:30 Uhr - Kurs
+
+- **Campo-Segment:** `exam:15882440`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871368|exam:15882440>
+
+### 066 PERLE Blutkurs 2, Mo., 08.06.2026, 17:15 - 19:45 Uhr, SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15882450`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871179|exam:15882450>
+
+### 067 PERLE Sonografie für Anfängerinnen und Anfänger, Do., 11.06.2026, 16:30 - 19:00 Uhr, SimPatik - Kurs
+
+- **Campo-Segment:** `exam:15888083`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871261|exam:15888083>
+
+### 070 PERLE Drug skills, So., 14.06.2026, 11:00 - 13:30 Uhr, SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15888419`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870736|exam:15888419>
+
+### 071 PERLE Nahkturs 1, Mo., 15.06.2026, 16:30 - 18:30 Uhr, SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15888447`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870810|exam:15888447>
+
+### 072 PERLE Nahtkurs 1, Mo., 15.06.2026, 19:00 - 21:00 Uhr, SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15888483`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870810|exam:15888483>
+
+### 073 PERLE Blutkurs 1, Mo., 15.06.2026, 17:00 - 19:30 Uhr, SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15888546`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871153|exam:15888546>
+
+### 073.2 PERLE Röntgenthorax-Kurs, Mi., 17.06.2026, 17:00 - 18:30 Uhr, INZ, A U1 971 Schulung - Kurs
+
+- **Campo-Segment:** `exam:15888594`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871102|exam:15888594>
+
+### 073.3 PERLE Röntgenthorax-Kurs, Mi., 17.06.2026, 18:30 - 20:00 Uhr, INZ- A U1 971 Schulung - Kurs
+
+- **Campo-Segment:** `exam:15888648`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871102|exam:15888648>
+
+### 074 PERLE Untersuchungskurs: obere Extremität, Do., 18.06.2026, 17:00 - 19:30 Uhr, SimPatiK - Kurs
+
+- **Campo-Segment:** `exam:15889302`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871339|exam:15889302>
+
+### 075 PERLE Nahkturs 2, Fr. 19.06.2026, 16:00 - 18:30 Uhr, Skillslab Perle - Kurs
+
+- **Campo-Segment:** `exam:15889320`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870895|exam:15889320>
+
+### 077.2 PERLE Leichenschau, Fr., 19.06.2026, 17:00 - 19:30 Uhr, SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15932635`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871403|exam:15932635>
+
+### 081 PERLE Nahtkurs 2, So., 21.06.2026, 10:00 - 12:30 Uhr, SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15889563`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870895|exam:15889563>
+
+### 082 PERLE Nahtkurs 3, So., 21.06.2026, 13:30 - 15:30 Uhr, SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15889572`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870932|exam:15889572>
+
+### 083 PERLE Blutkurs 1, So., 21.06.2026, 10:30 - 13:00 Uhr, SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15889658`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871153|exam:15889658>
+
+### 084 PERLE Sonografie für Anfängerinnen und Anfänger, Do., 25.06.2026, 16:30 - 19:00 Uhr, SimPatiK - Kurs
+
+- **Campo-Segment:** `exam:15889675`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871261|exam:15889675>
+
+### 086 PERLE Blutkurs 2, Fr., 26.06.2026, 17:00 - 19:30 Uhr, SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15889706`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871179|exam:15889706>
+
+### 087 PERLE Untersuchungskurs: untere Extremität, Fr. 26.06.2026, 17:30 - 20:00 Uhr, SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15889755`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871345|exam:15889755>
+
+### 089 PERLE Blutkurs 1, Di., 30.06.2026, 17:00 - 19:30 Uhr, SkillsLab Perle - Kurs
+
+- **Campo-Segment:** `exam:15889832`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871153|exam:15889832>
+
+### 090 PERLE Mikrochirurgie, Di., 07.07.2026, 15:00 - 19:00 Uhr, chirurgisches Bettenhaus, B2-2, Raum 226 - Kurs
+
+- **Campo-Segment:** `exam:15905200`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870776|exam:15905200>
+
+### 091 PERLE Röntgenthoraxkurs, Sa., 08.08.2026. 10:00 - 11:30 Uhr, INZ, Raumnummer U1.977 (ISI-Meetingraum). - Kurs
+
+- **Campo-Segment:** `exam:17716784`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871102|exam:17716784>
+
+### 092 PERLE Röntgenthoraxkurs, Sa., 08.08.2026, 11:30 - 13:00 Uhr, INZ, Raumnummer U1.977 (ISI-Meetingraum) - Kurs
+
+- **Campo-Segment:** `exam:17716824`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871102|exam:17716824>
+
+### 093 PERLE Röntgenthoraxkurs, Sa., 19.09.2026, 10:00 - 11:30 Uhr, INZ, Raumnummer U1.977 (ISI-Meetingraum). - Kurs
+
+- **Campo-Segment:** `exam:17717034`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871102|exam:17717034>
+
+### 094 PERLE Röntgenthoraxkurs, Sa., 19.09.2026, 11:30 - 13:00 Uhr, INZ, Raumnummer U1.977 (ISI-Meetingraum). - Kurs
+
+- **Campo-Segment:** `exam:17717054`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871102|exam:17717054>
+
+### Deutsch A1: Allgemeinkurs (Maxikurs) (Nürnberg) - Übung
+
+- **Campo-Segment:** `exam:13870707`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13869595|exam:13870707>
+
+### Deutsch B1: Allgemeinkurs - Übung
+
+- **Campo-Segment:** `exam:13870709`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13869595|exam:13870709>
+
+### Deutsch B1: Leseverstehen - Übung
+
+- **Campo-Segment:** `exam:13870711`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13869595|exam:13870711>
+
+### English: Level 0 - Focus on Speaking - Übung
+
+- **Campo-Segment:** `exam:13869923`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13869595|exam:13869923>
+
+### English: Level 0 - Focus on Writing - Übung
+
+- **Campo-Segment:** `exam:13869924`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13869595|exam:13869924>
+
+### English: Level 2 - Writing and Presenting for Natural Scientists - Übung
+
+- **Campo-Segment:** `exam:13869925`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13869595|exam:13869925>
+
+### English: Level 3 - Communicating in a Professional Context - Übung
+
+- **Campo-Segment:** `exam:13869917`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13869595|exam:13869917>
+
+### English: Level 3 - How to Win Any Argument - Kurs
+
+- **Campo-Segment:** `exam:17715284`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13869595|exam:17715284>
+
+### English: Level 3 - Language, Power and Human Rights - Kurs
+
+- **Campo-Segment:** `exam:17715334`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13869595|exam:17715334>
+
+### English: Level 3 - Perfect your English Pronunciation and Intonation - Kurs
+
+- **Campo-Segment:** `exam:13869932`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13869595|exam:13869932>
+
+### English: Level 4 - Critical thinking and problem solving in English - Übung
+
+- **Campo-Segment:** `exam:13869927`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13869595|exam:13869927>
+
+### English: Level 4 - The Art of Storytelling - Übung
+
+- **Campo-Segment:** `exam:13869928`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13869595|exam:13869928>
+
+### SkillsLab MCO_EKG 3 Kurs - Kurs
+
+- **Campo-Segment:** `exam:15805178`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13871414|exam:15805135|exam:15805178>
+
+### SkillsLab MCO_Freies Schallen - Kurs
+
+- **Campo-Segment:** `exam:13871474`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13871414|exam:13871472|exam:13871474>
+
+### SkillsLab MCO_Untersuchungskurs Orthopädie obere + untere Extremität - Kurs
+
+- **Campo-Segment:** `exam:15942993`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13871414|exam:15934224|exam:15942993>
 
 ### 1000 1. Ärztliche Prüfung
 
@@ -998,6 +1463,21 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Campo-Segment:** `exam:13871480`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13871414|exam:13871480>
 
+### 30650 English: Level 3 - English through Music, Movies, and Literature - Leistung
+
+- **Campo-Segment:** `exam:13870521`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13869595|exam:13870521>
+
+### 30661 Cultura e Civiltà I - Leistung
+
+- **Campo-Segment:** `exam:13870530`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13869595|exam:13870530>
+
+### 30662 L’italiano per il lavoro - Leistung
+
+- **Campo-Segment:** `exam:13870531`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13869595|exam:13870531>
+
 ### 62175 Praktikum der Chemie für Mediziner
 
 - **Campo-Segment:** `exam:13868792`
@@ -1018,7 +1498,52 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Campo-Segment:** `exam:13868802`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13868776|exam:13868778|exam:13868791|exam:13868802>
 
-## Veranstaltungen (533)
+### 92531 Skillslab PERLE Untersuchungskurs: obere Extremität - Leistung
+
+- **Campo-Segment:** `exam:13871340`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871339|exam:13871340>
+
+### 92551 Skillslab PERLE Fit für den Stationseinsatz - Leistung
+
+- **Campo-Segment:** `exam:13871352`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871351|exam:13871352>
+
+### 92561 Skillslab PERLE Nahtkurs 1 mit Schwerpunkt Geburtshilfe - Leistung
+
+- **Campo-Segment:** `exam:13871360`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871359|exam:13871360>
+
+### 92571 SkillsLab PERLE Basics HNO - Leistung
+
+- **Campo-Segment:** `exam:13871369`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871368|exam:13871369>
+
+### 92581 SkillsLab PERLE Basics Kardiologie - Leistung
+
+- **Campo-Segment:** `exam:13871373`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871372|exam:13871373>
+
+### 92591 SkillsLab PERLE Basics Pädiatrie - Leistung
+
+- **Campo-Segment:** `exam:13871378`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871377|exam:13871378>
+
+### 92621 SkillsLab PERLE Spezielle Punktionen - Leistung
+
+- **Campo-Segment:** `exam:13871398`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871397|exam:13871398>
+
+### 92631 SkillsLab PERLE Leichenschau - Leistung
+
+- **Campo-Segment:** `exam:13871404`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871403|exam:13871404>
+
+### 95241 Skills Lab MCO EKG 3 Kurs - Leistung
+
+- **Campo-Segment:** `exam:15805144`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13871414|exam:15805135|exam:15805144>
+
+## Veranstaltungen (428)
 
 ### 001 PERLE Interprofessionelle Anamnese und Übergabe, Sa., 25.04.2026, 09:00 - 16:00 Uhr, SimPatiK - Kurs
 
@@ -1027,33 +1552,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135154&periodId=589>
 
 - **Veranstaltungsart:** Kurs
-- **Turnus:** nur im Sommersemester
-
-### 001.1 PERLE Bettenprüfungskurs, Do., 16.04.2026, 17:30 - 20:00 Uhr, SimPatik - Kurs
-
-- **Segment:** `exam:15862962` · **unitId:** `135873`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871041|exam:15862962>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135873&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Turnus:** nur im Sommersemester
-
-### 002 PERLE Bettenprüfungskurs, Mo., 20.04.2026, 17:30 - 20:00 Uhr, SimPatiK - Kurs
-
-- **Segment:** `exam:15862989` · **unitId:** `135874`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871041|exam:15862989>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135874&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Turnus:** nur im Sommersemester
-
-### 004 PERLE Nahtkurs 1, Mo. 20.04.2026, 19:00 - 21:00 Uhr, SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15863053` · **unitId:** `135876`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870810|exam:15863053>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135876&periodId=589>
-
-- **Veranstaltungsart:** Kurs
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
@@ -1061,62 +1559,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 19:00–21:00 | 20.04.2026 | — |
-
-### 005 PERLE Sonografie für Anfängerinnen und Anfänger, Di., 21.04.2026, 16:30 - 19:00 Uhr - Kurs
-
-- **Segment:** `exam:15863061` · **unitId:** `135877`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871390|exam:15863061>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135877&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 16:30–19:00 | 21.04.2026 | — |
-
-### 006 PERLE Nahkturs 1, Do., 23.04.2026, 16:30 - 18:30 Uhr, SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15863178` · **unitId:** `135878`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870810|exam:15863178>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135878&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Turnus:** nur im Sommersemester
-
-### 007 PERLE Nahtkurs 1, Do., 23.04.2026, 19:00 - 21:00 Uhr, SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15863214` · **unitId:** `135879`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870810|exam:15863214>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135879&periodId=589>
-
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Do | 19:00–21:00 | 23.04.2026 | — |
-
-### 008 PERLE Sonografie für Anfängerinnen und Anfänger, Do., 23.04.2026, 17:00 - 19:00 Uhr, SimPatiK - Kurs
-
-- **Segment:** `exam:15863249` · **unitId:** `135880`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871261|exam:15863249>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135880&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Do | 17:00–19:00 | 23.04.2026 | — |
+| Einzeltermin | Sa | 09:00–15:00 | 25.04.2026 | — |
 
 ### 010 PERLE Bettenprüfungskurs, Sa., 25.04.2026, 15:30 - 18:00 Uhr, SimPatiK - Kurs
 
@@ -1141,14 +1584,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135884&periodId=589>
 
 - **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Sa | 10:30–13:30 | 25.04.2026 | — |
 
 ### 012 PERLE Sonografie für Fortgeschrittene, Sa., 25.04.2026, 15:00 - 17:00 Uhr, SkillsLab Perle - Kurs
 
@@ -1166,31 +1602,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | Einzeltermin | Sa | 15:00–17:00 | 25.04.2026 | — |
 
-### 013 PERLE Nahtkurs 2, So., 26.04.2026, 10:00 - 12:30 Uhr, SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15863868` · **unitId:** `135886`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870895|exam:15863868>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135886&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | So | 10:00–12:30 | 26.04.2026 | — |
-
-### 014 PERLE Nahktkurs 3, So., 26.04.2026, 13:30 - 15:30 Uhr, SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15889858` · **unitId:** `136331`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870932|exam:15889858>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136331&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Turnus:** nur im Sommersemester
-
 ### 015 PERLE Refresher Neurologie, So., 26.04.2026, 10:30 - 13:30 Uhr, SimPatiK - Kurs
 
 - **Segment:** `exam:15864035` · **unitId:** `135888`
@@ -1207,79 +1618,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | Einzeltermin | So | 10:30–13:30 | 26.04.2026 | — |
 
-### 016 PERLE Leichenschau, So., 26.04.2026, 14:30 - 17:00 Uhr, SimPatiK - Kurs
-
-- **Segment:** `exam:15864045` · **unitId:** `135889`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871403|exam:15864045>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135889&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Turnus:** nur im Sommersemester
-
-### 017 PERLE Drug skills - Kurs, Mo., 27.04.2026, 17:00 - 19:30 Uhr,SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15865910` · **unitId:** `135935`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870736|exam:15865910>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135935&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 17:00–19:30 | 27.04.2026 | — |
-
-### 018 PERLE ZVK-Kurs, Mo., 27.04.2026, 17:15 - 20:00 Uhr, SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15866004` · **unitId:** `135936`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871313|exam:15866004>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135936&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 17:15–20:00 | 27.04.2026 | — |
-
-### 018.3 PERLE Mikrochirurgie, Di., 28.04.2026, 15:00 - 19:00 Uhr, chirurgisches Bettenhaus, B2-2, Raum 228 - Kurs
-
-- **Segment:** `exam:15905083` · **unitId:** `136841`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870776|exam:15905083>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136841&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Turnus:** nur im Sommersemester
-
-### 020 PERLE Bettenprüfungskurs, Di., 28.04.2026, 17:30 - 20:00 Uhr, SimPatiK - Kurs
-
-- **Segment:** `exam:15866067` · **unitId:** `135946`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871041|exam:15866067>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135946&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Turnus:** nur im Sommersemester
-
-### 021 PERLE Versorgung von Menschen mit chronischen Wunden, Mi., 29.04.2026, 16:30 - 19:30 Uhr, SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15866269` · **unitId:** `135953`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871235|exam:15866269>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135953&periodId=589>
-
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 16:30–19:30 | 29.04.2026 | — |
-
 ### 023 PERLE Sonografie für Fortgeschrittene, Sa., 02.05.2026, 13:30 - 16:00 Uhr, SimPariK - Kurs
 
 - **Segment:** `exam:15866854` · **unitId:** `135970`
@@ -1287,101 +1625,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135970&periodId=589>
 
 - **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Sa | 13:30–16:00 | 02.05.2026 | — |
-
-### 025 PERLE Refresher Orthopädie, So., 03.05.2026, 15:30 - 18:30 Uhr, SimPatiK - Kurs
-
-- **Segment:** `exam:15866894` · **unitId:** `135972`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871026|exam:15866894>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135972&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | So | 15:30–18:30 | 03.05.2026 | — |
-
-### 026 PERLE Nahtkurs 1, Mo., 04.05.2026, 16:30 - 18:30 Uhr, SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15868234` · **unitId:** `136003`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870810|exam:15868234>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136003&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 16:30–18:30 | 04.05.2026 | — |
-
-### 027 PERLE Nahtkurs 1, Mo., 04.05.2026, 19:00 - 21:00 Uhr - Kurs
-
-- **Segment:** `exam:15868258` · **unitId:** `136005`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870810|exam:15868258>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136005&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Turnus:** nur im Sommersemester
-
-### 027.2 PERLE Mikrochirurgie, Di., 05.05.2026, 15:00 - 19:00 Uhr, chirurgisches Bettenhaus, , B2-2, Raum 226 - Kurs
-
-- **Segment:** `exam:15905092` · **unitId:** `136842`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870776|exam:15905092>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136842&periodId=589>
-
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 15:00–19:00 | 05.05.2026 | — |
-
-### 028.2 PERLE Fit für die Notaufnahme, Mo., 04.05.2026, 16:45 - 20:30 Uhr, Seminarraum Donau/SkillsLab Perle B-00.221 - Kurs
-
-- **Segment:** `exam:15915540` · **unitId:** `137451`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871328|exam:15915540>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137451&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 16:45–20:30 | 04.05.2026 | — |
-
-### 028.2 PERLE medical skills fpr foreign students, (Teil A), Di., 28.04.2026, 16:30 - 18:30 Uhr, SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15896862` · **unitId:** `136630`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871248|exam:15896862>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136630&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 16:30–18:30 | 28.04.2026 | — |
 
 ### 028.2 PERLE Röntgenthorax-Kurs, Do., 07.05.2026, 17:00 - 18:30 Uhr, INZ- A U1 971 Schulung - Kurs
 
@@ -1415,100 +1659,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | Einzeltermin | Do | 18:30–20:00 | 07.05.2026 | — |
 
-### 029  PERLE Bettenprüfungskurs, Do., 07.05.2026, 17:30 - 20:00 Uhr, SimPatiK - Kurs
-
-- **Segment:** `exam:15868312` · **unitId:** `136007`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871082|exam:15868312>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136007&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Do | 17:30–20:00 | 07.05.2026 | — |
-
-### 029.2 PERLE medical skills for foreign students (Teil B), Do., 07.05.2026, 18:15 - 20:15 Uhr, SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15900215` · **unitId:** `136631`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871248|exam:15900215>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136631&periodId=589>
-
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Do | 18:15–20:25 | 07.05.2026 | — |
-
-### 031 PERLE Nahtkurs 2, Fr., 08.05.2026, 16:00 - 18:30 Uhr, SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15869164` · **unitId:** `136012`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870895|exam:15869164>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136012&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 16:00–18:30 | 08.05.2026 | — |
-
-### 032 PERLE Nahkturs 3, Fr., 08.05.2026, 19:30 - 21:30 Uhr, SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15876800` · **unitId:** `136022`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870932|exam:15876800>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136022&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 19:30–21:00 | 08.05.2026 | — |
-
-### 032.2 PERLE Drug skills,  Fr., 08.05.2026, 16:30 - 19:00 Uhr. SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15876944` · **unitId:** `136049`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870736|exam:15876944>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136049&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 16:30–19:00 | 08.05.2026 | — |
-
-### 032.3 PERLE, Leichenschau, Fr., 08.05.2026, 17:00 - 19:30 Uhr, SimPatiK - Kurs
-
-- **Segment:** `exam:15876972` · **unitId:** `136050`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871403|exam:15876972>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136050&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 17:00–19:30 | 08.05.2026 | — |
-
 ### 032.4 Fit fürs PJ, Sa., 09.05.2026, 19:00 - 16:30 Uhr, Skillslab Perle - Kurs
 
 - **Segment:** `exam:15911260` · **unitId:** `136051`
@@ -1525,152 +1675,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | Einzeltermin | Sa | 10:00–16:30 | 09.05.2026 | — |
 
-### 032.5 PERLE Sonografie für Anfängerinnen und Anfänger, So., 10.05.2026, 10:00 - 12:30 Uhr, SimPatiK - Kurs
-
-- **Segment:** `exam:15877083` · **unitId:** `136053`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871261|exam:15877083>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136053&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Turnus:** nur im Sommersemester
-
-### 032.6 PERLE Bettenprüfungskurs, So., 10.05.2026, 14:30 - 17:00 Uhr, SimPatiK - Kurs
-
-- **Segment:** `exam:15877114` · **unitId:** `136054`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871041|exam:15877114>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136054&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | So | 14:30–17:00 | 10.05.2026 | — |
-
-### 033 PERLE Nahtkus 1, So., 10.05.2026, 10:30 - 12:30 Uhr, SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15890057` · **unitId:** `136055`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870810|exam:15890057>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136055&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | So | 10:30–12:30 | 10.05.2026 | — |
-
-### 034 PERLE Nahtkurs 1, So., 10.05.2026, 13:00 - 15:00 Uhr, SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15877178` · **unitId:** `136056`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870810|exam:15877178>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136056&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | So | 13:00–15:00 | 10.05.2026 | — |
-
-### 035 PERLE Versorgung von Menschen mit chronischen Wunden, Mo., 11.05.2026, 16:30 - 19:30 Uhr, SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15877226` · **unitId:** `136057`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871235|exam:15877226>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136057&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 16:30–19:30 | 11.05.2026 | — |
-
-### 035.2 PERLE Mikrochirurgie, Di., 12.05.2026, 15:00 - 19:00 Uhr, chirurgisches Bettenhaus, B2-2, Raum 226 - Kurs
-
-- **Segment:** `exam:15905164` · **unitId:** `136843`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870776|exam:15905164>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136843&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 15:00–19:00 | 12.05.2026 | — |
-
-### 035.3 PERLE Bettenprüfungskurs, Mi., 13.05.2026, 17:00 - 19:00 Uhr, SimPatiK - Kurs
-
-- **Segment:** `exam:15915117` · **unitId:** `137351`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871041|exam:15915117>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137351&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 17:00–19:00 | 13.05.2026 | — |
-
-### 037 PERLE Blutkurs 1, Fr., 15.05.2026, 17:00 - 19:30 Uhr, SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15877272` · **unitId:** `136059`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870810|exam:15877272>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136059&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 17:00–19:30 | 15.05.2026 | — |
-
-### 038 PERLE Thoraxdrainage-Kurs, Fr., 15.05.2026, 17:30 - 20:15 Uhr, SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15877289` · **unitId:** `136060`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870976|exam:15877289>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136060&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Turnus:** in jedem Semester
-
-### 039 PERLE Sonografie für Fortgeschrittene, Fr., 15.05.2026,  16:30 - 18:00 Uhr, SimPatiK - Kurs
-
-- **Segment:** `exam:15877347` · **unitId:** `136062`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871390|exam:15877347>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136062&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 16:30–18:00 | 15.05.2026 | — |
-
 ### 040 PERLE Sonografie für Anfängerinnen und Anfänger, Sa., 16.05.2026, 10:00 - 12:30 Uhr, SimPatiK - Kurs
 
 - **Segment:** `exam:15877316` · **unitId:** `136061`
@@ -1678,14 +1682,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136061&periodId=589>
 
 - **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Sa | 10:00–12:30 | 16.05.2026 | — |
 
 ### 041 PERLE Basics körperliche Untersuchung, Sa., 16.05.2026, 14:30 - 16:45 Uhr, SimPatik - Kurs
 
@@ -1710,133 +1707,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137553&periodId=589>
 
 - **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung+SaundSo | — | 10:15–14:00 | 16.05.2026–17.05.2026 | — |
-
-### 043 PERLE Blutkurs 2, So., 17.05.2026, 10:30 - 13:00 Uhr, SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15877423` · **unitId:** `136065`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871179|exam:15877423>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136065&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | So | 10:30–13:00 | 17.05.2026 | — |
-
-### 044 PERLE ZVK-Kurs, So., 17.05.2026, 10:00 -12:45 Uhr, SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15877472` · **unitId:** `136066`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871313|exam:15877472>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136066&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | So | 10:00–12:45 | 17.05.2026 | — |
-
-### 045 PERLE Fit für den Stationseinsatz, So., 17.05.2026, 14:00 - 18:00 Uhr, SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15877499` · **unitId:** `136067`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871351|exam:15877499>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136067&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | So | 14:00–18:00 | 17.05.2026 | — |
-
-### 046 PERLE Nahtkurs 2, Mo., 18.05.2026, 16:00 - 18:30 Uhr, SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15877557` · **unitId:** `136068`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870895|exam:15877557>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136068&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Turnus:** nur im Sommersemester
-
-### 047 PERLE Nahtkurs 3, Mo., 18.05.2026, 19:30 - 21:30 Uhr, SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15877584` · **unitId:** `136069`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870932|exam:15877584>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136069&periodId=589>
-
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 19:30–21:30 | 18.05.2026 | — |
-
-### 048 PERLE Untersuchungskurs Neurologie, Mo., 18.05.2026, 17:00 - 20:00 Uhr, SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15881489` · **unitId:** `136109`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871002|exam:15881489>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136109&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 17:00–20:00 | 18.05.2026 | — |
-
-### 049 PERLE Sonografie für Anfängerinnen und Anfänger, Fr., 22.05.2026, 16:30 - 19:00 Uhr, SimPatiK - Kurs
-
-- **Segment:** `exam:15881583` · **unitId:** `136110`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871261|exam:15881583>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136110&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 16:30–19:00 | 18.05.2026 | — |
-
-### 050 PERLE Basics körperliche Untersuchung, Fr., 22.05.2026, 16:45 - 19:00 Uhr, SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15895665` · **unitId:** `136488`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871382|exam:15895665>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136488&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 16:45–19:00 | 22.05.2026 | — |
 
 ### 051 PERLE Thoraxdrainage-Kurs, Sa., 23.05.2026, 11:00 - 13:45 Uhr, SkillsLab Perle - Kurs
 
@@ -1845,96 +1716,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136489&periodId=589>
 
 - **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Sa | 11:00–13:45 | 23.05.2026 | — |
-
-### 052 PERLE Sonografie für Anfängerinnen und Anfänger, Di., 26.05.2026, 16:30 - 19:00 Uhr, SimPatiK - Kurs
-
-- **Segment:** `exam:15895719` · **unitId:** `136493`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871372|exam:15895719>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136493&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 16:30–19:00 | 26.05.2026 | — |
-
-### 053 PERLE ZVK-Kurs, Di., 26.05.2026, 16:30 - 19:15 Uhr, SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15881592` · **unitId:** `136111`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871382|exam:15881592>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136111&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 16:30–19:15 | 26.05.2026 | — |
-
-### 054 PERLE Nahtkurs 1, Do., 28.05.2026, 16:30 - 18:30 Uhr, SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15881638` · **unitId:** `136113`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870810|exam:15881638>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136113&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Do | 16:30–18:30 | 28.05.2026 | — |
-
-### 055 PERLE Nahtkurs 1, Do., 28.05.2026, 19:00 - 21:00 Uhr, SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15881647` · **unitId:** `136114`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870810|exam:15881647>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136114&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Turnus:** nur im Sommersemester
-
-### 056 PERLE Basics Kardiologie, Do., 28.05.2026, 17:00 - 19:15 Uhr, Skillslab Perle - Kurs
-
-- **Segment:** `exam:15881682` · **unitId:** `136115`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871372|exam:15881682>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136115&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Turnus:** nur im Sommersemester
-
-### 057 PERLE Spezielle Punktionen, Fr. 29.05.2026, 16:00 - 19:00 Uhr, SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15881730` · **unitId:** `136116`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871397|exam:15881730>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136116&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 16:00–19:00 | 29.05.2026 | — |
 
 ### 058 PERLE Nahtkurs 2, Sa. 30.05.2026, 10:00 - 12:30 Uhr, SkillsLab Perle - Kurs
 
@@ -1943,14 +1725,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136117&periodId=589>
 
 - **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Sa | 10:00–12:30 | 30.05.2026 | — |
 
 ### 059 PERLE Nahtkurs 3, Sa., 30.05.2026, 13:30 - 15:30 Uhr, Skillslab Perle - Kurs
 
@@ -1959,7 +1734,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136118&periodId=589>
 
 - **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Sa | 13:30–15:30 | 30.05.2026 | — |
 
 ### 060 PERLE Untersuchungskurs Kopf bis Fuß, 2-tlg, Sa., 30.05.2026 und So., 31.05.2026, jeweils von 10:30 - 13:30 Uhr, SkillsLab Perle - Kurs
 
@@ -1967,13 +1749,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871082|exam:15881811>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136119&periodId=589>
 
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung+SaundSo | — | 10:30–13:30 | 30.05.2026–31.05.2026 | — |
+- **Veranstaltungsart:** Kurs
+- **Turnus:** nur im Sommersemester
 
 ### 061 PERLE Basics Pädiatrie, 2-tlg, Sa., 30.05.2026, 14:30 - 18:00 Uhr und So., 31.05.2026, 14:30 - 17:30 Uhr SkillsLab Perle - Kurs
 
@@ -1990,84 +1767,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Blockveranstaltung+SaundSo | — | 14:30–17:00 | 30.05.2026–31.05.2026 | — |
-
-### 062 PERLE Fit für den Stationseinsatz, So., 31.05.2026, 14:00 - 18:00 Uhr, SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15882315` · **unitId:** `136128`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871351|exam:15882315>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136128&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | So | 14:00–18:00 | 31.05.2026 | — |
-
-### 062 PERLE Sonografie für Anfängerinnen und Anfänger, Di., 02.06.2026, 16:30 - 19:00 Uhr, SimPatiK - Kurs
-
-- **Segment:** `exam:15882373` · **unitId:** `136129`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871372|exam:15882373>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136129&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 16:30–19:00 | 02.06.2026 | — |
-
-### 064 PERLE Blutkurs 1, So., 07.06.2026, 16:00 - 18:30 Uhr, SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15882392` · **unitId:** `136130`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871153|exam:15882392>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136130&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | So | 16:00–18:30 | 07.06.2026 | — |
-
-### 065 PERLE Basics HNO, Mo., 08.06.2026, 17:00- 19:30 Uhr - Kurs
-
-- **Segment:** `exam:15882440` · **unitId:** `136131`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871368|exam:15882440>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136131&periodId=589>
-
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 17:00–19:30 | 08.06.2026 | — |
-
-### 066 PERLE Blutkurs 2, Mo., 08.06.2026, 17:15 - 19:45 Uhr, SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15882450` · **unitId:** `136132`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871179|exam:15882450>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136132&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 17:15–19:45 | 08.06.2026 | — |
 
 ### 066.2 PERLE Röntgenthorax-Kurs, Mi., 10.06.2026, 17:00 - 18:30 Uhr, INZ -A U1 971 Schulung - Kurs
 
@@ -2092,15 +1791,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136139&periodId=589>
 
 - **Veranstaltungsart:** Kurs
-- **Turnus:** nur im Sommersemester
-
-### 067 PERLE Sonografie für Anfängerinnen und Anfänger, Do., 11.06.2026, 16:30 - 19:00 Uhr, SimPatik - Kurs
-
-- **Segment:** `exam:15888083` · **unitId:** `136140`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871261|exam:15888083>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136140&periodId=589>
-
-- **Veranstaltungsart:** Kurs
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
@@ -2108,130 +1798,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 16:30–19:00 | 11.06.2026 | — |
+| Einzeltermin | Mi | 18:30–20:00 | 10.06.2026 | — |
 
 ### 069 PERLE Basics körperliche Untersuchung, Sa., 13.06.2026, 10:30 - 12:45 Uhr, SkillsLab Perle - Kurs
 
 - **Segment:** `exam:15888361` · **unitId:** `136165`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871382|exam:15888361>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136165&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Sa | 10:30–12:45 | 13.06.2026 | — |
-
-### 070 PERLE Drug skills, So., 14.06.2026, 11:00 - 13:30 Uhr, SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15888419` · **unitId:** `136166`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870736|exam:15888419>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136166&periodId=589>
-
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | So | 11:00–13:30 | 14.06.2026 | — |
-
-### 071 PERLE Nahkturs 1, Mo., 15.06.2026, 16:30 - 18:30 Uhr, SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15888447` · **unitId:** `136167`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870810|exam:15888447>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136167&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 16:30–18:30 | 15.06.2026 | — |
-
-### 072 PERLE Nahtkurs 1, Mo., 15.06.2026, 19:00 - 21:00 Uhr, SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15888483` · **unitId:** `136169`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870810|exam:15888483>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136169&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 19:00–21:00 | 15.06.2026 | — |
-
-### 073 PERLE Blutkurs 1, Mo., 15.06.2026, 17:00 - 19:30 Uhr, SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15888546` · **unitId:** `136174`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871153|exam:15888546>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136174&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 17:00–19:30 | 15.06.2026 | — |
-
-### 073.2 PERLE Röntgenthorax-Kurs, Mi., 17.06.2026, 17:00 - 18:30 Uhr, INZ, A U1 971 Schulung - Kurs
-
-- **Segment:** `exam:15888594` · **unitId:** `136175`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871102|exam:15888594>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136175&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Turnus:** nur im Sommersemester
-
-### 073.3 PERLE Röntgenthorax-Kurs, Mi., 17.06.2026, 18:30 - 20:00 Uhr, INZ- A U1 971 Schulung - Kurs
-
-- **Segment:** `exam:15888648` · **unitId:** `136181`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871102|exam:15888648>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136181&periodId=589>
-
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 18:30–20:00 | 17.06.2026 | — |
-
-### 074 PERLE Untersuchungskurs: obere Extremität, Do., 18.06.2026, 17:00 - 19:30 Uhr, SimPatiK - Kurs
-
-- **Segment:** `exam:15889302` · **unitId:** `136222`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871339|exam:15889302>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136222&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Do | 17:00–19:30 | 18.06.2026 | — |
-
-### 075 PERLE Nahkturs 2, Fr. 19.06.2026, 16:00 - 18:30 Uhr, Skillslab Perle - Kurs
-
-- **Segment:** `exam:15889320` · **unitId:** `136224`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870895|exam:15889320>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136224&periodId=589>
 
 - **Veranstaltungsart:** Kurs
 - **Turnus:** nur im Sommersemester
@@ -2242,22 +1815,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870810|exam:15889375>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136227&periodId=589>
 
+- **Veranstaltungsart:** Kurs
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Sa | 10:30–12:30 | 20.06.2026 | — |
-
-### 077.2 PERLE Leichenschau, Fr., 19.06.2026, 17:00 - 19:30 Uhr, SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15932635` · **unitId:** `137771`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871403|exam:15932635>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137771&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Turnus:** nur im Sommersemester
 
 ### 078 PERLE Nahtkurs 1, Sa., 20.06.2026, 13:00 - 15:00 Uhr, Skillslab Perle - Kurs
 
@@ -2266,14 +1832,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136228&periodId=589>
 
 - **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Sa | 13:00–15:00 | 20.06.2026 | — |
 
 ### 079 PERLE Basics HNO, Sa., 20.06.2026, 11:00 - 13:00 Uhr, Skillslab Perle - Kurs
 
@@ -2298,96 +1857,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136268&periodId=589>
 
 - **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung+SaundSo | — | 14:00–17:00 | 20.06.2026–21.06.2026 | — |
-
-### 081 PERLE Nahtkurs 2, So., 21.06.2026, 10:00 - 12:30 Uhr, SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15889563` · **unitId:** `136277`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870895|exam:15889563>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136277&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | So | 10:00–12:30 | 21.06.2026 | — |
-
-### 082 PERLE Nahtkurs 3, So., 21.06.2026, 13:30 - 15:30 Uhr, SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15889572` · **unitId:** `136279`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870932|exam:15889572>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136279&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | So | 13:30–15:30 | 21.06.2026 | — |
-
-### 083 PERLE Blutkurs 1, So., 21.06.2026, 10:30 - 13:00 Uhr, SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15889658` · **unitId:** `136285`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871153|exam:15889658>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136285&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | So | 10:30–13:00 | 21.06.2026 | — |
-
-### 084 PERLE Sonografie für Anfängerinnen und Anfänger, Do., 25.06.2026, 16:30 - 19:00 Uhr, SimPatiK - Kurs
-
-- **Segment:** `exam:15889675` · **unitId:** `136292`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871261|exam:15889675>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136292&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Turnus:** nur im Sommersemester
-
-### 086 PERLE Blutkurs 2, Fr., 26.06.2026, 17:00 - 19:30 Uhr, SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15889706` · **unitId:** `136300`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871179|exam:15889706>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136300&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Turnus:** nur im Sommersemester
-
-### 087 PERLE Untersuchungskurs: untere Extremität, Fr. 26.06.2026, 17:30 - 20:00 Uhr, SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15889755` · **unitId:** `136305`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871345|exam:15889755>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136305&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 17:30–20:00 | 26.06.2026 | — |
 
 ### 088 PERLE Thoraxdrainage-Kurs. Sa., 27.06.2026, 15:00 - 17:45 Uhr, SkillsLab Perle - Kurs
 
@@ -2404,88 +1874,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Sa | 15:00–17:45 | 27.06.2026 | — |
-
-### 089 PERLE Blutkurs 1, Di., 30.06.2026, 17:00 - 19:30 Uhr, SkillsLab Perle - Kurs
-
-- **Segment:** `exam:15889832` · **unitId:** `136314`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871153|exam:15889832>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136314&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 17:00–19:30 | 30.06.2026 | — |
-
-### 090 PERLE Mikrochirurgie, Di., 07.07.2026, 15:00 - 19:00 Uhr, chirurgisches Bettenhaus, B2-2, Raum 226 - Kurs
-
-- **Segment:** `exam:15905200` · **unitId:** `136844`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13870776|exam:15905200>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136844&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 15:00–19:00 | 07.07.2026 | — |
-
-### 091 PERLE Röntgenthoraxkurs, Sa., 08.08.2026. 10:00 - 11:30 Uhr, INZ, Raumnummer U1.977 (ISI-Meetingraum). - Kurs
-
-- **Segment:** `exam:17716784` · **unitId:** `138691`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871102|exam:17716784>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138691&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Turnus:** nur im Sommersemester
-
-### 092 PERLE Röntgenthoraxkurs, Sa., 08.08.2026, 11:30 - 13:00 Uhr, INZ, Raumnummer U1.977 (ISI-Meetingraum) - Kurs
-
-- **Segment:** `exam:17716824` · **unitId:** `138693`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871102|exam:17716824>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138693&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Sa | 11:30–13:00 | 08.08.2026 | — |
-
-### 093 PERLE Röntgenthoraxkurs, Sa., 19.09.2026, 10:00 - 11:30 Uhr, INZ, Raumnummer U1.977 (ISI-Meetingraum). - Kurs
-
-- **Segment:** `exam:17717034` · **unitId:** `138697`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871102|exam:17717034>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138697&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Turnus:** nur im Sommersemester
-
-### 094 PERLE Röntgenthoraxkurs, Sa., 19.09.2026, 11:30 - 13:00 Uhr, INZ, Raumnummer U1.977 (ISI-Meetingraum). - Kurs
-
-- **Segment:** `exam:17717054` · **unitId:** `138698`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871102|exam:17717054>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138698&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Sa | 11:30–13:00 | 19.09.2026 | — |
 
 ### Arabisch II (B.A. Islamisch-Religiöse Studien) - Übung
 
@@ -2514,7 +1902,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 18:00–19:30 | 13.04.2026–13.07.2026 | 00501.01.012 ( KH 1.012 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 18:00–19:30 | 15.04.2026–15.07.2026 | 54801.02.012 (SP 02.012 Schlossplatz 1) |
 
 ### Arabisch: Elementarkurs III - Übung
 
@@ -2630,6 +2026,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Online-Kurs
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Spanisch
 - **Turnus:** in jedem Semester
 
 ### Comprensión y comunicación escrita - Übung
@@ -2717,24 +2114,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mo | 08:30–10:00 | 20.04.2026–13.07.2026 | 54201.01.006 ( Übungsraum I/6 Studienzentrum) |
 | wöchentlich | Mi | 08:30–10:00 | 22.04.2026–15.07.2026 | 54201.01.006 ( Übungsraum I/6 Studienzentrum) |
-
-### Deutsch A1: Allgemeinkurs (Maxikurs) (Nürnberg) - Übung
-
-- **Segment:** `exam:13870707` · **unitId:** `127110`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13869595|exam:13870707>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127110&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 18:30–20:00 | 20.04.2026–13.07.2026 | 21101.01.114 (LG H3 GfK-Hörsaal (155 Plätze) &quot;Gesellschaft für Konsumforschung&quot;) |
-| wöchentlich | Mi | 18:30–20:00 | 22.04.2026–15.07.2026 | 21101.01.114 (LG H3 GfK-Hörsaal (155 Plätze) &quot;Gesellschaft für Konsumforschung&quot;) |
 
 ### Deutsch A1: Allgemeinkurs - Übung
 
@@ -2855,6 +2234,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### Deutsch B1.1: Allgemeinkurs - Übung
@@ -2926,26 +2306,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 21.04.2026–14.07.2026 | 05203.00.216 (SZ 00.216 (Bismarckstr. 10) Belegung nur nach Rücksprache mit der Raumverantwortlichen) |
-| wöchentlich | Do | 14:15–15:45 | 23.04.2026–16.07.2026 | 05203.00.216 (SZ 00.216 (Bismarckstr. 10) Belegung nur nach Rücksprache mit der Raumverantwortlichen) |
-
-### Deutsch B1: Allgemeinkurs - Übung
-
-- **Segment:** `exam:13870709` · **unitId:** `127471`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13869595|exam:13870709>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127471&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:15–11:45 | 21.04.2026–14.07.2026 | 54801.02.011 (SP 02.011 Schlossplatz 1) |
-| wöchentlich | Do | 10:15–11:45 | 23.04.2026–16.07.2026 | 54801.02.011 (SP 02.011 Schlossplatz 1) |
+| wöchentlich | Mo | 12:15–13:45 | 20.04.2026–13.07.2026 | 05203.02.215 (SZ 02.215 (Bismarckstr. 10) Belegung nur nach Rücksprache mit der Raumverantwortlichen) 05801.U1.0232 (SL 104, Bismarckstr. 1 Multimedia-Sprachlabor (Belegung nur nach Rücksprache mit den Raumverantwortlichen)) |
+| wöchentlich | Mi | 12:15–13:45 | 22.04.2026–15.07.2026 | 05203.00.216 (SZ 00.216 (Bismarckstr. 10) Belegung nur nach Rücksprache mit der Raumverantwortlichen) |
 
 ### Deutsch B1: Grammatik - Übung
 
@@ -2991,23 +2353,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 10:15–11:45 | 20.04.2026–13.07.2026 | 00501.00.015 ( KH 0.015 Hörsaal Kollegienhaus (SR)) |
-
-### Deutsch B1: Leseverstehen - Übung
-
-- **Segment:** `exam:13870711` · **unitId:** `132252`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13869595|exam:13870711>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132252&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 10:15–11:45 | 24.04.2026–17.07.2026 | 05701.U1.008 () |
 
 ### Deutsch B1: Mündlicher Ausdruck (Interkulturelle Landeskunde) - Übung
 
@@ -3308,7 +2653,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung | — | 08:30–14:00 | 23.03.2026–26.03.2026 | 54801.01.013 (SP 01.013 Schlossplatz 1) |
+| Blockveranstaltung | — | 08:30–14:00 | 23.03.2026–26.03.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
 
 ### DSH-Semesterkurs (Voranmeldung obligatorisch) - Kurs
 
@@ -3364,40 +2709,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 54801.02.012 (SP 02.012 Schlossplatz 1) |
 | wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 54801.02.012 (SP 02.012 Schlossplatz 1) |
-
-### English: Level 0 - Focus on Speaking - Übung
-
-- **Segment:** `exam:13869923` · **unitId:** `131247`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13869595|exam:13869923>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131247&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:15–13:45 | 21.04.2026–14.07.2026 | 54201.01.007 ( Übungsraum I/7 Studienzentrum) |
-
-### English: Level 0 - Focus on Writing - Übung
-
-- **Segment:** `exam:13869924` · **unitId:** `131249`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13869595|exam:13869924>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131249&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:15–11:45 | 21.04.2026–14.07.2026 | 54201.01.007 ( Übungsraum I/7 Studienzentrum) |
 
 ### English: Level 1 - Focus on Academic Writing  - Übung
 
@@ -3473,7 +2784,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13869595|exam:13869772>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97716&periodId=589>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -3583,40 +2897,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 10:15–11:45 | 21.04.2026–14.07.2026 | 00501.00.014 ( KH 0.014 Hörsaal Kollegienhaus (SR) - 42 Plätze) |
 
-### English: Level 2 - Writing and Presenting for Natural Scientists - Übung
-
-- **Segment:** `exam:13869925` · **unitId:** `131251`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13869595|exam:13869925>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131251&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:15–11:45 | 23.04.2026–16.07.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
-
-### English: Level 3 - Communicating in a Professional Context - Übung
-
-- **Segment:** `exam:13869917` · **unitId:** `127210`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13869595|exam:13869917>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127210&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:15–11:45 | 22.04.2026–15.07.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
-
 ### English: Level 3 - Conversational Language - Übung
 
 - **Segment:** `exam:13869792` · **unitId:** `101218`
@@ -3718,23 +2998,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mo | 10:15–11:45 | 20.04.2026–13.07.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
 
-### English: Level 3 - How to Win Any Argument - Kurs
-
-- **Segment:** `exam:17715284` · **unitId:** `134561`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13869595|exam:17715284>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134561&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 14:15–15:45 | 22.04.2026–15.07.2026 | 54606.02.021 (F 21 (IFA)) |
-
 ### English: Level 3 - Intercultural Communication - Übung
 
 - **Segment:** `exam:13869891` · **unitId:** `115692`
@@ -3750,40 +3013,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:15–15:45 | 20.04.2026–13.07.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
-
-### English: Level 3 - Language, Power and Human Rights - Kurs
-
-- **Segment:** `exam:17715334` · **unitId:** `134565`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13869595|exam:17715334>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134565&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **ECTS-Punkte:** 4.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 10:15–11:45 | 24.04.2026–17.07.2026 | 00501.00.014 ( KH 0.014 Hörsaal Kollegienhaus (SR) - 42 Plätze) 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
-
-### English: Level 3 - Perfect your English Pronunciation and Intonation - Kurs
-
-- **Segment:** `exam:13869932` · **unitId:** `132309`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13869595|exam:13869932>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132309&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 16:15–17:45 | 23.04.2026–16.07.2026 | 00501.00.014 ( KH 0.014 Hörsaal Kollegienhaus (SR) - 42 Plätze) |
 
 ### English: Level 3 - Presenting Scientific Papers for Natural Scientists - Übung
 
@@ -3870,23 +3099,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Fr | 12:15–13:45 | 24.04.2026–17.07.2026 | 00501.00.014 ( KH 0.014 Hörsaal Kollegienhaus (SR) - 42 Plätze) 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
 
-### English: Level 4 - Critical thinking and problem solving in English - Übung
-
-- **Segment:** `exam:13869927` · **unitId:** `131253`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13869595|exam:13869927>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131253&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:15–11:45 | 20.04.2026–13.07.2026 | 05801.04.112 ( A 602) |
-
 ### English: Level 4 - Editing Scientific Documents - Übung
 
 - **Segment:** `exam:13869795` · **unitId:** `102281`
@@ -3919,23 +3131,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 16:15–17:45 | 14.04.2026–21.07.2026 | 00501.00.014 ( KH 0.014 Hörsaal Kollegienhaus (SR) - 42 Plätze) |
-
-### English: Level 4 - The Art of Storytelling - Übung
-
-- **Segment:** `exam:13869928` · **unitId:** `131254`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13869595|exam:13869928>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131254&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:15–15:45 | 23.04.2026–16.07.2026 | 05701.U1.008 () |
 
 ### English: Level 4 - Writing and Presenting Articles - Übung
 
@@ -3979,6 +3174,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 08:15–09:45 | 23.04.2026–16.07.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
 
 ### English: Level E - Elementary English - Übung
 
@@ -4151,7 +3352,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13869595|exam:13869737>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93540&periodId=589>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Französisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -5022,7 +4226,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13869595|exam:13869623>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85143&periodId=589>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 ### Schwedisch: Multimedialer Online-Kurs bayernweit: Leseverstehen für Fortgeschrittene - Klara, färdiga, gå! B1 - Übung
 
@@ -5048,7 +4255,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mi | 17:30–20:00 | 17.06.2026 | — |
+| Einzeltermin | Mi | 17:30–20:00 | 06.05.2026 | — |
 
 ### SkillsLab MCO_EKG 1 Kurs - Kurs
 
@@ -5056,7 +4263,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13871414|exam:13871427|exam:13871429>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=109228&periodId=589>
 
+- **Veranstaltungsart:** Kurs
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -5079,38 +4288,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Di | 18:15–20:45 | 02.06.2026 | — |
-
-### SkillsLab MCO_EKG 3 Kurs - Kurs
-
-- **Segment:** `exam:15805178` · **unitId:** `135534`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13871414|exam:15805135|exam:15805178>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135534&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 18:15–20:15 | 01.07.2026 | — |
-
-### SkillsLab MCO_Freies Schallen - Kurs
-
-- **Segment:** `exam:13871474` · **unitId:** `117183`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13871414|exam:13871472|exam:13871474>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117183&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 13:00–15:00 | 17.06.2026 | — |
 
 ### SkillsLab MCO_Freies Üben - Kurs
 
@@ -5256,22 +4433,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | Einzeltermin | Do | 17:30–19:30 | 23.04.2026 | — |
 
-### SkillsLab MCO_Untersuchungskurs Orthopädie obere + untere Extremität - Kurs
-
-- **Segment:** `exam:15942993` · **unitId:** `137810`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13871414|exam:15934224|exam:15942993>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137810&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 18:15–20:45 | 30.06.2026 | — |
-
 ### Spanisch 1 (Niveau A1) - Übung
 
 - **Segment:** `exam:13870701` · **unitId:** `93758`
@@ -5316,7 +4477,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13869595|exam:13870704>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86215&periodId=589>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Spanisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -5333,7 +4497,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Spanisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 11:30–13:00 | 21.04.2026–14.07.2026 | 21102.02.431 (LG 2.431 Multimediasprachlabor) |
+| wöchentlich | Mi | 11:30–13:00 | 22.04.2026–15.07.2026 | 21101.00.144 (LG 0.144 (38 Plätze) Übungsraum) |
 
 ### Spanisch C1 - Übung
 
@@ -5706,6 +4878,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:13869611` · **unitId:** `83567`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13869595|exam:13869611>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83567&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -7426,8 +6602,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13869595|exam:13870446>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118788&periodId=589>
 
-- **ECTS-Punkte:** 2.5
-
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
@@ -7484,6 +6658,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121173&periodId=589>
 
 - **ECTS-Punkte:** 2.5
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### 30574 Grammatica e stilistica 2 - corso superiore - Leistung
 
@@ -7625,7 +6805,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13869595|exam:13870478>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123884&periodId=589>
 
-- **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -7640,6 +6819,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13869595|exam:13870481>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123887&periodId=589>
 
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -7812,21 +6992,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### 30650 English: Level 3 - English through Music, Movies, and Literature - Leistung
-
-- **Segment:** `exam:13870521` · **unitId:** `128523`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13869595|exam:13870521>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128523&periodId=589>
-
-- **ECTS-Punkte:** 4.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
 ### 30656 English: Level 2 - Spoken English for Technology Students - Leistung
 
 - **Segment:** `exam:13870526` · **unitId:** `129433`
@@ -7854,34 +7019,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### 30661 Cultura e Civiltà I - Leistung
-
-- **Segment:** `exam:13870530` · **unitId:** `130505`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13869595|exam:13870530>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130505&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 30662 L’italiano per il lavoro - Leistung
-
-- **Segment:** `exam:13870531` · **unitId:** `130506`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13869595|exam:13870531>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130506&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | 10:00–12:00 | — | — |
 
 ### 41001 Schriftliche Übersetzungsleistung Latein I für Anfänger (Zulassungsvoraussetzung zu Kurs Latein II für Fortgeschrittene) - Leistung
 
@@ -8607,95 +7744,11 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### 92531 Skillslab PERLE Untersuchungskurs: obere Extremität - Leistung
-
-- **Segment:** `exam:13871340` · **unitId:** `125679`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871339|exam:13871340>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125679&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
 ### 92541 Skillslab PERLE Untersuchungskurs: untere Extremität - Leistung
 
 - **Segment:** `exam:13871346` · **unitId:** `125682`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871345|exam:13871346>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125682&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 92551 Skillslab PERLE Fit für den Stationseinsatz - Leistung
-
-- **Segment:** `exam:13871352` · **unitId:** `125685`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871351|exam:13871352>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125685&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 92561 Skillslab PERLE Nahtkurs 1 mit Schwerpunkt Geburtshilfe - Leistung
-
-- **Segment:** `exam:13871360` · **unitId:** `125688`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871359|exam:13871360>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125688&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 92571 SkillsLab PERLE Basics HNO - Leistung
-
-- **Segment:** `exam:13871369` · **unitId:** `128682`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871368|exam:13871369>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128682&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 92581 SkillsLab PERLE Basics Kardiologie - Leistung
-
-- **Segment:** `exam:13871373` · **unitId:** `128687`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871372|exam:13871373>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128687&periodId=589>
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 92591 SkillsLab PERLE Basics Pädiatrie - Leistung
-
-- **Segment:** `exam:13871378` · **unitId:** `128689`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871377|exam:13871378>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128689&periodId=589>
-
-- **ECTS-Punkte:** 0.0
 
 #### Termine
 
@@ -8711,33 +7764,17 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **ECTS-Punkte:** 0.0
 
-### 92611 SkillsLab PERLE Sonografie für Fortgeschrittene - Leistung
-
-- **Segment:** `exam:13871391` · **unitId:** `128691`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871390|exam:13871391>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128691&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-
-### 92621 SkillsLab PERLE Spezielle Punktionen - Leistung
-
-- **Segment:** `exam:13871398` · **unitId:** `128694`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871397|exam:13871398>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128694&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### 92631 SkillsLab PERLE Leichenschau - Leistung
+### 92611 SkillsLab PERLE Sonografie für Fortgeschrittene - Leistung
 
-- **Segment:** `exam:13871404` · **unitId:** `133150`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871403|exam:13871404>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133150&periodId=589>
+- **Segment:** `exam:13871391` · **unitId:** `128691`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13870735|exam:13871390|exam:13871391>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128691&periodId=589>
 
 - **ECTS-Punkte:** 0.0
 
@@ -8810,7 +7847,11 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13871414|exam:13871439|exam:13871440>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113743&periodId=589>
 
-- **ECTS-Punkte:** 0.0
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### 95091 Skills Lab MCO Naht 1 - Leistung
 
@@ -8845,6 +7886,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:13871449` · **unitId:** `113746`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13871414|exam:13871448|exam:13871449>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113746&periodId=589>
+
+- **ECTS-Punkte:** 0.0
 
 #### Termine
 
@@ -8916,25 +7959,17 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **ECTS-Punkte:** 0.0
 
-### 95211 Skills Lab MCO Ultraschall Kurs 3 - Leistung
-
-- **Segment:** `exam:13871479` · **unitId:** `120699`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13871414|exam:13871478|exam:13871479>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120699&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### 95241 Skills Lab MCO EKG 3 Kurs - Leistung
+### 95211 Skills Lab MCO Ultraschall Kurs 3 - Leistung
 
-- **Segment:** `exam:15805144` · **unitId:** `135559`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13871414|exam:15805135|exam:15805144>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135559&periodId=589>
+- **Segment:** `exam:13871479` · **unitId:** `120699`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17976|exam:13868770|exam:13868773|exam:13869594|exam:13871414|exam:13871478|exam:13871479>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120699&periodId=589>
 
 - **ECTS-Punkte:** 0.0
 
@@ -9098,7 +8133,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Fr | 14:15–15:45 | 17.04.2026–17.07.2026 | 00501.00.015 ( KH 0.015 Hörsaal Kollegienhaus (SR)) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (329)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (325)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -9330,6 +8365,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.5
 - **Turnus:** in jedem Semester
 
+### Anatomie am Lebenden
+
+- **Segment:** `unit:42212` · **unitId:** `42212`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=42212&periodId=589>
+
+- **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | 14:15–16:30 | — | — |
+
 ### Angewandte Anatomie EMPTY-Kurs
 
 - **Segment:** `unit:37971` · **unitId:** `37971`
@@ -9533,6 +8582,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127389&periodId=589>
 
 - **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Demokurs Bewegungsapparat (Teilleistung 1)
 
@@ -10041,7 +9097,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.0
 - **Turnus:** nur im Wintersemester
 
-### Gramática y estilística II (Studienbeginn WS 2017/18 - SoSe 2021) — Übung
+### Gramática y estilística II — Übung
 
 - **Segment:** `unit:111394` · **unitId:** `111394`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111394&periodId=589>
@@ -10188,10 +9244,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 08:30–14:30 | 27.04.2026 | — |
-| Einzeltermin | Di | 07:30–15:30 | 28.04.2026 | — |
-| Einzeltermin | Mi | 08:30–14:30 | 29.04.2026 | — |
-| Einzeltermin | Do | 08:00–14:30 | 30.04.2026 | — |
+| Einzeltermin | Mo | 08:30–14:30 | 11.05.2026 | — |
+| Einzeltermin | Di | 07:30–15:30 | 12.05.2026 | — |
+| Einzeltermin | Mi | 08:30–14:30 | 13.05.2026 | — |
+| Einzeltermin | Fr | 08:00–14:30 | 15.05.2026 | — |
 
 ### K-P10_BT Innere Medizin, Teil I (BPK)_FG 5 Nephrologie/Rheumatologie — Praktikum
 
@@ -10258,8 +9314,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung | — | 07:30–15:00 | 04.05.2026–05.05.2026 | — |
 | Einzeltermin | Mi | 09:00–11:30 | 06.05.2026 | — |
+| Blockveranstaltung | — | 07:30–15:00 | 07.05.2026–08.05.2026 | — |
 
 ### K-P13_BT Innere Medizin, Teil II (BPK)_FG 1 Gastroenterologie — Praktikum
 
@@ -10274,10 +9330,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 08:00–16:30 | 08.06.2026 | — |
-| Einzeltermin | Di | 08:00–15:30 | 09.06.2026 | — |
-| Einzeltermin | Mi | 08:00–15:30 | 10.06.2026 | — |
-| Einzeltermin | Do | 08:00–16:30 | 11.06.2026 | — |
+| Einzeltermin | Mo | 08:00–16:30 | 15.06.2026 | — |
+| Einzeltermin | Di | 08:00–15:30 | 16.06.2026 | — |
+| Einzeltermin | Mi | 08:00–15:30 | 17.06.2026 | — |
+| Einzeltermin | Do | 08:00–16:30 | 18.06.2026 | — |
 
 ### K-P13_BT Innere Medizin, Teil II (BPK)_FG 2 Kardiologie — Praktikum
 
@@ -10310,11 +9366,11 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 08:00–15:00 | 04.05.2026 | — |
-| Einzeltermin | Di | 08:00–15:00 | 05.05.2026 | — |
-| Einzeltermin | Mi | 08:00–15:00 | 06.05.2026 | — |
-| Einzeltermin | Do | 08:00–15:00 | 07.05.2026 | — |
-| Einzeltermin | Fr | 08:00–15:00 | 08.05.2026 | — |
+| Einzeltermin | Mo | 08:00–15:00 | 18.05.2026 | — |
+| Einzeltermin | Di | 08:00–15:00 | 19.05.2026 | — |
+| Einzeltermin | Mi | 08:00–15:00 | 20.05.2026 | — |
+| Einzeltermin | Do | 08:00–15:00 | 21.05.2026 | — |
+| Einzeltermin | Fr | 08:00–15:00 | 22.05.2026 | — |
 
 ### K-P13_BT Innere Medizin, Teil II (BPK)_FG 4 Hämatologie/Onkologie — Praktikum
 
@@ -10358,17 +9414,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128641&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 07:30–16:30 | 15.06.2026 | — |
-| Einzeltermin | Di | 07:30–16:30 | 16.06.2026 | — |
-| Einzeltermin | Mi | 07:30–15:30 | 17.06.2026 | — |
-| Einzeltermin | Do | 07:30–16:30 | 18.06.2026 | — |
 
 ### K-P14_BT Frauenheilkunde, Geburtshilfe (BPK) — Praktikum
 
@@ -10403,10 +9449,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Mi | 08:00–12:00 | 15.04.2026 | — |
 | Einzeltermin | Do | 08:00–12:00 | 16.04.2026 | — |
 | Einzeltermin | Fr | 08:00–12:00 | 17.04.2026 | — |
-| Einzeltermin | Di | 08:00–14:30 | 05.05.2026 | — |
-| Einzeltermin | Mi | 08:00–14:30 | 06.05.2026 | — |
-| Einzeltermin | Do | 08:00–14:30 | 07.05.2026 | — |
-| Einzeltermin | Fr | 08:00–11:00 | 08.05.2026 | — |
+| Einzeltermin | Mo | 08:00–14:30 | 11.05.2026 | — |
+| Einzeltermin | Di | 08:00–14:30 | 12.05.2026 | — |
+| Einzeltermin | Mi | 08:00–14:30 | 13.05.2026 | — |
+| Einzeltermin | Fr | 08:00–11:00 | 15.05.2026 | — |
 
 ### K-P16_BT Neurologie, Neurochirurgie (BPK) — Praktikum
 
@@ -10439,10 +9485,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 08:00–14:00 | 04.05.2026 | — |
-| Einzeltermin | Di | 07:30–14:00 | 05.05.2026 | — |
-| Einzeltermin | Mi | 07:30–14:00 | 06.05.2026 | — |
-| Einzeltermin | Do | 08:00–11:00 | 07.05.2026 | — |
+| Einzeltermin | Mo | 08:00–14:00 | 11.05.2026 | — |
+| Einzeltermin | Di | 07:30–14:00 | 12.05.2026 | — |
+| Einzeltermin | Mi | 07:30–14:00 | 13.05.2026 | — |
+| Einzeltermin | Fr | 08:00–11:00 | 15.05.2026 | — |
 
 ### K-P1_BT Allgemeinmedizin (BPK) — Praktikum
 
@@ -10536,10 +9582,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 08:00–15:00 | 27.04.2026 | — |
-| Einzeltermin | Di | 08:00–15:00 | 28.04.2026 | — |
-| Einzeltermin | Mi | 08:15–15:45 | 29.04.2026 | — |
-| Einzeltermin | Do | 07:30–12:00 | 30.04.2026 | — |
+| Einzeltermin | Mo | 08:15–15:45 | 27.04.2026 | — |
+| Einzeltermin | Di | 07:30–12:00 | 28.04.2026 | — |
+| Einzeltermin | Mi | 08:00–15:00 | 29.04.2026 | — |
+| Einzeltermin | Do | 08:00–15:00 | 30.04.2026 | — |
 
 ### K-P9_BT Dermatologie (BPK) — Praktikum
 
@@ -10553,13 +9599,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 07:55–12:00 | 04.05.2026 | — |
-| Einzeltermin | Mo | 12:50–14:20 | 04.05.2026 | — |
-| Einzeltermin | Mo | 14:30–16:00 | 04.05.2026 | — |
-| Einzeltermin | Di | 07:55–12:00 | 05.05.2026 | — |
-| Einzeltermin | Mi | 07:55–12:00 | 06.05.2026 | — |
-| Einzeltermin | Do | 07:55–12:00 | 07.05.2026 | — |
-| Einzeltermin | Do | 12:50–16:00 | 07.05.2026 | — |
+| Einzeltermin | Mo | 07:55–12:00 | 18.05.2026 | — |
+| Einzeltermin | Mo | 12:50–14:20 | 18.05.2026 | — |
+| Einzeltermin | Mo | 14:30–16:00 | 18.05.2026 | — |
+| Einzeltermin | Di | 07:55–12:00 | 19.05.2026 | — |
+| Einzeltermin | Mi | 07:55–12:00 | 20.05.2026 | — |
+| Einzeltermin | Do | 07:55–12:00 | 21.05.2026 | — |
+| Einzeltermin | Do | 12:50–16:00 | 21.05.2026 | — |
 
 ### K-PS 11(MCO): Praktikum der Mikrobiologie, Hygiene, Immunologie und Virologie f. 1. klinisches Semester (Medizin Campus Oberfranken)
 
@@ -10569,6 +9615,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Praktikum
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 13:45–16:00 | 20.04.2026–13.07.2026 | 01101.00.040 (Ks Wasserturmstr. 3/5) |
 
 ### K-PS10_BT Klin. Pharmakologie Q9 (S) — Seminar
 
@@ -10621,22 +9673,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120233&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 09:00–12:00 | 13.04.2026 | — |
-| Einzeltermin | Di | 08:00–12:00 | 14.04.2026 | — |
-| Einzeltermin | Di | 13:00–16:00 | 14.04.2026 | — |
-| Einzeltermin | Mi | 09:00–12:00 | 15.04.2026 | — |
-| Einzeltermin | Mi | 13:00–16:00 | 15.04.2026 | — |
-| Einzeltermin | Do | 08:00–12:00 | 16.04.2026 | — |
-| Einzeltermin | Do | 13:00–16:00 | 16.04.2026 | — |
-| Einzeltermin | Fr | 09:00–12:00 | 17.04.2026 | — |
-| Einzeltermin | Fr | 13:00–17:00 | 17.04.2026 | — |
 
 ### K-PS15_BT Übung Histopathologie und Makropathologie
 
@@ -10651,8 +9688,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 08:15–09:00 | 22.04.2026–15.07.2026 | — |
-| wöchentlich | Do | 11:15–12:00 | 23.04.2026–16.07.2026 | — |
+| wöchentlich | Mo | 11:15–12:00 | 20.04.2026–13.07.2026 | — |
+| wöchentlich | Do | 08:15–09:00 | 23.04.2026–16.07.2026 | — |
 
 ### K-PS16_BT Übung spezielle Histopathologie
 
@@ -10666,8 +9703,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 12:15–13:00 | 22.04.2026–01.07.2026 | — |
-| Einzeltermin | Mi | 11:15–12:00 | 08.07.2026 | — |
+| wöchentlich | Mi | 11:15–12:00 | 22.04.2026–08.07.2026 | — |
 
 ### K-PS18 Seminar Pharmakologie und Toxikologie
 
@@ -10682,7 +9718,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 16:00–19:15 | 23.04.2026–09.07.2026 | 00501.01.014 ( KH 1.014 Hörsaal Kollegienhaus) |
+| wöchentlich | Do | 16:00–19:15 | 23.04.2026–09.07.2026 | 00501.02.014 ( KH 2.014 Hörsaal Kollegienhaus) |
 
 ### K-PS19_BT Rechtsmedizin (Ü) — Übung
 
@@ -10696,7 +9732,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Di | 09:00–16:00 | 21.04.2026 | — |
+| Einzeltermin | Mo | 09:00–16:00 | 20.04.2026 | — |
 
 ### K-PS1_BT Arbeits- und Sozialmedizin (Betriebsbegehung) — Übung
 
@@ -10711,7 +9747,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mi | 09:00–11:00 | 22.04.2026 | — |
+| Einzeltermin | Mi | 09:00–12:00 | 22.04.2026 | — |
 
 ### K-PS1_BT Arbeits- und Sozialmedizin (Seminar)
 
@@ -10742,9 +9778,9 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 09:15–14:15 | 06.07.2026 | — |
-| Einzeltermin | Di | 09:15–14:15 | 07.07.2026 | — |
-| Einzeltermin | Mi | 09:15–12:30 | 08.07.2026 | — |
+| Einzeltermin | Mo | 09:15–14:15 | 15.06.2026 | — |
+| Einzeltermin | Di | 09:15–14:15 | 16.06.2026 | — |
+| Einzeltermin | Mi | 09:15–12:30 | 17.06.2026 | — |
 
 ### K-PS22_BT Schmerzmedizin Q14 — Seminar
 
@@ -10761,10 +9797,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Mi | 08:00–09:30 | 22.04.2026 | — |
 | Einzeltermin | Mi | 09:45–11:15 | 22.04.2026 | — |
 | Einzeltermin | Mi | 12:00–13:30 | 22.04.2026 | — |
-| Einzeltermin | Mi | 15:00–16:30 | 22.04.2026 | — |
 | Einzeltermin | Do | 08:00–09:30 | 23.04.2026 | — |
 | Einzeltermin | Do | 09:45–11:15 | 23.04.2026 | — |
 | Einzeltermin | Do | 12:00–13:30 | 23.04.2026 | — |
+| Einzeltermin | Do | 15:00–16:30 | 23.04.2026 | — |
 
 ### K-PS5_BT Geschichte, Theorie, Ethik der Medizin Q2 — Seminar
 
@@ -10862,7 +9898,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97529&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 13:15–14:00 | 24.04.2026–17.07.2026 | 08105.00.915 (Großer Hörsaal - Hörsäle Medizin) |
 
 ### K-V12_BT Vorlesung der Inneren Medizin, Teil 1 für das 2. und 3. klinische Semester
 
@@ -10890,6 +9933,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99854&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### K-V14_BT Anästhesiologie — Vorlesung
@@ -10939,6 +9983,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** in jedem Semester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 15:00–15:45 | 21.04.2026–14.07.2026 | — |
+
 ### K-V17_BT Orthopädie — Vorlesung
 
 - **Segment:** `unit:108023` · **unitId:** `108023`
@@ -10946,13 +9996,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 08:00–09:30 | 20.04.2026 | — |
-| wöchentlich | Mo | 08:15–09:45 | 27.04.2026–06.07.2026 | — |
 
 ### K-V18_BT Infektiologie, Immunologie, Q4 — Vorlesung
 
@@ -11015,7 +10058,16 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96141&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 11:15–12:45 | 21.04.2026–14.07.2026 | — |
+| wöchentlich | Fr | 12:15–13:00 | 24.04.2026–17.07.2026 | — |
+| Einzeltermin | Fr | 13:00–13:45 | 17.07.2026 | — |
 
 ### K-V22_BT Rechtsmedizin — Vorlesung
 
@@ -11058,21 +10110,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89117&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 13:00–14:45 | 05.05.2026 | — |
-| Einzeltermin | Mi | 12:15–13:45 | 06.05.2026 | — |
-| Einzeltermin | Di | 13:00–14:45 | 12.05.2026 | — |
-| wöchentlich | Mi | 12:15–13:45 | 20.05.2026–08.07.2026 | — |
-| Einzeltermin | Mi | 14:00–15:30 | 20.05.2026 | — |
-| Einzeltermin | Di | 13:00–14:45 | 09.06.2026 | — |
-| Einzeltermin | Di | 13:00–14:45 | 16.06.2026 | — |
-| Einzeltermin | Fr | 08:15–09:00 | 26.06.2026 | — |
 
 ### K-V25_BT Dermatologie — Vorlesung
 
@@ -11081,6 +10119,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 11:00–11:30 | 13.04.2026 | — |
+| wöchentlich | Mo | 10:15–11:00 | 20.04.2026–13.07.2026 | — |
+| wöchentlich | Di | 10:15–11:00 | 21.04.2026–07.07.2026 | — |
+| wöchentlich | Mi | 10:15–11:00 | 22.04.2026–08.07.2026 | — |
 
 ### K-V26_BT Arbeitsmedizin, Sozialmedizin und Umweltmedizin — Vorlesung
 
@@ -11136,6 +10183,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** in jedem Semester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 17:00–18:30 | 22.04.2026–08.07.2026 | — |
+
 ### K-V31_BT Neurologie (incl. Neurochirurgie) — Vorlesung
 
 - **Segment:** `unit:113055` · **unitId:** `113055`
@@ -11143,15 +10196,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 09:15–10:00 | 20.04.2026–13.07.2026 | — |
-| wöchentlich | Di | 08:00–09:30 | 21.04.2026–14.07.2026 | — |
-| Einzeltermin | Do | 08:00–09:30 | 02.07.2026 | — |
-| Einzeltermin | Do | 09:30–11:00 | 02.07.2026 | — |
 
 ### K-V33_BT Psychosomatik und Psychotherapie — Vorlesung
 
@@ -11352,22 +10396,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Turnus:** Unregelmäßig
 
-### MED 42001 Ärztliche Selbstfürsorge und Fehlerkultur: Wege zu einer besseren Patient:innenversorgung — Praxisseminar
-
-- **Segment:** `unit:126788` · **unitId:** `126788`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126788&periodId=589>
-
-- **Veranstaltungsart:** Praxisseminar
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | — |
-
 ### MED 42051: "Amors vergifteter Pfeil." Die Geschichte der Syphilis — Seminar
 
 - **Segment:** `unit:127582` · **unitId:** `127582`
@@ -11375,41 +10403,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 
-### MED 42101: Aufklärung über Gesundheit, Sex und Geschlechterrollen in Filmen und Liedern der DDR — Seminar
+### MED 42651 - Microbiomics — Seminar
 
-- **Segment:** `unit:127647` · **unitId:** `127647`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127647&periodId=589>
+- **Segment:** `unit:125732` · **unitId:** `125732`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125732&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
+- **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** in jedem Semester
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 16:15–19:45 | 20.04.2026 | — |
-| Einzeltermin | Mo | 16:15–19:45 | 04.05.2026 | — |
-| Einzeltermin | Mo | 16:15–19:45 | 18.05.2026 | — |
-| Einzeltermin | Mo | 16:15–19:45 | 01.06.2026 | — |
-| Einzeltermin | Mo | 16:15–19:45 | 08.06.2026 | — |
-| Einzeltermin | Mo | 16:15–19:45 | 22.06.2026 | — |
-| Einzeltermin | Mo | 16:15–19:45 | 29.06.2026 | — |
-
-### MED 42751: Mensch-Medizin-Maschine. Objektgeschichten als Medizingeschichte 3D — Seminar
-
-- **Segment:** `unit:132306` · **unitId:** `132306`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132306&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 16:15–19:00 | 30.04.2026–09.07.2026 | — |
+| wöchentlich | Mo | 14:00–15:30 | 20.04.2026–13.07.2026 | — |
+| wöchentlich | Di | 10:30–12:00 | 21.04.2026–14.07.2026 | — |
 
 ### MED 44001: "Durch die hörnerne oder elfenbeinfarbene Pforte..." - Traumdeutung in der Antike — Seminar
 
@@ -11488,7 +10497,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92024&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:30–16:45 | 20.04.2026–13.07.2026 | — |
 
 ### MED 45451 Experimentelle Virologie mit Demonstrationen - Wahlpflichtfach im 1. Studienabschnitt Medizin — Vorlesung
 
@@ -11661,10 +10677,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:00–16:00 | 13.04.2026–13.07.2026 | — |
 
-### MED 47051: Spitzenmedizin. Antike Herrscher und ihre Hofärzte. Persien, Griechenland, Rom, Byzanz — Seminar
+### MED 47151 - CAR-T-Zellen - Die lebende Medizin — Seminar
 
-- **Segment:** `unit:134585` · **unitId:** `134585`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134585&periodId=589>
+- **Segment:** `unit:135221` · **unitId:** `135221`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135221&periodId=589>
 
 - **Veranstaltungsart:** Seminar
 - **Unterrichtssprache:** Deutsch
@@ -11674,19 +10690,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Di | 18:15–19:45 | 28.04.2026 | — |
-| Einzeltermin | Di | 18:15–19:45 | 05.05.2026 | — |
-| Einzeltermin | Di | 18:15–19:45 | 02.06.2026 | — |
-| Einzeltermin | Di | 18:15–19:45 | 09.06.2026 | — |
-| Einzeltermin | Di | 16:00–20:00 | 16.06.2026 | — |
-
-### MED 47151 - CAR-T-Zellen - Die lebende Medizin — Seminar
-
-- **Segment:** `unit:135221` · **unitId:** `135221`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135221&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
+| wöchentlich | Mo | 14:00–17:00 | 13.04.2026–27.07.2026 | — |
 
 ### MED 47201 Superorgan Immunsystem - Biologie, Fehlfunktion und therapeutische Ansätze — Seminar
 
@@ -11748,6 +10752,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90111&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### MED 81051 Praxis in Erster Hilfe und Wiederbelebung für Vorkliniker — Seminar
@@ -11765,7 +10770,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94454&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 09:00–16:00 | 14.09.2026–18.09.2026 | — |
 
 ### MED 82501 Einführung muskuloskelettale Bildgebung - Ultraschall — Seminar
 
@@ -11807,6 +10819,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86784&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
 
 ### MED 89941 Einführung in die CRISPR/Cas9-Technik — Seminar
@@ -11862,16 +10875,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132131&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–18:00 | 24.04.2026 | — |
-| Einzeltermin | Sa | 08:00–16:00 | 25.04.2026 | — |
-| Einzeltermin | Fr | 14:00–18:00 | 08.05.2026 | — |
 
 ### MED43407 Wahlpflichtfach Praktische Gastroenterologie — Seminar
 
@@ -11879,17 +10883,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134688&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–18:00 | 08.05.2026 | — |
-| Einzeltermin | Sa | 09:00–16:00 | 09.05.2026 | — |
-| Einzeltermin | So | 09:00–16:00 | 10.05.2026 | — |
-| Einzeltermin | Fr | 14:00–18:00 | 22.05.2026 | — |
 
 ### MED43451 Wahlpflichtfach Plastische Gesichtschirurgie — Seminar
 
@@ -11931,7 +10925,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84414&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–17:30 | 27.04.2026–29.06.2026 | — |
 
 ### MED46421 Bootcamp Pathologie — Seminar
 
@@ -11960,19 +10961,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113422&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–18:00 | 17.04.2026 | — |
-| Einzeltermin | Sa | 08:00–14:00 | 18.04.2026 | — |
-| Einzeltermin | Sa | 08:00–14:00 | 09.05.2026 | — |
-| Einzeltermin | Fr | 14:00–18:00 | 22.05.2026 | — |
-| Einzeltermin | Fr | 14:00–18:00 | 26.06.2026 | — |
-| Einzeltermin | Sa | 08:00–14:00 | 27.06.2026 | — |
 
 ### MED46481 Wahlpflichtfach - Plastische, Rekonstruktive, Ästhetische und Handchirurgie — Seminar
 
@@ -12018,13 +11007,29 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **Turnus:** in jedem Semester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 14:30–17:00 | 24.04.2026 | — |
+| Einzeltermin | Fr | 14:30–17:00 | 15.05.2026 | — |
+| Einzeltermin | Fr | 14:00–17:00 | 19.06.2026 | — |
+
 ### MED46591 Wahlpflichtfach - Forensische Psychiatrie und Psychotherapie — Seminar
 
 - **Segment:** `unit:120845` · **unitId:** `120845`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120845&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 14:30–18:30 | 24.04.2026–22.05.2026 | — |
+| Einzeltermin | Fr | 14:30–19:30 | 29.05.2026 | — |
 
 ### MED46611 Wahlpflichtfach - Einführung in die Kinder- und Jugendpsychiatrie, -psychotherapie — Seminar
 
@@ -12052,7 +11057,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82595&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 14:00–16:30 | 20.04.2026 | 00801.02.055 (Anatom. Sammlung) |
+| Blockveranstaltung | — | 09:00–17:00 | 25.04.2026–26.04.2026 | — |
 
 ### MED48251 Wahlpflichtfach SPAM II - Sportmedizin in der Allgemeinmedizin — Seminar
 
@@ -12076,17 +11089,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93712&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 16:30–18:30 | 20.04.2026 | — |
-| Einzeltermin | Mo | 16:30–18:30 | 18.05.2026 | — |
-| Blockveranstaltung+Sa | — | 00:00–00:01 | 13.06.2026 | — |
-| Einzeltermin | Mo | 16:30–18:30 | 15.06.2026 | — |
 
 ### MED76701 Wahlpflichtfach - Differentialdiagnosen in der Pathologie: Mikroskopieren leicht gemacht - Wahlpflichtfach Angebot 01 — Seminar
 
@@ -12166,26 +11169,25 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **Turnus:** in jedem Semester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Di | 09:00–12:00 | 07.04.2026 | — |
+| Einzeltermin | Di | 14:00–16:00 | 07.04.2026 | — |
+| Einzeltermin | Mi | 09:00–12:00 | 08.04.2026 | — |
+| Einzeltermin | Mi | 14:00–16:00 | 08.04.2026 | — |
+| Einzeltermin | Do | 09:00–12:00 | 09.04.2026 | — |
+| Einzeltermin | Do | 14:00–16:00 | 09.04.2026 | — |
+| Einzeltermin | Fr | 09:00–12:00 | 10.04.2026 | — |
+| Einzeltermin | Fr | 14:00–16:00 | 10.04.2026 | — |
+
 ### MED: 42701: Die Erfindung des Hippokrates. Was gibt's Neues bei den Griechen? — Seminar
 
 - **Segment:** `unit:132305` · **unitId:** `132305`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132305&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-
-### Medizin - Mensch - Maschine. Objektgeschichten als Medizingeschichte 3D
-
-- **Segment:** `unit:131758` · **unitId:** `131758`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131758&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
 
 ### Neugriechisch für die archäologischen Wissenschaften (2) — Übung
 
@@ -12384,6 +11386,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118417&periodId=589>
 
 - **ECTS-Punkte:** 0.0
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Russisch als Herkunftssprache — Übung
 
@@ -12616,20 +11624,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Kurs
 - **Turnus:** in jedem Semester
 
-### Spitzenmedizin. Antike Herrscher und ihre Hofärzte. Persien, Griechenland, Rom, Byzanz
-
-- **Segment:** `unit:134797` · **unitId:** `134797`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134797&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
 ### Swahili I Online — Kurs
 
 - **Segment:** `unit:111616` · **unitId:** `111616`
@@ -12741,7 +11735,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 09:00–12:30 | 24.04.2026 | — |
+| Einzeltermin | Fr | 10:15–12:30 | 24.04.2026 | — |
 
 ### V-PS15_BT Praktikum Berufsfelderkundung Veranstaltungstag 2
 
@@ -12883,8 +11877,28 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 00601.00.012 (Hörsaal Physiologie) |
-| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–26.06.2026 | 00501.01.013 ( KH 1.013 Hörsaal Kollegienhaus) |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | 00601.00.012 (Hörsaal Physiologie) |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | 00601.01.021 (SR 1, Physio 1) |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | 00601.01.009 (SR 2, Physio 1) |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | 00601.00.016 (Prak_Physio 1) |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | 00601.00.011 |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | — |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | — |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | — |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | — |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | — |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | — |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | — |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | — |
+| wöchentlich | Fr | 08:00–09:45 | 17.04.2026–26.06.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–26.06.2026 | 00501.00.015 ( KH 0.015 Hörsaal Kollegienhaus (SR)) |
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–26.06.2026 | 00501.01.014 ( KH 1.014 Hörsaal Kollegienhaus) |
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | 00601.00.011 |
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | 00601.00.016 (Prak_Physio 1) |
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | 00601.01.009 (SR 2, Physio 1) |
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | 00601.01.021 (SR 1, Physio 1) |
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | 06701.00.018 (Kursraum Physiologie 2) |
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | 06701.00.020 (Kursraum Physiologie 2 und Biometrie) |
 
 ### V-PS5C Seminar Zellphysiologie
 
@@ -12924,7 +11938,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87284&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 10:15–12:00 | 17.04.2026–17.07.2026 | — |
+| wöchentlich | Fr | 10:15–12:00 | 17.04.2026–17.07.2026 | — |
 
 ### V-PS7D Kompaktseminar Biochemie
 
@@ -13011,31 +12033,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Do | 09:15–10:00 | 16.04.2026–16.07.2026 | 00801.00.112 (H Anatomie I (Eingang über Universitätsstraße 19)) |
 | wöchentlich | Do | 09:15–10:00 | 16.04.2026–16.07.2026 | 00601.00.012 (Hörsaal Physiologie) |
 
-### V-V13/1-V10 Vorlesung Allgemeine Histologie und Embryologie
-
-- **Segment:** `unit:132791` · **unitId:** `132791`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132791&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 10:15–11:00 | 04.05.2026 | — |
-| Einzeltermin | Di | 10:15–11:00 | 05.05.2026 | — |
-| wöchentlich | Mi | 10:15–11:00 | 06.05.2026–24.06.2026 | 03006.00.607 (Hörsaal 1 - Östliche Stadtmauerstraße 11) |
-| wöchentlich | Fr | 12:30–13:15 | 08.05.2026–26.06.2026 | 03006.00.607 (Hörsaal 1 - Östliche Stadtmauerstraße 11) |
-| Einzeltermin | Mo | 10:15–11:00 | 01.06.2026 | — |
-
 ### V-V2 Vorlesung zum Praktikum Chemie für Mediziner [V-V2]
 
 - **Segment:** `unit:87366` · **unitId:** `87366`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87366&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Turnus:** in jedem Semester
+
+### V-V4 Vorlesung zur Biochemischen Propädeutik
+
+- **Segment:** `unit:89418` · **unitId:** `89418`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89418&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
@@ -13043,8 +12054,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 08:00–10:00 | 15.04.2026–08.07.2026 | 11907.01.040 (H18) |
-| wöchentlich | Fr | 08:00–10:00 | 17.04.2026–10.07.2026 | 11907.01.040 (H18) |
+| wöchentlich | Do | 10:15–11:00 | 16.04.2026–16.07.2026 | — |
+| wöchentlich | Do | 10:15–11:00 | 16.04.2026–16.07.2026 | 06901.00.035 (Hörsaal Biochemie) |
 
 ### V-V5A/B und 1-V13/14  Biochemie und Molekularbiologie I+II Hauptvorlesung
 
@@ -13063,6 +12074,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Mo | 11:15–12:45 | 13.04.2026–13.07.2026 | 08105.00.915 (Großer Hörsaal - Hörsäle Medizin) |
 | wöchentlich | Mi | 11:15–12:45 | 15.04.2026–15.07.2026 | 06901.00.035 (Hörsaal Biochemie) |
 | wöchentlich | Mi | 11:15–12:45 | 15.04.2026–15.07.2026 | 08105.00.915 (Großer Hörsaal - Hörsäle Medizin) |
+
+### V-V6/1-V9 Funktionelle Anatomie des Bewegungsapparates — Vorlesung
+
+- **Segment:** `unit:89906` · **unitId:** `89906`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89906&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:15–11:00 | 20.04.2026–06.07.2026 | 03006.00.607 (Hörsaal 1 - Östliche Stadtmauerstraße 11) |
+| wöchentlich | Di | 10:15–12:00 | 21.04.2026–07.07.2026 | 03006.00.607 (Hörsaal 1 - Östliche Stadtmauerstraße 11) |
 
 ### V-V7 Vorlesung Topographische Anatomie (2. Sem. Humanmedizin)
 
@@ -13127,17 +12154,3 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Mi | 08:15–09:00 | 01.07.2026 | 08105.00.915 (Großer Hörsaal - Hörsäle Medizin) |
 | Einzeltermin | Do | 08:15–09:00 | 09.07.2026 | 08105.00.915 (Großer Hörsaal - Hörsäle Medizin) |
 | Einzeltermin | Fr | 08:15–09:00 | 10.07.2026 | 08105.00.915 (Großer Hörsaal - Hörsäle Medizin) |
-
-### Ärztliche Selbstfürsorge und Fehlerkultur: Wege zu einer besseren Patienten- und Patientinnen-Versorgung
-
-- **Segment:** `unit:127385` · **unitId:** `127385`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127385&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |

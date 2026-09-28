@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "exam:13840297"
 campo_path: "title:17593|title:17599|exam:13840297"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13840297"
-po_version_count: 0
-course_count: 23
+po_version_count: 3
+course_count: 20
 ---
 
 # - Sonstige Veranstaltungen (FAU Scientia) -
@@ -14,7 +14,24 @@ course_count: 23
 
 _Section: FAU Scientia Gaststudium_  
 
-## Veranstaltungen (23)
+## Prüfungsordnungs-Versionen (3)
+
+### Die Kirche von Rom und der Orient - Seminar
+
+- **Campo-Segment:** `exam:15913549`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13840297|exam:15913549>
+
+### Projekt: Arabischsprachige Webseite des Bayerischen Forschungsinstituts - Vorlesung mit Übung
+
+- **Campo-Segment:** `exam:17818922`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13840297|exam:17818922>
+
+### Rückert-Vorlesung - Vorlesung
+
+- **Campo-Segment:** `exam:15771806`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13840297|exam:15771806>
+
+## Veranstaltungen (20)
 
 ### Advanced Laser - Vorlesung mit Übung
 
@@ -39,23 +56,6 @@ _Section: FAU Scientia Gaststudium_
 | Einzeltermin | Fr | 13:00–17:00 | 19.06.2026 | 07205.00.030 (SR 00.030 Seminarraum EG Konrad-Zuse-Str. 3/5 - Belegung ausschließlich durch Lehrveranstaltungen) |
 | Einzeltermin | Fr | 13:00–17:00 | 03.07.2026 | 07205.00.030 (SR 00.030 Seminarraum EG Konrad-Zuse-Str. 3/5 - Belegung ausschließlich durch Lehrveranstaltungen) |
 | Einzeltermin | Fr | 13:00–17:00 | 10.07.2026 | 07205.00.030 (SR 00.030 Seminarraum EG Konrad-Zuse-Str. 3/5 - Belegung ausschließlich durch Lehrveranstaltungen) |
-
-### Die Kirche von Rom und der Orient - Seminar
-
-- **Segment:** `exam:15913549` · **unitId:** `135041`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13840297|exam:15913549>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135041&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 05801.04.213 ( B 604) |
 
 ### Endokrinologische und metabolische Problemfälle in der Pädiatrie: Falldiskussion (digital) - Seminar
 
@@ -82,32 +82,6 @@ _Section: FAU Scientia Gaststudium_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.011 ( KH 1.011 Senatssaal im Kollegienhaus) 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
-
-### Projekt: Arabischsprachige Webseite des Bayerischen Forschungsinstituts - Vorlesung mit Übung
-
-- **Segment:** `exam:17818922` · **unitId:** `139435`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13840297|exam:17818922>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139435&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-### Rückert-Vorlesung - Vorlesung
-
-- **Segment:** `exam:15771806` · **unitId:** `134025`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13840297|exam:15771806>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134025&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 18:00–20:00 | 20.05.2026 | 00501.01.011 ( KH 1.011 Senatssaal im Kollegienhaus) |
 
 ### Von Alembik bis Zenith. Einblicke in die vormodernen Wissenschaften in den islamisch geprägten Gesellschaften. - Seminar
 

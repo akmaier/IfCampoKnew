@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:17972"
 campo_path: "title:17593|title:17600|title:17972"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17972"
-po_version_count: 0
-course_count: 11
+po_version_count: 11
+course_count: 0
 fau_studiengang:
   - title: "Zahnerhaltung (M.Sc.)"
     rel_path: "studiengang/zahnerhaltung-m-sc.md"
@@ -400,95 +400,62 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Veranstaltungen (11)
+## Prüfungsordnungs-Versionen (11)
 
 ### Präventive und Kinderzahnheilkunde - Vorlesung mit Übung
 
-- **Segment:** `exam:15796782` · **unitId:** `135470`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17972|exam:13836049|exam:13836050|exam:13836051|exam:13836067|exam:15796782>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135470&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** jedes 4. Semester
+- **Campo-Segment:** `exam:15796782`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17972|exam:13836049|exam:13836050|exam:13836051|exam:13836067|exam:15796782>
 
 ### 1999 Masterarbeit (M.Sc. Zahnerhaltung (berufsbegleitender Weiterbildungsstudiengang) 20252)
 
-- **Segment:** `exam:13836072` · **unitId:** `131939`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17972|exam:13836049|exam:13836050|exam:13836051|exam:13836072>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131939&periodId=589>
+- **Campo-Segment:** `exam:13836072`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17972|exam:13836049|exam:13836050|exam:13836051|exam:13836072>
 
 ### 26000 Restaurative Zahnerhaltung
 
-- **Segment:** `exam:13836052` · **unitId:** `131918`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17972|exam:13836049|exam:13836050|exam:13836051|exam:13836052>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131918&periodId=589>
+- **Campo-Segment:** `exam:13836052`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17972|exam:13836049|exam:13836050|exam:13836051|exam:13836052>
 
 ### 26005 Patientenbehandlung I
 
-- **Segment:** `exam:13836055` · **unitId:** `131921`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17972|exam:13836049|exam:13836050|exam:13836051|exam:13836055>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131921&periodId=589>
+- **Campo-Segment:** `exam:13836055`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17972|exam:13836049|exam:13836050|exam:13836051|exam:13836055>
 
 ### 26010 Parodontologie
 
-- **Segment:** `exam:13836057` · **unitId:** `131923`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17972|exam:13836049|exam:13836050|exam:13836051|exam:13836057>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131923&periodId=589>
+- **Campo-Segment:** `exam:13836057`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17972|exam:13836049|exam:13836050|exam:13836051|exam:13836057>
 
 ### 26015 Patientenbehandlung II
 
-- **Segment:** `exam:13836060` · **unitId:** `131925`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17972|exam:13836049|exam:13836050|exam:13836051|exam:13836060>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131925&periodId=589>
+- **Campo-Segment:** `exam:13836060`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17972|exam:13836049|exam:13836050|exam:13836051|exam:13836060>
 
 ### 26020 Endodontologie
 
-- **Segment:** `exam:13836062` · **unitId:** `131927`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17972|exam:13836049|exam:13836050|exam:13836051|exam:13836062>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131927&periodId=589>
+- **Campo-Segment:** `exam:13836062`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17972|exam:13836049|exam:13836050|exam:13836051|exam:13836062>
 
 ### 26025 Patientenbehandlung III
 
-- **Segment:** `exam:13836065` · **unitId:** `131931`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17972|exam:13836049|exam:13836050|exam:13836051|exam:13836065>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131931&periodId=589>
+- **Campo-Segment:** `exam:13836065`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17972|exam:13836049|exam:13836050|exam:13836051|exam:13836065>
 
 ### 26035 Patientenbehandlung IV
 
-- **Segment:** `exam:13836070` · **unitId:** `131936`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17972|exam:13836049|exam:13836050|exam:13836051|exam:13836070>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131936&periodId=589>
+- **Campo-Segment:** `exam:13836070`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17972|exam:13836049|exam:13836050|exam:13836051|exam:13836070>
 
 ### 60301 Präventive und Kinderzahnmedizin (Fallpräsentation) - Leistung
 
-- **Segment:** `exam:13836068` · **unitId:** `131934`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17972|exam:13836049|exam:13836050|exam:13836051|exam:13836067|exam:13836068>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131934&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | 08:00–16:00 | — | — |
+- **Campo-Segment:** `exam:13836068`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17972|exam:13836049|exam:13836050|exam:13836051|exam:13836067|exam:13836068>
 
 ### 60302 Präventive und Kinderzahnmedizin (Fachgespräch) - Leistung
 
-- **Segment:** `exam:13836069` · **unitId:** `131935`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17972|exam:13836049|exam:13836050|exam:13836051|exam:13836067|exam:13836069>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131935&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | 08:00–16:00 | — | — |
+- **Campo-Segment:** `exam:13836069`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17972|exam:13836049|exam:13836050|exam:13836051|exam:13836067|exam:13836069>
 
 ## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (1)
 

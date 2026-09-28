@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:17657"
 campo_path: "title:17593|title:17602|title:17657"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657"
-po_version_count: 32
-course_count: 236
+po_version_count: 49
+course_count: 217
 fau_studiengang:
   - title: "Biologie (B.Sc.)"
     rel_path: "studiengang/biologie-b-sc.md"
@@ -182,7 +182,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (32)
+## Prüfungsordnungs-Versionen (49)
 
 ### 1710 Wahlpflichtmodul Physikalische Chemie
 
@@ -286,11 +286,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 1990 Module Fachwissenschaft Biologie
 
-- **Campo-Segment:** `exam:17900147`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17673|title:17693|exam:14384200|exam:14384202|exam:14384203|exam:17900147>
-
-### 1990 Module Fachwissenschaft Biologie
-
 - **Campo-Segment:** `exam:14384267`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17673|title:17693|exam:14384261|exam:14384263|exam:14384264|exam:14384267>
 
@@ -331,20 +326,110 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 1991 Module Fachdidaktik Biologie
 
-- **Campo-Segment:** `exam:17900157`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17673|title:17693|exam:14384200|exam:14384202|exam:14384203|exam:17900157>
-
-### 1991 Module Fachdidaktik Biologie
-
 - **Campo-Segment:** `exam:14384312`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17673|title:17693|exam:14384261|exam:14384263|exam:14384264|exam:14384312>
+
+### 30650 English: Level 3 - English through Music, Movies, and Literature - Leistung
+
+- **Campo-Segment:** `exam:15932173`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|title:17685|exam:15932168|exam:15932173>
+
+### 30668 English: Level 0 - Focus on Speaking - Leistung
+
+- **Campo-Segment:** `exam:14384126`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|title:17685|exam:14384124|exam:14384126>
+
+### 30669 English: Level 0 - Focus on Writing - Leistung
+
+- **Campo-Segment:** `exam:14384127`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|title:17685|exam:14384124|exam:14384127>
+
+### 30670 English: Level 1 - Focus on Academic Writing Skills - Leistung
+
+- **Campo-Segment:** `exam:14384139`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|title:17685|exam:14384128|exam:14384139>
+
+### 30671 English: Level 2 - Reading and Vocabulary for Natural Scientists - Leistung
+
+- **Campo-Segment:** `exam:14384167`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|title:17685|exam:14384140|exam:14384167>
+
+### 30672 English: Level 2 - Writing and Presenting for Natural Scientists - Leistung
+
+- **Campo-Segment:** `exam:14384168`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|title:17685|exam:14384140|exam:14384168>
+
+### 30675 English: Level 3 - Writing Scientific Papers for Natural Scientists - Leistung
+
+- **Campo-Segment:** `exam:15932185`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|title:17685|exam:15932168|exam:15932185>
+
+### 30676 English: Level 3 - Presenting Scientific Papers for Natural Scientists - Leistung
+
+- **Campo-Segment:** `exam:15932184`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|title:17685|exam:15932168|exam:15932184>
+
+### 30678 English: Level 4 - Critical thinking and problem solving in English - Leistung
+
+- **Campo-Segment:** `exam:15932200`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|title:17685|exam:15932188|exam:15932200>
+
+### 30679 English: Level 4 - Storytelling Tactics - Leistung
+
+- **Campo-Segment:** `exam:15932201`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|title:17685|exam:15932188|exam:15932201>
+
+### 30682 English: Level 2 - Focus on Academic Writing - Leistung
+
+- **Campo-Segment:** `exam:14384169`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|title:17685|exam:14384140|exam:14384169>
+
+### 30685 English: Level 3 - Perfect your English Pronunciation and Intonation - Leistung
+
+- **Campo-Segment:** `exam:15932186`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|title:17685|exam:15932168|exam:15932186>
+
+### 30686 English: Level 3 - How to Win Any Argument - Leistung
+
+- **Campo-Segment:** `exam:15932187`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|title:17685|exam:15932168|exam:15932187>
+
+### 30688 English: Level 4 - Discussions on Bodily Autonomy - Leistung
+
+- **Campo-Segment:** `exam:15932207`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|title:17685|exam:15932188|exam:15932207>
+
+### 30693 English: Level 4 - Advanced Grammar & Vocabulary - Leistung
+
+- **Campo-Segment:** `exam:15932210`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|title:17685|exam:15932188|exam:15932210>
+
+### 30694 English: Level 4 - No Prisoner Be - Morality, Resilience, and the Art of Hope - Leistung
+
+- **Campo-Segment:** `exam:15932211`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|title:17685|exam:15932188|exam:15932211>
+
+### 30695 English: Level 4 - Politics by Protest - The Role of Protest Movements on American Politics from Civil Rights to No Kings - Leistung
+
+- **Campo-Segment:** `exam:15932212`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|title:17685|exam:15932188|exam:15932212>
 
 ### 77277 Weitere Sprachkurse
 
 - **Campo-Segment:** `exam:14379079`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17675|exam:14378935|exam:14378937|exam:14378940|exam:14378993|exam:14379079>
 
-## Veranstaltungen (236)
+### 77278 Englisch Level 3
+
+- **Campo-Segment:** `exam:14379043`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17675|exam:14378935|exam:14378937|exam:14378940|exam:14378993|exam:14379043>
+
+### 77279 Englisch Level 4
+
+- **Campo-Segment:** `exam:14379061`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17675|exam:14378935|exam:14378937|exam:14378940|exam:14378993|exam:14379061>
+
+## Veranstaltungen (217)
 
 ### B2: Biologie der Pflanzen: Allgemeine Botanik und Einführung in die Evolution (Vorlesung) - Vorlesung
 
@@ -545,7 +630,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17672|title:17694|title:17712|exam:14383881|exam:14383882>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84300&periodId=589>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -559,7 +647,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17672|title:17695|title:17708|exam:14383909|exam:14383910>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84300&periodId=589>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -982,7 +1073,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17672|title:17696|title:17701|exam:14383834|exam:14383836>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101262&periodId=589>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -1119,10 +1213,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17678|title:17686|exam:14384184|exam:14384185>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83641&periodId=589>
 
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -1208,7 +1299,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87160&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 08:15–10:00 | 17.04.2026–17.07.2026 | 13301.U1.0171 (C1 - Chemikum) |
 
 ### Fachmodul Zellbiologie: Übungen mit Hauptseminar (Teil 1) - Übung
 
@@ -1218,7 +1316,21 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 09:00–13:00 | 11.05.2026 | 13002.00.581 (00.581 Seminarraum Zellbiologie im Biologikum) |
+| Einzeltermin | Mo | 10:15–12:00 | 18.05.2026 | 13002.00.581 (00.581 Seminarraum Zellbiologie im Biologikum) |
+| Blockveranstaltung | — | 10:15–17:00 | 20.05.2026–21.05.2026 | 13002.00.581 (00.581 Seminarraum Zellbiologie im Biologikum) |
+| Blockveranstaltung | — | 08:00–18:00 | 27.05.2026–12.06.2026 | — |
+| Blockveranstaltung | — | 12:00–18:00 | 27.05.2026–29.05.2026 | — |
+| Einzeltermin | Mi | 08:00–12:00 | 27.05.2026 | — |
+| Einzeltermin | Fr | 12:00–16:00 | 29.05.2026 | 13002.00.581 (00.581 Seminarraum Zellbiologie im Biologikum) |
+| Einzeltermin | Do | 10:00–17:00 | 04.06.2026 | 13002.00.774 (Kursraum J Fluoreszenzmikroskopraum) |
 
 ### Fachmodul Zellbiologie: Übungen mit Hauptseminar (Teil 1) - Übung
 
@@ -1228,7 +1340,21 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 09:00–13:00 | 11.05.2026 | 13002.00.581 (00.581 Seminarraum Zellbiologie im Biologikum) |
+| Einzeltermin | Mo | 10:15–12:00 | 18.05.2026 | 13002.00.581 (00.581 Seminarraum Zellbiologie im Biologikum) |
+| Blockveranstaltung | — | 10:15–17:00 | 20.05.2026–21.05.2026 | 13002.00.581 (00.581 Seminarraum Zellbiologie im Biologikum) |
+| Blockveranstaltung | — | 08:00–18:00 | 27.05.2026–12.06.2026 | — |
+| Blockveranstaltung | — | 12:00–18:00 | 27.05.2026–29.05.2026 | — |
+| Einzeltermin | Mi | 08:00–12:00 | 27.05.2026 | — |
+| Einzeltermin | Fr | 12:00–16:00 | 29.05.2026 | 13002.00.581 (00.581 Seminarraum Zellbiologie im Biologikum) |
+| Einzeltermin | Do | 10:00–17:00 | 04.06.2026 | 13002.00.774 (Kursraum J Fluoreszenzmikroskopraum) |
 
 ### Geowissenschaftliche Geländeübungen I für Biologen - Übung
 
@@ -1955,7 +2081,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| Fr | Fr | 13:30–15:00 | — | — |
 
 ### 25311 Vorlesung und Tutorium Allgemeine Botanik und Einführung in die Evolution - Leistung
 
@@ -1970,7 +2096,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| Fr | Fr | 13:30–15:00 | — | — |
 
 ### 25312 Übungen zur Cytologie, Anatomie der Pflanzen und Formenkenntnis einheimischer Pflanzen - Leistung
 
@@ -2204,6 +2330,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117135&periodId=589>
 
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | — | — | — |
 
 ### 27011 Ökologie und Diversität A - Leistung
 
@@ -2618,6 +2751,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **ECTS-Punkte:** 7.5
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
 ### 28101 Klausur zu Ökologische und Sytematische Diversität der Organismen A - Leistung
 
 - **Segment:** `exam:14384003` · **unitId:** `24966`
@@ -2773,7 +2912,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|title:17685|exam:14384128|exam:14384134>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123884&periodId=589>
 
-- **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -2788,6 +2926,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|title:17685|exam:14384128|exam:14384136>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123887&periodId=589>
 
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -2960,21 +3099,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### 30650 English: Level 3 - English through Music, Movies, and Literature - Leistung
-
-- **Segment:** `exam:15932173` · **unitId:** `128523`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|title:17685|exam:15932168|exam:15932173>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128523&periodId=589>
-
-- **ECTS-Punkte:** 4.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
 ### 30656 English: Level 2 - Spoken English for Technology Students - Leistung
 
 - **Segment:** `exam:14384164` · **unitId:** `129433`
@@ -2996,232 +3120,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=129434&periodId=589>
 
 - **ECTS-Punkte:** 2.5
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 30668 English: Level 0 - Focus on Speaking - Leistung
-
-- **Segment:** `exam:14384126` · **unitId:** `133458`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|title:17685|exam:14384124|exam:14384126>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133458&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 30669 English: Level 0 - Focus on Writing - Leistung
-
-- **Segment:** `exam:14384127` · **unitId:** `133459`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|title:17685|exam:14384124|exam:14384127>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133459&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 30670 English: Level 1 - Focus on Academic Writing Skills - Leistung
-
-- **Segment:** `exam:14384139` · **unitId:** `133460`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|title:17685|exam:14384128|exam:14384139>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133460&periodId=589>
-
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 30671 English: Level 2 - Reading and Vocabulary for Natural Scientists - Leistung
-
-- **Segment:** `exam:14384167` · **unitId:** `133461`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|title:17685|exam:14384140|exam:14384167>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133461&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 30672 English: Level 2 - Writing and Presenting for Natural Scientists - Leistung
-
-- **Segment:** `exam:14384168` · **unitId:** `133462`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|title:17685|exam:14384140|exam:14384168>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133462&periodId=589>
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 30675 English: Level 3 - Writing Scientific Papers for Natural Scientists - Leistung
-
-- **Segment:** `exam:15932185` · **unitId:** `133465`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|title:17685|exam:15932168|exam:15932185>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133465&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 30676 English: Level 3 - Presenting Scientific Papers for Natural Scientists - Leistung
-
-- **Segment:** `exam:15932184` · **unitId:** `133466`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|title:17685|exam:15932168|exam:15932184>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133466&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 30678 English: Level 4 - Critical thinking and problem solving in English - Leistung
-
-- **Segment:** `exam:15932200` · **unitId:** `133468`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|title:17685|exam:15932188|exam:15932200>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133468&periodId=589>
-
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 30679 English: Level 4 - Storytelling Tactics - Leistung
-
-- **Segment:** `exam:15932201` · **unitId:** `133469`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|title:17685|exam:15932188|exam:15932201>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133469&periodId=589>
-
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 30682 English: Level 2 - Focus on Academic Writing - Leistung
-
-- **Segment:** `exam:14384169` · **unitId:** `133501`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|title:17685|exam:14384140|exam:14384169>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133501&periodId=589>
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 30685 English: Level 3 - Perfect your English Pronunciation and Intonation - Leistung
-
-- **Segment:** `exam:15932186` · **unitId:** `135132`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|title:17685|exam:15932168|exam:15932186>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135132&periodId=589>
-
-- **ECTS-Punkte:** 3.0
-
-### 30686 English: Level 3 - How to Win Any Argument - Leistung
-
-- **Segment:** `exam:15932187` · **unitId:** `135133`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|title:17685|exam:15932168|exam:15932187>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135133&periodId=589>
-
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 30688 English: Level 4 - Discussions on Bodily Autonomy - Leistung
-
-- **Segment:** `exam:15932207` · **unitId:** `135135`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|title:17685|exam:15932188|exam:15932207>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135135&periodId=589>
-
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 30693 English: Level 4 - Advanced Grammar & Vocabulary - Leistung
-
-- **Segment:** `exam:15932210` · **unitId:** `137554`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|title:17685|exam:15932188|exam:15932210>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137554&periodId=589>
-
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 30694 English: Level 4 - No Prisoner Be - Morality, Resilience, and the Art of Hope - Leistung
-
-- **Segment:** `exam:15932211` · **unitId:** `137555`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|title:17685|exam:15932188|exam:15932211>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137555&periodId=589>
-
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 30695 English: Level 4 - Politics by Protest - The Role of Protest Movements on American Politics from Civil Rights to No Kings - Leistung
-
-- **Segment:** `exam:15932212` · **unitId:** `137727`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17679|title:17685|exam:15932188|exam:15932212>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137727&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
 
 #### Termine
 
@@ -3490,18 +3388,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17675|exam:14378935|exam:14378937|exam:14378940|exam:14378993|exam:14379013>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=34983&periodId=589>
 
-### 77278 Englisch Level 3
-
-- **Segment:** `exam:14379043` · **unitId:** `129526`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17675|exam:14378935|exam:14378937|exam:14378940|exam:14378993|exam:14379043>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=129526&periodId=589>
-
-### 77279 Englisch Level 4
-
-- **Segment:** `exam:14379061` · **unitId:** `129527`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17675|exam:14378935|exam:14378937|exam:14378940|exam:14378993|exam:14379061>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=129527&periodId=589>
-
 ### 88501 Paläobiologie I - Leistung
 
 - **Segment:** `exam:14384047` · **unitId:** `45799`
@@ -3523,7 +3409,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17657|title:17674|title:17681|title:17683|exam:14384071|exam:14384072>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83047&periodId=589>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -3770,7 +3659,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung | — | 08:00–18:00 | 28.09.2026–09.10.2026 | — |
+| Blockveranstaltung | — | 08:00–18:00 | 14.09.2026–25.09.2026 | — |
 
 ### OC 34 - Organisch-chemisches Praktikum für Studierende der Biologie und der Molekularen Medizin - Praktikum
 
@@ -3786,7 +3675,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung | — | 08:00–18:00 | 28.09.2026–09.10.2026 | — |
+| Blockveranstaltung | — | 08:00–18:00 | 14.09.2026–25.09.2026 | — |
 
 ### OC 34 - Organisch-chemisches Praktikum für Studierende der Biologie und der Molekularen Medizin - Praktikum
 
@@ -3802,7 +3691,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung | — | 08:00–18:00 | 28.09.2026–09.10.2026 | — |
+| Blockveranstaltung | — | 08:00–18:00 | 14.09.2026–25.09.2026 | — |
 
 ### PC Ib LMCh, Bio PC II - V - Physikalische Chemie 2 (Kinetik u. Aufbau der Materie) für Lebensmittelchemie und Biologie (PC II) - Vorlesung
 
@@ -3929,7 +3818,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Fr | 12:00–13:30 | 17.04.2026–17.07.2026 | 20301.02.031 (2.031 großer Hörsaal (110)) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (77)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (80)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -3951,6 +3840,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 3.5
 - **Turnus:** nur im Sommersemester
 
+### 2a: Vorlesung zu Grundlagen Evolution, Entstehung der Arten, Prokaryonten, Protisten und Pflanzen-LAFN
+
+- **Segment:** `unit:136313` · **unitId:** `136313`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136313&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 3.0
+- **Turnus:** nur im Sommersemester
+
 ### 2a: Übungen zur Mikrobiologie, Evolution, und Anatomie der Pflanzen
 
 - **Segment:** `unit:136330` · **unitId:** `136330`
@@ -3959,6 +3857,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 3.0
 - **Turnus:** nur im Sommersemester
+
+### 2a: Übungen zur Mikrobiologie, Evolution, und Anatomie der Pflanzen-LAFN
+
+- **Segment:** `unit:136339` · **unitId:** `136339`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136339&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 1.5
+- **Turnus:** in jedem Semester
 
 ### 2b: Tutorium zur Phylogenie des Lebens
 
@@ -4164,7 +4071,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Begleitveranstaltung studienbegleitendes Praktikum an Realschulen — Seminar
+### Begleitveranstaltung Studienbegleitendes Praktikum an Realschulen "Praxis RS" (AE_PSPrak) — Vorlesung mit Übung
+
+- **Segment:** `unit:106001` · **unitId:** `106001`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106001&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+
+### Begleitveranstaltung Studienbegleitendes Praktikum an Realschulen "Praxis RS" (AE_PSPrak) — Vorlesung mit Übung
+
+- **Segment:** `unit:106000` · **unitId:** `106000`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106000&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+
+### Begleitveranstaltung studienbegleitendes Praktikum an Realschulen - Englisch — Seminar
 
 - **Segment:** `unit:115090` · **unitId:** `115090`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115090&periodId=589>
@@ -4177,20 +4098,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | 05902.00.006 ( 00.6 PSG) |
-
-### Begleitveranstaltung Studienbegleitendes Praktikum an Realschulen "Praxis RS" (AE_PSPrak) — Vorlesung mit Übung
-
-- **Segment:** `unit:106000` · **unitId:** `106000`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106000&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-
-### Begleitveranstaltung Studienbegleitendes Praktikum an Realschulen "Praxis RS" (AE_PSPrak) — Vorlesung mit Übung
-
-- **Segment:** `unit:106001` · **unitId:** `106001`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106001&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
 
 ### BIODID II Gymnasium, Realschule, Berufsschule: Erkenntnisse gewinnen und kommunizieren im Biologieunterricht (Übung + Seminar) — Übungsseminar
 
@@ -4649,6 +4556,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23467&periodId=589>
 
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### Vortrag zur Lehrwanderung und Exkursion mit Seminar zur Ökologie der Organismen
+
+- **Segment:** `unit:23469` · **unitId:** `23469`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23469&periodId=589>
+
+- **ECTS-Punkte:** 1.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine

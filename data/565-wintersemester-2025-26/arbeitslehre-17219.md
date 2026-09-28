@@ -202,6 +202,26 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Di | 17:30–19:00 | 14.10.2025–03.02.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
 
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (2)
+
+_Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
+
+### Grundlagen der Fachdidaktik Beruf und Wirtschaft - Vorlesung
+
+- **Segment:** `unit:97237` · **unitId:** `97237`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97237&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Sommersemester
+
+### Grundlagen der Fachdidaktik Beruf und Wirtschaft - Übung
+
+- **Segment:** `unit:90722` · **unitId:** `90722`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90722&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **Turnus:** nur im Sommersemester
+
 ## Lehramts-Prüfungsordnungen
 
 - [14. September 2015](../pruefungsordnungen/lehramt/lehramtsfaecher/1aes-la-arbeitslehre.md)

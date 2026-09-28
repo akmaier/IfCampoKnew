@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:17945"
 campo_path: "title:17593|title:17601|title:17945"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945"
-po_version_count: 44
-course_count: 379
+po_version_count: 68
+course_count: 355
 fau_studiengang:
   - title: "Materials Science and Engineering (M.Sc.)"
     rel_path: "studiengang/materials-science-and-engineering-m-sc.md"
@@ -189,7 +189,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (44)
+## Prüfungsordnungs-Versionen (68)
 
 ### 1711 General Materials Properties
 
@@ -411,7 +411,127 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Campo-Segment:** `exam:14594639`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14593928|exam:14593929|exam:14593930|exam:14593931|exam:14594307|exam:14594639>
 
-## Veranstaltungen (379)
+### 42768 Bioinspired Design
+
+- **Campo-Segment:** `exam:14592355`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14591309|exam:14591310|exam:14591311|exam:14592022|exam:14592355>
+
+### 42768 Bioinspired Design
+
+- **Campo-Segment:** `exam:14595026`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14593928|exam:14593929|exam:14593930|exam:14594685|exam:14595026>
+
+### 46298 Advanced Semiconductor Technologies - Photovoltaic Systems I - Practical Work
+
+- **Campo-Segment:** `exam:17735004`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14591309|exam:14591310|exam:14591311|exam:14592022|exam:17735004>
+
+### 46298 Advanced Semiconductor Technologies - Photovoltaic Systems I - Practical Work
+
+- **Campo-Segment:** `exam:17735012`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14593928|exam:14593929|exam:14593930|exam:14594685|exam:17735012>
+
+### 46309 Labwork on Structural Materials, Properties and Characterization
+
+- **Campo-Segment:** `exam:15931888`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14591309|exam:14591310|exam:14591311|exam:14592022|exam:15931888>
+
+### 46309 Labwork on Structural Materials, Properties and Characterization
+
+- **Campo-Segment:** `exam:15931904`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14593928|exam:14593929|exam:14593930|exam:14594685|exam:15931904>
+
+### 46361 Solid state Chemistry and Physics
+
+- **Campo-Segment:** `exam:14594667`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14593928|exam:14593929|exam:14593930|exam:14594666|exam:14594667>
+
+### 46362 Atomic simulation and glasses
+
+- **Campo-Segment:** `exam:14594669`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14593928|exam:14593929|exam:14593930|exam:14594666|exam:14594669>
+
+### 46363 Plasmas and associated technologies for materials development
+
+- **Campo-Segment:** `exam:14594671`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14593928|exam:14593929|exam:14593930|exam:14594666|exam:14594671>
+
+### 46364 Microscopies and defects in solids
+
+- **Campo-Segment:** `exam:14594673`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14593928|exam:14593929|exam:14593930|exam:14594666|exam:14594673>
+
+### 46365 Research labworks
+
+- **Campo-Segment:** `exam:14594675`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14593928|exam:14593929|exam:14593930|exam:14594666|exam:14594675>
+
+### 46367 Management and Soft Skills
+
+- **Campo-Segment:** `exam:14594679`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14593928|exam:14593929|exam:14593930|exam:14594666|exam:14594679>
+
+### 46368 Measurement of physical properties of solids
+
+- **Campo-Segment:** `exam:14594681`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14593928|exam:14593929|exam:14593930|exam:14594666|exam:14594681>
+
+### 46369 International mobility
+
+- **Campo-Segment:** `exam:14594683`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14593928|exam:14593929|exam:14593930|exam:14594666|exam:14594683>
+
+### 46537 Nanostructured Materials and Interfaces
+
+- **Campo-Segment:** `exam:14592340`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14591309|exam:14591310|exam:14591311|exam:14592022|exam:14592340>
+
+### 46537 Nanostructured Materials and Interfaces
+
+- **Campo-Segment:** `exam:14595007`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14593928|exam:14593929|exam:14593930|exam:14594685|exam:14595007>
+
+### 47545 Biomaterialien für Medizinische Implantate
+
+- **Campo-Segment:** `exam:14592321`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14591309|exam:14591310|exam:14591311|exam:14592022|exam:14592321>
+
+### 47545 Biomaterialien für Medizinische Implantate
+
+- **Campo-Segment:** `exam:14594984`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14593928|exam:14593929|exam:14593930|exam:14594685|exam:14594984>
+
+### 62791 Surface Analysis II - Leistung
+
+- **Campo-Segment:** `exam:14592352`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14591309|exam:14591310|exam:14591311|exam:14592022|exam:14592351|exam:14592352>
+
+### 62791 Surface Analysis II - Leistung
+
+- **Campo-Segment:** `exam:14595023`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14593928|exam:14593929|exam:14593930|exam:14594685|exam:14595022|exam:14595023>
+
+### 63061 Materials Characterisation and Tribology - Leistung
+
+- **Campo-Segment:** `exam:15797089`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14591309|exam:14591310|exam:14591311|exam:14592022|exam:15797016|exam:15797089>
+
+### 63061 Materials Characterisation and Tribology - Leistung
+
+- **Campo-Segment:** `exam:15797059`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14593928|exam:14593929|exam:14593930|exam:14594685|exam:15796983|exam:15797059>
+
+### 65785 Mathematics of Learning
+
+- **Campo-Segment:** `exam:14592333`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14591309|exam:14591310|exam:14591311|exam:14592022|exam:14592333>
+
+### 65785 Mathematics of Learning
+
+- **Campo-Segment:** `exam:14594996`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14593928|exam:14593929|exam:14593930|exam:14594685|exam:14594996>
+
+## Veranstaltungen (355)
 
 ### Automotive Engineering 2 - Vorlesung mit Übung
 
@@ -844,8 +964,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14593928|exam:14593929|exam:14593930|exam:14594685|exam:15765577|exam:15765580>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119782&periodId=589>
 
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Turnus:** nur im Sommersemester
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:15–13:45 | 22.04.2026–15.07.2026 | — |
 
 ### Übungen zu Energiespeichertechnologien - Übung
 
@@ -963,18 +1088,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 08:15–09:45 | 21.04.2026–14.07.2026 | 11401.00.123 (0.68 Seminarraum Werkstoffwissenschaften) |
 
-### 42768 Bioinspired Design
-
-- **Segment:** `exam:14592355` · **unitId:** `133489`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14591309|exam:14591310|exam:14591311|exam:14592022|exam:14592355>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133489&periodId=589>
-
-### 42768 Bioinspired Design
-
-- **Segment:** `exam:14595026` · **unitId:** `133489`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14593928|exam:14593929|exam:14593930|exam:14594685|exam:14595026>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133489&periodId=589>
-
 ### 44761 Technology of Tissue Engineering (TechTE) - Leistung
 
 - **Segment:** `exam:14592331` · **unitId:** `54882`
@@ -1023,7 +1136,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14591309|exam:14591310|exam:14591311|exam:14592022|exam:14592315|exam:14592316>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125702&periodId=589>
 
-- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -1038,7 +1150,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14593928|exam:14593929|exam:14593930|exam:14594685|exam:14594978|exam:14594979>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125702&periodId=589>
 
-- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -1113,107 +1224,11 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14593928|exam:14593929|exam:14593930|exam:14594685|exam:14595001>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126909&periodId=589>
 
-### 46298 Advanced Semiconductor Technologies - Photovoltaic Systems I - Practical Work
-
-- **Segment:** `exam:17735004` · **unitId:** `138873`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14591309|exam:14591310|exam:14591311|exam:14592022|exam:17735004>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138873&periodId=589>
-
-### 46298 Advanced Semiconductor Technologies - Photovoltaic Systems I - Practical Work
-
-- **Segment:** `exam:17735012` · **unitId:** `138873`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14593928|exam:14593929|exam:14593930|exam:14594685|exam:17735012>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138873&periodId=589>
-
-### 46309 Labwork on Structural Materials, Properties and Characterization
-
-- **Segment:** `exam:15931888` · **unitId:** `137750`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14591309|exam:14591310|exam:14591311|exam:14592022|exam:15931888>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137750&periodId=589>
-
-### 46309 Labwork on Structural Materials, Properties and Characterization
-
-- **Segment:** `exam:15931904` · **unitId:** `137750`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14593928|exam:14593929|exam:14593930|exam:14594685|exam:15931904>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137750&periodId=589>
-
-### 46361 Solid state Chemistry and Physics
-
-- **Segment:** `exam:14594667` · **unitId:** `128468`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14593928|exam:14593929|exam:14593930|exam:14594666|exam:14594667>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128468&periodId=589>
-
-### 46362 Atomic simulation and glasses
-
-- **Segment:** `exam:14594669` · **unitId:** `128470`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14593928|exam:14593929|exam:14593930|exam:14594666|exam:14594669>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128470&periodId=589>
-
-### 46363 Plasmas and associated technologies for materials development
-
-- **Segment:** `exam:14594671` · **unitId:** `128472`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14593928|exam:14593929|exam:14593930|exam:14594666|exam:14594671>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128472&periodId=589>
-
-### 46364 Microscopies and defects in solids
-
-- **Segment:** `exam:14594673` · **unitId:** `128477`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14593928|exam:14593929|exam:14593930|exam:14594666|exam:14594673>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128477&periodId=589>
-
-### 46365 Research labworks
-
-- **Segment:** `exam:14594675` · **unitId:** `128479`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14593928|exam:14593929|exam:14593930|exam:14594666|exam:14594675>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128479&periodId=589>
-
 ### 46366 Material elaboration: mechanisms and methods
 
 - **Segment:** `exam:14594677` · **unitId:** `128481`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14593928|exam:14593929|exam:14593930|exam:14594666|exam:14594677>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128481&periodId=589>
-
-### 46367 Management and Soft Skills
-
-- **Segment:** `exam:14594679` · **unitId:** `128483`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14593928|exam:14593929|exam:14593930|exam:14594666|exam:14594679>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128483&periodId=589>
-
-### 46368 Measurement of physical properties of solids
-
-- **Segment:** `exam:14594681` · **unitId:** `128485`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14593928|exam:14593929|exam:14593930|exam:14594666|exam:14594681>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128485&periodId=589>
-
-### 46369 International mobility
-
-- **Segment:** `exam:14594683` · **unitId:** `128487`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14593928|exam:14593929|exam:14593930|exam:14594666|exam:14594683>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128487&periodId=589>
-
-### 46537 Nanostructured Materials and Interfaces
-
-- **Segment:** `exam:14592340` · **unitId:** `130252`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14591309|exam:14591310|exam:14591311|exam:14592022|exam:14592340>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130252&periodId=589>
-
-### 46537 Nanostructured Materials and Interfaces
-
-- **Segment:** `exam:14595007` · **unitId:** `130252`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14593928|exam:14593929|exam:14593930|exam:14594685|exam:14595007>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130252&periodId=589>
-
-### 47545 Biomaterialien für Medizinische Implantate
-
-- **Segment:** `exam:14592321` · **unitId:** `126573`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14591309|exam:14591310|exam:14591311|exam:14592022|exam:14592321>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126573&periodId=589>
-
-### 47545 Biomaterialien für Medizinische Implantate
-
-- **Segment:** `exam:14594984` · **unitId:** `126573`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14593928|exam:14593929|exam:14593930|exam:14594685|exam:14594984>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126573&periodId=589>
 
 ### 49011 Simulation in der additiven Fertigung mit Kunststoffen - Leistung
 
@@ -2036,7 +2051,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mi | Mi | 10:00–10:25 | — | 11401.01.238 (1.68 Besprechungzimmer WW5) |
+| — | — | — | — | — |
 
 ### 62441 Anwendungen von Polymeren I - Leistung
 
@@ -2051,7 +2066,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mi | Mi | 10:00–10:25 | — | 11401.01.238 (1.68 Besprechungzimmer WW5) |
+| — | — | — | — | — |
 
 ### 62451 Anwendungen von Polymeren II - Leistung
 
@@ -2306,7 +2321,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | 09:00–09:45 | — | — |
+| Do | Do | 09:00–09:45 | — | 11401.00.116 (H14 Bernhard-Ilschner-Hörsaal (0.61)) |
 
 ### 62571 Advanced Semiconductor Technologies Photovoltaic Systems I - Fundamentals - Leistung
 
@@ -2321,7 +2336,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | 09:00–09:45 | — | — |
+| Do | Do | 09:00–09:45 | — | 11401.00.116 (H14 Bernhard-Ilschner-Hörsaal (0.61)) |
 
 ### 62591 Crystal Growth 1 - Leistung
 
@@ -2390,6 +2405,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71048&periodId=589>
 
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | 11:00–11:45 | — | 11901.00.226 (H8 Hörsaal 8) |
 
 ### 62651 Advanced applications: Biofabrication and Drug Delivery - Leistung
 
@@ -2398,6 +2420,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71048&periodId=589>
 
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | 11:00–11:45 | — | 11901.00.226 (H8 Hörsaal 8) |
 
 ### 62661 Advanced applications: Composites and Surfaces - Leistung
 
@@ -2615,6 +2644,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14591309|exam:14591310|exam:14591311|exam:14592022|exam:14592347|exam:14592348>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125520&periodId=589>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -2629,6 +2659,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14593928|exam:14593929|exam:14593930|exam:14594685|exam:14595018|exam:14595019>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125520&periodId=589>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -2636,36 +2667,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | So | So | 11:00–12:00 | — | 11401.00.237 (0.85 Seminarraum) |
-
-### 62791 Surface Analysis II - Leistung
-
-- **Segment:** `exam:14592352` · **unitId:** `125518`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14591309|exam:14591310|exam:14591311|exam:14592022|exam:14592351|exam:14592352>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125518&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | 11:00–12:00 | — | 11401.00.237 (0.85 Seminarraum) |
-
-### 62791 Surface Analysis II - Leistung
-
-- **Segment:** `exam:14595023` · **unitId:** `125518`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14593928|exam:14593929|exam:14593930|exam:14594685|exam:14595022|exam:14595023>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125518&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | 11:00–12:00 | — | 11401.00.237 (0.85 Seminarraum) |
 
 ### 62831 Scanning Electron Microscopy in Materials Science and Nanotechnology - Leistung
 
@@ -2847,36 +2848,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | Mi | Mi | 11:00–11:45 | — | 11401.00.116 (H14 Bernhard-Ilschner-Hörsaal (0.61)) |
 
-### 63061 Materials Characterisation and Tribology - Leistung
-
-- **Segment:** `exam:15797089` · **unitId:** `135502`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14591309|exam:14591310|exam:14591311|exam:14592022|exam:15797016|exam:15797089>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135502&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch oder Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | 09:00–12:00 | — | — |
-
-### 63061 Materials Characterisation and Tribology - Leistung
-
-- **Segment:** `exam:15797059` · **unitId:** `135502`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14593928|exam:14593929|exam:14593930|exam:14594685|exam:15796983|exam:15797059>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135502&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch oder Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | 09:00–12:00 | — | — |
-
 ### 63081 Iron and Steel - Leistung
 
 - **Segment:** `exam:14592302` · **unitId:** `124660`
@@ -2906,18 +2877,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### 65785 Mathematics of Learning
-
-- **Segment:** `exam:14592333` · **unitId:** `126848`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14591309|exam:14591310|exam:14591311|exam:14592022|exam:14592333>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126848&periodId=589>
-
-### 65785 Mathematics of Learning
-
-- **Segment:** `exam:14594996` · **unitId:** `126848`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17945|exam:14593928|exam:14593929|exam:14593930|exam:14594685|exam:14594996>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126848&periodId=589>
 
 ### 69001 Kunststofftechnik - Technologie der Verbundwerkstoffe - Leistung
 
@@ -4470,7 +4429,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:00–17:15 | 28.04.2026–14.07.2026 | 11401.01.251 (1.84 Seminarraum WW5) |
+| Einzeltermin | Di | 12:00–14:00 | 19.05.2026 | — |
 
 ### MDE - Materials Data Engineering in Industrial Practice - Vorlesung
 
@@ -4480,7 +4447,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:00–17:15 | 28.04.2026–14.07.2026 | 11401.01.251 (1.84 Seminarraum WW5) |
+| Einzeltermin | Di | 12:00–14:00 | 19.05.2026 | — |
 
 ### MLE1 - Machine Learning for Engineers I: Introduction to Methods and Tools - Vorlesung
 
@@ -5506,6 +5481,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87346&periodId=589>
 
 - **Veranstaltungsart:** Sonstige Lehrveranstaltung
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** in jedem Semester
 
 ### VB - Lecture Briefing / Vorbesprechung der Lehrveranstaltungen MSE I - Sonstige Lehrveranstaltung
@@ -5515,6 +5491,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87346&periodId=589>
 
 - **Veranstaltungsart:** Sonstige Lehrveranstaltung
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** in jedem Semester
 
 ### VB PA WW I - MSE I labwork Briefing for Masters & Safetyinstruction/Vorbesprechung Praktika in Mastermodulen WW 1 inkl. Sicherheitsbelehrung - Sonstige Lehrveranstaltung
@@ -5801,7 +5778,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Blockveranstaltung | — | 08:00–12:00 | 02.07.2026 | 11401.00.237 (0.85 Seminarraum) |
 | Blockveranstaltung | — | 13:00–17:30 | 02.07.2026 | 11401.00.116 (H14 Bernhard-Ilschner-Hörsaal (0.61)) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (136)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (138)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -5862,7 +5839,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:15–11:45 | 22.04.2026–15.07.2026 | 12801.01.253 (Übung 4 / 01.253-128) 13301.02.0241 (C3 - Chemikum) |
 
 ### Advanced Semiconductors Introduction: Devices & Applications — Vorlesung
 
@@ -6088,6 +6072,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.0
 - **Turnus:** nur im Sommersemester
 
+### Crystal Growth - Lab Work 2 Semiconductor Wafer Characterization — Praktikum
+
+- **Segment:** `unit:82751` · **unitId:** `82751`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82751&periodId=589>
+
+- **Veranstaltungsart:** Praktikum
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch oder Englisch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Di | 10:00–10:05 | 05.05.2026 | 11401.03.260 (3.71 Seminarraum) |
+
 ### Crystal Growth 1 - Fundamentals of Crystal Growth and Semiconductor Technology — Vorlesung
 
 - **Segment:** `unit:87129` · **unitId:** `87129`
@@ -6224,7 +6224,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 1.5
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 16:15–17:00 | 22.04.2026–15.07.2026 | 11401.01.251 (1.84 Seminarraum WW5) |
 
 ### Exercises Processing of Polymers — Übung
 
@@ -6314,6 +6321,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Di | 14:15–15:45 | 14.04.2026–14.07.2026 | 13003.00.874 (HD Hörsaal Physikum) |
 | 14-täglich | Do | 08:15–09:45 | 16.04.2026–09.07.2026 | 13003.00.874 (HD Hörsaal Physikum) |
 
+### Fatigue Behavior of Metals and Alloys / Ermüdungsverhalten von Metallen und Legierungen — Vorlesung
+
+- **Segment:** `unit:85600` · **unitId:** `85600`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85600&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch oder Englisch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:15–11:45 | 23.04.2026–16.07.2026 | 11401.03.053 (3.31, Martensstr. 5 Seminarraum) |
+
 ### Foundations of Finite Element Simulation — Vorlesung mit Übung
 
 - **Segment:** `unit:128544` · **unitId:** `128544`
@@ -6334,6 +6357,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
+
+### Functional and Optical Properties of Glass and Ceramics — Vorlesung mit Übung
+
+- **Segment:** `unit:85768` · **unitId:** `85768`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85768&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch oder Englisch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 08:15–09:45 | 24.04.2026–17.07.2026 | 11401.00.037 (0.15 Seminarraum) 11401.00.109 (0.56 Praktikum) 11401.00.237 (0.85 Seminarraum) |
 
 ### Fundamentals of Polymer Materials (Polymerwerkstoffe) — Vorlesung mit Übung
 
@@ -6457,20 +6496,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 12:15–13:45 | 27.04.2026–13.07.2026 | 11401.03.053 (3.31, Martensstr. 5 Seminarraum) |
 
-### High-Temperature Materials
-
-- **Segment:** `unit:124650` · **unitId:** `124650`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124650&periodId=589>
-
-- **ECTS-Punkte:** 4.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | 09:00–16:00 | — | — |
-
 ### Industrial requirements to material scientists — Vorlesung mit Übung
 
 - **Segment:** `unit:83834` · **unitId:** `83834`
@@ -6555,6 +6580,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 1.25
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
 
 ### Lab Course "Tissue Engineering" — Praktikum
@@ -6793,6 +6819,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 3.0
 - **Turnus:** nur im Wintersemester
 
+### Multi-scale Simulation Methods II — Vorlesung mit Übung
+
+- **Segment:** `unit:128538` · **unitId:** `128538`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128538&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 23.04.2026–16.07.2026 | 11401.00.123 (0.68 Seminarraum Werkstoffwissenschaften) |
+
 ### Multifunktional und effizient - Werkstoffkombination durch Spritzgießen mit Kunststoffen — Vorlesung
 
 - **Segment:** `unit:92040` · **unitId:** `92040`
@@ -6932,14 +6973,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 08:00–17:00 | 16.04.2026–16.07.2026 | — |
-
-### Practicals Materials Simulation — Praktikum
-
-- **Segment:** `unit:129348` · **unitId:** `129348`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=129348&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **Turnus:** in jedem Semester
 
 ### Praktikum Reflexionsgoniometer
 
@@ -7084,7 +7117,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:15–09:45 | 21.04.2026–14.07.2026 | 11401.03.053 (3.31, Martensstr. 5 Seminarraum) |
 
 ### Strukturphysik und Kristallographie für Werkstoffwissenschaftler — Vorlesung
 

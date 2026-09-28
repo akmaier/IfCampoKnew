@@ -5,7 +5,7 @@ campo_segment: "title:17333"
 campo_path: "title:16758|title:16760|title:17333"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17333"
 po_version_count: 0
-course_count: 8
+course_count: 10
 ---
 
 # Veranstaltungen aus der Medizinischen Fakultät
@@ -14,7 +14,7 @@ course_count: 8
 
 _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprachkurse_  
 
-## Veranstaltungen (8)
+## Veranstaltungen (10)
 
 ### Health Demography - Seminar
 
@@ -132,6 +132,34 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Fr | 14:00–15:30 | 17.10.2025–06.02.2026 | — |
+
+### 3R-Modelle - Softskills zu 3R-Modelle in der Tumorforschung - Vorlesung mit Übung
+
+- **Segment:** `exam:17896305` · **unitId:** `121976`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17333|exam:12190721|exam:17896305>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121976&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 09:00–16:00 | 09.02.2026–13.02.2026 | — |
+| Blockveranstaltung | — | 09:00–16:00 | 16.02.2026–20.02.2026 | — |
+
+### 3R-Modelle - Vorlesung zu 3R-Modelle in der Tumorforschung - Vorlesung
+
+- **Segment:** `exam:17896296` · **unitId:** `121973`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17333|exam:12190721|exam:17896296>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121973&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.5
+- **Turnus:** in jedem Semester
 
 ### FDM - Forschungsdatenmanagement (FDM) - Kolloquium
 

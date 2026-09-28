@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:17631"
 campo_path: "title:17593|title:17602|title:17631"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17631"
-po_version_count: 1
-course_count: 35
+po_version_count: 4
+course_count: 32
 fau_studiengang:
   - title: "Integrated Immunology (M.Sc.)"
     rel_path: "studiengang/integrated-immunology-m-sc.md"
@@ -173,14 +173,29 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (1)
+## Prüfungsordnungs-Versionen (4)
 
 ### 1600 Softskills
 
 - **Campo-Segment:** `exam:14245845`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17631|exam:14245841|exam:14245842|exam:14245844|exam:14245845>
 
-## Veranstaltungen (35)
+### 47852 Basic Immunology Laboratory Course
+
+- **Campo-Segment:** `exam:15787602`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17631|exam:14248907|exam:14248908|exam:14248910|exam:15787602>
+
+### 47872 Infectious Disease Immunology
+
+- **Campo-Segment:** `exam:15787722`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17631|exam:14248907|exam:14248908|exam:14248910|exam:15787722>
+
+### 47882 Infectious Disease Immunology Laboratory Course
+
+- **Campo-Segment:** `exam:15788415`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17631|exam:14248907|exam:14248908|exam:14248910|exam:15788415>
+
+## Veranstaltungen (32)
 
 ### MED 42651 - Microbiomics - Seminar
 
@@ -188,7 +203,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17631|exam:14248907|exam:14248908|exam:14248910|exam:14248911|exam:14250426>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125732&periodId=589>
 
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Deutsch oder Englisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -271,24 +289,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14250432` · **unitId:** `109678`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17631|exam:14248907|exam:14248908|exam:14248910|exam:14250432>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=109678&periodId=589>
-
-### 47852 Basic Immunology Laboratory Course
-
-- **Segment:** `exam:15787602` · **unitId:** `135322`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17631|exam:14248907|exam:14248908|exam:14248910|exam:15787602>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135322&periodId=589>
-
-### 47872 Infectious Disease Immunology
-
-- **Segment:** `exam:15787722` · **unitId:** `135324`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17631|exam:14248907|exam:14248908|exam:14248910|exam:15787722>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135324&periodId=589>
-
-### 47882 Infectious Disease Immunology Laboratory Course
-
-- **Segment:** `exam:15788415` · **unitId:** `135348`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17631|exam:14248907|exam:14248908|exam:14248910|exam:15788415>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135348&periodId=589>
 
 ### 78401 Basic Immunology - Leistung
 
@@ -546,7 +546,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100934&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 01501.01.057 (Seminarraum Virologie) 01101.01.034 (SR Wasserturmstr. 3/5) |
+| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 01501.01.057 (Seminarraum Virologie) 01101.01.034 (SR Wasserturmstr. 3/5) |
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 01501.01.057 (Seminarraum Virologie) 01101.01.034 (SR Wasserturmstr. 3/5) |
 
 ### iI-TLI Lecture - Translational Immunology - Lecture - Vorlesung
 
@@ -555,7 +564,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100934&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 01501.01.057 (Seminarraum Virologie) 01101.01.034 (SR Wasserturmstr. 3/5) |
+| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 01501.01.057 (Seminarraum Virologie) 01101.01.034 (SR Wasserturmstr. 3/5) |
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 01501.01.057 (Seminarraum Virologie) 01101.01.034 (SR Wasserturmstr. 3/5) |
 
 ### iI-TLI Sem - Translational Immunology - Seminar - Seminar
 

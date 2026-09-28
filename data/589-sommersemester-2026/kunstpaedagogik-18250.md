@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:18250"
 campo_path: "title:17593|title:17595|title:18250"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250"
-po_version_count: 0
-course_count: 101
+po_version_count: 80
+course_count: 20
 fau_studiengang:
   - title: "Kunstpädagogik (M.A.)"
     rel_path: "studiengang/kunstpaedagogik-m-a.md"
@@ -186,321 +186,409 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Veranstaltungen (101)
+## Prüfungsordnungs-Versionen (80)
 
 ### A+V 3D-Druck  - Seminar
 
-- **Segment:** `exam:15769922` · **unitId:** `135034`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836323|exam:15769922>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135034&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Sa | 09:00–18:00 | 09.05.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
-| Einzeltermin | Sa | 09:00–18:00 | 20.06.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
-| Einzeltermin | Sa | 09:00–18:00 | 04.07.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
-| Einzeltermin | Fr | 14:00–18:00 | 31.07.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
+- **Campo-Segment:** `exam:15769922`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836323|exam:15769922>
 
 ### A+V 3D-Druck  - Seminar
 
-- **Segment:** `exam:15769924` · **unitId:** `135034`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836334|exam:15769924>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135034&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Sa | 09:00–18:00 | 09.05.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
-| Einzeltermin | Sa | 09:00–18:00 | 20.06.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
-| Einzeltermin | Sa | 09:00–18:00 | 04.07.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
-| Einzeltermin | Fr | 14:00–18:00 | 31.07.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
+- **Campo-Segment:** `exam:15769924`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836334|exam:15769924>
 
 ### A+V 3D-Druck  - Seminar
 
-- **Segment:** `exam:15769785` · **unitId:** `135034`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836396|exam:15769785>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135034&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Sa | 09:00–18:00 | 09.05.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
-| Einzeltermin | Sa | 09:00–18:00 | 20.06.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
-| Einzeltermin | Sa | 09:00–18:00 | 04.07.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
-| Einzeltermin | Fr | 14:00–18:00 | 31.07.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
+- **Campo-Segment:** `exam:15769785`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836396|exam:15769785>
 
 ### A+V 3D-Druck  - Seminar
 
-- **Segment:** `exam:15769809` · **unitId:** `135034`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836412|exam:15769809>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135034&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Sa | 09:00–18:00 | 09.05.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
-| Einzeltermin | Sa | 09:00–18:00 | 20.06.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
-| Einzeltermin | Sa | 09:00–18:00 | 04.07.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
-| Einzeltermin | Fr | 14:00–18:00 | 31.07.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
+- **Campo-Segment:** `exam:15769809`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836412|exam:15769809>
 
 ### A+V Zeichnen für Fortgeschrittene - Seminar
 
-- **Segment:** `exam:15769405` · **unitId:** `134734`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836323|exam:15769405>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134734&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 08:00–09:30 | 23.04.2026–16.07.2026 | 75201.00.204 (St.Paul 00.204 Malsaal, Belegung nur durch den Lehrstuhl für Kunstpädagogik) |
+- **Campo-Segment:** `exam:15769405`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836323|exam:15769405>
 
 ### A+V Zeichnen für Fortgeschrittene - Seminar
 
-- **Segment:** `exam:15769411` · **unitId:** `134734`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836334|exam:15769411>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134734&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 08:00–09:30 | 23.04.2026–16.07.2026 | 75201.00.204 (St.Paul 00.204 Malsaal, Belegung nur durch den Lehrstuhl für Kunstpädagogik) |
+- **Campo-Segment:** `exam:15769411`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836334|exam:15769411>
 
 ### A+V Zeichnen für Fortgeschrittene - Seminar
 
-- **Segment:** `exam:15769268` · **unitId:** `134734`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836396|exam:15769268>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134734&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 08:00–09:30 | 23.04.2026–16.07.2026 | 75201.00.204 (St.Paul 00.204 Malsaal, Belegung nur durch den Lehrstuhl für Kunstpädagogik) |
+- **Campo-Segment:** `exam:15769268`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836396|exam:15769268>
 
 ### A+V Zeichnen für Fortgeschrittene - Seminar
 
-- **Segment:** `exam:15769292` · **unitId:** `134734`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836412|exam:15769292>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134734&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 08:00–09:30 | 23.04.2026–16.07.2026 | 75201.00.204 (St.Paul 00.204 Malsaal, Belegung nur durch den Lehrstuhl für Kunstpädagogik) |
+- **Campo-Segment:** `exam:15769292`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836412|exam:15769292>
 
 ### Aktzeichnen (A+V) - Seminar
 
-- **Segment:** `exam:15769580` · **unitId:** `135032`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836323|exam:15769580>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135032&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 16:00–18:00 | 23.04.2026–16.07.2026 | 75201.00.204 (St.Paul 00.204 Malsaal, Belegung nur durch den Lehrstuhl für Kunstpädagogik) |
+- **Campo-Segment:** `exam:15769580`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836323|exam:15769580>
 
 ### Aktzeichnen (A+V) - Seminar
 
-- **Segment:** `exam:15769582` · **unitId:** `135032`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836334|exam:15769582>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135032&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 16:00–18:00 | 23.04.2026–16.07.2026 | 75201.00.204 (St.Paul 00.204 Malsaal, Belegung nur durch den Lehrstuhl für Kunstpädagogik) |
+- **Campo-Segment:** `exam:15769582`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836334|exam:15769582>
 
 ### Aktzeichnen (A+V) - Seminar
 
-- **Segment:** `exam:15769443` · **unitId:** `135032`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836396|exam:15769443>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135032&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 16:00–18:00 | 23.04.2026–16.07.2026 | 75201.00.204 (St.Paul 00.204 Malsaal, Belegung nur durch den Lehrstuhl für Kunstpädagogik) |
+- **Campo-Segment:** `exam:15769443`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836396|exam:15769443>
 
 ### Aktzeichnen (A+V) - Seminar
 
-- **Segment:** `exam:15769449` · **unitId:** `135032`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836412|exam:15769449>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135032&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 16:00–18:00 | 23.04.2026–16.07.2026 | 75201.00.204 (St.Paul 00.204 Malsaal, Belegung nur durch den Lehrstuhl für Kunstpädagogik) |
+- **Campo-Segment:** `exam:15769449`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836412|exam:15769449>
 
 ### Amerikanische Fotografie des 20. Jahrhunderts - Ober- und Hauptseminar
 
-- **Segment:** `exam:15787604` · **unitId:** `135022`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836405|exam:15787604>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135022&periodId=589>
-
-- **Veranstaltungsart:** Ober- und Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:30–16:00 | 13.04.2026–13.07.2026 | — |
+- **Campo-Segment:** `exam:15787604`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836405|exam:15787604>
 
 ### Amerikanische Fotografie des 20. Jahrhunderts - Ober- und Hauptseminar
 
-- **Segment:** `exam:15787605` · **unitId:** `135022`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836407|exam:15787605>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135022&periodId=589>
-
-- **Veranstaltungsart:** Ober- und Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:30–16:00 | 13.04.2026–13.07.2026 | — |
+- **Campo-Segment:** `exam:15787605`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836407|exam:15787605>
 
 ### Aquarell (A+V)  - Seminar
 
-- **Segment:** `exam:15768556` · **unitId:** `134733`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836323|exam:15768556>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134733&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 18:30–19:30 | 05.05.2026 | — |
-| Blockveranstaltung | — | 09:30–16:30 | 30.07.2026–31.07.2026 | 75201.00.310 (St.Paul 00.310 Textilwerkstatt (40)) |
-| Einzeltermin | Sa | 10:00–12:00 | 01.08.2026 | — |
-| Einzeltermin | So | 10:00–12:00 | 02.08.2026 | — |
+- **Campo-Segment:** `exam:15768556`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836323|exam:15768556>
 
 ### Aquarell (A+V)  - Seminar
 
-- **Segment:** `exam:15768558` · **unitId:** `134733`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836334|exam:15768558>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134733&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 18:30–19:30 | 05.05.2026 | — |
-| Blockveranstaltung | — | 09:30–16:30 | 30.07.2026–31.07.2026 | 75201.00.310 (St.Paul 00.310 Textilwerkstatt (40)) |
-| Einzeltermin | Sa | 10:00–12:00 | 01.08.2026 | — |
-| Einzeltermin | So | 10:00–12:00 | 02.08.2026 | — |
+- **Campo-Segment:** `exam:15768558`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836334|exam:15768558>
 
 ### Aquarell (A+V)  - Seminar
 
-- **Segment:** `exam:15768411` · **unitId:** `134733`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836396|exam:15768411>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134733&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 18:30–19:30 | 05.05.2026 | — |
-| Blockveranstaltung | — | 09:30–16:30 | 30.07.2026–31.07.2026 | 75201.00.310 (St.Paul 00.310 Textilwerkstatt (40)) |
-| Einzeltermin | Sa | 10:00–12:00 | 01.08.2026 | — |
-| Einzeltermin | So | 10:00–12:00 | 02.08.2026 | — |
+- **Campo-Segment:** `exam:15768411`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836396|exam:15768411>
 
 ### Aquarell (A+V)  - Seminar
 
-- **Segment:** `exam:15768443` · **unitId:** `134733`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836412|exam:15768443>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134733&periodId=589>
+- **Campo-Segment:** `exam:15768443`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836412|exam:15768443>
 
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
+### Basis Malerei - Seminar
 
-#### Termine
+- **Campo-Segment:** `exam:13836332`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836323|exam:13836332>
 
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 18:30–19:30 | 05.05.2026 | — |
-| Blockveranstaltung | — | 09:30–16:30 | 30.07.2026–31.07.2026 | 75201.00.310 (St.Paul 00.310 Textilwerkstatt (40)) |
-| Einzeltermin | Sa | 10:00–12:00 | 01.08.2026 | — |
-| Einzeltermin | So | 10:00–12:00 | 02.08.2026 | — |
+### Basis Malerei - Seminar
+
+- **Campo-Segment:** `exam:13836343`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836334|exam:13836343>
+
+### Basis Papier - Seminar
+
+- **Campo-Segment:** `exam:13836328`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836323|exam:13836328>
+
+### Basis Papier - Seminar
+
+- **Campo-Segment:** `exam:13836339`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836334|exam:13836339>
+
+### Basis Textiles Gestalten - Seminar
+
+- **Campo-Segment:** `exam:13836329`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836323|exam:13836329>
+
+### Basis Textiles Gestalten - Seminar
+
+- **Campo-Segment:** `exam:13836340`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836334|exam:13836340>
+
+### Basis Ton  - Seminar
+
+- **Campo-Segment:** `exam:13836330`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836323|exam:13836330>
+
+### Basis Ton  - Seminar
+
+- **Campo-Segment:** `exam:13836341`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836334|exam:13836341>
+
+### Basis Zeichnen  - Seminar
+
+- **Campo-Segment:** `exam:13836333`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836323|exam:13836333>
+
+### Basis Zeichnen  - Seminar
+
+- **Campo-Segment:** `exam:13836344`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836334|exam:13836344>
+
+### Chicago School. Theorie und Methodologie eines soziologischen Paradigmas - Seminar
+
+- **Campo-Segment:** `exam:15740061`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836350|exam:15740061>
+
+### Dürer als Universalkünstler - Ober- und Hauptseminar
+
+- **Campo-Segment:** `exam:15787592`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836405|exam:15787592>
+
+### Dürer als Universalkünstler - Ober- und Hauptseminar
+
+- **Campo-Segment:** `exam:15787593`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836407|exam:15787593>
+
+### Einführung in die qualitative Generationenforschung - Seminar
+
+- **Campo-Segment:** `exam:15742574`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836350|exam:15742574>
+
+### Einführungskurs "Sicheres Arbeiten in der Holzwerkstatt" - Einführungskurs
+
+- **Campo-Segment:** `exam:17900851`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836412|exam:17900851>
+
+### Ethnographic Reading and Writing - Seminar
+
+- **Campo-Segment:** `exam:15743002`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836350|exam:15743002>
+
+### Frauen als Auftraggeberinnen in der Frühen Neuzeit: Malerei - Skulptur - Architektur - Seminar
+
+- **Campo-Segment:** `exam:15787584`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836310|exam:15787584>
+
+### Frauen als Auftraggeberinnen in der Frühen Neuzeit: Malerei - Skulptur - Architektur - Seminar
+
+- **Campo-Segment:** `exam:15787585`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836315|exam:15787585>
+
+### Into the field! Theorie und Praxis organisationssoziologischer Feldanalyse - Seminar
+
+- **Campo-Segment:** `exam:15745633`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836350|exam:15745633>
+
+### Keramik (A+V) - Seminar
+
+- **Campo-Segment:** `exam:15770083`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836323|exam:15770083>
+
+### Keramik (A+V) - Seminar
+
+- **Campo-Segment:** `exam:15770085`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836334|exam:15770085>
+
+### Keramik (A+V) - Seminar
+
+- **Campo-Segment:** `exam:15769946`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836396|exam:15769946>
+
+### Keramik (A+V) - Seminar
+
+- **Campo-Segment:** `exam:15769970`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836412|exam:15769970>
+
+### Kunstpädagogische Forschung - Seminar
+
+- **Campo-Segment:** `exam:15760233`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836320|exam:15760233>
+
+### Kuratorische Praxis der zeitgenössischen Kunst - Seminar
+
+- **Campo-Segment:** `exam:15787586`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836310|exam:15787586>
+
+### Kuratorische Praxis der zeitgenössischen Kunst - Seminar
+
+- **Campo-Segment:** `exam:15787587`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836315|exam:15787587>
+
+### Künstlerische Selbstinszenierung von Alberti bis Abramović - Ober- und Hauptseminar
+
+- **Campo-Segment:** `exam:15787594`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836405|exam:15787594>
+
+### Künstlerische Selbstinszenierung von Alberti bis Abramović - Ober- und Hauptseminar
+
+- **Campo-Segment:** `exam:15787595`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836407|exam:15787595>
+
+### Künstlerische Studienfahrt  - Seminar
+
+- **Campo-Segment:** `exam:15770228`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836396|exam:15770228>
+
+### Künstlerische Studienfahrt  - Seminar
+
+- **Campo-Segment:** `exam:15770349`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836409|exam:15770349>
+
+### Schlüsselkonzepte zeitgenössischer Kunst: Von Happening bis Hydrofeminismus - Vorlesung
+
+- **Campo-Segment:** `exam:15787580`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836310|exam:15787580>
+
+### Schlüsselkonzepte zeitgenössischer Kunst: Von Happening bis Hydrofeminismus - Vorlesung
+
+- **Campo-Segment:** `exam:15787581`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836315|exam:15787581>
+
+### Schlüsselkonzepte zeitgenössischer Kunst: Von Happening bis Hydrofeminismus - Vorlesung
+
+- **Campo-Segment:** `exam:15787582`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836405|exam:15787582>
+
+### Schlüsselkonzepte zeitgenössischer Kunst: Von Happening bis Hydrofeminismus - Vorlesung
+
+- **Campo-Segment:** `exam:15787583`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836407|exam:15787583>
+
+### Steinbildhauerei (A+V) - Seminar
+
+- **Campo-Segment:** `exam:15769761`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836323|exam:15769761>
+
+### Steinbildhauerei (A+V) - Seminar
+
+- **Campo-Segment:** `exam:15769763`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836334|exam:15769763>
+
+### Steinbildhauerei (A+V) - Seminar
+
+- **Campo-Segment:** `exam:15769618`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836396|exam:15769618>
+
+### Steinbildhauerei (A+V) - Seminar
+
+- **Campo-Segment:** `exam:15769648`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836412|exam:15769648>
+
+### Texte(n) im Museum - Seminar
+
+- **Campo-Segment:** `exam:15787588`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836310|exam:15787588>
+
+### Texte(n) im Museum - Seminar
+
+- **Campo-Segment:** `exam:15787589`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836315|exam:15787589>
+
+### Typologien des materialisierten Totengedächtnisses - Ober- und Hauptseminar
+
+- **Campo-Segment:** `exam:15787590`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836405|exam:15787590>
+
+### Typologien des materialisierten Totengedächtnisses - Ober- und Hauptseminar
+
+- **Campo-Segment:** `exam:15787591`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836407|exam:15787591>
+
+### Werken II mit verschiedenen Materialien (nur RS) - Seminar
+
+- **Campo-Segment:** `exam:15770478`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836323|exam:15770478>
+
+### Werken II mit verschiedenen Materialien (nur RS) - Seminar
+
+- **Campo-Segment:** `exam:15770480`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836334|exam:15770480>
+
+### Zwischen Canova und Rodin. Skulptur in Rom von 1822 bis 1871 unter der besonderen Berücksichtigung globaler Verflechtungen - Vorlesung
+
+- **Campo-Segment:** `exam:15787578`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836310|exam:15787578>
+
+### Zwischen Canova und Rodin. Skulptur in Rom von 1822 bis 1871 unter der besonderen Berücksichtigung globaler Verflechtungen - Vorlesung
+
+- **Campo-Segment:** `exam:15787579`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836315|exam:15787579>
+
+### 33017 Kulturpädagogische Grundlagen und Dynamiken
+
+- **Campo-Segment:** `exam:13836307`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836307>
+
+### 76231 Statistische Analyseverfahren I
+
+- **Campo-Segment:** `exam:13836388`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836388>
+
+### 78386 Einführungsmodul
+
+- **Campo-Segment:** `exam:13836422`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836421|exam:13836422>
+
+### 78388 Grundlagenmodul
+
+- **Campo-Segment:** `exam:13836425`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836421|exam:13836425>
+
+### 91011 Kunst(geschichte) + Museum I - Leistung
+
+- **Campo-Segment:** `exam:13836311`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836310|exam:13836311>
+
+### 91021 Kunst(geschichte) + Museum II - Leistung
+
+- **Campo-Segment:** `exam:13836316`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836315|exam:13836316>
+
+### 91031 Kunst & Bildung - Leistung
+
+- **Campo-Segment:** `exam:13836321`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836320|exam:13836321>
+
+### 91041 Künstlerische Praxis 1 - Leistung
+
+- **Campo-Segment:** `exam:13836324`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836323|exam:13836324>
+
+### 91051 Künstlerische Praxis 2 - Leistung
+
+- **Campo-Segment:** `exam:13836335`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836334|exam:13836335>
+
+### 91061 Vermittlungspraxis - Leistung
+
+- **Campo-Segment:** `exam:13836346`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836345|exam:13836346>
+
+### 91071 Kunstgeschichte Vertiefung I - Leistung
+
+- **Campo-Segment:** `exam:13836406`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836405|exam:13836406>
+
+### 91081 Kunstgeschichte Vertiefung II - Leistung
+
+- **Campo-Segment:** `exam:13836408`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836407|exam:13836408>
+
+### Das Seminar berücksichtigt auch die Schnittstelle von digtial/analog- - Mixed-Media (A+V) - Seminar
+
+- **Campo-Segment:** `exam:15768395`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836323|exam:15768395>
+
+### Das Seminar berücksichtigt auch die Schnittstelle von digtial/analog- - Mixed-Media (A+V) - Seminar
+
+- **Campo-Segment:** `exam:15768397`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836334|exam:15768397>
+
+### Das Seminar berücksichtigt auch die Schnittstelle von digtial/analog- - Mixed-Media (A+V) - Seminar
+
+- **Campo-Segment:** `exam:15768262`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836396|exam:15768262>
+
+### Das Seminar berücksichtigt auch die Schnittstelle von digtial/analog- - Mixed-Media (A+V) - Seminar
+
+- **Campo-Segment:** `exam:15768282`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836412|exam:15768282>
+
+## Veranstaltungen (20)
 
 ### Basis Drucken - Seminar
 
@@ -534,269 +622,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Do | 09:45–11:15 | 23.04.2026–16.07.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
 
-### Basis Malerei - Seminar
-
-- **Segment:** `exam:13836332` · **unitId:** `131271`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836323|exam:13836332>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131271&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 11:30–13:00 | 23.04.2026–16.07.2026 | 75201.00.204 (St.Paul 00.204 Malsaal, Belegung nur durch den Lehrstuhl für Kunstpädagogik) |
-| Einzeltermin | Do | 09:45–15:00 | 04.06.2026 | — |
-
-### Basis Malerei - Seminar
-
-- **Segment:** `exam:13836343` · **unitId:** `131271`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836334|exam:13836343>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131271&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 11:30–13:00 | 23.04.2026–16.07.2026 | 75201.00.204 (St.Paul 00.204 Malsaal, Belegung nur durch den Lehrstuhl für Kunstpädagogik) |
-| Einzeltermin | Do | 09:45–15:00 | 04.06.2026 | — |
-
-### Basis Papier - Seminar
-
-- **Segment:** `exam:13836328` · **unitId:** `131275`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836323|exam:13836328>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131275&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 15:45–18:00 | 20.04.2026–13.07.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
-
-### Basis Papier - Seminar
-
-- **Segment:** `exam:13836339` · **unitId:** `131275`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836334|exam:13836339>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131275&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 15:45–18:00 | 20.04.2026–13.07.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
-
-### Basis Textiles Gestalten - Seminar
-
-- **Segment:** `exam:13836329` · **unitId:** `131276`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836323|exam:13836329>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131276&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 09:00–11:15 | 20.04.2026–13.07.2026 | 75201.00.310 (St.Paul 00.310 Textilwerkstatt (40)) |
-| Einzeltermin | Sa | 09:00–12:45 | 20.06.2026 | 75201.00.310 (St.Paul 00.310 Textilwerkstatt (40)) |
-
-### Basis Textiles Gestalten - Seminar
-
-- **Segment:** `exam:13836340` · **unitId:** `131276`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836334|exam:13836340>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131276&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 09:00–11:15 | 20.04.2026–13.07.2026 | 75201.00.310 (St.Paul 00.310 Textilwerkstatt (40)) |
-| Einzeltermin | Sa | 09:00–12:45 | 20.06.2026 | 75201.00.310 (St.Paul 00.310 Textilwerkstatt (40)) |
-
-### Basis Ton  - Seminar
-
-- **Segment:** `exam:13836330` · **unitId:** `131273`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836323|exam:13836330>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131273&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 09:00–11:15 | 22.04.2026–15.07.2026 | 75201.U1.401 (St.Paul U1.401 Tonraum) |
-
-### Basis Ton  - Seminar
-
-- **Segment:** `exam:13836341` · **unitId:** `131273`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836334|exam:13836341>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131273&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 09:00–11:15 | 22.04.2026–15.07.2026 | 75201.U1.401 (St.Paul U1.401 Tonraum) |
-
-### Basis Zeichnen  - Seminar
-
-- **Segment:** `exam:13836333` · **unitId:** `131270`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836323|exam:13836333>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131270&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 11:30–13:00 | 20.04.2026–13.07.2026 | 75201.00.301 (St.Paul 00.301 Zeichensaal (100)) |
-
-### Basis Zeichnen  - Seminar
-
-- **Segment:** `exam:13836344` · **unitId:** `131270`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836334|exam:13836344>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131270&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 11:30–13:00 | 20.04.2026–13.07.2026 | 75201.00.301 (St.Paul 00.301 Zeichensaal (100)) |
-
-### Chicago School. Theorie und Methodologie eines soziologischen Paradigmas - Seminar
-
-- **Segment:** `exam:15740061` · **unitId:** `134128`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836350|exam:15740061>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134128&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 05901.05.052 ( 05.052) |
-
-### Dürer als Universalkünstler - Ober- und Hauptseminar
-
-- **Segment:** `exam:15787592` · **unitId:** `133912`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836405|exam:15787592>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133912&periodId=589>
-
-- **Veranstaltungsart:** Ober- und Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | — |
-
-### Dürer als Universalkünstler - Ober- und Hauptseminar
-
-- **Segment:** `exam:15787593` · **unitId:** `133912`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836407|exam:15787593>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133912&periodId=589>
-
-- **Veranstaltungsart:** Ober- und Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | — |
-
-### Einführung in die qualitative Generationenforschung - Seminar
-
-- **Segment:** `exam:15742574` · **unitId:** `134106`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836350|exam:15742574>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134106&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 05901.05.052 ( 05.052) |
-
-### Einführungskurs "Sicheres Arbeiten in der Holzwerkstatt" - Einführungskurs
-
-- **Segment:** `exam:17900851` · **unitId:** `131281`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836412|exam:17900851>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131281&periodId=589>
-
-- **Veranstaltungsart:** Einführungskurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 14:00–16:30 | 08.04.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
-| Einzeltermin | Do | 10:00–12:30 | 09.04.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
-
-### Ethnographic Reading and Writing - Seminar
-
-- **Segment:** `exam:15743002` · **unitId:** `134126`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836350|exam:15743002>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134126&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 04901.00.004 (Kleiner SR IGdM) |
-
 ### Forschungskolloquium  - Seminar
 
 - **Segment:** `exam:15759093` · **unitId:** `134761`
@@ -812,57 +637,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | 14-täglich | Di | 17:30–19:00 | 21.04.2026–14.07.2026 | — |
-
-### Frauen als Auftraggeberinnen in der Frühen Neuzeit: Malerei - Skulptur - Architektur - Seminar
-
-- **Segment:** `exam:15787584` · **unitId:** `133896`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836310|exam:15787584>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133896&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 12:00–14:00 | 17.04.2026–17.07.2026 | 00501.01.013 ( KH 1.013 Hörsaal Kollegienhaus) 00901.00.027 (Orangerie - Mediathek/Seminarraum) |
-
-### Frauen als Auftraggeberinnen in der Frühen Neuzeit: Malerei - Skulptur - Architektur - Seminar
-
-- **Segment:** `exam:15787585` · **unitId:** `133896`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836315|exam:15787585>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133896&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 12:00–14:00 | 17.04.2026–17.07.2026 | 00501.01.013 ( KH 1.013 Hörsaal Kollegienhaus) 00901.00.027 (Orangerie - Mediathek/Seminarraum) |
-
-### Grundlagen der Mediendidaktik - Seminar
-
-- **Segment:** `exam:15910919` · **unitId:** `93795`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836377|exam:15910919>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93795&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 15:45–17:15 | 15.04.2026–15.07.2026 | — |
 
 ### International and UNESCO-related Perspectives of Aesthetic, Arts and Cultural Education - Seminar
 
@@ -895,206 +669,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
-
-### Into the field! Theorie und Praxis organisationssoziologischer Feldanalyse - Seminar
-
-- **Segment:** `exam:15745633` · **unitId:** `134125`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836350|exam:15745633>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134125&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 08:15–09:45 | 15.04.2026–15.07.2026 | 05901.05.013 ( 05.013) |
-
-### Keramik (A+V) - Seminar
-
-- **Segment:** `exam:15770083` · **unitId:** `134743`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836323|exam:15770083>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134743&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 15:45–18:00 | 22.04.2026–15.07.2026 | 75201.U1.401 (St.Paul U1.401 Tonraum) |
-
-### Keramik (A+V) - Seminar
-
-- **Segment:** `exam:15770085` · **unitId:** `134743`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836334|exam:15770085>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134743&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 15:45–18:00 | 22.04.2026–15.07.2026 | 75201.U1.401 (St.Paul U1.401 Tonraum) |
-
-### Keramik (A+V) - Seminar
-
-- **Segment:** `exam:15769946` · **unitId:** `134743`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836396|exam:15769946>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134743&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 15:45–18:00 | 22.04.2026–15.07.2026 | 75201.U1.401 (St.Paul U1.401 Tonraum) |
-
-### Keramik (A+V) - Seminar
-
-- **Segment:** `exam:15769970` · **unitId:** `134743`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836412|exam:15769970>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134743&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 15:45–18:00 | 22.04.2026–15.07.2026 | 75201.U1.401 (St.Paul U1.401 Tonraum) |
-
-### Kunstpädagogische Forschung - Seminar
-
-- **Segment:** `exam:15760233` · **unitId:** `134754`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836320|exam:15760233>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134754&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 15:45–17:15 | 21.04.2026–14.07.2026 | 75201.00.310 (St.Paul 00.310 Textilwerkstatt (40)) |
-
-### Kuratorische Praxis der zeitgenössischen Kunst - Seminar
-
-- **Segment:** `exam:15787586` · **unitId:** `134373`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836310|exam:15787586>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134373&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 16:00–18:00 | 14.04.2026–14.07.2026 | — |
-
-### Kuratorische Praxis der zeitgenössischen Kunst - Seminar
-
-- **Segment:** `exam:15787587` · **unitId:** `134373`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836315|exam:15787587>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134373&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 16:00–18:00 | 14.04.2026–14.07.2026 | — |
-
-### Künstlerische Selbstinszenierung von Alberti bis Abramović - Ober- und Hauptseminar
-
-- **Segment:** `exam:15787594` · **unitId:** `133874`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836405|exam:15787594>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133874&periodId=589>
-
-- **Veranstaltungsart:** Ober- und Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 18:00–20:00 | 20.04.2026–13.07.2026 | 00901.00.027 (Orangerie - Mediathek/Seminarraum) |
-| Einzeltermin | Sa | 10:00–16:00 | 25.04.2026 | — |
-| Einzeltermin | Sa | 10:00–16:00 | 20.06.2026 | — |
-
-### Künstlerische Selbstinszenierung von Alberti bis Abramović - Ober- und Hauptseminar
-
-- **Segment:** `exam:15787595` · **unitId:** `133874`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836407|exam:15787595>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133874&periodId=589>
-
-- **Veranstaltungsart:** Ober- und Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 18:00–20:00 | 20.04.2026–13.07.2026 | 00901.00.027 (Orangerie - Mediathek/Seminarraum) |
-| Einzeltermin | Sa | 10:00–16:00 | 25.04.2026 | — |
-| Einzeltermin | Sa | 10:00–16:00 | 20.06.2026 | — |
-
-### Künstlerische Studienfahrt  - Seminar
-
-- **Segment:** `exam:15770228` · **unitId:** `134744`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836396|exam:15770228>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134744&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung | — | 08:00–16:00 | 22.05.2026–29.05.2026 | — |
-
-### Künstlerische Studienfahrt  - Seminar
-
-- **Segment:** `exam:15770349` · **unitId:** `134744`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836409|exam:15770349>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134744&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung | — | 08:00–16:00 | 22.05.2026–29.05.2026 | — |
 
 ### MA EEBF M6/MA Pädagogik MII: Medien, Wissen, Bildung - Grundlagen der Medienpädagogik - Seminar
 
@@ -1146,200 +720,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | — |
 
-### Schlüsselkonzepte zeitgenössischer Kunst: Von Happening bis Hydrofeminismus - Vorlesung
-
-- **Segment:** `exam:15787580` · **unitId:** `133892`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836310|exam:15787580>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133892&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 08:00–10:00 | 16.04.2026–16.07.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
-
-### Schlüsselkonzepte zeitgenössischer Kunst: Von Happening bis Hydrofeminismus - Vorlesung
-
-- **Segment:** `exam:15787581` · **unitId:** `133892`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836315|exam:15787581>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133892&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 08:00–10:00 | 16.04.2026–16.07.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
-
-### Schlüsselkonzepte zeitgenössischer Kunst: Von Happening bis Hydrofeminismus - Vorlesung
-
-- **Segment:** `exam:15787582` · **unitId:** `133892`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836405|exam:15787582>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133892&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 08:00–10:00 | 16.04.2026–16.07.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
-
-### Schlüsselkonzepte zeitgenössischer Kunst: Von Happening bis Hydrofeminismus - Vorlesung
-
-- **Segment:** `exam:15787583` · **unitId:** `133892`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836407|exam:15787583>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133892&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 08:00–10:00 | 16.04.2026–16.07.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
-
-### Steinbildhauerei (A+V) - Seminar
-
-- **Segment:** `exam:15769761` · **unitId:** `135035`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836323|exam:15769761>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135035&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–15:00 | 24.04.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
-| Einzeltermin | Fr | 14:00–19:00 | 22.05.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
-| Einzeltermin | Sa | 10:00–16:00 | 23.05.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
-| Einzeltermin | Fr | 14:00–19:00 | 12.06.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
-| Einzeltermin | Sa | 10:00–16:00 | 13.06.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
-| Einzeltermin | Fr | 14:00–19:00 | 03.07.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
-| Einzeltermin | Sa | 10:00–16:00 | 04.07.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
-| Einzeltermin | Fr | 14:00–15:00 | 17.07.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
-
-### Steinbildhauerei (A+V) - Seminar
-
-- **Segment:** `exam:15769763` · **unitId:** `135035`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836334|exam:15769763>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135035&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–15:00 | 24.04.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
-| Einzeltermin | Fr | 14:00–19:00 | 22.05.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
-| Einzeltermin | Sa | 10:00–16:00 | 23.05.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
-| Einzeltermin | Fr | 14:00–19:00 | 12.06.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
-| Einzeltermin | Sa | 10:00–16:00 | 13.06.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
-| Einzeltermin | Fr | 14:00–19:00 | 03.07.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
-| Einzeltermin | Sa | 10:00–16:00 | 04.07.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
-| Einzeltermin | Fr | 14:00–15:00 | 17.07.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
-
-### Steinbildhauerei (A+V) - Seminar
-
-- **Segment:** `exam:15769618` · **unitId:** `135035`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836396|exam:15769618>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135035&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–15:00 | 24.04.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
-| Einzeltermin | Fr | 14:00–19:00 | 22.05.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
-| Einzeltermin | Sa | 10:00–16:00 | 23.05.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
-| Einzeltermin | Fr | 14:00–19:00 | 12.06.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
-| Einzeltermin | Sa | 10:00–16:00 | 13.06.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
-| Einzeltermin | Fr | 14:00–19:00 | 03.07.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
-| Einzeltermin | Sa | 10:00–16:00 | 04.07.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
-| Einzeltermin | Fr | 14:00–15:00 | 17.07.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
-
-### Steinbildhauerei (A+V) - Seminar
-
-- **Segment:** `exam:15769648` · **unitId:** `135035`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836412|exam:15769648>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135035&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–15:00 | 24.04.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
-| Einzeltermin | Fr | 14:00–19:00 | 22.05.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
-| Einzeltermin | Sa | 10:00–16:00 | 23.05.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
-| Einzeltermin | Fr | 14:00–19:00 | 12.06.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
-| Einzeltermin | Sa | 10:00–16:00 | 13.06.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
-| Einzeltermin | Fr | 14:00–19:00 | 03.07.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
-| Einzeltermin | Sa | 10:00–16:00 | 04.07.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
-| Einzeltermin | Fr | 14:00–15:00 | 17.07.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
-
-### Texte(n) im Museum - Seminar
-
-- **Segment:** `exam:15787588` · **unitId:** `134374`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836310|exam:15787588>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134374&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung | — | 10:00–17:00 | 22.09.2026–25.09.2026 | — |
-
-### Texte(n) im Museum - Seminar
-
-- **Segment:** `exam:15787589` · **unitId:** `134374`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836315|exam:15787589>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134374&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung | — | 10:00–17:00 | 22.09.2026–25.09.2026 | — |
-
 ### Tiefdruck (A+V) - Seminar
 
 - **Segment:** `exam:13836402` · **unitId:** `128381`
@@ -1371,40 +751,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:00–15:30 | 20.04.2026–13.07.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
-
-### Typologien des materialisierten Totengedächtnisses - Ober- und Hauptseminar
-
-- **Segment:** `exam:15787590` · **unitId:** `133875`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836405|exam:15787590>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133875&periodId=589>
-
-- **Veranstaltungsart:** Ober- und Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:00–16:00 | 13.04.2026–13.07.2026 | 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
-
-### Typologien des materialisierten Totengedächtnisses - Ober- und Hauptseminar
-
-- **Segment:** `exam:15787591` · **unitId:** `133875`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836407|exam:15787591>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133875&periodId=589>
-
-- **Veranstaltungsart:** Ober- und Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:00–16:00 | 13.04.2026–13.07.2026 | 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
 
 ### Vorlesung: Einführung in die Methoden der empirischen Sozialforschung - Vorlesung
 
@@ -1438,72 +784,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
 
-### Werken II mit verschiedenen Materialien (nur RS) - Seminar
-
-- **Segment:** `exam:15770478` · **unitId:** `134748`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836323|exam:15770478>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134748&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 15:45–18:00 | 23.04.2026–16.07.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
-
-### Werken II mit verschiedenen Materialien (nur RS) - Seminar
-
-- **Segment:** `exam:15770480` · **unitId:** `134748`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836334|exam:15770480>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134748&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 15:45–18:00 | 23.04.2026–16.07.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
-
-### Zwischen Canova und Rodin. Skulptur in Rom von 1822 bis 1871 unter der besonderen Berücksichtigung globaler Verflechtungen - Vorlesung
-
-- **Segment:** `exam:15787578` · **unitId:** `133876`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836310|exam:15787578>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133876&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 29.04.2026–15.07.2026 | 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
-
-### Zwischen Canova und Rodin. Skulptur in Rom von 1822 bis 1871 unter der besonderen Berücksichtigung globaler Verflechtungen - Vorlesung
-
-- **Segment:** `exam:15787579` · **unitId:** `133876`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836315|exam:15787579>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133876&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 29.04.2026–15.07.2026 | 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
-
 ### 30471 Kulturpädagogische Institutionen und Handlungslogiken - Leistung
 
 - **Segment:** `exam:13836373` · **unitId:** `77116`
@@ -1532,12 +812,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mi | Mi | — | 07.06.2026 23:59:59 | — |
-
-### 33017 Kulturpädagogische Grundlagen und Dynamiken
-
-- **Segment:** `exam:13836307` · **unitId:** `131009`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836307>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131009&periodId=589>
 
 ### 39071 Vertiefung I - Kunstpraxis - Leistung
 
@@ -1629,209 +903,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | Do | Do | 12:15–13:15 | 07.06.2026 23:59:59 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
 
-### 76231 Statistische Analyseverfahren I
-
-- **Segment:** `exam:13836388` · **unitId:** `131767`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836388>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131767&periodId=589>
-
-### 78386 Einführungsmodul
-
-- **Segment:** `exam:13836422` · **unitId:** `132712`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836421|exam:13836422>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132712&periodId=589>
-
-### 78388 Grundlagenmodul
-
-- **Segment:** `exam:13836425` · **unitId:** `132713`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836421|exam:13836425>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132713&periodId=589>
-
-### 91011 Kunst(geschichte) + Museum I - Leistung
-
-- **Segment:** `exam:13836311` · **unitId:** `131021`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836310|exam:13836311>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131021&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 91021 Kunst(geschichte) + Museum II - Leistung
-
-- **Segment:** `exam:13836316` · **unitId:** `131023`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836315|exam:13836316>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131023&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | — | — | — |
-
-### 91031 Kunst & Bildung - Leistung
-
-- **Segment:** `exam:13836321` · **unitId:** `131032`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836320|exam:13836321>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131032&periodId=589>
-
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | — | — | — |
-
-### 91041 Künstlerische Praxis 1 - Leistung
-
-- **Segment:** `exam:13836324` · **unitId:** `131035`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836323|exam:13836324>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131035&periodId=589>
-
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | 09:00–12:00 | — | — |
-
-### 91051 Künstlerische Praxis 2 - Leistung
-
-- **Segment:** `exam:13836335` · **unitId:** `131038`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836334|exam:13836335>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131038&periodId=589>
-
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | 09:00–12:00 | — | — |
-
-### 91061 Vermittlungspraxis - Leistung
-
-- **Segment:** `exam:13836346` · **unitId:** `131040`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836345|exam:13836346>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131040&periodId=589>
-
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | — | — | — |
-
-### 91071 Kunstgeschichte Vertiefung I - Leistung
-
-- **Segment:** `exam:13836406` · **unitId:** `132696`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836405|exam:13836406>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132696&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 91081 Kunstgeschichte Vertiefung II - Leistung
-
-- **Segment:** `exam:13836408` · **unitId:** `132698`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836407|exam:13836408>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132698&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### Das Seminar berücksichtigt auch die Schnittstelle von digtial/analog- - Mixed-Media (A+V) - Seminar
-
-- **Segment:** `exam:15768395` · **unitId:** `134871`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836323|exam:15768395>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134871&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 09:45–11:15 | 21.04.2026–14.07.2026 | 75201.00.301 (St.Paul 00.301 Zeichensaal (100)) |
-
-### Das Seminar berücksichtigt auch die Schnittstelle von digtial/analog- - Mixed-Media (A+V) - Seminar
-
-- **Segment:** `exam:15768397` · **unitId:** `134871`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836334|exam:15768397>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134871&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 09:45–11:15 | 21.04.2026–14.07.2026 | 75201.00.301 (St.Paul 00.301 Zeichensaal (100)) |
-
-### Das Seminar berücksichtigt auch die Schnittstelle von digtial/analog- - Mixed-Media (A+V) - Seminar
-
-- **Segment:** `exam:15768262` · **unitId:** `134871`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836396|exam:15768262>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134871&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 09:45–11:15 | 21.04.2026–14.07.2026 | 75201.00.301 (St.Paul 00.301 Zeichensaal (100)) |
-
-### Das Seminar berücksichtigt auch die Schnittstelle von digtial/analog- - Mixed-Media (A+V) - Seminar
-
-- **Segment:** `exam:15768282` · **unitId:** `134871`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18250|exam:13836301|exam:13836302|exam:13836303|exam:13836371|exam:13836412|exam:15768282>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134871&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 09:45–11:15 | 21.04.2026–14.07.2026 | 75201.00.301 (St.Paul 00.301 Zeichensaal (100)) |
-
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (39)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (42)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -1850,6 +922,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138235&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+
+### Allgemeine Psychologie I (Nebenfach)
+
+- **Segment:** `unit:49006` · **unitId:** `49006`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49006&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | 09:00–10:00 | — | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
 ### Allgemeine Psychologie II (Nebenfach)
 
@@ -2052,12 +1138,37 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Sa | Sa | 13:00–19:00 | — | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
+### Grundlagen der Mediendidaktik — Seminar
+
+- **Segment:** `unit:93795` · **unitId:** `93795`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93795&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 15:45–17:15 | 15.04.2026–15.07.2026 | — |
+
 ### Hans Baldung Grien — Ober- und Hauptseminar
 
 - **Segment:** `unit:131219` · **unitId:** `131219`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131219&periodId=589>
 
 - **Veranstaltungsart:** Ober- und Hauptseminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** Unregelmäßig
+
+### Heldinnen - Göttinnen - Heilige. Weibliche Rollenporträts zwischen Mythos, Macht und Frömmigkeit im Italien der Frühen Neuzeit — Seminar
+
+- **Segment:** `unit:138365` · **unitId:** `138365`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138365&periodId=589>
+
+- **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
@@ -2178,7 +1289,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Proseminar
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | 00801.00.112 (H Anatomie I (Eingang über Universitätsstraße 19)) |
 
 ### Schriftliche Übersetzungsleistung Latein I für Anfänger (Zulassungsvoraussetzung zu Kurs Latein II für Fortgeschrittene)
 

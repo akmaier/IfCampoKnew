@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:17646"
 campo_path: "title:17593|title:17602|title:17646"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646"
-po_version_count: 85
-course_count: 1718
+po_version_count: 293
+course_count: 1510
 fau_studiengang:
   - title: "Mathematik (B.Sc.)"
     rel_path: "studiengang/mathematik-b-sc.md"
@@ -381,7 +381,542 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (85)
+## Prüfungsordnungs-Versionen (293)
+
+### Analytische Philosophie der Kunst - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15720690`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221152|exam:15720690>
+
+### Analytische Philosophie der Kunst - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15720722`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221174|exam:15720722>
+
+### Analytische Philosophie der Kunst - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15720753`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221190|exam:15720753>
+
+### Analytische Philosophie der Kunst - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15720754`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226851|exam:15720754>
+
+### Analytische Philosophie der Kunst - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15720723`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226866|exam:15720723>
+
+### Analytische Philosophie der Kunst - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15720691`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226882|exam:15720691>
+
+### BA/MA: Yin-Yang-Theorien - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15765851`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221152|exam:15765851>
+
+### BA/MA: Yin-Yang-Theorien - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15765837`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221190|exam:15765837>
+
+### BA/MA: Yin-Yang-Theorien - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15765838`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226851|exam:15765838>
+
+### BA/MA: Yin-Yang-Theorien - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15765852`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226882|exam:15765852>
+
+### Basic Concepts in Contemporary AI Ethics - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15763178`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221152|exam:15763178>
+
+### Basic Concepts in Contemporary AI Ethics - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15763211`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221174|exam:15763211>
+
+### Basic Concepts in Contemporary AI Ethics - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15763193`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221190|exam:15763193>
+
+### Basic Concepts in Contemporary AI Ethics - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15763194`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226851|exam:15763194>
+
+### Basic Concepts in Contemporary AI Ethics - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15763212`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226866|exam:15763212>
+
+### Basic Concepts in Contemporary AI Ethics - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15763179`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226882|exam:15763179>
+
+### Bewusstsein, Gedächtnis, Emotion - Einführung in die Philosophie der Psychologie - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15720789`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221152|exam:15720789>
+
+### Bewusstsein, Gedächtnis, Emotion - Einführung in die Philosophie der Psychologie - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15720807`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221190|exam:15720807>
+
+### Bewusstsein, Gedächtnis, Emotion - Einführung in die Philosophie der Psychologie - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15720808`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226851|exam:15720808>
+
+### Bewusstsein, Gedächtnis, Emotion - Einführung in die Philosophie der Psychologie - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15720790`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226882|exam:15720790>
+
+### Bibelkunde des Neuen Testaments - Übung
+
+- **Campo-Segment:** `exam:14221223`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221205|exam:14221220|exam:14221223>
+
+### Bibelkunde des Neuen Testaments - Übung
+
+- **Campo-Segment:** `exam:14226988`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226984|exam:14226985|exam:14226988>
+
+### Der Dekalog: religionsgeschichtliche Hintergründe und mediale Adaptierungen - Seminar
+
+- **Campo-Segment:** `exam:15727460`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221205|exam:14221210|exam:15727460>
+
+### Der Dekalog: religionsgeschichtliche Hintergründe und mediale Adaptierungen - Seminar
+
+- **Campo-Segment:** `exam:15727461`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226984|exam:14226997|exam:15727461>
+
+### Einführung in die Angewandte Ethik - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15721252`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221152|exam:15721252>
+
+### Einführung in die Angewandte Ethik - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15721407`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221174|exam:15721407>
+
+### Einführung in die Angewandte Ethik - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15721408`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226866|exam:15721408>
+
+### Einführung in die Angewandte Ethik - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15721253`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226882|exam:15721253>
+
+### Epikur, Stoa, Skepsis: Einführung in die hellenistische Ethik - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15721966`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221152|exam:15721966>
+
+### Epikur, Stoa, Skepsis: Einführung in die hellenistische Ethik - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15722003`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221174|exam:15722003>
+
+### Epikur, Stoa, Skepsis: Einführung in die hellenistische Ethik - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15722004`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226866|exam:15722004>
+
+### Epikur, Stoa, Skepsis: Einführung in die hellenistische Ethik - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15721967`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226882|exam:15721967>
+
+### Glück und Moral: Tugenden in der Philosophie als Lebenskunst - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15722098`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221152|exam:15722098>
+
+### Glück und Moral: Tugenden in der Philosophie als Lebenskunst - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15722107`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221174|exam:15722107>
+
+### Glück und Moral: Tugenden in der Philosophie als Lebenskunst - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15722108`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226866|exam:15722108>
+
+### Glück und Moral: Tugenden in der Philosophie als Lebenskunst - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15722099`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226882|exam:15722099>
+
+### Grundkurs Theoretische Philosophie - Proseminar
+
+- **Campo-Segment:** `exam:15722170`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221146|exam:15722170>
+
+### Grundkurs Theoretische Philosophie - Proseminar
+
+- **Campo-Segment:** `exam:15722171`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226835|exam:15722171>
+
+### Introduction to Philosophy of Technology - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15723860`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221152|exam:15723860>
+
+### Introduction to Philosophy of Technology - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15723839`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221174|exam:15723839>
+
+### Introduction to Philosophy of Technology - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15723840`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226866|exam:15723840>
+
+### Introduction to Philosophy of Technology - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15723861`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226882|exam:15723861>
+
+### John Stuart Mill: Utilitarismus - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15722648`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221152|exam:15722648>
+
+### John Stuart Mill: Utilitarismus - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15722656`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221174|exam:15722656>
+
+### John Stuart Mill: Utilitarismus - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15722657`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226866|exam:15722657>
+
+### John Stuart Mill: Utilitarismus - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15722649`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226882|exam:15722649>
+
+### Lie Superalgebren - Vorlesung
+
+- **Campo-Segment:** `exam:15763769`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14222980|exam:15739966|exam:15763769>
+
+### Lie Superalgebren - Vorlesung
+
+- **Campo-Segment:** `exam:15763768`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14223142|exam:15739948|exam:15763768>
+
+### Lie Superalgebren - Vorlesung
+
+- **Campo-Segment:** `exam:15763770`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232522|exam:15739930|exam:15763770>
+
+### Lyotard: Der Widerstreit - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15722747`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221152|exam:15722747>
+
+### Lyotard: Der Widerstreit - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15722729`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221174|exam:15722729>
+
+### Lyotard: Der Widerstreit - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15722699`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221190|exam:15722699>
+
+### Lyotard: Der Widerstreit - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15722700`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226851|exam:15722700>
+
+### Lyotard: Der Widerstreit - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15722730`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226866|exam:15722730>
+
+### Lyotard: Der Widerstreit - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15722748`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226882|exam:15722748>
+
+### Mathematische Quantentheorie - Vorlesung
+
+- **Campo-Segment:** `exam:15763795`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14222980|exam:15739705|exam:15763795>
+
+### Mathematische Quantentheorie - Vorlesung
+
+- **Campo-Segment:** `exam:15763794`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14223142|exam:15739687|exam:15763794>
+
+### Mathematische Quantentheorie - Vorlesung
+
+- **Campo-Segment:** `exam:15763796`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232628|exam:15739723|exam:15763796>
+
+### Modulformen - Seminar
+
+- **Campo-Segment:** `exam:15740001`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14213240|exam:14213241|exam:14213242|exam:14213244|exam:14213416|exam:15740001>
+
+### Modulformen - Seminar
+
+- **Campo-Segment:** `exam:15733149`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221391|exam:15733149>
+
+### Modulformen - Seminar
+
+- **Campo-Segment:** `exam:15739997`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14223317|exam:15739997>
+
+### Modulformen - Seminar
+
+- **Campo-Segment:** `exam:15733150`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14223339|exam:15733150>
+
+### Modulformen - Seminar
+
+- **Campo-Segment:** `exam:15733160`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232522|exam:14232611|exam:15733160>
+
+### Modulformen - Seminar
+
+- **Campo-Segment:** `exam:15733161`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232628|exam:14232775|exam:15733161>
+
+### Modulformen - Seminar
+
+- **Campo-Segment:** `exam:15733162`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232804|exam:14233010|exam:15733162>
+
+### Modulformen - Seminar
+
+- **Campo-Segment:** `exam:15940950`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15940571|exam:15940926|exam:15940950>
+
+### Modulformen - Seminar
+
+- **Campo-Segment:** `exam:15888324`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15888125|exam:15888126|exam:15888127|exam:15888129|exam:15888300|exam:15888324>
+
+### Moralismus - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15722804`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221152|exam:15722804>
+
+### Moralismus - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15722810`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221174|exam:15722810>
+
+### Moralismus - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15722811`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226866|exam:15722811>
+
+### Moralismus - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15722805`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226882|exam:15722805>
+
+### Neural Network Theory - Vorlesung
+
+- **Campo-Segment:** `exam:15863437`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14222980|exam:15863435|exam:15863437>
+
+### Neural Network Theory - Vorlesung
+
+- **Campo-Segment:** `exam:15863413`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14223142|exam:15863411|exam:15863413>
+
+### Neural Network Theory - Vorlesung
+
+- **Campo-Segment:** `exam:15763783`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232804|exam:15739849|exam:15763783>
+
+### Platon: Gorgias - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15723062`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221152|exam:15723062>
+
+### Platon: Gorgias - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15723008`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221174|exam:15723008>
+
+### Platon: Gorgias - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15723080`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221190|exam:15723080>
+
+### Platon: Gorgias - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15723081`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226851|exam:15723081>
+
+### Platon: Gorgias - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15723009`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226866|exam:15723009>
+
+### Platon: Gorgias - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15723063`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226882|exam:15723063>
+
+### Transzendentale Argumente gegen den Skeptizismus - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15724109`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221152|exam:15724109>
+
+### Transzendentale Argumente gegen den Skeptizismus - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15724081`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221190|exam:15724081>
+
+### Transzendentale Argumente gegen den Skeptizismus - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15724082`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226851|exam:15724082>
+
+### Transzendentale Argumente gegen den Skeptizismus - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15724110`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226882|exam:15724110>
+
+### Von Anderen lernen - Zeugnisse in der Erkenntnistheorie - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15724132`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221152|exam:15724132>
+
+### Von Anderen lernen - Zeugnisse in der Erkenntnistheorie - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15724164`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221190|exam:15724164>
+
+### Von Anderen lernen - Zeugnisse in der Erkenntnistheorie - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15724165`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226851|exam:15724165>
+
+### Von Anderen lernen - Zeugnisse in der Erkenntnistheorie - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15724133`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226882|exam:15724133>
+
+### Wesen und Wert der Privatsphäre und die Ethik der Überwachung - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15724229`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221152|exam:15724229>
+
+### Wesen und Wert der Privatsphäre und die Ethik der Überwachung - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15724218`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221174|exam:15724218>
+
+### Wesen und Wert der Privatsphäre und die Ethik der Überwachung - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15724193`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221190|exam:15724193>
+
+### Wesen und Wert der Privatsphäre und die Ethik der Überwachung - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15724194`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226851|exam:15724194>
+
+### Wesen und Wert der Privatsphäre und die Ethik der Überwachung - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15724219`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226866|exam:15724219>
+
+### Wesen und Wert der Privatsphäre und die Ethik der Überwachung - Proseminar / Mittelseminar
+
+- **Campo-Segment:** `exam:15724230`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226882|exam:15724230>
+
+### Übung zu Lie Superalgebren - Übung
+
+- **Campo-Segment:** `exam:15763773`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14222980|exam:15739966|exam:15763773>
+
+### Übung zu Lie Superalgebren - Übung
+
+- **Campo-Segment:** `exam:15763772`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14223142|exam:15739948|exam:15763772>
+
+### Übung zu Lie Superalgebren - Übung
+
+- **Campo-Segment:** `exam:15763771`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232522|exam:15739930|exam:15763771>
+
+### Übung zu Neural Network Theory - Übung
+
+- **Campo-Segment:** `exam:15863438`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14222980|exam:15863435|exam:15863438>
+
+### Übung zu Neural Network Theory - Übung
+
+- **Campo-Segment:** `exam:15863414`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14223142|exam:15863411|exam:15863414>
+
+### Übung zu Neural Network Theory - Übung
+
+- **Campo-Segment:** `exam:15763784`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232804|exam:15739849|exam:15763784>
+
+### Übungen Einführung in die kategorielle Homotopietheorie - Übung
+
+- **Campo-Segment:** `exam:15867246`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232522|exam:14232548|exam:15867246>
+
+### Übungen Mathematische Quantentheorie - Übung
+
+- **Campo-Segment:** `exam:15763798`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14222980|exam:15739705|exam:15763798>
+
+### Übungen Mathematische Quantentheorie - Übung
+
+- **Campo-Segment:** `exam:15763797`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14223142|exam:15739687|exam:15763797>
+
+### Übungen Mathematische Quantentheorie - Übung
+
+- **Campo-Segment:** `exam:15763799`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232628|exam:15739723|exam:15763799>
+
+### Übungen zu Fourieranalysis und Distributionstheorie - Übung
+
+- **Campo-Segment:** `exam:15792866`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14222980|exam:15792658|exam:15792866>
+
+### Übungen zu Fourieranalysis und Distributionstheorie - Übung
+
+- **Campo-Segment:** `exam:15792865`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14223142|exam:15792640|exam:15792865>
+
+### Übungen zu Fourieranalysis und Distributionstheorie - Übung
+
+- **Campo-Segment:** `exam:15792864`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232628|exam:15792676|exam:15792864>
 
 ### 1000 Grundlagen- und Orientierungsprüfung (GOP)
 
@@ -442,6 +977,511 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Campo-Segment:** `exam:15942511`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15940952|exam:15942490|exam:15942511>
+
+### 1999 Bachelorarbeit (B.Sc. Mathematik 20261)
+
+- **Campo-Segment:** `exam:15843378`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15843378>
+
+### 32161 Menschenzentrierte IT-Sicherheit - Leistung
+
+- **Campo-Segment:** `exam:15764535`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14233062|exam:15764535>
+
+### 39751 Automatentheorie (Seminar) - Leistung
+
+- **Campo-Segment:** `exam:15939670`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14233062|exam:15939670>
+
+### 43141 Mobile Communications
+
+- **Campo-Segment:** `exam:14220998`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14220948|exam:14220949|exam:14220998>
+
+### 43141 Mobile Communications
+
+- **Campo-Segment:** `exam:14226740`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226672|exam:14226691|exam:14226740>
+
+### 43461 Satellite Communications
+
+- **Campo-Segment:** `exam:15692774`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14220948|exam:14220949|exam:15692774>
+
+### 43461 Satellite Communications
+
+- **Campo-Segment:** `exam:15692775`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226672|exam:14226691|exam:15692775>
+
+### 43490 Hardware-Software-Co-Design
+
+- **Campo-Segment:** `exam:14221010`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14220948|exam:14220949|exam:14221010>
+
+### 43490 Hardware-Software-Co-Design
+
+- **Campo-Segment:** `exam:14226752`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226672|exam:14226691|exam:14226752>
+
+### 43822 Computer Graphics
+
+- **Campo-Segment:** `exam:14221014`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14220948|exam:14220949|exam:14221014>
+
+### 43822 Computer Graphics
+
+- **Campo-Segment:** `exam:14226756`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226672|exam:14226691|exam:14226756>
+
+### 48201 Complex Systems I
+
+- **Campo-Segment:** `exam:14221083`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221075|exam:14221076|exam:14221083>
+
+### 48201 Complex Systems I
+
+- **Campo-Segment:** `exam:14226961`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226949|exam:14226950|exam:14226961>
+
+### 48211 Complex Systems II
+
+- **Campo-Segment:** `exam:14221086`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221075|exam:14221076|exam:14221086>
+
+### 48211 Complex Systems II
+
+- **Campo-Segment:** `exam:14226964`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226949|exam:14226950|exam:14226964>
+
+### 48216 Complex Systems III
+
+- **Campo-Segment:** `exam:14221089`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221075|exam:14221076|exam:14221089>
+
+### 48216 Complex Systems III
+
+- **Campo-Segment:** `exam:14226967`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226949|exam:14226950|exam:14226967>
+
+### 48217 Complex Systems IV
+
+- **Campo-Segment:** `exam:14221092`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221075|exam:14221076|exam:14221092>
+
+### 48217 Complex Systems IV
+
+- **Campo-Segment:** `exam:14226970`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226949|exam:14226950|exam:14226970>
+
+### 54921 Einführung in die Sekundarstufen-Mathematikdidaktik (MD1SekI) - Leistung
+
+- **Campo-Segment:** `exam:15889274`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15889213|exam:15889214|exam:15889215|exam:15889272|exam:15889273|exam:15889274>
+
+### 54921 Einführung in die Sekundarstufen-Mathematikdidaktik (MD1SekI) - Leistung
+
+- **Campo-Segment:** `exam:15895540`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15895532|exam:15895533|exam:15895534|exam:15895535|exam:15895539|exam:15895540>
+
+### 54921 Einführung in die Sekundarstufen-Mathematikdidaktik (MD1SekI) - Leistung
+
+- **Campo-Segment:** `exam:15895618`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15895551|exam:15895553|exam:15895554|exam:15895616|exam:15895617|exam:15895618>
+
+### 54922 Didaktik im Bereich Zahlen und Operation, Muster und funktionaler Zusammenhang (MD1SekI) - Leistung
+
+- **Campo-Segment:** `exam:15889275`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15889213|exam:15889214|exam:15889215|exam:15889272|exam:15889273|exam:15889275>
+
+### 54922 Didaktik im Bereich Zahlen und Operation, Muster und funktionaler Zusammenhang (MD1SekI) - Leistung
+
+- **Campo-Segment:** `exam:15895541`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15895532|exam:15895533|exam:15895534|exam:15895535|exam:15895539|exam:15895541>
+
+### 54922 Didaktik im Bereich Zahlen und Operation, Muster und funktionaler Zusammenhang (MD1SekI) - Leistung
+
+- **Campo-Segment:** `exam:15895619`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15895551|exam:15895553|exam:15895554|exam:15895616|exam:15895617|exam:15895619>
+
+### 54931 Lernzielorientierte Planung von Mathematikunterricht (MDPlan) - Leistung
+
+- **Campo-Segment:** `exam:15889277`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15889213|exam:15889214|exam:15889215|exam:15889272|exam:15889276|exam:15889277>
+
+### 54931 Lernzielorientierte Planung von Mathematikunterricht (MDPlan) - Leistung
+
+- **Campo-Segment:** `exam:15895543`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15895532|exam:15895533|exam:15895534|exam:15895535|exam:15895542|exam:15895543>
+
+### 54931 Lernzielorientierte Planung von Mathematikunterricht (MDPlan) - Leistung
+
+- **Campo-Segment:** `exam:15895621`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15895551|exam:15895553|exam:15895554|exam:15895616|exam:15895620|exam:15895621>
+
+### 54943 Ausgewählte Themen der Mathematikdidaktik mit Bezug zur Digitalisierung (MD2SSekI) - Leistung
+
+- **Campo-Segment:** `exam:15914618`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15889213|exam:15889214|exam:15889215|exam:15889272|exam:15889278|exam:15914618>
+
+### 54943 Ausgewählte Themen der Mathematikdidaktik mit Bezug zur Digitalisierung (MD2SSekI) - Leistung
+
+- **Campo-Segment:** `exam:15914620`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15895532|exam:15895533|exam:15895534|exam:15895535|exam:15895547|exam:15914620>
+
+### 54943 Ausgewählte Themen der Mathematikdidaktik mit Bezug zur Digitalisierung (MD2SSekI) - Leistung
+
+- **Campo-Segment:** `exam:15914619`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15895551|exam:15895553|exam:15895554|exam:15895616|exam:15895625|exam:15914619>
+
+### 54944 Ausgewählte Themen der Mathematikdidaktik mit Bezug zu Heterogenität und Inklusion (MD2SSekI) - Leistung
+
+- **Campo-Segment:** `exam:15914623`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15889213|exam:15889214|exam:15889215|exam:15889272|exam:15889278|exam:15914623>
+
+### 54944 Ausgewählte Themen der Mathematikdidaktik mit Bezug zu Heterogenität und Inklusion (MD2SSekI) - Leistung
+
+- **Campo-Segment:** `exam:15914622`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15895532|exam:15895533|exam:15895534|exam:15895535|exam:15895547|exam:15914622>
+
+### 54944 Ausgewählte Themen der Mathematikdidaktik mit Bezug zu Heterogenität und Inklusion (MD2SSekI) - Leistung
+
+- **Campo-Segment:** `exam:15914621`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15895551|exam:15895553|exam:15895554|exam:15895616|exam:15895625|exam:15914621>
+
+### 54952 Didaktik im Bereich Raum und Form (MD2V/SSekI) - Leistung
+
+- **Campo-Segment:** `exam:15915503`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15889213|exam:15889214|exam:15889215|exam:15889272|exam:15889278|exam:15915503>
+
+### 54952 Didaktik im Bereich Raum und Form (MD2V/SSekI) - Leistung
+
+- **Campo-Segment:** `exam:15889283`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15889213|exam:15889214|exam:15889215|exam:15889272|exam:15889281|exam:15889283>
+
+### 54952 Didaktik im Bereich Raum und Form (MD2V/SSekI) - Leistung
+
+- **Campo-Segment:** `exam:15895546`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15895532|exam:15895533|exam:15895534|exam:15895535|exam:15895544|exam:15895546>
+
+### 54952 Didaktik im Bereich Raum und Form (MD2V/SSekI) - Leistung
+
+- **Campo-Segment:** `exam:15915505`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15895532|exam:15895533|exam:15895534|exam:15895535|exam:15895547|exam:15915505>
+
+### 54952 Didaktik im Bereich Raum und Form (MD2V/SSekI) - Leistung
+
+- **Campo-Segment:** `exam:15895624`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15895551|exam:15895553|exam:15895554|exam:15895616|exam:15895622|exam:15895624>
+
+### 54952 Didaktik im Bereich Raum und Form (MD2V/SSekI) - Leistung
+
+- **Campo-Segment:** `exam:15915504`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15895551|exam:15895553|exam:15895554|exam:15895616|exam:15895625|exam:15915504>
+
+### 55151 Einführung in die Sekundarstufen Mathematikdidaktik (MD1Gym) - Leistung
+
+- **Campo-Segment:** `exam:15888340`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15888125|exam:15888126|exam:15888127|exam:15888338|exam:15888339|exam:15888340>
+
+### 55152 Didaktik im Bereich Zahl und Operation, Muster und Funktionaler Zusammenhang (MD1Gym) - Leistung
+
+- **Campo-Segment:** `exam:15888341`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15888125|exam:15888126|exam:15888127|exam:15888338|exam:15888339|exam:15888341>
+
+### 55153 Didaktik im Bereich Raum und Form (MD1Gym) - Leistung
+
+- **Campo-Segment:** `exam:15914612`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15888125|exam:15888126|exam:15888127|exam:15888338|exam:15888339|exam:15914612>
+
+### 55253 Ausgewählte Themen der Sekundarstufen-Mathematikdidaktik mit Bezug zur Digitalisierung (MD2SGym) - Leistung
+
+- **Campo-Segment:** `exam:15914613`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15888125|exam:15888126|exam:15888127|exam:15888338|exam:15888342|exam:15914613>
+
+### 55254 Ausgewählte Themen der Sekundarstufen-Mathematikdidaktik mit Bezug zu Heterogenität und Inklusion (MD2SGym) - Leistung
+
+- **Campo-Segment:** `exam:15914614`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15888125|exam:15888126|exam:15888127|exam:15888338|exam:15888342|exam:15914614>
+
+### 55262 Didaktik der Analysis (MD2V/SGym) - Leistung
+
+- **Campo-Segment:** `exam:15915502`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15888125|exam:15888126|exam:15888127|exam:15888338|exam:15888342|exam:15915502>
+
+### 55262 Didaktik der Analysis (MD2V/SGym) - Leistung
+
+- **Campo-Segment:** `exam:15888347`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15888125|exam:15888126|exam:15888127|exam:15888338|exam:15888345|exam:15888347>
+
+### 58351 Fourieranalysis und Distributionstheorie - Leistung
+
+- **Campo-Segment:** `exam:15792659`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14222980|exam:15792658|exam:15792659>
+
+### 58351 Fourieranalysis und Distributionstheorie - Leistung
+
+- **Campo-Segment:** `exam:15792641`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14223142|exam:15792640|exam:15792641>
+
+### 58351 Fourieranalysis und Distributionstheorie - Leistung
+
+- **Campo-Segment:** `exam:15792677`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232628|exam:15792676|exam:15792677>
+
+### 58371 Lie Superalgebren - Leistung
+
+- **Campo-Segment:** `exam:15739967`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14222980|exam:15739966|exam:15739967>
+
+### 58371 Lie Superalgebren - Leistung
+
+- **Campo-Segment:** `exam:15739949`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14223142|exam:15739948|exam:15739949>
+
+### 58371 Lie Superalgebren - Leistung
+
+- **Campo-Segment:** `exam:15739931`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232522|exam:15739930|exam:15739931>
+
+### 58381 Neural Network Theory - Leistung
+
+- **Campo-Segment:** `exam:15863436`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14222980|exam:15863435|exam:15863436>
+
+### 58381 Neural Network Theory - Leistung
+
+- **Campo-Segment:** `exam:15863412`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14223142|exam:15863411|exam:15863412>
+
+### 58381 Neural Network Theory - Leistung
+
+- **Campo-Segment:** `exam:15739850`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232804|exam:15739849|exam:15739850>
+
+### 58391 Mathematische Quantentheorie - Leistung
+
+- **Campo-Segment:** `exam:15739706`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14222980|exam:15739705|exam:15739706>
+
+### 58391 Mathematische Quantentheorie - Leistung
+
+- **Campo-Segment:** `exam:15739688`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14223142|exam:15739687|exam:15739688>
+
+### 58391 Mathematische Quantentheorie - Leistung
+
+- **Campo-Segment:** `exam:15739724`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232628|exam:15739723|exam:15739724>
+
+### 58531 Numerics of incompressible flows I - Leistung
+
+- **Campo-Segment:** `exam:14233032`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232804|exam:14233031|exam:14233032>
+
+### 59611 Tutorat (Mathematische Studiengänge) - Leistung
+
+- **Campo-Segment:** `exam:14219995`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14218478|exam:14219994|exam:14219995>
+
+### 59611 Tutorat (Mathematische Studiengänge) - Leistung
+
+- **Campo-Segment:** `exam:14224913`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14223393|exam:14224912|exam:14224913>
+
+### 59611 Tutorat (Mathematische Studiengänge) - Leistung
+
+- **Campo-Segment:** `exam:17806717`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15841958|exam:17806716|exam:17806717>
+
+### 64930 Kompetenzseminar zum Klimawandel: Grundlagen- u. Kompetenzen zu Nachhaltigkeitsherausforderungen
+
+- **Campo-Segment:** `exam:15942456`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15940952|exam:15942452|exam:15942456>
+
+### 65057 Seminar Geometrie
+
+- **Campo-Segment:** `exam:14213382`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14213240|exam:14213241|exam:14213242|exam:14213244|exam:14213349|exam:14213382>
+
+### 65057 Seminar Geometrie
+
+- **Campo-Segment:** `exam:15888265`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15888125|exam:15888126|exam:15888127|exam:15888129|exam:15888234|exam:15888265>
+
+### 65498 Zentrale Gegenstände der Sekundarstufenmathematik (MSMathe)
+
+- **Campo-Segment:** `exam:15895536`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15895532|exam:15895533|exam:15895534|exam:15895535|exam:15895536>
+
+### 65835 Fourieranalysis und Distributionstheorie
+
+- **Campo-Segment:** `exam:15940746`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15940571|exam:15940572|exam:15940746>
+
+### 65835 Fourieranalysis und Distributionstheorie
+
+- **Campo-Segment:** `exam:15940914`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15940571|exam:15940754|exam:15940914>
+
+### 65837 Lie Superalgebren
+
+- **Campo-Segment:** `exam:15940742`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15940571|exam:15940572|exam:15940742>
+
+### 65837 Lie Superalgebren
+
+- **Campo-Segment:** `exam:15940910`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15940571|exam:15940754|exam:15940910>
+
+### 65838 Neural Network Theory
+
+- **Campo-Segment:** `exam:15940750`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15940571|exam:15940572|exam:15940750>
+
+### 65838 Neural Network Theory
+
+- **Campo-Segment:** `exam:15940922`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15940571|exam:15940754|exam:15940922>
+
+### 65839 Mathematische Quantentheorie
+
+- **Campo-Segment:** `exam:15940738`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15940571|exam:15940572|exam:15940738>
+
+### 65839 Mathematische Quantentheorie
+
+- **Campo-Segment:** `exam:15940906`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15940571|exam:15940754|exam:15940906>
+
+### 65854 Numerics of incompressible flows II
+
+- **Campo-Segment:** `exam:14233033`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232804|exam:14233033>
+
+### 65855 Nichtlineare Optimierung 1
+
+- **Campo-Segment:** `exam:14223288`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14223142|exam:14223288>
+
+### 65855 Nichtlineare Optimierung 1
+
+- **Campo-Segment:** `exam:15940899`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15940571|exam:15940754|exam:15940899>
+
+### 65856 Nichtlineare Optimierung 2
+
+- **Campo-Segment:** `exam:14233029`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232804|exam:14233029>
+
+### 65857 Higher Analysis
+
+- **Campo-Segment:** `exam:14223138`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14222980|exam:14223138>
+
+### 65857 Higher Analysis
+
+- **Campo-Segment:** `exam:14223286`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14223142|exam:14223286>
+
+### 65857 Higher Analysis
+
+- **Campo-Segment:** `exam:14232800`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232628|exam:14232800>
+
+### 65857 Higher Analysis
+
+- **Campo-Segment:** `exam:15940732`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15940571|exam:15940572|exam:15940732>
+
+### 65857 Higher Analysis
+
+- **Campo-Segment:** `exam:15940895`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15940571|exam:15940754|exam:15940895>
+
+### 65858 Mathematische Grundlagen der Quantisierungstheorie und Anwendungen
+
+- **Campo-Segment:** `exam:14232802`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232628|exam:14232802>
+
+### 65859 Vertexalgebren
+
+- **Campo-Segment:** `exam:14220130`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14219996|exam:14220130>
+
+### 65859 Vertexalgebren
+
+- **Campo-Segment:** `exam:14220270`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14220132|exam:14220270>
+
+### 65859 Vertexalgebren
+
+- **Campo-Segment:** `exam:14223140`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14222980|exam:14223140>
+
+### 65859 Vertexalgebren
+
+- **Campo-Segment:** `exam:14223292`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14223142|exam:14223292>
+
+### 65859 Vertexalgebren
+
+- **Campo-Segment:** `exam:14232626`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232522|exam:14232626>
+
+### 65859 Vertexalgebren
+
+- **Campo-Segment:** `exam:15940736`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15940571|exam:15940572|exam:15940736>
+
+### 65859 Vertexalgebren
+
+- **Campo-Segment:** `exam:15940904`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15940571|exam:15940754|exam:15940904>
+
+### 65897 Algebraische Quantenfeldtheorie
+
+- **Campo-Segment:** `exam:14223134`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14222980|exam:14223134>
+
+### 65897 Algebraische Quantenfeldtheorie
+
+- **Campo-Segment:** `exam:14223282`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14223142|exam:14223282>
+
+### 65897 Algebraische Quantenfeldtheorie
+
+- **Campo-Segment:** `exam:15940728`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15940571|exam:15940572|exam:15940728>
+
+### 65897 Algebraische Quantenfeldtheorie
+
+- **Campo-Segment:** `exam:15940891`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15940571|exam:15940754|exam:15940891>
+
+### 65898 Fixed Point Theory and Applications
+
+- **Campo-Segment:** `exam:14232793`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232628|exam:14232793>
+
+### 65899 Topological Vector Spaces and Distributions
+
+- **Campo-Segment:** `exam:14232791`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232628|exam:14232791>
+
+### 68800 Grundlagen der Geowissenschaften I
+
+- **Campo-Segment:** `exam:14225008`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14225007|exam:14225008>
+
+### 68800 Grundlagen der Geowissenschaften I
+
+- **Campo-Segment:** `exam:15942453`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15940952|exam:15942452|exam:15942453>
+
+### 68830 Dynamik des Systems Erde
+
+- **Campo-Segment:** `exam:15942459`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15940952|exam:15942452|exam:15942459>
 
 ### 93701 Vertiefungsrichtung Datenbanksysteme
 
@@ -808,7 +1848,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Campo-Segment:** `exam:14226628`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226116|exam:14226134|exam:14226628>
 
-## Veranstaltungen (1718)
+## Veranstaltungen (1510)
 
 ### Abschlussarbeiten-Seminar Betriebswirtschaftslehre - Seminar
 
@@ -1002,102 +2042,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mo | 08:00–10:00 | 13.04.2026–13.07.2026 | 12801.01.210 (H11) |
 | wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 12801.01.210 (H11) |
-
-### Analytische Philosophie der Kunst - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15720690` · **unitId:** `134430`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221152|exam:15720690>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134430&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 05801.01.110 ( PSG A 301) |
-
-### Analytische Philosophie der Kunst - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15720722` · **unitId:** `134430`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221174|exam:15720722>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134430&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 05801.01.110 ( PSG A 301) |
-
-### Analytische Philosophie der Kunst - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15720753` · **unitId:** `134430`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221190|exam:15720753>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134430&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 05801.01.110 ( PSG A 301) |
-
-### Analytische Philosophie der Kunst - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15720754` · **unitId:** `134430`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226851|exam:15720754>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134430&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 05801.01.110 ( PSG A 301) |
-
-### Analytische Philosophie der Kunst - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15720723` · **unitId:** `134430`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226866|exam:15720723>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134430&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 05801.01.110 ( PSG A 301) |
-
-### Analytische Philosophie der Kunst - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15720691` · **unitId:** `134430`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226882|exam:15720691>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134430&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 05801.01.110 ( PSG A 301) |
 
 ### Analytische Zahlentheorie - Vorlesung mit Übung
 
@@ -1457,70 +2401,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-### BA/MA: Yin-Yang-Theorien - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15765851` · **unitId:** `134973`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221152|exam:15765851>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134973&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 05801.02.111 ( PSG A 402) |
-
-### BA/MA: Yin-Yang-Theorien - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15765837` · **unitId:** `134973`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221190|exam:15765837>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134973&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 05801.02.111 ( PSG A 402) |
-
-### BA/MA: Yin-Yang-Theorien - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15765838` · **unitId:** `134973`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226851|exam:15765838>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134973&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 05801.02.111 ( PSG A 402) |
-
-### BA/MA: Yin-Yang-Theorien - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15765852` · **unitId:** `134973`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226882|exam:15765852>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134973&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 05801.02.111 ( PSG A 402) |
-
 ### Bachelorseminar "Kryptographie" - Hauptseminar
 
 - **Segment:** `exam:14213178` · **unitId:** `85510`
@@ -1691,103 +2571,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Do | 18:00–20:00 | 16.04.2026–16.07.2026 | 12801.01.253 (Übung 4 / 01.253-128) |
 
-### Basic Concepts in Contemporary AI Ethics - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15763178` · **unitId:** `134874`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221152|exam:15763178>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134874&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung+SaundSo | — | 09:00–18:00 | 19.06.2026–21.06.2026 | 56901.00.025 (CIP-Pool 1 (aktuell noch keine Rechnerausstattung - Vorbelegungsrecht HTA Departments für WS bis 15.07.26))) |
-
-### Basic Concepts in Contemporary AI Ethics - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15763211` · **unitId:** `134874`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221174|exam:15763211>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134874&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung+SaundSo | — | 09:00–18:00 | 19.06.2026–21.06.2026 | 56901.00.025 (CIP-Pool 1 (aktuell noch keine Rechnerausstattung - Vorbelegungsrecht HTA Departments für WS bis 15.07.26))) |
-
-### Basic Concepts in Contemporary AI Ethics - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15763193` · **unitId:** `134874`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221190|exam:15763193>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134874&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung+SaundSo | — | 09:00–18:00 | 19.06.2026–21.06.2026 | 56901.00.025 (CIP-Pool 1 (aktuell noch keine Rechnerausstattung - Vorbelegungsrecht HTA Departments für WS bis 15.07.26))) |
-
-### Basic Concepts in Contemporary AI Ethics - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15763194` · **unitId:** `134874`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226851|exam:15763194>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134874&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung+SaundSo | — | 09:00–18:00 | 19.06.2026–21.06.2026 | 56901.00.025 (CIP-Pool 1 (aktuell noch keine Rechnerausstattung - Vorbelegungsrecht HTA Departments für WS bis 15.07.26))) |
-
-### Basic Concepts in Contemporary AI Ethics - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15763212` · **unitId:** `134874`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226866|exam:15763212>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134874&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung+SaundSo | — | 09:00–18:00 | 19.06.2026–21.06.2026 | 56901.00.025 (CIP-Pool 1 (aktuell noch keine Rechnerausstattung - Vorbelegungsrecht HTA Departments für WS bis 15.07.26))) |
-
-### Basic Concepts in Contemporary AI Ethics - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15763179` · **unitId:** `134874`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226882|exam:15763179>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134874&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung+SaundSo | — | 09:00–18:00 | 19.06.2026–21.06.2026 | 56901.00.025 (CIP-Pool 1 (aktuell noch keine Rechnerausstattung - Vorbelegungsrecht HTA Departments für WS bis 15.07.26))) |
-
-### Begleitveranstaltung studienbegleitendes Praktikum an Realschulen - Seminar
+### Begleitveranstaltung studienbegleitendes Praktikum an Realschulen - Englisch - Seminar
 
 - **Segment:** `exam:14215386` · **unitId:** `115090`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14215374|exam:14215376|exam:14215377|exam:14215378|exam:14215379|exam:14215386>
@@ -1801,102 +2585,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | 05902.00.006 ( 00.6 PSG) |
-
-### Bewusstsein, Gedächtnis, Emotion - Einführung in die Philosophie der Psychologie - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15720789` · **unitId:** `134127`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221152|exam:15720789>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134127&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung | — | 09:00–18:00 | 20.07.2026–23.07.2026 | 05801.01.110 ( PSG A 301) |
-
-### Bewusstsein, Gedächtnis, Emotion - Einführung in die Philosophie der Psychologie - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15720807` · **unitId:** `134127`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221190|exam:15720807>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134127&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung | — | 09:00–18:00 | 20.07.2026–23.07.2026 | 05801.01.110 ( PSG A 301) |
-
-### Bewusstsein, Gedächtnis, Emotion - Einführung in die Philosophie der Psychologie - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15720808` · **unitId:** `134127`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226851|exam:15720808>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134127&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung | — | 09:00–18:00 | 20.07.2026–23.07.2026 | 05801.01.110 ( PSG A 301) |
-
-### Bewusstsein, Gedächtnis, Emotion - Einführung in die Philosophie der Psychologie - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15720790` · **unitId:** `134127`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226882|exam:15720790>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134127&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung | — | 09:00–18:00 | 20.07.2026–23.07.2026 | 05801.01.110 ( PSG A 301) |
-
-### Bibelkunde des Neuen Testaments - Übung
-
-- **Segment:** `exam:14221223` · **unitId:** `130943`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221205|exam:14221220|exam:14221223>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130943&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 12:00–14:00 | 13.04.2026–13.07.2026 | 06201.02.020 ( TSG HS B (02.020) Theologisches Seminargebäude, Kochstraße 6) |
-
-### Bibelkunde des Neuen Testaments - Übung
-
-- **Segment:** `exam:14226988` · **unitId:** `130943`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226984|exam:14226985|exam:14226988>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130943&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 12:00–14:00 | 13.04.2026–13.07.2026 | 06201.02.020 ( TSG HS B (02.020) Theologisches Seminargebäude, Kochstraße 6) |
 
 ### Biologie IV: Molekularbiologie und Genomik - Vorlesung
 
@@ -2105,42 +2793,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 12801.01.210 (H11) |
 | Einzeltermin | Fr | 14:15–15:45 | 12.06.2026 | 12801.01.210 (H11) |
 | Einzeltermin | Fr | 02:15–03:45 | 19.06.2026 | 12801.01.210 (H11) |
-
-### Der Dekalog: religionsgeschichtliche Hintergründe und mediale Adaptierungen - Seminar
-
-- **Segment:** `exam:15727460` · **unitId:** `130155`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221205|exam:14221210|exam:15727460>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130155&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 06201.02.020 ( TSG HS B (02.020) Theologisches Seminargebäude, Kochstraße 6) 06201.U1.031 (TSG U1.031 Bibliothek Systematische Theologie) |
-| Einzeltermin | Do | 16:00–18:00 | 16.07.2026 | 06201.02.021 ( TSG HS A (02.021) Theologisches Seminargebäude, Kochstraße 6) |
-
-### Der Dekalog: religionsgeschichtliche Hintergründe und mediale Adaptierungen - Seminar
-
-- **Segment:** `exam:15727461` · **unitId:** `130155`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226984|exam:14226997|exam:15727461>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130155&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 06201.02.020 ( TSG HS B (02.020) Theologisches Seminargebäude, Kochstraße 6) 06201.U1.031 (TSG U1.031 Bibliothek Systematische Theologie) |
-| Einzeltermin | Do | 16:00–18:00 | 16.07.2026 | 06201.02.021 ( TSG HS A (02.021) Theologisches Seminargebäude, Kochstraße 6) |
 
 ### Didaktik der Analysis - Seminar
 
@@ -2412,7 +3064,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Fr | 11:30–13:00 | 17.04.2026–17.07.2026 | 20301.02.014 (2.014 Mathe-Lehrwerkstatt (40)) |
 
-### Didaktik im Bereich Zahl und Operation, Struktur und funktionaler Zusammenhang (Didaktik der Zahlbereiche, Arithmetik) - Vorlesung
+### Didaktik im Bereich Zahl und Operation, Struktur und funktionaler Zusammenhang (Didaktik der Zahlbereiche, Arithmetik, Seminar Zahlen) - Vorlesung
 
 - **Segment:** `exam:15903083` · **unitId:** `83067`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14213047|exam:14213048|exam:14213049|exam:14213105|exam:14213106|exam:15903083>
@@ -2428,7 +3080,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 08:00–09:30 | 14.04.2026–14.07.2026 | 20301.01.042 (1.042 großer Hörsaal (230)) |
 
-### Didaktik im Bereich Zahl und Operation, Struktur und funktionaler Zusammenhang (Didaktik der Zahlbereiche, Arithmetik) - Vorlesung
+### Didaktik im Bereich Zahl und Operation, Struktur und funktionaler Zusammenhang (Didaktik der Zahlbereiche, Arithmetik, Seminar Zahlen) - Vorlesung
 
 - **Segment:** `exam:15903117` · **unitId:** `83067`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14213047|exam:14213048|exam:14213049|exam:14213105|exam:14213112|exam:15903117>
@@ -2444,7 +3096,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 08:00–09:30 | 14.04.2026–14.07.2026 | 20301.01.042 (1.042 großer Hörsaal (230)) |
 
-### Didaktik im Bereich Zahl und Operation, Struktur und funktionaler Zusammenhang (Didaktik der Zahlbereiche, Arithmetik) - Vorlesung
+### Didaktik im Bereich Zahl und Operation, Struktur und funktionaler Zusammenhang (Didaktik der Zahlbereiche, Arithmetik, Seminar Zahlen) - Vorlesung
 
 - **Segment:** `exam:15903084` · **unitId:** `83067`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14213132|exam:14213133|exam:14213134|exam:14213222|exam:14213223|exam:15903084>
@@ -2460,7 +3112,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 08:00–09:30 | 14.04.2026–14.07.2026 | 20301.01.042 (1.042 großer Hörsaal (230)) |
 
-### Didaktik im Bereich Zahl und Operation, Struktur und funktionaler Zusammenhang (Didaktik der Zahlbereiche, Arithmetik) - Vorlesung
+### Didaktik im Bereich Zahl und Operation, Struktur und funktionaler Zusammenhang (Didaktik der Zahlbereiche, Arithmetik, Seminar Zahlen) - Vorlesung
 
 - **Segment:** `exam:15903085` · **unitId:** `83067`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14213240|exam:14213241|exam:14213242|exam:14213453|exam:14213454|exam:15903085>
@@ -2476,7 +3128,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 08:00–09:30 | 14.04.2026–14.07.2026 | 20301.01.042 (1.042 großer Hörsaal (230)) |
 
-### Didaktik im Bereich Zahl und Operation, Struktur und funktionaler Zusammenhang (Didaktik der Zahlbereiche, Arithmetik) - Vorlesung
+### Didaktik im Bereich Zahl und Operation, Struktur und funktionaler Zusammenhang (Didaktik der Zahlbereiche, Arithmetik, Seminar Zahlen) - Vorlesung
 
 - **Segment:** `exam:17869226` · **unitId:** `83067`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14213471|exam:14213472|exam:14213473|exam:14213474|exam:14213482|exam:17869226>
@@ -2492,7 +3144,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 08:00–09:30 | 14.04.2026–14.07.2026 | 20301.01.042 (1.042 großer Hörsaal (230)) |
 
-### Didaktik im Bereich Zahl und Operation, Struktur und funktionaler Zusammenhang (Didaktik der Zahlbereiche, Arithmetik) - Vorlesung
+### Didaktik im Bereich Zahl und Operation, Struktur und funktionaler Zusammenhang (Didaktik der Zahlbereiche, Arithmetik, Seminar Zahlen) - Vorlesung
 
 - **Segment:** `exam:17869236` · **unitId:** `83067`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14213495|exam:14213497|exam:14213498|exam:14213558|exam:14213565|exam:17869236>
@@ -2508,7 +3160,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 08:00–09:30 | 14.04.2026–14.07.2026 | 20301.01.042 (1.042 großer Hörsaal (230)) |
 
-### Didaktik im Bereich Zahl und Operation, Struktur und funktionaler Zusammenhang (Didaktik der Zahlbereiche, Arithmetik) - Vorlesung
+### Didaktik im Bereich Zahl und Operation, Struktur und funktionaler Zusammenhang (Didaktik der Zahlbereiche, Arithmetik, Seminar Zahlen) - Vorlesung
 
 - **Segment:** `exam:14213762` · **unitId:** `83067`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14213701|exam:14213702|exam:14213703|exam:14213759|exam:14213760|exam:14213762>
@@ -2524,7 +3176,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 08:00–09:30 | 14.04.2026–14.07.2026 | 20301.01.042 (1.042 großer Hörsaal (230)) |
 
-### Didaktik im Bereich Zahl und Operation, Struktur und funktionaler Zusammenhang (Didaktik der Zahlbereiche, Arithmetik) - Vorlesung
+### Didaktik im Bereich Zahl und Operation, Struktur und funktionaler Zusammenhang (Didaktik der Zahlbereiche, Arithmetik, Seminar Zahlen) - Vorlesung
 
 - **Segment:** `exam:14215417` · **unitId:** `83067`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14215374|exam:14215376|exam:14215377|exam:14215414|exam:14215415|exam:14215417>
@@ -2540,7 +3192,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 08:00–09:30 | 14.04.2026–14.07.2026 | 20301.01.042 (1.042 großer Hörsaal (230)) |
 
-### Didaktik im Bereich Zahl und Operation, Struktur und funktionaler Zusammenhang (Didaktik der Zahlbereiche, Arithmetik) - Vorlesung
+### Didaktik im Bereich Zahl und Operation, Struktur und funktionaler Zusammenhang (Didaktik der Zahlbereiche, Arithmetik, Seminar Zahlen) - Vorlesung
 
 - **Segment:** `exam:15902662` · **unitId:** `83067`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15888125|exam:15888126|exam:15888127|exam:15888338|exam:15888339|exam:15902662>
@@ -2556,7 +3208,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 08:00–09:30 | 14.04.2026–14.07.2026 | 20301.01.042 (1.042 großer Hörsaal (230)) |
 
-### Didaktik im Bereich Zahl und Operation, Struktur und funktionaler Zusammenhang (Didaktik der Zahlbereiche, Arithmetik) - Vorlesung
+### Didaktik im Bereich Zahl und Operation, Struktur und funktionaler Zusammenhang (Didaktik der Zahlbereiche, Arithmetik, Seminar Zahlen) - Vorlesung
 
 - **Segment:** `exam:15903040` · **unitId:** `83067`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15889213|exam:15889214|exam:15889215|exam:15889272|exam:15889273|exam:15903040>
@@ -2572,7 +3224,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 08:00–09:30 | 14.04.2026–14.07.2026 | 20301.01.042 (1.042 großer Hörsaal (230)) |
 
-### Didaktik im Bereich Zahl und Operation, Struktur und funktionaler Zusammenhang (Didaktik der Zahlbereiche, Arithmetik) - Vorlesung
+### Didaktik im Bereich Zahl und Operation, Struktur und funktionaler Zusammenhang (Didaktik der Zahlbereiche, Arithmetik, Seminar Zahlen) - Vorlesung
 
 - **Segment:** `exam:15903039` · **unitId:** `83067`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15895532|exam:15895533|exam:15895534|exam:15895535|exam:15895539|exam:15903039>
@@ -2588,7 +3240,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 08:00–09:30 | 14.04.2026–14.07.2026 | 20301.01.042 (1.042 großer Hörsaal (230)) |
 
-### Didaktik im Bereich Zahl und Operation, Struktur und funktionaler Zusammenhang (Didaktik der Zahlbereiche, Arithmetik) - Vorlesung
+### Didaktik im Bereich Zahl und Operation, Struktur und funktionaler Zusammenhang (Didaktik der Zahlbereiche, Arithmetik, Seminar Zahlen) - Vorlesung
 
 - **Segment:** `exam:15903038` · **unitId:** `83067`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15895551|exam:15895553|exam:15895554|exam:15895616|exam:15895617|exam:15903038>
@@ -2908,70 +3560,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | — |
-
-### Einführung in die Angewandte Ethik - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15721252` · **unitId:** `134446`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221152|exam:15721252>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134446&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 05801.02.111 ( PSG A 402) |
-
-### Einführung in die Angewandte Ethik - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15721407` · **unitId:** `134446`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221174|exam:15721407>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134446&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 05801.02.111 ( PSG A 402) |
-
-### Einführung in die Angewandte Ethik - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15721408` · **unitId:** `134446`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226866|exam:15721408>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134446&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 05801.02.111 ( PSG A 402) |
-
-### Einführung in die Angewandte Ethik - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15721253` · **unitId:** `134446`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226882|exam:15721253>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134446&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 05801.02.111 ( PSG A 402) |
 
 ### Einführung in die Darstellungstheorie - Vorlesung
 
@@ -3305,74 +3893,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 20301.01.041 (1.041 großer Hörsaal (310)) |
 | wöchentlich | Mi | 09:45–11:15 | 15.04.2026–15.07.2026 | 20301.01.041 (1.041 großer Hörsaal (310)) |
 
-### Epikur, Stoa, Skepsis: Einführung in die hellenistische Ethik - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15721966` · **unitId:** `134109`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221152|exam:15721966>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134109&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 05801.04.112 ( A 602) |
-| Einzeltermin | Mi | 10:00–12:00 | 20.05.2026 | 05801.04.111 ( A 603) |
-
-### Epikur, Stoa, Skepsis: Einführung in die hellenistische Ethik - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15722003` · **unitId:** `134109`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221174|exam:15722003>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134109&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 05801.04.112 ( A 602) |
-| Einzeltermin | Mi | 10:00–12:00 | 20.05.2026 | 05801.04.111 ( A 603) |
-
-### Epikur, Stoa, Skepsis: Einführung in die hellenistische Ethik - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15722004` · **unitId:** `134109`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226866|exam:15722004>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134109&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 05801.04.112 ( A 602) |
-| Einzeltermin | Mi | 10:00–12:00 | 20.05.2026 | 05801.04.111 ( A 603) |
-
-### Epikur, Stoa, Skepsis: Einführung in die hellenistische Ethik - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15721967` · **unitId:** `134109`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226882|exam:15721967>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134109&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 05801.04.112 ( A 602) |
-| Einzeltermin | Mi | 10:00–12:00 | 20.05.2026 | 05801.04.111 ( A 603) |
-
 ### Exercise Data-driven methods for dynamical systems - Übung
 
 - **Segment:** `exam:15733435` · **unitId:** `116264`
@@ -3702,104 +4222,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | wöchentlich | Di | 08:00–10:00 | 14.04.2026–14.07.2026 | 12801.01.220 (H12 Emmy-Noether-Hörsaal) |
 | wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 12801.01.230 (H13 Johann-Radon-Hörsaal) |
 
-### Glück und Moral: Tugenden in der Philosophie als Lebenskunst - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15722098` · **unitId:** `134058`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221152|exam:15722098>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134058&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 16:00–18:00 | 15.04.2026–15.07.2026 | 05801.01.110 ( PSG A 301) |
-
-### Glück und Moral: Tugenden in der Philosophie als Lebenskunst - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15722107` · **unitId:** `134058`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221174|exam:15722107>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134058&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 16:00–18:00 | 15.04.2026–15.07.2026 | 05801.01.110 ( PSG A 301) |
-
-### Glück und Moral: Tugenden in der Philosophie als Lebenskunst - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15722108` · **unitId:** `134058`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226866|exam:15722108>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134058&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 16:00–18:00 | 15.04.2026–15.07.2026 | 05801.01.110 ( PSG A 301) |
-
-### Glück und Moral: Tugenden in der Philosophie als Lebenskunst - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15722099` · **unitId:** `134058`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226882|exam:15722099>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134058&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 16:00–18:00 | 15.04.2026–15.07.2026 | 05801.01.110 ( PSG A 301) |
-
-### Grundkurs Theoretische Philosophie - Proseminar
-
-- **Segment:** `exam:15722170` · **unitId:** `134356`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221146|exam:15722170>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134356&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 08:30–10:00 | 15.04.2026–15.07.2026 | 05801.01.110 ( PSG A 301) |
-
-### Grundkurs Theoretische Philosophie - Proseminar
-
-- **Segment:** `exam:15722171` · **unitId:** `134356`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226835|exam:15722171>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134356&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 08:30–10:00 | 15.04.2026–15.07.2026 | 05801.01.110 ( PSG A 301) |
-
 ### Hauptseminar Neues Testament - Hauptseminar
 
 - **Segment:** `exam:14221228` · **unitId:** `114291`
@@ -3910,7 +4332,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 3.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 13:15–19:00 | 15.04.2026–15.07.2026 | 13002.00.783 (Ks M Kursraum M) |
+| wöchentlich | Mi | 13:15–19:00 | 15.04.2026–15.07.2026 | 13002.00.782 (Ks L Kursraum L) |
+| Einzeltermin | Mi | 13:15–19:00 | 17.06.2026 | — |
 
 ### ILS-B4: Übung zu Zell- Zellkommunikation, Signalverarbeitung und Entwicklung - Übung
 
@@ -3920,7 +4351,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 3.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 13:15–19:00 | 15.04.2026–15.07.2026 | 13002.00.783 (Ks M Kursraum M) |
+| wöchentlich | Mi | 13:15–19:00 | 15.04.2026–15.07.2026 | 13002.00.782 (Ks L Kursraum L) |
+| Einzeltermin | Mi | 13:15–19:00 | 17.06.2026 | — |
 
 ### Interacting Particle Systems - Vorlesung
 
@@ -4014,90 +4454,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 12801.04.363 (04.363 Seminarraum Mathematik) |
 | wöchentlich | Mi | 12:00–14:00 | 15.04.2026–22.04.2026 | — |
 | wöchentlich | Mi | 12:00–14:00 | 06.05.2026–15.07.2026 | — |
-
-### Introduction to Philosophy of Technology - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15723860` · **unitId:** `134593`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221152|exam:15723860>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134593&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–18:00 | 12.06.2026 | 05801.01.110 ( PSG A 301) |
-| Einzeltermin | Sa | 10:00–14:00 | 13.06.2026 | 05801.01.110 ( PSG A 301) |
-| Einzeltermin | Fr | 14:00–18:00 | 26.06.2026 | 05801.01.110 ( PSG A 301) |
-| Einzeltermin | Sa | 10:00–14:00 | 27.06.2026 | 05801.01.110 ( PSG A 301) |
-| Einzeltermin | Fr | 14:00–18:00 | 10.07.2026 | 05801.01.110 ( PSG A 301) |
-| Einzeltermin | Sa | 10:00–14:00 | 11.07.2026 | 05801.01.110 ( PSG A 301) |
-
-### Introduction to Philosophy of Technology - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15723839` · **unitId:** `134593`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221174|exam:15723839>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134593&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–18:00 | 12.06.2026 | 05801.01.110 ( PSG A 301) |
-| Einzeltermin | Sa | 10:00–14:00 | 13.06.2026 | 05801.01.110 ( PSG A 301) |
-| Einzeltermin | Fr | 14:00–18:00 | 26.06.2026 | 05801.01.110 ( PSG A 301) |
-| Einzeltermin | Sa | 10:00–14:00 | 27.06.2026 | 05801.01.110 ( PSG A 301) |
-| Einzeltermin | Fr | 14:00–18:00 | 10.07.2026 | 05801.01.110 ( PSG A 301) |
-| Einzeltermin | Sa | 10:00–14:00 | 11.07.2026 | 05801.01.110 ( PSG A 301) |
-
-### Introduction to Philosophy of Technology - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15723840` · **unitId:** `134593`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226866|exam:15723840>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134593&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–18:00 | 12.06.2026 | 05801.01.110 ( PSG A 301) |
-| Einzeltermin | Sa | 10:00–14:00 | 13.06.2026 | 05801.01.110 ( PSG A 301) |
-| Einzeltermin | Fr | 14:00–18:00 | 26.06.2026 | 05801.01.110 ( PSG A 301) |
-| Einzeltermin | Sa | 10:00–14:00 | 27.06.2026 | 05801.01.110 ( PSG A 301) |
-| Einzeltermin | Fr | 14:00–18:00 | 10.07.2026 | 05801.01.110 ( PSG A 301) |
-| Einzeltermin | Sa | 10:00–14:00 | 11.07.2026 | 05801.01.110 ( PSG A 301) |
-
-### Introduction to Philosophy of Technology - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15723861` · **unitId:** `134593`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226882|exam:15723861>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134593&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–18:00 | 12.06.2026 | 05801.01.110 ( PSG A 301) |
-| Einzeltermin | Sa | 10:00–14:00 | 13.06.2026 | 05801.01.110 ( PSG A 301) |
-| Einzeltermin | Fr | 14:00–18:00 | 26.06.2026 | 05801.01.110 ( PSG A 301) |
-| Einzeltermin | Sa | 10:00–14:00 | 27.06.2026 | 05801.01.110 ( PSG A 301) |
-| Einzeltermin | Fr | 14:00–18:00 | 10.07.2026 | 05801.01.110 ( PSG A 301) |
-| Einzeltermin | Sa | 10:00–14:00 | 11.07.2026 | 05801.01.110 ( PSG A 301) |
 
 ### Introduction to Statistics and Statistical Programming - Vorlesung
 
@@ -4200,70 +4556,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 12801.01.230 (H13 Johann-Radon-Hörsaal) |
-
-### John Stuart Mill: Utilitarismus - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15722648` · **unitId:** `134451`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221152|exam:15722648>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134451&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 10:15–12:45 | 17.04.2026–17.07.2026 | 05801.01.110 ( PSG A 301) |
-
-### John Stuart Mill: Utilitarismus - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15722656` · **unitId:** `134451`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221174|exam:15722656>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134451&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 10:15–12:45 | 17.04.2026–17.07.2026 | 05801.01.110 ( PSG A 301) |
-
-### John Stuart Mill: Utilitarismus - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15722657` · **unitId:** `134451`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226866|exam:15722657>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134451&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 10:15–12:45 | 17.04.2026–17.07.2026 | 05801.01.110 ( PSG A 301) |
-
-### John Stuart Mill: Utilitarismus - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15722649` · **unitId:** `134451`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226882|exam:15722649>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134451&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 10:15–12:45 | 17.04.2026–17.07.2026 | 05801.01.110 ( PSG A 301) |
 
 ### Kontinuierliche Optimierung - Seminar
 
@@ -4439,60 +4731,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mo | 12:00–14:00 | 13.04.2026–13.07.2026 | 12801.01.230 (H13 Johann-Radon-Hörsaal) |
 
-### Lie Superalgebren - Vorlesung
-
-- **Segment:** `exam:15763769` · **unitId:** `134730`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14222980|exam:15739966|exam:15763769>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134730&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 7.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 12801.01.251 (Übung 2 / 01.251-128) |
-| wöchentlich | Di | 16:00–18:00 | 14.04.2026–14.07.2026 | 12801.01.251 (Übung 2 / 01.251-128) |
-
-### Lie Superalgebren - Vorlesung
-
-- **Segment:** `exam:15763768` · **unitId:** `134730`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14223142|exam:15739948|exam:15763768>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134730&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 7.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 12801.01.251 (Übung 2 / 01.251-128) |
-| wöchentlich | Di | 16:00–18:00 | 14.04.2026–14.07.2026 | 12801.01.251 (Übung 2 / 01.251-128) |
-
-### Lie Superalgebren - Vorlesung
-
-- **Segment:** `exam:15763770` · **unitId:** `134730`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232522|exam:15739930|exam:15763770>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134730&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 7.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 12801.01.251 (Übung 2 / 01.251-128) |
-| wöchentlich | Di | 16:00–18:00 | 14.04.2026–14.07.2026 | 12801.01.251 (Übung 2 / 01.251-128) |
-
 ### Lineare Algebra II - Vorlesung
 
 - **Segment:** `exam:14213407` · **unitId:** `90559`
@@ -4641,102 +4879,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
 | wöchentlich | Do | 16:00–18:00 | 16.04.2026–16.07.2026 | 12801.01.253 (Übung 4 / 01.253-128) |
 
-### Lyotard: Der Widerstreit - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15722747` · **unitId:** `134450`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221152|exam:15722747>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134450&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 14:00–16:00 | 17.04.2026–17.07.2026 | 05902.00.004 ( 00.4 PSG) |
-
-### Lyotard: Der Widerstreit - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15722729` · **unitId:** `134450`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221174|exam:15722729>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134450&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 14:00–16:00 | 17.04.2026–17.07.2026 | 05902.00.004 ( 00.4 PSG) |
-
-### Lyotard: Der Widerstreit - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15722699` · **unitId:** `134450`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221190|exam:15722699>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134450&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 14:00–16:00 | 17.04.2026–17.07.2026 | 05902.00.004 ( 00.4 PSG) |
-
-### Lyotard: Der Widerstreit - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15722700` · **unitId:** `134450`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226851|exam:15722700>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134450&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 14:00–16:00 | 17.04.2026–17.07.2026 | 05902.00.004 ( 00.4 PSG) |
-
-### Lyotard: Der Widerstreit - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15722730` · **unitId:** `134450`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226866|exam:15722730>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134450&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 14:00–16:00 | 17.04.2026–17.07.2026 | 05902.00.004 ( 00.4 PSG) |
-
-### Lyotard: Der Widerstreit - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15722748` · **unitId:** `134450`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226882|exam:15722748>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134450&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 14:00–16:00 | 17.04.2026–17.07.2026 | 05902.00.004 ( 00.4 PSG) |
-
 ### Machine Learning for Physicists (PW-ML) - Hauptseminar
 
 - **Segment:** `exam:15765358` · **unitId:** `111311`
@@ -4778,7 +4920,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14233035|exam:14233046>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85833&periodId=589>
 
+- **Veranstaltungsart:** Masterseminar
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch oder Englisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -4900,6 +5045,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | 14-täglich | Di | 16:00–18:00 | 14.04.2026–07.07.2026 | 12801.01.210 (H11) |
 | 14-täglich | Mi | 10:00–12:00 | 15.04.2026–08.07.2026 | 12801.01.210 (H11) |
+| Einzeltermin | Mo | 10:00–11:00 | 12.10.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
 
 ### Mathematische Grundlagen zu Künstliche Intelligenz, Neuronale Netze und Data Analytics II (Mathematical Basics of Artificial Intelligence, Neural Networks and Data Analytics II) - Vorlesung
 
@@ -4922,60 +5068,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Fr | 09:00–17:00 | 10.04.2026 | 56901.00.026 (Seminarraum 3 (Vorbelegungsrecht HTA Departments fürfür WS bis 15.07.26))) |
 | Einzeltermin | Mo | 12:00–14:00 | 11.05.2026 | 56901.00.026 (Seminarraum 3 (Vorbelegungsrecht HTA Departments fürfür WS bis 15.07.26))) |
 | Blockveranstaltung | — | 08:00–17:00 | 05.10.2026–09.10.2026 | — |
-
-### Mathematische Quantentheorie - Vorlesung
-
-- **Segment:** `exam:15763795` · **unitId:** `133479`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14222980|exam:15739705|exam:15763795>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133479&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 7.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 12801.01.253 (Übung 4 / 01.253-128) |
-| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
-
-### Mathematische Quantentheorie - Vorlesung
-
-- **Segment:** `exam:15763794` · **unitId:** `133479`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14223142|exam:15739687|exam:15763794>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133479&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 7.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 12801.01.253 (Übung 4 / 01.253-128) |
-| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
-
-### Mathematische Quantentheorie - Vorlesung
-
-- **Segment:** `exam:15763796` · **unitId:** `133479`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232628|exam:15739723|exam:15763796>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133479&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 7.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 12801.01.253 (Übung 4 / 01.253-128) |
-| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
 
 ### Mathematische Statistik - Vorlesung mit Übung
 
@@ -5070,298 +5162,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | wöchentlich | Fr | 12:00–14:00 | 17.04.2026–17.07.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
 | Einzeltermin | Mi | 08:00–18:00 | 05.08.2026 | 12801.01.230 (H13 Johann-Radon-Hörsaal) |
 | Einzeltermin | Do | 08:00–18:00 | 06.08.2026 | 12801.01.230 (H13 Johann-Radon-Hörsaal) |
-
-### Modulformen - Seminar
-
-- **Segment:** `exam:15740001` · **unitId:** `134728`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14213240|exam:14213241|exam:14213242|exam:14213244|exam:14213416|exam:15740001>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134728&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
-| Einzeltermin | Di | 15:30–17:00 | 19.05.2026 | 12801.01.210 (H11) |
-
-### Modulformen - Seminar
-
-- **Segment:** `exam:15733149` · **unitId:** `134728`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221391|exam:15733149>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134728&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
-| Einzeltermin | Di | 15:30–17:00 | 19.05.2026 | 12801.01.210 (H11) |
-
-### Modulformen - Seminar
-
-- **Segment:** `exam:15739997` · **unitId:** `134728`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14223317|exam:15739997>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134728&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
-| Einzeltermin | Di | 15:30–17:00 | 19.05.2026 | 12801.01.210 (H11) |
-
-### Modulformen - Seminar
-
-- **Segment:** `exam:15733150` · **unitId:** `134728`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14223339|exam:15733150>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134728&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
-| Einzeltermin | Di | 15:30–17:00 | 19.05.2026 | 12801.01.210 (H11) |
-
-### Modulformen - Seminar
-
-- **Segment:** `exam:15733160` · **unitId:** `134728`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232522|exam:14232611|exam:15733160>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134728&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
-| Einzeltermin | Di | 15:30–17:00 | 19.05.2026 | 12801.01.210 (H11) |
-
-### Modulformen - Seminar
-
-- **Segment:** `exam:15733161` · **unitId:** `134728`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232628|exam:14232775|exam:15733161>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134728&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
-| Einzeltermin | Di | 15:30–17:00 | 19.05.2026 | 12801.01.210 (H11) |
-
-### Modulformen - Seminar
-
-- **Segment:** `exam:15733162` · **unitId:** `134728`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232804|exam:14233010|exam:15733162>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134728&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
-| Einzeltermin | Di | 15:30–17:00 | 19.05.2026 | 12801.01.210 (H11) |
-
-### Modulformen - Seminar
-
-- **Segment:** `exam:15940950` · **unitId:** `134728`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15940571|exam:15940926|exam:15940950>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134728&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
-| Einzeltermin | Di | 15:30–17:00 | 19.05.2026 | 12801.01.210 (H11) |
-
-### Modulformen - Seminar
-
-- **Segment:** `exam:15888324` · **unitId:** `134728`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15888125|exam:15888126|exam:15888127|exam:15888129|exam:15888300|exam:15888324>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134728&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
-| Einzeltermin | Di | 15:30–17:00 | 19.05.2026 | 12801.01.210 (H11) |
-
-### Moralismus - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15722804` · **unitId:** `134180`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221152|exam:15722804>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134180&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 05902.00.003 ( 00.3 PSG) |
-
-### Moralismus - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15722810` · **unitId:** `134180`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221174|exam:15722810>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134180&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 05902.00.003 ( 00.3 PSG) |
-
-### Moralismus - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15722811` · **unitId:** `134180`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226866|exam:15722811>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134180&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 05902.00.003 ( 00.3 PSG) |
-
-### Moralismus - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15722805` · **unitId:** `134180`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226882|exam:15722805>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134180&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 05902.00.003 ( 00.3 PSG) |
-
-### Neural Network Theory - Vorlesung
-
-- **Segment:** `exam:15863437` · **unitId:** `133299`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14222980|exam:15863435|exam:15863437>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133299&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 4.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
-| wöchentlich | Do | 08:30–10:00 | 16.04.2026–16.07.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
-| wöchentlich | Fr | 10:00–12:00 | 17.04.2026–17.07.2026 | 12801.01.220 (H12 Emmy-Noether-Hörsaal) |
-| Einzeltermin | Di | 09:00–10:00 | 04.08.2026 | 12801.01.210 (H11) |
-| Einzeltermin | Di | 09:00–10:00 | 04.08.2026 | 12801.01.220 (H12 Emmy-Noether-Hörsaal) |
-| Einzeltermin | Do | 14:00–15:00 | 17.09.2026 | 12801.01.210 (H11) |
-
-### Neural Network Theory - Vorlesung
-
-- **Segment:** `exam:15863413` · **unitId:** `133299`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14223142|exam:15863411|exam:15863413>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133299&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 4.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
-| wöchentlich | Do | 08:30–10:00 | 16.04.2026–16.07.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
-| wöchentlich | Fr | 10:00–12:00 | 17.04.2026–17.07.2026 | 12801.01.220 (H12 Emmy-Noether-Hörsaal) |
-| Einzeltermin | Di | 09:00–10:00 | 04.08.2026 | 12801.01.210 (H11) |
-| Einzeltermin | Di | 09:00–10:00 | 04.08.2026 | 12801.01.220 (H12 Emmy-Noether-Hörsaal) |
-| Einzeltermin | Do | 14:00–15:00 | 17.09.2026 | 12801.01.210 (H11) |
-
-### Neural Network Theory - Vorlesung
-
-- **Segment:** `exam:15763783` · **unitId:** `133299`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232804|exam:15739849|exam:15763783>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133299&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 4.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
-| wöchentlich | Do | 08:30–10:00 | 16.04.2026–16.07.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
-| wöchentlich | Fr | 10:00–12:00 | 17.04.2026–17.07.2026 | 12801.01.220 (H12 Emmy-Noether-Hörsaal) |
-| Einzeltermin | Di | 09:00–10:00 | 04.08.2026 | 12801.01.210 (H11) |
-| Einzeltermin | Di | 09:00–10:00 | 04.08.2026 | 12801.01.220 (H12 Emmy-Noether-Hörsaal) |
-| Einzeltermin | Do | 14:00–15:00 | 17.09.2026 | 12801.01.210 (H11) |
 
 ### Numerics of incompressible flows 1 - Vorlesung
 
@@ -5467,102 +5267,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:00–18:00 | 13.04.2026–13.07.2026 | — |
 | wöchentlich | Mi | 14:00–18:00 | 15.04.2026–15.07.2026 | — |
-
-### Platon: Gorgias - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15723062` · **unitId:** `134042`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221152|exam:15723062>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134042&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:00–12:00 | 13.04.2026–13.07.2026 | 05801.01.110 ( PSG A 301) |
-
-### Platon: Gorgias - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15723008` · **unitId:** `134042`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221174|exam:15723008>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134042&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:00–12:00 | 13.04.2026–13.07.2026 | 05801.01.110 ( PSG A 301) |
-
-### Platon: Gorgias - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15723080` · **unitId:** `134042`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221190|exam:15723080>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134042&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:00–12:00 | 13.04.2026–13.07.2026 | 05801.01.110 ( PSG A 301) |
-
-### Platon: Gorgias - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15723081` · **unitId:** `134042`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226851|exam:15723081>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134042&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:00–12:00 | 13.04.2026–13.07.2026 | 05801.01.110 ( PSG A 301) |
-
-### Platon: Gorgias - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15723009` · **unitId:** `134042`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226866|exam:15723009>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134042&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:00–12:00 | 13.04.2026–13.07.2026 | 05801.01.110 ( PSG A 301) |
-
-### Platon: Gorgias - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15723063` · **unitId:** `134042`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226882|exam:15723063>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134042&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:00–12:00 | 13.04.2026–13.07.2026 | 05801.01.110 ( PSG A 301) |
 
 ### Practical Course on Finite Element Methods for Phase-Separation Equations - Vorlesung
 
@@ -6738,7 +6442,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|title:17860|exam:14362591>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107697&periodId=589>
 
+- **Veranstaltungsart:** Seminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -6949,70 +6655,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 12801.04.363 (04.363 Seminarraum Mathematik) |
-
-### Transzendentale Argumente gegen den Skeptizismus - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15724109` · **unitId:** `134437`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221152|exam:15724109>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134437&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 14:00–15:30 | 15.04.2026–15.07.2026 | 05801.02.111 ( PSG A 402) |
-
-### Transzendentale Argumente gegen den Skeptizismus - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15724081` · **unitId:** `134437`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221190|exam:15724081>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134437&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 14:00–15:30 | 15.04.2026–15.07.2026 | 05801.02.111 ( PSG A 402) |
-
-### Transzendentale Argumente gegen den Skeptizismus - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15724082` · **unitId:** `134437`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226851|exam:15724082>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134437&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 14:00–15:30 | 15.04.2026–15.07.2026 | 05801.02.111 ( PSG A 402) |
-
-### Transzendentale Argumente gegen den Skeptizismus - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15724110` · **unitId:** `134437`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226882|exam:15724110>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134437&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 14:00–15:30 | 15.04.2026–15.07.2026 | 05801.02.111 ( PSG A 402) |
 
 ### Tutorial for Mathematical Image Processing - Tutorium
 
@@ -7326,70 +6968,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 12801.00.327 (Praktikum 2 - PC-Pool / 00.327-128) |
-
-### Von Anderen lernen - Zeugnisse in der Erkenntnistheorie - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15724132` · **unitId:** `134076`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221152|exam:15724132>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134076&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 05801.02.111 ( PSG A 402) |
-
-### Von Anderen lernen - Zeugnisse in der Erkenntnistheorie - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15724164` · **unitId:** `134076`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221190|exam:15724164>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134076&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 05801.02.111 ( PSG A 402) |
-
-### Von Anderen lernen - Zeugnisse in der Erkenntnistheorie - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15724165` · **unitId:** `134076`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226851|exam:15724165>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134076&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 05801.02.111 ( PSG A 402) |
-
-### Von Anderen lernen - Zeugnisse in der Erkenntnistheorie - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15724133` · **unitId:** `134076`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226882|exam:15724133>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134076&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 05801.02.111 ( PSG A 402) |
 
 ### Vorlesung Asset Liability Management (Versicherungen) (Asset liability management (insurance))  - Vorlesung
 
@@ -7725,102 +7303,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | wöchentlich | Di | 12:15–14:00 | 14.04.2026–14.07.2026 | 12801.01.220 (H12 Emmy-Noether-Hörsaal) |
 | wöchentlich | Mi | 12:15–14:00 | 15.04.2026–15.07.2026 | 12801.01.230 (H13 Johann-Radon-Hörsaal) |
 
-### Wesen und Wert der Privatsphäre und die Ethik der Überwachung - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15724229` · **unitId:** `134439`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221152|exam:15724229>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134439&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 05801.01.110 ( PSG A 301) |
-
-### Wesen und Wert der Privatsphäre und die Ethik der Überwachung - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15724218` · **unitId:** `134439`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221174|exam:15724218>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134439&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 05801.01.110 ( PSG A 301) |
-
-### Wesen und Wert der Privatsphäre und die Ethik der Überwachung - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15724193` · **unitId:** `134439`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221118|exam:14221190|exam:15724193>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134439&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 05801.01.110 ( PSG A 301) |
-
-### Wesen und Wert der Privatsphäre und die Ethik der Überwachung - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15724194` · **unitId:** `134439`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226851|exam:15724194>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134439&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 05801.01.110 ( PSG A 301) |
-
-### Wesen und Wert der Privatsphäre und die Ethik der Überwachung - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15724219` · **unitId:** `134439`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226866|exam:15724219>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134439&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 05801.01.110 ( PSG A 301) |
-
-### Wesen und Wert der Privatsphäre und die Ethik der Überwachung - Proseminar / Mittelseminar
-
-- **Segment:** `exam:15724230` · **unitId:** `134439`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226817|exam:14226882|exam:15724230>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134439&periodId=589>
-
-- **Veranstaltungsart:** Proseminar / Mittelseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 05801.01.110 ( PSG A 301) |
-
 ### Zentralübung zur Wahrscheinlichkeitstheorie - Übung
 
 - **Segment:** `exam:14220166` · **unitId:** `90858`
@@ -7996,108 +7478,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | 14-täglich | Di | 11:30–13:00 | 21.04.2026–30.06.2026 | 20301.U1.014 (U1.014 Seminarraum (40)) |
 | Einzeltermin | Di | 11:30–13:00 | 14.07.2026 | 20301.U1.014 (U1.014 Seminarraum (40)) |
 
-### Übung zu Lie Superalgebren - Übung
-
-- **Segment:** `exam:15763773` · **unitId:** `134735`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14222980|exam:15739966|exam:15763773>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134735&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 16:00–18:00 | 16.04.2026–16.07.2026 | 12801.01.251 (Übung 2 / 01.251-128) |
-
-### Übung zu Lie Superalgebren - Übung
-
-- **Segment:** `exam:15763772` · **unitId:** `134735`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14223142|exam:15739948|exam:15763772>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134735&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 16:00–18:00 | 16.04.2026–16.07.2026 | 12801.01.251 (Übung 2 / 01.251-128) |
-
-### Übung zu Lie Superalgebren - Übung
-
-- **Segment:** `exam:15763771` · **unitId:** `134735`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232522|exam:15739930|exam:15763771>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134735&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 16:00–18:00 | 16.04.2026–16.07.2026 | 12801.01.251 (Übung 2 / 01.251-128) |
-
-### Übung zu Neural Network Theory - Übung
-
-- **Segment:** `exam:15863438` · **unitId:** `134923`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14222980|exam:15863435|exam:15863438>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134923&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 1.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| nach Vereinbarung | — | — | — | — |
-
-### Übung zu Neural Network Theory - Übung
-
-- **Segment:** `exam:15863414` · **unitId:** `134923`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14223142|exam:15863411|exam:15863414>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134923&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 1.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| nach Vereinbarung | — | — | — | — |
-
-### Übung zu Neural Network Theory - Übung
-
-- **Segment:** `exam:15763784` · **unitId:** `134923`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232804|exam:15739849|exam:15763784>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134923&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 1.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| nach Vereinbarung | — | — | — | — |
-
 ### Übung zu Robuste Optimierung 1 - Übung
 
 - **Segment:** `exam:14220066` · **unitId:** `82468`
@@ -8192,76 +7572,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Fr | 14:00–15:00 | 17.04.2026–17.07.2026 | 11202.00.307 (H1 Egerlandstr.3 Anorganische Chemie) |
-
-### Übungen Einführung in die kategorielle Homotopietheorie - Übung
-
-- **Segment:** `exam:15867246` · **unitId:** `135201`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232522|exam:14232548|exam:15867246>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135201&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 10:00–12:00 | 17.04.2026–17.07.2026 | 12801.04.363 (04.363 Seminarraum Mathematik) |
-
-### Übungen Mathematische Quantentheorie - Übung
-
-- **Segment:** `exam:15763798` · **unitId:** `134583`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14222980|exam:15739705|exam:15763798>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134583&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:00–14:00 | 28.04.2026–07.07.2026 | 12801.04.363 (04.363 Seminarraum Mathematik) |
-| Einzeltermin | Di | 12:00–14:00 | 14.07.2026 | — |
-
-### Übungen Mathematische Quantentheorie - Übung
-
-- **Segment:** `exam:15763797` · **unitId:** `134583`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14223142|exam:15739687|exam:15763797>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134583&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:00–14:00 | 28.04.2026–07.07.2026 | 12801.04.363 (04.363 Seminarraum Mathematik) |
-| Einzeltermin | Di | 12:00–14:00 | 14.07.2026 | — |
-
-### Übungen Mathematische Quantentheorie - Übung
-
-- **Segment:** `exam:15763799` · **unitId:** `134583`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232628|exam:15739723|exam:15763799>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134583&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:00–14:00 | 28.04.2026–07.07.2026 | 12801.04.363 (04.363 Seminarraum Mathematik) |
-| Einzeltermin | Di | 12:00–14:00 | 14.07.2026 | — |
 
 ### Übungen zu Diskretisierung und numerische Optimierung (Querschnittmodul) - Übung
 
@@ -8539,57 +7849,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mi | 20:00–21:00 | 01.04.2026–23.09.2026 | 12801.01.220 (H12 Emmy-Noether-Hörsaal) |
 
-### Übungen zu Fourieranalysis und Distributionstheorie - Übung
-
-- **Segment:** `exam:15792866` · **unitId:** `134906`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14222980|exam:15792658|exam:15792866>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134906&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 16:00–18:00 | 14.04.2026–14.07.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
-
-### Übungen zu Fourieranalysis und Distributionstheorie - Übung
-
-- **Segment:** `exam:15792865` · **unitId:** `134906`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14223142|exam:15792640|exam:15792865>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134906&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 16:00–18:00 | 14.04.2026–14.07.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
-
-### Übungen zu Fourieranalysis und Distributionstheorie - Übung
-
-- **Segment:** `exam:15792864` · **unitId:** `134906`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232628|exam:15792676|exam:15792864>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134906&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 16:00–18:00 | 14.04.2026–14.07.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
-
 ### Übungen zu Interacting Particle Systems - Übung
 
 - **Segment:** `exam:15768714` · **unitId:** `120347`
@@ -8776,6 +8035,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Sommersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 20.04.2026–13.07.2026 | 12801.04.363 (04.363 Seminarraum Mathematik) |
+
 ### Übungen zu Partielle Differentialgleichungen II - Übung
 
 - **Segment:** `exam:14232952` · **unitId:** `109960`
@@ -8784,6 +8049,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 20.04.2026–13.07.2026 | 12801.04.363 (04.363 Seminarraum Mathematik) |
 
 ### Übungen zu Theoretische Physik 1: Mechanik - Übung
 
@@ -8853,6 +8124,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 16:00–18:00 | 21.05.2026–16.07.2026 | 12801.01.254 (Übung 5 / 01.254-128) |
 
 ### Übungen zur Analysis II - Übung
 
@@ -8931,6 +8208,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 1.0
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| nach Vereinbarung | — | — | — | — |
 
 ### Übungen zur Funktionentheorie I - Übung
 
@@ -9266,7 +8549,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 12:00–12:45 | 23.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Do | 11:00–11:45 | 23.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
 
 ### Übungen zur Vorlesung "Wirtschaftspolitik" - Übung
 
@@ -9282,7 +8565,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 12:00–12:45 | 23.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Do | 11:00–11:45 | 23.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
 
 ### Übungen zur Vorlesung Makroökonomie Erlangen - Übung
 
@@ -9367,12 +8650,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14223391` · **unitId:** `54234`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14223391>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54234&periodId=589>
-
-### 1999 Bachelorarbeit (B.Sc. Mathematik 20261)
-
-- **Segment:** `exam:15843378` · **unitId:** `135594`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15843378>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135594&periodId=589>
 
 ### 1999 Masterarbeit (M.Sc. Mathematik 20192)
 
@@ -9480,7 +8757,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | Di | 14:00–15:30 | — | 11906.01.040 (H20) 12801.01.210 (H11) |
+| Di | Di | 14:00–15:30 | — | — |
 
 ### 25291 Nonlinear Control Systems - Leistung
 
@@ -10000,21 +9277,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | Mi | Mi | 09:00–18:00 | — | — |
 
-### 32161 Menschenzentrierte IT-Sicherheit - Leistung
-
-- **Segment:** `exam:15764535` · **unitId:** `133516`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14233062|exam:15764535>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133516&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | 14:00–15:00 | — | 11907.01.040 (H18) |
-
 ### 33131 Multivariate time series analysis (written examination) - Leistung
 
 - **Segment:** `exam:15933298` · **unitId:** `54308`
@@ -10298,21 +9560,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### 39751 Automatentheorie (Seminar) - Leistung
-
-- **Segment:** `exam:15939670` · **unitId:** `133814`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14233062|exam:15939670>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133814&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
 ### 407487 Numerical Aspects of Linear and Integer Programming
 
 - **Segment:** `exam:14232923` · **unitId:** `59124`
@@ -10363,18 +9610,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | Do | Do | 14:00–15:30 | — | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
 
-### 43141 Mobile Communications
-
-- **Segment:** `exam:14220998` · **unitId:** `128393`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14220948|exam:14220949|exam:14220998>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128393&periodId=589>
-
-### 43141 Mobile Communications
-
-- **Segment:** `exam:14226740` · **unitId:** `128393`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226672|exam:14226691|exam:14226740>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128393&periodId=589>
-
 ### 43460 Satellitenkommunikation
 
 - **Segment:** `exam:14220952` · **unitId:** `64959`
@@ -10386,42 +9621,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14226694` · **unitId:** `64959`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226672|exam:14226691|exam:14226694>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=64959&periodId=589>
-
-### 43461 Satellite Communications
-
-- **Segment:** `exam:15692774` · **unitId:** `134054`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14220948|exam:14220949|exam:15692774>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134054&periodId=589>
-
-### 43461 Satellite Communications
-
-- **Segment:** `exam:15692775` · **unitId:** `134054`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226672|exam:14226691|exam:15692775>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134054&periodId=589>
-
-### 43490 Hardware-Software-Co-Design
-
-- **Segment:** `exam:14221010` · **unitId:** `128395`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14220948|exam:14220949|exam:14221010>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128395&periodId=589>
-
-### 43490 Hardware-Software-Co-Design
-
-- **Segment:** `exam:14226752` · **unitId:** `128395`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226672|exam:14226691|exam:14226752>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128395&periodId=589>
-
-### 43822 Computer Graphics
-
-- **Segment:** `exam:14221014` · **unitId:** `128396`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14220948|exam:14220949|exam:14221014>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128396&periodId=589>
-
-### 43822 Computer Graphics
-
-- **Segment:** `exam:14226756` · **unitId:** `128396`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226672|exam:14226691|exam:14226756>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128396&periodId=589>
 
 ### 43940 Echtzeitsysteme
 
@@ -10516,54 +9715,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:15888131` · **unitId:** `71462`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15888125|exam:15888126|exam:15888127|exam:15888129|exam:15888130|exam:15888131>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71462&periodId=589>
-
-### 48201 Complex Systems I
-
-- **Segment:** `exam:14221083` · **unitId:** `133845`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221075|exam:14221076|exam:14221083>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133845&periodId=589>
-
-### 48201 Complex Systems I
-
-- **Segment:** `exam:14226961` · **unitId:** `133845`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226949|exam:14226950|exam:14226961>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133845&periodId=589>
-
-### 48211 Complex Systems II
-
-- **Segment:** `exam:14221086` · **unitId:** `133846`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221075|exam:14221076|exam:14221086>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133846&periodId=589>
-
-### 48211 Complex Systems II
-
-- **Segment:** `exam:14226964` · **unitId:** `133846`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226949|exam:14226950|exam:14226964>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133846&periodId=589>
-
-### 48216 Complex Systems III
-
-- **Segment:** `exam:14221089` · **unitId:** `133847`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221075|exam:14221076|exam:14221089>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133847&periodId=589>
-
-### 48216 Complex Systems III
-
-- **Segment:** `exam:14226967` · **unitId:** `133847`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226949|exam:14226950|exam:14226967>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133847&periodId=589>
-
-### 48217 Complex Systems IV
-
-- **Segment:** `exam:14221092` · **unitId:** `133848`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221075|exam:14221076|exam:14221092>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133848&periodId=589>
-
-### 48217 Complex Systems IV
-
-- **Segment:** `exam:14226970` · **unitId:** `133848`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226949|exam:14226950|exam:14226970>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133848&periodId=589>
 
 ### 48301 Betriebswirtschaftslehre II - Leistung
 
@@ -12308,300 +11459,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | Di | Di | 08:00–09:30 | 07.06.2026 23:59:59 | 20301.01.042 (1.042 großer Hörsaal (230)) |
 
-### 54921 Einführung in die Sekundarstufen-Mathematikdidaktik (MD1SekI) - Leistung
-
-- **Segment:** `exam:15889274` · **unitId:** `136192`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15889213|exam:15889214|exam:15889215|exam:15889272|exam:15889273|exam:15889274>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136192&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | 14:00–16:00 | 07.06.2026 23:59:59 | 12801.01.230 (H13 Johann-Radon-Hörsaal) |
-
-### 54921 Einführung in die Sekundarstufen-Mathematikdidaktik (MD1SekI) - Leistung
-
-- **Segment:** `exam:15895540` · **unitId:** `136192`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15895532|exam:15895533|exam:15895534|exam:15895535|exam:15895539|exam:15895540>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136192&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | 14:00–16:00 | 07.06.2026 23:59:59 | 12801.01.230 (H13 Johann-Radon-Hörsaal) |
-
-### 54921 Einführung in die Sekundarstufen-Mathematikdidaktik (MD1SekI) - Leistung
-
-- **Segment:** `exam:15895618` · **unitId:** `136192`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15895551|exam:15895553|exam:15895554|exam:15895616|exam:15895617|exam:15895618>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136192&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | 14:00–16:00 | 07.06.2026 23:59:59 | 12801.01.230 (H13 Johann-Radon-Hörsaal) |
-
-### 54922 Didaktik im Bereich Zahlen und Operation, Muster und funktionaler Zusammenhang (MD1SekI) - Leistung
-
-- **Segment:** `exam:15889275` · **unitId:** `136193`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15889213|exam:15889214|exam:15889215|exam:15889272|exam:15889273|exam:15889275>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136193&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | 08:00–08:45 | 07.06.2026 23:59:59 | 20301.01.042 (1.042 großer Hörsaal (230)) |
-
-### 54922 Didaktik im Bereich Zahlen und Operation, Muster und funktionaler Zusammenhang (MD1SekI) - Leistung
-
-- **Segment:** `exam:15895541` · **unitId:** `136193`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15895532|exam:15895533|exam:15895534|exam:15895535|exam:15895539|exam:15895541>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136193&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | 08:00–08:45 | 07.06.2026 23:59:59 | 20301.01.042 (1.042 großer Hörsaal (230)) |
-
-### 54922 Didaktik im Bereich Zahlen und Operation, Muster und funktionaler Zusammenhang (MD1SekI) - Leistung
-
-- **Segment:** `exam:15895619` · **unitId:** `136193`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15895551|exam:15895553|exam:15895554|exam:15895616|exam:15895617|exam:15895619>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136193&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | 08:00–08:45 | 07.06.2026 23:59:59 | 20301.01.042 (1.042 großer Hörsaal (230)) |
-
-### 54931 Lernzielorientierte Planung von Mathematikunterricht (MDPlan) - Leistung
-
-- **Segment:** `exam:15889277` · **unitId:** `136195`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15889213|exam:15889214|exam:15889215|exam:15889272|exam:15889276|exam:15889277>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136195&periodId=589>
-
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | — | 07.06.2026 23:59:59 | — |
-
-### 54931 Lernzielorientierte Planung von Mathematikunterricht (MDPlan) - Leistung
-
-- **Segment:** `exam:15895543` · **unitId:** `136195`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15895532|exam:15895533|exam:15895534|exam:15895535|exam:15895542|exam:15895543>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136195&periodId=589>
-
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | — | 07.06.2026 23:59:59 | — |
-
-### 54931 Lernzielorientierte Planung von Mathematikunterricht (MDPlan) - Leistung
-
-- **Segment:** `exam:15895621` · **unitId:** `136195`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15895551|exam:15895553|exam:15895554|exam:15895616|exam:15895620|exam:15895621>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136195&periodId=589>
-
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | — | 07.06.2026 23:59:59 | — |
-
-### 54943 Ausgewählte Themen der Mathematikdidaktik mit Bezug zur Digitalisierung (MD2SSekI) - Leistung
-
-- **Segment:** `exam:15914618` · **unitId:** `137297`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15889213|exam:15889214|exam:15889215|exam:15889272|exam:15889278|exam:15914618>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137297&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | — | 07.06.2026 23:59:59 | — |
-
-### 54943 Ausgewählte Themen der Mathematikdidaktik mit Bezug zur Digitalisierung (MD2SSekI) - Leistung
-
-- **Segment:** `exam:15914620` · **unitId:** `137297`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15895532|exam:15895533|exam:15895534|exam:15895535|exam:15895547|exam:15914620>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137297&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | — | 07.06.2026 23:59:59 | — |
-
-### 54943 Ausgewählte Themen der Mathematikdidaktik mit Bezug zur Digitalisierung (MD2SSekI) - Leistung
-
-- **Segment:** `exam:15914619` · **unitId:** `137297`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15895551|exam:15895553|exam:15895554|exam:15895616|exam:15895625|exam:15914619>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137297&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | — | 07.06.2026 23:59:59 | — |
-
-### 54944 Ausgewählte Themen der Mathematikdidaktik mit Bezug zu Heterogenität und Inklusion (MD2SSekI) - Leistung
-
-- **Segment:** `exam:15914623` · **unitId:** `137298`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15889213|exam:15889214|exam:15889215|exam:15889272|exam:15889278|exam:15914623>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137298&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-
-### 54944 Ausgewählte Themen der Mathematikdidaktik mit Bezug zu Heterogenität und Inklusion (MD2SSekI) - Leistung
-
-- **Segment:** `exam:15914622` · **unitId:** `137298`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15895532|exam:15895533|exam:15895534|exam:15895535|exam:15895547|exam:15914622>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137298&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-
-### 54944 Ausgewählte Themen der Mathematikdidaktik mit Bezug zu Heterogenität und Inklusion (MD2SSekI) - Leistung
-
-- **Segment:** `exam:15914621` · **unitId:** `137298`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15895551|exam:15895553|exam:15895554|exam:15895616|exam:15895625|exam:15914621>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137298&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-
-### 54952 Didaktik im Bereich Raum und Form (MD2V/SSekI) - Leistung
-
-- **Segment:** `exam:15915503` · **unitId:** `136201`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15889213|exam:15889214|exam:15889215|exam:15889272|exam:15889278|exam:15915503>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136201&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Sa | Sa | 09:00–10:30 | 07.06.2026 23:59:59 | 20301.01.041 (1.041 großer Hörsaal (310)) |
-
-### 54952 Didaktik im Bereich Raum und Form (MD2V/SSekI) - Leistung
-
-- **Segment:** `exam:15889283` · **unitId:** `136201`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15889213|exam:15889214|exam:15889215|exam:15889272|exam:15889281|exam:15889283>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136201&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Sa | Sa | 09:00–10:30 | 07.06.2026 23:59:59 | 20301.01.041 (1.041 großer Hörsaal (310)) |
-
-### 54952 Didaktik im Bereich Raum und Form (MD2V/SSekI) - Leistung
-
-- **Segment:** `exam:15895546` · **unitId:** `136201`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15895532|exam:15895533|exam:15895534|exam:15895535|exam:15895544|exam:15895546>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136201&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Sa | Sa | 09:00–10:30 | 07.06.2026 23:59:59 | 20301.01.041 (1.041 großer Hörsaal (310)) |
-
-### 54952 Didaktik im Bereich Raum und Form (MD2V/SSekI) - Leistung
-
-- **Segment:** `exam:15915505` · **unitId:** `136201`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15895532|exam:15895533|exam:15895534|exam:15895535|exam:15895547|exam:15915505>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136201&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Sa | Sa | 09:00–10:30 | 07.06.2026 23:59:59 | 20301.01.041 (1.041 großer Hörsaal (310)) |
-
-### 54952 Didaktik im Bereich Raum und Form (MD2V/SSekI) - Leistung
-
-- **Segment:** `exam:15895624` · **unitId:** `136201`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15895551|exam:15895553|exam:15895554|exam:15895616|exam:15895622|exam:15895624>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136201&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Sa | Sa | 09:00–10:30 | 07.06.2026 23:59:59 | 20301.01.041 (1.041 großer Hörsaal (310)) |
-
-### 54952 Didaktik im Bereich Raum und Form (MD2V/SSekI) - Leistung
-
-- **Segment:** `exam:15915504` · **unitId:** `136201`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15895551|exam:15895553|exam:15895554|exam:15895616|exam:15895625|exam:15915504>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136201&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Sa | Sa | 09:00–10:30 | 07.06.2026 23:59:59 | 20301.01.041 (1.041 großer Hörsaal (310)) |
-
 ### 55001 Didaktik Raum und Form - Leistung
 
 - **Segment:** `exam:14213768` · **unitId:** `23879`
@@ -12676,51 +11533,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Di | Di | 08:00–09:30 | 07.06.2026 23:59:59 | 20301.01.042 (1.042 großer Hörsaal (230)) |
-
-### 55151 Einführung in die Sekundarstufen Mathematikdidaktik (MD1Gym) - Leistung
-
-- **Segment:** `exam:15888340` · **unitId:** `136156`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15888125|exam:15888126|exam:15888127|exam:15888338|exam:15888339|exam:15888340>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136156&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | 14:00–16:00 | 07.06.2026 23:59:59 | 12801.01.230 (H13 Johann-Radon-Hörsaal) |
-
-### 55152 Didaktik im Bereich Zahl und Operation, Muster und Funktionaler Zusammenhang (MD1Gym) - Leistung
-
-- **Segment:** `exam:15888341` · **unitId:** `136157`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15888125|exam:15888126|exam:15888127|exam:15888338|exam:15888339|exam:15888341>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136157&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | 08:00–10:00 | 07.06.2026 23:59:59 | 20301.01.042 (1.042 großer Hörsaal (230)) |
-
-### 55153 Didaktik im Bereich Raum und Form (MD1Gym) - Leistung
-
-- **Segment:** `exam:15914612` · **unitId:** `137291`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15888125|exam:15888126|exam:15888127|exam:15888338|exam:15888339|exam:15914612>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137291&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Sa | Sa | 09:00–09:45 | 07.06.2026 23:59:59 | 20302.01.132 (1.132 Aula (780)) |
 
 ### 55201 Klausur zur Vorlesung Didaktik der Geometrie - Leistung
 
@@ -12811,66 +11623,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | 08:15–09:45 | 07.06.2026 23:59:59 | 12801.01.220 (H12 Emmy-Noether-Hörsaal) |
-
-### 55253 Ausgewählte Themen der Sekundarstufen-Mathematikdidaktik mit Bezug zur Digitalisierung (MD2SGym) - Leistung
-
-- **Segment:** `exam:15914613` · **unitId:** `137292`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15888125|exam:15888126|exam:15888127|exam:15888338|exam:15888342|exam:15914613>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137292&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | — | 07.06.2026 23:59:59 | — |
-
-### 55254 Ausgewählte Themen der Sekundarstufen-Mathematikdidaktik mit Bezug zu Heterogenität und Inklusion (MD2SGym) - Leistung
-
-- **Segment:** `exam:15914614` · **unitId:** `137293`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15888125|exam:15888126|exam:15888127|exam:15888338|exam:15888342|exam:15914614>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137293&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | — | 07.06.2026 23:59:59 | — |
-
-### 55262 Didaktik der Analysis (MD2V/SGym) - Leistung
-
-- **Segment:** `exam:15915502` · **unitId:** `136163`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15888125|exam:15888126|exam:15888127|exam:15888338|exam:15888342|exam:15915502>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136163&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | 08:15–09:00 | 07.06.2026 23:59:59 | 12801.01.220 (H12 Emmy-Noether-Hörsaal) |
-
-### 55262 Didaktik der Analysis (MD2V/SGym) - Leistung
-
-- **Segment:** `exam:15888347` · **unitId:** `136163`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15888125|exam:15888126|exam:15888127|exam:15888338|exam:15888345|exam:15888347>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136163&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | 08:15–09:00 | 07.06.2026 23:59:59 | 12801.01.220 (H12 Emmy-Noether-Hörsaal) |
 
 ### 55321 Vorlesung Elemente der Linearen Algebra II - Leistung
 
@@ -13577,6 +12329,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14216942|exam:14216943|exam:14216944|exam:14216945|exam:14216957|exam:14216961>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43654&periodId=589>
 
+- **ECTS-Punkte:** 4.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -13608,6 +12361,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **ECTS-Punkte:** 5.0
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
 ### 55851 Mathematisches Seminar in elementarer Stochastik - Leistung
 
 - **Segment:** `exam:14216956` · **unitId:** `118189`
@@ -13629,6 +12388,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118215&periodId=589>
 
 - **ECTS-Punkte:** 5.0
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### 56021 Modulabschlussprüfung: Angewandte Mathematik - Leistung
 
@@ -13823,208 +12588,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mi | Mi | 11:00–12:00 | — | — |
+| Mo | Mo | — | — | — |
 
 ### 582360 Modern Optics 2: Nonlinear Optics
 
 - **Segment:** `exam:14226940` · **unitId:** `60151`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14226904|exam:14226915|exam:14226940>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=60151&periodId=589>
-
-### 58351 Fourieranalysis und Distributionstheorie - Leistung
-
-- **Segment:** `exam:15792659` · **unitId:** `135422`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14222980|exam:15792658|exam:15792659>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135422&periodId=589>
-
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | 10:00–15:00 | — | — |
-
-### 58351 Fourieranalysis und Distributionstheorie - Leistung
-
-- **Segment:** `exam:15792641` · **unitId:** `135422`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14223142|exam:15792640|exam:15792641>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135422&periodId=589>
-
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | 10:00–15:00 | — | — |
-
-### 58351 Fourieranalysis und Distributionstheorie - Leistung
-
-- **Segment:** `exam:15792677` · **unitId:** `135422`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232628|exam:15792676|exam:15792677>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135422&periodId=589>
-
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | 10:00–15:00 | — | — |
-
-### 58371 Lie Superalgebren - Leistung
-
-- **Segment:** `exam:15739967` · **unitId:** `134784`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14222980|exam:15739966|exam:15739967>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134784&periodId=589>
-
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 58371 Lie Superalgebren - Leistung
-
-- **Segment:** `exam:15739949` · **unitId:** `134784`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14223142|exam:15739948|exam:15739949>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134784&periodId=589>
-
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 58371 Lie Superalgebren - Leistung
-
-- **Segment:** `exam:15739931` · **unitId:** `134784`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232522|exam:15739930|exam:15739931>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134784&periodId=589>
-
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 58381 Neural Network Theory - Leistung
-
-- **Segment:** `exam:15863436` · **unitId:** `134779`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14222980|exam:15863435|exam:15863436>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134779&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | 09:00–10:00 | — | 12801.01.210 (H11) |
-
-### 58381 Neural Network Theory - Leistung
-
-- **Segment:** `exam:15863412` · **unitId:** `134779`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14223142|exam:15863411|exam:15863412>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134779&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | 09:00–10:00 | — | 12801.01.210 (H11) |
-
-### 58381 Neural Network Theory - Leistung
-
-- **Segment:** `exam:15739850` · **unitId:** `134779`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232804|exam:15739849|exam:15739850>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134779&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | 09:00–10:00 | — | 12801.01.210 (H11) |
-
-### 58391 Mathematische Quantentheorie - Leistung
-
-- **Segment:** `exam:15739706` · **unitId:** `134775`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14222980|exam:15739705|exam:15739706>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134775&periodId=589>
-
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch oder Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | 09:00–17:00 | — | — |
-
-### 58391 Mathematische Quantentheorie - Leistung
-
-- **Segment:** `exam:15739688` · **unitId:** `134775`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14223142|exam:15739687|exam:15739688>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134775&periodId=589>
-
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch oder Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | 09:00–17:00 | — | — |
-
-### 58391 Mathematische Quantentheorie - Leistung
-
-- **Segment:** `exam:15739724` · **unitId:** `134775`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232628|exam:15739723|exam:15739724>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134775&periodId=589>
-
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch oder Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | 09:00–17:00 | — | — |
-
-### 58531 Numerics of incompressible flows I - Leistung
-
-- **Segment:** `exam:14233032` · **unitId:** `133194`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232804|exam:14233031|exam:14233032>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133194&periodId=589>
-
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
 
 ### 58651 Modeling and analysis in continuum mechanics II - Leistung
 
@@ -14446,51 +13016,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### 59611 Tutorat (Mathematische Studiengänge) - Leistung
-
-- **Segment:** `exam:14219995` · **unitId:** `133354`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14218478|exam:14219994|exam:14219995>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133354&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 59611 Tutorat (Mathematische Studiengänge) - Leistung
-
-- **Segment:** `exam:14224913` · **unitId:** `133354`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14223393|exam:14224912|exam:14224913>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133354&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 59611 Tutorat (Mathematische Studiengänge) - Leistung
-
-- **Segment:** `exam:17806717` · **unitId:** `133354`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15841958|exam:17806716|exam:17806717>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133354&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
 ### 59691 Mathematische Statistik - Leistung
 
 - **Segment:** `exam:14232699` · **unitId:** `54702`
@@ -14616,6 +13141,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14233062|exam:14233160>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=38788&periodId=589>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -15017,12 +13543,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14221263|exam:14221271>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=51424&periodId=589>
 
-### 64930 Kompetenzseminar zum Klimawandel: Grundlagen- u. Kompetenzen zu Nachhaltigkeitsherausforderungen
-
-- **Segment:** `exam:15942456` · **unitId:** `125093`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15940952|exam:15942452|exam:15942456>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125093&periodId=589>
-
 ### 64935 Rohstoffe und Nachhaltigkeit
 
 - **Segment:** `exam:14225017` · **unitId:** `125094`
@@ -15154,18 +13674,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14213084` · **unitId:** `55532`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14213047|exam:14213048|exam:14213049|exam:14213051|exam:14213084>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55532&periodId=589>
-
-### 65057 Seminar Geometrie
-
-- **Segment:** `exam:14213382` · **unitId:** `130810`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14213240|exam:14213241|exam:14213242|exam:14213244|exam:14213349|exam:14213382>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130810&periodId=589>
-
-### 65057 Seminar Geometrie
-
-- **Segment:** `exam:15888265` · **unitId:** `130810`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15888125|exam:15888126|exam:15888127|exam:15888129|exam:15888234|exam:15888265>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130810&periodId=589>
 
 ### 65058 Fourier Methods for PDEs
 
@@ -16241,12 +14749,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14212965|exam:14212967|exam:14212968|exam:14213025|exam:14213041>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=30717&periodId=589>
 
-### 65498 Zentrale Gegenstände der Sekundarstufenmathematik (MSMathe)
-
-- **Segment:** `exam:15895536` · **unitId:** `136418`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15895532|exam:15895533|exam:15895534|exam:15895535|exam:15895536>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136418&periodId=589>
-
 ### 65531 Elemente der Linearen Algebra I
 
 - **Segment:** `exam:14212994` · **unitId:** `56202`
@@ -16805,156 +15307,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232804|exam:14232973>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107797&periodId=589>
 
-### 65835 Fourieranalysis und Distributionstheorie
-
-- **Segment:** `exam:15940746` · **unitId:** `135421`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15940571|exam:15940572|exam:15940746>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135421&periodId=589>
-
-### 65835 Fourieranalysis und Distributionstheorie
-
-- **Segment:** `exam:15940914` · **unitId:** `135421`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15940571|exam:15940754|exam:15940914>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135421&periodId=589>
-
-### 65837 Lie Superalgebren
-
-- **Segment:** `exam:15940742` · **unitId:** `134785`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15940571|exam:15940572|exam:15940742>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134785&periodId=589>
-
-### 65837 Lie Superalgebren
-
-- **Segment:** `exam:15940910` · **unitId:** `134785`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15940571|exam:15940754|exam:15940910>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134785&periodId=589>
-
-### 65838 Neural Network Theory
-
-- **Segment:** `exam:15940750` · **unitId:** `135881`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15940571|exam:15940572|exam:15940750>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135881&periodId=589>
-
-### 65838 Neural Network Theory
-
-- **Segment:** `exam:15940922` · **unitId:** `135881`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15940571|exam:15940754|exam:15940922>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135881&periodId=589>
-
-### 65839 Mathematische Quantentheorie
-
-- **Segment:** `exam:15940738` · **unitId:** `134774`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15940571|exam:15940572|exam:15940738>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134774&periodId=589>
-
-### 65839 Mathematische Quantentheorie
-
-- **Segment:** `exam:15940906` · **unitId:** `134774`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15940571|exam:15940754|exam:15940906>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134774&periodId=589>
-
-### 65854 Numerics of incompressible flows II
-
-- **Segment:** `exam:14233033` · **unitId:** `133198`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232804|exam:14233033>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133198&periodId=589>
-
-### 65855 Nichtlineare Optimierung 1
-
-- **Segment:** `exam:14223288` · **unitId:** `131429`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14223142|exam:14223288>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131429&periodId=589>
-
-### 65855 Nichtlineare Optimierung 1
-
-- **Segment:** `exam:15940899` · **unitId:** `131429`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15940571|exam:15940754|exam:15940899>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131429&periodId=589>
-
-### 65856 Nichtlineare Optimierung 2
-
-- **Segment:** `exam:14233029` · **unitId:** `131435`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232804|exam:14233029>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131435&periodId=589>
-
-### 65857 Higher Analysis
-
-- **Segment:** `exam:14223138` · **unitId:** `131425`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14222980|exam:14223138>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131425&periodId=589>
-
-### 65857 Higher Analysis
-
-- **Segment:** `exam:14223286` · **unitId:** `131425`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14223142|exam:14223286>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131425&periodId=589>
-
-### 65857 Higher Analysis
-
-- **Segment:** `exam:14232800` · **unitId:** `131426`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232628|exam:14232800>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131426&periodId=589>
-
-### 65857 Higher Analysis
-
-- **Segment:** `exam:15940732` · **unitId:** `131425`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15940571|exam:15940572|exam:15940732>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131425&periodId=589>
-
-### 65857 Higher Analysis
-
-- **Segment:** `exam:15940895` · **unitId:** `131425`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15940571|exam:15940754|exam:15940895>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131425&periodId=589>
-
-### 65858 Mathematische Grundlagen der Quantisierungstheorie und Anwendungen
-
-- **Segment:** `exam:14232802` · **unitId:** `133181`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232628|exam:14232802>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133181&periodId=589>
-
-### 65859 Vertexalgebren
-
-- **Segment:** `exam:14220130` · **unitId:** `133188`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14219996|exam:14220130>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133188&periodId=589>
-
-### 65859 Vertexalgebren
-
-- **Segment:** `exam:14220270` · **unitId:** `133188`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14220132|exam:14220270>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133188&periodId=589>
-
-### 65859 Vertexalgebren
-
-- **Segment:** `exam:14223140` · **unitId:** `133188`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14222980|exam:14223140>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133188&periodId=589>
-
-### 65859 Vertexalgebren
-
-- **Segment:** `exam:14223292` · **unitId:** `133188`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14223142|exam:14223292>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133188&periodId=589>
-
-### 65859 Vertexalgebren
-
-- **Segment:** `exam:14232626` · **unitId:** `133022`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232522|exam:14232626>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133022&periodId=589>
-
-### 65859 Vertexalgebren
-
-- **Segment:** `exam:15940736` · **unitId:** `133188`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15940571|exam:15940572|exam:15940736>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133188&periodId=589>
-
-### 65859 Vertexalgebren
-
-- **Segment:** `exam:15940904` · **unitId:** `133188`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15940571|exam:15940754|exam:15940904>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133188&periodId=589>
-
 ### 65860 Modeling and analysis in continuum mechanics I
 
 - **Segment:** `exam:14232700` · **unitId:** `68760`
@@ -17173,33 +15525,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ### 65897 Algebraische Quantenfeldtheorie
 
-- **Segment:** `exam:14223134` · **unitId:** `127636`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14222980|exam:14223134>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127636&periodId=589>
-
-### 65897 Algebraische Quantenfeldtheorie
-
-- **Segment:** `exam:14223282` · **unitId:** `127636`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14223142|exam:14223282>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127636&periodId=589>
-
-### 65897 Algebraische Quantenfeldtheorie
-
 - **Segment:** `exam:14232796` · **unitId:** `127638`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232628|exam:14232796>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127638&periodId=589>
-
-### 65897 Algebraische Quantenfeldtheorie
-
-- **Segment:** `exam:15940728` · **unitId:** `127636`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15940571|exam:15940572|exam:15940728>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127636&periodId=589>
-
-### 65897 Algebraische Quantenfeldtheorie
-
-- **Segment:** `exam:15940891` · **unitId:** `127636`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15940571|exam:15940754|exam:15940891>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127636&periodId=589>
 
 ### 65898 Fixed Point Theory and Applications
 
@@ -17212,12 +15540,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14223279` · **unitId:** `127632`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14223142|exam:14223279>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127632&periodId=589>
-
-### 65898 Fixed Point Theory and Applications
-
-- **Segment:** `exam:14232793` · **unitId:** `127634`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232628|exam:14232793>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127634&periodId=589>
 
 ### 65898 Fixed Point Theory and Applications
 
@@ -17242,12 +15564,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14223277` · **unitId:** `127627`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14223142|exam:14223277>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127627&periodId=589>
-
-### 65899 Topological Vector Spaces and Distributions
-
-- **Segment:** `exam:14232791` · **unitId:** `127629`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14232518|exam:14232519|exam:14232521|exam:14232628|exam:14232791>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127629&periodId=589>
 
 ### 65899 Topological Vector Spaces and Distributions
 
@@ -18332,24 +16648,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14218473|exam:14218475|exam:14218477|exam:14219996|exam:14220125>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65589&periodId=589>
 
-### 68800 Grundlagen der Geowissenschaften I
-
-- **Segment:** `exam:14225008` · **unitId:** `125092`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14222942|exam:14222944|exam:14222946|exam:14225007|exam:14225008>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125092&periodId=589>
-
-### 68800 Grundlagen der Geowissenschaften I
-
-- **Segment:** `exam:15942453` · **unitId:** `125092`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15940952|exam:15942452|exam:15942453>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125092&periodId=589>
-
-### 68830 Dynamik des Systems Erde
-
-- **Segment:** `exam:15942459` · **unitId:** `125095`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:15839997|exam:15839999|exam:15840002|exam:15940952|exam:15942452|exam:15942459>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125095&periodId=589>
-
 ### 68860 Angewandte Geologie I
 
 - **Segment:** `exam:14221277` · **unitId:** `67111`
@@ -18416,7 +16714,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | Mo | 14:00–15:30 | — | 11906.01.030 (H21) 11906.01.040 (H20) 11907.01.030 (H19) 11907.01.040 (H18) 12801.01.210 (H11) |
+| Mo | Mo | 14:00–15:30 | — | — |
 
 ### 71701 Introduction to X-ray astronomy - Leistung
 
@@ -19957,7 +18255,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14212941|exam:14212942|exam:14212943|exam:14212944|exam:14212956|exam:14212959>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=105413&periodId=589>
 
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -19972,7 +18273,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17646|exam:14212965|exam:14212967|exam:14212968|exam:14213025|exam:14213026|exam:14213029>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=105413&periodId=589>
 
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -20214,7 +18518,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 11:30–13:00 | 13.04.2026–13.07.2026 | 20301.01.021 (1.021 Computerseminarraum (25)) |
 
 ### FKDYN - Festkörperthermodynamik - Vorlesung
 
@@ -20482,7 +18793,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82993&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:00–09:30 | 14.04.2026–14.07.2026 | 20301.U1.014 (U1.014 Seminarraum (40)) |
 
 ### IngGeo - Ingenieurgeologie (4. Sem.) - Vorlesung mit Übung
 
@@ -21269,7 +19587,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mi | 08:00–09:30 | 15.04.2026–15.07.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (861)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (831)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -21875,7 +20193,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| Mo | Mo | — | — | — |
 
 ### Aufbaumodul Performativität
 
@@ -21932,7 +20250,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | Fr | — | — | — |
+| Fr | Fr | 08:00–09:00 | — | — |
 
 ### Bachelor Seminar "Amenable Groups"
 
@@ -22037,21 +20355,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 ### Basisseminar Arbeit und Organisation
 
-- **Segment:** `unit:134191` · **unitId:** `134191`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134191&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 05901.01.053 ( 01.053) |
-
-### Basisseminar Arbeit und Organisation
-
 - **Segment:** `unit:105567` · **unitId:** `105567`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=105567&periodId=589>
 
@@ -22060,70 +20363,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 ### Basisseminar Bildung und Lebenslauf
 
-- **Segment:** `unit:134169` · **unitId:** `134169`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134169&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 08:15–09:45 | 16.04.2026–16.07.2026 | 05901.05.013 ( 05.013) |
-
-### Basisseminar Bildung und Lebenslauf
-
 - **Segment:** `unit:117144` · **unitId:** `117144`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117144&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-
-### Basisseminar Kultur und Kommunikation
-
-- **Segment:** `unit:134172` · **unitId:** `134172`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134172&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 05901.05.052 ( 05.052) |
-
-### Basisseminar Kultur und Kommunikation
-
-- **Segment:** `unit:134173` · **unitId:** `134173`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134173&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 05901.05.012 ( 05.012) |
-
-### Basisseminar Vergleichende Gesellschaftsanalyse
-
-- **Segment:** `unit:134150` · **unitId:** `134150`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134150&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 05901.05.052 ( 05.052) |
 
 ### Basisseminar: Bildung und Lebenslauf
 
@@ -22158,19 +20401,19 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 ### Basisseminar: Vergleichende Gesellschaftsanalyse
 
-- **Segment:** `unit:86540` · **unitId:** `86540`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86540&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
-### Basisseminar: Vergleichende Gesellschaftsanalyse
-
 - **Segment:** `unit:96036` · **unitId:** `96036`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96036&periodId=589>
 
 - **Veranstaltungsart:** Seminar
 - **Turnus:** nur im Wintersemester
+
+### Basisseminar: Vergleichende Gesellschaftsanalyse/Soziale Ungleichheit und Gerechtigkeit
+
+- **Segment:** `unit:86540` · **unitId:** `86540`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86540&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Turnus:** in jedem Semester
 
 ### Begleitende Übung zu VL Gottesbilder im Alten Testament
 
@@ -22192,15 +20435,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 ### Begleitveranstaltung Studienbegleitendes Praktikum an Realschulen "Praxis RS" (AE_PSPrak) — Vorlesung mit Übung
 
-- **Segment:** `unit:106000` · **unitId:** `106000`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106000&periodId=589>
+- **Segment:** `unit:106001` · **unitId:** `106001`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106001&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 
 ### Begleitveranstaltung Studienbegleitendes Praktikum an Realschulen "Praxis RS" (AE_PSPrak) — Vorlesung mit Übung
 
-- **Segment:** `unit:106001` · **unitId:** `106001`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106001&periodId=589>
+- **Segment:** `unit:106000` · **unitId:** `106000`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106000&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 
@@ -22338,7 +20581,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 11301.00.031 (0.031-113 Seminarraum) |
 
 ### Betriebswirtschaftslehre I — Vorlesung
 
@@ -22466,21 +20716,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
 
-### Chicago School. Theorie und Methodologie eines soziologischen Paradigmas — Seminar
-
-- **Segment:** `unit:134128` · **unitId:** `134128`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134128&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 05901.05.052 ( 05.052) |
-
 ### Chinesisch Elementarkurs 1
 
 - **Segment:** `unit:20804` · **unitId:** `20804`
@@ -22603,6 +20838,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121173&periodId=589>
 
 - **ECTS-Punkte:** 2.5
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Computational Visual Perception
 
@@ -22811,20 +21052,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | 11:00–12:00 | — | 12801.01.210 (H11) |
 
-### Deep Learning for Beginners (VHB)
-
-- **Segment:** `unit:135380` · **unitId:** `135380`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135380&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | 11:00–12:00 | — | 12801.01.210 (H11) |
-
 ### Deep Learning for Beginners (VHB-Kurs) — Vorlesung
 
 - **Segment:** `unit:83838` · **unitId:** `83838`
@@ -22852,21 +21079,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.0
 - **Turnus:** Unregelmäßig
-
-### Der Wandel von Liebe und Freundschaft im Zeitalter der KI — Seminar
-
-- **Segment:** `unit:134170` · **unitId:** `134170`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134170&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 05901.05.013 ( 05.013) |
 
 ### Detektoren für Teilchen und Strahlung 2 — Hauptseminar
 
@@ -23575,7 +21787,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | Di | 11:00–12:00 | — | 21101.01.213 (LG H4 (814 Plätze) Hörsaal) |
+| Di | Di | 11:00–12:00 | — | — |
 
 ### Digitale Signalverarbeitung
 
@@ -23693,38 +21905,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Fr | Fr | 12:15–13:45 | — | — |
 
-### Dänisch II
-
-- **Segment:** `unit:133040` · **unitId:** `133040`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133040&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | 12:15–13:45 | — | — |
-
 ### Dänisch IV
 
 - **Segment:** `unit:69607` · **unitId:** `69607`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69607&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | 10:15–11:45 | — | — |
-
-### Dänisch IV
-
-- **Segment:** `unit:133048` · **unitId:** `133048`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133048&periodId=589>
 
 - **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
@@ -23894,7 +22078,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### Einführung in das Alte Testament für Geisteswissenschaftler — Übung
+### Einführung in das Alte Testament für Studierende der Geisteswissenschaften — Übung
 
 - **Segment:** `unit:130094` · **unitId:** `130094`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130094&periodId=589>
@@ -24101,21 +22285,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **Turnus:** nur im Sommersemester
 
-### Einführung in die qualitative Generationenforschung — Seminar
-
-- **Segment:** `unit:134106` · **unitId:** `134106`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134106&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 05901.05.052 ( 05.052) |
-
 ### Einführung in die Sprachmittlung Englisch-Deutsch
 
 - **Segment:** `unit:20550` · **unitId:** `20550`
@@ -24206,6 +22375,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:82472` · **unitId:** `82472`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82472&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
+
+### Elementare Zahlentheorie — Vorlesung
+
+- **Segment:** `unit:82234` · **unitId:** `82234`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82234&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
@@ -24336,12 +22514,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | — | — | — |
 
-### English: Level 1 - Focus on Academic Speaking
+### English: Level 1 - Focus on Grammar
 
-- **Segment:** `unit:123884` · **unitId:** `123884`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123884&periodId=589>
+- **Segment:** `unit:123887` · **unitId:** `123887`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123887&periodId=589>
 
-- **ECTS-Punkte:** 3.0
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -24561,20 +22739,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123902&periodId=589>
 
 - **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### English: Level 3 - English through Music, Movies, and Literature
-
-- **Segment:** `unit:128523` · **unitId:** `128523`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128523&periodId=589>
-
-- **ECTS-Punkte:** 4.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -24842,7 +23006,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 14:00–18:00 | 11.06.2026–16.07.2026 | 12801.02.133 (02.133-128 Praktikumsraum) |
+| wöchentlich | Mi | 14:00–18:00 | 10.06.2026–15.07.2026 | 12801.02.133 (02.133-128 Praktikumsraum) |
 
 ### Ethik der künstlichen Intelligenz: eine Einführung / Introduction to ethics of AI (PS / MS) — Kombiseminar
 
@@ -24859,21 +23023,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 3.0
 - **Turnus:** Unregelmäßig
-
-### Ethnographic Reading and Writing — Seminar
-
-- **Segment:** `unit:134126` · **unitId:** `134126`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134126&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 04901.00.004 (Kleiner SR IGdM) |
 
 ### Exercise classes to Modelling and Analysis in Continuum Mechanics — Übung
 
@@ -25522,21 +23671,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Proseminar / Mittelseminar
 - **Turnus:** Unregelmäßig
 
-### Gewerkschaften und industrielle Beziehungen in der Global Care Economy — Seminar
-
-- **Segment:** `unit:134158` · **unitId:** `134158`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134158&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 14.04.2026–14.07.2026 | 05901.05.013 ( 05.013) |
-
 ### GIS und Geovisualisierung
 
 - **Segment:** `unit:108810` · **unitId:** `108810`
@@ -25992,34 +24126,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 08:15–09:45 | 14.04.2026–14.07.2026 | 11301.00.005 (H4 Hörsaal 4) |
 
-### Hardware-Software-Co-Design
-
-- **Segment:** `unit:129701` · **unitId:** `129701`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=129701&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | 14:00–15:30 | — | — |
-
-### Hardware-Software-Co-Design (Lecture with extended exercise)
-
-- **Segment:** `unit:129711` · **unitId:** `129711`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=129711&periodId=589>
-
-- **ECTS-Punkte:** 7.5
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | 14:00–15:30 | — | 11906.01.030 (H21) |
-
 ### Hardware-Software-Co-Design (Vorlesung mit erweiterter Übung)
 
 - **Segment:** `unit:39683` · **unitId:** `39683`
@@ -26047,6 +24153,19 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
+
+### Hauptseminar Internationale Beziehungen
+
+- **Segment:** `unit:45743` · **unitId:** `45743`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45743&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | — | — | — |
 
 ### Hauptseminar KG
 
@@ -26498,21 +24617,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mi | Mi | — | — | — |
-
-### Into the field! Theorie und Praxis organisationssoziologischer Feldanalyse — Seminar
-
-- **Segment:** `unit:134125` · **unitId:** `134125`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134125&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 08:15–09:45 | 15.04.2026–15.07.2026 | 05901.05.013 ( 05.013) |
 
 ### Introduction au francais économique I+II
 
@@ -27332,21 +25436,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 
-### Markets, Culture and Society in India — Seminar
-
-- **Segment:** `unit:134159` · **unitId:** `134159`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134159&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | 05901.05.013 ( 05.013) |
-
 ### Maschinenelemente I
 
 - **Segment:** `unit:21041` · **unitId:** `21041`
@@ -27510,7 +25599,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 11:30–14:45 | 14.04.2026–02.06.2026 | 21101.04.156 |
 
 ### Matrixalgebren und Quanteninformationstheorie — Seminar
 
@@ -27830,6 +25926,23 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Di | Di | 10:00–11:30 | — | 12401.00.111 (0.111 Seminarraum 0.111) |
 
+### Nano IV: Halbleiter — Vorlesung
+
+- **Segment:** `unit:95603` · **unitId:** `95603`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95603&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | 12401.00.111 (0.111 Seminarraum 0.111) |
+| Einzeltermin | Do | 16:15–17:45 | 11.06.2026 | 12401.00.111 (0.111 Seminarraum 0.111) |
+
 ### Nelson Goodman: The Languages of Art — Proseminar / Mittelseminar
 
 - **Segment:** `unit:138238` · **unitId:** `138238`
@@ -27937,38 +26050,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Fr | Fr | 12:15–13:45 | — | — |
 
-### Norwegisch II
-
-- **Segment:** `unit:133039` · **unitId:** `133039`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133039&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | 12:15–13:45 | — | — |
-
 ### Norwegisch IV
 
 - **Segment:** `unit:69606` · **unitId:** `69606`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69606&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | 14:15–15:45 | — | — |
-
-### Norwegisch IV
-
-- **Segment:** `unit:133047` · **unitId:** `133047`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133047&periodId=589>
 
 - **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
@@ -28190,7 +26275,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | Di | 11:00–12:30 | — | 11901.00.226 (H8 Hörsaal 8) 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) 11901.00.236 (K1-119 Brose-Saal) 11906.01.040 (H20) 11907.01.030 (H19) 11907.01.040 (H18) |
+| Di | Di | 11:00–12:30 | — | 11901.00.226 (H8 Hörsaal 8) 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) 11906.01.040 (H20) 11907.01.030 (H19) 11907.01.040 (H18) |
 
 ### Pattern Recognition Exercises — Übung
 
@@ -28441,26 +26526,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 13:00–16:00 | 15.04.2026–15.07.2026 | 11501.00.150 (0.150-115 GET Praktikum) |
-
-### Praktikum Grundlagen der Elektrotechnik I für Mechatronik
-
-- **Segment:** `unit:85604` · **unitId:** `85604`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85604&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 0.83
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 13:00–16:00 | 28.04.2026–14.07.2026 | 11501.04.219 (EL 4.11/12 Praktikumsraum) |
-| wöchentlich | Di | 13:00–16:00 | 28.04.2026–14.07.2026 | 11501.04.221 (EL 4.13 Praktikumsraum) |
-| Einzeltermin | Di | 09:00–10:00 | 21.04.2026 | 11501.00.155 (H15 Hans-Wilhelm-Schüßler-Hörsaal) |
-| Einzeltermin | Di | 09:00–10:00 | 21.04.2026 | 11501.00.156 (H16 Hörsaal 16) |
-| Einzeltermin | Di | 13:00–16:00 | 21.07.2026 | 11501.04.219 (EL 4.11/12 Praktikumsraum) |
 
 ### Praktikum Grundlagen der Elektrotechnik II (EEI)
 
@@ -28841,21 +26906,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 12:00–14:00 | 21.04.2026–14.07.2026 | 11501.00.157 (0.157-115 CIP Pool EEI) |
 
-### R Einführung und Anwendungen in Arbeit und Organisation — Seminar
-
-- **Segment:** `unit:134197` · **unitId:** `134197`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134197&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 10:15–11:45 | 17.04.2026–17.07.2026 | 05901.05.013 ( 05.013) |
-
 ### Radar Signal Processing
 
 - **Segment:** `unit:54985` · **unitId:** `54985`
@@ -28891,7 +26941,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 11302.02.133 (02.133-113 Übungsraum) |
 
 ### Raum und Form I — Seminar
 
@@ -29252,20 +27309,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 11501.01.105 (H6 Hörsaal 6) |
 
-### Satellite Communications
-
-- **Segment:** `unit:134046` · **unitId:** `134046`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134046&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | 16:15–17:45 | — | — |
-
 ### Satellitenkommunikation
 
 - **Segment:** `unit:25962` · **unitId:** `25962`
@@ -29291,7 +27334,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | 16:15–17:45 | — | 11906.01.040 (H20) 11907.01.030 (H19) 11907.01.040 (H18) |
+| Do | Do | 16:15–17:45 | — | 11907.01.030 (H19) 11907.01.040 (H18) |
 
 ### Schaltungstechnik — Vorlesung
 
@@ -29351,38 +27394,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Di | Di | 16:15–17:45 | 07.06.2026 23:59:59 | — |
 
-### Schwedisch II
-
-- **Segment:** `unit:133041` · **unitId:** `133041`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133041&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Schwedisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | 16:15–17:45 | 07.06.2026 23:59:59 | — |
-
 ### Schwedisch IV
 
 - **Segment:** `unit:69608` · **unitId:** `69608`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69608&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Schwedisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | 14:15–15:45 | — | — |
-
-### Schwedisch IV
-
-- **Segment:** `unit:133049` · **unitId:** `133049`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133049&periodId=589>
 
 - **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Schwedisch
@@ -29491,34 +27506,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 11301.00.005 (H4 Hörsaal 4) |
-
-### Scientific Visualization
-
-- **Segment:** `unit:133592` · **unitId:** `133592`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133592&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | 13:00–14:30 | — | — |
-
-### Scientific Visualization
-
-- **Segment:** `unit:133593` · **unitId:** `133593`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133593&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
 
 ### Security in Embedded Hardware
 
@@ -29993,7 +27980,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | Fr | 11:00–12:00 | — | 11906.01.030 (H21) 11906.01.040 (H20) 11907.01.030 (H19) 11907.01.040 (H18) |
+| Fr | Fr | 11:00–12:00 | — | — |
 
 ### Speech and Language Understanding (VHB-Kurs) — Vorlesung
 
@@ -30249,37 +28236,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.0
 - **Turnus:** nur im Wintersemester
 
-### Tech Worker in arbeitssoziologischer Perspektive — Seminar
-
-- **Segment:** `unit:134755` · **unitId:** `134755`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134755&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 10:15–11:45 | 15.04.2026 | — |
-| Einzeltermin | Sa | 09:15–18:00 | 09.05.2026 | — |
-| Einzeltermin | Do | 09:15–18:00 | 23.07.2026 | — |
-| Einzeltermin | Fr | 09:15–18:00 | 24.07.2026 | — |
-
-### Tech Writing B2: Computer Science/IT
-
-- **Segment:** `unit:118788` · **unitId:** `118788`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118788&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
 ### Technische Thermodynamik
 
 - **Segment:** `unit:27307` · **unitId:** `27307`
@@ -30292,7 +28248,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | Di | 08:00–10:00 | — | 12801.01.210 (H11) |
+| Di | Di | 08:00–10:00 | — | 11906.01.040 (H20) |
 
 ### Test integrierter Schaltungen
 
@@ -30437,21 +28393,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
 | wöchentlich | Fr | 10:15–11:45 | 17.04.2026–17.07.2026 | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
-
-### Theorien der Fremdheit — Seminar
-
-- **Segment:** `unit:134096` · **unitId:** `134096`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134096&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 16:15–17:45 | 16.04.2026–16.07.2026 | 05901.05.052 ( 05.052) |
 
 ### Topics in Time Series Analysis — Vorlesung mit Übung
 
@@ -30672,21 +28613,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 10.0
 - **Turnus:** nur im Wintersemester
-
-### Vergleichende Bildungspolitik Deutschland - Türkei — Seminar
-
-- **Segment:** `unit:134163` · **unitId:** `134163`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134163&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 12:15–13:45 | 17.04.2026–17.07.2026 | 05901.05.052 ( 05.052) |
 
 ### Verlässliche Echtzeitsysteme (Vorlesung mit Übungen)
 
@@ -30971,21 +28897,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.0
 - **Turnus:** nur im Wintersemester
 
-### Was ist Religion? Und wenn ja, wie viele? - Eine Einführung in soziologische Religionsbegriffe — Seminar
-
-- **Segment:** `unit:134094` · **unitId:** `134094`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134094&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 05901.05.052 ( 05.052) |
-
 ### Werkstoffe: Grundlagen
 
 - **Segment:** `unit:32157` · **unitId:** `32157`
@@ -31122,24 +29033,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.0
 - **Turnus:** Unregelmäßig
-
-### Zukünfte (der Organisation) von Arbeit: Konzepte, Methoden, Ideologien — Seminar
-
-- **Segment:** `unit:134747` · **unitId:** `134747`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134747&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 17:00–19:00 | 17.04.2026 | — |
-| Einzeltermin | Fr | 10:00–18:00 | 15.05.2026 | — |
-| Einzeltermin | Fr | 10:00–18:00 | 19.06.2026 | — |
-| Einzeltermin | Fr | 10:00–18:00 | 17.07.2026 | — |
 
 ### Ökonometrie (Klausur)
 

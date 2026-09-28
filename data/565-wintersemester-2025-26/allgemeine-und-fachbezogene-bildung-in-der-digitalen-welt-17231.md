@@ -833,18 +833,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128626&periodId=565>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 15:30–17:00 | 17.10.2025 | — |
-| Einzeltermin | Fr | 14:00–18:00 | 24.10.2025 | 20302.01.121 (1.121 Seminarraum (40)) |
-| Einzeltermin | Fr | 14:00–18:00 | 21.11.2025 | 20301.01.028 (1.028 Seminarraum MM-Labor (18)) |
-| Einzeltermin | Di | 17:30–19:00 | 09.12.2025 | — |
-| Einzeltermin | Fr | 14:00–18:00 | 09.01.2026 | 20302.01.121 (1.121 Seminarraum (40)) |
 
 ### Zukunftstechnologien für Bildungskontexte - 3D-Druck, KI und Robotik - Seminar
 
@@ -853,18 +842,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128626&periodId=565>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 15:30–17:00 | 17.10.2025 | — |
-| Einzeltermin | Fr | 14:00–18:00 | 24.10.2025 | 20302.01.121 (1.121 Seminarraum (40)) |
-| Einzeltermin | Fr | 14:00–18:00 | 21.11.2025 | 20301.01.028 (1.028 Seminarraum MM-Labor (18)) |
-| Einzeltermin | Di | 17:30–19:00 | 09.12.2025 | — |
-| Einzeltermin | Fr | 14:00–18:00 | 09.01.2026 | 20302.01.121 (1.121 Seminarraum (40)) |
 
 ### Zukunftstechnologien für Bildungskontexte - 3D-Druck, KI und Robotik - Seminar
 
@@ -873,18 +851,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128626&periodId=565>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 15:30–17:00 | 17.10.2025 | — |
-| Einzeltermin | Fr | 14:00–18:00 | 24.10.2025 | 20302.01.121 (1.121 Seminarraum (40)) |
-| Einzeltermin | Fr | 14:00–18:00 | 21.11.2025 | 20301.01.028 (1.028 Seminarraum MM-Labor (18)) |
-| Einzeltermin | Di | 17:30–19:00 | 09.12.2025 | — |
-| Einzeltermin | Fr | 14:00–18:00 | 09.01.2026 | 20302.01.121 (1.121 Seminarraum (40)) |
 
 ### Zukunftstechnologien für Bildungskontexte - 3D-Druck, KI und Robotik - Seminar
 
@@ -893,18 +860,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128626&periodId=565>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 15:30–17:00 | 17.10.2025 | — |
-| Einzeltermin | Fr | 14:00–18:00 | 24.10.2025 | 20302.01.121 (1.121 Seminarraum (40)) |
-| Einzeltermin | Fr | 14:00–18:00 | 21.11.2025 | 20301.01.028 (1.028 Seminarraum MM-Labor (18)) |
-| Einzeltermin | Di | 17:30–19:00 | 09.12.2025 | — |
-| Einzeltermin | Fr | 14:00–18:00 | 09.01.2026 | 20302.01.121 (1.121 Seminarraum (40)) |
 
 ### 87001 Medienpädagogische und mediendidaktische Grundlagen - Leistung
 
@@ -1083,3 +1039,73 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 15:45–17:15 | 15.10.2025–04.02.2026 | 20301.02.040 (2.040 Biosammlung) |
+
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (8)
+
+_Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
+
+### "pib@FAU" - Praktische Erfahrungen und pädagogische Ableitungen mit 3D-Druck, Robotik und KI — Seminar
+
+- **Segment:** `unit:123980` · **unitId:** `123980`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123980&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** in jedem Semester
+
+### Der Weg zur digitalen Schule - Pädagogische Professionalisierung und Schulentwicklung im Kontext digitaler Medien (Angebot am Standort Nürnberg) — Seminar
+
+- **Segment:** `unit:117939` · **unitId:** `117939`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117939&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **Turnus:** in jedem Semester
+
+### Digitale Karten im Geographieunterricht|GS-MS-RS-GY (in N, Block: 08.-10.04.26, 9-18h) — Seminar
+
+- **Segment:** `unit:90296` · **unitId:** `90296`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90296&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 3.0
+- **Turnus:** nur im Wintersemester
+
+### Digitalisierung - Geographie - Unterricht | GS-MS-RS-GY — Seminar
+
+- **Segment:** `unit:90548` · **unitId:** `90548`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90548&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.3
+- **Turnus:** in jedem Semester
+
+### Medienerziehung in Schule und Unterricht — Seminar
+
+- **Segment:** `unit:134838` · **unitId:** `134838`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134838&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+
+### Unterrichten und Lernen mit digitalen Medien - Kompetenzen für Lehramtsstudierende — Seminar
+
+- **Segment:** `unit:125371` · **unitId:** `125371`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125371&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** in jedem Semester
+
+### Unterrichten und Lernen mit digitalen Medien - Kompetenzen für Lehramtsstudierende (Angebot am Standort Erlangen) — Seminar
+
+- **Segment:** `unit:111659` · **unitId:** `111659`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111659&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+
+### Wer spricht? Wer fehlt? - Rassismuskritisch unterrichten und lernen im (Religions-)Unterricht — Hauptseminar
+
+- **Segment:** `unit:99409` · **unitId:** `99409`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99409&periodId=565>
+
+- **Veranstaltungsart:** Hauptseminar
+- **Turnus:** Unregelmäßig

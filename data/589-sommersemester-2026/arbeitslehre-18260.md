@@ -92,7 +92,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 11:30–13:00 | 13.04.2026–13.07.2026 | — |
 
 ### GFD-Vorl - Grundlagen der Fachdidaktik Beruf und Wirtschaft - Vorlesung - Vorlesung
 
@@ -141,7 +148,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 11:30–13:00 | 13.04.2026–13.07.2026 | — |
+| wöchentlich | Di | 11:30–13:00 | 14.04.2026–14.07.2026 | 20302.01.121 (1.121 Seminarraum (40)) |
 
 ### MedBuW - Medien im Unterricht Beruf und Wirtschaft - Seminar
 
@@ -158,7 +165,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 11:30–13:00 | 13.04.2026–13.07.2026 | — |
+| wöchentlich | Di | 11:30–13:00 | 14.04.2026–14.07.2026 | 20302.01.121 (1.121 Seminarraum (40)) |
 
 ### MethBuW - Methoden des Unterrichts Beruf und Wirtschaft - Seminar
 

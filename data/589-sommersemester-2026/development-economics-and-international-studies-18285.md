@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:18285"
 campo_path: "title:17593|title:17595|title:18285"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285"
-po_version_count: 0
-course_count: 536
+po_version_count: 101
+course_count: 435
 fau_studiengang:
   - title: "Development Economics and International Studies (M.A.)"
     rel_path: "studiengang/development-economics-and-international-studies-m-a.md"
@@ -160,7 +160,514 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Veranstaltungen (536)
+## Prüfungsordnungs-Versionen (101)
+
+### Die Nation fühlen: Kultur, politische Emotionen und Nationalismus in den Golfmonarchien - Proseminar
+
+- **Campo-Segment:** `exam:15723731`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:15521842|exam:15723731>
+
+### Die Nation fühlen: Kultur, politische Emotionen und Nationalismus in den Golfmonarchien - Proseminar
+
+- **Campo-Segment:** `exam:15723715`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15522124|exam:15522238|exam:15723715>
+
+### Die Nation fühlen: Kultur, politische Emotionen und Nationalismus in den Golfmonarchien - Proseminar
+
+- **Campo-Segment:** `exam:15723719`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15524108|exam:15723719>
+
+### Die Nation fühlen: Kultur, politische Emotionen und Nationalismus in den Golfmonarchien - Proseminar
+
+- **Campo-Segment:** `exam:15723732`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15525741|exam:15723732>
+
+### Environmental Economics and Climate Change - Seminar
+
+- **Campo-Segment:** `exam:15907563`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:15869683|exam:15907563>
+
+### Environmental Economics and Climate Change - Seminar
+
+- **Campo-Segment:** `exam:15907561`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15522124|exam:15869657|exam:15907561>
+
+### Environmental Economics and Climate Change - Seminar
+
+- **Campo-Segment:** `exam:15907562`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15869665|exam:15907562>
+
+### Environmental Economics and Climate Change - Seminar
+
+- **Campo-Segment:** `exam:15907564`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15869691|exam:15907564>
+
+### European critical materials supply chains - Seminar
+
+- **Campo-Segment:** `exam:15912826`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523928|exam:15912823|exam:15912826>
+
+### European critical materials supply chains - Seminar
+
+- **Campo-Segment:** `exam:15912842`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15912839|exam:15912842>
+
+### European critical materials supply chains - Seminar
+
+- **Campo-Segment:** `exam:15912858`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15912855|exam:15912858>
+
+### Human Rights Practice in Contested Times and Spaces - Seminar
+
+- **Campo-Segment:** `exam:15719721`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:15521898|exam:15719721>
+
+### Human Rights Practice in Contested Times and Spaces - Seminar
+
+- **Campo-Segment:** `exam:15719695`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:15521908|exam:15719695>
+
+### Human Rights Practice in Contested Times and Spaces - Seminar
+
+- **Campo-Segment:** `exam:15719705`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15522124|exam:15522149|exam:15719705>
+
+### Human Rights Practice in Contested Times and Spaces - Seminar
+
+- **Campo-Segment:** `exam:15719679`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15522124|exam:15522159|exam:15719679>
+
+### Human Rights Practice in Contested Times and Spaces - Seminar
+
+- **Campo-Segment:** `exam:15719709`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15524022|exam:15719709>
+
+### Human Rights Practice in Contested Times and Spaces - Seminar
+
+- **Campo-Segment:** `exam:15719683`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15524032|exam:15719683>
+
+### Human Rights Practice in Contested Times and Spaces - Seminar
+
+- **Campo-Segment:** `exam:15719722`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15525797|exam:15719722>
+
+### Human Rights Practice in Contested Times and Spaces - Seminar
+
+- **Campo-Segment:** `exam:15719696`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15525807|exam:15719696>
+
+### Innen- und außenpolitische Herausforderungen der Südafrikanischen Union - Proseminar
+
+- **Campo-Segment:** `exam:15705792`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:15521842|exam:15705792>
+
+### Innen- und außenpolitische Herausforderungen der Südafrikanischen Union - Proseminar
+
+- **Campo-Segment:** `exam:15705776`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15522124|exam:15522238|exam:15705776>
+
+### Innen- und außenpolitische Herausforderungen der Südafrikanischen Union - Proseminar
+
+- **Campo-Segment:** `exam:15705780`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15524108|exam:15705780>
+
+### Innen- und außenpolitische Herausforderungen der Südafrikanischen Union - Proseminar
+
+- **Campo-Segment:** `exam:15705793`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15525741|exam:15705793>
+
+### Migration and Human Rights - Masterseminar
+
+- **Campo-Segment:** `exam:15770767`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:15521898|exam:15770767>
+
+### Migration and Human Rights - Masterseminar
+
+- **Campo-Segment:** `exam:15770994`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:15521908|exam:15770994>
+
+### Migration and Human Rights - Masterseminar
+
+- **Campo-Segment:** `exam:15770751`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15522124|exam:15522149|exam:15770751>
+
+### Migration and Human Rights - Masterseminar
+
+- **Campo-Segment:** `exam:15770978`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15522124|exam:15522159|exam:15770978>
+
+### Migration and Human Rights - Masterseminar
+
+- **Campo-Segment:** `exam:15770755`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15524022|exam:15770755>
+
+### Migration and Human Rights - Masterseminar
+
+- **Campo-Segment:** `exam:15770982`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15524032|exam:15770982>
+
+### Migration and Human Rights - Masterseminar
+
+- **Campo-Segment:** `exam:15770768`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15525797|exam:15770768>
+
+### Migration and Human Rights - Masterseminar
+
+- **Campo-Segment:** `exam:15770995`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15525807|exam:15770995>
+
+### Regionalismus in Ost- und Südostasien: Die ASEAN im Kontext geopolitischer Rivalitäten - Proseminar
+
+- **Campo-Segment:** `exam:15716528`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:15521842|exam:15716528>
+
+### Regionalismus in Ost- und Südostasien: Die ASEAN im Kontext geopolitischer Rivalitäten - Proseminar
+
+- **Campo-Segment:** `exam:15716512`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15522124|exam:15522238|exam:15716512>
+
+### Regionalismus in Ost- und Südostasien: Die ASEAN im Kontext geopolitischer Rivalitäten - Proseminar
+
+- **Campo-Segment:** `exam:15716516`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15524108|exam:15716516>
+
+### Regionalismus in Ost- und Südostasien: Die ASEAN im Kontext geopolitischer Rivalitäten - Proseminar
+
+- **Campo-Segment:** `exam:15716529`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15525741|exam:15716529>
+
+### Seminar in Energy and Environmental Economics: Econometric Applications - Seminar
+
+- **Campo-Segment:** `exam:15943398`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523928|exam:15943396|exam:15943398>
+
+### Seminar in Energy and Environmental Economics: Econometric Applications - Seminar
+
+- **Campo-Segment:** `exam:15912870`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15912868|exam:15912870>
+
+### Seminar in Energy and Environmental Economics: Econometric Applications - Seminar
+
+- **Campo-Segment:** `exam:15912882`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15912880|exam:15912882>
+
+### State-centric and cosmopolitan conceptions of human rights - Hauptseminar / Masterseminar
+
+- **Campo-Segment:** `exam:15848465`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:15521898|exam:15848465>
+
+### State-centric and cosmopolitan conceptions of human rights - Hauptseminar / Masterseminar
+
+- **Campo-Segment:** `exam:15848459`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:15521908|exam:15848459>
+
+### State-centric and cosmopolitan conceptions of human rights - Hauptseminar / Masterseminar
+
+- **Campo-Segment:** `exam:15848463`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15522124|exam:15522149|exam:15848463>
+
+### State-centric and cosmopolitan conceptions of human rights - Hauptseminar / Masterseminar
+
+- **Campo-Segment:** `exam:15848457`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15522124|exam:15522159|exam:15848457>
+
+### State-centric and cosmopolitan conceptions of human rights - Hauptseminar / Masterseminar
+
+- **Campo-Segment:** `exam:15848464`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15524022|exam:15848464>
+
+### State-centric and cosmopolitan conceptions of human rights - Hauptseminar / Masterseminar
+
+- **Campo-Segment:** `exam:15848458`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15524032|exam:15848458>
+
+### State-centric and cosmopolitan conceptions of human rights - Hauptseminar / Masterseminar
+
+- **Campo-Segment:** `exam:15848466`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15525797|exam:15848466>
+
+### State-centric and cosmopolitan conceptions of human rights - Hauptseminar / Masterseminar
+
+- **Campo-Segment:** `exam:15848460`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15525807|exam:15848460>
+
+### Sustainable Finance - Seminar
+
+- **Campo-Segment:** `exam:15907590`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:15869760|exam:15907590>
+
+### Sustainable Finance - Seminar
+
+- **Campo-Segment:** `exam:15907573`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15522124|exam:15869743|exam:15907573>
+
+### Sustainable Finance - Seminar
+
+- **Campo-Segment:** `exam:15907581`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15869751|exam:15907581>
+
+### Sustainable Finance - Seminar
+
+- **Campo-Segment:** `exam:15907574`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15869747|exam:15907574>
+
+### Zwischen Krieg und Frieden: Sicherheit, Gewalt und illiberale Ordnung in Asien - Proseminar
+
+- **Campo-Segment:** `exam:15716317`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:15521842|exam:15716317>
+
+### Zwischen Krieg und Frieden: Sicherheit, Gewalt und illiberale Ordnung in Asien - Proseminar
+
+- **Campo-Segment:** `exam:15716301`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15522124|exam:15522238|exam:15716301>
+
+### Zwischen Krieg und Frieden: Sicherheit, Gewalt und illiberale Ordnung in Asien - Proseminar
+
+- **Campo-Segment:** `exam:15716305`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15524108|exam:15716305>
+
+### Zwischen Krieg und Frieden: Sicherheit, Gewalt und illiberale Ordnung in Asien - Proseminar
+
+- **Campo-Segment:** `exam:15716318`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15525741|exam:15716318>
+
+### Ü: The Economics of Health Behavior - Übung
+
+- **Campo-Segment:** `exam:15913404`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15913401|exam:15913404>
+
+### Ü: The Economics of Health Behavior - Übung
+
+- **Campo-Segment:** `exam:15913420`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15913417|exam:15913420>
+
+### 1999 Masterarbeit (M.A. Development Economics and International Studies 20242)
+
+- **Campo-Segment:** `exam:15525988`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15525988>
+
+### 38151 International Aspects of Ecological Economics
+
+- **Campo-Segment:** `exam:15522061`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:15522061>
+
+### 38151 International Aspects of Ecological Economics
+
+- **Campo-Segment:** `exam:15525958`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15525958>
+
+### 38152 Corruption and Crime in Latin America
+
+- **Campo-Segment:** `exam:15522066`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:15522066>
+
+### 38152 Corruption and Crime in Latin America
+
+- **Campo-Segment:** `exam:15525965`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15525965>
+
+### 38153 International Political Economy of Climate Change
+
+- **Campo-Segment:** `exam:15522072`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:15522072>
+
+### 38153 International Political Economy of Climate Change
+
+- **Campo-Segment:** `exam:15525971`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15525971>
+
+### 38158 Politics of Human Rights
+
+- **Campo-Segment:** `exam:15689321`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15522124|exam:15689321>
+
+### 38158 Politics of Human Rights
+
+- **Campo-Segment:** `exam:15689329`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15689329>
+
+### 38162 International Trade Law, Development and Global Economic Governance in a Changing World
+
+- **Campo-Segment:** `exam:17889463`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:17889463>
+
+### 38162 International Trade Law, Development and Global Economic Governance in a Changing World
+
+- **Campo-Segment:** `exam:17889478`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:17889478>
+
+### 53202 Game theory
+
+- **Campo-Segment:** `exam:17857692`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:17857692>
+
+### 53202 Game theory
+
+- **Campo-Segment:** `exam:17857677`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15522124|exam:17857677>
+
+### 53202 Game theory
+
+- **Campo-Segment:** `exam:17857667`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:17857667>
+
+### 53202 Game theory
+
+- **Campo-Segment:** `exam:17857682`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:17857682>
+
+### 57428 Branchen- und themenspezifisches Nachhaltigkeitsmanagement
+
+- **Campo-Segment:** `exam:17859081`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:17859081>
+
+### 57428 Branchen- und themenspezifisches Nachhaltigkeitsmanagement
+
+- **Campo-Segment:** `exam:17859096`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15522124|exam:17859096>
+
+### 57428 Branchen- und themenspezifisches Nachhaltigkeitsmanagement
+
+- **Campo-Segment:** `exam:17859086`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:17859086>
+
+### 57428 Branchen- und themenspezifisches Nachhaltigkeitsmanagement
+
+- **Campo-Segment:** `exam:17859101`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:17859101>
+
+### 57484 Between the Global and the Local: Sustainability in Practice
+
+- **Campo-Segment:** `exam:15522077`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:15522077>
+
+### 57484 Between the Global and the Local: Sustainability in Practice
+
+- **Campo-Segment:** `exam:15522350`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15522124|exam:15522350>
+
+### 57484 Between the Global and the Local: Sustainability in Practice
+
+- **Campo-Segment:** `exam:15524220`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15524220>
+
+### 57484 Between the Global and the Local: Sustainability in Practice
+
+- **Campo-Segment:** `exam:15525976`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15525976>
+
+### 57485 Project course: Building sustainable industry in Europe
+
+- **Campo-Segment:** `exam:15521839`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:15521839>
+
+### 57485 Project course: Building sustainable industry in Europe
+
+- **Campo-Segment:** `exam:15522335`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15522124|exam:15522335>
+
+### 57485 Project course: Building sustainable industry in Europe
+
+- **Campo-Segment:** `exam:15524205`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15524205>
+
+### 57485 Project course: Building sustainable industry in Europe
+
+- **Campo-Segment:** `exam:15525738`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15525738>
+
+### 74961 Critical approach to international economic relations - lessons from sustainability  - Leistung
+
+- **Campo-Segment:** `exam:15522076`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:15522075|exam:15522076>
+
+### 74961 Critical approach to international economic relations - lessons from sustainability  - Leistung
+
+- **Campo-Segment:** `exam:15522349`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15522124|exam:15522348|exam:15522349>
+
+### 74961 Critical approach to international economic relations - lessons from sustainability  - Leistung
+
+- **Campo-Segment:** `exam:15524219`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15524218|exam:15524219>
+
+### 74961 Critical approach to international economic relations - lessons from sustainability  - Leistung
+
+- **Campo-Segment:** `exam:15525975`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15525974|exam:15525975>
+
+### 74991 European critical materials supply chains - Leistung
+
+- **Campo-Segment:** `exam:15912824`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523928|exam:15912823|exam:15912824>
+
+### 74991 European critical materials supply chains - Leistung
+
+- **Campo-Segment:** `exam:15912840`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15912839|exam:15912840>
+
+### 74991 European critical materials supply chains - Leistung
+
+- **Campo-Segment:** `exam:15912856`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15912855|exam:15912856>
+
+### 74992 European critical materials supply chains (Presentation) - Leistung
+
+- **Campo-Segment:** `exam:15912825`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523928|exam:15912823|exam:15912825>
+
+### 74992 European critical materials supply chains (Presentation) - Leistung
+
+- **Campo-Segment:** `exam:15912841`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15912839|exam:15912841>
+
+### 74992 European critical materials supply chains (Presentation) - Leistung
+
+- **Campo-Segment:** `exam:15912857`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15912855|exam:15912857>
+
+### 81591 Environmental Economics and Climate Change - Leistung
+
+- **Campo-Segment:** `exam:15869684`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:15869683|exam:15869684>
+
+### 81591 Environmental Economics and Climate Change - Leistung
+
+- **Campo-Segment:** `exam:15869658`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15522124|exam:15869657|exam:15869658>
+
+### 81591 Environmental Economics and Climate Change - Leistung
+
+- **Campo-Segment:** `exam:15869666`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15869665|exam:15869666>
+
+### 81591 Environmental Economics and Climate Change - Leistung
+
+- **Campo-Segment:** `exam:15869692`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15869691|exam:15869692>
+
+### 81611 Sustainable Finance - Leistung
+
+- **Campo-Segment:** `exam:15869786`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:15869760|exam:15869786>
+
+### 81611 Sustainable Finance - Leistung
+
+- **Campo-Segment:** `exam:15869769`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15522124|exam:15869743|exam:15869769>
+
+### 81611 Sustainable Finance - Leistung
+
+- **Campo-Segment:** `exam:15869777`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15869751|exam:15869777>
+
+### 81611 Sustainable Finance - Leistung
+
+- **Campo-Segment:** `exam:15869770`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15869747|exam:15869770>
+
+## Veranstaltungen (435)
 
 ### Current Issues in Sustainability Management - Seminar
 
@@ -229,70 +736,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 11:30–13:00 | 15.04.2026–15.07.2026 | 21102.02.429 ((27 Plätze – nicht für studentische Veranstaltungen)) |
-
-### Die Nation fühlen: Kultur, politische Emotionen und Nationalismus in den Golfmonarchien - Proseminar
-
-- **Segment:** `exam:15723731` · **unitId:** `134586`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:15521842|exam:15723731>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134586&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 00501.00.024 (KH 0.024 Kollegienhaus - Belegung ausschließlich durch das Institut Politische Wissenschaft) |
-
-### Die Nation fühlen: Kultur, politische Emotionen und Nationalismus in den Golfmonarchien - Proseminar
-
-- **Segment:** `exam:15723715` · **unitId:** `134586`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15522124|exam:15522238|exam:15723715>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134586&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 00501.00.024 (KH 0.024 Kollegienhaus - Belegung ausschließlich durch das Institut Politische Wissenschaft) |
-
-### Die Nation fühlen: Kultur, politische Emotionen und Nationalismus in den Golfmonarchien - Proseminar
-
-- **Segment:** `exam:15723719` · **unitId:** `134586`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15524108|exam:15723719>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134586&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 00501.00.024 (KH 0.024 Kollegienhaus - Belegung ausschließlich durch das Institut Politische Wissenschaft) |
-
-### Die Nation fühlen: Kultur, politische Emotionen und Nationalismus in den Golfmonarchien - Proseminar
-
-- **Segment:** `exam:15723732` · **unitId:** `134586`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15525741|exam:15723732>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134586&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 00501.00.024 (KH 0.024 Kollegienhaus - Belegung ausschließlich durch das Institut Politische Wissenschaft) |
 
 ### Economic History and Development of Europe and the Middle East - Masterseminar
 
@@ -402,373 +845,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Mo | 13:00–14:00 | 13.04.2026 | 05902.00.005 ( 00.5 PSG) |
 | Blockveranstaltung+Sa | — | 09:00–18:00 | 22.05.2026–23.05.2026 | 05902.00.003 ( 00.3 PSG) |
 
-### Environmental Economics and Climate Change - Seminar
-
-- **Segment:** `exam:15907563` · **unitId:** `133916`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:15869683|exam:15907563>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133916&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 09:15–10:45 | 09.06.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Mi | 09:15–10:45 | 10.06.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Mi | 11:15–12:45 | 10.06.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Do | 09:15–10:45 | 11.06.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Do | 11:15–12:45 | 11.06.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Di | 09:15–10:45 | 16.06.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Mi | 09:15–10:45 | 17.06.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Do | 09:15–10:45 | 18.06.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Do | 11:15–12:45 | 18.06.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Fr | 09:15–10:45 | 19.06.2026 | 05901.01.055 ( 01.055) |
-
-### Environmental Economics and Climate Change - Seminar
-
-- **Segment:** `exam:15907561` · **unitId:** `133916`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15522124|exam:15869657|exam:15907561>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133916&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 09:15–10:45 | 09.06.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Mi | 09:15–10:45 | 10.06.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Mi | 11:15–12:45 | 10.06.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Do | 09:15–10:45 | 11.06.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Do | 11:15–12:45 | 11.06.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Di | 09:15–10:45 | 16.06.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Mi | 09:15–10:45 | 17.06.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Do | 09:15–10:45 | 18.06.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Do | 11:15–12:45 | 18.06.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Fr | 09:15–10:45 | 19.06.2026 | 05901.01.055 ( 01.055) |
-
-### Environmental Economics and Climate Change - Seminar
-
-- **Segment:** `exam:15907562` · **unitId:** `133916`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15869665|exam:15907562>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133916&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 09:15–10:45 | 09.06.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Mi | 09:15–10:45 | 10.06.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Mi | 11:15–12:45 | 10.06.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Do | 09:15–10:45 | 11.06.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Do | 11:15–12:45 | 11.06.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Di | 09:15–10:45 | 16.06.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Mi | 09:15–10:45 | 17.06.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Do | 09:15–10:45 | 18.06.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Do | 11:15–12:45 | 18.06.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Fr | 09:15–10:45 | 19.06.2026 | 05901.01.055 ( 01.055) |
-
-### Environmental Economics and Climate Change - Seminar
-
-- **Segment:** `exam:15907564` · **unitId:** `133916`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15869691|exam:15907564>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133916&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 09:15–10:45 | 09.06.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Mi | 09:15–10:45 | 10.06.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Mi | 11:15–12:45 | 10.06.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Do | 09:15–10:45 | 11.06.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Do | 11:15–12:45 | 11.06.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Di | 09:15–10:45 | 16.06.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Mi | 09:15–10:45 | 17.06.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Do | 09:15–10:45 | 18.06.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Do | 11:15–12:45 | 18.06.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Fr | 09:15–10:45 | 19.06.2026 | 05901.01.055 ( 01.055) |
-
-### European critical materials supply chains - Seminar
-
-- **Segment:** `exam:15912826` · **unitId:** `130250`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523928|exam:15912823|exam:15912826>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130250&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 08:00–09:30 | 15.04.2026–15.07.2026 | 21101.03.155 (LG 3.155 (24 Plätze) Seminarraum) |
-
-### European critical materials supply chains - Seminar
-
-- **Segment:** `exam:15912842` · **unitId:** `130250`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15912839|exam:15912842>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130250&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 08:00–09:30 | 15.04.2026–15.07.2026 | 21101.03.155 (LG 3.155 (24 Plätze) Seminarraum) |
-
-### European critical materials supply chains - Seminar
-
-- **Segment:** `exam:15912858` · **unitId:** `130250`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15912855|exam:15912858>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130250&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 08:00–09:30 | 15.04.2026–15.07.2026 | 21101.03.155 (LG 3.155 (24 Plätze) Seminarraum) |
-
-### Human Rights Practice in Contested Times and Spaces - Seminar
-
-- **Segment:** `exam:15719721` · **unitId:** `134424`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:15521898|exam:15719721>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134424&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 11:15–13:00 | 16.04.2026–16.07.2026 | 20201.02.214 |
-
-### Human Rights Practice in Contested Times and Spaces - Seminar
-
-- **Segment:** `exam:15719695` · **unitId:** `134424`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:15521908|exam:15719695>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134424&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 11:15–13:00 | 16.04.2026–16.07.2026 | 20201.02.214 |
-
-### Human Rights Practice in Contested Times and Spaces - Seminar
-
-- **Segment:** `exam:15719705` · **unitId:** `134424`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15522124|exam:15522149|exam:15719705>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134424&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 11:15–13:00 | 16.04.2026–16.07.2026 | 20201.02.214 |
-
-### Human Rights Practice in Contested Times and Spaces - Seminar
-
-- **Segment:** `exam:15719679` · **unitId:** `134424`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15522124|exam:15522159|exam:15719679>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134424&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 11:15–13:00 | 16.04.2026–16.07.2026 | 20201.02.214 |
-
-### Human Rights Practice in Contested Times and Spaces - Seminar
-
-- **Segment:** `exam:15719709` · **unitId:** `134424`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15524022|exam:15719709>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134424&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 11:15–13:00 | 16.04.2026–16.07.2026 | 20201.02.214 |
-
-### Human Rights Practice in Contested Times and Spaces - Seminar
-
-- **Segment:** `exam:15719683` · **unitId:** `134424`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15524032|exam:15719683>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134424&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 11:15–13:00 | 16.04.2026–16.07.2026 | 20201.02.214 |
-
-### Human Rights Practice in Contested Times and Spaces - Seminar
-
-- **Segment:** `exam:15719722` · **unitId:** `134424`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15525797|exam:15719722>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134424&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 11:15–13:00 | 16.04.2026–16.07.2026 | 20201.02.214 |
-
-### Human Rights Practice in Contested Times and Spaces - Seminar
-
-- **Segment:** `exam:15719696` · **unitId:** `134424`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15525807|exam:15719696>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134424&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 11:15–13:00 | 16.04.2026–16.07.2026 | 20201.02.214 |
-
-### Innen- und außenpolitische Herausforderungen der Südafrikanischen Union - Proseminar
-
-- **Segment:** `exam:15705792` · **unitId:** `134030`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:15521842|exam:15705792>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134030&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 18:15–19:15 | 14.04.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Fr | 09:15–16:45 | 12.06.2026 | 05902.00.003 ( 00.3 PSG) |
-| Einzeltermin | Sa | 09:15–16:45 | 13.06.2026 | 05902.00.003 ( 00.3 PSG) |
-| Einzeltermin | So | 09:15–16:45 | 14.06.2026 | 05902.00.003 ( 00.3 PSG) |
-
-### Innen- und außenpolitische Herausforderungen der Südafrikanischen Union - Proseminar
-
-- **Segment:** `exam:15705776` · **unitId:** `134030`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15522124|exam:15522238|exam:15705776>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134030&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 18:15–19:15 | 14.04.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Fr | 09:15–16:45 | 12.06.2026 | 05902.00.003 ( 00.3 PSG) |
-| Einzeltermin | Sa | 09:15–16:45 | 13.06.2026 | 05902.00.003 ( 00.3 PSG) |
-| Einzeltermin | So | 09:15–16:45 | 14.06.2026 | 05902.00.003 ( 00.3 PSG) |
-
-### Innen- und außenpolitische Herausforderungen der Südafrikanischen Union - Proseminar
-
-- **Segment:** `exam:15705780` · **unitId:** `134030`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15524108|exam:15705780>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134030&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 18:15–19:15 | 14.04.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Fr | 09:15–16:45 | 12.06.2026 | 05902.00.003 ( 00.3 PSG) |
-| Einzeltermin | Sa | 09:15–16:45 | 13.06.2026 | 05902.00.003 ( 00.3 PSG) |
-| Einzeltermin | So | 09:15–16:45 | 14.06.2026 | 05902.00.003 ( 00.3 PSG) |
-
-### Innen- und außenpolitische Herausforderungen der Südafrikanischen Union - Proseminar
-
-- **Segment:** `exam:15705793` · **unitId:** `134030`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15525741|exam:15705793>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134030&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 18:15–19:15 | 14.04.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Fr | 09:15–16:45 | 12.06.2026 | 05902.00.003 ( 00.3 PSG) |
-| Einzeltermin | Sa | 09:15–16:45 | 13.06.2026 | 05902.00.003 ( 00.3 PSG) |
-| Einzeltermin | So | 09:15–16:45 | 14.06.2026 | 05902.00.003 ( 00.3 PSG) |
-
 ### International Marketing - Vorlesung
 
 - **Segment:** `exam:15912893` · **unitId:** `83068`
@@ -777,6 +853,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
 
 ### International Migration - Masterseminar
@@ -1181,7 +1258,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 13:15–14:45 | 17.04.2026 | 21101.00.144 (LG 0.144 (38 Plätze) Übungsraum) |
+| Einzeltermin | Fr | 09:00–18:00 | 10.07.2026 | 21102.01.420 (LG H5 TeamBank-Hörsaal (384 Plätze)) |
 
 ### Ma-Sem: Issues in Global Governance - Seminar
 
@@ -1191,7 +1276,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 13:15–14:45 | 17.04.2026 | 21101.00.144 (LG 0.144 (38 Plätze) Übungsraum) |
+| Einzeltermin | Fr | 09:00–18:00 | 10.07.2026 | 21102.01.420 (LG H5 TeamBank-Hörsaal (384 Plätze)) |
 
 ### Ma-Vorl: International Trade & Labor - Vorlesung
 
@@ -1361,134 +1454,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 16:45–18:15 | 14.04.2026–14.07.2026 | 21102.01.421 (LG H6 BISSANTZ-Hörsaal (240 Plätze)) |
-
-### Migration and Human Rights - Masterseminar
-
-- **Segment:** `exam:15770767` · **unitId:** `135064`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:15521898|exam:15770767>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135064&periodId=589>
-
-- **Veranstaltungsart:** Masterseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 20201.02.214 |
-
-### Migration and Human Rights - Masterseminar
-
-- **Segment:** `exam:15770994` · **unitId:** `135064`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:15521908|exam:15770994>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135064&periodId=589>
-
-- **Veranstaltungsart:** Masterseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 20201.02.214 |
-
-### Migration and Human Rights - Masterseminar
-
-- **Segment:** `exam:15770751` · **unitId:** `135064`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15522124|exam:15522149|exam:15770751>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135064&periodId=589>
-
-- **Veranstaltungsart:** Masterseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 20201.02.214 |
-
-### Migration and Human Rights - Masterseminar
-
-- **Segment:** `exam:15770978` · **unitId:** `135064`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15522124|exam:15522159|exam:15770978>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135064&periodId=589>
-
-- **Veranstaltungsart:** Masterseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 20201.02.214 |
-
-### Migration and Human Rights - Masterseminar
-
-- **Segment:** `exam:15770755` · **unitId:** `135064`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15524022|exam:15770755>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135064&periodId=589>
-
-- **Veranstaltungsart:** Masterseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 20201.02.214 |
-
-### Migration and Human Rights - Masterseminar
-
-- **Segment:** `exam:15770982` · **unitId:** `135064`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15524032|exam:15770982>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135064&periodId=589>
-
-- **Veranstaltungsart:** Masterseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 20201.02.214 |
-
-### Migration and Human Rights - Masterseminar
-
-- **Segment:** `exam:15770768` · **unitId:** `135064`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15525797|exam:15770768>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135064&periodId=589>
-
-- **Veranstaltungsart:** Masterseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 20201.02.214 |
-
-### Migration and Human Rights - Masterseminar
-
-- **Segment:** `exam:15770995` · **unitId:** `135064`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15525807|exam:15770995>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135064&periodId=589>
-
-- **Veranstaltungsart:** Masterseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 20201.02.214 |
 
 ### Multivariate Time Series Analysis - Vorlesung
 
@@ -1822,70 +1787,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Mo | 15:00–16:30 | 13.07.2026 | 21101.01.213 (LG H4 (814 Plätze) Hörsaal) |
 | Einzeltermin | Mo | 15:00–18:15 | 13.07.2026 | 21101.01.112 (LG H1 (446 Plätze) Hörsaal) |
 
-### Regionalismus in Ost- und Südostasien: Die ASEAN im Kontext geopolitischer Rivalitäten - Proseminar
-
-- **Segment:** `exam:15716528` · **unitId:** `134397`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:15521842|exam:15716528>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134397&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 05902.00.015 ( 00.15 PSG) |
-
-### Regionalismus in Ost- und Südostasien: Die ASEAN im Kontext geopolitischer Rivalitäten - Proseminar
-
-- **Segment:** `exam:15716512` · **unitId:** `134397`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15522124|exam:15522238|exam:15716512>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134397&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 05902.00.015 ( 00.15 PSG) |
-
-### Regionalismus in Ost- und Südostasien: Die ASEAN im Kontext geopolitischer Rivalitäten - Proseminar
-
-- **Segment:** `exam:15716516` · **unitId:** `134397`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15524108|exam:15716516>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134397&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 05902.00.015 ( 00.15 PSG) |
-
-### Regionalismus in Ost- und Südostasien: Die ASEAN im Kontext geopolitischer Rivalitäten - Proseminar
-
-- **Segment:** `exam:15716529` · **unitId:** `134397`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15525741|exam:15716529>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134397&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 05902.00.015 ( 00.15 PSG) |
-
 ### Research Methods II - Vorlesung mit Übung
 
 - **Segment:** `exam:15522388` · **unitId:** `112351`
@@ -1919,60 +1820,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 13:30–16:00 | 14.04.2026–14.07.2026 | 05901.01.055 ( 01.055) |
-
-### Seminar in Energy and Environmental Economics: Econometric Applications - Seminar
-
-- **Segment:** `exam:15943398` · **unitId:** `128515`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523928|exam:15943396|exam:15943398>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128515&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Do | 13:15–16:30 | 23.04.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
-| Einzeltermin | Fr | 12:00–18:00 | 10.07.2026 | 21101.05.152 (LG 5.152 (24 Plätze) Seminarraum, freitags und samstags nur für Blockveranstaltungen (ab 6 Std.) vorgesehen) |
-
-### Seminar in Energy and Environmental Economics: Econometric Applications - Seminar
-
-- **Segment:** `exam:15912870` · **unitId:** `128515`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15912868|exam:15912870>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128515&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Do | 13:15–16:30 | 23.04.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
-| Einzeltermin | Fr | 12:00–18:00 | 10.07.2026 | 21101.05.152 (LG 5.152 (24 Plätze) Seminarraum, freitags und samstags nur für Blockveranstaltungen (ab 6 Std.) vorgesehen) |
-
-### Seminar in Energy and Environmental Economics: Econometric Applications - Seminar
-
-- **Segment:** `exam:15912882` · **unitId:** `128515`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15912880|exam:15912882>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128515&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Do | 13:15–16:30 | 23.04.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
-| Einzeltermin | Fr | 12:00–18:00 | 10.07.2026 | 21101.05.152 (LG 5.152 (24 Plätze) Seminarraum, freitags und samstags nur für Blockveranstaltungen (ab 6 Std.) vorgesehen) |
 
 ### Seminar Public Economics 1 - Masterseminar
 
@@ -2049,134 +1896,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Mi | 15:00–16:30 | 15.04.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
 | Einzeltermin | Do | 08:00–16:30 | 25.06.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
 | Einzeltermin | Do | 10:00–16:00 | 25.06.2026 | 21101.04.154 ((33 Plätze – nicht für studentische Veranstaltungen)) |
-
-### State-centric and cosmopolitan conceptions of human rights - Hauptseminar / Masterseminar
-
-- **Segment:** `exam:15848465` · **unitId:** `134044`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:15521898|exam:15848465>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134044&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:00–12:00 | 13.04.2026–13.07.2026 | 05801.02.111 ( PSG A 402) |
-
-### State-centric and cosmopolitan conceptions of human rights - Hauptseminar / Masterseminar
-
-- **Segment:** `exam:15848459` · **unitId:** `134044`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:15521908|exam:15848459>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134044&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:00–12:00 | 13.04.2026–13.07.2026 | 05801.02.111 ( PSG A 402) |
-
-### State-centric and cosmopolitan conceptions of human rights - Hauptseminar / Masterseminar
-
-- **Segment:** `exam:15848463` · **unitId:** `134044`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15522124|exam:15522149|exam:15848463>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134044&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:00–12:00 | 13.04.2026–13.07.2026 | 05801.02.111 ( PSG A 402) |
-
-### State-centric and cosmopolitan conceptions of human rights - Hauptseminar / Masterseminar
-
-- **Segment:** `exam:15848457` · **unitId:** `134044`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15522124|exam:15522159|exam:15848457>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134044&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:00–12:00 | 13.04.2026–13.07.2026 | 05801.02.111 ( PSG A 402) |
-
-### State-centric and cosmopolitan conceptions of human rights - Hauptseminar / Masterseminar
-
-- **Segment:** `exam:15848464` · **unitId:** `134044`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15524022|exam:15848464>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134044&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:00–12:00 | 13.04.2026–13.07.2026 | 05801.02.111 ( PSG A 402) |
-
-### State-centric and cosmopolitan conceptions of human rights - Hauptseminar / Masterseminar
-
-- **Segment:** `exam:15848458` · **unitId:** `134044`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15524032|exam:15848458>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134044&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:00–12:00 | 13.04.2026–13.07.2026 | 05801.02.111 ( PSG A 402) |
-
-### State-centric and cosmopolitan conceptions of human rights - Hauptseminar / Masterseminar
-
-- **Segment:** `exam:15848466` · **unitId:** `134044`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15525797|exam:15848466>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134044&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:00–12:00 | 13.04.2026–13.07.2026 | 05801.02.111 ( PSG A 402) |
-
-### State-centric and cosmopolitan conceptions of human rights - Hauptseminar / Masterseminar
-
-- **Segment:** `exam:15848460` · **unitId:** `134044`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15525807|exam:15848460>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134044&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:00–12:00 | 13.04.2026–13.07.2026 | 05801.02.111 ( PSG A 402) |
 
 ### Sustainable Business Development at Siemens - Masterseminar
 
@@ -2258,106 +1977,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Mi | 09:00–12:00 | 20.05.2026 | — |
 | wöchentlich | Do | 13:00–17:00 | 25.06.2026–09.07.2026 | 05901.01.055 ( 01.[Telefon entfernt].05.054 ( 05.054) |
 
-### Sustainable Finance - Seminar
-
-- **Segment:** `exam:15907590` · **unitId:** `133917`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:15869760|exam:15907590>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133917&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 09:15–10:45 | 12.05.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Di | 11:15–12:00 | 12.05.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Mi | 09:15–10:45 | 13.05.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Mi | 11:15–12:00 | 13.05.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Fr | 09:15–10:45 | 15.05.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Di | 09:15–10:45 | 19.05.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Di | 11:15–12:45 | 19.05.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Do | 09:15–10:45 | 21.05.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Do | 11:15–12:45 | 21.05.2026 | 05901.01.055 ( 01.055) |
-
-### Sustainable Finance - Seminar
-
-- **Segment:** `exam:15907573` · **unitId:** `133917`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15522124|exam:15869743|exam:15907573>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133917&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 09:15–10:45 | 12.05.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Di | 11:15–12:00 | 12.05.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Mi | 09:15–10:45 | 13.05.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Mi | 11:15–12:00 | 13.05.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Fr | 09:15–10:45 | 15.05.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Di | 09:15–10:45 | 19.05.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Di | 11:15–12:45 | 19.05.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Do | 09:15–10:45 | 21.05.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Do | 11:15–12:45 | 21.05.2026 | 05901.01.055 ( 01.055) |
-
-### Sustainable Finance - Seminar
-
-- **Segment:** `exam:15907581` · **unitId:** `133917`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15869751|exam:15907581>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133917&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 09:15–10:45 | 12.05.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Di | 11:15–12:00 | 12.05.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Mi | 09:15–10:45 | 13.05.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Mi | 11:15–12:00 | 13.05.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Fr | 09:15–10:45 | 15.05.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Di | 09:15–10:45 | 19.05.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Di | 11:15–12:45 | 19.05.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Do | 09:15–10:45 | 21.05.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Do | 11:15–12:45 | 21.05.2026 | 05901.01.055 ( 01.055) |
-
-### Sustainable Finance - Seminar
-
-- **Segment:** `exam:15907574` · **unitId:** `133917`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15869747|exam:15907574>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133917&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 09:15–10:45 | 12.05.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Di | 11:15–12:00 | 12.05.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Mi | 09:15–10:45 | 13.05.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Mi | 11:15–12:00 | 13.05.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Fr | 09:15–10:45 | 15.05.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Di | 09:15–10:45 | 19.05.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Di | 11:15–12:45 | 19.05.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Do | 09:15–10:45 | 21.05.2026 | 05901.01.055 ( 01.055) |
-| Einzeltermin | Do | 11:15–12:45 | 21.05.2026 | 05901.01.055 ( 01.055) |
-
 ### Technological Impact Entrepreneurship for Sustainable Development - Seminar
 
 - **Segment:** `exam:15907606` · **unitId:** `119036`
@@ -2418,10 +2037,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15913401|exam:15913403>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128317&periodId=589>
 
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -2436,10 +2052,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15913417|exam:15913419>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128317&periodId=589>
 
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -2485,90 +2098,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | wöchentlich | Mo | 13:15–14:45 | 20.04.2026–29.06.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
 | Einzeltermin | Mi | 18:30–20:00 | 22.04.2026 | 21101.00.141 (LG 0.141 (48 Plätze) Übungsraum) |
 | Einzeltermin | Mo | 13:15–14:45 | 13.07.2026 | 21101.00.222 (LG 0.222/3 (94 Plätze) Übungsraum) |
-
-### Zwischen Krieg und Frieden: Sicherheit, Gewalt und illiberale Ordnung in Asien - Proseminar
-
-- **Segment:** `exam:15716317` · **unitId:** `134396`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:15521842|exam:15716317>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134396&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 05902.00.014 ( 00.14 PSG) 05901.01.055 ( 01.055) |
-
-### Zwischen Krieg und Frieden: Sicherheit, Gewalt und illiberale Ordnung in Asien - Proseminar
-
-- **Segment:** `exam:15716301` · **unitId:** `134396`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15522124|exam:15522238|exam:15716301>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134396&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 05902.00.014 ( 00.14 PSG) 05901.01.055 ( 01.055) |
-
-### Zwischen Krieg und Frieden: Sicherheit, Gewalt und illiberale Ordnung in Asien - Proseminar
-
-- **Segment:** `exam:15716305` · **unitId:** `134396`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15524108|exam:15716305>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134396&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 05902.00.014 ( 00.14 PSG) 05901.01.055 ( 01.055) |
-
-### Zwischen Krieg und Frieden: Sicherheit, Gewalt und illiberale Ordnung in Asien - Proseminar
-
-- **Segment:** `exam:15716318` · **unitId:** `134396`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15525741|exam:15716318>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134396&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 05902.00.014 ( 00.14 PSG) 05901.01.055 ( 01.055) |
-
-### Ü: The Economics of Health Behavior - Übung
-
-- **Segment:** `exam:15913404` · **unitId:** `128420`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15913401|exam:15913404>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128420&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
-### Ü: The Economics of Health Behavior - Übung
-
-- **Segment:** `exam:15913420` · **unitId:** `128420`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15913417|exam:15913420>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128420&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
 
 ### Ü: The Economics of Health Insurance - Übung
 
@@ -2757,12 +2286,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:15522362` · **unitId:** `54510`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15522362>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54510&periodId=589>
-
-### 1999 Masterarbeit (M.A. Development Economics and International Studies 20242)
-
-- **Segment:** `exam:15525988` · **unitId:** `124000`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15525988>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124000&periodId=589>
 
 ### 25921 Quantitative methods in energy market modelling (written examination) - Leistung
 
@@ -3070,7 +2593,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:15521889|exam:15521890>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=48623&periodId=589>
 
-- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -3085,7 +2607,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15522124|exam:15522140|exam:15522141>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=48623&periodId=589>
 
-- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -3100,7 +2621,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15524013|exam:15524014>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=48623&periodId=589>
 
-- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -3115,7 +2635,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15525788|exam:15525789>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=48623&periodId=589>
 
-- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -4429,42 +3948,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15525930>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120837&periodId=589>
 
-### 38151 International Aspects of Ecological Economics
-
-- **Segment:** `exam:15522061` · **unitId:** `125103`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:15522061>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125103&periodId=589>
-
-### 38151 International Aspects of Ecological Economics
-
-- **Segment:** `exam:15525958` · **unitId:** `125103`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15525958>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125103&periodId=589>
-
-### 38152 Corruption and Crime in Latin America
-
-- **Segment:** `exam:15522066` · **unitId:** `129064`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:15522066>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=129064&periodId=589>
-
-### 38152 Corruption and Crime in Latin America
-
-- **Segment:** `exam:15525965` · **unitId:** `129064`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15525965>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=129064&periodId=589>
-
-### 38153 International Political Economy of Climate Change
-
-- **Segment:** `exam:15522072` · **unitId:** `133006`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:15522072>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133006&periodId=589>
-
-### 38153 International Political Economy of Climate Change
-
-- **Segment:** `exam:15525971` · **unitId:** `133006`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15525971>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133006&periodId=589>
-
 ### 38155 Developmental Corporate Social Responsibility
 
 - **Segment:** `exam:15521991` · **unitId:** `116422`
@@ -4518,30 +4001,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:15525953` · **unitId:** `123180`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15525953>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123180&periodId=589>
-
-### 38158 Politics of Human Rights
-
-- **Segment:** `exam:15689321` · **unitId:** `133926`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15522124|exam:15689321>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133926&periodId=589>
-
-### 38158 Politics of Human Rights
-
-- **Segment:** `exam:15689329` · **unitId:** `133926`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15689329>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133926&periodId=589>
-
-### 38162 International Trade Law, Development and Global Economic Governance in a Changing World
-
-- **Segment:** `exam:17889463` · **unitId:** `140191`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:17889463>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=140191&periodId=589>
-
-### 38162 International Trade Law, Development and Global Economic Governance in a Changing World
-
-- **Segment:** `exam:17889478` · **unitId:** `140191`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:17889478>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=140191&periodId=589>
 
 ### 38186 Elective Module IV
 
@@ -4825,30 +4284,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15525928>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120466&periodId=589>
 
-### 53202 Game theory
-
-- **Segment:** `exam:17857692` · **unitId:** `139706`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:17857692>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139706&periodId=589>
-
-### 53202 Game theory
-
-- **Segment:** `exam:17857677` · **unitId:** `139706`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15522124|exam:17857677>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139706&periodId=589>
-
-### 53202 Game theory
-
-- **Segment:** `exam:17857667` · **unitId:** `139706`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:17857667>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139706&periodId=589>
-
-### 53202 Game theory
-
-- **Segment:** `exam:17857682` · **unitId:** `139706`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:17857682>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139706&periodId=589>
-
 ### 53231 Mathematics for economists
 
 - **Segment:** `exam:15521920` · **unitId:** `111084`
@@ -4977,30 +4412,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | Mi | Mi | — | — | — |
 
-### 57428 Branchen- und themenspezifisches Nachhaltigkeitsmanagement
-
-- **Segment:** `exam:17859081` · **unitId:** `139725`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:17859081>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139725&periodId=589>
-
-### 57428 Branchen- und themenspezifisches Nachhaltigkeitsmanagement
-
-- **Segment:** `exam:17859096` · **unitId:** `139725`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15522124|exam:17859096>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139725&periodId=589>
-
-### 57428 Branchen- und themenspezifisches Nachhaltigkeitsmanagement
-
-- **Segment:** `exam:17859086` · **unitId:** `139725`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:17859086>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139725&periodId=589>
-
-### 57428 Branchen- und themenspezifisches Nachhaltigkeitsmanagement
-
-- **Segment:** `exam:17859101` · **unitId:** `139725`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:17859101>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139725&periodId=589>
-
 ### 57463 Business and Human Rights in Latin America
 
 - **Segment:** `exam:15522063` · **unitId:** `126089`
@@ -5036,54 +4447,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:15525962` · **unitId:** `126089`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15525962>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126089&periodId=589>
-
-### 57484 Between the Global and the Local: Sustainability in Practice
-
-- **Segment:** `exam:15522077` · **unitId:** `133668`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:15522077>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133668&periodId=589>
-
-### 57484 Between the Global and the Local: Sustainability in Practice
-
-- **Segment:** `exam:15522350` · **unitId:** `133668`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15522124|exam:15522350>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133668&periodId=589>
-
-### 57484 Between the Global and the Local: Sustainability in Practice
-
-- **Segment:** `exam:15524220` · **unitId:** `133668`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15524220>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133668&periodId=589>
-
-### 57484 Between the Global and the Local: Sustainability in Practice
-
-- **Segment:** `exam:15525976` · **unitId:** `133668`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15525976>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133668&periodId=589>
-
-### 57485 Project course: Building sustainable industry in Europe
-
-- **Segment:** `exam:15521839` · **unitId:** `124887`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:15521839>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124887&periodId=589>
-
-### 57485 Project course: Building sustainable industry in Europe
-
-- **Segment:** `exam:15522335` · **unitId:** `124887`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15522124|exam:15522335>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124887&periodId=589>
-
-### 57485 Project course: Building sustainable industry in Europe
-
-- **Segment:** `exam:15524205` · **unitId:** `124887`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15524205>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124887&periodId=589>
-
-### 57485 Project course: Building sustainable industry in Europe
-
-- **Segment:** `exam:15525738` · **unitId:** `124887`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15525738>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124887&periodId=589>
 
 ### 57486 Energy policy instruments
 
@@ -6118,7 +5481,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15913401|exam:15913402>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127653&periodId=589>
 
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -6133,7 +5495,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15913417|exam:15913418>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127653&periodId=589>
 
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -6201,156 +5562,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### 74961 Critical approach to international economic relations - lessons from sustainability  - Leistung
-
-- **Segment:** `exam:15522076` · **unitId:** `132066`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:15522075|exam:15522076>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132066&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 74961 Critical approach to international economic relations - lessons from sustainability  - Leistung
-
-- **Segment:** `exam:15522349` · **unitId:** `132066`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15522124|exam:15522348|exam:15522349>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132066&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 74961 Critical approach to international economic relations - lessons from sustainability  - Leistung
-
-- **Segment:** `exam:15524219` · **unitId:** `132066`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15524218|exam:15524219>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132066&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 74961 Critical approach to international economic relations - lessons from sustainability  - Leistung
-
-- **Segment:** `exam:15525975` · **unitId:** `132066`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15525974|exam:15525975>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132066&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 74991 European critical materials supply chains - Leistung
-
-- **Segment:** `exam:15912824` · **unitId:** `132076`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523928|exam:15912823|exam:15912824>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132076&periodId=589>
-
-- **ECTS-Punkte:** 3.3
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | — | — | — |
-
-### 74991 European critical materials supply chains - Leistung
-
-- **Segment:** `exam:15912840` · **unitId:** `132076`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15912839|exam:15912840>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132076&periodId=589>
-
-- **ECTS-Punkte:** 3.3
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | — | — | — |
-
-### 74991 European critical materials supply chains - Leistung
-
-- **Segment:** `exam:15912856` · **unitId:** `132076`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15912855|exam:15912856>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132076&periodId=589>
-
-- **ECTS-Punkte:** 3.3
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | — | — | — |
-
-### 74992 European critical materials supply chains (Presentation) - Leistung
-
-- **Segment:** `exam:15912825` · **unitId:** `132077`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523928|exam:15912823|exam:15912825>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132077&periodId=589>
-
-- **ECTS-Punkte:** 1.7
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | — | — | — |
-
-### 74992 European critical materials supply chains (Presentation) - Leistung
-
-- **Segment:** `exam:15912841` · **unitId:** `132077`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15912839|exam:15912841>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132077&periodId=589>
-
-- **ECTS-Punkte:** 1.7
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | — | — | — |
-
-### 74992 European critical materials supply chains (Presentation) - Leistung
-
-- **Segment:** `exam:15912857` · **unitId:** `132077`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15912855|exam:15912857>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132077&periodId=589>
-
-- **ECTS-Punkte:** 1.7
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | — | — | — |
 
 ### 78141 Politics & Economy - Leistung
 
@@ -6802,126 +6013,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### 81591 Environmental Economics and Climate Change - Leistung
-
-- **Segment:** `exam:15869684` · **unitId:** `136021`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:15869683|exam:15869684>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136021&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 81591 Environmental Economics and Climate Change - Leistung
-
-- **Segment:** `exam:15869658` · **unitId:** `136021`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15522124|exam:15869657|exam:15869658>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136021&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 81591 Environmental Economics and Climate Change - Leistung
-
-- **Segment:** `exam:15869666` · **unitId:** `136021`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15869665|exam:15869666>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136021&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 81591 Environmental Economics and Climate Change - Leistung
-
-- **Segment:** `exam:15869692` · **unitId:** `136021`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15869691|exam:15869692>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136021&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 81611 Sustainable Finance - Leistung
-
-- **Segment:** `exam:15869786` · **unitId:** `136026`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15520336|exam:15869760|exam:15869786>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136026&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 81611 Sustainable Finance - Leistung
-
-- **Segment:** `exam:15869769` · **unitId:** `136026`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15520333|exam:15520334|exam:15520335|exam:15522124|exam:15869743|exam:15869769>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136026&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 81611 Sustainable Finance - Leistung
-
-- **Segment:** `exam:15869777` · **unitId:** `136026`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15523997|exam:15869751|exam:15869777>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136026&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 81611 Sustainable Finance - Leistung
-
-- **Segment:** `exam:15869770` · **unitId:** `136026`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18285|exam:15523925|exam:15523926|exam:15523927|exam:15524235|exam:15869747|exam:15869770>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136026&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
 ### 81811 Elective Module III - Leistung
 
 - **Segment:** `exam:15522224` · **unitId:** `49943`
@@ -7268,7 +6359,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mi | 11:30–13:00 | 15.04.2026–15.07.2026 | 21102.01.421 (LG H6 BISSANTZ-Hörsaal (240 Plätze)) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (62)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (63)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -7360,6 +6451,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
+
+### Critical approaches to international economic relations - lessons from sustainability — Vorlesung
+
+- **Segment:** `unit:130242` · **unitId:** `130242`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130242&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Wintersemester
 
 ### Data Science — Seminar
 

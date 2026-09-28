@@ -745,6 +745,18 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mi | 08:00–13:00 | 15.10.2025–04.02.2026 | — |
 
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (1)
+
+_Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
+
+### Konfessionelle Kooperation im Religionsunterricht — Praxisseminar
+
+- **Segment:** `unit:94284` · **unitId:** `94284`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94284&periodId=565>
+
+- **Veranstaltungsart:** Praxisseminar
+- **Turnus:** Unregelmäßig
+
 ## Lehramts-Prüfungsordnungen
 
 - [LA Katholische Religionslehre 20210415 ÄS.pdf](../pruefungsordnungen/lehramt/lehramtsfaecher/la-katholische-religionslehre-20210415-aes.md)

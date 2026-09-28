@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:17968"
 campo_path: "title:17593|title:17601|title:17968"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968"
-po_version_count: 3
-course_count: 1119
+po_version_count: 48
+course_count: 1074
 fau_studiengang:
   - title: "Energietechnik (B.Sc.)"
     rel_path: "studiengang/energietechnik-b-sc.md"
@@ -369,7 +369,17 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (3)
+## Prüfungsordnungs-Versionen (48)
+
+### Practicals Materials Simulation - Praktikum
+
+- **Campo-Segment:** `exam:14765215`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14765038|exam:14765039|exam:14765040|exam:14765041|exam:14765208|exam:14765215>
+
+### Practicals Materials Simulation - Praktikum
+
+- **Campo-Segment:** `exam:14768925`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14768848|exam:14768918|exam:14768925>
 
 ### 1812 Wahlpflichtmodul Materialwissenschaften und Werkstofftechnik (MWT3)
 
@@ -386,7 +396,222 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Campo-Segment:** `exam:14770859`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14770857|exam:14770858|exam:14770859>
 
-## Veranstaltungen (1119)
+### 30421 Energieinformatik und Smart Grids - Leistung
+
+- **Campo-Segment:** `exam:15839977`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14768848|exam:15839976|exam:15839977>
+
+### 34641 Laborpraktikum Hochspannungstechnische Anwendungen - Leistung
+
+- **Campo-Segment:** `exam:15693869`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14761109|exam:14761110|exam:14761111|exam:14763016|exam:15693868|exam:15693869>
+
+### 34641 Laborpraktikum Hochspannungstechnische Anwendungen - Leistung
+
+- **Campo-Segment:** `exam:15693871`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14765038|exam:14765039|exam:14765040|exam:14766822|exam:15693870|exam:15693871>
+
+### 34641 Laborpraktikum Hochspannungstechnische Anwendungen - Leistung
+
+- **Campo-Segment:** `exam:15693873`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14770649|exam:15693872|exam:15693873>
+
+### 43463 Hochspannungstechnische Anwendungen
+
+- **Campo-Segment:** `exam:15693718`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14761109|exam:14761110|exam:14761111|exam:14763090|exam:14763091|exam:15693718>
+
+### 43463 Hochspannungstechnische Anwendungen
+
+- **Campo-Segment:** `exam:15693720`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14765038|exam:14765039|exam:14765040|exam:14766896|exam:14766897|exam:15693720>
+
+### 43463 Hochspannungstechnische Anwendungen
+
+- **Campo-Segment:** `exam:15693722`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14770723|exam:14770724|exam:15693722>
+
+### 45345 Lab course in clean combustion technology
+
+- **Campo-Segment:** `exam:14763081`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14761109|exam:14761110|exam:14761111|exam:14763016|exam:14763081>
+
+### 45345 Lab course in clean combustion technology
+
+- **Campo-Segment:** `exam:14766887`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14765038|exam:14765039|exam:14765040|exam:14766822|exam:14766887>
+
+### 45345 Lab course in clean combustion technology
+
+- **Campo-Segment:** `exam:14770714`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14770649|exam:14770714>
+
+### 45346 Praktikum Fluid-Feststoff-Strömungen
+
+- **Campo-Segment:** `exam:14763083`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14761109|exam:14761110|exam:14761111|exam:14763016|exam:14763083>
+
+### 45346 Praktikum Fluid-Feststoff-Strömungen
+
+- **Campo-Segment:** `exam:14766889`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14765038|exam:14765039|exam:14765040|exam:14766822|exam:14766889>
+
+### 45346 Praktikum Fluid-Feststoff-Strömungen
+
+- **Campo-Segment:** `exam:14770716`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14770649|exam:14770716>
+
+### 68800 Grundlagen der Geowissenschaften I
+
+- **Campo-Segment:** `exam:14769060`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14768848|exam:14769060>
+
+### 68810 Minerale und Gesteine
+
+- **Campo-Segment:** `exam:14769063`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14768848|exam:14769063>
+
+### 92558 Seminar über ausgewählte Aspekte der technischen Entwicklungszusammenarbeit auf dem Gebiet der elektrischen Energieversorgung
+
+- **Campo-Segment:** `exam:15908376`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14754536|exam:14754538|exam:14754540|exam:14754581|exam:14756085|exam:15908376>
+
+### 92558 Seminar über ausgewählte Aspekte der technischen Entwicklungszusammenarbeit auf dem Gebiet der elektrischen Energieversorgung
+
+- **Campo-Segment:** `exam:15908365`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14754536|exam:14754538|exam:14754540|exam:14754581|exam:14756119|exam:15908365>
+
+### 92558 Seminar über ausgewählte Aspekte der technischen Entwicklungszusammenarbeit auf dem Gebiet der elektrischen Energieversorgung
+
+- **Campo-Segment:** `exam:15908366`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14757841|exam:14757843|exam:14757845|exam:14759471|exam:15908366>
+
+### 92558 Seminar über ausgewählte Aspekte der technischen Entwicklungszusammenarbeit auf dem Gebiet der elektrischen Energieversorgung
+
+- **Campo-Segment:** `exam:15908426`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14761109|exam:14761110|exam:14761111|exam:14762956|exam:15908426>
+
+### 92558 Seminar über ausgewählte Aspekte der technischen Entwicklungszusammenarbeit auf dem Gebiet der elektrischen Energieversorgung
+
+- **Campo-Segment:** `exam:15908427`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14765038|exam:14765039|exam:14765040|exam:14766762|exam:15908427>
+
+### 92558 Seminar über ausgewählte Aspekte der technischen Entwicklungszusammenarbeit auf dem Gebiet der elektrischen Energieversorgung
+
+- **Campo-Segment:** `exam:15908428`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14770589|exam:15908428>
+
+### 96113 Technological Impact Entrepreneurship for Sustainable Development
+
+- **Campo-Segment:** `exam:15778006`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14754536|exam:14754538|exam:14754540|exam:14754581|exam:14756119|exam:15778006>
+
+### 96113 Technological Impact Entrepreneurship for Sustainable Development
+
+- **Campo-Segment:** `exam:15778008`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14757841|exam:14757843|exam:14757845|exam:14759471|exam:15778008>
+
+### 96113 Technological Impact Entrepreneurship for Sustainable Development
+
+- **Campo-Segment:** `exam:15777960`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14761109|exam:14761110|exam:14761111|exam:14762956|exam:15777960>
+
+### 96113 Technological Impact Entrepreneurship for Sustainable Development
+
+- **Campo-Segment:** `exam:15777962`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14765038|exam:14765039|exam:14765040|exam:14766762|exam:15777962>
+
+### 96113 Technological Impact Entrepreneurship for Sustainable Development
+
+- **Campo-Segment:** `exam:15777964`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14770589|exam:15777964>
+
+### 97059 Materials for Electrochemical Energy Conversion and Storage (with exercise)
+
+- **Campo-Segment:** `exam:14763202`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14761109|exam:14761110|exam:14761111|exam:14763090|exam:14763173|exam:14763202>
+
+### 97059 Materials for Electrochemical Energy Conversion and Storage (with exercise)
+
+- **Campo-Segment:** `exam:14767008`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14765038|exam:14765039|exam:14765040|exam:14766896|exam:14766979|exam:14767008>
+
+### 97059 Materials for Electrochemical Energy Conversion and Storage (with exercise)
+
+- **Campo-Segment:** `exam:14770835`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14770723|exam:14770806|exam:14770835>
+
+### 97062 Batteriespeichersysteme
+
+- **Campo-Segment:** `exam:14763205`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14761109|exam:14761110|exam:14761111|exam:14763090|exam:14763173|exam:14763205>
+
+### 97062 Batteriespeichersysteme
+
+- **Campo-Segment:** `exam:14767011`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14765038|exam:14765039|exam:14765040|exam:14766896|exam:14766979|exam:14767011>
+
+### 97062 Batteriespeichersysteme
+
+- **Campo-Segment:** `exam:14770838`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14770723|exam:14770806|exam:14770838>
+
+### 97077 Hydrogen for the Energy Transition
+
+- **Campo-Segment:** `exam:14763210`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14761109|exam:14761110|exam:14761111|exam:14763090|exam:14763173|exam:14763210>
+
+### 97077 Hydrogen for the Energy Transition
+
+- **Campo-Segment:** `exam:14767016`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14765038|exam:14765039|exam:14765040|exam:14766896|exam:14766979|exam:14767016>
+
+### 97077 Hydrogen for the Energy Transition
+
+- **Campo-Segment:** `exam:14770843`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14770723|exam:14770806|exam:14770843>
+
+### EISG - Energy Informatics and Smart Grids - Vorlesung
+
+- **Campo-Segment:** `exam:15839978`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14768848|exam:15839976|exam:15839978>
+
+### EISG-Ex - Energy Informatics and Smart Grids Exercises - Übung
+
+- **Campo-Segment:** `exam:15839979`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14768848|exam:15839976|exam:15839979>
+
+### PR HTAW - Praktikum Hochspannungstechnische Anwendungen - Praktikum
+
+- **Campo-Segment:** `exam:15694103`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14761109|exam:14761110|exam:14761111|exam:14763016|exam:15693868|exam:15694103>
+
+### PR HTAW - Praktikum Hochspannungstechnische Anwendungen - Praktikum
+
+- **Campo-Segment:** `exam:15694104`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14765038|exam:14765039|exam:14765040|exam:14766822|exam:15693870|exam:15694104>
+
+### PR HTAW - Praktikum Hochspannungstechnische Anwendungen - Praktikum
+
+- **Campo-Segment:** `exam:15694105`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14770649|exam:15693872|exam:15694105>
+
+### PTMT - OL - Prozess- und Temperaturmesstechnik - Online - Online-Kurs
+
+- **Campo-Segment:** `exam:15773002`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14761109|exam:14761110|exam:14761111|exam:14761112|exam:14761324|exam:15773002>
+
+### T I  - Turbulence I  - Vorlesung
+
+- **Campo-Segment:** `exam:15860737`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14761109|exam:14761110|exam:14761111|exam:14761112|exam:14761376|exam:15860737>
+
+### T I  - Turbulence I  - Vorlesung
+
+- **Campo-Segment:** `exam:15860738`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14768848|exam:14769086|exam:15860738>
+
+## Veranstaltungen (1074)
 
 ### Astronomisches Praktikum (Bachelor Physik) - Praktikum
 
@@ -1025,24 +1250,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:00–18:00 | 13.04.2026–13.07.2026 | — |
 | wöchentlich | Mi | 14:00–18:00 | 15.04.2026–15.07.2026 | — |
-
-### Practicals Materials Simulation - Praktikum
-
-- **Segment:** `exam:14765215` · **unitId:** `129348`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14765038|exam:14765039|exam:14765040|exam:14765041|exam:14765208|exam:14765215>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=129348&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **Turnus:** in jedem Semester
-
-### Practicals Materials Simulation - Praktikum
-
-- **Segment:** `exam:14768925` · **unitId:** `129348`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14768848|exam:14768918|exam:14768925>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=129348&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **Turnus:** in jedem Semester
 
 ### Quantitative Methods in Energy Market Modelling - Vorlesung mit Übung
 
@@ -2229,7 +2436,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | Di | 11:00–12:30 | — | 11906.01.030 (H21) 11906.01.040 (H20) 11907.01.030 (H19) 11907.01.040 (H18) |
+| Di | Di | 11:00–12:30 | — | — |
 
 ### 25701 Grundlagen der Elektrotechnik II - Leistung
 
@@ -2244,7 +2451,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | Di | 11:00–12:30 | — | 11906.01.030 (H21) 11906.01.040 (H20) 11907.01.030 (H19) 11907.01.040 (H18) |
+| Di | Di | 11:00–12:30 | — | — |
 
 ### 25901 Halbleiterbauelemente - Leistung
 
@@ -2806,7 +3013,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | 09:00–09:45 | — | — |
+| Do | Do | 09:00–09:45 | — | 11401.00.116 (H14 Bernhard-Ilschner-Hörsaal (0.61)) |
 
 ### 29061 Photovoltaic systems - Fundamentals - Leistung
 
@@ -2821,7 +3028,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | 09:00–09:45 | — | — |
+| Do | Do | 09:00–09:45 | — | 11401.00.116 (H14 Bernhard-Ilschner-Hörsaal (0.61)) |
 
 ### 29181 Fuel cells and electrolysers - Leistung
 
@@ -2850,7 +3057,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | Di | 14:00–15:30 | — | 11906.01.040 (H20) 11907.01.030 (H19) 11907.01.040 (H18) |
+| Di | Di | 14:00–15:30 | — | — |
 
 ### 29241 Electrical energy storage systems - Leistung
 
@@ -2865,7 +3072,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | Di | 14:00–15:30 | — | 11906.01.040 (H20) 11907.01.030 (H19) 11907.01.040 (H18) |
+| Di | Di | 14:00–15:30 | — | — |
 
 ### 29351 Optical diagnostics in energy and process engineering - Leistung
 
@@ -2911,21 +3118,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### 30421 Energieinformatik und Smart Grids - Leistung
-
-- **Segment:** `exam:15839977` · **unitId:** `133579`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14768848|exam:15839976|exam:15839977>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133579&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | 08:00–09:30 | — | 11906.01.030 (H21) |
 
 ### 30611 Grundlagen der Informatik - Leistung
 
@@ -3076,51 +3268,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### 34641 Laborpraktikum Hochspannungstechnische Anwendungen - Leistung
-
-- **Segment:** `exam:15693869` · **unitId:** `134075`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14761109|exam:14761110|exam:14761111|exam:14763016|exam:15693868|exam:15693869>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134075&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | 09:00–11:00 | — | 12101.00.135 (EE 0.135 Seminarraum) |
-
-### 34641 Laborpraktikum Hochspannungstechnische Anwendungen - Leistung
-
-- **Segment:** `exam:15693871` · **unitId:** `134075`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14765038|exam:14765039|exam:14765040|exam:14766822|exam:15693870|exam:15693871>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134075&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | 09:00–11:00 | — | 12101.00.135 (EE 0.135 Seminarraum) |
-
-### 34641 Laborpraktikum Hochspannungstechnische Anwendungen - Leistung
-
-- **Segment:** `exam:15693873` · **unitId:** `134075`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14770649|exam:15693872|exam:15693873>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134075&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | 09:00–11:00 | — | 12101.00.135 (EE 0.135 Seminarraum) |
 
 ### 35711 Praktikum Software für die Mathematik - Leistung
 
@@ -3605,24 +3752,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | Mi | Mi | 11:00–13:00 | — | 11901.00.240 (H10 Hörsaal 10) |
 
-### 43463 Hochspannungstechnische Anwendungen
-
-- **Segment:** `exam:15693718` · **unitId:** `134073`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14761109|exam:14761110|exam:14761111|exam:14763090|exam:14763091|exam:15693718>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134073&periodId=589>
-
-### 43463 Hochspannungstechnische Anwendungen
-
-- **Segment:** `exam:15693720` · **unitId:** `134073`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14765038|exam:14765039|exam:14765040|exam:14766896|exam:14766897|exam:15693720>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134073&periodId=589>
-
-### 43463 Hochspannungstechnische Anwendungen
-
-- **Segment:** `exam:15693722` · **unitId:** `134073`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14770723|exam:14770724|exam:15693722>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134073&periodId=589>
-
 ### 43700 Transportprozesse
 
 - **Segment:** `exam:14763314` · **unitId:** `62020`
@@ -4099,42 +4228,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14770956` · **unitId:** `29242`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14770945|exam:14770946|exam:14770956>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=29242&periodId=589>
-
-### 45345 Lab course in clean combustion technology
-
-- **Segment:** `exam:14763081` · **unitId:** `126138`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14761109|exam:14761110|exam:14761111|exam:14763016|exam:14763081>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126138&periodId=589>
-
-### 45345 Lab course in clean combustion technology
-
-- **Segment:** `exam:14766887` · **unitId:** `126138`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14765038|exam:14765039|exam:14765040|exam:14766822|exam:14766887>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126138&periodId=589>
-
-### 45345 Lab course in clean combustion technology
-
-- **Segment:** `exam:14770714` · **unitId:** `126138`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14770649|exam:14770714>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126138&periodId=589>
-
-### 45346 Praktikum Fluid-Feststoff-Strömungen
-
-- **Segment:** `exam:14763083` · **unitId:** `126140`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14761109|exam:14761110|exam:14761111|exam:14763016|exam:14763083>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126140&periodId=589>
-
-### 45346 Praktikum Fluid-Feststoff-Strömungen
-
-- **Segment:** `exam:14766889` · **unitId:** `126140`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14765038|exam:14765039|exam:14765040|exam:14766822|exam:14766889>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126140&periodId=589>
-
-### 45346 Praktikum Fluid-Feststoff-Strömungen
-
-- **Segment:** `exam:14770716` · **unitId:** `126140`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14770649|exam:14770716>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126140&periodId=589>
 
 ### 45350 Nanotechnology of Disperse Systems
 
@@ -6932,18 +7025,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### 68800 Grundlagen der Geowissenschaften I
-
-- **Segment:** `exam:14769060` · **unitId:** `126427`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14768848|exam:14769060>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126427&periodId=589>
-
-### 68810 Minerale und Gesteine
-
-- **Segment:** `exam:14769063` · **unitId:** `126428`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14768848|exam:14769063>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126428&periodId=589>
-
 ### 70101 Strömungsmechanik I - Leistung
 
 - **Segment:** `exam:14756297` · **unitId:** `21009`
@@ -7526,6 +7607,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14761109|exam:14761110|exam:14761111|exam:14761112|exam:14761176|exam:14761179>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=34178&periodId=589>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -7685,42 +7767,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14770803` · **unitId:** `114799`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14770723|exam:14770790|exam:14770803>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114799&periodId=589>
-
-### 92558 Seminar über ausgewählte Aspekte der technischen Entwicklungszusammenarbeit auf dem Gebiet der elektrischen Energieversorgung
-
-- **Segment:** `exam:15908376` · **unitId:** `136909`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14754536|exam:14754538|exam:14754540|exam:14754581|exam:14756085|exam:15908376>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136909&periodId=589>
-
-### 92558 Seminar über ausgewählte Aspekte der technischen Entwicklungszusammenarbeit auf dem Gebiet der elektrischen Energieversorgung
-
-- **Segment:** `exam:15908365` · **unitId:** `136909`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14754536|exam:14754538|exam:14754540|exam:14754581|exam:14756119|exam:15908365>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136909&periodId=589>
-
-### 92558 Seminar über ausgewählte Aspekte der technischen Entwicklungszusammenarbeit auf dem Gebiet der elektrischen Energieversorgung
-
-- **Segment:** `exam:15908366` · **unitId:** `136909`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14757841|exam:14757843|exam:14757845|exam:14759471|exam:15908366>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136909&periodId=589>
-
-### 92558 Seminar über ausgewählte Aspekte der technischen Entwicklungszusammenarbeit auf dem Gebiet der elektrischen Energieversorgung
-
-- **Segment:** `exam:15908426` · **unitId:** `136910`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14761109|exam:14761110|exam:14761111|exam:14762956|exam:15908426>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136910&periodId=589>
-
-### 92558 Seminar über ausgewählte Aspekte der technischen Entwicklungszusammenarbeit auf dem Gebiet der elektrischen Energieversorgung
-
-- **Segment:** `exam:15908427` · **unitId:** `136910`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14765038|exam:14765039|exam:14765040|exam:14766762|exam:15908427>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136910&periodId=589>
-
-### 92558 Seminar über ausgewählte Aspekte der technischen Entwicklungszusammenarbeit auf dem Gebiet der elektrischen Energieversorgung
-
-- **Segment:** `exam:15908428` · **unitId:** `136910`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14770589|exam:15908428>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136910&periodId=589>
 
 ### 926829 Hauptseminar EVT (Master) - Leistung
 
@@ -8075,36 +8121,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14770757` · **unitId:** `119133`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14770723|exam:14770724|exam:14770757>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119133&periodId=589>
-
-### 96113 Technological Impact Entrepreneurship for Sustainable Development
-
-- **Segment:** `exam:15778006` · **unitId:** `135190`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14754536|exam:14754538|exam:14754540|exam:14754581|exam:14756119|exam:15778006>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135190&periodId=589>
-
-### 96113 Technological Impact Entrepreneurship for Sustainable Development
-
-- **Segment:** `exam:15778008` · **unitId:** `135190`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14757841|exam:14757843|exam:14757845|exam:14759471|exam:15778008>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135190&periodId=589>
-
-### 96113 Technological Impact Entrepreneurship for Sustainable Development
-
-- **Segment:** `exam:15777960` · **unitId:** `135189`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14761109|exam:14761110|exam:14761111|exam:14762956|exam:15777960>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135189&periodId=589>
-
-### 96113 Technological Impact Entrepreneurship for Sustainable Development
-
-- **Segment:** `exam:15777962` · **unitId:** `135189`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14765038|exam:14765039|exam:14765040|exam:14766762|exam:15777962>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135189&periodId=589>
-
-### 96113 Technological Impact Entrepreneurship for Sustainable Development
-
-- **Segment:** `exam:15777964` · **unitId:** `135189`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14770589|exam:15777964>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135189&periodId=589>
 
 ### 96120 Elektrische Antriebstechnik II
 
@@ -8568,24 +8584,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14768848|exam:14768938>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111056&periodId=589>
 
-### 97059 Materials for Electrochemical Energy Conversion and Storage (with exercise)
-
-- **Segment:** `exam:14763202` · **unitId:** `130462`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14761109|exam:14761110|exam:14761111|exam:14763090|exam:14763173|exam:14763202>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130462&periodId=589>
-
-### 97059 Materials for Electrochemical Energy Conversion and Storage (with exercise)
-
-- **Segment:** `exam:14767008` · **unitId:** `130462`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14765038|exam:14765039|exam:14765040|exam:14766896|exam:14766979|exam:14767008>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130462&periodId=589>
-
-### 97059 Materials for Electrochemical Energy Conversion and Storage (with exercise)
-
-- **Segment:** `exam:14770835` · **unitId:** `130462`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14770723|exam:14770806|exam:14770835>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130462&periodId=589>
-
 ### 97061 Energiespeichertechnologien
 
 - **Segment:** `exam:14763174` · **unitId:** `121869`
@@ -8603,24 +8601,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14770807` · **unitId:** `121869`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14770723|exam:14770806|exam:14770807>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121869&periodId=589>
-
-### 97062 Batteriespeichersysteme
-
-- **Segment:** `exam:14763205` · **unitId:** `131804`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14761109|exam:14761110|exam:14761111|exam:14763090|exam:14763173|exam:14763205>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131804&periodId=589>
-
-### 97062 Batteriespeichersysteme
-
-- **Segment:** `exam:14767011` · **unitId:** `131804`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14765038|exam:14765039|exam:14765040|exam:14766896|exam:14766979|exam:14767011>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131804&periodId=589>
-
-### 97062 Batteriespeichersysteme
-
-- **Segment:** `exam:14770838` · **unitId:** `131804`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14770723|exam:14770806|exam:14770838>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131804&periodId=589>
 
 ### 97064 Praktikum/Exkursion Batteriespeichersysteme
 
@@ -8729,24 +8709,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14770819` · **unitId:** `121875`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14770723|exam:14770806|exam:14770819>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121875&periodId=589>
-
-### 97077 Hydrogen for the Energy Transition
-
-- **Segment:** `exam:14763210` · **unitId:** `133901`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14761109|exam:14761110|exam:14761111|exam:14763090|exam:14763173|exam:14763210>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133901&periodId=589>
-
-### 97077 Hydrogen for the Energy Transition
-
-- **Segment:** `exam:14767016` · **unitId:** `133901`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14765038|exam:14765039|exam:14765040|exam:14766896|exam:14766979|exam:14767016>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133901&periodId=589>
-
-### 97077 Hydrogen for the Energy Transition
-
-- **Segment:** `exam:14770843` · **unitId:** `133901`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14770723|exam:14770806|exam:14770843>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133901&periodId=589>
 
 ### 97248 Prozess- und Temperaturmesstechnik
 
@@ -9963,40 +9925,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 10:15–11:45 | 07.04.2026–14.07.2026 | 11501.02.224 (02.224 Cauerstr.9 Seminarraum) |
 
-### EISG - Energy Informatics and Smart Grids - Vorlesung
-
-- **Segment:** `exam:15839978` · **unitId:** `134179`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14768848|exam:15839976|exam:15839978>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134179&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 12:15–13:45 | 23.04.2026–16.07.2026 | 11302.02.134 (02.134-113 Übungsraum) |
-
-### EISG-Ex - Energy Informatics and Smart Grids Exercises - Übung
-
-- **Segment:** `exam:15839979` · **unitId:** `134998`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14768848|exam:15839976|exam:15839979>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134998&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:00–16:00 | 27.04.2026–13.07.2026 | 11302.04.158 (04.158 Stud. Rechner-/Arbeitsraum) 11302.00.153 (00.153-113 CIP CIP-Pool Informatik (CIP3)) |
-
 ### EMF I - Elektromagnetische Felder I - Vorlesung mit Übung
 
 - **Segment:** `exam:14761206` · **unitId:** `90083`
@@ -10021,7 +9949,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14761109|exam:14761110|exam:14761111|exam:14761112|exam:14761357|exam:14761361>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85600&periodId=589>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.0
 - **Unterrichtssprache:** Deutsch oder Englisch
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -11934,7 +11865,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 08:00–14:00 | 03.06.2026–08.07.2026 | — |
 
 ### LEE-PR-EEE - Laboratory Course on Power Electronics for Decentral Energy Systems - Praktikum
 
@@ -11944,7 +11882,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 08:00–14:00 | 03.06.2026–08.07.2026 | — |
 
 ### LEE-PR-EEE - Laboratory Course on Power Electronics for Decentral Energy Systems - Praktikum
 
@@ -11954,7 +11899,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 08:00–14:00 | 03.06.2026–08.07.2026 | — |
 
 ### LEE-TM-V - Thermisches Management in der Leistungselektronik - Vorlesung
 
@@ -12128,7 +12080,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14765038|exam:14765039|exam:14765040|exam:14765041|exam:14765208|exam:14765214>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128538&periodId=589>
 
+- **Veranstaltungsart:** Vorlesung mit Übung
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -12142,7 +12096,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14768848|exam:14768918|exam:14768924>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128538&periodId=589>
 
+- **Veranstaltungsart:** Vorlesung mit Übung
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -12426,7 +12382,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 0.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:00–17:00 | 16.04.2026–16.07.2026 | — |
+| wöchentlich | Fr | 09:00–12:00 | 17.04.2026–17.07.2026 | — |
 
 ### PF EA EV ET - Praktikum Antriebstechnik und Energieversorgung - Praktikum
 
@@ -12436,7 +12400,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 0.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:00–17:00 | 16.04.2026–16.07.2026 | — |
+| wöchentlich | Fr | 09:00–12:00 | 17.04.2026–17.07.2026 | — |
 
 ### Pho2 - Photonik 2 - Vorlesung
 
@@ -12503,57 +12475,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 11501.06.226 (HF-Technik: BZ 06.226 Besprechungszimmer (alt 6.18)) |
-
-### PR HTAW - Praktikum Hochspannungstechnische Anwendungen - Praktikum
-
-- **Segment:** `exam:15694103` · **unitId:** `133550`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14761109|exam:14761110|exam:14761111|exam:14763016|exam:15693868|exam:15694103>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133550&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung | — | 09:00–15:00 | 14.09.2026–18.09.2026 | — |
-
-### PR HTAW - Praktikum Hochspannungstechnische Anwendungen - Praktikum
-
-- **Segment:** `exam:15694104` · **unitId:** `133550`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14765038|exam:14765039|exam:14765040|exam:14766822|exam:15693870|exam:15694104>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133550&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung | — | 09:00–15:00 | 14.09.2026–18.09.2026 | — |
-
-### PR HTAW - Praktikum Hochspannungstechnische Anwendungen - Praktikum
-
-- **Segment:** `exam:15694105` · **unitId:** `133550`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14770649|exam:15693872|exam:15694105>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133550&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung | — | 09:00–15:00 | 14.09.2026–18.09.2026 | — |
 
 ### PR-EEV ET - Praktikum Energiemanagement und -versorgung (ehem. Antriebstechnik und Energieversorgung) - Praktikum
 
@@ -12772,17 +12693,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 14:15–17:45 | 16.04.2026–16.07.2026 | 12101.00.135 (EE 0.135 Seminarraum) |
-
-### PTMT - OL - Prozess- und Temperaturmesstechnik - Online - Online-Kurs
-
-- **Segment:** `exam:15773002` · **unitId:** `135092`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14761109|exam:14761110|exam:14761111|exam:14761112|exam:14761324|exam:15773002>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135092&periodId=589>
-
-- **Veranstaltungsart:** Online-Kurs
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
 
 ### S&F (Ü) - Übungen zur Statik und Festigkeitslehre - Übung
 
@@ -13511,7 +13421,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:15–09:45 | 21.04.2026–14.07.2026 | 11401.03.053 (3.31, Martensstr. 5 Seminarraum) |
 
 ### SuF-VL - Statik und Festigkeitslehre - Vorlesung
 
@@ -13629,40 +13546,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Fr | 14:15–15:45 | 17.04.2026–17.07.2026 | 12104.01.411 (KS II Kurssaal II) |
-
-### T I  - Turbulence I  - Vorlesung
-
-- **Segment:** `exam:15860737` · **unitId:** `135408`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14761109|exam:14761110|exam:14761111|exam:14761112|exam:14761376|exam:15860737>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135408&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 11501.00.155 (H15 Hans-Wilhelm-Schüßler-Hörsaal) |
-
-### T I  - Turbulence I  - Vorlesung
-
-- **Segment:** `exam:15860738` · **unitId:** `135408`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14768845|exam:14768846|exam:14768847|exam:14768848|exam:14769086|exam:15860738>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135408&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 14:15–15:45 | 15.04.2026–15.07.2026 | 11501.00.155 (H15 Hans-Wilhelm-Schüßler-Hörsaal) |
 
 ### TPE - Thermophysikalische Eigenschaften von Arbeitsstoffen der Verfahrens- und Energietechnik - Vorlesung mit Übung
 
@@ -14135,7 +14018,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17968|exam:14761109|exam:14761110|exam:14761111|exam:14761112|exam:14761336|exam:14761337>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85768&periodId=589>
 
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Deutsch oder Englisch
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -14415,7 +14301,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 11501.01.019 (01.019 Seminarraum) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (226)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (220)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -14517,7 +14403,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | 09:00–09:45 | — | — |
+| Do | Do | 09:00–09:45 | — | 11401.00.116 (H14 Bernhard-Ilschner-Hörsaal (0.61)) |
 
 ### Advanced Semiconductor Technologies Solution Processed Semiconductors III - Processing
 
@@ -14663,19 +14549,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Wintersemester
-
-### Characterization Techniques for Electrochemical Cells
-
-- **Segment:** `unit:117241` · **unitId:** `117241`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117241&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | 10:00–11:30 | — | — |
 
 ### Characterization Techniques for Electrochemical Cells — Vorlesung
 
@@ -15190,16 +15063,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### Fertigungsmesstechnik I - Online — Online-Kurs
-
-- **Segment:** `unit:133980` · **unitId:** `133980`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133980&periodId=589>
-
-- **Veranstaltungsart:** Online-Kurs
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
 ### Fertigungsmesstechnik I - Übung
 
 - **Segment:** `unit:84058` · **unitId:** `84058`
@@ -15367,20 +15230,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### High-Temperature Materials
-
-- **Segment:** `unit:124650` · **unitId:** `124650`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124650&periodId=589>
-
-- **ECTS-Punkte:** 4.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | 09:00–16:00 | — | — |
-
 ### Hochleistungsstromrichter für die EEV — Vorlesung
 
 - **Segment:** `unit:85538` · **unitId:** `85538`
@@ -15398,36 +15247,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
-
-### Hochspannungstechnische Anwendungen — Vorlesung
-
-- **Segment:** `unit:133545` · **unitId:** `133545`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133545&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 12101.00.135 (EE 0.135 Seminarraum) |
-
-### Hochspannungstechnische Anwendungen
-
-- **Segment:** `unit:134071` · **unitId:** `134071`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134071&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | 11:00–12:30 | — | 12101.00.135 (EE 0.135 Seminarraum) |
 
 ### Innovationslabor für Wearable und Ubiquitous Computing — Praktikum/Projekt
 
@@ -15678,20 +15497,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | 14:00–15:30 | — | — |
 
-### Materials for Electrochemical Energy Conversion and Storage (with exercise)
-
-- **Segment:** `unit:130461` · **unitId:** `130461`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130461&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | 14:00–15:30 | — | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
-
 ### Mathematik A 1
 
 - **Segment:** `unit:20847` · **unitId:** `20847`
@@ -15718,7 +15523,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | Mo | 11:00–13:00 | — | 11906.01.040 (H20) 11907.01.030 (H19) 11907.01.040 (H18) |
+| Mo | Mo | 11:00–13:00 | — | — |
 
 ### Mathematik A 3
 
@@ -16677,7 +16482,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86073&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 16:15–17:45 | 16.04.2026–16.07.2026 | 12104.01.411 (KS II Kurssaal II) |
 
 ### Übung Technische Thermodynamik I für ET und CE
 

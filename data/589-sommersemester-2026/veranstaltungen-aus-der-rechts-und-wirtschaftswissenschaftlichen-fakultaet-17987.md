@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:17987"
 campo_path: "title:17593|title:17598|title:17987"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17598|title:17987"
-po_version_count: 0
-course_count: 24
+po_version_count: 1
+course_count: 23
 ---
 
 # Veranstaltungen aus der Rechts- und Wirtschaftswissenschaftlichen Fakultät
@@ -14,7 +14,14 @@ course_count: 24
 
 _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprachkurse_  
 
-## Veranstaltungen (24)
+## Prüfungsordnungs-Versionen (1)
+
+### Global Energy Politics - Hauptseminar
+
+- **Campo-Segment:** `exam:15704562`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17598|title:17987|exam:15688857|exam:15704562>
+
+## Veranstaltungen (23)
 
 ### Data Science: Ökonometrie - Softskills - Übung
 
@@ -94,23 +101,17 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-### Global Energy Politics - Hauptseminar
-
-- **Segment:** `exam:15704562` · **unitId:** `134254`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17598|title:17987|exam:15688857|exam:15704562>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134254&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Sommersemester
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 13:15–14:45 | 16.04.2026–16.07.2026 | 00501.00.024 (KH 0.024 Kollegienhaus - Belegung ausschließlich durch das Institut Politische Wissenschaft) |
+| Einzeltermin | Fr | 09:00–14:00 | 24.04.2026 | 21102.00.422 (CIP-Pool 2 (RRZE-IZN)) |
+| Einzeltermin | Fr | 09:00–14:00 | 08.05.2026 | 21102.00.422 (CIP-Pool 2 (RRZE-IZN)) |
+| Einzeltermin | Fr | 09:00–14:00 | 22.05.2026 | 21102.00.422 (CIP-Pool 2 (RRZE-IZN)) |
+| Einzeltermin | Fr | 09:00–14:00 | 12.06.2026 | 21102.00.422 (CIP-Pool 2 (RRZE-IZN)) |
 
 ### Kartellrecht I - Vorlesung
 

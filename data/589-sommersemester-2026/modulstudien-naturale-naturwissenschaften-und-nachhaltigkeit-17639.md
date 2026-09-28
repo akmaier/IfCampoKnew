@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:17639"
 campo_path: "title:17593|title:17602|title:17639"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17639"
-po_version_count: 0
-course_count: 180
+po_version_count: 9
+course_count: 171
 ---
 
 # Modulstudien Naturale: Naturwissenschaften und Nachhaltigkeit
@@ -14,7 +14,54 @@ course_count: 180
 
 _Section: Studiengänge der Naturwissenschaftlichen Fakultät_  
 
-## Veranstaltungen (180)
+## Prüfungsordnungs-Versionen (9)
+
+### Resources and global partnerships - Seminar
+
+- **Campo-Segment:** `exam:15728105`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17639|exam:14196914|exam:14196915|exam:14196916|exam:14197001|exam:15728103|exam:15728105>
+
+### 63161 Modulstudien Biologie Basis 1: Moleküle, Grundlagen der Zellbiologie und Genetik
+
+- **Campo-Segment:** `exam:17712774`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17639|exam:14196914|exam:14196915|exam:14196916|exam:14196917|exam:17712774>
+
+### 63161 Modulstudien Biologie Basis 1: Moleküle, Grundlagen der Zellbiologie und Genetik
+
+- **Campo-Segment:** `exam:17712784`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17639|exam:14196914|exam:14196915|exam:14196916|exam:14197070|exam:17712784>
+
+### 63171 Modulstudien Biologie Basis 2a und 2b: Phylogenie des Lebens - Stammbaum der Arten
+
+- **Campo-Segment:** `exam:17712794`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17639|exam:14196914|exam:14196915|exam:14196916|exam:14196917|exam:17712794>
+
+### 63171 Modulstudien Biologie Basis 2a und 2b: Phylogenie des Lebens - Stammbaum der Arten
+
+- **Campo-Segment:** `exam:17712804`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17639|exam:14196914|exam:14196915|exam:14196916|exam:14197070|exam:17712804>
+
+### 65725 Methoden für die mathematische Datenanalyse
+
+- **Campo-Segment:** `exam:17713392`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17639|exam:14196914|exam:14196915|exam:14196916|exam:14197070|exam:17713392>
+
+### 68800 Grundlagen der Geowissenschaften I
+
+- **Campo-Segment:** `exam:15717547`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17639|exam:14196914|exam:14196915|exam:14196916|exam:14196917|exam:15717547>
+
+### 68800 Grundlagen der Geowissenschaften I
+
+- **Campo-Segment:** `exam:15717520`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17639|exam:14196914|exam:14196915|exam:14196916|exam:14197070|exam:15717520>
+
+### 91151 Resources and global partnerships - Leistung
+
+- **Campo-Segment:** `exam:15728104`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17639|exam:14196914|exam:14196915|exam:14196916|exam:14197001|exam:15728103|exam:15728104>
+
+## Veranstaltungen (171)
 
 ### Astronomisches Praktikum (Bachelor Physik) - Praktikum
 
@@ -385,6 +432,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 4.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
 ### Minerale und Gesteine für Geographie Studierende und Modulstudium Naturale - Seminar
@@ -395,6 +443,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 4.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
 ### Minerale und Gesteine für Studierende der Geographie (und Mod. Nat.) - Seminar
@@ -500,23 +549,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
-
-### Resources and global partnerships - Seminar
-
-- **Segment:** `exam:15728105` · **unitId:** `131568`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17639|exam:14196914|exam:14196915|exam:14196916|exam:14197001|exam:15728103|exam:15728105>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131568&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 11:20–12:50 | 16.04.2026–16.07.2026 | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
 
 ### Thermodynamische Grundlagen der Energiewende - Vorlesung mit Übung
 
@@ -1178,6 +1210,13 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=80120&periodId=589>
 
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### 57121 Mathematik für Data Science 2 - Leistung
 
@@ -1362,30 +1401,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17639|exam:14196914|exam:14196915|exam:14196916|exam:14197070|exam:14197151>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=77845&periodId=589>
 
-### 63161 Modulstudien Biologie Basis 1: Moleküle, Grundlagen der Zellbiologie und Genetik
-
-- **Segment:** `exam:17712774` · **unitId:** `138381`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17639|exam:14196914|exam:14196915|exam:14196916|exam:14196917|exam:17712774>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138381&periodId=589>
-
-### 63161 Modulstudien Biologie Basis 1: Moleküle, Grundlagen der Zellbiologie und Genetik
-
-- **Segment:** `exam:17712784` · **unitId:** `138381`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17639|exam:14196914|exam:14196915|exam:14196916|exam:14197070|exam:17712784>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138381&periodId=589>
-
-### 63171 Modulstudien Biologie Basis 2a und 2b: Phylogenie des Lebens - Stammbaum der Arten
-
-- **Segment:** `exam:17712794` · **unitId:** `138382`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17639|exam:14196914|exam:14196915|exam:14196916|exam:14196917|exam:17712794>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138382&periodId=589>
-
-### 63171 Modulstudien Biologie Basis 2a und 2b: Phylogenie des Lebens - Stammbaum der Arten
-
-- **Segment:** `exam:17712804` · **unitId:** `138382`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17639|exam:14196914|exam:14196915|exam:14196916|exam:14197070|exam:17712804>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138382&periodId=589>
-
 ### 63801 Experimentalphysik I - Leistung
 
 - **Segment:** `exam:14196983` · **unitId:** `22510`
@@ -1470,12 +1485,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17639|exam:14196914|exam:14196915|exam:14196916|exam:14197070|exam:14197234>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=77848&periodId=589>
 
-### 65725 Methoden für die mathematische Datenanalyse
-
-- **Segment:** `exam:17713392` · **unitId:** `138421`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17639|exam:14196914|exam:14196915|exam:14196916|exam:14197070|exam:17713392>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138421&periodId=589>
-
 ### 66020 Strukturphysik / Kristallographie
 
 - **Segment:** `exam:14197237` · **unitId:** `77850`
@@ -1529,18 +1538,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### 68800 Grundlagen der Geowissenschaften I
-
-- **Segment:** `exam:15717547` · **unitId:** `134455`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17639|exam:14196914|exam:14196915|exam:14196916|exam:14196917|exam:15717547>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134455&periodId=589>
-
-### 68800 Grundlagen der Geowissenschaften I
-
-- **Segment:** `exam:15717520` · **unitId:** `134455`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17639|exam:14196914|exam:14196915|exam:14196916|exam:14197070|exam:15717520>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134455&periodId=589>
 
 ### 68860 Angewandte Geologie I
 
@@ -1798,21 +1795,13 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78058&periodId=589>
 
 - **ECTS-Punkte:** 5.0
-
-### 91151 Resources and global partnerships - Leistung
-
-- **Segment:** `exam:15728104` · **unitId:** `130358`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17639|exam:14196914|exam:14196915|exam:14196916|exam:14197001|exam:15728103|exam:15728104>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130358&periodId=589>
-
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | — | — | — |
+| Mo | Mo | — | — | — |
 
 ### 99901 Ringvorlesung Nachhaltigkeit -  (FA)U for Sustainability (2,5 ECTS) - Leistung
 
@@ -1876,7 +1865,14 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | 08801.01.020 ( Hörsaal ZMPT 01.020) |
 
 ### BIA - Bioanalytik - Vorlesung
 
@@ -1886,7 +1882,14 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | 08801.01.020 ( Hörsaal ZMPT 01.020) |
 
 ### BIA-Pr - Bioanalytik - Praktikum - Praktikum
 
@@ -2184,6 +2187,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83983&periodId=589>
 
 - **Veranstaltungsart:** Übungsseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
 ### ILS-C1-Ü - Übung Allgemeine Chemie (für ILS) - Übungsseminar
@@ -2193,6 +2197,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83983&periodId=589>
 
 - **Veranstaltungsart:** Übungsseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
 ### LFF-KS - Kompetenzseminar zum Klimawandel (insbesondere für Lehramtsstudierende und Nebenfachstudierende) - Seminar

@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:17652"
 campo_path: "title:17593|title:17602|title:17652"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17652"
-po_version_count: 1
-course_count: 19
+po_version_count: 2
+course_count: 18
 ---
 
 # Ergänzende Modulstudien Physik
@@ -14,14 +14,19 @@ course_count: 19
 
 _Section: Studiengänge der Naturwissenschaftlichen Fakultät_  
 
-## Prüfungsordnungs-Versionen (1)
+## Prüfungsordnungs-Versionen (2)
+
+### TPL-4 Theoretische Elektrodynamik LA - Vorlesung mit Übung
+
+- **Campo-Segment:** `exam:15928299`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17652|exam:14280434|exam:14280435|exam:14280436|exam:14281982|exam:15928299>
 
 ### 1500 Schlüsselqualifikationen
 
 - **Campo-Segment:** `exam:14280437`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17652|exam:14280434|exam:14280435|exam:14280436|exam:14280437>
 
-## Veranstaltungen (19)
+## Veranstaltungen (18)
 
 ### Theoretische Physik 1: Mechanik - Vorlesung
 
@@ -41,22 +46,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 | wöchentlich | Do | 08:00–10:00 | 16.04.2026–16.07.2026 | 13003.00.882 (HB Hörsaal -Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 | Einzeltermin | Do | 10:15–13:00 | 18.06.2026 | — |
 | Einzeltermin | Do | 10:15–13:00 | 09.07.2026 | — |
-
-### TPL-4 Theoretische Elektrodynamik LA - Vorlesung mit Übung
-
-- **Segment:** `exam:15928299` · **unitId:** `134014`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17652|exam:14280434|exam:14280435|exam:14280436|exam:14281982|exam:15928299>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134014&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nicht in diesem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 13101.01.683 (SR 01.683 Seminarraum der Theoretischen Physik I) |
 
 ### Übungen zu Theoretische Physik 1: Mechanik - Übung
 
@@ -169,6 +158,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17652|exam:14280434|exam:14280435|exam:14280436|exam:14281982|exam:14281985>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=41886&periodId=589>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine

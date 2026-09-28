@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:18280"
 campo_path: "title:17593|title:17595|title:18280"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280"
-po_version_count: 0
-course_count: 855
+po_version_count: 186
+course_count: 674
 ---
 
 # Erziehungswissenschaften
@@ -14,7 +14,939 @@ course_count: 855
 
 _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theologie_  
 
-## Veranstaltungen (855)
+## Prüfungsordnungs-Versionen (186)
+
+### #Christus - Social Media, Identität_en und der Christusbegriff - Seminar
+
+- **Campo-Segment:** `exam:15733351`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026080|exam:15733351>
+
+### (Multidisziplinäres) Wahlmodul PT - Übung
+
+- **Campo-Segment:** `exam:15727473`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026030|exam:15727473>
+
+### (Multidisziplinäres) Wahlmodul PT - Übung
+
+- **Campo-Segment:** `exam:15727475`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026080|exam:15727475>
+
+### A+V 3D-Druck  - Seminar
+
+- **Campo-Segment:** `exam:15769797`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029100|exam:15769797>
+
+### A+V Zeichnen für Fortgeschrittene - Seminar
+
+- **Campo-Segment:** `exam:15769289`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029100|exam:15769289>
+
+### Aktzeichnen (A+V) - Seminar
+
+- **Campo-Segment:** `exam:15769457`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029100|exam:15769457>
+
+### Aquarell (A+V)  - Seminar
+
+- **Campo-Segment:** `exam:15768440`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029100|exam:15768440>
+
+### Asiatisch-Afrikanische Religionen: Transkulturelle Dynamiken und Wirtschaftsinteressen im globalen Kontext - Seminar
+
+- **Campo-Segment:** `exam:15725251`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026055|exam:15725251>
+
+### Aufbaumodul: Seminar : zentrale/ausgewählte Fragestellungen - Seminar
+
+- **Campo-Segment:** `exam:15797228`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15025945|exam:15797228>
+
+### Aufbaumodul: Seminar : Zentrale/Ausgewählte Fragestellungen - Seminar
+
+- **Campo-Segment:** `exam:15797246`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15025945|exam:15797246>
+
+### Aufbaumodul: Seminar : zentrale/ausgewählte Fragestellungen - Seminar
+
+- **Campo-Segment:** `exam:15797219`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15025948|exam:15797219>
+
+### Aufbaumodul: Seminar : Zentrale/Ausgewählte Fragestellungen - Seminar
+
+- **Campo-Segment:** `exam:15797237`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15025948|exam:15797237>
+
+### Bildung, Macht, Kritik - Einführung in eine kritische Pädagogik für Schule und Unterricht  (Angebot am Standort Erlangen) - Seminar
+
+- **Campo-Segment:** `exam:15725743`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15026731|exam:15026807|exam:15725743>
+
+### Bildung, Macht, Kritik - Einführung in eine kritische Pädagogik für Schule und Unterricht  (Angebot am Standort Erlangen) - Seminar
+
+- **Campo-Segment:** `exam:15725718`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15029120|exam:15029195|exam:15725718>
+
+### Bildung, Macht, Kritik - Einführung in eine kritische Pädagogik für Schule und Unterricht  (Angebot am Standort Erlangen) - Seminar
+
+- **Campo-Segment:** `exam:15725702`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15030843|exam:15030844|exam:15030845|exam:15030846|exam:15030921|exam:15725702>
+
+### Bildungs- und sozialwissenschaftliche Perspektiven auf Lehrer*innenprofessionalität (Angebot am Standort Erlangen) - Seminar
+
+- **Campo-Segment:** `exam:15725835`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15026731|exam:15026847|exam:15725835>
+
+### Bildungs- und sozialwissenschaftliche Perspektiven auf Lehrer*innenprofessionalität (Angebot am Standort Erlangen) - Seminar
+
+- **Campo-Segment:** `exam:15725859`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15029120|exam:15029235|exam:15725859>
+
+### Bildungs- und sozialwissenschaftliche Perspektiven auf Lehrer*innenprofessionalität (Angebot am Standort Erlangen) - Seminar
+
+- **Campo-Segment:** `exam:15725843`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15030843|exam:15030844|exam:15030845|exam:15030846|exam:15030958|exam:15725843>
+
+### Der Dekalog: religionsgeschichtliche Hintergründe und mediale Adaptierungen - Seminar
+
+- **Campo-Segment:** `exam:15727465`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026080|exam:15727465>
+
+### Die Nachricht im Info-Tsunami - oder: Accuracy always takes precedence over speed. - durchgeführt von Oliver Trenkamp - Seminar
+
+- **Campo-Segment:** `exam:15733314`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026013|exam:15733314>
+
+### Die Nachricht im Info-Tsunami - oder: Accuracy always takes precedence over speed. - durchgeführt von Oliver Trenkamp - Seminar
+
+- **Campo-Segment:** `exam:15733309`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026030|exam:15733309>
+
+### Einführungskurs "Sicheres Arbeiten in der Holzwerkstatt" - Einführungskurs
+
+- **Campo-Segment:** `exam:17900833`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029100|exam:17900833>
+
+### Examenskolloquium Politikwissenschaft - Kolloquium
+
+- **Campo-Segment:** `exam:15794536`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026726|exam:15794536>
+
+### Examenskolloquium Politikwissenschaft - Kolloquium
+
+- **Campo-Segment:** `exam:15794567`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029112|exam:15794567>
+
+### Examenskurs für Studierende des Lehramts Grund,-und Mittelschule - Seminar
+
+- **Campo-Segment:** `exam:15782759`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15025938|exam:15782759>
+
+### Examenskurs für Studierende des Lehramts Grund,-und Mittelschule - Seminar
+
+- **Campo-Segment:** `exam:15782603`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028902|exam:15782603>
+
+### Examenskurs für Studierende des Lehramts Realschule und Gymnasium - Seminar
+
+- **Campo-Segment:** `exam:15783026`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15025938|exam:15783026>
+
+### Examenskurs für Studierende des Lehramts Realschule und Gymnasium - Seminar
+
+- **Campo-Segment:** `exam:15783008`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028902|exam:15783008>
+
+### Examenskurs Sozialkunde - Übung
+
+- **Campo-Segment:** `exam:15864801`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026128|exam:15864801>
+
+### Examenskurs Sozialkunde - Übung
+
+- **Campo-Segment:** `exam:15743447`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026165|exam:15743447>
+
+### Examenskurs Sozialkunde - Übung
+
+- **Campo-Segment:** `exam:15864783`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028909|exam:15864783>
+
+### Examenskurs Sozialkunde - Übung
+
+- **Campo-Segment:** `exam:15743465`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028941|exam:15743465>
+
+### Examensseminar Mediävistik - Examensseminar
+
+- **Campo-Segment:** `exam:15026205`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026186|exam:15026205>
+
+### Examensseminar Mediävistik - Examensseminar
+
+- **Campo-Segment:** `exam:15028982`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028962|exam:15028982>
+
+### Examensvorbereitung Musikdidaktik - Seminar
+
+- **Campo-Segment:** `exam:15029091`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029084|exam:15029091>
+
+### Examensvorbereitung Schupra Gitarre (Didaktikfach) - Übung
+
+- **Campo-Segment:** `exam:15889160`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029084|exam:15889160>
+
+### Fachdidaktik II - Seminar
+
+- **Campo-Segment:** `exam:15727468`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026080|exam:15727468>
+
+### Fachdidaktik II - Seminar
+
+- **Campo-Segment:** `exam:15727467`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026107|exam:15727467>
+
+### HS Dogmatik - Hauptseminar
+
+- **Campo-Segment:** `exam:15026105`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026080|exam:15026105>
+
+### HS Dogmatik - Hauptseminar
+
+- **Campo-Segment:** `exam:15026289`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026275|exam:15026289>
+
+### HS/Ü: Mehrsprachigkeit (in) der Literatur - Seminar und Übung
+
+- **Campo-Segment:** `exam:15026711`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:15026711>
+
+### HS/Ü: Wie ediert man einen vergessenen Autor? Das Beispiel des jüdischen Berliner Schriftstellers und Künstlers Edmund Edel (1863-1934) - Seminar und Übung
+
+- **Campo-Segment:** `exam:15026713`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:15026713>
+
+### Indigenität als Buzzword? Annäherungen an einen (un)umstrittenen Begriff - Seminar
+
+- **Campo-Segment:** `exam:15907075`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026048|exam:15907075>
+
+### Indigenität als Buzzword? Annäherungen an einen (un)umstrittenen Begriff - Seminar
+
+- **Campo-Segment:** `exam:15876650`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026055|exam:15876650>
+
+### Interdisziplinäre und standortübergreifende Übung - Übung
+
+- **Campo-Segment:** `exam:15690650`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026080|exam:15690650>
+
+### Interdisziplinäre Übung - Übung
+
+- **Campo-Segment:** `exam:15715704`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026275|exam:15715704>
+
+### Journalistische Berufsethik im digitalen Wandel - Seminar
+
+- **Campo-Segment:** `exam:15733256`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026013|exam:15733256>
+
+### Journalistische Berufsethik im digitalen Wandel - Seminar
+
+- **Campo-Segment:** `exam:15733252`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026030|exam:15733252>
+
+### Keramik (A+V) - Seminar
+
+- **Campo-Segment:** `exam:15769967`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029100|exam:15769967>
+
+### Kinderchorleitung - Übung
+
+- **Campo-Segment:** `exam:15864063`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028920|exam:15864063>
+
+### Kinderchorleitung - Übung
+
+- **Campo-Segment:** `exam:15864064`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029049|exam:15864064>
+
+### Körpertechniken des Selbst: Yoga und Achtsamkeit zwischen Emanzipation und Normierung - Seminar
+
+- **Campo-Segment:** `exam:15725502`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026055|exam:15725502>
+
+### Künstlerische Studienfahrt  - Seminar
+
+- **Campo-Segment:** `exam:15770357`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029097|exam:15770357>
+
+### Lehrveranstaltung freier Bereich  - Übung
+
+- **Campo-Segment:** `exam:15727494`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026030|exam:15727494>
+
+### Lehrveranstaltung freier Bereich  - Übung
+
+- **Campo-Segment:** `exam:15727505`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026165|exam:15727505>
+
+### Lehrveranstaltung freier Bereich  - Übung
+
+- **Campo-Segment:** `exam:15727550`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:15727550>
+
+### Lehrveranstaltung freier Bereich  - Übung
+
+- **Campo-Segment:** `exam:15727541`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:15727541>
+
+### Lehrveranstaltung freier Bereich  - Übung
+
+- **Campo-Segment:** `exam:15727523`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028941|exam:15727523>
+
+### Moderieren - nicht nur in Radio Fernsehen und Podcast - Seminar
+
+- **Campo-Segment:** `exam:15733282`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026013|exam:15733282>
+
+### Moderieren - nicht nur in Radio Fernsehen und Podcast - Seminar
+
+- **Campo-Segment:** `exam:15733270`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026030|exam:15733270>
+
+### Modul III: WiPra-Austausch&Reflexion: Motivation und Emotion. Beziehungsgestaltung und motivationale, emotionale Kompetenzen im Klassenzimmer - Seminar
+
+- **Campo-Segment:** `exam:15740058`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15026731|exam:15026740|exam:15740058>
+
+### Modul III: WiPra-Austausch&Reflexion: Motivation und Emotion. Beziehungsgestaltung und motivationale, emotionale Kompetenzen im Klassenzimmer - Seminar
+
+- **Campo-Segment:** `exam:15740033`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15029120|exam:15029129|exam:15740033>
+
+### Modul III: WiPra-Austausch&Reflexion: Motivation und Emotion. Beziehungsgestaltung und motivationale, emotionale Kompetenzen im Klassenzimmer - Seminar
+
+- **Campo-Segment:** `exam:15740008`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15030843|exam:15030844|exam:15030845|exam:15030846|exam:15030855|exam:15740008>
+
+### Männlichkeit, Macht und Pädagogik - emanzipatorische Perspektiven für Schule und Erziehung  (Angebot am Standort Erlangen) - Seminar
+
+- **Campo-Segment:** `exam:15725984`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15026731|exam:15026807|exam:15725984>
+
+### Männlichkeit, Macht und Pädagogik - emanzipatorische Perspektiven für Schule und Erziehung  (Angebot am Standort Erlangen) - Seminar
+
+- **Campo-Segment:** `exam:15725951`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15029120|exam:15029195|exam:15725951>
+
+### Männlichkeit, Macht und Pädagogik - emanzipatorische Perspektiven für Schule und Erziehung  (Angebot am Standort Erlangen) - Seminar
+
+- **Campo-Segment:** `exam:15725968`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15030843|exam:15030844|exam:15030845|exam:15030846|exam:15030921|exam:15725968>
+
+### NdL-Examenskurs (Erlangen) - Examensseminar
+
+- **Campo-Segment:** `exam:15699967`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026186|exam:15699967>
+
+### NdL-Examenskurs (Erlangen) - Examensseminar
+
+- **Campo-Segment:** `exam:15699980`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028962|exam:15699980>
+
+### NdL-Examenskurs (Nürnberg) - Examensseminar
+
+- **Campo-Segment:** `exam:15700829`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026186|exam:15700829>
+
+### NdL-Examenskurs (Nürnberg) - Examensseminar
+
+- **Campo-Segment:** `exam:15700771`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028962|exam:15700771>
+
+### Oberseminar - Oberseminar
+
+- **Campo-Segment:** `exam:15777104`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026148|exam:15777104>
+
+### Peter Thiel, JD Vance & die globale „Ökumene des Hasses“: Anti-Diversitätskampagnen im Namen von Meinungs-, Religionsfreiheit und anderen Menschenrechten - Vorlesung mit Übung
+
+- **Campo-Segment:** `exam:15725473`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026055|exam:15725473>
+
+### Planspiel Demokratie:  Entwicklung einer innovativen Lehrmethode zusammen mit Schülern (Standort Erlangen) - Seminar
+
+- **Campo-Segment:** `exam:15026884`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15026731|exam:15026847|exam:15026884>
+
+### Planspiel Demokratie:  Entwicklung einer innovativen Lehrmethode zusammen mit Schülern (Standort Erlangen) - Seminar
+
+- **Campo-Segment:** `exam:15029272`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15029120|exam:15029235|exam:15029272>
+
+### Planspiel Demokratie:  Entwicklung einer innovativen Lehrmethode zusammen mit Schülern (Standort Erlangen) - Seminar
+
+- **Campo-Segment:** `exam:15030992`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15030843|exam:15030844|exam:15030845|exam:15030846|exam:15030958|exam:15030992>
+
+### Poetik-Kolleg: Ann Cotten - Seminar und Übung
+
+- **Campo-Segment:** `exam:15026712`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:15026712>
+
+### Pädagogische Anthropologie und Sozialisationstheorie - Vorlesung
+
+- **Campo-Segment:** `exam:15725776`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15026731|exam:15026832|exam:15725776>
+
+### Pädagogische Anthropologie und Sozialisationstheorie - Vorlesung
+
+- **Campo-Segment:** `exam:15725801`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15029120|exam:15029220|exam:15725801>
+
+### Pädagogische Anthropologie und Sozialisationstheorie - Vorlesung
+
+- **Campo-Segment:** `exam:15725760`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15030843|exam:15030844|exam:15030845|exam:15030846|exam:15030943|exam:15725760>
+
+### Qualität von Schule und Unterricht datengestützt und kooperativ weiterentwickeln (Angebot am Standort Erlangen) - Seminar
+
+- **Campo-Segment:** `exam:15768029`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15026731|exam:15026807|exam:15768029>
+
+### Qualität von Schule und Unterricht datengestützt und kooperativ weiterentwickeln (Angebot am Standort Erlangen) - Seminar
+
+- **Campo-Segment:** `exam:15768013`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15029120|exam:15029195|exam:15768013>
+
+### Qualität von Schule und Unterricht datengestützt und kooperativ weiterentwickeln (Angebot am Standort Erlangen) - Seminar
+
+- **Campo-Segment:** `exam:15767988`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15030843|exam:15030844|exam:15030845|exam:15030846|exam:15030921|exam:15767988>
+
+### Resonanzen des Heiligen. Interreligiöser Dialog durch Musik - Übung
+
+- **Campo-Segment:** `exam:15726273`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026030|exam:15726273>
+
+### Resonanzen des Heiligen. Interreligiöser Dialog durch Musik - Übung
+
+- **Campo-Segment:** `exam:15726284`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026080|exam:15726284>
+
+### Schule als Kulturort und Erfahrungsraum demokratischer Mitgestaltung?  Pädagogische Haltung und Praxis in postdigitalen und planetaren Dynamiken (Angebot am Standort Erlangen) - Seminar
+
+- **Campo-Segment:** `exam:15725909`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15026731|exam:15026847|exam:15725909>
+
+### Schule als Kulturort und Erfahrungsraum demokratischer Mitgestaltung?  Pädagogische Haltung und Praxis in postdigitalen und planetaren Dynamiken (Angebot am Standort Erlangen) - Seminar
+
+- **Campo-Segment:** `exam:15725893`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15029120|exam:15029235|exam:15725893>
+
+### Schule als Kulturort und Erfahrungsraum demokratischer Mitgestaltung?  Pädagogische Haltung und Praxis in postdigitalen und planetaren Dynamiken (Angebot am Standort Erlangen) - Seminar
+
+- **Campo-Segment:** `exam:15725917`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15030843|exam:15030844|exam:15030845|exam:15030846|exam:15030958|exam:15725917>
+
+### Schule und Ungleichheit(Standort Erlangen) - Seminar
+
+- **Campo-Segment:** `exam:15773474`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15026731|exam:15026807|exam:15773474>
+
+### Schule und Ungleichheit(Standort Erlangen) - Seminar
+
+- **Campo-Segment:** `exam:15773498`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15029120|exam:15029195|exam:15773498>
+
+### Schule und Ungleichheit(Standort Erlangen) - Seminar
+
+- **Campo-Segment:** `exam:15773482`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15030843|exam:15030844|exam:15030845|exam:15030846|exam:15030921|exam:15773482>
+
+### SE KI in kirchlicher Praxis: methodische und praktisch-theologische Erkundungen - Seminar
+
+- **Campo-Segment:** `exam:15906520`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026126|exam:15906520>
+
+### Steinbildhauerei (A+V) - Seminar
+
+- **Campo-Segment:** `exam:15769636`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029100|exam:15769636>
+
+### US Cultural and Literary History: The 19th Century - Vorlesung
+
+- **Campo-Segment:** `exam:15777335`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026156|exam:15777335>
+
+### US Cultural and Literary History: The 19th Century - Vorlesung
+
+- **Campo-Segment:** `exam:15777346`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:15777346>
+
+### Vertiefung schulpädagogischer Fragestellungen - Seminar
+
+- **Campo-Segment:** `exam:15767175`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15026731|exam:15026807|exam:15767175>
+
+### Vertiefung schulpädagogischer Fragestellungen - Seminar
+
+- **Campo-Segment:** `exam:15767208`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15029120|exam:15029195|exam:15767208>
+
+### Vertiefung schulpädagogischer Fragestellungen - Seminar
+
+- **Campo-Segment:** `exam:15767183`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15030843|exam:15030844|exam:15030845|exam:15030846|exam:15030921|exam:15767183>
+
+### Wissenschaftliches Arbeiten für Abschlussarbeiten in der Mathematikdidaktik - Seminar
+
+- **Campo-Segment:** `exam:15902670`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15888518|exam:15902670>
+
+### Wissenschaftliches Arbeiten für Abschlussarbeiten in der Mathematikdidaktik - Seminar
+
+- **Campo-Segment:** `exam:15902679`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15889112|exam:15902679>
+
+### Überblick - Ausblick: Fokus Werkanalyse - Seminar
+
+- **Campo-Segment:** `exam:15777769`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029093|exam:15777769>
+
+### Überblick-Ausblick/Examenskolloquium: Fokus Kunstdidaktik - Seminar
+
+- **Campo-Segment:** `exam:15758523`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029093|exam:15758523>
+
+### 44001 Wissenschaftsreflexion & Studienerfolg 1 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17704776`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17704776>
+
+### 44001 Wissenschaftsreflexion & Studienerfolg 1 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17705179`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17705179>
+
+### 44002 Wissenschaftsreflexion & Studienerfolg 2 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17704816`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17704816>
+
+### 44002 Wissenschaftsreflexion & Studienerfolg 2 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17705219`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17705219>
+
+### 44003 Wissenschaftsreflexion & Studienerfolg 3 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17704796`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17704796>
+
+### 44003 Wissenschaftsreflexion & Studienerfolg 3 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17705149`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17705149>
+
+### 44004 Wissenschaftsreflexion & Studienerfolg 4 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17704766`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17704766>
+
+### 44004 Wissenschaftsreflexion & Studienerfolg 4 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17705028`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17705028>
+
+### 44005 Wissenschaftsreflexion & Studienerfolg 5 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17704806`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17704806>
+
+### 44005 Wissenschaftsreflexion & Studienerfolg 5 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17704988`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17704988>
+
+### 44006 Wissenschaftsreflexion & Studienerfolg 6 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17704736`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17704736>
+
+### 44006 Wissenschaftsreflexion & Studienerfolg 6 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17705088`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17705088>
+
+### 44007 Wissenschaftsreflexion & Studienerfolg 7 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17704726`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17704726>
+
+### 44007 Wissenschaftsreflexion & Studienerfolg 7 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17705078`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17705078>
+
+### 44009 Wissenschaftsreflexion & Studienerfolg 9 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17704926`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17704926>
+
+### 44009 Wissenschaftsreflexion & Studienerfolg 9 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17705159`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17705159>
+
+### 44010 Wissenschaftsreflexion & Studienerfolg 10 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17704746`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17704746>
+
+### 44010 Wissenschaftsreflexion & Studienerfolg 10 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17705189`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17705189>
+
+### 44011 Wissenschaftsreflexion & Studienerfolg 11 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17704866`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17704866>
+
+### 44011 Wissenschaftsreflexion & Studienerfolg 11 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17705129`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17705129>
+
+### 44012 Wissenschaftsreflexion & Studienerfolg 12 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17704966`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17704966>
+
+### 44012 Wissenschaftsreflexion & Studienerfolg 12 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17705098`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17705098>
+
+### 44016 Wissenschaftsreflexion & Studienerfolg 16 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17704756`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17704756>
+
+### 44016 Wissenschaftsreflexion & Studienerfolg 16 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17705139`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17705139>
+
+### 44017 Wissenschaftsreflexion & Studienerfolg 17 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17704916`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17704916>
+
+### 44017 Wissenschaftsreflexion & Studienerfolg 17 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17705058`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17705058>
+
+### 44018 Wissenschaftsreflexion & Studienerfolg 18 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17704936`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17704936>
+
+### 44018 Wissenschaftsreflexion & Studienerfolg 18 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17705119`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17705119>
+
+### 44019 Wissenschaftsreflexion & Studienerfolg 19 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17704946`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17704946>
+
+### 44019 Wissenschaftsreflexion & Studienerfolg 19 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17705038`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17705038>
+
+### 44022 Wissenschaftsreflexion & Studienerfolg 22 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17704886`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17704886>
+
+### 44022 Wissenschaftsreflexion & Studienerfolg 22 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17705048`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17705048>
+
+### 44023 Wissenschaftsreflexion & Studienerfolg 23 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17704836`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17704836>
+
+### 44023 Wissenschaftsreflexion & Studienerfolg 23 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17705209`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17705209>
+
+### 44024 Wissenschaftsreflexion & Studienerfolg 24 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17704896`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17704896>
+
+### 44024 Wissenschaftsreflexion & Studienerfolg 24 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17705008`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17705008>
+
+### 44026 Wissenschaftsreflexion & Studienerfolg 26 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17705747`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17705747>
+
+### 44026 Wissenschaftsreflexion & Studienerfolg 26 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17706139`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17706139>
+
+### 44029 Wissenschaftsreflexion & Studienerfolg 29 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17705917`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17705917>
+
+### 44029 Wissenschaftsreflexion & Studienerfolg 29 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17706209`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17706209>
+
+### 44030 Wissenschaftsreflexion & Studienerfolg 30 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17705797`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17705797>
+
+### 44030 Wissenschaftsreflexion & Studienerfolg 30 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17706189`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17706189>
+
+### 44035 Wissenschaftsreflexion & Studienerfolg 35 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17705887`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17705887>
+
+### 44035 Wissenschaftsreflexion & Studienerfolg 35 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17706039`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17706039>
+
+### 44037 Wissenschaftsreflexion & Studienerfolg 37 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17705957`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17705957>
+
+### 44037 Wissenschaftsreflexion & Studienerfolg 37 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17705979`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17705979>
+
+### 44038 Wissenschaftsreflexion & Studienerfolg 38 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17705947`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17705947>
+
+### 44038 Wissenschaftsreflexion & Studienerfolg 38 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17706199`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17706199>
+
+### 44039 Wissenschaftsreflexion & Studienerfolg 39 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17705837`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17705837>
+
+### 44039 Wissenschaftsreflexion & Studienerfolg 39 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17706069`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17706069>
+
+### 44045 Wissenschaftsreflexion & Studienerfolg 45 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17705807`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17705807>
+
+### 44045 Wissenschaftsreflexion & Studienerfolg 45 (2,5 ECTS) - Platzhalterprüfung
+
+- **Campo-Segment:** `exam:17706149`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17706149>
+
+### 54943 Ausgewählte Themen der Mathematikdidaktik mit Bezug zur Digitalisierung (MD2SSekI) - Leistung
+
+- **Campo-Segment:** `exam:15914757`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15889112|exam:15914757>
+
+### 54944 Ausgewählte Themen der Mathematikdidaktik mit Bezug zu Heterogenität und Inklusion (MD2SSekI) - Leistung
+
+- **Campo-Segment:** `exam:15914721`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15889112|exam:15914721>
+
+### 54961 Staatsexamenskurs Mathematikdidaktik Sekundarstufe I (MDExSekI) - Leistung
+
+- **Campo-Segment:** `exam:15889084`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15889083|exam:15889084>
+
+### 55121 Staatsexamenskurs Mathematikdidaktik (MDExGym) - Leistung
+
+- **Campo-Segment:** `exam:15888473`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15888464|exam:15888473>
+
+### 55152 Didaktik im Bereich Zahl und Operation, Muster und Funktionaler Zusammenhang (MD1Gym) - Leistung
+
+- **Campo-Segment:** `exam:15914649`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15888518|exam:15914649>
+
+### 55153 Didaktik im Bereich Raum und Form (MD1Gym) - Leistung
+
+- **Campo-Segment:** `exam:15914640`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15888518|exam:15914640>
+
+### 55253 Ausgewählte Themen der Sekundarstufen-Mathematikdidaktik mit Bezug zur Digitalisierung (MD2SGym) - Leistung
+
+- **Campo-Segment:** `exam:15914694`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15888518|exam:15914694>
+
+### 55254 Ausgewählte Themen der Sekundarstufen-Mathematikdidaktik mit Bezug zu Heterogenität und Inklusion (MD2SGym) - Leistung
+
+- **Campo-Segment:** `exam:15914658`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15888518|exam:15914658>
+
+### 55262 Didaktik der Analysis (MD2V/SGym) - Leistung
+
+- **Campo-Segment:** `exam:15914965`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15889112|exam:15914965>
+
+### 59705 Fachtheorie (Kunst) (2 ECTS) - Leistung
+
+- **Campo-Segment:** `exam:15026666`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:15026666>
+
+### 59705 Fachtheorie (Kunst) (2 ECTS) - Leistung
+
+- **Campo-Segment:** `exam:15028829`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:15028829>
+
+### 59707 Staatsexamenskurs Mathematik (nicht-vertieft) - Leistung
+
+- **Campo-Segment:** `exam:15028831`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:15028831>
+
+### 59710 Geographiedidaktik (2 ECTS) - Leistung
+
+- **Campo-Segment:** `exam:15026669`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:15026669>
+
+### 59710 Geographiedidaktik (2 ECTS) - Leistung
+
+- **Campo-Segment:** `exam:15028836`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:15028836>
+
+### 59722 Freier Bereich für Didaktik von Politik und Gesellschaft (3 ECTS) - Leistung
+
+- **Campo-Segment:** `exam:15026706`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:15026706>
+
+### 59722 Freier Bereich für Didaktik von Politik und Gesellschaft (3 ECTS) - Leistung
+
+- **Campo-Segment:** `exam:15028868`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:15028868>
+
+### 59723 Freier Bereich Didaktik des Deutschen als Zweitsprache (3 ECTS) - Leistung
+
+- **Campo-Segment:** `exam:15026707`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:15026707>
+
+### 59723 Freier Bereich Didaktik des Deutschen als Zweitsprache (3 ECTS) - Leistung
+
+- **Campo-Segment:** `exam:15028869`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:15028869>
+
+### 59730 Freier Bereich Sport - Tag der Lehre - Leistung
+
+- **Campo-Segment:** `exam:15913641`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:15913641>
+
+### 59730 Freier Bereich Sport - Tag der Lehre - Leistung
+
+- **Campo-Segment:** `exam:15913624`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:15913624>
+
+### 59731 Freier Bereich ev. Religionslehre - undefiniert
+
+- **Campo-Segment:** `exam:17797479`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17797479>
+
+### 59731 Freier Bereich ev. Religionslehre - undefiniert
+
+- **Campo-Segment:** `exam:17797461`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17797461>
+
+### 59731 Leichtathletik 3 - Leistung
+
+- **Campo-Segment:** `exam:15943039`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:15943039>
+
+### 59732 Planung, Durchführung und Evaluation eines Sportevents - Leistung
+
+- **Campo-Segment:** `exam:17807625`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17807625>
+
+### 59732 Planung, Durchführung und Evaluation eines Sportevents - Leistung
+
+- **Campo-Segment:** `exam:17807607`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17807607>
+
+### 59733 Sportspiele - Trends und Entwicklungen - Leistung
+
+- **Campo-Segment:** `exam:15943075`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:15943075>
+
+### 66132 Examensvorbereitung Musik Übung 2 - Leistung
+
+- **Campo-Segment:** `exam:15029086`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029084|exam:15029086>
+
+### 76111 Examenskolloquium Soziologie
+
+- **Campo-Segment:** `exam:17885127`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:17885127>
+
+### 76111 Examenskolloquium Soziologie
+
+- **Campo-Segment:** `exam:17887102`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:17887102>
+
+### 76611 Audio- und Videotechnik
+
+- **Campo-Segment:** `exam:15029045`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029045>
+
+### Bewegung (Theologie; Gesellschaftswissenschaften) - (Religions-)Unterricht in Bewegung - bewegter (Religions-)Unterricht  - Hauptseminar
+
+- **Campo-Segment:** `exam:15026265`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026253|exam:15026265>
+
+### Bewegung (Theologie; Gesellschaftswissenschaften) - (Religions-)Unterricht in Bewegung - bewegter (Religions-)Unterricht  - Hauptseminar
+
+- **Campo-Segment:** `exam:15029026`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029014|exam:15029026>
+
+### Das Seminar berücksichtigt auch die Schnittstelle von digtial/analog- - Mixed-Media (A+V) - Seminar
+
+- **Campo-Segment:** `exam:15768279`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029100|exam:15768279>
+
+## Veranstaltungen (674)
 
 ### (LA PRF) - Staatsexamensvorbereitung OC (LAnv)  - Seminar
 
@@ -48,98 +980,15 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mo | 15:00–18:00 | 13.04.2026–13.07.2026 | 13301.00.110 (00.110 - Chemikum Seminarraum Organische Chemie) |
 
-### #Christus - Social Media, Identität_en und der Christusbegriff - Seminar
-
-- **Segment:** `exam:15733351` · **unitId:** `134738`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026080|exam:15733351>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134738&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 06201.01.024 (TSG R. 1.024 Bibliothek Christliche Publizistik/Syst. Theologie/Ethik) |
-
-### (Multidisziplinäres) Wahlmodul PT - Übung
-
-- **Segment:** `exam:15727473` · **unitId:** `134629`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026030|exam:15727473>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134629&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| 14-täglich | Di | 12:00–14:00 | 21.04.2026–14.07.2026 | 06201.U1.031 (TSG U1.031 Bibliothek Systematische Theologie) |
-
-### (Multidisziplinäres) Wahlmodul PT - Übung
-
-- **Segment:** `exam:15727475` · **unitId:** `134629`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026080|exam:15727475>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134629&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| 14-täglich | Di | 12:00–14:00 | 21.04.2026–14.07.2026 | 06201.U1.031 (TSG U1.031 Bibliothek Systematische Theologie) |
-
-### A+V 3D-Druck  - Seminar
-
-- **Segment:** `exam:15769797` · **unitId:** `135034`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029100|exam:15769797>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135034&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Sa | 09:00–18:00 | 09.05.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
-| Einzeltermin | Sa | 09:00–18:00 | 20.06.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
-| Einzeltermin | Sa | 09:00–18:00 | 04.07.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
-| Einzeltermin | Fr | 14:00–18:00 | 31.07.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
-
-### A+V Zeichnen für Fortgeschrittene - Seminar
-
-- **Segment:** `exam:15769289` · **unitId:** `134734`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029100|exam:15769289>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134734&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 08:00–09:30 | 23.04.2026–16.07.2026 | 75201.00.204 (St.Paul 00.204 Malsaal, Belegung nur durch den Lehrstuhl für Kunstpädagogik) |
-
 ### Aktuelle erziehungswissenschaftliche Probleme und Fragestelungen (Angebot am Standort Erlangen) - Vorlesung
 
 - **Segment:** `exam:15726029` · **unitId:** `134651`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15026731|exam:15026847|exam:15726029>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134651&periodId=589>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -153,7 +1002,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15029120|exam:15029235|exam:15726013>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134651&periodId=589>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -167,21 +1018,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15030843|exam:15030844|exam:15030845|exam:15030846|exam:15030958|exam:15725997>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134651&periodId=589>
 
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–09.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-
-### Aktzeichnen (A+V) - Seminar
-
-- **Segment:** `exam:15769457` · **unitId:** `135032`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029100|exam:15769457>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135032&periodId=589>
-
-- **Veranstaltungsart:** Seminar
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
@@ -189,7 +1026,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 16:00–18:00 | 23.04.2026–16.07.2026 | 75201.00.204 (St.Paul 00.204 Malsaal, Belegung nur durch den Lehrstuhl für Kunstpädagogik) |
+| wöchentlich | Do | 14:00–16:00 | 16.04.2026–09.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
 
 ### Alttestamentliche Übung für alle Studiengänge - Übung
 
@@ -208,103 +1045,15 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 06201.00.025 (TSG R. 0.025 Bibliothek Altes Testament) |
 
-### Aquarell (A+V)  - Seminar
-
-- **Segment:** `exam:15768440` · **unitId:** `134733`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029100|exam:15768440>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134733&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 18:30–19:30 | 05.05.2026 | — |
-| Blockveranstaltung | — | 09:30–16:30 | 30.07.2026–31.07.2026 | 75201.00.310 (St.Paul 00.310 Textilwerkstatt (40)) |
-| Einzeltermin | Sa | 10:00–12:00 | 01.08.2026 | — |
-| Einzeltermin | So | 10:00–12:00 | 02.08.2026 | — |
-
-### Asiatisch-Afrikanische Religionen: Transkulturelle Dynamiken und Wirtschaftsinteressen im globalen Kontext - Seminar
-
-- **Segment:** `exam:15725251` · **unitId:** `134628`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026055|exam:15725251>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134628&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 18:00–20:00 | 08.04.2026 | 07501.00.006 (Jordanweg 2) |
-| Blockveranstaltung | — | 09:00–16:00 | 28.05.2026–29.05.2026 | — |
-
-### Aufbaumodul: Seminar : zentrale/ausgewählte Fragestellungen - Seminar
-
-- **Segment:** `exam:15797228` · **unitId:** `134112`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15025945|exam:15797228>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134112&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 00501.02.012 ( KH 2.012 Hörsaal Kollegienhaus) |
-
-### Aufbaumodul: Seminar : Zentrale/Ausgewählte Fragestellungen - Seminar
-
-- **Segment:** `exam:15797246` · **unitId:** `135151`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15025945|exam:15797246>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135151&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Turnus:** nur im Sommersemester
-
-### Aufbaumodul: Seminar : zentrale/ausgewählte Fragestellungen - Seminar
-
-- **Segment:** `exam:15797219` · **unitId:** `134112`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15025948|exam:15797219>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134112&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 00501.02.012 ( KH 2.012 Hörsaal Kollegienhaus) |
-
-### Aufbaumodul: Seminar : Zentrale/Ausgewählte Fragestellungen - Seminar
-
-- **Segment:** `exam:15797237` · **unitId:** `135151`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15025948|exam:15797237>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135151&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Turnus:** nur im Sommersemester
-
 ### Auftrittstraining 1 - Übung
 
 - **Segment:** `exam:15864055` · **unitId:** `128315`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029059|exam:15864055>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128315&periodId=589>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
 
 #### Termine
 
@@ -318,7 +1067,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029084|exam:15864056>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128315&periodId=589>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
 
 #### Termine
 
@@ -377,7 +1128,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mo | 08:00–09:30 | 13.04.2026–13.07.2026 | 20301.U1.014 (U1.014 Seminarraum (40)) |
 
-### Begleitveranstaltung studienbegleitendes Praktikum an Realschulen - Seminar
+### Begleitveranstaltung studienbegleitendes Praktikum an Realschulen - Englisch - Seminar
 
 - **Segment:** `exam:15029296` · **unitId:** `115090`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15029281|exam:15029282|exam:15029296>
@@ -433,6 +1184,12 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** in jedem Semester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+
 ### Bildung und Erziehung in historischer und systematischer Perspektive (Angebot am Standort Erlangen) - Vorlesung
 
 - **Segment:** `exam:15725987` · **unitId:** `115892`
@@ -441,6 +1198,12 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
 ### Bildung und Erziehung in historischer und systematischer Perspektive (Angebot am Standort Erlangen) - Vorlesung
 
@@ -451,101 +1214,11 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** in jedem Semester
 
-### Bildung, Macht, Kritik - Einführung in eine kritische Pädagogik für Schule und Unterricht  (Angebot am Standort Erlangen) - Seminar
-
-- **Segment:** `exam:15725743` · **unitId:** `134639`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15026731|exam:15026807|exam:15725743>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134639&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 05701.00.021 ( 00.021 Seminarraum) |
-
-### Bildung, Macht, Kritik - Einführung in eine kritische Pädagogik für Schule und Unterricht  (Angebot am Standort Erlangen) - Seminar
-
-- **Segment:** `exam:15725718` · **unitId:** `134639`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15029120|exam:15029195|exam:15725718>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134639&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 05701.00.021 ( 00.021 Seminarraum) |
-
-### Bildung, Macht, Kritik - Einführung in eine kritische Pädagogik für Schule und Unterricht  (Angebot am Standort Erlangen) - Seminar
-
-- **Segment:** `exam:15725702` · **unitId:** `134639`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15030843|exam:15030844|exam:15030845|exam:15030846|exam:15030921|exam:15725702>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134639&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 05701.00.021 ( 00.021 Seminarraum) |
-
-### Bildungs- und sozialwissenschaftliche Perspektiven auf Lehrer*innenprofessionalität (Angebot am Standort Erlangen) - Seminar
-
-- **Segment:** `exam:15725835` · **unitId:** `134644`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15026731|exam:15026847|exam:15725835>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134644&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 05701.00.021 ( 00.021 Seminarraum) |
-
-### Bildungs- und sozialwissenschaftliche Perspektiven auf Lehrer*innenprofessionalität (Angebot am Standort Erlangen) - Seminar
-
-- **Segment:** `exam:15725859` · **unitId:** `134644`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15029120|exam:15029235|exam:15725859>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134644&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 05701.00.021 ( 00.021 Seminarraum) |
-
-### Bildungs- und sozialwissenschaftliche Perspektiven auf Lehrer*innenprofessionalität (Angebot am Standort Erlangen) - Seminar
-
-- **Segment:** `exam:15725843` · **unitId:** `134644`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15030843|exam:15030844|exam:15030845|exam:15030846|exam:15030958|exam:15725843>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134644&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 05701.00.021 ( 00.021 Seminarraum) |
+| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
 ### Blockseminar - Projektseminar
 
@@ -670,24 +1343,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Do | 16:00–17:30 | 16.04.2026–16.07.2026 | 11302.05.134 (05.134 Didaktik-Labor) 11302.04.150 12801.01.252 (Übung 3 / 01.252-128) |
 
-### Der Dekalog: religionsgeschichtliche Hintergründe und mediale Adaptierungen - Seminar
-
-- **Segment:** `exam:15727465` · **unitId:** `130155`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026080|exam:15727465>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130155&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 06201.02.020 ( TSG HS B (02.020) Theologisches Seminargebäude, Kochstraße 6) 06201.U1.031 (TSG U1.031 Bibliothek Systematische Theologie) |
-| Einzeltermin | Do | 16:00–18:00 | 16.07.2026 | 06201.02.021 ( TSG HS A (02.021) Theologisches Seminargebäude, Kochstraße 6) |
-
 ### Didaktik der Analysis - Seminar
 
 - **Segment:** `exam:17861465` · **unitId:** `84991`
@@ -704,42 +1359,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 08:15–09:45 | 13.04.2026–13.07.2026 | 12801.01.220 (H12 Emmy-Noether-Hörsaal) |
-
-### Die Nachricht im Info-Tsunami - oder: Accuracy always takes precedence over speed. - durchgeführt von Oliver Trenkamp - Seminar
-
-- **Segment:** `exam:15733314` · **unitId:** `134697`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026013|exam:15733314>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134697&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Do | 09:30–17:30 | 11.06.2026 | 06201.01.024 (TSG R. 1.024 Bibliothek Christliche Publizistik/Syst. Theologie/Ethik) |
-| Einzeltermin | Fr | 09:30–17:30 | 12.06.2026 | 06201.01.024 (TSG R. 1.024 Bibliothek Christliche Publizistik/Syst. Theologie/Ethik) |
-| Einzeltermin | Sa | 09:30–14:30 | 13.06.2026 | 06201.01.024 (TSG R. 1.024 Bibliothek Christliche Publizistik/Syst. Theologie/Ethik) |
-
-### Die Nachricht im Info-Tsunami - oder: Accuracy always takes precedence over speed. - durchgeführt von Oliver Trenkamp - Seminar
-
-- **Segment:** `exam:15733309` · **unitId:** `134697`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026030|exam:15733309>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134697&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Do | 09:30–17:30 | 11.06.2026 | 06201.01.024 (TSG R. 1.024 Bibliothek Christliche Publizistik/Syst. Theologie/Ethik) |
-| Einzeltermin | Fr | 09:30–17:30 | 12.06.2026 | 06201.01.024 (TSG R. 1.024 Bibliothek Christliche Publizistik/Syst. Theologie/Ethik) |
-| Einzeltermin | Sa | 09:30–14:30 | 13.06.2026 | 06201.01.024 (TSG R. 1.024 Bibliothek Christliche Publizistik/Syst. Theologie/Ethik) |
 
 ### Digitaler Populismus in Religion und Politik - Seminar
 
@@ -827,9 +1446,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15026731|exam:15026790|exam:15026806>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127336&periodId=589>
 
-- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -843,9 +1460,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15029120|exam:15029178|exam:15029194>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127336&periodId=589>
 
-- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -859,9 +1474,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15030843|exam:15030844|exam:15030845|exam:15030846|exam:15030904|exam:15030920>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127336&periodId=589>
 
-- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -951,62 +1564,15 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Di | 15:45–16:30 | 14.04.2026–14.07.2026 | 20302.00.139 (0.139 Musiksaal (50)) |
 
-### Einführungskurs "Sicheres Arbeiten in der Holzwerkstatt" - Einführungskurs
-
-- **Segment:** `exam:17900833` · **unitId:** `131281`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029100|exam:17900833>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131281&periodId=589>
-
-- **Veranstaltungsart:** Einführungskurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 14:00–16:30 | 08.04.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
-| Einzeltermin | Do | 10:00–12:30 | 09.04.2026 | 75201.U1.202 (St.Paul U1.202 Werkstatt) |
-
-### Examenskolloquium Politikwissenschaft - Kolloquium
-
-- **Segment:** `exam:15794536` · **unitId:** `134411`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026726|exam:15794536>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134411&periodId=589>
-
-- **Veranstaltungsart:** Kolloquium
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 14:00–15:30 | 17.04.2026–17.07.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
-
-### Examenskolloquium Politikwissenschaft - Kolloquium
-
-- **Segment:** `exam:15794567` · **unitId:** `134411`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029112|exam:15794567>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134411&periodId=589>
-
-- **Veranstaltungsart:** Kolloquium
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 14:00–15:30 | 17.04.2026–17.07.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
-
 ### Examenskurs Didaktik für Wirtschaftswissenschaften Lehramt an Gym und RS - Seminar
 
 - **Segment:** `exam:15026704` · **unitId:** `86118`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:15026704>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86118&periodId=589>
 
+- **Veranstaltungsart:** Seminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -1023,7 +1589,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:15028866>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86118&periodId=589>
 
+- **Veranstaltungsart:** Seminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -1033,138 +1601,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Einzeltermin | Sa | 09:00–16:30 | 25.04.2026 | 05901.05.054 ( 05.054) |
 | Einzeltermin | Fr | 09:00–15:45 | 26.06.2026 | 05901.05.054 ( 05.054) |
 | Einzeltermin | Sa | 09:00–13:30 | 27.06.2026 | — |
-
-### Examenskurs für Studierende des Lehramts Grund,-und Mittelschule - Seminar
-
-- **Segment:** `exam:15782759` · **unitId:** `134118`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15025938|exam:15782759>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134118&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:00–15:30 | 13.04.2026–13.07.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
-
-### Examenskurs für Studierende des Lehramts Grund,-und Mittelschule - Seminar
-
-- **Segment:** `exam:15782603` · **unitId:** `134118`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028902|exam:15782603>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134118&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:00–15:30 | 13.04.2026–13.07.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
-
-### Examenskurs für Studierende des Lehramts Realschule und Gymnasium - Seminar
-
-- **Segment:** `exam:15783026` · **unitId:** `134114`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15025938|exam:15783026>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134114&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 00501.00.015 ( KH 0.015 Hörsaal Kollegienhaus (SR)) |
-
-### Examenskurs für Studierende des Lehramts Realschule und Gymnasium - Seminar
-
-- **Segment:** `exam:15783008` · **unitId:** `134114`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028902|exam:15783008>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134114&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 00501.00.015 ( KH 0.015 Hörsaal Kollegienhaus (SR)) |
-
-### Examenskurs Sozialkunde - Übung
-
-- **Segment:** `exam:15864801` · **unitId:** `133834`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026128|exam:15864801>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133834&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 15:45–17:15 | 16.04.2026–16.07.2026 | 20302.01.121 (1.121 Seminarraum (40)) |
-
-### Examenskurs Sozialkunde - Übung
-
-- **Segment:** `exam:15743447` · **unitId:** `133834`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026165|exam:15743447>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133834&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 15:45–17:15 | 16.04.2026–16.07.2026 | 20302.01.121 (1.121 Seminarraum (40)) |
-
-### Examenskurs Sozialkunde - Übung
-
-- **Segment:** `exam:15864783` · **unitId:** `133834`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028909|exam:15864783>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133834&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 15:45–17:15 | 16.04.2026–16.07.2026 | 20302.01.121 (1.121 Seminarraum (40)) |
-
-### Examenskurs Sozialkunde - Übung
-
-- **Segment:** `exam:15743465` · **unitId:** `133834`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028941|exam:15743465>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133834&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 15:45–17:15 | 16.04.2026–16.07.2026 | 20302.01.121 (1.121 Seminarraum (40)) |
 
 ### Examensseminar L-UF Sprachwissenschaft - Examensseminar
 
@@ -1181,102 +1617,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Fr | 11:30–13:00 | 17.04.2026–17.07.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
-
-### Examensseminar Mediävistik - Examensseminar
-
-- **Segment:** `exam:15026205` · **unitId:** `133751`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026186|exam:15026205>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133751&periodId=589>
-
-- **Veranstaltungsart:** Examensseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 14:00–16:30 | 17.04.2026–17.07.2026 | 05801.02.260 ( B 4A1) |
-
-### Examensseminar Mediävistik - Examensseminar
-
-- **Segment:** `exam:15028982` · **unitId:** `133751`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028962|exam:15028982>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133751&periodId=589>
-
-- **Veranstaltungsart:** Examensseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 14:00–16:30 | 17.04.2026–17.07.2026 | 05801.02.260 ( B 4A1) |
-
-### Examensvorbereitung Musikdidaktik - Seminar
-
-- **Segment:** `exam:15029091` · **unitId:** `132858`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029084|exam:15029091>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132858&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 08:00–09:30 | 15.04.2026–08.07.2026 | 20302.01.109 (1.109 Musikseminarraum (40)) |
-
-### Examensvorbereitung Schupra Gitarre (Didaktikfach) - Übung
-
-- **Segment:** `exam:15889160` · **unitId:** `136211`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029084|exam:15889160>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136211&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:45–15:30 | 16.04.2026–16.07.2026 | 20302.00.139 (0.139 Musiksaal (50)) |
-
-### Fachdidaktik II - Seminar
-
-- **Segment:** `exam:15727468` · **unitId:** `134657`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026080|exam:15727468>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134657&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** jedes 2. Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 06201.01.020 (TSG R. 1.020 Bibliothek Praktische Theologie) |
-
-### Fachdidaktik II - Seminar
-
-- **Segment:** `exam:15727467` · **unitId:** `134657`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026107|exam:15727467>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134657&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** jedes 2. Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 06201.01.020 (TSG R. 1.020 Bibliothek Praktische Theologie) |
 
 ### Forschungsseminar - Oberseminar
 
@@ -1513,22 +1853,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 ### HS Dogmatik - Hauptseminar
 
-- **Segment:** `exam:15026105` · **unitId:** `126503`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026080|exam:15026105>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126503&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:00–12:00 | 20.04.2026–13.07.2026 | — |
-
-### HS Dogmatik - Hauptseminar
-
 - **Segment:** `exam:15026277` · **unitId:** `82458`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026275|exam:15026277>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82458&periodId=589>
@@ -1542,55 +1866,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 08:00–10:00 | 16.04.2026–16.07.2026 | 06201.U1.031 (TSG U1.031 Bibliothek Systematische Theologie) |
-
-### HS Dogmatik - Hauptseminar
-
-- **Segment:** `exam:15026289` · **unitId:** `126503`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026275|exam:15026289>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126503&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:00–12:00 | 20.04.2026–13.07.2026 | — |
-
-### HS/Ü: Mehrsprachigkeit (in) der Literatur - Seminar und Übung
-
-- **Segment:** `exam:15026711` · **unitId:** `133787`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:15026711>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133787&periodId=589>
-
-- **Veranstaltungsart:** Seminar und Übung
-- **ECTS-Punkte:** 7.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 05902.00.015 ( 00.15 PSG) |
-
-### HS/Ü: Wie ediert man einen vergessenen Autor? Das Beispiel des jüdischen Berliner Schriftstellers und Künstlers Edmund Edel (1863-1934) - Seminar und Übung
-
-- **Segment:** `exam:15026713` · **unitId:** `133788`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:15026713>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133788&periodId=589>
-
-- **Veranstaltungsart:** Seminar und Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 10:00–12:00 | 17.04.2026–17.07.2026 | 05901.05.012 ( 05.012) |
 
 ### HS: Hauptseminar Ältere Kirchengeschichte - Hauptseminar
 
@@ -1624,38 +1899,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mo | 16:00–18:00 | 20.04.2026–13.07.2026 | 06201.U1.023 (TSG U1.023 Prüfungszimmer/Sitzungszimmer - intern!) |
 
-### Indigenität als Buzzword? Annäherungen an einen (un)umstrittenen Begriff - Seminar
-
-- **Segment:** `exam:15907075` · **unitId:** `135967`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026048|exam:15907075>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135967&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 07501.00.006 (Jordanweg 2) |
-
-### Indigenität als Buzzword? Annäherungen an einen (un)umstrittenen Begriff - Seminar
-
-- **Segment:** `exam:15876650` · **unitId:** `135967`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026055|exam:15876650>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135967&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 07501.00.006 (Jordanweg 2) |
-
 ### Interdisziplinäre Ringvorlesung Theologie - Vorlesung
 
 - **Segment:** `exam:15026085` · **unitId:** `111512`
@@ -1672,45 +1915,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 06201.02.021 ( TSG HS A (02.021) Theologisches Seminargebäude, Kochstraße 6) 06201.U1.023 (TSG U1.023 Prüfungszimmer/Sitzungszimmer - intern!) |
-
-### Interdisziplinäre und standortübergreifende Übung - Übung
-
-- **Segment:** `exam:15690650` · **unitId:** `133984`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026080|exam:15690650>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133984&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 08:00–10:00 | 17.04.2026–12.06.2026 | — |
-| Einzeltermin | Fr | 18:00–20:00 | 24.04.2026 | 06201.02.020 ( TSG HS B (02.020) Theologisches Seminargebäude, Kochstraße 6) |
-| Einzeltermin | Sa | 09:00–16:00 | 25.04.2026 | 06201.02.020 ( TSG HS B (02.020) Theologisches Seminargebäude, Kochstraße 6) |
-| Einzeltermin | Mo | 18:00–20:00 | 18.05.2026 | — |
-| Einzeltermin | Fr | 18:00–20:00 | 19.06.2026 | — |
-| Einzeltermin | Sa | 09:00–16:00 | 20.06.2026 | — |
-
-### Interdisziplinäre Übung - Übung
-
-- **Segment:** `exam:15715704` · **unitId:** `134386`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026275|exam:15715704>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134386&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 06201.U1.023 (TSG U1.023 Prüfungszimmer/Sitzungszimmer - intern!) |
 
 ### Interkulturelle Kompetenz: Theoretische und praktische Grundlagen - Seminar
 
@@ -1770,98 +1974,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 56701.03.011 |
 
-### Journalistische Berufsethik im digitalen Wandel - Seminar
-
-- **Segment:** `exam:15733256` · **unitId:** `134693`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026013|exam:15733256>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134693&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 16:00–18:00 | 14.04.2026–14.07.2026 | 06201.01.024 (TSG R. 1.024 Bibliothek Christliche Publizistik/Syst. Theologie/Ethik) |
-
-### Journalistische Berufsethik im digitalen Wandel - Seminar
-
-- **Segment:** `exam:15733252` · **unitId:** `134693`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026030|exam:15733252>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134693&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 16:00–18:00 | 14.04.2026–14.07.2026 | 06201.01.024 (TSG R. 1.024 Bibliothek Christliche Publizistik/Syst. Theologie/Ethik) |
-
-### Keramik (A+V) - Seminar
-
-- **Segment:** `exam:15769967` · **unitId:** `134743`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029100|exam:15769967>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134743&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 15:45–18:00 | 22.04.2026–15.07.2026 | 75201.U1.401 (St.Paul U1.401 Tonraum) |
-
-### Kinderchorleitung - Übung
-
-- **Segment:** `exam:15864063` · **unitId:** `132862`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028920|exam:15864063>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132862&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| nach Vereinbarung | — | — | — | — |
-| Blockveranstaltung | — | 09:45–13:00 | 17.04.2026 | 20302.01.132 (1.132 Aula (780)) |
-| Blockveranstaltung | — | 16:45–20:00 | 06.05.2026 | — |
-| Blockveranstaltung | — | 09:45–13:00 | 22.05.2026 | 20302.01.132 (1.132 Aula (780)) |
-| Blockveranstaltung | — | 09:45–13:00 | 12.06.2026 | 20302.01.132 (1.132 Aula (780)) |
-| Blockveranstaltung | — | 09:45–13:00 | 03.07.2026 | — |
-
-### Kinderchorleitung - Übung
-
-- **Segment:** `exam:15864064` · **unitId:** `132862`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029049|exam:15864064>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132862&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| nach Vereinbarung | — | — | — | — |
-| Blockveranstaltung | — | 09:45–13:00 | 17.04.2026 | 20302.01.132 (1.132 Aula (780)) |
-| Blockveranstaltung | — | 16:45–20:00 | 06.05.2026 | — |
-| Blockveranstaltung | — | 09:45–13:00 | 22.05.2026 | 20302.01.132 (1.132 Aula (780)) |
-| Blockveranstaltung | — | 09:45–13:00 | 12.06.2026 | 20302.01.132 (1.132 Aula (780)) |
-| Blockveranstaltung | — | 09:45–13:00 | 03.07.2026 | — |
-
 ### Konfessionelle Kooperation im Religionsunterricht - Praxisseminar
 
 - **Segment:** `exam:17773498` · **unitId:** `94284`
@@ -1912,39 +2024,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Fr | 08:00–09:30 | 17.04.2026–08.05.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 | Einzeltermin | Mi | 17:30–20:00 | 15.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
-
-### Körpertechniken des Selbst: Yoga und Achtsamkeit zwischen Emanzipation und Normierung - Seminar
-
-- **Segment:** `exam:15725502` · **unitId:** `134632`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026055|exam:15725502>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134632&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:00–12:00 | 13.04.2026–13.07.2026 | 07501.00.006 (Jordanweg 2) |
-
-### Künstlerische Studienfahrt  - Seminar
-
-- **Segment:** `exam:15770357` · **unitId:** `134744`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029097|exam:15770357>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134744&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung | — | 08:00–16:00 | 22.05.2026–29.05.2026 | — |
 
 ### LA M1 Allgemeine Pädagogik I: VL "Bildung und Erziehung in historischer und systematischer Perspektive" (Standort Nürnberg) - Vorlesung
 
@@ -2148,93 +2227,15 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | 14-täglich | Mo | 17:30–19:00 | 08.06.2026–06.07.2026 | — |
 | Einzeltermin | Mo | 17:30–19:00 | 13.07.2026 | — |
 
-### Lehrveranstaltung freier Bereich  - Übung
-
-- **Segment:** `exam:15727494` · **unitId:** `134658`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026030|exam:15727494>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134658&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | — |
-
-### Lehrveranstaltung freier Bereich  - Übung
-
-- **Segment:** `exam:15727505` · **unitId:** `134658`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026165|exam:15727505>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134658&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | — |
-
-### Lehrveranstaltung freier Bereich  - Übung
-
-- **Segment:** `exam:15727550` · **unitId:** `134658`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:15727550>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134658&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | — |
-
-### Lehrveranstaltung freier Bereich  - Übung
-
-- **Segment:** `exam:15727541` · **unitId:** `134658`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:15727541>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134658&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | — |
-
-### Lehrveranstaltung freier Bereich  - Übung
-
-- **Segment:** `exam:15727523` · **unitId:** `134658`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028941|exam:15727523>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134658&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | — |
-
 ### Leistungsmessung im RU - Übung
 
 - **Segment:** `exam:15845648` · **unitId:** `135676`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026080|exam:15845648>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135676&periodId=589>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
 
 #### Termine
 
@@ -2300,48 +2301,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-### Moderieren - nicht nur in Radio Fernsehen und Podcast - Seminar
-
-- **Segment:** `exam:15733282` · **unitId:** `134696`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026013|exam:15733282>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134696&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Do | 16:00–19:00 | 23.04.2026 | 06201.01.024 (TSG R. 1.024 Bibliothek Christliche Publizistik/Syst. Theologie/Ethik) |
-| Einzeltermin | Do | 16:00–19:00 | 30.04.2026 | — |
-| Einzeltermin | Do | 16:00–19:00 | 07.05.2026 | 06201.01.024 (TSG R. 1.024 Bibliothek Christliche Publizistik/Syst. Theologie/Ethik) |
-| Einzeltermin | Do | 16:00–19:00 | 21.05.2026 | — |
-| Einzeltermin | Do | 16:00–19:00 | 18.06.2026 | 06201.01.024 (TSG R. 1.024 Bibliothek Christliche Publizistik/Syst. Theologie/Ethik) |
-| Einzeltermin | Do | 16:00–19:00 | 25.06.2026 | — |
-
-### Moderieren - nicht nur in Radio Fernsehen und Podcast - Seminar
-
-- **Segment:** `exam:15733270` · **unitId:** `134696`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026030|exam:15733270>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134696&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Do | 16:00–19:00 | 23.04.2026 | 06201.01.024 (TSG R. 1.024 Bibliothek Christliche Publizistik/Syst. Theologie/Ethik) |
-| Einzeltermin | Do | 16:00–19:00 | 30.04.2026 | — |
-| Einzeltermin | Do | 16:00–19:00 | 07.05.2026 | 06201.01.024 (TSG R. 1.024 Bibliothek Christliche Publizistik/Syst. Theologie/Ethik) |
-| Einzeltermin | Do | 16:00–19:00 | 21.05.2026 | — |
-| Einzeltermin | Do | 16:00–19:00 | 18.06.2026 | 06201.01.024 (TSG R. 1.024 Bibliothek Christliche Publizistik/Syst. Theologie/Ethik) |
-| Einzeltermin | Do | 16:00–19:00 | 25.06.2026 | — |
 
 ### Modul 1 - Vorlesung: Pädagogische Anthropologie und Sozialisationstheorien (Standort Nürnberg) - Vorlesung
 
@@ -2979,57 +2938,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | 54301.02.216 ( 02.216 Seminarraum, Nägelsbachstr. 49b) |
 
-### Modul III: WiPra-Austausch&Reflexion: Motivation und Emotion. Beziehungsgestaltung und motivationale, emotionale Kompetenzen im Klassenzimmer - Seminar
-
-- **Segment:** `exam:15740058` · **unitId:** `130436`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15026731|exam:15026740|exam:15740058>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130436&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 16:00–18:00 | 16.04.2026–16.07.2026 | 05801.00.317 ( C 202) |
-
-### Modul III: WiPra-Austausch&Reflexion: Motivation und Emotion. Beziehungsgestaltung und motivationale, emotionale Kompetenzen im Klassenzimmer - Seminar
-
-- **Segment:** `exam:15740033` · **unitId:** `130436`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15029120|exam:15029129|exam:15740033>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130436&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 16:00–18:00 | 16.04.2026–16.07.2026 | 05801.00.317 ( C 202) |
-
-### Modul III: WiPra-Austausch&Reflexion: Motivation und Emotion. Beziehungsgestaltung und motivationale, emotionale Kompetenzen im Klassenzimmer - Seminar
-
-- **Segment:** `exam:15740008` · **unitId:** `130436`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15030843|exam:15030844|exam:15030845|exam:15030846|exam:15030855|exam:15740008>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130436&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 16:00–18:00 | 16.04.2026–16.07.2026 | 05801.00.317 ( C 202) |
-
 ### Modul III: WiPra-Seminar - Life-Skills für Lehramtsstudierende - Seminar
 
 - **Segment:** `exam:15026773` · **unitId:** `117492`
@@ -3084,64 +2992,13 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029059|exam:15029081>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128310&periodId=589>
 
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:00–15:30 | 13.04.2026–13.07.2026 | 20302.01.109 (1.109 Musikseminarraum (40)) |
-
-### Männlichkeit, Macht und Pädagogik - emanzipatorische Perspektiven für Schule und Erziehung  (Angebot am Standort Erlangen) - Seminar
-
-- **Segment:** `exam:15725984` · **unitId:** `134649`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15026731|exam:15026807|exam:15725984>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134649&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.021 ( 00.021 Seminarraum) |
-
-### Männlichkeit, Macht und Pädagogik - emanzipatorische Perspektiven für Schule und Erziehung  (Angebot am Standort Erlangen) - Seminar
-
-- **Segment:** `exam:15725951` · **unitId:** `134649`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15029120|exam:15029195|exam:15725951>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134649&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.021 ( 00.021 Seminarraum) |
-
-### Männlichkeit, Macht und Pädagogik - emanzipatorische Perspektiven für Schule und Erziehung  (Angebot am Standort Erlangen) - Seminar
-
-- **Segment:** `exam:15725968` · **unitId:** `134649`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15030843|exam:15030844|exam:15030845|exam:15030846|exam:15030921|exam:15725968>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134649&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.021 ( 00.021 Seminarraum) |
 
 ### Nachrichten aus den östlichen Kirchen (NÖK) - Vorlesung
 
@@ -3159,70 +3016,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 06201.01.017 (TSG R. 1.017 Bibliothek Reformierte Theologie) |
-
-### NdL-Examenskurs (Erlangen) - Examensseminar
-
-- **Segment:** `exam:15699967` · **unitId:** `134057`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026186|exam:15699967>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134057&periodId=589>
-
-- **Veranstaltungsart:** Examensseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 16:00–18:00 | 15.04.2026–15.07.2026 | 05902.00.003 ( 00.3 PSG) |
-
-### NdL-Examenskurs (Erlangen) - Examensseminar
-
-- **Segment:** `exam:15699980` · **unitId:** `134057`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028962|exam:15699980>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134057&periodId=589>
-
-- **Veranstaltungsart:** Examensseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 16:00–18:00 | 15.04.2026–15.07.2026 | 05902.00.003 ( 00.3 PSG) |
-
-### NdL-Examenskurs (Nürnberg) - Examensseminar
-
-- **Segment:** `exam:15700829` · **unitId:** `134065`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026186|exam:15700829>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134065&periodId=589>
-
-- **Veranstaltungsart:** Examensseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 16:00–17:30 | 14.04.2026–14.07.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
-
-### NdL-Examenskurs (Nürnberg) - Examensseminar
-
-- **Segment:** `exam:15700771` · **unitId:** `134065`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028962|exam:15700771>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134065&periodId=589>
-
-- **Veranstaltungsart:** Examensseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 16:00–17:30 | 14.04.2026–14.07.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
 
 ### Nürnberg V/UE Grundfragen der Religionspädagogik I - Vorlesung
 
@@ -3271,22 +3064,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 08:00–09:30 | 16.04.2026–16.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
-
-### Oberseminar - Oberseminar
-
-- **Segment:** `exam:15777104` · **unitId:** `134519`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026148|exam:15777104>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134519&periodId=589>
-
-- **Veranstaltungsart:** Oberseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 16:00–18:00 | 14.04.2026–14.07.2026 | 05801.01.310 ( C 301 Übungsraum) |
 
 ### Oberseminar Lehrstuhl NT1 - Oberseminar
 
@@ -3429,105 +3206,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Einzeltermin | Fr | 10:00–16:30 | 12.06.2026 | — |
 | Einzeltermin | Fr | 10:00–16:30 | 03.07.2026 | — |
 
-### Peter Thiel, JD Vance & die globale „Ökumene des Hasses“: Anti-Diversitätskampagnen im Namen von Meinungs-, Religionsfreiheit und anderen Menschenrechten - Vorlesung mit Übung
-
-- **Segment:** `exam:15725473` · **unitId:** `134630`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026055|exam:15725473>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134630&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 18:00–20:00 | 20.04.2026 | 07501.00.006 (Jordanweg 2) |
-| Blockveranstaltung+Sa | — | 09:00–19:00 | 08.05.2026–09.05.2026 | 07501.00.006 (Jordanweg 2) |
-| Einzeltermin | Mo | 18:00–20:00 | 11.05.2026 | 07501.00.006 (Jordanweg 2) |
-
-### Planspiel Demokratie:  Entwicklung einer innovativen Lehrmethode zusammen mit Schülern (Standort Erlangen) - Seminar
-
-- **Segment:** `exam:15026884` · **unitId:** `127570`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15026731|exam:15026847|exam:15026884>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127570&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 17:30–18:00 | 29.04.2026 | — |
-| Einzeltermin | Fr | 13:00–18:00 | 08.05.2026 | 05701.00.021 ( 00.021 Seminarraum) |
-| Einzeltermin | Fr | 13:00–17:00 | 22.05.2026 | 05701.00.021 ( 00.021 Seminarraum) |
-| Einzeltermin | Mo | 08:00–14:00 | 25.05.2026 | — |
-| Einzeltermin | Fr | 08:00–14:00 | 10.07.2026 | — |
-
-### Planspiel Demokratie:  Entwicklung einer innovativen Lehrmethode zusammen mit Schülern (Standort Erlangen) - Seminar
-
-- **Segment:** `exam:15029272` · **unitId:** `127570`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15029120|exam:15029235|exam:15029272>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127570&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 17:30–18:00 | 29.04.2026 | — |
-| Einzeltermin | Fr | 13:00–18:00 | 08.05.2026 | 05701.00.021 ( 00.021 Seminarraum) |
-| Einzeltermin | Fr | 13:00–17:00 | 22.05.2026 | 05701.00.021 ( 00.021 Seminarraum) |
-| Einzeltermin | Mo | 08:00–14:00 | 25.05.2026 | — |
-| Einzeltermin | Fr | 08:00–14:00 | 10.07.2026 | — |
-
-### Planspiel Demokratie:  Entwicklung einer innovativen Lehrmethode zusammen mit Schülern (Standort Erlangen) - Seminar
-
-- **Segment:** `exam:15030992` · **unitId:** `127570`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15030843|exam:15030844|exam:15030845|exam:15030846|exam:15030958|exam:15030992>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127570&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 17:30–18:00 | 29.04.2026 | — |
-| Einzeltermin | Fr | 13:00–18:00 | 08.05.2026 | 05701.00.021 ( 00.021 Seminarraum) |
-| Einzeltermin | Fr | 13:00–17:00 | 22.05.2026 | 05701.00.021 ( 00.021 Seminarraum) |
-| Einzeltermin | Mo | 08:00–14:00 | 25.05.2026 | — |
-| Einzeltermin | Fr | 08:00–14:00 | 10.07.2026 | — |
-
-### Poetik-Kolleg: Ann Cotten - Seminar und Übung
-
-- **Segment:** `exam:15026712` · **unitId:** `133784`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:15026712>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133784&periodId=589>
-
-- **Veranstaltungsart:** Seminar und Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | 05801.01.211 ( B 302) |
-| Einzeltermin | Fr | 14:00–17:00 | 24.04.2026 | — |
-| Einzeltermin | Fr | 10:00–17:00 | 22.05.2026 | 05801.01.211 ( B 302) |
-| Einzeltermin | Fr | 10:00–17:00 | 26.06.2026 | 05801.01.211 ( B 302) |
-| Einzeltermin | Fr | 10:00–17:00 | 10.07.2026 | — |
-| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | — |
-
 ### PuGDid 5: Examenskolloquium - Seminar
 
 - **Segment:** `exam:15026574` · **unitId:** `85660`
@@ -3547,81 +3225,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungsart:** Seminar
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
-
-### Pädagogische Anthropologie und Sozialisationstheorie - Vorlesung
-
-- **Segment:** `exam:15725776` · **unitId:** `134640`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15026731|exam:15026832|exam:15725776>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134640&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** in jedem Semester
-
-### Pädagogische Anthropologie und Sozialisationstheorie - Vorlesung
-
-- **Segment:** `exam:15725801` · **unitId:** `134640`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15029120|exam:15029220|exam:15725801>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134640&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** in jedem Semester
-
-### Pädagogische Anthropologie und Sozialisationstheorie - Vorlesung
-
-- **Segment:** `exam:15725760` · **unitId:** `134640`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15030843|exam:15030844|exam:15030845|exam:15030846|exam:15030943|exam:15725760>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134640&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** in jedem Semester
-
-### Qualität von Schule und Unterricht datengestützt und kooperativ weiterentwickeln (Angebot am Standort Erlangen) - Seminar
-
-- **Segment:** `exam:15768029` · **unitId:** `135025`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15026731|exam:15026807|exam:15768029>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135025&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:00–12:00 | 13.04.2026–13.07.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
-
-### Qualität von Schule und Unterricht datengestützt und kooperativ weiterentwickeln (Angebot am Standort Erlangen) - Seminar
-
-- **Segment:** `exam:15768013` · **unitId:** `135025`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15029120|exam:15029195|exam:15768013>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135025&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:00–12:00 | 13.04.2026–13.07.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
-
-### Qualität von Schule und Unterricht datengestützt und kooperativ weiterentwickeln (Angebot am Standort Erlangen) - Seminar
-
-- **Segment:** `exam:15767988` · **unitId:** `135025`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15030843|exam:15030844|exam:15030845|exam:15030846|exam:15030921|exam:15767988>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135025&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:00–12:00 | 13.04.2026–13.07.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
 
 ### Queere Theologie für (digitale) Medien und Schule - Seminar
 
@@ -3674,88 +3277,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mi | 12:00–14:00 | 15.04.2026–15.07.2026 | 06201.02.020 ( TSG HS B (02.020) Theologisches Seminargebäude, Kochstraße 6) |
 
-### Resonanzen des Heiligen. Interreligiöser Dialog durch Musik - Übung
-
-- **Segment:** `exam:15726273` · **unitId:** `134660`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026030|exam:15726273>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134660&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 16:00–18:00 | 16.04.2026–07.05.2026 | 06201.01.020 (TSG R. 1.020 Bibliothek Praktische Theologie) |
-| Blockveranstaltung | — | 16:00–22:00 | 22.05.2026 | — |
-
-### Resonanzen des Heiligen. Interreligiöser Dialog durch Musik - Übung
-
-- **Segment:** `exam:15726284` · **unitId:** `134660`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026080|exam:15726284>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134660&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 16:00–18:00 | 16.04.2026–07.05.2026 | 06201.01.020 (TSG R. 1.020 Bibliothek Praktische Theologie) |
-| Blockveranstaltung | — | 16:00–22:00 | 22.05.2026 | — |
-
-### Schule als Kulturort und Erfahrungsraum demokratischer Mitgestaltung?  Pädagogische Haltung und Praxis in postdigitalen und planetaren Dynamiken (Angebot am Standort Erlangen) - Seminar
-
-- **Segment:** `exam:15725909` · **unitId:** `134646`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15026731|exam:15026847|exam:15725909>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134646&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
-
-### Schule als Kulturort und Erfahrungsraum demokratischer Mitgestaltung?  Pädagogische Haltung und Praxis in postdigitalen und planetaren Dynamiken (Angebot am Standort Erlangen) - Seminar
-
-- **Segment:** `exam:15725893` · **unitId:** `134646`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15029120|exam:15029235|exam:15725893>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134646&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
-
-### Schule als Kulturort und Erfahrungsraum demokratischer Mitgestaltung?  Pädagogische Haltung und Praxis in postdigitalen und planetaren Dynamiken (Angebot am Standort Erlangen) - Seminar
-
-- **Segment:** `exam:15725917` · **unitId:** `134646`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15030843|exam:15030844|exam:15030845|exam:15030846|exam:15030958|exam:15725917>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134646&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
-
 ### Schule im Kontext kultureller und gesellschaftlicher Transformation (Angebot am Standort Erlangen) - Seminar
 
 - **Segment:** `exam:15725652` · **unitId:** `134638`
@@ -3763,7 +3284,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134638&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:00–10:00 | 14.04.2026–14.07.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
 
 ### Schule im Kontext kultureller und gesellschaftlicher Transformation (Angebot am Standort Erlangen) - Seminar
 
@@ -3772,7 +3300,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134638&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:00–10:00 | 14.04.2026–14.07.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
 
 ### Schule im Kontext kultureller und gesellschaftlicher Transformation (Angebot am Standort Erlangen) - Seminar
 
@@ -3781,15 +3316,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134638&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
-### Schule und Ungleichheit(Standort Erlangen) - Seminar
-
-- **Segment:** `exam:15773474` · **unitId:** `135093`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15026731|exam:15026807|exam:15773474>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135093&periodId=589>
-
-- **Veranstaltungsart:** Seminar
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
@@ -3797,79 +3323,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–17:00 | 17.04.2026 | 05701.00.021 ( 00.021 Seminarraum) |
-| Einzeltermin | Fr | 14:00–16:00 | 24.04.2026 | — |
-| Einzeltermin | Fr | 14:00–17:00 | 08.05.2026 | — |
-| Einzeltermin | Fr | 14:00–16:00 | 22.05.2026 | — |
-| Einzeltermin | Fr | 14:00–16:00 | 29.05.2026 | 05701.00.021 ( 00.021 Seminarraum) |
-| Einzeltermin | Fr | 14:00–17:00 | 12.06.2026 | 05701.00.021 ( 00.021 Seminarraum) |
-| Einzeltermin | Fr | 14:00–16:00 | 19.06.2026 | — |
-| Einzeltermin | Fr | 14:00–16:00 | 03.07.2026 | — |
-| Einzeltermin | Fr | 14:00–16:30 | 10.07.2026 | 05701.00.021 ( 00.021 Seminarraum) |
-
-### Schule und Ungleichheit(Standort Erlangen) - Seminar
-
-- **Segment:** `exam:15773498` · **unitId:** `135093`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15029120|exam:15029195|exam:15773498>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135093&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–17:00 | 17.04.2026 | 05701.00.021 ( 00.021 Seminarraum) |
-| Einzeltermin | Fr | 14:00–16:00 | 24.04.2026 | — |
-| Einzeltermin | Fr | 14:00–17:00 | 08.05.2026 | — |
-| Einzeltermin | Fr | 14:00–16:00 | 22.05.2026 | — |
-| Einzeltermin | Fr | 14:00–16:00 | 29.05.2026 | 05701.00.021 ( 00.021 Seminarraum) |
-| Einzeltermin | Fr | 14:00–17:00 | 12.06.2026 | 05701.00.021 ( 00.021 Seminarraum) |
-| Einzeltermin | Fr | 14:00–16:00 | 19.06.2026 | — |
-| Einzeltermin | Fr | 14:00–16:00 | 03.07.2026 | — |
-| Einzeltermin | Fr | 14:00–16:30 | 10.07.2026 | 05701.00.021 ( 00.021 Seminarraum) |
-
-### Schule und Ungleichheit(Standort Erlangen) - Seminar
-
-- **Segment:** `exam:15773482` · **unitId:** `135093`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15030843|exam:15030844|exam:15030845|exam:15030846|exam:15030921|exam:15773482>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135093&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–17:00 | 17.04.2026 | 05701.00.021 ( 00.021 Seminarraum) |
-| Einzeltermin | Fr | 14:00–16:00 | 24.04.2026 | — |
-| Einzeltermin | Fr | 14:00–17:00 | 08.05.2026 | — |
-| Einzeltermin | Fr | 14:00–16:00 | 22.05.2026 | — |
-| Einzeltermin | Fr | 14:00–16:00 | 29.05.2026 | 05701.00.021 ( 00.021 Seminarraum) |
-| Einzeltermin | Fr | 14:00–17:00 | 12.06.2026 | 05701.00.021 ( 00.021 Seminarraum) |
-| Einzeltermin | Fr | 14:00–16:00 | 19.06.2026 | — |
-| Einzeltermin | Fr | 14:00–16:00 | 03.07.2026 | — |
-| Einzeltermin | Fr | 14:00–16:30 | 10.07.2026 | 05701.00.021 ( 00.021 Seminarraum) |
-
-### SE KI in kirchlicher Praxis: methodische und praktisch-theologische Erkundungen - Seminar
-
-- **Segment:** `exam:15906520` · **unitId:** `134695`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026126|exam:15906520>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134695&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| 14-täglich | Mo | 14:00–17:00 | 20.04.2026–13.07.2026 | 06201.01.024 (TSG R. 1.024 Bibliothek Christliche Publizistik/Syst. Theologie/Ethik) |
+| wöchentlich | Di | 08:00–10:00 | 14.04.2026–14.07.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
 
 ### Seminar Einführung in GIS  - Seminar
 
@@ -4022,7 +3476,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:15026395>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107697&periodId=589>
 
+- **Veranstaltungsart:** Seminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -4036,7 +3492,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15888464|exam:15902732>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107697&periodId=589>
 
+- **Veranstaltungsart:** Seminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -4076,30 +3534,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mo | 13:00–15:30 | 13.04.2026–13.07.2026 | 11201.U1.049 (A00.14 Seminarraum) |
 
-### Steinbildhauerei (A+V) - Seminar
-
-- **Segment:** `exam:15769636` · **unitId:** `135035`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029100|exam:15769636>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135035&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–15:00 | 24.04.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
-| Einzeltermin | Fr | 14:00–19:00 | 22.05.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
-| Einzeltermin | Sa | 10:00–16:00 | 23.05.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
-| Einzeltermin | Fr | 14:00–19:00 | 12.06.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
-| Einzeltermin | Sa | 10:00–16:00 | 13.06.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
-| Einzeltermin | Fr | 14:00–19:00 | 03.07.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
-| Einzeltermin | Sa | 10:00–16:00 | 04.07.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
-| Einzeltermin | Fr | 14:00–15:00 | 17.07.2026 | 75201.U1.320 (St.Paul U1.320 Bildhauerwerkstatt) |
-
-### Studienbegleitendes Praktikum an Gymnasien - Praktikum
+### Studienbegleitendes Praktikum an Gymnasien - Englisch - Praktikum
 
 - **Segment:** `exam:15026900` · **unitId:** `82534`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15026894|exam:15026895|exam:15026900>
@@ -4262,10 +3697,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026275|exam:15026287>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125131&periodId=589>
 
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -4340,86 +3772,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 06201.U1.031 (TSG U1.031 Bibliothek Systematische Theologie) |
-
-### US Cultural and Literary History: The 19th Century - Vorlesung
-
-- **Segment:** `exam:15777335` · **unitId:** `134246`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026156|exam:15777335>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134246&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.01.012 ( KH 1.012 Hörsaal Kollegienhaus) |
-
-### US Cultural and Literary History: The 19th Century - Vorlesung
-
-- **Segment:** `exam:15777346` · **unitId:** `134246`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:15777346>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134246&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.01.012 ( KH 1.012 Hörsaal Kollegienhaus) |
-
-### Vertiefung schulpädagogischer Fragestellungen - Seminar
-
-- **Segment:** `exam:15767175` · **unitId:** `135015`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15026731|exam:15026807|exam:15767175>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135015&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 15:45–17:15 | 23.04.2026–16.07.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
-
-### Vertiefung schulpädagogischer Fragestellungen - Seminar
-
-- **Segment:** `exam:15767208` · **unitId:** `135015`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15029120|exam:15029195|exam:15767208>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135015&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 15:45–17:15 | 23.04.2026–16.07.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
-
-### Vertiefung schulpädagogischer Fragestellungen - Seminar
-
-- **Segment:** `exam:15767183` · **unitId:** `135015`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15030843|exam:15030844|exam:15030845|exam:15030846|exam:15030921|exam:15767183>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135015&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 15:45–17:15 | 23.04.2026–16.07.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
 
 ### Vertiefungsmodul Fachdidaktik Deutsch (nur Freier Bereich): Digi4all - Kompetenzen für das Unterrichten in einer digitalen Welt - Seminar
 
@@ -5045,38 +4397,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | wöchentlich | Do | 14:00–15:30 | 16.04.2026–16.07.2026 | 20302.01.132 (1.132 Aula (780)) |
 | Einzeltermin | Do | 14:00–15:30 | 16.07.2026 | 75201.00.401 (St. Paul 00.401 Theatersaal) |
 
-### Wissenschaftliches Arbeiten für Abschlussarbeiten in der Mathematikdidaktik - Seminar
-
-- **Segment:** `exam:15902670` · **unitId:** `136180`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15888518|exam:15902670>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136180&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 15:45–17:15 | 15.04.2026–15.07.2026 | 20301.02.014 (2.014 Mathe-Lehrwerkstatt (40)) |
-
-### Wissenschaftliches Arbeiten für Abschlussarbeiten in der Mathematikdidaktik - Seminar
-
-- **Segment:** `exam:15902679` · **unitId:** `136180`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15889112|exam:15902679>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136180&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 15:45–17:15 | 15.04.2026–15.07.2026 | 20301.02.014 (2.014 Mathe-Lehrwerkstatt (40)) |
-
 ### Zum guten Stil im wissenschaftlichen Schreiben - Kurs
 
 - **Segment:** `exam:15026407` · **unitId:** `84045`
@@ -5160,6 +4480,12 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **ECTS-Punkte:** 2.0
 - **Turnus:** Unregelmäßig
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 08:00–10:00 | 22.04.2026–15.07.2026 | 06201.02.025 (TSG R. 2.025 Bibliothek Ältere Kirchengeschichte) |
+
 ### Ü: Übung zur Examensvorbereitung Kirchengeschichte - Übungsseminar
 
 - **Segment:** `exam:15026336` · **unitId:** `115357`
@@ -5170,38 +4496,11 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **ECTS-Punkte:** 2.0
 - **Turnus:** Unregelmäßig
 
-### Überblick - Ausblick: Fokus Werkanalyse - Seminar
-
-- **Segment:** `exam:15777769` · **unitId:** `135188`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029093|exam:15777769>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135188&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 09:45–11:15 | 18.06.2026–16.07.2026 | 75201.00.310 (St.Paul 00.310 Textilwerkstatt (40)) |
-
-### Überblick-Ausblick/Examenskolloquium: Fokus Kunstdidaktik - Seminar
-
-- **Segment:** `exam:15758523` · **unitId:** `134760`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029093|exam:15758523>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134760&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Sa | 10:00–17:00 | 13.06.2026 | 75201.00.310 (St.Paul 00.310 Textilwerkstatt (40)) |
-| Einzeltermin | Sa | 10:00–17:00 | 11.07.2026 | 75201.00.310 (St.Paul 00.310 Textilwerkstatt (40)) |
+| wöchentlich | Mi | 08:00–10:00 | 22.04.2026–15.07.2026 | 06201.02.025 (TSG R. 2.025 Bibliothek Ältere Kirchengeschichte) |
 
 ### Übung Neues Testament - Übung
 
@@ -5399,6 +4698,20 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Segment:** `exam:15031001` · **unitId:** `41712`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15030843|exam:15030844|exam:15030845|exam:15031001>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=41712&periodId=589>
+
+### 21551 Business and Information Systems Engineering - Leistung
+
+- **Segment:** `exam:17902098` · **unitId:** `116563`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:17902097|exam:17902098>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116563&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | 08:00–09:30 | — | 21102.01.420 (LG H5 TeamBank-Hörsaal (384 Plätze)) |
 
 ### 26121 BIODID III: Aufgabenkultur im und Gestaltung von Biologieunterricht - Leistung
 
@@ -5909,744 +5222,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | Mi | Mi | — | — | — |
 
-### 44001 Wissenschaftsreflexion & Studienerfolg 1 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17704776` · **unitId:** `132532`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17704776>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132532&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44001 Wissenschaftsreflexion & Studienerfolg 1 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17705179` · **unitId:** `132532`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17705179>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132532&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44002 Wissenschaftsreflexion & Studienerfolg 2 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17704816` · **unitId:** `132533`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17704816>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132533&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44002 Wissenschaftsreflexion & Studienerfolg 2 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17705219` · **unitId:** `132533`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17705219>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132533&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44003 Wissenschaftsreflexion & Studienerfolg 3 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17704796` · **unitId:** `132534`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17704796>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132534&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44003 Wissenschaftsreflexion & Studienerfolg 3 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17705149` · **unitId:** `132534`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17705149>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132534&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44004 Wissenschaftsreflexion & Studienerfolg 4 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17704766` · **unitId:** `132535`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17704766>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132535&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44004 Wissenschaftsreflexion & Studienerfolg 4 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17705028` · **unitId:** `132535`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17705028>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132535&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44005 Wissenschaftsreflexion & Studienerfolg 5 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17704806` · **unitId:** `132536`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17704806>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132536&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-
-### 44005 Wissenschaftsreflexion & Studienerfolg 5 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17704988` · **unitId:** `132536`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17704988>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132536&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-
-### 44006 Wissenschaftsreflexion & Studienerfolg 6 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17704736` · **unitId:** `132537`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17704736>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132537&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44006 Wissenschaftsreflexion & Studienerfolg 6 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17705088` · **unitId:** `132537`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17705088>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132537&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44007 Wissenschaftsreflexion & Studienerfolg 7 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17704726` · **unitId:** `132538`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17704726>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132538&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44007 Wissenschaftsreflexion & Studienerfolg 7 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17705078` · **unitId:** `132538`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17705078>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132538&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44009 Wissenschaftsreflexion & Studienerfolg 9 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17704926` · **unitId:** `132540`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17704926>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132540&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44009 Wissenschaftsreflexion & Studienerfolg 9 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17705159` · **unitId:** `132540`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17705159>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132540&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44010 Wissenschaftsreflexion & Studienerfolg 10 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17704746` · **unitId:** `132541`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17704746>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132541&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44010 Wissenschaftsreflexion & Studienerfolg 10 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17705189` · **unitId:** `132541`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17705189>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132541&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44011 Wissenschaftsreflexion & Studienerfolg 11 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17704866` · **unitId:** `132542`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17704866>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132542&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44011 Wissenschaftsreflexion & Studienerfolg 11 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17705129` · **unitId:** `132542`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17705129>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132542&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44012 Wissenschaftsreflexion & Studienerfolg 12 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17704966` · **unitId:** `132543`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17704966>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132543&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44012 Wissenschaftsreflexion & Studienerfolg 12 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17705098` · **unitId:** `132543`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17705098>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132543&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44016 Wissenschaftsreflexion & Studienerfolg 16 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17704756` · **unitId:** `132547`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17704756>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132547&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44016 Wissenschaftsreflexion & Studienerfolg 16 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17705139` · **unitId:** `132547`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17705139>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132547&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44017 Wissenschaftsreflexion & Studienerfolg 17 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17704916` · **unitId:** `132548`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17704916>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132548&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-
-### 44017 Wissenschaftsreflexion & Studienerfolg 17 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17705058` · **unitId:** `132548`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17705058>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132548&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-
-### 44018 Wissenschaftsreflexion & Studienerfolg 18 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17704936` · **unitId:** `132549`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17704936>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132549&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44018 Wissenschaftsreflexion & Studienerfolg 18 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17705119` · **unitId:** `132549`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17705119>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132549&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44019 Wissenschaftsreflexion & Studienerfolg 19 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17704946` · **unitId:** `132550`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17704946>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132550&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44019 Wissenschaftsreflexion & Studienerfolg 19 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17705038` · **unitId:** `132550`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17705038>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132550&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44022 Wissenschaftsreflexion & Studienerfolg 22 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17704886` · **unitId:** `132553`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17704886>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132553&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44022 Wissenschaftsreflexion & Studienerfolg 22 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17705048` · **unitId:** `132553`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17705048>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132553&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44023 Wissenschaftsreflexion & Studienerfolg 23 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17704836` · **unitId:** `132554`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17704836>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132554&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44023 Wissenschaftsreflexion & Studienerfolg 23 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17705209` · **unitId:** `132554`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17705209>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132554&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44024 Wissenschaftsreflexion & Studienerfolg 24 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17704896` · **unitId:** `132555`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17704896>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132555&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44024 Wissenschaftsreflexion & Studienerfolg 24 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17705008` · **unitId:** `132555`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17705008>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132555&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44026 Wissenschaftsreflexion & Studienerfolg 26 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17705747` · **unitId:** `132557`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17705747>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132557&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44026 Wissenschaftsreflexion & Studienerfolg 26 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17706139` · **unitId:** `132557`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17706139>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132557&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44029 Wissenschaftsreflexion & Studienerfolg 29 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17705917` · **unitId:** `132560`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17705917>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132560&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44029 Wissenschaftsreflexion & Studienerfolg 29 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17706209` · **unitId:** `132560`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17706209>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132560&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44030 Wissenschaftsreflexion & Studienerfolg 30 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17705797` · **unitId:** `132561`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17705797>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132561&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44030 Wissenschaftsreflexion & Studienerfolg 30 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17706189` · **unitId:** `132561`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17706189>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132561&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44035 Wissenschaftsreflexion & Studienerfolg 35 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17705887` · **unitId:** `132566`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17705887>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132566&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44035 Wissenschaftsreflexion & Studienerfolg 35 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17706039` · **unitId:** `132566`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17706039>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132566&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44037 Wissenschaftsreflexion & Studienerfolg 37 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17705957` · **unitId:** `132568`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17705957>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132568&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44037 Wissenschaftsreflexion & Studienerfolg 37 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17705979` · **unitId:** `132568`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17705979>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132568&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44038 Wissenschaftsreflexion & Studienerfolg 38 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17705947` · **unitId:** `132569`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17705947>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132569&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-
-### 44038 Wissenschaftsreflexion & Studienerfolg 38 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17706199` · **unitId:** `132569`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17706199>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132569&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-
-### 44039 Wissenschaftsreflexion & Studienerfolg 39 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17705837` · **unitId:** `132570`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17705837>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132570&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44039 Wissenschaftsreflexion & Studienerfolg 39 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17706069` · **unitId:** `132570`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17706069>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132570&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44045 Wissenschaftsreflexion & Studienerfolg 45 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17705807` · **unitId:** `132576`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17705807>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132576&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44045 Wissenschaftsreflexion & Studienerfolg 45 (2,5 ECTS) - Platzhalterprüfung
-
-- **Segment:** `exam:17706149` · **unitId:** `132576`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17706149>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132576&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
 ### 44401 Modulabschlussprüfung Wahlmodul Spracherwerb Griechisch - Leistung
 
 - **Segment:** `exam:15026074` · **unitId:** `24667`
@@ -6857,127 +5432,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### 54943 Ausgewählte Themen der Mathematikdidaktik mit Bezug zur Digitalisierung (MD2SSekI) - Leistung
-
-- **Segment:** `exam:15914757` · **unitId:** `137297`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15889112|exam:15914757>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137297&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | — | 07.06.2026 23:59:59 | — |
-
-### 54944 Ausgewählte Themen der Mathematikdidaktik mit Bezug zu Heterogenität und Inklusion (MD2SSekI) - Leistung
-
-- **Segment:** `exam:15914721` · **unitId:** `137298`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15889112|exam:15914721>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137298&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-
-### 54961 Staatsexamenskurs Mathematikdidaktik Sekundarstufe I (MDExSekI) - Leistung
-
-- **Segment:** `exam:15889084` · **unitId:** `136205`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15889083|exam:15889084>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136205&periodId=589>
-
-- **ECTS-Punkte:** 2.0
-
-### 55121 Staatsexamenskurs Mathematikdidaktik (MDExGym) - Leistung
-
-- **Segment:** `exam:15888473` · **unitId:** `136170`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15888464|exam:15888473>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136170&periodId=589>
-
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | — | — | — |
-
-### 55152 Didaktik im Bereich Zahl und Operation, Muster und Funktionaler Zusammenhang (MD1Gym) - Leistung
-
-- **Segment:** `exam:15914649` · **unitId:** `136157`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15888518|exam:15914649>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136157&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | 08:00–10:00 | 07.06.2026 23:59:59 | 20301.01.042 (1.042 großer Hörsaal (230)) |
-
-### 55153 Didaktik im Bereich Raum und Form (MD1Gym) - Leistung
-
-- **Segment:** `exam:15914640` · **unitId:** `137291`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15888518|exam:15914640>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137291&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Sa | Sa | 09:00–09:45 | 07.06.2026 23:59:59 | 20302.01.132 (1.132 Aula (780)) |
-
-### 55253 Ausgewählte Themen der Sekundarstufen-Mathematikdidaktik mit Bezug zur Digitalisierung (MD2SGym) - Leistung
-
-- **Segment:** `exam:15914694` · **unitId:** `137292`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15888518|exam:15914694>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137292&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | — | 07.06.2026 23:59:59 | — |
-
-### 55254 Ausgewählte Themen der Sekundarstufen-Mathematikdidaktik mit Bezug zu Heterogenität und Inklusion (MD2SGym) - Leistung
-
-- **Segment:** `exam:15914658` · **unitId:** `137293`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15888518|exam:15914658>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137293&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | — | 07.06.2026 23:59:59 | — |
-
-### 55262 Didaktik der Analysis (MD2V/SGym) - Leistung
-
-- **Segment:** `exam:15914965` · **unitId:** `136163`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15889112|exam:15914965>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136163&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | 08:15–09:00 | 07.06.2026 23:59:59 | 12801.01.220 (H12 Emmy-Noether-Hörsaal) |
-
 ### 55861 Mathematisches Seminar in elementarer Geometrie - Leistung
 
 - **Segment:** `exam:15029118` · **unitId:** `118215`
@@ -6985,6 +5439,12 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118215&periodId=589>
 
 - **ECTS-Punkte:** 5.0
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### 57251 Mentorat - Leistung
 
@@ -7479,7 +5939,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | Fr | — | — | — |
+| Mo | Mo | 11:30–13:00 | — | — |
 
 ### 59540 Staatsexamenskurs Fachdidaktik Mathematik - Leistung
 
@@ -7494,7 +5954,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | Fr | — | — | — |
+| Mo | Mo | 11:30–13:00 | — | — |
 
 ### 59543 Examenskurs NdL (Nürnberg, nur LA GS, MS, RS, Berufl. Schulen) - Leistung
 
@@ -7682,6 +6142,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:15028655>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110326&periodId=589>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -8121,6 +6582,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:15028787>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114878&periodId=589>
 
+- **ECTS-Punkte:** 4.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -8196,6 +6658,13 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115321&periodId=589>
 
 - **ECTS-Punkte:** 4.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | — | 07.06.2026 23:59:59 | — |
 
 ### 59653 Sprachvergleich unter didaktischen Aspekten (4 ECTS) - Leistung
 
@@ -8204,6 +6673,13 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115321&periodId=589>
 
 - **ECTS-Punkte:** 4.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | — | 07.06.2026 23:59:59 | — |
 
 ### 59654 Sprachförderung im Sommercamp - Vorbereitungsseminar - Leistung
 
@@ -8361,6 +6837,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:15026646>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120277&periodId=589>
 
+- **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -8375,6 +6852,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:15028811>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120277&periodId=589>
 
+- **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -8389,7 +6867,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:15026647>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120278&periodId=589>
 
-- **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -8404,7 +6881,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:15028812>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120278&periodId=589>
 
-- **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -8563,36 +7039,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | Mi | Mi | — | 07.06.2026 23:59:59 | — |
 
-### 59705 Fachtheorie (Kunst) (2 ECTS) - Leistung
-
-- **Segment:** `exam:15026666` · **unitId:** `123878`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:15026666>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123878&periodId=589>
-
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | — | — | — |
-
-### 59705 Fachtheorie (Kunst) (2 ECTS) - Leistung
-
-- **Segment:** `exam:15028829` · **unitId:** `123878`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:15028829>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123878&periodId=589>
-
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | — | — | — |
-
 ### 59706 Fachtheorie (3 ECTS) - Leistung
 
 - **Segment:** `exam:15026667` · **unitId:** `123879`
@@ -8623,51 +7069,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | Mo | Mo | — | — | — |
 
-### 59707 Staatsexamenskurs Mathematik (nicht-vertieft) - Leistung
-
-- **Segment:** `exam:15028831` · **unitId:** `125166`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:15028831>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125166&periodId=589>
-
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 59710 Geographiedidaktik (2 ECTS) - Leistung
-
-- **Segment:** `exam:15026669` · **unitId:** `126896`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:15026669>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126896&periodId=589>
-
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 59710 Geographiedidaktik (2 ECTS) - Leistung
-
-- **Segment:** `exam:15028836` · **unitId:** `126896`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:15028836>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126896&periodId=589>
-
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
 ### 59716 Basismodul Grundlagen der Fachdidaktik - Leistung
 
 - **Segment:** `exam:15026684` · **unitId:** `129251`
@@ -8697,184 +7098,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Fr | Fr | — | 07.06.2026 23:59:59 | — |
-
-### 59722 Freier Bereich für Didaktik von Politik und Gesellschaft (3 ECTS) - Leistung
-
-- **Segment:** `exam:15026706` · **unitId:** `133483`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:15026706>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133483&periodId=589>
-
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | — | — | — |
-
-### 59722 Freier Bereich für Didaktik von Politik und Gesellschaft (3 ECTS) - Leistung
-
-- **Segment:** `exam:15028868` · **unitId:** `133483`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:15028868>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133483&periodId=589>
-
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | — | — | — |
-
-### 59723 Freier Bereich Didaktik des Deutschen als Zweitsprache (3 ECTS) - Leistung
-
-- **Segment:** `exam:15026707` · **unitId:** `133572`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:15026707>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133572&periodId=589>
-
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | — | — | — |
-
-### 59723 Freier Bereich Didaktik des Deutschen als Zweitsprache (3 ECTS) - Leistung
-
-- **Segment:** `exam:15028869` · **unitId:** `133572`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:15028869>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133572&periodId=589>
-
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | — | — | — |
-
-### 59730 Freier Bereich Sport - Tag der Lehre - Leistung
-
-- **Segment:** `exam:15913641` · **unitId:** `137241`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:15913641>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137241&periodId=589>
-
-- **ECTS-Punkte:** 1.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | 09:00–15:00 | — | — |
-
-### 59730 Freier Bereich Sport - Tag der Lehre - Leistung
-
-- **Segment:** `exam:15913624` · **unitId:** `137241`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:15913624>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137241&periodId=589>
-
-- **ECTS-Punkte:** 1.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | 09:00–15:00 | — | — |
-
-### 59731 Freier Bereich ev. Religionslehre - undefiniert
-
-- **Segment:** `exam:17797479` · **unitId:** `139274`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17797479>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139274&periodId=589>
-
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 59731 Freier Bereich ev. Religionslehre - undefiniert
-
-- **Segment:** `exam:17797461` · **unitId:** `139274`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17797461>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139274&periodId=589>
-
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 59731 Leichtathletik 3 - Leistung
-
-- **Segment:** `exam:15943039` · **unitId:** `137956`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:15943039>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137956&periodId=589>
-
-- **ECTS-Punkte:** 1.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 59732 Planung, Durchführung und Evaluation eines Sportevents - Leistung
-
-- **Segment:** `exam:17807625` · **unitId:** `139323`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026357|exam:17807625>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139323&periodId=589>
-
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 59732 Planung, Durchführung und Evaluation eines Sportevents - Leistung
-
-- **Segment:** `exam:17807607` · **unitId:** `139323`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:17807607>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139323&periodId=589>
-
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 59733 Sportspiele - Trends und Entwicklungen - Leistung
-
-- **Segment:** `exam:15943075` · **unitId:** `137958`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:15943075>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137958&periodId=589>
-
-- **ECTS-Punkte:** 1.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
 
 ### 59941 Modulabschlussprüfung Multidisziplinäres Wahlmodul Theologie - Leistung
 
@@ -9095,20 +7318,65 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### 66132 Examensvorbereitung Musik Übung 2 - Leistung
+### 66201 Übung: Schlagtechnik - Erfolgreiche Teilnahme - Leistung
 
-- **Segment:** `exam:15029086` · **unitId:** `123179`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029084|exam:15029086>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123179&periodId=589>
+- **Segment:** `exam:15028922` · **unitId:** `23378`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028920|exam:15028922>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23378&periodId=589>
 
-- **ECTS-Punkte:** 2.5
+- **ECTS-Punkte:** 2.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| Do | Do | 10:00–12:00 | — | — |
+
+### 66201 Übung: Schlagtechnik - Erfolgreiche Teilnahme - Leistung
+
+- **Segment:** `exam:15029051` · **unitId:** `23378`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029049|exam:15029051>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23378&periodId=589>
+
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | Do | 10:00–12:00 | — | — |
+
+### 66202 Seminar: Probenmethodik u. Literaturkunde - Erfolgreiche Teilnahme - Leistung
+
+- **Segment:** `exam:15028923` · **unitId:** `24246`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028920|exam:15028923>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=24246&periodId=589>
+
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | 11:00–12:00 | — | — |
+
+### 66202 Seminar: Probenmethodik u. Literaturkunde - Erfolgreiche Teilnahme - Leistung
+
+- **Segment:** `exam:15029052` · **unitId:** `24246`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029049|exam:15029052>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=24246&periodId=589>
+
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | 11:00–12:00 | — | — |
 
 ### 66203 Übung: Ensemblepraxis/Kinderchorleitung - Erfolgreiche Teilnahme - Leistung
 
@@ -9326,6 +7594,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026148|exam:15026153>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23337&periodId=589>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch oder Englisch
 
 #### Termine
@@ -9604,18 +7873,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | Fr | Fr | — | — | — |
 
-### 76111 Examenskolloquium Soziologie
-
-- **Segment:** `exam:17885127` · **unitId:** `140143`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:17885127>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=140143&periodId=589>
-
-### 76111 Examenskolloquium Soziologie
-
-- **Segment:** `exam:17887102` · **unitId:** `140175`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:17887102>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=140175&periodId=589>
-
 ### 76121 Examenskolloquium Fachdidaktik
 
 - **Segment:** `exam:15026131` · **unitId:** `46350`
@@ -9633,12 +7890,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Segment:** `exam:15028916` · **unitId:** `23361`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028916>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23361&periodId=589>
-
-### 76611 Audio- und Videotechnik
-
-- **Segment:** `exam:15029045` · **unitId:** `122494`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029045>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122494&periodId=589>
 
 ### 76790 Musikdidaktische Basiskompetenzen (nur für Unterrichtsfach Musik)
 
@@ -9808,6 +8059,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026227|exam:15026231>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=34919&periodId=589>
 
+- **ECTS-Punkte:** 2.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -9912,6 +8164,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026319|exam:15026328>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44092&periodId=589>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -10136,6 +8389,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15026894|exam:15026895|exam:15026907>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=28476&periodId=589>
 
+- **ECTS-Punkte:** 2.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -10445,46 +8699,23 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 05801.02.110 ( A 401) |
 
-### AN_SEPGYM - Seminar zum Studienbegleitenden Praktikum an Gymnasien - Begleitseminar
+### AN_SEPGYM - Seminar zum Studienbegleitenden Praktikum an Gymnasien - Englisch - Begleitseminar
 
 - **Segment:** `exam:15026899` · **unitId:** `88157`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15026894|exam:15026895|exam:15026899>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88157&periodId=589>
 
 - **Veranstaltungsart:** Begleitseminar
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
 
-### Bewegung (Theologie; Gesellschaftswissenschaften) - (Religions-)Unterricht in Bewegung - bewegter (Religions-)Unterricht  - Hauptseminar
-
-- **Segment:** `exam:15026265` · **unitId:** `127616`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026253|exam:15026265>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127616&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 09:45–11:15 | 16.04.2026–16.07.2026 | 75201.00.202 (St.Paul(V) 00.202 Seminarraum (20)) |
-
-### Bewegung (Theologie; Gesellschaftswissenschaften) - (Religions-)Unterricht in Bewegung - bewegter (Religions-)Unterricht  - Hauptseminar
-
-- **Segment:** `exam:15029026` · **unitId:** `127616`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029014|exam:15029026>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127616&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 09:45–11:15 | 16.04.2026–16.07.2026 | 75201.00.202 (St.Paul(V) 00.202 Seminarraum (20)) |
+| Einzeltermin | Fr | 13:30–18:45 | 24.04.2026 | 20301.U1.031 (U1.031 Seminarraum (40)) |
+| Einzeltermin | Fr | 13:30–18:45 | 08.05.2026 | 20301.U1.031 (U1.031 Seminarraum (40)) |
+| Einzeltermin | Fr | 13:30–18:45 | 19.06.2026 | 20301.U1.031 (U1.031 Seminarraum (40)) |
 
 ### BIODID III / BIODID III LABS - BIODID III /BIODID III LABS: Aufgabenkultur im und Gestaltung von Biologieunterricht (SE) - Seminar
 
@@ -10538,22 +8769,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mi | 17:30–19:00 | 15.04.2026–15.07.2026 | 20302.01.132 (1.132 Aula (780)) |
 
-### Das Seminar berücksichtigt auch die Schnittstelle von digtial/analog- - Mixed-Media (A+V) - Seminar
-
-- **Segment:** `exam:15768279` · **unitId:** `134871`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15029100|exam:15768279>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134871&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 09:45–11:15 | 21.04.2026–14.07.2026 | 75201.00.301 (St.Paul 00.301 Zeichensaal (100)) |
-
 ### DDP-1 - Didaktik Einführungsvorlesung LANV (DDPNV-1) + Grundlegende Experimentiertechnik - Vorlesung mit Übung
 
 - **Segment:** `exam:15028800` · **unitId:** `93266`
@@ -10596,7 +8811,15 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Praxisseminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 08:00–12:30 | 16.04.2026–16.07.2026 | — |
+| wöchentlich | Do | 14:00–15:30 | 16.04.2026–16.07.2026 | — |
 
 ### DIDCHEM LAG II - Übungen im Schülerlabor EAM-Lab Erlangen (DIDCHEM LAG II) - Praxisseminar
 
@@ -10606,7 +8829,15 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Praxisseminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 08:00–12:30 | 16.04.2026–16.07.2026 | — |
+| wöchentlich | Do | 14:00–15:30 | 16.04.2026–16.07.2026 | — |
 
 ### Dig.Medien - Potenziale und Herausforderungen digitaler Medien im Chemieunterricht - Seminar
 
@@ -10667,7 +8898,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:15028542>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85779&periodId=589>
 
+- **Veranstaltungsart:** Hauptseminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -10681,7 +8914,9 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15889083|exam:15902750>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85779&periodId=589>
 
+- **Veranstaltungsart:** Hauptseminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -10767,7 +9002,15 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 11:30–13:00 | 15.04.2026–15.07.2026 | 75201.00.202 (St.Paul(V) 00.202 Seminarraum (20)) |
+| Einzeltermin | Mi | 14:00–15:30 | 15.04.2026 | 75202.00.513 (St.Paul 00.513 (24)) |
 
 ### Examen AT - Übung zum Examen: AT - Übung
 
@@ -10777,7 +9020,15 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 11:30–13:00 | 15.04.2026–15.07.2026 | 75201.00.202 (St.Paul(V) 00.202 Seminarraum (20)) |
+| Einzeltermin | Mi | 14:00–15:30 | 15.04.2026 | 75202.00.513 (St.Paul 00.513 (24)) |
 
 ### Examenskurs Deutschdidaktik - Examensvorbereitung "Didaktik der deutschen Sprache und Literatur" - Hauptseminar
 
@@ -11496,6 +9747,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Proseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### PS 05 - Modul III: Ausgewählte Forschungsbefunde aus der Pädagogischen Psychologie: Motivationsförderung - Proseminar
@@ -11506,6 +9758,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Proseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### PS 05 - Modul III: Ausgewählte Forschungsbefunde aus der Pädagogischen Psychologie: Motivationsförderung - Proseminar
@@ -11516,6 +9769,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Proseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### PS 06 - Modul III: Differential-psychologische Aspekte des Lernens und Lehrens: Begabungsförderung - Proseminar
@@ -11526,7 +9780,17 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Proseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mi | 17:00–17:45 | 29.04.2026 | — |
+| Einzeltermin | Fr | 14:00–18:00 | 19.06.2026 | — |
+| Einzeltermin | Sa | 08:30–18:00 | 20.06.2026 | — |
+| Einzeltermin | So | 08:30–16:00 | 21.06.2026 | — |
 
 ### PS 06 - Modul III: Differential-psychologische Aspekte des Lernens und Lehrens: Begabungsförderung - Proseminar
 
@@ -11536,7 +9800,17 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Proseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mi | 17:00–17:45 | 29.04.2026 | — |
+| Einzeltermin | Fr | 14:00–18:00 | 19.06.2026 | — |
+| Einzeltermin | Sa | 08:30–18:00 | 20.06.2026 | — |
+| Einzeltermin | So | 08:30–16:00 | 21.06.2026 | — |
 
 ### PS 06 - Modul III: Differential-psychologische Aspekte des Lernens und Lehrens: Begabungsförderung - Proseminar
 
@@ -11546,7 +9820,17 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Proseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mi | 17:00–17:45 | 29.04.2026 | — |
+| Einzeltermin | Fr | 14:00–18:00 | 19.06.2026 | — |
+| Einzeltermin | Sa | 08:30–18:00 | 20.06.2026 | — |
+| Einzeltermin | So | 08:30–16:00 | 21.06.2026 | — |
 
 ### PS 08 - Modul III: Ausgewählte Forschungsbestände zur Bildungsgerechtigkeit der Pädagogischen Psychologie - Seminar
 
@@ -11673,7 +9957,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 09:45–11:15 | 16.04.2026–02.07.2026 | 20302.01.132 (1.132 Aula (780)) |
 
 ### PS01 - Modul I (Vorlesung) | Lernprozesse gestalten: Theoretische und methodische Grundlagen (Nürnberg) - Vorlesung
 
@@ -11683,7 +9974,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 09:45–11:15 | 16.04.2026–02.07.2026 | 20302.01.132 (1.132 Aula (780)) |
 
 ### PS01 - Modul I (Vorlesung) | Lernprozesse gestalten: Theoretische und methodische Grundlagen (Nürnberg) - Vorlesung
 
@@ -11693,7 +9991,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 09:45–11:15 | 16.04.2026–02.07.2026 | 20302.01.132 (1.132 Aula (780)) |
 
 ### PS02 - Modul II: Lernermerkmale: Entwicklung, soziale Einflüsse, individuelle Unterschiede und Lern- und Verhaltensstörungen (Nürnberg) - Vorlesung
 
@@ -12120,7 +10425,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:00–14:00 | 13.04.2026–13.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
 
 ### PsyLA2: Lernende - Modul II: Vorlesung Psychologie für Lehramt 2: Lernendenmerkmale 96111 (ERLANGEN) - Vorlesung
 
@@ -12130,7 +10442,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:00–14:00 | 13.04.2026–13.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
 
 ### PsyLA2: Lernende - Modul II: Vorlesung Psychologie für Lehramt 2: Lernendenmerkmale 96111 (ERLANGEN) - Vorlesung
 
@@ -12140,7 +10459,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:00–14:00 | 13.04.2026–13.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
 
 ### PsyLA_Tut - Tutorium EWS Staatsexamen Psychologie im Lehramt - Tutorium
 
@@ -12282,7 +10608,10 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026217|exam:15026220>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94138&periodId=589>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -12296,7 +10625,10 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028994|exam:15028998>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94138&periodId=589>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -12662,7 +10994,10 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15025834|exam:15025836|exam:15025902|exam:15025906|exam:15026141|exam:15026144>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89902&periodId=589>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -12676,7 +11011,10 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18280|exam:15028453|exam:15028455|exam:15028509|exam:15028514|exam:15028533|exam:15028538>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89902&periodId=589>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -12962,7 +11300,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:00–12:00 | 21.04.2026–14.07.2026 | 11302.05.134 (05.134 Didaktik-Labor) |
 
 ### Vorbereitung auf das Staatsexamen Inf Didaktik - Vorbereitung auf das Staatsexamen in Didaktik der Informatik - Seminar
 
@@ -12972,7 +11317,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:00–12:00 | 21.04.2026–14.07.2026 | 11302.05.134 (05.134 Didaktik-Labor) |
 
 ### Vorlesung VM - Vertiefungmodul Fachdidaktik Deutsch (ab PO 20202): Vorlesung: Deutschdidaktik als forschende Disziplin - Vorlesung
 
@@ -13042,7 +11394,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mo | 11:30–13:00 | 13.04.2026–13.07.2026 | 20302.01.109 (1.109 Musikseminarraum (40)) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (203)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (205)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -13308,15 +11660,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 ### Begleitveranstaltung Studienbegleitendes Praktikum an Realschulen "Praxis RS" (AE_PSPrak) — Vorlesung mit Übung
 
-- **Segment:** `unit:106000` · **unitId:** `106000`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106000&periodId=589>
+- **Segment:** `unit:106001` · **unitId:** `106001`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106001&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 
 ### Begleitveranstaltung Studienbegleitendes Praktikum an Realschulen "Praxis RS" (AE_PSPrak) — Vorlesung mit Übung
 
-- **Segment:** `unit:106001` · **unitId:** `106001`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106001&periodId=589>
+- **Segment:** `unit:106000` · **unitId:** `106000`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106000&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 
@@ -14579,6 +12931,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Turnus:** Unregelmäßig
 
+### T: Business and Information Systems Engineering — Tutorium
+
+- **Segment:** `unit:84880` · **unitId:** `84880`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84880&periodId=589>
+
+- **Veranstaltungsart:** Tutorium
+- **Turnus:** jedes 2. Semester
+
 ### Themen der Praktischen Theologie — Übung
 
 - **Segment:** `unit:122272` · **unitId:** `122272`
@@ -14635,6 +12995,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125263&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+
+### V: Business and Information Systems Engineering — Vorlesung
+
+- **Segment:** `unit:98473` · **unitId:** `98473`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98473&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
 
 ### Vertiefungsmodul Fachdidaktik Deutsch-Hauptseminar: Grundlagen der Lesedidaktik (Janle)
 

@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:17988"
 campo_path: "title:17593|title:17598|title:17988"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17598|title:17988"
-po_version_count: 0
-course_count: 12
+po_version_count: 2
+course_count: 10
 ---
 
 # Veranstaltungen aus der Medizinischen Fakultät
@@ -14,7 +14,19 @@ course_count: 12
 
 _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprachkurse_  
 
-## Veranstaltungen (12)
+## Prüfungsordnungs-Versionen (2)
+
+### Schlüsselqualifikation: Aufklärung über Gesundheit, Sex und Geschlechterrollen in Filmen und Liedern der DDR - Seminar
+
+- **Campo-Segment:** `exam:15688798`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17598|title:17988|exam:15688777|exam:15688798>
+
+### Schlüsselqualifikation: Rassismus in der Medizin - Seminar
+
+- **Campo-Segment:** `exam:15688801`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17598|title:17988|exam:15688777|exam:15688801>
+
+## Veranstaltungen (10)
 
 ### Fit for Conference: Simulation der ersten Posterpräsentation in der Medizin - Seminar
 
@@ -80,64 +92,19 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 |---|---|---|---|---|
 | wöchentlich | Di | 09:00–10:30 | 14.04.2026–14.07.2026 | — |
 
-### Schlüsselqualifikation: Aufklärung über Gesundheit, Sex und Geschlechterrollen in Filmen und Liedern der DDR - Seminar
-
-- **Segment:** `exam:15688798` · **unitId:** `127841`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17598|title:17988|exam:15688777|exam:15688798>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127841&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 16:15–19:45 | 20.04.2026 | — |
-| Einzeltermin | Mo | 16:15–19:45 | 04.05.2026 | — |
-| Einzeltermin | Mo | 16:15–19:45 | 18.05.2026 | — |
-| Einzeltermin | Mo | 16:15–19:45 | 01.06.2026 | — |
-| Einzeltermin | Mo | 16:15–19:45 | 08.06.2026 | — |
-| Einzeltermin | Mo | 16:15–19:45 | 22.06.2026 | — |
-| Einzeltermin | Mo | 16:15–19:45 | 29.06.2026 | — |
-
 ### Schlüsselqualifikation: Erkenntnis aus Leichen(teilen): Forschen und Lehren mit menschlichen Überresten - Seminar
 
 - **Segment:** `exam:15688800` · **unitId:** `127646`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17598|title:17988|exam:15688777|exam:15688800>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127646&periodId=589>
 
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 17:15–18:45 | 22.04.2026–08.07.2026 | — |
-
-### Schlüsselqualifikation: Rassismus in der Medizin - Seminar
-
-- **Segment:** `exam:15688801` · **unitId:** `127644`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17598|title:17988|exam:15688777|exam:15688801>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127644&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 16:00–18:00 | 27.04.2026 | — |
-| Einzeltermin | Sa | 10:00–17:00 | 30.05.2026 | — |
-| Einzeltermin | So | 10:00–17:00 | 31.05.2026 | — |
 
 ### Wissenschaftliches Arbeiten für Promovierende in Epidemiologie und Public Health - Seminar
 

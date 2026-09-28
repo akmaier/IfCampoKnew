@@ -5,7 +5,7 @@ campo_segment: "title:17171"
 campo_path: "title:16758|title:16763|title:17171"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17171"
 po_version_count: 0
-course_count: 43
+course_count: 46
 fau_studiengang:
   - title: "Psychologie mit Schwerpunkt Klinische Psychologie und Psychotherapie (M.Sc.)"
     rel_path: "studiengang/psychologie-mit-schwerpunkt-klinische-psychologie-und-psychotherapie-m-sc.md"
@@ -141,7 +141,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Veranstaltungen (43)
+## Veranstaltungen (46)
 
 ### Berufsqualifizierende Tätigkeit [II]: HS - Vertiefte Praxis der Psychotherapie 1 (Interventionspraktikum 1) - Hauptseminar
 
@@ -178,10 +178,44 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Blockveranstaltung | — | 08:30–13:30 | 23.02.2026–27.02.2026 | 53101.02.206 (CCC 2.206 Übungsraum, Seminarraum) |
 | Blockveranstaltung | — | 08:30–13:30 | 23.02.2026–27.02.2026 | 53101.02.207 ( CCC 2.207 Sitzungsraum, Seminarraum) |
 
+### Berufsqualifizierende Tätigkeit [II]: HS - Vertiefte Praxis der Psychotherapie 3 - Fallarbeit 2: Erwachsene/Ältere 2 - Hauptseminar
+
+- **Segment:** `exam:17903411` · **unitId:** `115001`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17171|exam:12965039|exam:12965040|exam:12965041|exam:17885113|exam:17903411>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115001&periodId=565>
+
+- **Veranstaltungsart:** Hauptseminar
+- **ECTS-Punkte:** 3.0
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 08:30–13:30 | 23.02.2026–27.02.2026 | 53101.02.206 (CCC 2.206 Übungsraum, Seminarraum) |
+| Blockveranstaltung | — | 08:30–13:30 | 23.02.2026–27.02.2026 | 53101.02.207 ( CCC 2.207 Sitzungsraum, Seminarraum) |
+
 ### Berufsqualifizierende Tätigkeit [II]: HS - Vertiefte Praxis der Psychotherapie 3 - Fallarbeit 3: Kinder und Jugendliche - Hauptseminar
 
 - **Segment:** `exam:12965101` · **unitId:** `115002`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17171|exam:12965039|exam:12965040|exam:12965041|exam:12965097|exam:12965101>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115002&periodId=565>
+
+- **Veranstaltungsart:** Hauptseminar
+- **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:15–15:45 | 14.10.2025–03.02.2026 | 54301.02.313 ( 02.313 Seminarraum) |
+
+### Berufsqualifizierende Tätigkeit [II]: HS - Vertiefte Praxis der Psychotherapie 3 - Fallarbeit 3: Kinder und Jugendliche - Hauptseminar
+
+- **Segment:** `exam:17903421` · **unitId:** `115002`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17171|exam:12965039|exam:12965040|exam:12965041|exam:17885113|exam:17903421>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115002&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar
@@ -217,6 +251,23 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Segment:** `exam:12965098` · **unitId:** `110717`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17171|exam:12965039|exam:12965040|exam:12965041|exam:12965097|exam:12965098>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110717&periodId=565>
+
+- **Veranstaltungsart:** Hauptseminar
+- **ECTS-Punkte:** 4.0
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 09:00–18:00 | 29.09.2025–01.10.2025 | 54301.02.216 ( 02.216 Seminarraum, Nägelsbachstr. 49b) |
+| Blockveranstaltung | — | 09:00–18:00 | 29.09.2025–01.10.2025 | 54301.02.313 ( 02.313 Seminarraum) |
+
+### Berufsqualifizierende Tätigkeit [II]: Vertiefte  Praxis der Psychotherapie 3 - HS: Fallarbeit 1: Erwachsene/Ältere 1 - Hauptseminar
+
+- **Segment:** `exam:17903431` · **unitId:** `110717`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17171|exam:12965039|exam:12965040|exam:12965041|exam:17885113|exam:17903431>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110717&periodId=565>
 
 - **Veranstaltungsart:** Hauptseminar

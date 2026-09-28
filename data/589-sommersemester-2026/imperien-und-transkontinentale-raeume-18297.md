@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:18297"
 campo_path: "title:17593|title:17595|title:18297"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18297"
-po_version_count: 0
-course_count: 48
+po_version_count: 16
+course_count: 32
 ---
 
 # Imperien und Transkontinentale Räume
@@ -14,7 +14,89 @@ course_count: 48
 
 _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theologie_  
 
-## Veranstaltungen (48)
+## Prüfungsordnungs-Versionen (16)
+
+### Aktuelle Texte der Philosophie - Hauptseminar / Masterseminar
+
+- **Campo-Segment:** `exam:15720210`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18297|exam:15469689|exam:15469690|exam:15469691|exam:15469692|exam:15469704|exam:15720210>
+
+### Aktuelle Texte der Philosophie - Hauptseminar / Masterseminar
+
+- **Campo-Segment:** `exam:15720334`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18297|exam:15469689|exam:15469690|exam:15469691|exam:15469692|exam:15469719|exam:15720334>
+
+### Arthur C. Danto: The Transfiguration of the Commonplace - Hauptseminar / Masterseminar
+
+- **Campo-Segment:** `exam:15727928`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18297|exam:15469689|exam:15469690|exam:15469691|exam:15469692|exam:15469704|exam:15727928>
+
+### Arthur C. Danto: The Transfiguration of the Commonplace - Hauptseminar / Masterseminar
+
+- **Campo-Segment:** `exam:15727897`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18297|exam:15469689|exam:15469690|exam:15469691|exam:15469692|exam:15469719|exam:15727897>
+
+### B. Williams, Shame and Necessity - Hauptseminar / Masterseminar
+
+- **Campo-Segment:** `exam:15720823`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18297|exam:15469689|exam:15469690|exam:15469691|exam:15469692|exam:15469704|exam:15720823>
+
+### B. Williams, Shame and Necessity - Hauptseminar / Masterseminar
+
+- **Campo-Segment:** `exam:15720824`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18297|exam:15469689|exam:15469690|exam:15469691|exam:15469692|exam:15469719|exam:15720824>
+
+### Geist und Imagination - Philosophie der Vorstellungskraft - Hauptseminar / Masterseminar
+
+- **Campo-Segment:** `exam:15722059`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18297|exam:15469689|exam:15469690|exam:15469691|exam:15469692|exam:15469719|exam:15722059>
+
+### Methoden der Philosophie - Hauptseminar / Masterseminar
+
+- **Campo-Segment:** `exam:15722784`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18297|exam:15469689|exam:15469690|exam:15469691|exam:15469692|exam:15469719|exam:15722784>
+
+### Politische Philosophie in der islamischen Welt: Vormoderne - Seminar
+
+- **Campo-Segment:** `exam:15848399`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18297|exam:15469689|exam:15469690|exam:15469691|exam:15469692|exam:15469704|exam:15848399>
+
+### Recent Philosophical Perspectives on Understanding - Hauptseminar / Masterseminar
+
+- **Campo-Segment:** `exam:15723114`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18297|exam:15469689|exam:15469690|exam:15469691|exam:15469692|exam:15469719|exam:15723114>
+
+### Scanlon: What we owe to each other - Hauptseminar / Masterseminar
+
+- **Campo-Segment:** `exam:15723194`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18297|exam:15469689|exam:15469690|exam:15469691|exam:15469692|exam:15469704|exam:15723194>
+
+### State-centric and cosmopolitan conceptions of human rights - Hauptseminar / Masterseminar
+
+- **Campo-Segment:** `exam:15723922`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18297|exam:15469689|exam:15469690|exam:15469691|exam:15469692|exam:15469704|exam:15723922>
+
+### Thomas von Aquin über die Vermögen des Geistes - Hauptseminar / Masterseminar
+
+- **Campo-Segment:** `exam:15724080`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18297|exam:15469689|exam:15469690|exam:15469691|exam:15469692|exam:15469719|exam:15724080>
+
+### Wittgenstein: Philosophische Untersuchungen - Hauptseminar / Masterseminar
+
+- **Campo-Segment:** `exam:15724266`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18297|exam:15469689|exam:15469690|exam:15469691|exam:15469692|exam:15469719|exam:15724266>
+
+### Zählen mehr mehr? Über interpersonelle (Non-)Aggregation - Hauptseminar / Masterseminar
+
+- **Campo-Segment:** `exam:15724289`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18297|exam:15469689|exam:15469690|exam:15469691|exam:15469692|exam:15469704|exam:15724289>
+
+### 37805 Transcultural History
+
+- **Campo-Segment:** `exam:15469693`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18297|exam:15469689|exam:15469690|exam:15469691|exam:15469692|exam:15469693>
+
+## Veranstaltungen (32)
 
 ### (MA-BM 2) Medien in Japan - Seminar
 
@@ -32,104 +114,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 08901.02.116 (02.116) |
-
-### Aktuelle Texte der Philosophie - Hauptseminar / Masterseminar
-
-- **Segment:** `exam:15720210` · **unitId:** `134086`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18297|exam:15469689|exam:15469690|exam:15469691|exam:15469692|exam:15469704|exam:15720210>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134086&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05801.01.110 ( PSG A 301) |
-
-### Aktuelle Texte der Philosophie - Hauptseminar / Masterseminar
-
-- **Segment:** `exam:15720334` · **unitId:** `134086`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18297|exam:15469689|exam:15469690|exam:15469691|exam:15469692|exam:15469719|exam:15720334>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134086&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05801.01.110 ( PSG A 301) |
-
-### Arthur C. Danto: The Transfiguration of the Commonplace - Hauptseminar / Masterseminar
-
-- **Segment:** `exam:15727928` · **unitId:** `134079`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18297|exam:15469689|exam:15469690|exam:15469691|exam:15469692|exam:15469704|exam:15727928>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134079&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 05801.01.312 ( C 303 Seminarraum) |
-| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | — |
-
-### Arthur C. Danto: The Transfiguration of the Commonplace - Hauptseminar / Masterseminar
-
-- **Segment:** `exam:15727897` · **unitId:** `134079`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18297|exam:15469689|exam:15469690|exam:15469691|exam:15469692|exam:15469719|exam:15727897>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134079&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 05801.01.312 ( C 303 Seminarraum) |
-| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | — |
-
-### B. Williams, Shame and Necessity - Hauptseminar / Masterseminar
-
-- **Segment:** `exam:15720823` · **unitId:** `134426`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18297|exam:15469689|exam:15469690|exam:15469691|exam:15469692|exam:15469704|exam:15720823>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134426&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 05801.02.111 ( PSG A 402) |
-
-### B. Williams, Shame and Necessity - Hauptseminar / Masterseminar
-
-- **Segment:** `exam:15720824` · **unitId:** `134426`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18297|exam:15469689|exam:15469690|exam:15469691|exam:15469692|exam:15469719|exam:15720824>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134426&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 05801.02.111 ( PSG A 402) |
 
 ### BA-BM 1: Japanologische Grundlagen - Vorlesung mit Übung
 
@@ -198,22 +182,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Einzeltermin | Mo | 13:00–14:00 | 13.04.2026 | 05902.00.005 ( 00.5 PSG) |
 | Blockveranstaltung+Sa | — | 09:00–18:00 | 22.05.2026–23.05.2026 | 05902.00.003 ( 00.3 PSG) |
 
-### Geist und Imagination - Philosophie der Vorstellungskraft - Hauptseminar / Masterseminar
-
-- **Segment:** `exam:15722059` · **unitId:** `134085`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18297|exam:15469689|exam:15469690|exam:15469691|exam:15469692|exam:15469719|exam:15722059>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134085&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 05801.02.111 ( PSG A 402) |
-
 ### MA-3 Science & Knowledge Systems - Seminar
 
 - **Segment:** `exam:15469777` · **unitId:** `106246`
@@ -248,54 +216,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Blockveranstaltung+Sa | — | 11:00–16:15 | 24.04.2026–25.04.2026 | 08901.02.116 (02.116) |
 | Blockveranstaltung+Sa | — | 11:00–16:15 | 22.05.2026–23.05.2026 | 08901.02.116 (02.116) |
 
-### Methoden der Philosophie - Hauptseminar / Masterseminar
-
-- **Segment:** `exam:15722784` · **unitId:** `134350`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18297|exam:15469689|exam:15469690|exam:15469691|exam:15469692|exam:15469719|exam:15722784>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134350&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 08:30–10:00 | 15.04.2026–15.07.2026 | 05801.02.111 ( PSG A 402) |
-
-### Politische Philosophie in der islamischen Welt: Vormoderne - Seminar
-
-- **Segment:** `exam:15848399` · **unitId:** `135407`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18297|exam:15469689|exam:15469690|exam:15469691|exam:15469692|exam:15469704|exam:15848399>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135407&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | — |
-
-### Recent Philosophical Perspectives on Understanding - Hauptseminar / Masterseminar
-
-- **Segment:** `exam:15723114` · **unitId:** `134435`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18297|exam:15469689|exam:15469690|exam:15469691|exam:15469692|exam:15469719|exam:15723114>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134435&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 12:00–14:00 | 15.04.2026–15.07.2026 | 05801.01.110 ( PSG A 301) |
-
 ### Recent Texts in the Philosophy and Ethics of AI - Hauptseminar / Masterseminar
 
 - **Segment:** `exam:15469715` · **unitId:** `126923`
@@ -328,88 +248,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Mi | 12:00–14:00 | 15.04.2026–15.07.2026 | 56901.00.014 (Seminarraum 1 (Vorbelegungsrecht HTA Departments für SS bis 15.02.27)) |
 
-### Scanlon: What we owe to each other - Hauptseminar / Masterseminar
-
-- **Segment:** `exam:15723194` · **unitId:** `134443`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18297|exam:15469689|exam:15469690|exam:15469691|exam:15469692|exam:15469704|exam:15723194>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134443&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 05801.01.110 ( PSG A 301) |
-
-### State-centric and cosmopolitan conceptions of human rights - Hauptseminar / Masterseminar
-
-- **Segment:** `exam:15723922` · **unitId:** `134044`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18297|exam:15469689|exam:15469690|exam:15469691|exam:15469692|exam:15469704|exam:15723922>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134044&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:00–12:00 | 13.04.2026–13.07.2026 | 05801.02.111 ( PSG A 402) |
-
-### Thomas von Aquin über die Vermögen des Geistes - Hauptseminar / Masterseminar
-
-- **Segment:** `exam:15724080` · **unitId:** `134517`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18297|exam:15469689|exam:15469690|exam:15469691|exam:15469692|exam:15469719|exam:15724080>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134517&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 10:00–13:00 | 08.05.2026 | 05801.02.111 ( PSG A 402) |
-| Einzeltermin | Fr | 09:00–18:00 | 12.06.2026 | 05801.02.111 ( PSG A 402) |
-| Einzeltermin | Fr | 09:00–18:00 | 10.07.2026 | 05801.02.111 ( PSG A 402) |
-
-### Wittgenstein: Philosophische Untersuchungen - Hauptseminar / Masterseminar
-
-- **Segment:** `exam:15724266` · **unitId:** `134072`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18297|exam:15469689|exam:15469690|exam:15469691|exam:15469692|exam:15469719|exam:15724266>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134072&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 05801.01.110 ( PSG A 301) |
-
-### Zählen mehr mehr? Über interpersonelle (Non-)Aggregation - Hauptseminar / Masterseminar
-
-- **Segment:** `exam:15724289` · **unitId:** `134067`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18297|exam:15469689|exam:15469690|exam:15469691|exam:15469692|exam:15469704|exam:15724289>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134067&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:00–16:00 | 13.04.2026–13.07.2026 | 05801.01.110 ( PSG A 301) |
-
 ### 1999 Mastermodul (M.A. Imperien und Transkontinentale Räume 20172)
 
 - **Segment:** `exam:15469791` · **unitId:** `47734`
@@ -421,12 +259,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Segment:** `exam:15469696` · **unitId:** `68066`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18297|exam:15469689|exam:15469690|exam:15469691|exam:15469692|exam:15469696>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68066&periodId=589>
-
-### 37805 Transcultural History
-
-- **Segment:** `exam:15469693` · **unitId:** `126453`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18297|exam:15469689|exam:15469690|exam:15469691|exam:15469692|exam:15469693>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126453&periodId=589>
 
 ### 38011 Development Economics I
 

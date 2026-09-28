@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:17626"
 campo_path: "title:17593|title:17603|title:17626"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626"
-po_version_count: 46
-course_count: 586
+po_version_count: 88
+course_count: 544
 fau_studiengang:
   - title: "Rechtswissenschaft (Staatsexamen)"
     rel_path: "studiengang/rechtswissenschaft-staatsexamen.md"
@@ -195,7 +195,207 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (46)
+## Prüfungsordnungs-Versionen (88)
+
+### Crashkurs zum Staatshaftungsrecht - Vorlesung
+
+- **Campo-Segment:** `exam:14059764`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14059362|exam:14059363|exam:14059452|exam:14059711|exam:14059764>
+
+### Crashkurs zum Staatshaftungsrecht - Vorlesung
+
+- **Campo-Segment:** `exam:14061804`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14061283|exam:14061284|exam:14061492|exam:14061751|exam:14061804>
+
+### Crashkurs zum Staatshaftungsrecht - Vorlesung
+
+- **Campo-Segment:** `exam:14063844`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14063323|exam:14063324|exam:14063532|exam:14063791|exam:14063844>
+
+### Crashkurs zum Staatshaftungsrecht - Vorlesung
+
+- **Campo-Segment:** `exam:14065579`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14065526|exam:14065579>
+
+### Einführung in das Recht der Verkehrswende und der Energiewende - Vorlesung
+
+- **Campo-Segment:** `exam:15720185`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14059362|exam:14059363|exam:14059452|exam:14059711|exam:15720185>
+
+### Einführung in das Recht der Verkehrswende und der Energiewende - Vorlesung
+
+- **Campo-Segment:** `exam:15720186`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14061283|exam:14061284|exam:14061492|exam:14061751|exam:15720186>
+
+### Einführung in das Recht der Verkehrswende und der Energiewende - Vorlesung
+
+- **Campo-Segment:** `exam:15720187`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14063323|exam:14063324|exam:14063532|exam:14063791|exam:15720187>
+
+### Einführung in das Recht der Verkehrswende und der Energiewende - Vorlesung
+
+- **Campo-Segment:** `exam:15720188`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14065526|exam:15720188>
+
+### Einführung in das Recht des Weltraumes - Vorlesung
+
+- **Campo-Segment:** `exam:15785747`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14059362|exam:14059363|exam:14059452|exam:14059711|exam:15785747>
+
+### Einführung in das Recht des Weltraumes - Vorlesung
+
+- **Campo-Segment:** `exam:15785748`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14061283|exam:14061284|exam:14061492|exam:14061751|exam:15785748>
+
+### Einführung in das Recht des Weltraumes - Vorlesung
+
+- **Campo-Segment:** `exam:15785749`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14063323|exam:14063324|exam:14063532|exam:14063791|exam:15785749>
+
+### Einführung in das Recht des Weltraumes - Vorlesung
+
+- **Campo-Segment:** `exam:15785750`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14065526|exam:15785750>
+
+### Examenskurs Öffentliches Recht I - Vorlesung
+
+- **Campo-Segment:** `exam:14059528`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14059362|exam:14059363|exam:14059452|exam:14059493|exam:14059528>
+
+### Examenskurs Öffentliches Recht I - Vorlesung
+
+- **Campo-Segment:** `exam:14061568`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14061283|exam:14061284|exam:14061492|exam:14061533|exam:14061568>
+
+### Examenskurs Öffentliches Recht I - Vorlesung
+
+- **Campo-Segment:** `exam:14063608`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14063323|exam:14063324|exam:14063532|exam:14063573|exam:14063608>
+
+### Examenskurs Öffentliches Recht I - Vorlesung
+
+- **Campo-Segment:** `exam:14065662`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14065627|exam:14065662>
+
+### Grundzüge Personengesellschaftsrecht - Vorlesung
+
+- **Campo-Segment:** `exam:14059598`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14059362|exam:14059363|exam:14059452|exam:14059533|exam:14059598>
+
+### Grundzüge Personengesellschaftsrecht - Vorlesung
+
+- **Campo-Segment:** `exam:14061638`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14061283|exam:14061284|exam:14061492|exam:14061573|exam:14061638>
+
+### Grundzüge Personengesellschaftsrecht - Vorlesung
+
+- **Campo-Segment:** `exam:14063678`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14063323|exam:14063324|exam:14063532|exam:14063613|exam:14063678>
+
+### Grundzüge Personengesellschaftsrecht - Vorlesung
+
+- **Campo-Segment:** `exam:14065503`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14065438|exam:14065503>
+
+### Handelsrecht - Vorlesung
+
+- **Campo-Segment:** `exam:14059605`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14059362|exam:14059363|exam:14059452|exam:14059533|exam:14059605>
+
+### Handelsrecht - Vorlesung
+
+- **Campo-Segment:** `exam:14061645`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14061283|exam:14061284|exam:14061492|exam:14061573|exam:14061645>
+
+### Handelsrecht - Vorlesung
+
+- **Campo-Segment:** `exam:14063685`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14063323|exam:14063324|exam:14063532|exam:14063613|exam:14063685>
+
+### Handelsrecht - Vorlesung
+
+- **Campo-Segment:** `exam:14065510`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14065438|exam:14065510>
+
+### Jugendstrafrecht - Vorlesung mit Übung
+
+- **Campo-Segment:** `exam:14059798`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14059362|exam:14059363|exam:14059452|exam:14059775|exam:14059798>
+
+### Jugendstrafrecht - Vorlesung mit Übung
+
+- **Campo-Segment:** `exam:14061838`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14061283|exam:14061284|exam:14061492|exam:14061815|exam:14061838>
+
+### Jugendstrafrecht - Vorlesung mit Übung
+
+- **Campo-Segment:** `exam:14063878`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14063323|exam:14063324|exam:14063532|exam:14063855|exam:14063878>
+
+### Jugendstrafrecht - Vorlesung mit Übung
+
+- **Campo-Segment:** `exam:14065435`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14065412|exam:14065435>
+
+### Proseminar LGBTIQ+-Rechte als Menschenrechte - Proseminar
+
+- **Campo-Segment:** `exam:15718437`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14059362|exam:14059363|exam:14059452|exam:14059612|exam:15718437>
+
+### Proseminar LGBTIQ+-Rechte als Menschenrechte - Proseminar
+
+- **Campo-Segment:** `exam:15718438`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14061283|exam:14061284|exam:14061492|exam:14061652|exam:15718438>
+
+### Proseminar LGBTIQ+-Rechte als Menschenrechte - Proseminar
+
+- **Campo-Segment:** `exam:15718439`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14063323|exam:14063324|exam:14063532|exam:14063692|exam:15718439>
+
+### Proseminar LGBTIQ+-Rechte als Menschenrechte - Proseminar
+
+- **Campo-Segment:** `exam:15718440`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14065685|exam:15718440>
+
+### Vorlesung/Übung zur juristischen Auslegung des Grundgesetzes der Bundesrepublik Deutschland, der Verfassung des Freistaates Bayern und des Vertrags über die Europäische Union - Vorlesung mit Übung
+
+- **Campo-Segment:** `exam:15689918`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14059362|exam:14059363|exam:14059452|exam:14059711|exam:15689918>
+
+### Vorlesung/Übung zur juristischen Auslegung des Grundgesetzes der Bundesrepublik Deutschland, der Verfassung des Freistaates Bayern und des Vertrags über die Europäische Union - Vorlesung mit Übung
+
+- **Campo-Segment:** `exam:15689919`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14061283|exam:14061284|exam:14061492|exam:14061751|exam:15689919>
+
+### Vorlesung/Übung zur juristischen Auslegung des Grundgesetzes der Bundesrepublik Deutschland, der Verfassung des Freistaates Bayern und des Vertrags über die Europäische Union - Vorlesung mit Übung
+
+- **Campo-Segment:** `exam:15689920`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14063323|exam:14063324|exam:14063532|exam:14063791|exam:15689920>
+
+### Vorlesung/Übung zur juristischen Auslegung des Grundgesetzes der Bundesrepublik Deutschland, der Verfassung des Freistaates Bayern und des Vertrags über die Europäische Union - Vorlesung mit Übung
+
+- **Campo-Segment:** `exam:15689921`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14065526|exam:15689921>
+
+### Übung Kapitalgesellschaftsrecht - Übung
+
+- **Campo-Segment:** `exam:15867324`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14059362|exam:14059363|exam:14059452|exam:14059533|exam:15867324>
+
+### Übung Kapitalgesellschaftsrecht - Übung
+
+- **Campo-Segment:** `exam:15867325`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14061283|exam:14061284|exam:14061492|exam:14061573|exam:15867325>
+
+### Übung Kapitalgesellschaftsrecht - Übung
+
+- **Campo-Segment:** `exam:15867326`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14063323|exam:14063324|exam:14063532|exam:14063613|exam:15867326>
+
+### Übung Kapitalgesellschaftsrecht - Übung
+
+- **Campo-Segment:** `exam:15867327`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14065438|exam:15867327>
 
 ### 1811 Abschlussklausuren: Bürgerliches Recht
 
@@ -377,6 +577,11 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Campo-Segment:** `exam:15865837`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14063323|exam:14063324|exam:14063325|exam:14063440|exam:15865199|exam:15865837>
 
+### 38862 M&A   - Leistung
+
+- **Campo-Segment:** `exam:14065738`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14065722|exam:14065723|exam:14065724|exam:14065736|exam:14065738>
+
 ### 3900 Schwerpunktbereich Grundlagen des Rechts
 
 - **Campo-Segment:** `exam:15866406`
@@ -427,7 +632,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Campo-Segment:** `exam:15866030`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14063323|exam:14063324|exam:14063325|exam:14063440|exam:15865199|exam:15866030>
 
-## Veranstaltungen (586)
+### 53885 Investitionsrechnung und Bewertung
+
+- **Campo-Segment:** `exam:14065733`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14065722|exam:14065723|exam:14065724|exam:14065733>
+
+## Veranstaltungen (544)
 
 ### Aktuelle Rechtsprechung in Strafsachen - Vorlesung
 
@@ -981,198 +1191,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mi | 11:00–13:00 | 15.04.2026–15.07.2026 | 20201.02.214 |
 
-### Crashkurs zum Staatshaftungsrecht - Vorlesung
-
-- **Segment:** `exam:14059764` · **unitId:** `130808`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14059362|exam:14059363|exam:14059452|exam:14059711|exam:14059764>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130808&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Sa | 09:00–21:00 | 25.04.2026 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
-
-### Crashkurs zum Staatshaftungsrecht - Vorlesung
-
-- **Segment:** `exam:14061804` · **unitId:** `130808`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14061283|exam:14061284|exam:14061492|exam:14061751|exam:14061804>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130808&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Sa | 09:00–21:00 | 25.04.2026 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
-
-### Crashkurs zum Staatshaftungsrecht - Vorlesung
-
-- **Segment:** `exam:14063844` · **unitId:** `130808`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14063323|exam:14063324|exam:14063532|exam:14063791|exam:14063844>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130808&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Sa | 09:00–21:00 | 25.04.2026 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
-
-### Crashkurs zum Staatshaftungsrecht - Vorlesung
-
-- **Segment:** `exam:14065579` · **unitId:** `130808`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14065526|exam:14065579>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130808&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Sa | 09:00–21:00 | 25.04.2026 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
-
-### Einführung in das Recht der Verkehrswende und der Energiewende - Vorlesung
-
-- **Segment:** `exam:15720185` · **unitId:** `134574`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14059362|exam:14059363|exam:14059452|exam:14059711|exam:15720185>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134574&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Sa | 09:00–21:00 | 09.05.2026 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
-
-### Einführung in das Recht der Verkehrswende und der Energiewende - Vorlesung
-
-- **Segment:** `exam:15720186` · **unitId:** `134574`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14061283|exam:14061284|exam:14061492|exam:14061751|exam:15720186>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134574&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Sa | 09:00–21:00 | 09.05.2026 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
-
-### Einführung in das Recht der Verkehrswende und der Energiewende - Vorlesung
-
-- **Segment:** `exam:15720187` · **unitId:** `134574`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14063323|exam:14063324|exam:14063532|exam:14063791|exam:15720187>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134574&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Sa | 09:00–21:00 | 09.05.2026 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
-
-### Einführung in das Recht der Verkehrswende und der Energiewende - Vorlesung
-
-- **Segment:** `exam:15720188` · **unitId:** `134574`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14065526|exam:15720188>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134574&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Sa | 09:00–21:00 | 09.05.2026 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
-
-### Einführung in das Recht des Weltraumes - Vorlesung
-
-- **Segment:** `exam:15785747` · **unitId:** `133945`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14059362|exam:14059363|exam:14059452|exam:14059711|exam:15785747>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133945&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** jedes 2. Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Sa | 09:00–21:00 | 04.07.2026 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
-
-### Einführung in das Recht des Weltraumes - Vorlesung
-
-- **Segment:** `exam:15785748` · **unitId:** `133945`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14061283|exam:14061284|exam:14061492|exam:14061751|exam:15785748>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133945&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** jedes 2. Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Sa | 09:00–21:00 | 04.07.2026 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
-
-### Einführung in das Recht des Weltraumes - Vorlesung
-
-- **Segment:** `exam:15785749` · **unitId:** `133945`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14063323|exam:14063324|exam:14063532|exam:14063791|exam:15785749>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133945&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** jedes 2. Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Sa | 09:00–21:00 | 04.07.2026 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
-
-### Einführung in das Recht des Weltraumes - Vorlesung
-
-- **Segment:** `exam:15785750` · **unitId:** `133945`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14065526|exam:15785750>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133945&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** jedes 2. Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Sa | 09:00–21:00 | 04.07.2026 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
-
 ### English: JUR - Academic and Legal Writing for Law Students - Kurs
 
 - **Segment:** `exam:14132064` · **unitId:** `101613`
@@ -1181,7 +1199,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Kurs
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Di | 12:15–13:45 | 14.04.2026 | 00501.00.014 ( KH 0.014 Hörsaal Kollegienhaus (SR) - 42 Plätze) |
+| wöchentlich | Di | 12:15–13:45 | 21.04.2026–14.07.2026 | 00501.00.014 ( KH 0.014 Hörsaal Kollegienhaus (SR) - 42 Plätze) |
 
 ### English: JUR - Legal English for Legal Trainees - Online-Kurs
 
@@ -1288,7 +1314,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 12:15–13:45 | 14.04.2026–07.07.2026 | — |
+| wöchentlich | Mo | 12:15–13:45 | 13.04.2026–06.07.2026 | 54606.02.021 (F 21 (IFA)) |
 
 ### English: Level 3 (JUR) - Private Law B (Family Law, Employment Law, Property Law, Law of Succession) - Kurs
 
@@ -1333,7 +1359,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Kurs
 - **ECTS-Punkte:** 4.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 00501.00.014 ( KH 0.014 Hörsaal Kollegienhaus (SR) - 42 Plätze) |
 
 ### English: Level 4 (JUR) - Presenting Skills in the Legal Context - Kurs
 
@@ -1343,7 +1376,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Kurs
 - **ECTS-Punkte:** 4.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
 
 ### English: Level 4 (JUR) - Translating & Interpreting in the Legal Context - Kurs
 
@@ -1353,7 +1393,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Kurs
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:15–17:45 | 13.04.2026–13.07.2026 | 00501.01.014 ( KH 1.014 Hörsaal Kollegienhaus) |
 
 ### Erbrecht - Vorlesung
 
@@ -1633,7 +1680,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14059362|exam:14059363|exam:14059452|exam:14059493|exam:14059516>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92614&periodId=589>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -1651,7 +1700,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14061283|exam:14061284|exam:14061492|exam:14061533|exam:14061556>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92614&periodId=589>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -1669,7 +1720,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14063323|exam:14063324|exam:14063532|exam:14063573|exam:14063596>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92614&periodId=589>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -1687,7 +1740,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14065627|exam:14065650>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92614&periodId=589>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -1705,7 +1760,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14059362|exam:14059363|exam:14059452|exam:14059493|exam:14059519>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102644&periodId=589>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -1721,7 +1778,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14061283|exam:14061284|exam:14061492|exam:14061533|exam:14061559>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102644&periodId=589>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -1737,7 +1796,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14063323|exam:14063324|exam:14063532|exam:14063573|exam:14063599>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102644&periodId=589>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -1753,7 +1814,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14065627|exam:14065653>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102644&periodId=589>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -1762,86 +1825,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | wöchentlich | Do | 09:15–11:45 | 16.04.2026–07.05.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
 | wöchentlich | Fr | 09:15–11:45 | 17.04.2026–17.07.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
 | Einzeltermin | Fr | 12:00–13:00 | 08.05.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
-
-### Examenskurs Öffentliches Recht I - Vorlesung
-
-- **Segment:** `exam:14059528` · **unitId:** `133346`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14059362|exam:14059363|exam:14059452|exam:14059493|exam:14059528>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133346&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 09:00–13:00 | 04.05.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
-| Einzeltermin | Mo | 09:00–13:00 | 11.05.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
-| Einzeltermin | Mo | 09:00–13:00 | 01.06.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
-| Einzeltermin | Mo | 09:00–13:00 | 08.06.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
-| Einzeltermin | Mo | 09:00–13:00 | 15.06.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
-
-### Examenskurs Öffentliches Recht I - Vorlesung
-
-- **Segment:** `exam:14061568` · **unitId:** `133346`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14061283|exam:14061284|exam:14061492|exam:14061533|exam:14061568>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133346&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 09:00–13:00 | 04.05.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
-| Einzeltermin | Mo | 09:00–13:00 | 11.05.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
-| Einzeltermin | Mo | 09:00–13:00 | 01.06.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
-| Einzeltermin | Mo | 09:00–13:00 | 08.06.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
-| Einzeltermin | Mo | 09:00–13:00 | 15.06.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
-
-### Examenskurs Öffentliches Recht I - Vorlesung
-
-- **Segment:** `exam:14063608` · **unitId:** `133346`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14063323|exam:14063324|exam:14063532|exam:14063573|exam:14063608>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133346&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 09:00–13:00 | 04.05.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
-| Einzeltermin | Mo | 09:00–13:00 | 11.05.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
-| Einzeltermin | Mo | 09:00–13:00 | 01.06.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
-| Einzeltermin | Mo | 09:00–13:00 | 08.06.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
-| Einzeltermin | Mo | 09:00–13:00 | 15.06.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
-
-### Examenskurs Öffentliches Recht I - Vorlesung
-
-- **Segment:** `exam:14065662` · **unitId:** `133346`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14065627|exam:14065662>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133346&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 09:00–13:00 | 04.05.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
-| Einzeltermin | Mo | 09:00–13:00 | 11.05.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
-| Einzeltermin | Mo | 09:00–13:00 | 01.06.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
-| Einzeltermin | Mo | 09:00–13:00 | 08.06.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
-| Einzeltermin | Mo | 09:00–13:00 | 15.06.2026 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) |
 
 ### Examenskurs: Handels- und Gesellschaftsrecht - Repetitorium
 
@@ -2035,134 +2018,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | Einzeltermin | Fr | 09:00–17:00 | 08.05.2026 | 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
 | Einzeltermin | Sa | 10:00–17:00 | 09.05.2026 | 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
-
-### Grundzüge Personengesellschaftsrecht - Vorlesung
-
-- **Segment:** `exam:14059598` · **unitId:** `125912`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14059362|exam:14059363|exam:14059452|exam:14059533|exam:14059598>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125912&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
-
-### Grundzüge Personengesellschaftsrecht - Vorlesung
-
-- **Segment:** `exam:14061638` · **unitId:** `125912`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14061283|exam:14061284|exam:14061492|exam:14061573|exam:14061638>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125912&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
-
-### Grundzüge Personengesellschaftsrecht - Vorlesung
-
-- **Segment:** `exam:14063678` · **unitId:** `125912`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14063323|exam:14063324|exam:14063532|exam:14063613|exam:14063678>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125912&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
-
-### Grundzüge Personengesellschaftsrecht - Vorlesung
-
-- **Segment:** `exam:14065503` · **unitId:** `125912`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14065438|exam:14065503>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125912&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
-
-### Handelsrecht - Vorlesung
-
-- **Segment:** `exam:14059605` · **unitId:** `127364`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14059362|exam:14059363|exam:14059452|exam:14059533|exam:14059605>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127364&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** jedes 2. Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 08:00–10:00 | 14.04.2026–14.07.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
-
-### Handelsrecht - Vorlesung
-
-- **Segment:** `exam:14061645` · **unitId:** `127364`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14061283|exam:14061284|exam:14061492|exam:14061573|exam:14061645>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127364&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** jedes 2. Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 08:00–10:00 | 14.04.2026–14.07.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
-
-### Handelsrecht - Vorlesung
-
-- **Segment:** `exam:14063685` · **unitId:** `127364`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14063323|exam:14063324|exam:14063532|exam:14063613|exam:14063685>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127364&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** jedes 2. Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 08:00–10:00 | 14.04.2026–14.07.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
-
-### Handelsrecht - Vorlesung
-
-- **Segment:** `exam:14065510` · **unitId:** `127364`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14065438|exam:14065510>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127364&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** jedes 2. Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 08:00–10:00 | 14.04.2026–14.07.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
 
 ### Human Rights in International Organisations: Law & Politics - Masterseminar
 
@@ -2742,42 +2597,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 14:15–15:45 | 14.04.2026–14.07.2026 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
-
-### Jugendstrafrecht - Vorlesung mit Übung
-
-- **Segment:** `exam:14059798` · **unitId:** `127025`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14059362|exam:14059363|exam:14059452|exam:14059775|exam:14059798>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127025&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Turnus:** nur im Sommersemester
-
-### Jugendstrafrecht - Vorlesung mit Übung
-
-- **Segment:** `exam:14061838` · **unitId:** `127025`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14061283|exam:14061284|exam:14061492|exam:14061815|exam:14061838>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127025&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Turnus:** nur im Sommersemester
-
-### Jugendstrafrecht - Vorlesung mit Übung
-
-- **Segment:** `exam:14063878` · **unitId:** `127025`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14063323|exam:14063324|exam:14063532|exam:14063855|exam:14063878>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127025&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Turnus:** nur im Sommersemester
-
-### Jugendstrafrecht - Vorlesung mit Übung
-
-- **Segment:** `exam:14065435` · **unitId:** `127025`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14065412|exam:14065435>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127025&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Turnus:** nur im Sommersemester
 
 ### Kapitalmarktrecht - Vorlesung
 
@@ -3482,17 +3301,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135225&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 12:00–16:00 | 24.04.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
-| Einzeltermin | Fr | 12:00–16:00 | 08.05.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
-| Einzeltermin | Fr | 12:00–16:00 | 26.06.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
-| Einzeltermin | Sa | 11:00–18:00 | 18.07.2026 | 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
 
 ### Proseminar "Die Haftung von Vorständen und Geschäftsführern" - Proseminar
 
@@ -3501,17 +3310,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135225&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 12:00–16:00 | 24.04.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
-| Einzeltermin | Fr | 12:00–16:00 | 08.05.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
-| Einzeltermin | Fr | 12:00–16:00 | 26.06.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
-| Einzeltermin | Sa | 11:00–18:00 | 18.07.2026 | 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
 
 ### Proseminar "Die Haftung von Vorständen und Geschäftsführern" - Proseminar
 
@@ -3520,17 +3319,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135225&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 12:00–16:00 | 24.04.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
-| Einzeltermin | Fr | 12:00–16:00 | 08.05.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
-| Einzeltermin | Fr | 12:00–16:00 | 26.06.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
-| Einzeltermin | Sa | 11:00–18:00 | 18.07.2026 | 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
 
 ### Proseminar "Die Haftung von Vorständen und Geschäftsführern" - Proseminar
 
@@ -3539,17 +3328,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135225&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 12:00–16:00 | 24.04.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
-| Einzeltermin | Fr | 12:00–16:00 | 08.05.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
-| Einzeltermin | Fr | 12:00–16:00 | 26.06.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
-| Einzeltermin | Sa | 11:00–18:00 | 18.07.2026 | 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
 
 ### Proseminar "Probleme der Verfassungsinterpretation" - Proseminar
 
@@ -3695,90 +3474,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 06102.01.282 ( JDC R 1.282 Seminarraum 1.282 Juridicum) |
 
-### Proseminar LGBTIQ+-Rechte als Menschenrechte - Proseminar
-
-- **Segment:** `exam:15718437` · **unitId:** `134523`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14059362|exam:14059363|exam:14059452|exam:14059612|exam:15718437>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134523&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 16:00–18:00 | 22.04.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
-| Einzeltermin | Mi | 16:00–18:00 | 29.04.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
-| Einzeltermin | Mi | 16:00–18:00 | 06.05.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
-| Einzeltermin | Mi | 16:00–18:00 | 13.05.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
-| Einzeltermin | Fr | 12:00–16:00 | 19.06.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
-| Einzeltermin | Fr | 12:00–16:00 | 03.07.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
-
-### Proseminar LGBTIQ+-Rechte als Menschenrechte - Proseminar
-
-- **Segment:** `exam:15718438` · **unitId:** `134523`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14061283|exam:14061284|exam:14061492|exam:14061652|exam:15718438>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134523&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 16:00–18:00 | 22.04.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
-| Einzeltermin | Mi | 16:00–18:00 | 29.04.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
-| Einzeltermin | Mi | 16:00–18:00 | 06.05.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
-| Einzeltermin | Mi | 16:00–18:00 | 13.05.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
-| Einzeltermin | Fr | 12:00–16:00 | 19.06.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
-| Einzeltermin | Fr | 12:00–16:00 | 03.07.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
-
-### Proseminar LGBTIQ+-Rechte als Menschenrechte - Proseminar
-
-- **Segment:** `exam:15718439` · **unitId:** `134523`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14063323|exam:14063324|exam:14063532|exam:14063692|exam:15718439>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134523&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 16:00–18:00 | 22.04.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
-| Einzeltermin | Mi | 16:00–18:00 | 29.04.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
-| Einzeltermin | Mi | 16:00–18:00 | 06.05.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
-| Einzeltermin | Mi | 16:00–18:00 | 13.05.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
-| Einzeltermin | Fr | 12:00–16:00 | 19.06.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
-| Einzeltermin | Fr | 12:00–16:00 | 03.07.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
-
-### Proseminar LGBTIQ+-Rechte als Menschenrechte - Proseminar
-
-- **Segment:** `exam:15718440` · **unitId:** `134523`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14065685|exam:15718440>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134523&periodId=589>
-
-- **Veranstaltungsart:** Proseminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mi | 16:00–18:00 | 22.04.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
-| Einzeltermin | Mi | 16:00–18:00 | 29.04.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
-| Einzeltermin | Mi | 16:00–18:00 | 06.05.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
-| Einzeltermin | Mi | 16:00–18:00 | 13.05.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
-| Einzeltermin | Fr | 12:00–16:00 | 19.06.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
-| Einzeltermin | Fr | 12:00–16:00 | 03.07.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
-
 ### Proseminar: EU Anti-Diskriminierungsrecht - Proseminar
 
 - **Segment:** `exam:14059616` · **unitId:** `84903`
@@ -3913,7 +3608,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14059362|exam:14059363|exam:14059452|exam:14059612|exam:15718441>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134524&periodId=589>
 
+- **Veranstaltungsart:** Proseminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
 
 #### Termine
 
@@ -3930,7 +3627,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14061283|exam:14061284|exam:14061492|exam:14061652|exam:15718442>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134524&periodId=589>
 
+- **Veranstaltungsart:** Proseminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
 
 #### Termine
 
@@ -3947,7 +3646,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14063323|exam:14063324|exam:14063532|exam:14063692|exam:15718443>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134524&periodId=589>
 
+- **Veranstaltungsart:** Proseminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
 
 #### Termine
 
@@ -3964,7 +3665,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14065685|exam:15718444>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134524&periodId=589>
 
+- **Veranstaltungsart:** Proseminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
 
 #### Termine
 
@@ -5026,7 +4729,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89151&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
+| Einzeltermin | Sa | 12:00–18:00 | 09.05.2026 | — |
 
 ### Unternehmenssteuerrecht - Vorlesung
 
@@ -5035,7 +4746,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89151&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
+| Einzeltermin | Sa | 12:00–18:00 | 09.05.2026 | — |
 
 ### Unternehmenssteuerrecht - Vorlesung
 
@@ -5044,7 +4763,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89151&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
+| Einzeltermin | Sa | 12:00–18:00 | 09.05.2026 | — |
 
 ### Unternehmenssteuerrecht - Vorlesung
 
@@ -5053,7 +4780,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89151&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
+| Einzeltermin | Sa | 12:00–18:00 | 09.05.2026 | — |
 
 ### Vernehmungslehre - Workshop
 
@@ -5230,70 +4965,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 08:00–10:00 | 14.04.2026–14.07.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
-
-### Vorlesung/Übung zur juristischen Auslegung des Grundgesetzes der Bundesrepublik Deutschland, der Verfassung des Freistaates Bayern und des Vertrags über die Europäische Union - Vorlesung mit Übung
-
-- **Segment:** `exam:15689918` · **unitId:** `133944`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14059362|exam:14059363|exam:14059452|exam:14059711|exam:15689918>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133944&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** jedes 2. Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
-
-### Vorlesung/Übung zur juristischen Auslegung des Grundgesetzes der Bundesrepublik Deutschland, der Verfassung des Freistaates Bayern und des Vertrags über die Europäische Union - Vorlesung mit Übung
-
-- **Segment:** `exam:15689919` · **unitId:** `133944`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14061283|exam:14061284|exam:14061492|exam:14061751|exam:15689919>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133944&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** jedes 2. Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
-
-### Vorlesung/Übung zur juristischen Auslegung des Grundgesetzes der Bundesrepublik Deutschland, der Verfassung des Freistaates Bayern und des Vertrags über die Europäische Union - Vorlesung mit Übung
-
-- **Segment:** `exam:15689920` · **unitId:** `133944`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14063323|exam:14063324|exam:14063532|exam:14063791|exam:15689920>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133944&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** jedes 2. Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
-
-### Vorlesung/Übung zur juristischen Auslegung des Grundgesetzes der Bundesrepublik Deutschland, der Verfassung des Freistaates Bayern und des Vertrags über die Europäische Union - Vorlesung mit Übung
-
-- **Segment:** `exam:15689921` · **unitId:** `133944`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14065526|exam:15689921>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133944&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** jedes 2. Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.013 ( KH 2.013 Hörsaal Kollegienhaus) |
 
 ### Wirtschaftsstrafrecht - Vorlesung
 
@@ -5978,42 +5649,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mo | 18:00–20:00 | 13.04.2026–13.07.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
-### Übung Kapitalgesellschaftsrecht - Übung
-
-- **Segment:** `exam:15867324` · **unitId:** `128971`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14059362|exam:14059363|exam:14059452|exam:14059533|exam:15867324>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128971&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** Unregelmäßig
-
-### Übung Kapitalgesellschaftsrecht - Übung
-
-- **Segment:** `exam:15867325` · **unitId:** `128971`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14061283|exam:14061284|exam:14061492|exam:14061573|exam:15867325>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128971&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** Unregelmäßig
-
-### Übung Kapitalgesellschaftsrecht - Übung
-
-- **Segment:** `exam:15867326` · **unitId:** `128971`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14063323|exam:14063324|exam:14063532|exam:14063613|exam:15867326>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128971&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** Unregelmäßig
-
-### Übung Kapitalgesellschaftsrecht - Übung
-
-- **Segment:** `exam:15867327` · **unitId:** `128971`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14065438|exam:15867327>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128971&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** Unregelmäßig
-
 ### Übung zum Baurecht SPB 5 (alt) 9 (neu) - Vorlesung mit Übung
 
 - **Segment:** `exam:14059405` · **unitId:** `110605`
@@ -6613,6 +6248,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=80104&periodId=589>
 
 - **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### 3200 Schwerpunktbereich Kapitalgesellschaftsrecht - Leistung
 
@@ -6621,6 +6263,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=80104&periodId=589>
 
 - **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### 3200 Schwerpunktbereich Kapitalgesellschaftsrecht - Leistung
 
@@ -6629,6 +6278,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=80104&periodId=589>
 
 - **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### 3250 Kapitalgesellschaftsrecht - Leistung
 
@@ -6681,6 +6337,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14059362|exam:14059363|exam:14059364|exam:14059384|exam:14059430>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=80112&periodId=589>
 
+- **ECTS-Punkte:** 0.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -6695,6 +6352,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14061283|exam:14061284|exam:14061285|exam:14061399|exam:14061471|exam:14061477>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=80112&periodId=589>
 
+- **ECTS-Punkte:** 0.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -6709,6 +6367,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14063323|exam:14063324|exam:14063325|exam:14063440|exam:14063511|exam:14063517>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=80112&periodId=589>
 
+- **ECTS-Punkte:** 0.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -6949,6 +6608,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123582&periodId=589>
 
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | — | — | — |
 
 ### 38842 Bilanzierung   - Leistung
 
@@ -6970,21 +6636,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:14065737` · **unitId:** `123590`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14065722|exam:14065723|exam:14065724|exam:14065736|exam:14065737>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123590&periodId=589>
-
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | — | — | — |
-
-### 38862 M&A   - Leistung
-
-- **Segment:** `exam:14065738` · **unitId:** `123591`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14065722|exam:14065723|exam:14065724|exam:14065736|exam:14065738>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123591&periodId=589>
 
 - **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Deutsch
@@ -7272,6 +6923,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124739&periodId=589>
 
 - **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | Do | 10:30–11:00 | — | — |
 
 ### 4350 IT-Recht - Leistung
 
@@ -7280,6 +6938,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124739&periodId=589>
 
 - **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | Do | 10:30–11:00 | — | — |
 
 ### 4350 IT-Recht - Leistung
 
@@ -7288,12 +6953,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124739&periodId=589>
 
 - **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Deutsch
 
-### 53885 Investitionsrechnung und Bewertung
+#### Termine
 
-- **Segment:** `exam:14065733` · **unitId:** `123584`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17626|exam:14065722|exam:14065723|exam:14065724|exam:14065733>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123584&periodId=589>
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | Do | 10:30–11:00 | — | — |
 
 ### Dozent: Christian Ehlermann - Internationales Steuerrecht (Einführung in die Besteuerung international tätiger Unternehmen) - Vorlesung
 

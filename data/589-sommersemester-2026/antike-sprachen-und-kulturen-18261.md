@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:18261"
 campo_path: "title:17593|title:17595|title:18261"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261"
-po_version_count: 1
-course_count: 52
+po_version_count: 21
+course_count: 32
 fau_studiengang:
   - title: "Antike Sprachen und Kulturen (M.A.)"
     rel_path: "studiengang/antike-sprachen-und-kulturen-m-a.md"
@@ -171,151 +171,114 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (1)
+## Prüfungsordnungs-Versionen (21)
+
+### Arat, Phainomena - Hauptseminar
+
+- **Campo-Segment:** `exam:15759921`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127538|exam:15127539|exam:15759921>
+
+### Arat, Phainomena - Hauptseminar
+
+- **Campo-Segment:** `exam:15759939`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127538|exam:15127546|exam:15759939>
+
+### Das italische Verb - Hauptseminar
+
+- **Campo-Segment:** `exam:15719223`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127525|exam:15127528|exam:15719223>
+
+### Das italische Verb - Hauptseminar
+
+- **Campo-Segment:** `exam:15719391`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127525|exam:15127532|exam:15719391>
+
+### Das italische Verb - Hauptseminar
+
+- **Campo-Segment:** `exam:15719392`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127525|exam:15127536|exam:15719392>
+
+### Einführung in das Altpersische - Übung
+
+- **Campo-Segment:** `exam:15719257`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127509|exam:15127523|exam:15719257>
+
+### Einführung in das Hethitische II - Vorlesung
+
+- **Campo-Segment:** `exam:15719305`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127525|exam:15127526|exam:15719305>
+
+### Einführung in das Mittelkymrische II - Hauptseminar
+
+- **Campo-Segment:** `exam:15719339`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127525|exam:15127528|exam:15719339>
+
+### Einführung in das Mittelkymrische II - Hauptseminar
+
+- **Campo-Segment:** `exam:15719340`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127525|exam:15127532|exam:15719340>
 
 ### Masterseminar Linguistik Historische Linguistik -
 
 - **Campo-Segment:** `exam:15127511`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127509|exam:15127510|exam:15127511>
 
-## Veranstaltungen (52)
+### Mykenisch und die griechischen Dialekte - Hauptseminar
 
-### Arat, Phainomena - Hauptseminar
+- **Campo-Segment:** `exam:15719374`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127509|exam:15127518|exam:15719374>
 
-- **Segment:** `exam:15759921` · **unitId:** `134789`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127538|exam:15127539|exam:15759921>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134789&periodId=589>
+### Mykenisch und die griechischen Dialekte - Hauptseminar
 
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** in jedem Semester
+- **Campo-Segment:** `exam:15719375`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127509|exam:15127521|exam:15719375>
 
-### Arat, Phainomena - Hauptseminar
+### Paläographie der Antike (Mastermodul "!Nebendisziplinen" - Übung
 
-- **Segment:** `exam:15759939` · **unitId:** `134789`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127538|exam:15127546|exam:15759939>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134789&periodId=589>
+- **Campo-Segment:** `exam:15775502`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127560|exam:15127561|exam:15775502>
 
-- **Veranstaltungsart:** Hauptseminar
-- **Turnus:** in jedem Semester
+### Papyrologie - Übung
 
-### Das italische Verb - Hauptseminar
+- **Campo-Segment:** `exam:15127556`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127538|exam:15127553|exam:15127556>
 
-- **Segment:** `exam:15719223` · **unitId:** `134569`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127525|exam:15127528|exam:15719223>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134569&periodId=589>
+### 36493 Fragestellungen und Geschichte der Indogermanistik
 
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
+- **Campo-Segment:** `exam:15127516`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127509|exam:15127516>
 
-#### Termine
+### 36526 Germanisch und Baltoslavisch
 
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 21.04.2026–14.07.2026 | 05901.04.012 |
+- **Campo-Segment:** `exam:15127530`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127525|exam:15127530>
 
-### Das italische Verb - Hauptseminar
+### 65031 Mykenisch und die griechischen Dialekte - Leistung
 
-- **Segment:** `exam:15719391` · **unitId:** `134569`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127525|exam:15127532|exam:15719391>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134569&periodId=589>
+- **Campo-Segment:** `exam:15127522`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127509|exam:15127521|exam:15127522>
 
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
+### 65131 Indoiranisch Prüfung - Leistung
 
-#### Termine
+- **Campo-Segment:** `exam:15127524`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127509|exam:15127523|exam:15127524>
 
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 21.04.2026–14.07.2026 | 05901.04.012 |
+### 65161 Anatolisch - Leistung
 
-### Das italische Verb - Hauptseminar
+- **Campo-Segment:** `exam:15127527`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127525|exam:15127526|exam:15127527>
 
-- **Segment:** `exam:15719392` · **unitId:** `134569`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127525|exam:15127536|exam:15719392>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134569&periodId=589>
+### 65211 Italisch und Keltisch - Leistung
 
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
+- **Campo-Segment:** `exam:15127529`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127525|exam:15127528|exam:15127529>
 
-#### Termine
+### 65311 Weitere indogermanische Sprachen - Leistung
 
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 21.04.2026–14.07.2026 | 05901.04.012 |
+- **Campo-Segment:** `exam:15127537`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127525|exam:15127536|exam:15127537>
 
-### Einführung in das Altpersische - Übung
-
-- **Segment:** `exam:15719257` · **unitId:** `134567`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127509|exam:15127523|exam:15719257>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134567&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 12:00–13:30 | 23.04.2026–16.07.2026 | 05901.04.012 |
-
-### Einführung in das Hethitische II - Vorlesung
-
-- **Segment:** `exam:15719305` · **unitId:** `134562`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127525|exam:15127526|exam:15719305>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134562&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 05901.04.012 |
-
-### Einführung in das Mittelkymrische II - Hauptseminar
-
-- **Segment:** `exam:15719339` · **unitId:** `134564`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127525|exam:15127528|exam:15719339>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134564&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | 05901.04.012 |
-
-### Einführung in das Mittelkymrische II - Hauptseminar
-
-- **Segment:** `exam:15719340` · **unitId:** `134564`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127525|exam:15127532|exam:15719340>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134564&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | 05901.04.012 |
+## Veranstaltungen (32)
 
 ### Epigraphische Übung: Epidaurische Inschriften - Übung
 
@@ -355,73 +318,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-### Mykenisch und die griechischen Dialekte - Hauptseminar
-
-- **Segment:** `exam:15719374` · **unitId:** `134571`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127509|exam:15127518|exam:15719374>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134571&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 16:15–17:45 | 20.04.2026–13.07.2026 | 05901.04.012 |
-
-### Mykenisch und die griechischen Dialekte - Hauptseminar
-
-- **Segment:** `exam:15719375` · **unitId:** `134571`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127509|exam:15127521|exam:15719375>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134571&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 16:15–17:45 | 20.04.2026–13.07.2026 | 05901.04.012 |
-
-### Paläographie der Antike (Mastermodul "!Nebendisziplinen" - Übung
-
-- **Segment:** `exam:15775502` · **unitId:** `134401`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127560|exam:15127561|exam:15775502>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134401&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 16:15–17:45 | 16.04.2026–16.07.2026 | 05901.02.035 |
-
-### Papyrologie - Übung
-
-- **Segment:** `exam:15127556` · **unitId:** `127507`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127538|exam:15127553|exam:15127556>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127507&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | — |
+| wöchentlich | Di | 18:15–19:45 | 14.04.2026–14.07.2026 | 05901.02.058 ( 2.058 R 2.058) |
 
 ### Vorlesung Prosa - Vorlesung
 
@@ -463,10 +367,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127560|exam:15127568|exam:15771366>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127438&periodId=589>
 
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.0
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -534,18 +435,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127560|exam:15127570>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53566&periodId=589>
 
-### 36493 Fragestellungen und Geschichte der Indogermanistik
-
-- **Segment:** `exam:15127516` · **unitId:** `131142`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127509|exam:15127516>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131142&periodId=589>
-
-### 36526 Germanisch und Baltoslavisch
-
-- **Segment:** `exam:15127530` · **unitId:** `131154`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127525|exam:15127530>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131154&periodId=589>
-
 ### 55011 Historische Linguistik und Sprachwandel - Leistung
 
 - **Segment:** `exam:15127515` · **unitId:** `36916`
@@ -612,6 +501,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127538|exam:15127546|exam:15127547>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=48488&periodId=589>
 
+- **ECTS-Punkte:** 10.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -680,66 +570,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | Mo | Mo | 16:15–17:45 | — | 05901.04.012 |
 
-### 65031 Mykenisch und die griechischen Dialekte - Leistung
-
-- **Segment:** `exam:15127522` · **unitId:** `131145`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127509|exam:15127521|exam:15127522>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131145&periodId=589>
-
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 65131 Indoiranisch Prüfung - Leistung
-
-- **Segment:** `exam:15127524` · **unitId:** `131148`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127509|exam:15127523|exam:15127524>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131148&periodId=589>
-
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 65161 Anatolisch - Leistung
-
-- **Segment:** `exam:15127527` · **unitId:** `131150`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127525|exam:15127526|exam:15127527>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131150&periodId=589>
-
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 65211 Italisch und Keltisch - Leistung
-
-- **Segment:** `exam:15127529` · **unitId:** `131152`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127525|exam:15127528|exam:15127529>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131152&periodId=589>
-
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
 ### 65301 Weitere indogermanische Sprache - Leistung
 
 - **Segment:** `exam:15127533` · **unitId:** `53574`
@@ -769,21 +599,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Di | Di | 14:15–16:45 | — | 05901.04.012 |
-
-### 65311 Weitere indogermanische Sprachen - Leistung
-
-- **Segment:** `exam:15127537` · **unitId:** `131158`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18261|exam:15127506|exam:15127507|exam:15127508|exam:15127525|exam:15127536|exam:15127537>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131158&periodId=589>
-
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
 
 ### Modul 33201 Hauptseminar - Notker der Stammler (gest. 912) [Hauptseminar Lateinische Literatur und Sprache I] - Hauptseminar
 
@@ -912,7 +727,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| nach Vereinbarung | — | — | — | — |
 
 ## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (19)
 

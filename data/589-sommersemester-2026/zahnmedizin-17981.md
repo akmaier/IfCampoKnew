@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:17981"
 campo_path: "title:17593|title:17600|title:17981"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981"
-po_version_count: 92
-course_count: 831
+po_version_count: 192
+course_count: 731
 fau_studiengang:
   - title: "Zahnmedizin (Staatsexamen)"
     rel_path: "studiengang/zahnmedizin-staatsexamen.md"
@@ -146,7 +146,372 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (92)
+## Prüfungsordnungs-Versionen (192)
+
+### 094 PERLE Röntgenthoraxkurs, Sa., 19.09.2026, 11:30 - 13:00 Uhr, INZ, Raumnummer U1.977 (ISI-Meetingraum). - Kurs
+
+- **Campo-Segment:** `exam:17717069`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952|exam:13853100|exam:13853324|exam:17717069>
+
+### 094 PERLE Röntgenthoraxkurs, Sa., 19.09.2026, 11:30 - 13:00 Uhr, INZ, Raumnummer U1.977 (ISI-Meetingraum). - Kurs
+
+- **Campo-Segment:** `exam:17717070`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13855167|exam:13855391|exam:17717070>
+
+### 3-P1 Praktikum in der Klinik oder Poliklinik für ZMK- Erkrankungen Teil IB - Praktikum
+
+- **Campo-Segment:** `exam:13853797`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853789|exam:13853797>
+
+### 3-P10 Assistieren im Praktikum der kieferorthopädischen Diagnostik und Therapie I & Kursus der kieferorthopädischen Behandlung I - Praktikum
+
+- **Campo-Segment:** `exam:15784281`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851685|exam:13851763|exam:13851813|exam:15784281>
+
+### 3-P10 Assistieren im Praktikum der kieferorthopädischen Diagnostik und Therapie I & Kursus der kieferorthopädischen Behandlung I - Praktikum
+
+- **Campo-Segment:** `exam:13853813`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853810|exam:13853813>
+
+### 3-P13 Operationskurs Teil 1C - Praktikum
+
+- **Campo-Segment:** `exam:13853826`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853822|exam:13853826>
+
+### 3-P14 Operationskurs Teil IIA - Praktikum
+
+- **Campo-Segment:** `exam:13853831`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853828|exam:13853831>
+
+### 3-P15 Operationskurs Teil II B - Praktikum
+
+- **Campo-Segment:** `exam:13853834`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853828|exam:13853834>
+
+### 3-P17&3-P21&3-P25&S-4 Integrierter Behandlungskurs I (incl. Assistieren, Hygiene, Seminar) - Praktikum
+
+- **Campo-Segment:** `exam:13853840`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853836|exam:13853840>
+
+### 3-P19 & 3-P23 & 3-P27 integrierter Behandlungskurs III (incl. Assistieren, Hygiene) - Praktikum
+
+- **Campo-Segment:** `exam:13853853`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853850|exam:13853853>
+
+### 3-P2 Praktikum i. d. Klinik oder Poliklinik für ZMK-Erkrankungen Teil IIA - Praktikum
+
+- **Campo-Segment:** `exam:13853804`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853799|exam:13853804>
+
+### 3-P20&3-P24&3-P28&3-S7 Integrierter Behandlungskurs IV (inkl. Assistieren, Hygiene, Seminar) - Praktikum
+
+- **Campo-Segment:** `exam:15793541`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853857|exam:15793541>
+
+### 3-P29 Praktikum der allgemeinen und speziellen Pathologie für Studierende der Zahnmedizin (incl. 3-V14 & 3-V31) - Vorlesung mit Übung
+
+- **Campo-Segment:** `exam:13853862`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853860|exam:13853862>
+
+### 3-P3 Praktikum in der Klinik oder Poliklinik für ZMK-Erkrankungen Teil IIB - Praktikum
+
+- **Campo-Segment:** `exam:15764479`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853799|exam:15764479>
+
+### 3-P30 Praktikum Notfall QZ1 - Praktikum
+
+- **Campo-Segment:** `exam:13853867`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853863|exam:13853867>
+
+### 3-P6 & 3-S1 Praktikum incl. Seminar der zahnmedizinischen Diagnostik und Behandlungsplanung IIA - Praktikum
+
+- **Campo-Segment:** `exam:13853808`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853805|exam:13853808>
+
+### 3-P7 Praktikum der zahnmedizinische Diagnostik und Behandlungsplanung IIB - Vorlesung mit Übung
+
+- **Campo-Segment:** `exam:13853809`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853805|exam:13853809>
+
+### 3-P8 und 3-S2 Praktikum und Seminar der kieferorthopädischen Diagnostik und Therapie I - Praktikum
+
+- **Campo-Segment:** `exam:15881172`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851685|exam:13851763|exam:13851813|exam:15881172>
+
+### 3-P8 und 3-S2 Praktikum und Seminar der kieferorthopädischen Diagnostik und Therapie I - Praktikum
+
+- **Campo-Segment:** `exam:13853816`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853810|exam:13853816>
+
+### 3-S5 Seminar zum integrierten Behandlungskurs II - Seminar
+
+- **Campo-Segment:** `exam:13853848`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853841|exam:13853848>
+
+### 3-S6 Seminar zum integrierten Behandlungskurs III - Seminar
+
+- **Campo-Segment:** `exam:13853856`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853850|exam:13853856>
+
+### 3-V1&3-V2&3-V5 Zahnerhaltungskunde I incl. Poliklinik und Parodontologische Demonstrationen - Vorlesung
+
+- **Campo-Segment:** `exam:13853839`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853836|exam:13853839>
+
+### 3-V17 Zahn-Mund-und Kieferkrankheiten und Mund-Kiefer- und Gesichtschirurgie 3 - Vorlesung
+
+- **Campo-Segment:** `exam:15764461`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853799|exam:15764461>
+
+### 3-V19 Oralchirurgie 1 - Vorlesung
+
+- **Campo-Segment:** `exam:13853827`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853822|exam:13853827>
+
+### 3-V20 Oralchirurgie 2 - Vorlesung
+
+- **Campo-Segment:** `exam:13853833`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853828|exam:13853833>
+
+### 3-V21 eReconstruction Chir. Techniken - Online-Kurs
+
+- **Campo-Segment:** `exam:13853835`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853828|exam:13853835>
+
+### 3-V22 eOralSurgerey (Oralchirurgie) - Online-Kurs
+
+- **Campo-Segment:** `exam:13853832`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853828|exam:13853832>
+
+### 3-V27 & 3-V28 (Zahnärtzliche Behandlungsplanung interdisziplinär) - Vorlesung
+
+- **Campo-Segment:** `exam:15802510`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853636|exam:13853669|exam:15802510>
+
+### 3-V27 & 3-V28 (Zahnärtzliche Behandlungsplanung interdisziplinär) - Vorlesung
+
+- **Campo-Segment:** `exam:15802519`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853805|exam:15802519>
+
+### 3-V29 Pharmakologie und Toxikologie I für Studierende der Zahnmedizin - Vorlesung
+
+- **Campo-Segment:** `exam:13853893`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853891|exam:13853893>
+
+### 3-V3&3-V4&3-V6 Zahnerhaltungskunde II und Therapie Parodontopathie und Kinderzahnheilkunde - Vorlesung
+
+- **Campo-Segment:** `exam:15793550`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853857|exam:15793550>
+
+### 3-V30 Pharmakologie und Toxikologie II für Studierende der Zahnmedizin - Vorlesung
+
+- **Campo-Segment:** `exam:13853894`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853891|exam:13853894>
+
+### 3-V34 QZ6 Erkrankungen im Kopf-Hals-Bereich - Vorlesung
+
+- **Campo-Segment:** `exam:13853881`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853879|exam:13853881>
+
+### 3-V37 Schmerzmedizin QZ2 - Vorlesung
+
+- **Campo-Segment:** `exam:15787181`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853868|exam:15787181>
+
+### 3-V38 Medizin und Zahnmedizin des Alterns und des alten Menschen (QZ3) - Vorlesung mit Übung
+
+- **Campo-Segment:** `exam:13853872`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853870|exam:13853872>
+
+### 3-V44 QZ5 Orale Medizin und systematische Aspekte - Vorlesung
+
+- **Campo-Segment:** `exam:13853878`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853876|exam:13853878>
+
+### 3-V7 Unterweisung im zahnärztlichen Klinikalltag II - Vorlesung
+
+- **Campo-Segment:** `exam:15793568`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853836|exam:15793568>
+
+### 3-V8 Unterweisung im zahnärztlichen KLinikalltag III - Vorlesung
+
+- **Campo-Segment:** `exam:15794609`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853857|exam:15794609>
+
+### 3-V9 Zahnersatzkunde I - Vorlesung
+
+- **Campo-Segment:** `exam:13853847`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853841|exam:13853847>
+
+### Deutsch A1: Allgemeinkurs (Maxikurs) (Nürnberg) - Übung
+
+- **Campo-Segment:** `exam:13853072`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952|exam:13851960|exam:13853072>
+
+### Deutsch A1: Allgemeinkurs (Maxikurs) (Nürnberg) - Übung
+
+- **Campo-Segment:** `exam:13855139`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13854027|exam:13855139>
+
+### Deutsch B1: Allgemeinkurs - Übung
+
+- **Campo-Segment:** `exam:13853074`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952|exam:13851960|exam:13853074>
+
+### Deutsch B1: Allgemeinkurs - Übung
+
+- **Campo-Segment:** `exam:13855141`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13854027|exam:13855141>
+
+### Deutsch B1: Leseverstehen - Übung
+
+- **Campo-Segment:** `exam:13853076`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952|exam:13851960|exam:13853076>
+
+### Deutsch B1: Leseverstehen - Übung
+
+- **Campo-Segment:** `exam:13855143`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13854027|exam:13855143>
+
+### English: Level 0 - Focus on Speaking - Übung
+
+- **Campo-Segment:** `exam:13852288`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952|exam:13851960|exam:13852288>
+
+### English: Level 0 - Focus on Speaking - Übung
+
+- **Campo-Segment:** `exam:13854355`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13854027|exam:13854355>
+
+### English: Level 0 - Focus on Writing - Übung
+
+- **Campo-Segment:** `exam:13852289`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952|exam:13851960|exam:13852289>
+
+### English: Level 0 - Focus on Writing - Übung
+
+- **Campo-Segment:** `exam:13854356`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13854027|exam:13854356>
+
+### English: Level 2 - Writing and Presenting for Natural Scientists - Übung
+
+- **Campo-Segment:** `exam:13852290`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952|exam:13851960|exam:13852290>
+
+### English: Level 2 - Writing and Presenting for Natural Scientists - Übung
+
+- **Campo-Segment:** `exam:13854357`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13854027|exam:13854357>
+
+### English: Level 3 - Communicating in a Professional Context - Übung
+
+- **Campo-Segment:** `exam:13852282`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952|exam:13851960|exam:13852282>
+
+### English: Level 3 - Communicating in a Professional Context - Übung
+
+- **Campo-Segment:** `exam:13854349`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13854027|exam:13854349>
+
+### English: Level 3 - How to Win Any Argument - Kurs
+
+- **Campo-Segment:** `exam:17715281`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952|exam:13851960|exam:17715281>
+
+### English: Level 3 - How to Win Any Argument - Kurs
+
+- **Campo-Segment:** `exam:17715282`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13854027|exam:17715282>
+
+### English: Level 3 - Language, Power and Human Rights - Kurs
+
+- **Campo-Segment:** `exam:17715331`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952|exam:13851960|exam:17715331>
+
+### English: Level 3 - Language, Power and Human Rights - Kurs
+
+- **Campo-Segment:** `exam:17715332`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13854027|exam:17715332>
+
+### English: Level 3 - Perfect your English Pronunciation and Intonation - Kurs
+
+- **Campo-Segment:** `exam:13852297`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952|exam:13851960|exam:13852297>
+
+### English: Level 3 - Perfect your English Pronunciation and Intonation - Kurs
+
+- **Campo-Segment:** `exam:13854364`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13854027|exam:13854364>
+
+### English: Level 4 - Critical thinking and problem solving in English - Übung
+
+- **Campo-Segment:** `exam:13852292`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952|exam:13851960|exam:13852292>
+
+### English: Level 4 - Critical thinking and problem solving in English - Übung
+
+- **Campo-Segment:** `exam:13854359`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13854027|exam:13854359>
+
+### English: Level 4 - The Art of Storytelling - Übung
+
+- **Campo-Segment:** `exam:13852293`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952|exam:13851960|exam:13852293>
+
+### English: Level 4 - The Art of Storytelling - Übung
+
+- **Campo-Segment:** `exam:13854360`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13854027|exam:13854360>
+
+### MED 42001 Ärztliche Selbstfürsorge und Fehlerkultur: Wege zu einer besseren Patient:innenversorgung - Praxisseminar
+
+- **Campo-Segment:** `exam:13853623`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853559|exam:13853621|exam:13853623>
+
+### MED 42011 Ärztliche Selbstfürsorge und Fehlerkultur: Wege zu einer besseren Patient:innenversorgung (Klinik) - Seminar
+
+- **Campo-Segment:** `exam:13853763`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853673|exam:13853761|exam:13853763>
+
+### MED 42101: Aufklärung über Gesundheit, Sex und Geschlechterrollen in Filmen und Liedern der DDR - Seminar
+
+- **Campo-Segment:** `exam:13853629`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853559|exam:13853627|exam:13853629>
+
+### MED 42101: Aufklärung über Gesundheit, Sex und Geschlechterrollen in Filmen und Liedern der DDR - Seminar
+
+- **Campo-Segment:** `exam:13853770`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853673|exam:13853768|exam:13853770>
+
+### MED 42351 Grundlagen der experimentellen Forschung für die medizinische Doktorarbeit - Seminar
+
+- **Campo-Segment:** `exam:13853773`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853673|exam:13853771|exam:13853773>
+
+### MED 42751: Mensch-Medizin-Maschine. Objektgeschichten als Medizingeschichte 3D - Seminar
+
+- **Campo-Segment:** `exam:13853635`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853559|exam:13853633|exam:13853635>
+
+### MED 42751: Mensch-Medizin-Maschine. Objektgeschichten als Medizingeschichte 3D - Seminar
+
+- **Campo-Segment:** `exam:13853782`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853673|exam:13853780|exam:13853782>
+
+### MED 43701 „Werkzeugkasten und Schreibwerkstatt für die medizinische Promotion - Teil B (Sommersemester) - Schreibwerkstatt“ - Vorlesung
+
+- **Campo-Segment:** `exam:15845355`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853673|exam:13853786|exam:15845355>
+
+### MED 47051: Spitzenmedizin. Antike Herrscher und ihre Hofärzte. Persien, Griechenland, Rom, Byzanz - Seminar
+
+- **Campo-Segment:** `exam:15778212`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853559|exam:15755698|exam:15778212>
+
+### MED 47051: Spitzenmedizin. Antike Herrscher und ihre Hofärzte. Persien, Griechenland, Rom, Byzanz - Seminar
+
+- **Campo-Segment:** `exam:15778239`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853673|exam:15755716|exam:15778239>
 
 ### 1100 Zweiter Abschnitt der Zahnärztlichen Prüfung
 
@@ -593,6 +958,91 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Campo-Segment:** `exam:13855509`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13855167|exam:13855509>
 
+### 3-V40 - 3-V40 Gesundheitswissenschaften mit den Schwerpunkten Epidemiologie, Prävention, Gesundheitsförderung, Öffentliche Gesundheitspflege, Gesundheitsökonomie - Vorlesung
+
+- **Campo-Segment:** `exam:13853884`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853882|exam:13853884>
+
+### 30650 English: Level 3 - English through Music, Movies, and Literature - Leistung
+
+- **Campo-Segment:** `exam:13852886`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952|exam:13851960|exam:13852886>
+
+### 30650 English: Level 3 - English through Music, Movies, and Literature - Leistung
+
+- **Campo-Segment:** `exam:13854953`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13854027|exam:13854953>
+
+### 30661 Cultura e Civiltà I - Leistung
+
+- **Campo-Segment:** `exam:13852895`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952|exam:13851960|exam:13852895>
+
+### 30661 Cultura e Civiltà I - Leistung
+
+- **Campo-Segment:** `exam:13854962`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13854027|exam:13854962>
+
+### 30662 L’italiano per il lavoro - Leistung
+
+- **Campo-Segment:** `exam:13852896`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952|exam:13851960|exam:13852896>
+
+### 30662 L’italiano per il lavoro - Leistung
+
+- **Campo-Segment:** `exam:13854963`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13854027|exam:13854963>
+
+### 42001 Ärztliche Selbstfürsorge und Fehlerkultur: Wege zu einer besseren Patienten- und Patientinnen-Versorgung - Leistung
+
+- **Campo-Segment:** `exam:13853622`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853559|exam:13853621|exam:13853622>
+
+### 42011 Ärztliche Selbstfürsorge und Fehlerkultur: Wege zu einer besseren Patienten- und Patientinnen-Versorgung - Leistung
+
+- **Campo-Segment:** `exam:13853762`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853673|exam:13853761|exam:13853762>
+
+### 42351 Grundlagen der experimentellen Forschung für die medizinische Doktorarbeit - Leistung
+
+- **Campo-Segment:** `exam:13853772`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853673|exam:13853771|exam:13853772>
+
+### 42751 Medizin - Mensch - Maschine. Objektgeschichten als Medizingeschichte 3D - Leistung
+
+- **Campo-Segment:** `exam:13853634`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853559|exam:13853633|exam:13853634>
+
+### 42751 Medizin - Mensch - Maschine. Objektgeschichten als Medizingeschichte 3D - Leistung
+
+- **Campo-Segment:** `exam:13853781`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853673|exam:13853780|exam:13853781>
+
+### 43701 Werkzeugkasten und Schreibwerkstatt für die medizinische Promotion - Teil B (Sommersemester) - Schreibwerkstatt - Leistung
+
+- **Campo-Segment:** `exam:13853787`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853673|exam:13853786|exam:13853787>
+
+### 44351 Hands-on Simulation einer praktischen Doktorarbeit für Zahnmediziner - Leistung
+
+- **Campo-Segment:** `exam:13853714`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853673|exam:13853713|exam:13853714>
+
+### 47051 Spitzenmedizin. Antike Herrscher und ihre Hofärzte. Persien, Griechenland, Rom, Byzanz - Leistung
+
+- **Campo-Segment:** `exam:15755699`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853559|exam:15755698|exam:15755699>
+
+### 47051 Spitzenmedizin. Antike Herrscher und ihre Hofärzte. Persien, Griechenland, Rom, Byzanz - Leistung
+
+- **Campo-Segment:** `exam:15755717`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853673|exam:15755716|exam:15755717>
+
+### 47351 Bioinformatics in Medical Research / Bioinformatik in der medizinischen Forschung - Leistung
+
+- **Campo-Segment:** `exam:15760702`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853673|exam:15760701|exam:15760702>
+
 ### 62176 Praktikum der Chemie (Medizin/Zahnmedizin)
 
 - **Campo-Segment:** `exam:17860769`
@@ -608,39 +1058,57 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Campo-Segment:** `exam:13851697`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851685|exam:13851687|exam:13851697>
 
-## Veranstaltungen (831)
+### 72904 Zahn-, Mund-, Kiefer- und Gesichtschirurgie II  - Leistung
 
-### 094 PERLE Röntgenthoraxkurs, Sa., 19.09.2026, 11:30 - 13:00 Uhr, INZ, Raumnummer U1.977 (ISI-Meetingraum). - Kurs
+- **Campo-Segment:** `exam:13853793`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853789|exam:13853793>
 
-- **Segment:** `exam:17717069` · **unitId:** `138698`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952|exam:13853100|exam:13853324|exam:17717069>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138698&periodId=589>
+### 73104 Zahn-, Mund-, Kiefer- und Gesichtschirurgie IV  - Leistung
 
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
+- **Campo-Segment:** `exam:13853803`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853799|exam:13853803>
 
-#### Termine
+### 73151 Praktikum der zahnmedizinischen Diagnostik und Behandlungsplanung I A - Leistung
 
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Sa | 11:30–13:00 | 19.09.2026 | — |
+- **Campo-Segment:** `exam:13853670`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853636|exam:13853669|exam:13853670>
 
-### 094 PERLE Röntgenthoraxkurs, Sa., 19.09.2026, 11:30 - 13:00 Uhr, INZ, Raumnummer U1.977 (ISI-Meetingraum). - Kurs
+### 73551 Operationskurs Teil I B - Leistung
 
-- **Segment:** `exam:17717070` · **unitId:** `138698`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13855167|exam:13855391|exam:17717070>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138698&periodId=589>
+- **Campo-Segment:** `exam:13853823`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853822|exam:13853823>
 
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
+### 73751 Theoretischer Kurs II - Leistung
 
-#### Termine
+- **Campo-Segment:** `exam:13853842`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853841|exam:13853842>
 
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Sa | 11:30–13:00 | 19.09.2026 | — |
+### 74001 Schmerzmedizin (QZ2)  - Leistung
+
+- **Campo-Segment:** `exam:13853869`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853868|exam:13853869>
+
+### 74501 Innere Medizin einschließlich Immunologie  - Leistung
+
+- **Campo-Segment:** `exam:13853896`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853895|exam:13853896>
+
+### 92551 Skillslab PERLE Fit für den Stationseinsatz - Leistung
+
+- **Campo-Segment:** `exam:13853446`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952|exam:13853100|exam:13853445|exam:13853446>
+
+### 92551 Skillslab PERLE Fit für den Stationseinsatz - Leistung
+
+- **Campo-Segment:** `exam:13855513`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13855167|exam:13855512|exam:13855513>
+
+### V-V13/1-V10 Vorlesung Histologie Teil 1 - V-V13/1-V10 Vorlesung Allgemeine Histologie und Embryologie - Vorlesung
+
+- **Campo-Segment:** `exam:13853527`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853494|exam:13853522|exam:13853527>
+
+## Veranstaltungen (731)
 
 ### 1-P12 Medizinische Terminologie für Zahnmedizin - Semesterbegleitender Kurs - Kurs
 
@@ -702,7 +1170,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851685|exam:13851711|exam:13851728|exam:13851730>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82839&periodId=589>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -719,7 +1189,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853494|exam:13853510|exam:13853515>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82839&periodId=589>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -737,6 +1209,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117353&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### 2-P7 Praktikum der zahnmedizinischen Diagnostik und Behandlungsplanung IA - Praktikum
@@ -794,6 +1267,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117243&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### 2-V11, 2PPh4b Einführung u. Praktikum der zahnärztlich-chirurgischen Propädeutik u. Notfallmedizin Teil II - QZ1 - Vorlesung mit Übung
@@ -832,7 +1306,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851685|exam:13851711|exam:13851723|exam:13851725>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84558&periodId=589>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -846,7 +1322,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853494|exam:13853540|exam:13853546>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84558&periodId=589>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -911,6 +1389,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853636|exam:13853640|exam:13853642>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117101&periodId=589>
 
+- **Veranstaltungsart:** Praktikum
+- **Turnus:** in jedem Semester
+
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
@@ -921,99 +1402,11 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | wöchentlich | Do | 08:00–12:00 | 16.04.2026–16.07.2026 | — |
 | wöchentlich | Di | 08:00–12:00 | 21.04.2026–14.07.2026 | — |
 
-### 3-P1 Praktikum in der Klinik oder Poliklinik für ZMK- Erkrankungen Teil IB - Praktikum
-
-- **Segment:** `exam:13853797` · **unitId:** `126327`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853789|exam:13853797>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126327&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 13:00–14:00 | 22.04.2026–15.07.2026 | — |
-
-### 3-P10 Assistieren im Praktikum der kieferorthopädischen Diagnostik und Therapie I & Kursus der kieferorthopädischen Behandlung I - Praktikum
-
-- **Segment:** `exam:15784281` · **unitId:** `132135`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851685|exam:13851763|exam:13851813|exam:15784281>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132135&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung | — | 08:00–17:00 | 13.04.2026–17.04.2026 | — |
-
-### 3-P10 Assistieren im Praktikum der kieferorthopädischen Diagnostik und Therapie I & Kursus der kieferorthopädischen Behandlung I - Praktikum
-
-- **Segment:** `exam:13853813` · **unitId:** `132135`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853810|exam:13853813>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132135&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung | — | 08:00–17:00 | 13.04.2026–17.04.2026 | — |
-
 ### 3-P12 Operationskurs Teil I B - Praktikum
 
 - **Segment:** `exam:13853825` · **unitId:** `117688`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853822|exam:13853825>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117688&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-### 3-P13 Operationskurs Teil 1C - Praktikum
-
-- **Segment:** `exam:13853826` · **unitId:** `126329`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853822|exam:13853826>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126329&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-### 3-P14 Operationskurs Teil IIA - Praktikum
-
-- **Segment:** `exam:13853831` · **unitId:** `126361`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853828|exam:13853831>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126361&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-### 3-P15 Operationskurs Teil II B - Praktikum
-
-- **Segment:** `exam:13853834` · **unitId:** `130008`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853828|exam:13853834>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130008&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-### 3-P17&3-P21&3-P25&S-4 Integrierter Behandlungskurs I (incl. Assistieren, Hygiene, Seminar) - Praktikum
-
-- **Segment:** `exam:13853840` · **unitId:** `124635`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853836|exam:13853840>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124635&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
 - **Unterrichtssprache:** Deutsch
@@ -1040,82 +1433,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | wöchentlich | Do | 13:00–17:00 | 16.04.2026–16.07.2026 | — |
 | wöchentlich | Fr | 12:00–13:30 | 17.04.2026–17.07.2026 | — |
 
-### 3-P19 & 3-P23 & 3-P27 integrierter Behandlungskurs III (incl. Assistieren, Hygiene) - Praktikum
-
-- **Segment:** `exam:13853853` · **unitId:** `132157`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853850|exam:13853853>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132157&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-### 3-P2 Praktikum i. d. Klinik oder Poliklinik für ZMK-Erkrankungen Teil IIA - Praktikum
-
-- **Segment:** `exam:13853804` · **unitId:** `129982`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853799|exam:13853804>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=129982&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 13:00–14:00 | 22.04.2026–15.07.2026 | — |
-
-### 3-P20&3-P24&3-P28&3-S7 Integrierter Behandlungskurs IV (inkl. Assistieren, Hygiene, Seminar) - Praktikum
-
-- **Segment:** `exam:15793541` · **unitId:** `135435`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853857|exam:15793541>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135435&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-### 3-P29 Praktikum der allgemeinen und speziellen Pathologie für Studierende der Zahnmedizin (incl. 3-V14 & 3-V31) - Vorlesung mit Übung
-
-- **Segment:** `exam:13853862` · **unitId:** `127876`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853860|exam:13853862>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127876&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 08:15–16:00 | 17.04.2026–03.07.2026 | — |
-
-### 3-P3 Praktikum in der Klinik oder Poliklinik für ZMK-Erkrankungen Teil IIB - Praktikum
-
-- **Segment:** `exam:15764479` · **unitId:** `133685`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853799|exam:15764479>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133685&periodId=589>
-
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 13:00–14:00 | 22.04.2026–15.07.2026 | — |
-
-### 3-P30 Praktikum Notfall QZ1 - Praktikum
-
-- **Segment:** `exam:13853867` · **unitId:** `128354`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853863|exam:13853867>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128354&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
 ### 3-P4 Praktikum in der Klinik oder Poliklinik der ZMK-Erkrankungen Teil I A - Praktikum
 
 - **Segment:** `exam:13853795` · **unitId:** `117687`
@@ -1131,95 +1448,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 13:00–14:00 | 22.04.2026–15.07.2026 | — |
-
-### 3-P6 & 3-S1 Praktikum incl. Seminar der zahnmedizinischen Diagnostik und Behandlungsplanung IIA - Praktikum
-
-- **Segment:** `exam:13853808` · **unitId:** `127612`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853805|exam:13853808>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127612&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 13:00–15:00 | 16.04.2026–16.07.2026 | — |
-
-### 3-P7 Praktikum der zahnmedizinische Diagnostik und Behandlungsplanung IIB - Vorlesung mit Übung
-
-- **Segment:** `exam:13853809` · **unitId:** `128460`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853805|exam:13853809>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128460&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-### 3-P8 und 3-S2 Praktikum und Seminar der kieferorthopädischen Diagnostik und Therapie I - Praktikum
-
-- **Segment:** `exam:15881172` · **unitId:** `132293`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851685|exam:13851763|exam:13851813|exam:15881172>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132293&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **Turnus:** in jedem Semester
-
-### 3-P8 und 3-S2 Praktikum und Seminar der kieferorthopädischen Diagnostik und Therapie I - Praktikum
-
-- **Segment:** `exam:13853816` · **unitId:** `132293`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853810|exam:13853816>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132293&periodId=589>
-
-- **Veranstaltungsart:** Praktikum
-- **Turnus:** in jedem Semester
-
-### 3-S5 Seminar zum integrierten Behandlungskurs II - Seminar
-
-- **Segment:** `exam:13853848` · **unitId:** `127610`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853841|exam:13853848>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127610&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| 14-täglich | Mo | 09:00–12:00 | 20.04.2026–13.07.2026 | — |
-
-### 3-S6 Seminar zum integrierten Behandlungskurs III - Seminar
-
-- **Segment:** `exam:13853856` · **unitId:** `132160`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853850|exam:13853856>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132160&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
-### 3-V1&3-V2&3-V5 Zahnerhaltungskunde I incl. Poliklinik und Parodontologische Demonstrationen - Vorlesung
-
-- **Segment:** `exam:13853839` · **unitId:** `124634`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853836|exam:13853839>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124634&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:00–12:45 | 14.04.2026–14.07.2026 | — |
-| wöchentlich | Mi | 08:00–09:00 | 15.04.2026–15.07.2026 | — |
-| wöchentlich | Mi | 10:15–11:00 | 15.04.2026–15.07.2026 | — |
-| wöchentlich | Mi | 11:30–12:15 | 15.04.2026–15.07.2026 | — |
-| wöchentlich | Do | 11:30–12:15 | 16.04.2026–16.07.2026 | — |
 
 ### 3-V10 Zahnersatzkunde II - Vorlesung
 
@@ -1237,7 +1465,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853841|exam:13853849>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127611&periodId=589>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -1277,22 +1507,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mo | 08:00–09:00 | 20.04.2026–13.07.2026 | — |
 
-### 3-V17 Zahn-Mund-und Kieferkrankheiten und Mund-Kiefer- und Gesichtschirurgie 3 - Vorlesung
-
-- **Segment:** `exam:15764461` · **unitId:** `129945`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853799|exam:15764461>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=129945&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 08:00–09:00 | 20.04.2026–13.07.2026 | — |
-
 ### 3-V18 Zahn-Mund-und Kieferkrankheiten und Mund-Kiefer- und Gesichtschirurgie 4 - Vorlesung
 
 - **Segment:** `exam:15764470` · **unitId:** `133684`
@@ -1308,173 +1522,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 08:00–09:00 | 20.04.2026–13.07.2026 | — |
-
-### 3-V19 Oralchirurgie 1 - Vorlesung
-
-- **Segment:** `exam:13853827` · **unitId:** `126328`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853822|exam:13853827>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126328&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 09:00–10:00 | 22.04.2026–15.07.2026 | — |
-
-### 3-V20 Oralchirurgie 2 - Vorlesung
-
-- **Segment:** `exam:13853833` · **unitId:** `129984`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853828|exam:13853833>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=129984&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 09:00–10:00 | 22.04.2026–15.07.2026 | — |
-
-### 3-V21 eReconstruction Chir. Techniken - Online-Kurs
-
-- **Segment:** `exam:13853835` · **unitId:** `130009`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853828|exam:13853835>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130009&periodId=589>
-
-- **Veranstaltungsart:** Online-Kurs
-- **Turnus:** in jedem Semester
-
-### 3-V22 eOralSurgerey (Oralchirurgie) - Online-Kurs
-
-- **Segment:** `exam:13853832` · **unitId:** `127043`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853828|exam:13853832>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127043&periodId=589>
-
-- **Veranstaltungsart:** Online-Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-### 3-V27 & 3-V28 (Zahnärtzliche Behandlungsplanung interdisziplinär) - Vorlesung
-
-- **Segment:** `exam:15802510` · **unitId:** `135537`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853636|exam:13853669|exam:15802510>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135537&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 13:00–14:45 | 29.04.2026–10.06.2026 | — |
-
-### 3-V27 & 3-V28 (Zahnärtzliche Behandlungsplanung interdisziplinär) - Vorlesung
-
-- **Segment:** `exam:15802519` · **unitId:** `135537`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853805|exam:15802519>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135537&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 13:00–14:45 | 29.04.2026–10.06.2026 | — |
-
-### 3-V29 Pharmakologie und Toxikologie I für Studierende der Zahnmedizin - Vorlesung
-
-- **Segment:** `exam:13853893` · **unitId:** `128679`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853891|exam:13853893>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128679&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 10:00–12:00 | 17.04.2026–17.07.2026 | — |
-
-### 3-V3&3-V4&3-V6 Zahnerhaltungskunde II und Therapie Parodontopathie und Kinderzahnheilkunde - Vorlesung
-
-- **Segment:** `exam:15793550` · **unitId:** `135436`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853857|exam:15793550>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135436&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-### 3-V30 Pharmakologie und Toxikologie II für Studierende der Zahnmedizin - Vorlesung
-
-- **Segment:** `exam:13853894` · **unitId:** `132094`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853891|exam:13853894>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132094&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 10:00–12:00 | 17.04.2026–17.07.2026 | — |
-
-### 3-V34 QZ6 Erkrankungen im Kopf-Hals-Bereich - Vorlesung
-
-- **Segment:** `exam:13853881` · **unitId:** `127044`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853879|exam:13853881>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127044&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 15:00–16:00 | 22.04.2026–15.07.2026 | — |
-
-### 3-V37 Schmerzmedizin QZ2 - Vorlesung
-
-- **Segment:** `exam:15787181` · **unitId:** `135311`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853868|exam:15787181>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135311&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-### 3-V38 Medizin und Zahnmedizin des Alterns und des alten Menschen (QZ3) - Vorlesung mit Übung
-
-- **Segment:** `exam:13853872` · **unitId:** `124736`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853870|exam:13853872>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124736&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 15:00–16:30 | 29.04.2026–01.07.2026 | — |
 
 ### 3-V39 QZ4 Klinische Werkstoffkunde - Vorlesung
 
@@ -1523,57 +1570,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mi | 15:00–15:45 | 15.04.2026–08.07.2026 | — |
 | Einzeltermin | Fr | 13:00–14:00 | 03.07.2026 | — |
-
-### 3-V44 QZ5 Orale Medizin und systematische Aspekte - Vorlesung
-
-- **Segment:** `exam:13853878` · **unitId:** `126363`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853876|exam:13853878>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126363&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 09:00–10:00 | 20.04.2026–13.07.2026 | — |
-
-### 3-V7 Unterweisung im zahnärztlichen Klinikalltag II - Vorlesung
-
-- **Segment:** `exam:15793568` · **unitId:** `135437`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853836|exam:15793568>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135437&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** in jedem Semester
-
-### 3-V8 Unterweisung im zahnärztlichen KLinikalltag III - Vorlesung
-
-- **Segment:** `exam:15794609` · **unitId:** `135438`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853857|exam:15794609>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135438&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-### 3-V9 Zahnersatzkunde I - Vorlesung
-
-- **Segment:** `exam:13853847` · **unitId:** `127609`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853841|exam:13853847>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127609&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 13:00–15:00 | 15.04.2026–15.07.2026 | — |
 
 ### Allgemeine Chirurgie für Zahnmediziner Vorlesung als Auskultant - Vorlesung
 
@@ -1637,7 +1633,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 18:00–19:30 | 13.04.2026–13.07.2026 | 00501.01.012 ( KH 1.012 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 18:00–19:30 | 15.04.2026–15.07.2026 | 54801.02.012 (SP 02.012 Schlossplatz 1) |
 
 ### Arabisch: Elementarkurs II - Übung
 
@@ -1647,7 +1651,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 18:00–19:30 | 13.04.2026–13.07.2026 | 00501.01.012 ( KH 1.012 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 18:00–19:30 | 15.04.2026–15.07.2026 | 54801.02.012 (SP 02.012 Schlossplatz 1) |
 
 ### Arabisch: Elementarkurs III - Übung
 
@@ -1869,6 +1881,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Online-Kurs
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Spanisch
 - **Turnus:** in jedem Semester
 
 ### Comprensión Auditiva - virtueller Kurs C1  - Online-Kurs
@@ -1879,6 +1892,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Online-Kurs
 - **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Spanisch
 - **Turnus:** in jedem Semester
 
 ### Comprensión y comunicación escrita - Übung
@@ -2004,7 +2018,17 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83370&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 13:00–17:00 | 13.04.2026–03.08.2026 | — |
+| wöchentlich | Di | 13:00–17:00 | 14.04.2026–04.08.2026 | — |
+| wöchentlich | Mi | 13:00–17:00 | 15.04.2026–05.08.2026 | — |
+| wöchentlich | Do | 13:00–17:00 | 16.04.2026–06.08.2026 | — |
 
 ### Deutsch A1.1: Allgemeinkurs - Übung
 
@@ -2077,42 +2101,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mo | 08:30–10:00 | 20.04.2026–13.07.2026 | 54201.01.006 ( Übungsraum I/6 Studienzentrum) |
 | wöchentlich | Mi | 08:30–10:00 | 22.04.2026–15.07.2026 | 54201.01.006 ( Übungsraum I/6 Studienzentrum) |
-
-### Deutsch A1: Allgemeinkurs (Maxikurs) (Nürnberg) - Übung
-
-- **Segment:** `exam:13853072` · **unitId:** `127110`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952|exam:13851960|exam:13853072>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127110&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 18:30–20:00 | 20.04.2026–13.07.2026 | 21101.01.114 (LG H3 GfK-Hörsaal (155 Plätze) &quot;Gesellschaft für Konsumforschung&quot;) |
-| wöchentlich | Mi | 18:30–20:00 | 22.04.2026–15.07.2026 | 21101.01.114 (LG H3 GfK-Hörsaal (155 Plätze) &quot;Gesellschaft für Konsumforschung&quot;) |
-
-### Deutsch A1: Allgemeinkurs (Maxikurs) (Nürnberg) - Übung
-
-- **Segment:** `exam:13855139` · **unitId:** `127110`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13854027|exam:13855139>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127110&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 18:30–20:00 | 20.04.2026–13.07.2026 | 21101.01.114 (LG H3 GfK-Hörsaal (155 Plätze) &quot;Gesellschaft für Konsumforschung&quot;) |
-| wöchentlich | Mi | 18:30–20:00 | 22.04.2026–15.07.2026 | 21101.01.114 (LG H3 GfK-Hörsaal (155 Plätze) &quot;Gesellschaft für Konsumforschung&quot;) |
 
 ### Deutsch A1: Allgemeinkurs - Übung
 
@@ -2344,6 +2332,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### Deutsch als Fremdsprache C1/C1+: Fachsprache Wirtschaft - Online-Kurs - Übung
@@ -2354,6 +2343,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### Deutsch B1.1: Allgemeinkurs - Übung
@@ -2461,8 +2451,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 21.04.2026–14.07.2026 | 05203.00.216 (SZ 00.216 (Bismarckstr. 10) Belegung nur nach Rücksprache mit der Raumverantwortlichen) |
-| wöchentlich | Do | 14:15–15:45 | 23.04.2026–16.07.2026 | 05203.00.216 (SZ 00.216 (Bismarckstr. 10) Belegung nur nach Rücksprache mit der Raumverantwortlichen) |
+| wöchentlich | Mo | 12:15–13:45 | 20.04.2026–13.07.2026 | 05203.02.215 (SZ 02.215 (Bismarckstr. 10) Belegung nur nach Rücksprache mit der Raumverantwortlichen) 05801.U1.0232 (SL 104, Bismarckstr. 1 Multimedia-Sprachlabor (Belegung nur nach Rücksprache mit den Raumverantwortlichen)) |
+| wöchentlich | Mi | 12:15–13:45 | 22.04.2026–15.07.2026 | 05203.00.216 (SZ 00.216 (Bismarckstr. 10) Belegung nur nach Rücksprache mit der Raumverantwortlichen) |
 
 ### Deutsch B1.2: Allgemeinkurs - Übung
 
@@ -2497,44 +2487,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 21.04.2026–14.07.2026 | 05203.00.216 (SZ 00.216 (Bismarckstr. 10) Belegung nur nach Rücksprache mit der Raumverantwortlichen) |
-| wöchentlich | Do | 14:15–15:45 | 23.04.2026–16.07.2026 | 05203.00.216 (SZ 00.216 (Bismarckstr. 10) Belegung nur nach Rücksprache mit der Raumverantwortlichen) |
-
-### Deutsch B1: Allgemeinkurs - Übung
-
-- **Segment:** `exam:13853074` · **unitId:** `127471`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952|exam:13851960|exam:13853074>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127471&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:15–11:45 | 21.04.2026–14.07.2026 | 54801.02.011 (SP 02.011 Schlossplatz 1) |
-| wöchentlich | Do | 10:15–11:45 | 23.04.2026–16.07.2026 | 54801.02.011 (SP 02.011 Schlossplatz 1) |
-
-### Deutsch B1: Allgemeinkurs - Übung
-
-- **Segment:** `exam:13855141` · **unitId:** `127471`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13854027|exam:13855141>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127471&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:15–11:45 | 21.04.2026–14.07.2026 | 54801.02.011 (SP 02.011 Schlossplatz 1) |
-| wöchentlich | Do | 10:15–11:45 | 23.04.2026–16.07.2026 | 54801.02.011 (SP 02.011 Schlossplatz 1) |
+| wöchentlich | Mo | 12:15–13:45 | 20.04.2026–13.07.2026 | 05203.02.215 (SZ 02.215 (Bismarckstr. 10) Belegung nur nach Rücksprache mit der Raumverantwortlichen) 05801.U1.0232 (SL 104, Bismarckstr. 1 Multimedia-Sprachlabor (Belegung nur nach Rücksprache mit den Raumverantwortlichen)) |
+| wöchentlich | Mi | 12:15–13:45 | 22.04.2026–15.07.2026 | 05203.00.216 (SZ 00.216 (Bismarckstr. 10) Belegung nur nach Rücksprache mit der Raumverantwortlichen) |
 
 ### Deutsch B1: Grammatik - Übung
 
@@ -2625,40 +2579,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 10:15–11:45 | 20.04.2026–13.07.2026 | 00501.00.015 ( KH 0.015 Hörsaal Kollegienhaus (SR)) |
-
-### Deutsch B1: Leseverstehen - Übung
-
-- **Segment:** `exam:13853076` · **unitId:** `132252`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952|exam:13851960|exam:13853076>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132252&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 10:15–11:45 | 24.04.2026–17.07.2026 | 05701.U1.008 () |
-
-### Deutsch B1: Leseverstehen - Übung
-
-- **Segment:** `exam:13855143` · **unitId:** `132252`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13854027|exam:13855143>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132252&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 10:15–11:45 | 24.04.2026–17.07.2026 | 05701.U1.008 () |
 
 ### Deutsch B1: Mündlicher Ausdruck (Interkulturelle Landeskunde) - Übung
 
@@ -3245,7 +3165,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung | — | 08:30–14:00 | 23.03.2026–26.03.2026 | 54801.01.013 (SP 01.013 Schlossplatz 1) |
+| Blockveranstaltung | — | 08:30–14:00 | 23.03.2026–26.03.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
 
 ### DSH-Prüfungsvorbereitungskurs (Voranmeldung obligatorisch) - Übung
 
@@ -3260,7 +3180,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung | — | 08:30–14:00 | 23.03.2026–26.03.2026 | 54801.01.013 (SP 01.013 Schlossplatz 1) |
+| Blockveranstaltung | — | 08:30–14:00 | 23.03.2026–26.03.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
 
 ### DSH-Semesterkurs (Voranmeldung obligatorisch) - Kurs
 
@@ -3371,74 +3291,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 54801.02.012 (SP 02.012 Schlossplatz 1) |
 | wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 54801.02.012 (SP 02.012 Schlossplatz 1) |
-
-### English: Level 0 - Focus on Speaking - Übung
-
-- **Segment:** `exam:13852288` · **unitId:** `131247`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952|exam:13851960|exam:13852288>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131247&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:15–13:45 | 21.04.2026–14.07.2026 | 54201.01.007 ( Übungsraum I/7 Studienzentrum) |
-
-### English: Level 0 - Focus on Speaking - Übung
-
-- **Segment:** `exam:13854355` · **unitId:** `131247`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13854027|exam:13854355>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131247&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:15–13:45 | 21.04.2026–14.07.2026 | 54201.01.007 ( Übungsraum I/7 Studienzentrum) |
-
-### English: Level 0 - Focus on Writing - Übung
-
-- **Segment:** `exam:13852289` · **unitId:** `131249`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952|exam:13851960|exam:13852289>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131249&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:15–11:45 | 21.04.2026–14.07.2026 | 54201.01.007 ( Übungsraum I/7 Studienzentrum) |
-
-### English: Level 0 - Focus on Writing - Übung
-
-- **Segment:** `exam:13854356` · **unitId:** `131249`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13854027|exam:13854356>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131249&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:15–11:45 | 21.04.2026–14.07.2026 | 54201.01.007 ( Übungsraum I/7 Studienzentrum) |
 
 ### English: Level 1 - Focus on Academic Writing  - Übung
 
@@ -3582,7 +3434,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952|exam:13851960|exam:13852137>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97716&periodId=589>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -3596,7 +3451,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13854027|exam:13854204>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97716&periodId=589>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -3808,74 +3666,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 10:15–11:45 | 21.04.2026–14.07.2026 | 00501.00.014 ( KH 0.014 Hörsaal Kollegienhaus (SR) - 42 Plätze) |
 
-### English: Level 2 - Writing and Presenting for Natural Scientists - Übung
-
-- **Segment:** `exam:13852290` · **unitId:** `131251`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952|exam:13851960|exam:13852290>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131251&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:15–11:45 | 23.04.2026–16.07.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
-
-### English: Level 2 - Writing and Presenting for Natural Scientists - Übung
-
-- **Segment:** `exam:13854357` · **unitId:** `131251`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13854027|exam:13854357>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131251&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:15–11:45 | 23.04.2026–16.07.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
-
-### English: Level 3 - Communicating in a Professional Context - Übung
-
-- **Segment:** `exam:13852282` · **unitId:** `127210`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952|exam:13851960|exam:13852282>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127210&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:15–11:45 | 22.04.2026–15.07.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
-
-### English: Level 3 - Communicating in a Professional Context - Übung
-
-- **Segment:** `exam:13854349` · **unitId:** `127210`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13854027|exam:13854349>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127210&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:15–11:45 | 22.04.2026–15.07.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
-
 ### English: Level 3 - Conversational Language - Übung
 
 - **Segment:** `exam:13852157` · **unitId:** `101218`
@@ -4078,40 +3868,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mo | 10:15–11:45 | 20.04.2026–13.07.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
 
-### English: Level 3 - How to Win Any Argument - Kurs
-
-- **Segment:** `exam:17715281` · **unitId:** `134561`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952|exam:13851960|exam:17715281>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134561&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 14:15–15:45 | 22.04.2026–15.07.2026 | 54606.02.021 (F 21 (IFA)) |
-
-### English: Level 3 - How to Win Any Argument - Kurs
-
-- **Segment:** `exam:17715282` · **unitId:** `134561`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13854027|exam:17715282>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134561&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 14:15–15:45 | 22.04.2026–15.07.2026 | 54606.02.021 (F 21 (IFA)) |
-
 ### English: Level 3 - Intercultural Communication - Übung
 
 - **Segment:** `exam:13852256` · **unitId:** `115692`
@@ -4143,74 +3899,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:15–15:45 | 20.04.2026–13.07.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
-
-### English: Level 3 - Language, Power and Human Rights - Kurs
-
-- **Segment:** `exam:17715331` · **unitId:** `134565`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952|exam:13851960|exam:17715331>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134565&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **ECTS-Punkte:** 4.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 10:15–11:45 | 24.04.2026–17.07.2026 | 00501.00.014 ( KH 0.014 Hörsaal Kollegienhaus (SR) - 42 Plätze) 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
-
-### English: Level 3 - Language, Power and Human Rights - Kurs
-
-- **Segment:** `exam:17715332` · **unitId:** `134565`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13854027|exam:17715332>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134565&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **ECTS-Punkte:** 4.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 10:15–11:45 | 24.04.2026–17.07.2026 | 00501.00.014 ( KH 0.014 Hörsaal Kollegienhaus (SR) - 42 Plätze) 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
-
-### English: Level 3 - Perfect your English Pronunciation and Intonation - Kurs
-
-- **Segment:** `exam:13852297` · **unitId:** `132309`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952|exam:13851960|exam:13852297>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132309&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 16:15–17:45 | 23.04.2026–16.07.2026 | 00501.00.014 ( KH 0.014 Hörsaal Kollegienhaus (SR) - 42 Plätze) |
-
-### English: Level 3 - Perfect your English Pronunciation and Intonation - Kurs
-
-- **Segment:** `exam:13854364` · **unitId:** `132309`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13854027|exam:13854364>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132309&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 16:15–17:45 | 23.04.2026–16.07.2026 | 00501.00.014 ( KH 0.014 Hörsaal Kollegienhaus (SR) - 42 Plätze) |
 
 ### English: Level 3 - Presenting Scientific Papers for Natural Scientists - Übung
 
@@ -4382,40 +4070,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Fr | 12:15–13:45 | 24.04.2026–17.07.2026 | 00501.00.014 ( KH 0.014 Hörsaal Kollegienhaus (SR) - 42 Plätze) 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
 
-### English: Level 4 - Critical thinking and problem solving in English - Übung
-
-- **Segment:** `exam:13852292` · **unitId:** `131253`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952|exam:13851960|exam:13852292>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131253&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:15–11:45 | 20.04.2026–13.07.2026 | 05801.04.112 ( A 602) |
-
-### English: Level 4 - Critical thinking and problem solving in English - Übung
-
-- **Segment:** `exam:13854359` · **unitId:** `131253`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13854027|exam:13854359>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131253&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 10:15–11:45 | 20.04.2026–13.07.2026 | 05801.04.112 ( A 602) |
-
 ### English: Level 4 - Editing Scientific Documents - Übung
 
 - **Segment:** `exam:13852160` · **unitId:** `102281`
@@ -4481,40 +4135,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 16:15–17:45 | 14.04.2026–21.07.2026 | 00501.00.014 ( KH 0.014 Hörsaal Kollegienhaus (SR) - 42 Plätze) |
-
-### English: Level 4 - The Art of Storytelling - Übung
-
-- **Segment:** `exam:13852293` · **unitId:** `131254`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952|exam:13851960|exam:13852293>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131254&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:15–15:45 | 23.04.2026–16.07.2026 | 05701.U1.008 () |
-
-### English: Level 4 - The Art of Storytelling - Übung
-
-- **Segment:** `exam:13854360` · **unitId:** `131254`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13854027|exam:13854360>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131254&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 14:15–15:45 | 23.04.2026–16.07.2026 | 05701.U1.008 () |
 
 ### English: Level 4 - Writing and Presenting Articles - Übung
 
@@ -4592,6 +4212,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **ECTS-Punkte:** 5.0
 - **Turnus:** in jedem Semester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 08:15–09:45 | 23.04.2026–16.07.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
+
 ### English: Level 4 - Writing Research Papers - Übung
 
 - **Segment:** `exam:13854266` · **unitId:** `111533`
@@ -4601,6 +4227,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 08:15–09:45 | 23.04.2026–16.07.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
 
 ### English: Level E - Elementary English - Übung
 
@@ -4955,7 +4587,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952|exam:13851960|exam:13852102>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93540&periodId=589>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Französisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -4970,7 +4605,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13854027|exam:13854169>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93540&periodId=589>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Französisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -6044,148 +5682,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **ECTS-Punkte:** 2.0
 - **Turnus:** in jedem Semester
 
-### MED 42001 Ärztliche Selbstfürsorge und Fehlerkultur: Wege zu einer besseren Patient:innenversorgung - Praxisseminar
-
-- **Segment:** `exam:13853623` · **unitId:** `126788`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853559|exam:13853621|exam:13853623>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126788&periodId=589>
-
-- **Veranstaltungsart:** Praxisseminar
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | — |
-
-### MED 42011 Ärztliche Selbstfürsorge und Fehlerkultur: Wege zu einer besseren Patient:innenversorgung (Klinik) - Seminar
-
-- **Segment:** `exam:13853763` · **unitId:** `127790`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853673|exam:13853761|exam:13853763>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127790&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 14:00–16:00 | 24.04.2026–03.07.2026 | — |
-
-### MED 42101: Aufklärung über Gesundheit, Sex und Geschlechterrollen in Filmen und Liedern der DDR - Seminar
-
-- **Segment:** `exam:13853629` · **unitId:** `127647`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853559|exam:13853627|exam:13853629>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127647&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 16:15–19:45 | 20.04.2026 | — |
-| Einzeltermin | Mo | 16:15–19:45 | 04.05.2026 | — |
-| Einzeltermin | Mo | 16:15–19:45 | 18.05.2026 | — |
-| Einzeltermin | Mo | 16:15–19:45 | 01.06.2026 | — |
-| Einzeltermin | Mo | 16:15–19:45 | 08.06.2026 | — |
-| Einzeltermin | Mo | 16:15–19:45 | 22.06.2026 | — |
-| Einzeltermin | Mo | 16:15–19:45 | 29.06.2026 | — |
-
-### MED 42101: Aufklärung über Gesundheit, Sex und Geschlechterrollen in Filmen und Liedern der DDR - Seminar
-
-- **Segment:** `exam:13853770` · **unitId:** `127647`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853673|exam:13853768|exam:13853770>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127647&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 16:15–19:45 | 20.04.2026 | — |
-| Einzeltermin | Mo | 16:15–19:45 | 04.05.2026 | — |
-| Einzeltermin | Mo | 16:15–19:45 | 18.05.2026 | — |
-| Einzeltermin | Mo | 16:15–19:45 | 01.06.2026 | — |
-| Einzeltermin | Mo | 16:15–19:45 | 08.06.2026 | — |
-| Einzeltermin | Mo | 16:15–19:45 | 22.06.2026 | — |
-| Einzeltermin | Mo | 16:15–19:45 | 29.06.2026 | — |
-
-### MED 42351 Grundlagen der experimentellen Forschung für die medizinische Doktorarbeit - Seminar
-
-- **Segment:** `exam:13853773` · **unitId:** `128455`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853673|exam:13853771|exam:13853773>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128455&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung | — | 09:00–13:30 | 03.08.2026–07.08.2026 | 02401.02.150 (Oberer Hörsaal - Pathologie) |
-| Einzeltermin | Fr | 09:00–12:00 | 14.08.2026 | — |
-
-### MED 42751: Mensch-Medizin-Maschine. Objektgeschichten als Medizingeschichte 3D - Seminar
-
-- **Segment:** `exam:13853635` · **unitId:** `132306`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853559|exam:13853633|exam:13853635>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132306&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 16:15–19:00 | 30.04.2026–09.07.2026 | — |
-
-### MED 42751: Mensch-Medizin-Maschine. Objektgeschichten als Medizingeschichte 3D - Seminar
-
-- **Segment:** `exam:13853782` · **unitId:** `132306`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853673|exam:13853780|exam:13853782>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132306&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 16:15–19:00 | 30.04.2026–09.07.2026 | — |
-
-### MED 43701 „Werkzeugkasten und Schreibwerkstatt für die medizinische Promotion - Teil B (Sommersemester) - Schreibwerkstatt“ - Vorlesung
-
-- **Segment:** `exam:15845355` · **unitId:** `132327`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853673|exam:13853786|exam:15845355>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132327&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 16:00–17:00 | 13.04.2026–13.07.2026 | — |
-
 ### MED 45051 Angewandte Anatomie (EMPTY-Kurs) - Seminar
 
 - **Segment:** `exam:13853579` · **unitId:** `102627`
@@ -6208,7 +5704,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853673|exam:13853692|exam:13853694>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120743&periodId=589>
 
+- **Veranstaltungsart:** Seminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -6285,46 +5783,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | Blockveranstaltung+SaundSo | — | 09:00–17:00 | 17.07.2026–19.07.2026 | 00701.00.026 |
 
-### MED 47051: Spitzenmedizin. Antike Herrscher und ihre Hofärzte. Persien, Griechenland, Rom, Byzanz - Seminar
-
-- **Segment:** `exam:15778212` · **unitId:** `134585`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853559|exam:15755698|exam:15778212>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134585&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 18:15–19:45 | 28.04.2026 | — |
-| Einzeltermin | Di | 18:15–19:45 | 05.05.2026 | — |
-| Einzeltermin | Di | 18:15–19:45 | 02.06.2026 | — |
-| Einzeltermin | Di | 18:15–19:45 | 09.06.2026 | — |
-| Einzeltermin | Di | 16:00–20:00 | 16.06.2026 | — |
-
-### MED 47051: Spitzenmedizin. Antike Herrscher und ihre Hofärzte. Persien, Griechenland, Rom, Byzanz - Seminar
-
-- **Segment:** `exam:15778239` · **unitId:** `134585`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853673|exam:15755716|exam:15778239>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134585&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 18:15–19:45 | 28.04.2026 | — |
-| Einzeltermin | Di | 18:15–19:45 | 05.05.2026 | — |
-| Einzeltermin | Di | 18:15–19:45 | 02.06.2026 | — |
-| Einzeltermin | Di | 18:15–19:45 | 09.06.2026 | — |
-| Einzeltermin | Di | 16:00–20:00 | 16.06.2026 | — |
-
 ### MED 76681 Intensiv- Kurs Microsurgical skills - Seminar
 
 - **Segment:** `exam:13853748` · **unitId:** `82294`
@@ -6349,7 +5807,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853673|exam:13853687|exam:13853689>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94782&periodId=589>
 
+- **Veranstaltungsart:** Seminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 ### MED 80451 Neurowissenschaften der sensorischen Wahrnehmung - Seminar
 
@@ -6422,6 +5882,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90111&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### MED 81051 Praxis in Erster Hilfe und Wiederbelebung für Vorkliniker  - Seminar
@@ -6440,7 +5901,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853673|exam:13853744|exam:13853745>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88625&periodId=589>
 
+- **Veranstaltungsart:** Seminar
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -6462,7 +5925,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92684&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 17:15–18:45 | 13.04.2026–13.07.2026 | 01101.01.034 (SR Wasserturmstr. 3/5) |
 
 ### MED 85651 - Ernährungsmedizin (I-MedG. 7) - Vorlesung
 
@@ -6489,6 +5959,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86175&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### MED 87501 Neurologische Differentialdiagnosen am Patientenbett - Seminar
@@ -6540,6 +6011,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88812&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### MED 89861"Aufklärung Organspende" - Seminar
@@ -6599,7 +6071,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82595&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 14:00–16:30 | 20.04.2026 | 00801.02.055 (Anatom. Sammlung) |
+| Blockveranstaltung | — | 09:00–17:00 | 25.04.2026–26.04.2026 | — |
 
 ### MED47351 - Bioinformatics in Medical Research / Bioinformatik in der medizinischen Forschung - Seminar
 
@@ -7385,7 +6865,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952|exam:13851960|exam:13851988>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85143&periodId=589>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 ### Schwedisch: Multimedialer Online-Kurs bayernweit: Klara grammatiken! Schwedische Grammatik A1/A2 - Übung
 
@@ -7393,7 +6876,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13854027|exam:13854055>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85143&periodId=589>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 ### Schwedisch: Multimedialer Online-Kurs bayernweit: Leseverstehen für Fortgeschrittene - Klara, färdiga, gå! B1 - Übung
 
@@ -7499,7 +6985,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952|exam:13851960|exam:13853069>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86215&periodId=589>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Spanisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -7514,7 +7003,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13854027|exam:13855136>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86215&periodId=589>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Spanisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -7531,7 +7023,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Spanisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 11:30–13:00 | 21.04.2026–14.07.2026 | 21102.02.431 (LG 2.431 Multimediasprachlabor) |
+| wöchentlich | Mi | 11:30–13:00 | 22.04.2026–15.07.2026 | 21101.00.144 (LG 0.144 (38 Plätze) Übungsraum) |
 
 ### Spanisch 4 (Niveau B2) - Übung
 
@@ -7541,7 +7041,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Spanisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 11:30–13:00 | 21.04.2026–14.07.2026 | 21102.02.431 (LG 2.431 Multimediasprachlabor) |
+| wöchentlich | Mi | 11:30–13:00 | 22.04.2026–15.07.2026 | 21101.00.144 (LG 0.144 (38 Plätze) Übungsraum) |
 
 ### Spanisch C1 - Übung
 
@@ -8281,6 +7789,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952|exam:13851960|exam:13851976>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83567&periodId=589>
 
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
+- **Turnus:** in jedem Semester
+
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
@@ -8292,6 +7804,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:13854043` · **unitId:** `83567`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13854027|exam:13854043>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83567&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -8484,22 +8000,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | Mo | Mo | 11:00–13:00 | — | 11906.01.040 (H20) |
 
-### 3-V40 - 3-V40 Gesundheitswissenschaften mit den Schwerpunkten Epidemiologie, Prävention, Gesundheitsförderung, Öffentliche Gesundheitspflege, Gesundheitsökonomie - Vorlesung
-
-- **Segment:** `exam:13853884` · **unitId:** `125508`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853882|exam:13853884>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125508&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 13:15–14:00 | 22.04.2026–15.07.2026 | 03006.00.607 (Hörsaal 1 - Östliche Stadtmauerstraße 11) |
-
 ### 30540 Französisch: Pratique de l’oral (C1) - Leistung
 
 - **Segment:** `exam:13852792` · **unitId:** `114311`
@@ -8590,8 +8090,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952|exam:13851960|exam:13852811>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118788&periodId=589>
 
-- **ECTS-Punkte:** 2.5
-
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
@@ -8603,8 +8101,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:13854878` · **unitId:** `118788`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13854027|exam:13854878>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118788&periodId=589>
-
-- **ECTS-Punkte:** 2.5
 
 #### Termine
 
@@ -8706,6 +8202,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **ECTS-Punkte:** 2.5
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
 ### 30573 Comprensione e produzione orale 2 - Leistung
 
 - **Segment:** `exam:13854892` · **unitId:** `121173`
@@ -8713,6 +8215,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121173&periodId=589>
 
 - **ECTS-Punkte:** 2.5
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### 30574 Grammatica e stilistica 2 - corso superiore - Leistung
 
@@ -8988,7 +8496,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952|exam:13851960|exam:13852843>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123884&periodId=589>
 
-- **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -9003,7 +8510,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13854027|exam:13854910>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123884&periodId=589>
 
-- **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -9018,6 +8524,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952|exam:13851960|exam:13852846>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123887&periodId=589>
 
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -9032,6 +8539,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13854027|exam:13854913>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123887&periodId=589>
 
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -9368,36 +8876,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### 30650 English: Level 3 - English through Music, Movies, and Literature - Leistung
-
-- **Segment:** `exam:13852886` · **unitId:** `128523`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952|exam:13851960|exam:13852886>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128523&periodId=589>
-
-- **ECTS-Punkte:** 4.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 30650 English: Level 3 - English through Music, Movies, and Literature - Leistung
-
-- **Segment:** `exam:13854953` · **unitId:** `128523`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13854027|exam:13854953>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128523&periodId=589>
-
-- **ECTS-Punkte:** 4.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
 ### 30656 English: Level 2 - Spoken English for Technology Students - Leistung
 
 - **Segment:** `exam:13852891` · **unitId:** `129433`
@@ -9453,62 +8931,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
-
-### 30661 Cultura e Civiltà I - Leistung
-
-- **Segment:** `exam:13852895` · **unitId:** `130505`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952|exam:13851960|exam:13852895>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130505&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 30661 Cultura e Civiltà I - Leistung
-
-- **Segment:** `exam:13854962` · **unitId:** `130505`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13854027|exam:13854962>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130505&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 30662 L’italiano per il lavoro - Leistung
-
-- **Segment:** `exam:13852896` · **unitId:** `130506`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952|exam:13851960|exam:13852896>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130506&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | 10:00–12:00 | — | — |
-
-### 30662 L’italiano per il lavoro - Leistung
-
-- **Segment:** `exam:13854963` · **unitId:** `130506`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13854027|exam:13854963>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130506&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | 10:00–12:00 | — | — |
 
 ### 35001 Vorbereitung Wissenschaftliches Arbeiten - Leistung
 
@@ -9570,36 +8992,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | Sa | Sa | 08:00–11:00 | — | 11901.01.126 (Mensa Süd (OG)) |
 
-### 42001 Ärztliche Selbstfürsorge und Fehlerkultur: Wege zu einer besseren Patienten- und Patientinnen-Versorgung - Leistung
-
-- **Segment:** `exam:13853622` · **unitId:** `127385`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853559|exam:13853621|exam:13853622>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127385&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 42011 Ärztliche Selbstfürsorge und Fehlerkultur: Wege zu einer besseren Patienten- und Patientinnen-Versorgung - Leistung
-
-- **Segment:** `exam:13853762` · **unitId:** `127557`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853673|exam:13853761|exam:13853762>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127557&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
 ### 42101 Darstellung von Sex, Geschlechterrollen und Gesundheitsverhalten in Film, Fernsehen und Musik - Leistung
 
 - **Segment:** `exam:13853628` · **unitId:** `127389`
@@ -9607,79 +8999,19 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127389&periodId=589>
 
 - **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### 42101 Darstellung von Sex, Geschlechterrollen und Gesundheitsverhalten in Film, Fernsehen und Musik - Leistung
 
 - **Segment:** `exam:13853769` · **unitId:** `127389`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853673|exam:13853768|exam:13853769>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127389&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-
-### 42351 Grundlagen der experimentellen Forschung für die medizinische Doktorarbeit - Leistung
-
-- **Segment:** `exam:13853772` · **unitId:** `127399`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853673|exam:13853771|exam:13853772>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127399&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 42751 Medizin - Mensch - Maschine. Objektgeschichten als Medizingeschichte 3D - Leistung
-
-- **Segment:** `exam:13853634` · **unitId:** `131758`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853559|exam:13853633|exam:13853634>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131758&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 42751 Medizin - Mensch - Maschine. Objektgeschichten als Medizingeschichte 3D - Leistung
-
-- **Segment:** `exam:13853781` · **unitId:** `131758`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853673|exam:13853780|exam:13853781>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131758&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 43701 Werkzeugkasten und Schreibwerkstatt für die medizinische Promotion - Teil B (Sommersemester) - Schreibwerkstatt - Leistung
-
-- **Segment:** `exam:13853787` · **unitId:** `132009`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853673|exam:13853786|exam:13853787>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132009&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 44351 Hands-on Simulation einer praktischen Doktorarbeit für Zahnmediziner - Leistung
-
-- **Segment:** `exam:13853714` · **unitId:** `124796`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853673|exam:13853713|exam:13853714>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124796&periodId=589>
 
 - **ECTS-Punkte:** 0.0
 - **Unterrichtssprache:** Deutsch
@@ -9742,6 +9074,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **ECTS-Punkte:** 0.0
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
 ### 45931 Rassismus in der Medizin - Leistung
 
 - **Segment:** `exam:13853757` · **unitId:** `118417`
@@ -9750,12 +9088,19 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **ECTS-Punkte:** 0.0
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
 ### 46751 Anatomie am Lebenden - Leistung
 
 - **Segment:** `exam:13853569` · **unitId:** `42212`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853559|exam:13853567|exam:13853569>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=42212&periodId=589>
 
+- **ECTS-Punkte:** 0.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -9763,51 +9108,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | 14:15–16:30 | — | — |
-
-### 47051 Spitzenmedizin. Antike Herrscher und ihre Hofärzte. Persien, Griechenland, Rom, Byzanz - Leistung
-
-- **Segment:** `exam:15755699` · **unitId:** `134797`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853559|exam:15755698|exam:15755699>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134797&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 47051 Spitzenmedizin. Antike Herrscher und ihre Hofärzte. Persien, Griechenland, Rom, Byzanz - Leistung
-
-- **Segment:** `exam:15755717` · **unitId:** `134797`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853673|exam:15755716|exam:15755717>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134797&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 47351 Bioinformatics in Medical Research / Bioinformatik in der medizinischen Forschung - Leistung
-
-- **Segment:** `exam:15760702` · **unitId:** `134862`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853673|exam:15760701|exam:15760702>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134862&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
 
 ### 50001 Betriebsärztliche Untersuchung - Leistung
 
@@ -9882,7 +9182,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mi | Mi | 08:00–09:00 | — | 00601.00.012 (Hörsaal Physiologie) |
+| Di | Di | 18:00–19:00 | — | — |
 
 ### 71451 Praktikum der makroskopischen Anatomie für Studierende der Zahnmedizin - Leistung
 
@@ -10011,6 +9311,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=79093&periodId=589>
 
 - **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### 72551 Praktikum der zahnärztlichen Prothetik am Phantom - Leistung
 
@@ -10063,6 +9370,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853636|exam:13853652|exam:13853653>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=79105&periodId=589>
 
+- **ECTS-Punkte:** 0.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -10144,20 +9452,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | Fr | Fr | — | — | — |
 
-### 72904 Zahn-, Mund-, Kiefer- und Gesichtschirurgie II  - Leistung
-
-- **Segment:** `exam:13853793` · **unitId:** `124884`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853789|exam:13853793>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124884&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | 07:15–07:45 | — | — |
-
 ### 72951 Praktikum der Mikrobiologie, Immunologie, Virologie und Hygiene für Studierende der Zahnmedizin - Leistung
 
 - **Segment:** `exam:13853663` · **unitId:** `79120`
@@ -10165,6 +9459,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=79120&periodId=589>
 
 - **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | Fr | 09:00–10:00 | — | 01101.00.029 |
 
 ### 73051 Klinik und Poliklinik und Dermatologie und Allergologie für Studierende der Zahnmedizin - Leistung
 
@@ -10216,18 +9517,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853799|exam:13853802>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124885&periodId=589>
 
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | 07:15–07:45 | — | — |
-
-### 73104 Zahn-, Mund-, Kiefer- und Gesichtschirurgie IV  - Leistung
-
-- **Segment:** `exam:13853803` · **unitId:** `124886`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853799|exam:13853803>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124886&periodId=589>
-
 - **ECTS-Punkte:** 0.0
 
 #### Termine
@@ -10235,20 +9524,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Di | Di | 07:15–07:45 | — | — |
-
-### 73151 Praktikum der zahnmedizinischen Diagnostik und Behandlungsplanung I A - Leistung
-
-- **Segment:** `exam:13853670` · **unitId:** `119884`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853636|exam:13853669|exam:13853670>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119884&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
 
 ### 73152 Praktikum der zahnmedizinischen Diagnostik und Behandlungsplanung I B - Leistung
 
@@ -10342,8 +9617,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853810|exam:13853812>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119895&periodId=589>
 
-- **ECTS-Punkte:** 0.0
-
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
@@ -10393,11 +9666,11 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | Fr | Fr | 09:00–10:00 | — | 01101.00.029 |
 
-### 73551 Operationskurs Teil I B - Leistung
+### 73552 Operationskurs I C - Leistung
 
-- **Segment:** `exam:13853823` · **unitId:** `119906`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853822|exam:13853823>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119906&periodId=589>
+- **Segment:** `exam:13853824` · **unitId:** `119907`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853822|exam:13853824>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119907&periodId=589>
 
 - **ECTS-Punkte:** 0.0
 
@@ -10407,19 +9680,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | Fr | Fr | — | — | — |
 
-### 73552 Operationskurs I C - Leistung
-
-- **Segment:** `exam:13853824` · **unitId:** `119907`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853822|exam:13853824>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119907&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-
 ### 73601 Operationskurs Teil II A - Leistung
 
 - **Segment:** `exam:13853829` · **unitId:** `119922`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853828|exam:13853829>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119922&periodId=589>
+
+- **ECTS-Punkte:** 0.0
 
 #### Termine
 
@@ -10460,18 +9727,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:13853838` · **unitId:** `123988`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853836|exam:13853838>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123988&periodId=589>
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 73751 Theoretischer Kurs II - Leistung
-
-- **Segment:** `exam:13853842` · **unitId:** `119934`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853841|exam:13853842>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119934&periodId=589>
 
 - **ECTS-Punkte:** 0.0
 
@@ -10543,8 +9798,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853857|exam:13853859>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119949&periodId=589>
 
-- **ECTS-Punkte:** 0.0
-
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
@@ -10579,21 +9832,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### 74001 Schmerzmedizin (QZ2)  - Leistung
-
-- **Segment:** `exam:13853869` · **unitId:** `119960`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853868|exam:13853869>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119960&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | 14:00–14:45 | — | — |
-
 ### 74051 Medizin und Zahnmedizin des Alterns und des alten Menschen (QZ3) - Leistung
 
 - **Segment:** `exam:13853871` · **unitId:** `119963`
@@ -10615,6 +9853,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119965&periodId=589>
 
 - **ECTS-Punkte:** 0.0
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### 74151 Orale Medizin und systemische Aspekte (QZ5) - Leistung
 
@@ -10714,20 +9958,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Fr | Fr | 10:15–11:15 | — | — |
-
-### 74501 Innere Medizin einschließlich Immunologie  - Leistung
-
-- **Segment:** `exam:13853896` · **unitId:** `120056`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853788|exam:13853895|exam:13853896>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120056&periodId=589>
-
-- **ECTS-Punkte:** 3.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
 
 ### 74551 Berufskunde und Praxisführung  - Leistung
 
@@ -10899,6 +10129,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851685|exam:13851763|exam:13851832|exam:13851836>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39073&periodId=589>
 
+- **ECTS-Punkte:** 0.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -11857,34 +11088,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | — | — | — | — | — |
 
-### 92551 Skillslab PERLE Fit für den Stationseinsatz - Leistung
-
-- **Segment:** `exam:13853446` · **unitId:** `125685`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851952|exam:13853100|exam:13853445|exam:13853446>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125685&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 92551 Skillslab PERLE Fit für den Stationseinsatz - Leistung
-
-- **Segment:** `exam:13855513` · **unitId:** `125685`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13854019|exam:13855167|exam:13855512|exam:13855513>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125685&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
 ### Allg. WSK - 2-V16 Allgemeine Werkstoffkunde - Vorlesung
 
 - **Segment:** `exam:13851724` · **unitId:** `91858`
@@ -12119,7 +11322,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853494|exam:13853510|exam:13853514>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89906&periodId=589>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -12200,7 +11405,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84658&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 09:15–11:45 | 13.04.2026–13.07.2026 | 00701.00.014 (Histosaal) |
+| wöchentlich | Mo | 13:30–16:00 | 13.04.2026–13.07.2026 | 00701.00.014 (Histosaal) |
 
 ### Hyg.Zahn.KU - Mikrobiologie, Immunologie, Hygiene und Virologie: Vorlesung mit Demonstrationspraktikum für Studierende der Zahnmedizin im 1. klin. Sem. - Vorlesung mit Übung
 
@@ -12324,9 +11537,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853673|exam:13853750|exam:13853752>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97300&periodId=589>
 
-- **Veranstaltungsart:** Anleitung zu wiss. Arbeiten
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
 
 ### K-V3A - K-V3A Ringvorlesung Allgemeine Notfallmedizin, Q8 - Vorlesung
 
@@ -12383,7 +11594,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90035&periodId=589>
 
 - **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 13:00–19:00 | 15.04.2026–15.07.2026 | — |
 
 ### KU - Kurs und Poliklinik der Zahnerhaltungskunde I - Kurs
 
@@ -12411,7 +11629,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851685|exam:13851763|exam:13851842|exam:13851845>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82917&periodId=589>
 
+- **Veranstaltungsart:** Kurs
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -12426,7 +11646,18 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92652&periodId=589>
 
 - **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 13:00–17:00 | 13.04.2026–13.07.2026 | — |
+| wöchentlich | Di | 09:00–12:00 | 14.04.2026–14.07.2026 | — |
+| wöchentlich | Do | 08:00–12:00 | 16.04.2026–16.07.2026 | — |
+| wöchentlich | Do | 13:00–17:00 | 16.04.2026–16.07.2026 | — |
+| wöchentlich | Di | 13:00–18:50 | 21.04.2026–14.07.2026 | — |
 
 ### Kurs Polikl. ZEK II - Kursus und Poliklinik der Zahnersatzkunde II - Kurs
 
@@ -12522,7 +11753,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853673|exam:13853713|exam:13853715>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124057&periodId=589>
 
+- **Veranstaltungsart:** Kurs
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -12608,7 +11841,19 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89099&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Sa | 09:00–17:00 | 06.06.2026 | — |
+| Einzeltermin | Sa | 09:00–17:00 | 13.06.2026 | — |
+| Einzeltermin | Sa | 09:00–17:00 | 20.06.2026 | — |
+| Einzeltermin | Sa | 09:00–17:00 | 27.06.2026 | — |
+| Einzeltermin | Sa | 09:00–17:00 | 04.07.2026 | — |
+| Einzeltermin | Sa | 09:00–17:00 | 11.07.2026 | — |
 
 ### MKG-Z-M-K-Krankheiten Auskultando - Klinik und Poliklinik der Zahn-, Mund- und Kieferkrankheiten  - Auskultando (MKG-Chirugie + ZMK Oralmedizin + ZMK Oralchirurgie) - Vorlesung
 
@@ -13194,26 +12439,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | wöchentlich | Do | 09:15–10:00 | 16.04.2026–16.07.2026 | 00801.00.112 (H Anatomie I (Eingang über Universitätsstraße 19)) |
 | wöchentlich | Do | 09:15–10:00 | 16.04.2026–16.07.2026 | 00601.00.012 (Hörsaal Physiologie) |
 
-### V-V13/1-V10 Vorlesung Histologie Teil 1 - V-V13/1-V10 Vorlesung Allgemeine Histologie und Embryologie - Vorlesung
-
-- **Segment:** `exam:13853527` · **unitId:** `132791`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13853463|exam:13853468|exam:13853469|exam:13853494|exam:13853522|exam:13853527>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132791&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 10:15–11:00 | 04.05.2026 | — |
-| Einzeltermin | Di | 10:15–11:00 | 05.05.2026 | — |
-| wöchentlich | Mi | 10:15–11:00 | 06.05.2026–24.06.2026 | 03006.00.607 (Hörsaal 1 - Östliche Stadtmauerstraße 11) |
-| wöchentlich | Fr | 12:30–13:15 | 08.05.2026–26.06.2026 | 03006.00.607 (Hörsaal 1 - Östliche Stadtmauerstraße 11) |
-| Einzeltermin | Mo | 10:15–11:00 | 01.06.2026 | — |
-
 ### V-V14, 1-V12 - Vorlesung Neuroanatomie (Medizin, Zahnmedizin und Molekulare Medizin) - Vorlesung
 
 - **Segment:** `exam:13851740` · **unitId:** `88317`
@@ -13478,7 +12703,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17981|exam:13851681|exam:13851682|exam:13851685|exam:13851763|exam:13851819|exam:13851824>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82857&periodId=589>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -14263,7 +13490,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.0
 - **Turnus:** nur im Wintersemester
 
-### Gramática y estilística II (Studienbeginn WS 2017/18 - SoSe 2021) — Übung
+### Gramática y estilística II — Übung
 
 - **Segment:** `unit:111394` · **unitId:** `111394`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111394&periodId=589>

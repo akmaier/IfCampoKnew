@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:18313"
 campo_path: "title:17593|title:17595|title:18313"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18313"
-po_version_count: 0
-course_count: 17
+po_version_count: 2
+course_count: 15
 fau_studiengang:
   - title: "Physical Activity and Health (M.A.)"
     rel_path: "studiengang/physical-activity-and-health-m-a.md"
@@ -186,7 +186,19 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Veranstaltungen (17)
+## Prüfungsordnungs-Versionen (2)
+
+### 33521 Health-enhancing exercise II
+
+- **Campo-Segment:** `exam:15282398`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18313|exam:15282374|exam:15282375|exam:15282376|exam:15282398>
+
+### 33541 Basics in methodology II
+
+- **Campo-Segment:** `exam:15282408`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18313|exam:15282374|exam:15282375|exam:15282376|exam:15282408>
+
+## Veranstaltungen (15)
 
 ### 1995 Internship (M.A. Physical Activity and Health 20192)
 
@@ -224,12 +236,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18313|exam:15282374|exam:15282375|exam:15282376|exam:15282394>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47398&periodId=589>
 
-### 33521 Health-enhancing exercise II
-
-- **Segment:** `exam:15282398` · **unitId:** `131306`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18313|exam:15282374|exam:15282375|exam:15282376|exam:15282398>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131306&periodId=589>
-
 ### 33526 Health-enhancing exercise III
 
 - **Segment:** `exam:15282400` · **unitId:** `54514`
@@ -247,12 +253,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:15282404` · **unitId:** `47402`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18313|exam:15282374|exam:15282375|exam:15282376|exam:15282404>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47402&periodId=589>
-
-### 33541 Basics in methodology II
-
-- **Segment:** `exam:15282408` · **unitId:** `131308`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18313|exam:15282374|exam:15282375|exam:15282376|exam:15282408>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131308&periodId=589>
 
 ### 33545 Communication and interaction
 

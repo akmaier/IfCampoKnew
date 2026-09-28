@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:18317"
 campo_path: "title:17593|title:17595|title:18317"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18317"
-po_version_count: 4
-course_count: 59
+po_version_count: 8
+course_count: 55
 ---
 
 # Katholische Religionslehre
@@ -14,7 +14,27 @@ course_count: 59
 
 _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theologie_  
 
-## Prüfungsordnungs-Versionen (4)
+## Prüfungsordnungs-Versionen (8)
+
+### 96741 Basismodul Grundlagen der Fachdidaktik - Leistung
+
+- **Campo-Segment:** `exam:15198881`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18317|exam:15198876|exam:15198877|exam:15198878|exam:15198879|exam:15198880|exam:15198881>
+
+### 96741 Basismodul Grundlagen der Fachdidaktik - Leistung
+
+- **Campo-Segment:** `exam:15198891`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18317|exam:15198886|exam:15198887|exam:15198888|exam:15198889|exam:15198890|exam:15198891>
+
+### 96861 Aufbaumodul Fachdidaktik Katholische Religionslehre - Leistung
+
+- **Campo-Segment:** `exam:15198884`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18317|exam:15198876|exam:15198877|exam:15198878|exam:15198879|exam:15198883|exam:15198884>
+
+### 96881 Aufbaumodul II Fachdidaktik Katholische Religionslehre - Leistung
+
+- **Campo-Segment:** `exam:15198897`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18317|exam:15198886|exam:15198887|exam:15198888|exam:15198889|exam:15198896|exam:15198897>
 
 ### Didaktik Grundschule, sortiert von Neu nach Alt
 
@@ -36,7 +56,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Campo-Segment:** `title:18331`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18317|title:18326|title:18331>
 
-## Veranstaltungen (59)
+## Veranstaltungen (55)
 
 ### Konfessionelle Kooperation im Religionsunterricht - Praxisseminar
 
@@ -216,36 +236,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | Fr | Fr | — | — | — |
 
-### 96741 Basismodul Grundlagen der Fachdidaktik - Leistung
-
-- **Segment:** `exam:15198881` · **unitId:** `124745`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18317|exam:15198876|exam:15198877|exam:15198878|exam:15198879|exam:15198880|exam:15198881>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124745&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | — | 07.06.2026 23:59:59 | — |
-
-### 96741 Basismodul Grundlagen der Fachdidaktik - Leistung
-
-- **Segment:** `exam:15198891` · **unitId:** `124745`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18317|exam:15198886|exam:15198887|exam:15198888|exam:15198889|exam:15198890|exam:15198891>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124745&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | — | 07.06.2026 23:59:59 | — |
-
 ### 96802 Religionspädagogisches Seminar - Leistung
 
 - **Segment:** `exam:15198827` · **unitId:** `24532`
@@ -336,21 +326,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | Fr | Fr | 14:00–16:00 | 07.06.2026 23:59:59 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 
-### 96861 Aufbaumodul Fachdidaktik Katholische Religionslehre - Leistung
-
-- **Segment:** `exam:15198884` · **unitId:** `124756`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18317|exam:15198876|exam:15198877|exam:15198878|exam:15198879|exam:15198883|exam:15198884>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124756&periodId=589>
-
-- **ECTS-Punkte:** 6.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | — | — | — |
-
 ### 96871 Aufbaumodul I Fachdidaktik Katholische Religionslehre - Leistung
 
 - **Segment:** `exam:15198894` · **unitId:** `124748`
@@ -364,22 +339,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | Mo | — | — | — |
-
-### 96881 Aufbaumodul II Fachdidaktik Katholische Religionslehre - Leistung
-
-- **Segment:** `exam:15198897` · **unitId:** `124750`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18317|exam:15198886|exam:15198887|exam:15198888|exam:15198889|exam:15198896|exam:15198897>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124750&periodId=589>
-
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | — | — | — |
+| Fr | Fr | — | — | — |
 
 ### 96911 Religionspädagogisches Seminar - Leistung
 

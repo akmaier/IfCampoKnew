@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:18322"
 campo_path: "title:17593|title:17595|title:18322"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18322"
-po_version_count: 0
-course_count: 40
+po_version_count: 2
+course_count: 38
 fau_studiengang:
   - title: "Allgemeine und fachbezogene Bildung in der digitalen Welt (Zertifikat)"
     rel_path: "studiengang/allgemeine-und-fachbezogene-bildung-in-der-digitalen-welt-zertifikat.md"
@@ -150,29 +150,19 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Veranstaltungen (40)
+## Prüfungsordnungs-Versionen (2)
 
 ### Deutsch als Zweitsprache und Sprachliche Bildung - Digitalisierungsbezogene Kompetenzen - Seminar
 
-- **Segment:** `exam:15619409` · **unitId:** `126231`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18322|exam:15619376|exam:15619377|exam:15619378|exam:15619398|exam:15619409>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126231&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
+- **Campo-Segment:** `exam:15619409`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18322|exam:15619376|exam:15619377|exam:15619378|exam:15619398|exam:15619409>
 
 ### Deutsch als Zweitsprache und Sprachliche Bildung - Digitalisierungsbezogene Kompetenzen - Seminar
 
-- **Segment:** `exam:15619453` · **unitId:** `126231`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18322|exam:15619420|exam:15619421|exam:15619422|exam:15619442|exam:15619453>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126231&periodId=589>
+- **Campo-Segment:** `exam:15619453`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18322|exam:15619420|exam:15619421|exam:15619422|exam:15619442|exam:15619453>
 
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
+## Veranstaltungen (38)
 
 ### Digitale Karten im Geographieunterricht|GS-MS-RS-GY (in N, Block: 08.-10.04.26, 9-18h) - Seminar
 
@@ -750,6 +740,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### DDI-BSI - Fit für die Lehre von morgen  Ohne Angst vor Technik mit Bits und Bytes Bus-fahren" - Vorlesung mit Übung
@@ -760,6 +751,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### Dig.Medien - Potenziale und Herausforderungen digitaler Medien im Chemieunterricht - Seminar

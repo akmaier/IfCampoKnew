@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:17634"
 campo_path: "title:17593|title:17602|title:17634"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17634"
-po_version_count: 1
-course_count: 91
+po_version_count: 2
+course_count: 90
 ---
 
 # Materials Physics
@@ -14,14 +14,19 @@ course_count: 91
 
 _Section: Studiengänge der Naturwissenschaftlichen Fakultät_  
 
-## Prüfungsordnungs-Versionen (1)
+## Prüfungsordnungs-Versionen (2)
 
 ### 66991 Advanced lab courses and projects
 
 - **Campo-Segment:** `exam:14266667`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17634|exam:14266656|exam:14266657|exam:14266658|exam:14266667>
 
-## Veranstaltungen (91)
+### 67097 Seminar on Quantum Control
+
+- **Campo-Segment:** `exam:14266754`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17634|exam:14266656|exam:14266657|exam:14266658|exam:14266684|exam:14266754>
+
+## Veranstaltungen (90)
 
 ### Machine Learning for Physicists (PW-ML) - Hauptseminar
 
@@ -268,12 +273,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Segment:** `exam:14266744` · **unitId:** `119126`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17634|exam:14266656|exam:14266657|exam:14266658|exam:14266684|exam:14266744>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119126&periodId=589>
-
-### 67097 Seminar on Quantum Control
-
-- **Segment:** `exam:14266754` · **unitId:** `124008`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17634|exam:14266656|exam:14266657|exam:14266658|exam:14266684|exam:14266754>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124008&periodId=589>
 
 ### 67104 Quantum materials
 
@@ -560,7 +559,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Mo | Mo | 14:00–15:30 | — | 11906.01.030 (H21) 11906.01.040 (H20) 11907.01.030 (H19) 11907.01.040 (H18) 12801.01.210 (H11) |
+| Mo | Mo | 14:00–15:30 | — | — |
 
 ### 71881 Quantum Communication - Leistung
 

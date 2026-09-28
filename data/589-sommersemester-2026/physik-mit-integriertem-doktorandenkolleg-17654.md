@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:17654"
 campo_path: "title:17593|title:17602|title:17654"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654"
-po_version_count: 8
-course_count: 455
+po_version_count: 39
+course_count: 424
 ---
 
 # Physik mit integriertem Doktorandenkolleg
@@ -14,7 +14,12 @@ course_count: 455
 
 _Section: Studiengänge der Naturwissenschaftlichen Fakultät_  
 
-## Prüfungsordnungs-Versionen (8)
+## Prüfungsordnungs-Versionen (39)
+
+### 47699 Introduction to Medical Physics II
+
+- **Campo-Segment:** `exam:14353492`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14353220|exam:14353221|exam:14353224|exam:14353243|exam:14353492>
 
 ### 66084 Informatik
 
@@ -56,7 +61,157 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Campo-Segment:** `exam:14346299`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14346208|exam:14346209|exam:14346212|exam:14346213|exam:14346299>
 
-## Veranstaltungen (455)
+### 66987 From Quantum Field Theory in Curved Spacetime to Loop Quantum Gravity
+
+- **Campo-Segment:** `exam:15911537`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14353220|exam:14353221|exam:14353224|exam:14353499|exam:15911537>
+
+### 66991 Quantum Information Theory
+
+- **Campo-Segment:** `exam:15911974`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14341112|exam:14341113|exam:14341116|exam:14342843|exam:15911974>
+
+### 66991 Quantum Information Theory
+
+- **Campo-Segment:** `exam:15911976`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14346208|exam:14346209|exam:14346212|exam:14347923|exam:15911976>
+
+### 66991 Quantum Information Theory
+
+- **Campo-Segment:** `exam:15911828`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14353220|exam:14353221|exam:14353224|exam:14353243|exam:15911828>
+
+### 67023 Optical properties of solids
+
+- **Campo-Segment:** `exam:14343165`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14341112|exam:14341113|exam:14341116|exam:14342843|exam:14343165>
+
+### 67023 Optical properties of solids
+
+- **Campo-Segment:** `exam:14348245`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14346208|exam:14346209|exam:14346212|exam:14347923|exam:14348245>
+
+### 67023 Optical properties of solids
+
+- **Campo-Segment:** `exam:15797368`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14353220|exam:14353221|exam:14353224|exam:14353243|exam:15797368>
+
+### 67024 Concepts and Implementations of Quantum Error Correction
+
+- **Campo-Segment:** `exam:14343167`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14341112|exam:14341113|exam:14341116|exam:14342843|exam:14343167>
+
+### 67024 Concepts and Implementations of Quantum Error Correction
+
+- **Campo-Segment:** `exam:14348247`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14346208|exam:14346209|exam:14346212|exam:14347923|exam:14348247>
+
+### 67027 Geschichte der Physik - Fachdidaktische Erkundung des Deutschen Museums
+
+- **Campo-Segment:** `exam:14343170`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14341112|exam:14341113|exam:14341116|exam:14342843|exam:14343170>
+
+### 67027 Geschichte der Physik - Fachdidaktische Erkundung des Deutschen Museums
+
+- **Campo-Segment:** `exam:14348250`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14346208|exam:14346209|exam:14346212|exam:14347923|exam:14348250>
+
+### 67028 Current Trends in Correlated Quantum Systems
+
+- **Campo-Segment:** `exam:15767645`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14353220|exam:14353221|exam:14353224|exam:14353499|exam:15767645>
+
+### 67032 Mathematical Foundations of Second Quantization
+
+- **Campo-Segment:** `exam:14343173`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14341112|exam:14341113|exam:14341116|exam:14342843|exam:14343173>
+
+### 67032 Mathematical Foundations of Second Quantization
+
+- **Campo-Segment:** `exam:14348253`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14346208|exam:14346209|exam:14346212|exam:14347923|exam:14348253>
+
+### 67088 Weltbild der Physik
+
+- **Campo-Segment:** `exam:15691771`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14341112|exam:14341113|exam:14341116|exam:14342843|exam:15691771>
+
+### 67088 Weltbild der Physik
+
+- **Campo-Segment:** `exam:15691773`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14346208|exam:14346209|exam:14346212|exam:14347923|exam:15691773>
+
+### 67099 Astrophysics with Gravitational Waves
+
+- **Campo-Segment:** `exam:14343147`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14341112|exam:14341113|exam:14341116|exam:14342843|exam:14343147>
+
+### 67099 Astrophysics with Gravitational Waves
+
+- **Campo-Segment:** `exam:14348227`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14346208|exam:14346209|exam:14346212|exam:14347923|exam:14348227>
+
+### 67141 Elements of Artificial Intelligence for Scientific Discovery
+
+- **Campo-Segment:** `exam:14343144`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14341112|exam:14341113|exam:14341116|exam:14342843|exam:14343144>
+
+### 67141 Elements of Artificial Intelligence for Scientific Discovery
+
+- **Campo-Segment:** `exam:14348224`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14346208|exam:14346209|exam:14346212|exam:14347923|exam:14348224>
+
+### 67141 Elements of Artificial Intelligence for Scientific Discovery
+
+- **Campo-Segment:** `exam:14353487`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14353220|exam:14353221|exam:14353224|exam:14353243|exam:14353487>
+
+### 67143 Advanced nonlinear optics
+
+- **Campo-Segment:** `exam:14353320`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14353220|exam:14353221|exam:14353224|exam:14353243|exam:14353320>
+
+### 67145 Waveguides, optical fibres and photonic crystal fibres
+
+- **Campo-Segment:** `exam:15907855`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14341112|exam:14341113|exam:14341116|exam:14342843|exam:15907855>
+
+### 67145 Waveguides, optical fibres and photonic crystal fibres
+
+- **Campo-Segment:** `exam:15907858`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14346208|exam:14346209|exam:14346212|exam:14347923|exam:15907858>
+
+### 67145 Waveguides, optical fibres and photonic crystal fibres
+
+- **Campo-Segment:** `exam:14353326`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14353220|exam:14353221|exam:14353224|exam:14353243|exam:14353326>
+
+### 67205 Classical and Quantum Optomechanics
+
+- **Campo-Segment:** `exam:14353565`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14353220|exam:14353221|exam:14353224|exam:14353499|exam:14353565>
+
+### 67209 Open Quantum Systems
+
+- **Campo-Segment:** `exam:14343158`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14341112|exam:14341113|exam:14341116|exam:14342843|exam:14343158>
+
+### 67209 Open Quantum Systems
+
+- **Campo-Segment:** `exam:14348238`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14346208|exam:14346209|exam:14346212|exam:14347923|exam:14348238>
+
+### 67209 Open Quantum Systems
+
+- **Campo-Segment:** `exam:14353244`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14353220|exam:14353221|exam:14353224|exam:14353243|exam:14353244>
+
+### 93601 Information Theory and Coding / Informationstheorie und Codierung
+
+- **Campo-Segment:** `exam:14353628`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14353220|exam:14353221|exam:14353224|exam:14353567|exam:14353628>
+
+## Veranstaltungen (424)
 
 ### Übung TPL-4 - Übung
 
@@ -309,12 +464,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Segment:** `exam:14348231` · **unitId:** `125899`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14346208|exam:14346209|exam:14346212|exam:14347923|exam:14348231>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125899&periodId=589>
-
-### 47699 Introduction to Medical Physics II
-
-- **Segment:** `exam:14353492` · **unitId:** `125900`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14353220|exam:14353221|exam:14353224|exam:14353243|exam:14353492>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125900&periodId=589>
 
 ### 48201 Complex Systems I
 
@@ -982,30 +1131,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14346208|exam:14346209|exam:14346212|exam:14346213|exam:14346305>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=51184&periodId=589>
 
-### 66987 From Quantum Field Theory in Curved Spacetime to Loop Quantum Gravity
-
-- **Segment:** `exam:15911537` · **unitId:** `137071`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14353220|exam:14353221|exam:14353224|exam:14353499|exam:15911537>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137071&periodId=589>
-
-### 66991 Quantum Information Theory
-
-- **Segment:** `exam:15911974` · **unitId:** `137085`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14341112|exam:14341113|exam:14341116|exam:14342843|exam:15911974>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137085&periodId=589>
-
-### 66991 Quantum Information Theory
-
-- **Segment:** `exam:15911976` · **unitId:** `137085`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14346208|exam:14346209|exam:14346212|exam:14347923|exam:15911976>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137085&periodId=589>
-
-### 66991 Quantum Information Theory
-
-- **Segment:** `exam:15911828` · **unitId:** `137083`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14353220|exam:14353221|exam:14353224|exam:14353243|exam:15911828>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137083&periodId=589>
-
 ### 66995 Computertomographie - eine theoretische und praktische Einführung
 
 - **Segment:** `exam:14342787` · **unitId:** `70226`
@@ -1168,66 +1293,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14353220|exam:14353221|exam:14353224|exam:14353499|exam:14353559>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121266&periodId=589>
 
-### 67023 Optical properties of solids
-
-- **Segment:** `exam:14343165` · **unitId:** `132259`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14341112|exam:14341113|exam:14341116|exam:14342843|exam:14343165>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132259&periodId=589>
-
-### 67023 Optical properties of solids
-
-- **Segment:** `exam:14348245` · **unitId:** `132259`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14346208|exam:14346209|exam:14346212|exam:14347923|exam:14348245>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132259&periodId=589>
-
-### 67023 Optical properties of solids
-
-- **Segment:** `exam:15797368` · **unitId:** `135510`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14353220|exam:14353221|exam:14353224|exam:14353243|exam:15797368>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135510&periodId=589>
-
-### 67024 Concepts and Implementations of Quantum Error Correction
-
-- **Segment:** `exam:14343167` · **unitId:** `132262`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14341112|exam:14341113|exam:14341116|exam:14342843|exam:14343167>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132262&periodId=589>
-
-### 67024 Concepts and Implementations of Quantum Error Correction
-
-- **Segment:** `exam:14348247` · **unitId:** `132262`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14346208|exam:14346209|exam:14346212|exam:14347923|exam:14348247>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132262&periodId=589>
-
-### 67027 Geschichte der Physik - Fachdidaktische Erkundung des Deutschen Museums
-
-- **Segment:** `exam:14343170` · **unitId:** `132873`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14341112|exam:14341113|exam:14341116|exam:14342843|exam:14343170>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132873&periodId=589>
-
-### 67027 Geschichte der Physik - Fachdidaktische Erkundung des Deutschen Museums
-
-- **Segment:** `exam:14348250` · **unitId:** `132873`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14346208|exam:14346209|exam:14346212|exam:14347923|exam:14348250>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132873&periodId=589>
-
-### 67028 Current Trends in Correlated Quantum Systems
-
-- **Segment:** `exam:15767645` · **unitId:** `135019`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14353220|exam:14353221|exam:14353224|exam:14353499|exam:15767645>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135019&periodId=589>
-
-### 67032 Mathematical Foundations of Second Quantization
-
-- **Segment:** `exam:14343173` · **unitId:** `133802`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14341112|exam:14341113|exam:14341116|exam:14342843|exam:14343173>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133802&periodId=589>
-
-### 67032 Mathematical Foundations of Second Quantization
-
-- **Segment:** `exam:14348253` · **unitId:** `133802`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14346208|exam:14346209|exam:14346212|exam:14347923|exam:14348253>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133802&periodId=589>
-
 ### 67080 Computerphysik und numerische Methoden
 
 - **Segment:** `exam:14342901` · **unitId:** `59346`
@@ -1245,18 +1310,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Segment:** `exam:14353271` · **unitId:** `59662`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14353220|exam:14353221|exam:14353224|exam:14353243|exam:14353271>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59662&periodId=589>
-
-### 67088 Weltbild der Physik
-
-- **Segment:** `exam:15691771` · **unitId:** `134019`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14341112|exam:14341113|exam:14341116|exam:14342843|exam:15691771>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134019&periodId=589>
-
-### 67088 Weltbild der Physik
-
-- **Segment:** `exam:15691773` · **unitId:** `134019`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14346208|exam:14346209|exam:14346212|exam:14347923|exam:15691773>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134019&periodId=589>
 
 ### 67089 Mathematical Foundations of Quantum Theory
 
@@ -1341,18 +1394,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Segment:** `exam:14353490` · **unitId:** `125531`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14353220|exam:14353221|exam:14353224|exam:14353243|exam:14353490>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125531&periodId=589>
-
-### 67099 Astrophysics with Gravitational Waves
-
-- **Segment:** `exam:14343147` · **unitId:** `125485`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14341112|exam:14341113|exam:14341116|exam:14342843|exam:14343147>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125485&periodId=589>
-
-### 67099 Astrophysics with Gravitational Waves
-
-- **Segment:** `exam:14348227` · **unitId:** `125485`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14346208|exam:14346209|exam:14346212|exam:14347923|exam:14348227>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125485&periodId=589>
 
 ### 67101 Theory of Soft Matter and Biological Physics
 
@@ -1744,24 +1785,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14353220|exam:14353221|exam:14353224|exam:14353243|exam:14353316>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74909&periodId=589>
 
-### 67141 Elements of Artificial Intelligence for Scientific Discovery
-
-- **Segment:** `exam:14343144` · **unitId:** `125276`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14341112|exam:14341113|exam:14341116|exam:14342843|exam:14343144>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125276&periodId=589>
-
-### 67141 Elements of Artificial Intelligence for Scientific Discovery
-
-- **Segment:** `exam:14348224` · **unitId:** `125276`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14346208|exam:14346209|exam:14346212|exam:14347923|exam:14348224>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125276&periodId=589>
-
-### 67141 Elements of Artificial Intelligence for Scientific Discovery
-
-- **Segment:** `exam:14353487` · **unitId:** `125282`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14353220|exam:14353221|exam:14353224|exam:14353243|exam:14353487>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125282&periodId=589>
-
 ### 67142 Advanced Optical Spectroscopy in Solids
 
 - **Segment:** `exam:14342945` · **unitId:** `74907`
@@ -1780,12 +1803,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14353220|exam:14353221|exam:14353224|exam:14353243|exam:14353318>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74905&periodId=589>
 
-### 67143 Advanced nonlinear optics
-
-- **Segment:** `exam:14353320` · **unitId:** `128411`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14353220|exam:14353221|exam:14353224|exam:14353243|exam:14353320>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128411&periodId=589>
-
 ### 67144 Theoretical Biophysics
 
 - **Segment:** `exam:14342947` · **unitId:** `73912`
@@ -1803,24 +1820,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Segment:** `exam:14353323` · **unitId:** `73910`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14353220|exam:14353221|exam:14353224|exam:14353243|exam:14353323>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73910&periodId=589>
-
-### 67145 Waveguides, optical fibres and photonic crystal fibres
-
-- **Segment:** `exam:15907855` · **unitId:** `136902`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14341112|exam:14341113|exam:14341116|exam:14342843|exam:15907855>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136902&periodId=589>
-
-### 67145 Waveguides, optical fibres and photonic crystal fibres
-
-- **Segment:** `exam:15907858` · **unitId:** `136902`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14346208|exam:14346209|exam:14346212|exam:14347923|exam:15907858>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136902&periodId=589>
-
-### 67145 Waveguides, optical fibres and photonic crystal fibres
-
-- **Segment:** `exam:14353326` · **unitId:** `128410`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14353220|exam:14353221|exam:14353224|exam:14353243|exam:14353326>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128410&periodId=589>
 
 ### 67146 Foundations of Quantum Mechanics
 
@@ -2482,12 +2481,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14353220|exam:14353221|exam:14353224|exam:14353243|exam:14353480>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120855&periodId=589>
 
-### 67205 Classical and Quantum Optomechanics
-
-- **Segment:** `exam:14353565` · **unitId:** `125741`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14353220|exam:14353221|exam:14353224|exam:14353499|exam:14353565>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125741&periodId=589>
-
 ### 67208 Bubbling, squeezing, conducting: the physics of chemically reactive systems
 
 - **Segment:** `exam:14343160` · **unitId:** `128783`
@@ -2499,24 +2492,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Segment:** `exam:14348240` · **unitId:** `128783`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14346208|exam:14346209|exam:14346212|exam:14347923|exam:14348240>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128783&periodId=589>
-
-### 67209 Open Quantum Systems
-
-- **Segment:** `exam:14343158` · **unitId:** `128782`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14341112|exam:14341113|exam:14341116|exam:14342843|exam:14343158>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128782&periodId=589>
-
-### 67209 Open Quantum Systems
-
-- **Segment:** `exam:14348238` · **unitId:** `128782`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14346208|exam:14346209|exam:14346212|exam:14347923|exam:14348238>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128782&periodId=589>
-
-### 67209 Open Quantum Systems
-
-- **Segment:** `exam:14353244` · **unitId:** `128763`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14353220|exam:14353221|exam:14353224|exam:14353243|exam:14353244>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128763&periodId=589>
 
 ### 67211 Quantum Information Processing: Implementations
 
@@ -2794,12 +2769,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14353220|exam:14353221|exam:14353224|exam:14353567|exam:14353621>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70128&periodId=589>
 
-### 93601 Information Theory and Coding / Informationstheorie und Codierung
-
-- **Segment:** `exam:14353628` · **unitId:** `126797`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17654|title:17713|exam:14353220|exam:14353221|exam:14353224|exam:14353567|exam:14353628>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126797&periodId=589>
-
 ### 948057 Grundlagen der biologischen Strahlenwirkung 1
 
 - **Segment:** `exam:14342811` · **unitId:** `69035`
@@ -2948,7 +2917,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 | Einzeltermin | Mi | 16:00–18:00 | 15.04.2026 | 13003.00.836 (HF Hörsaal Physikum) |
 | Einzeltermin | Do | 16:00–18:00 | 16.07.2026 | 13003.00.836 (HF Hörsaal Physikum) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (208)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (197)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -3008,20 +2977,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
-
-### Advanced Programming in Python for research projects
-
-- **Segment:** `unit:121571` · **unitId:** `121571`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121571&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | 14:00–17:00 | — | 14201.00.001 (0.01-142 CIP CIP-Pool Informatik (HuberCIP)) |
 
 ### Advanced Programming in Python for research projects — Vorlesung mit Übung
 
@@ -3242,23 +3197,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 08801.01.020 ( Hörsaal ZMPT 01.[Telefon entfernt].00.020 ( Seminarraum ZMPT 00.020) |
 | wöchentlich | Do | 15:00–17:15 | 16.04.2026–16.07.2026 | 08801.01.020 ( Hörsaal ZMPT 01.020) |
 
-### Bubbling, squeezing, conducting: the physics of chemically reactive systems — Vorlesung mit Übung
-
-- **Segment:** `unit:127137` · **unitId:** `127137`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127137&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung mit Übung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 13101.00.732 (SR 00.732 Seminarraum der Didaktik der Physik) |
-| wöchentlich | Di | 08:00–10:00 | 21.04.2026–14.07.2026 | 13101.00.732 (SR 00.732 Seminarraum der Didaktik der Physik) |
-
 ### Cavity quantum electrodynamics for the control of complex matter — Seminar
 
 - **Segment:** `unit:121233` · **unitId:** `121233`
@@ -3283,36 +3221,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 08801.01.020 ( Hörsaal ZMPT 01.020) |
-
-### Classical and Quantum Optomechanics — Seminar
-
-- **Segment:** `unit:125713` · **unitId:** `125713`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125713&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 16:00–18:00 | 15.04.2026–15.07.2026 | 13101.00.732 (SR 00.732 Seminarraum der Didaktik der Physik) |
-
-### Classical and Quantum Optomechanics
-
-- **Segment:** `unit:125742` · **unitId:** `125742`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125742&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
 
 ### Complex Systems 1: Critical phenomena, networks, evolutionary dynamics, reaction systems — Vorlesung mit Übung
 
@@ -3664,6 +3572,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 
+### Foundations of Quantum Mechanics
+
+- **Segment:** `unit:73808` · **unitId:** `73808`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73808&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
 ### Foundations of Quantum Mechanics — Seminar
 
 - **Segment:** `unit:136619` · **unitId:** `136619`
@@ -3686,35 +3608,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121188&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
-
-### From Quantum Field Theory in Curved Spacetime to Loop Quantum Gravity — Seminar
-
-- **Segment:** `unit:136885` · **unitId:** `136885`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136885&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 15:00–17:00 | 15.05.2026–17.07.2026 | 13101.02.729 (SR 02.729 Seminarraum der Theoretischen Physik III) |
-
-### From Quantum Field Theory in Curved Spacetime to Loop Quantum Gravity
-
-- **Segment:** `unit:137075` · **unitId:** `137075`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137075&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
 
 ### Funktionentheorie II — Vorlesung
 
@@ -3774,7 +3667,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:15–13:45 | 20.04.2026–13.07.2026 | — |
 
 ### Grundlagen der biologischen Strahlenwirkung 1
 
@@ -3912,20 +3812,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
-
-### Introduction to Medical Physics II
-
-- **Segment:** `unit:125898` · **unitId:** `125898`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125898&periodId=589>
-
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | 10:15–11:15 | — | 05101.00.016 (SR) |
 
 ### Introduction to medical physics in radiation therapy
 
@@ -4106,36 +3992,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Turnus:** Unregelmäßig
 
-### Logical foundations of empirical knowledge
-
-- **Segment:** `unit:128754` · **unitId:** `128754`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128754&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch oder Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### Logical foundations of empirical knowledge — Seminar
-
-- **Segment:** `unit:128848` · **unitId:** `128848`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128848&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | — |
-
 ### Machine Learning for Physicists
 
 - **Segment:** `unit:53490` · **unitId:** `53490`
@@ -4281,20 +4137,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Blockveranstaltung | — | 09:00–17:00 | 31.08.2026–11.09.2026 | 11302.00.153 (00.153-113 CIP CIP-Pool Informatik (CIP3)) |
-
-### Mathematical Foundations of Quantum Theory
-
-- **Segment:** `unit:129124` · **unitId:** `129124`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=129124&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mi | Mi | — | — | — |
 
 ### Mathematical Foundations of Quantum Theory — Vorlesung mit Übung
 
@@ -4485,7 +4327,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:00–15:30 | 16.04.2026–16.07.2026 | 13003.00.877 (HC Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 
 ### Multiwavelength astronomy — Hauptseminar
 
@@ -4615,20 +4464,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 13101.02.729 (SR 02.729 Seminarraum der Theoretischen Physik III) |
 | wöchentlich | Mi | 14:00–17:00 | 15.04.2026–15.07.2026 | 13101.02.779 (SR 02.779 Seminarraum der Theoretischen Physik II) |
 | wöchentlich | Fr | 14:00–17:00 | 17.04.2026–17.07.2026 | 13101.01.683 (SR 01.683 Seminarraum der Theoretischen Physik I) |
-
-### Open Quantum Systems
-
-- **Segment:** `unit:128764` · **unitId:** `128764`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128764&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
 
 ### Optical properties of solids — Hauptseminar
 
@@ -4910,36 +4745,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 
-### Quantum Information Theory — Hauptseminar / Masterseminar
-
-- **Segment:** `unit:133871` · **unitId:** `133871`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133871&periodId=589>
-
-- **Veranstaltungsart:** Hauptseminar / Masterseminar
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 16:00–18:00 | 14.04.2026–14.07.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
-
-### Quantum Information Theory
-
-- **Segment:** `unit:137084` · **unitId:** `137084`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137084&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | 16:00–18:00 | — | 10402.02.127 (SRTL (307) Seminarraum Tandemlabor (307)) |
-
 ### Rechenmethoden der Physik
 
 - **Segment:** `unit:51185` · **unitId:** `51185`
@@ -5190,7 +4995,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| nach Vereinbarung | — | — | — | — |
+| wöchentlich | Mi | 14:00–17:00 | 15.04.2026–15.07.2026 | — |
 
 ### Theoretical Surface Physics — Vorlesung
 
@@ -5299,6 +5104,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Di | Di | 16:00–18:00 | — | — |
+
+### Vorlesung Physikalische Chemie
+
+- **Segment:** `unit:25129` · **unitId:** `25129`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=25129&periodId=589>
+
+- **ECTS-Punkte:** 4.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Waveguides, optical fibres and photonic crystal fibres
 

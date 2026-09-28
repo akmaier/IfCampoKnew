@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:17633"
 campo_path: "title:17593|title:17602|title:17633"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17633"
-po_version_count: 32
-course_count: 342
+po_version_count: 49
+course_count: 325
 ---
 
 # Physische Geographie
@@ -14,7 +14,7 @@ course_count: 342
 
 _Section: Studiengänge der Naturwissenschaftlichen Fakultät_  
 
-## Prüfungsordnungs-Versionen (32)
+## Prüfungsordnungs-Versionen (49)
 
 ### 1732 Modulpaket 1: Geowissenschaften
 
@@ -176,7 +176,92 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Campo-Segment:** `exam:14206381`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17633|exam:14206048|exam:14206051|exam:14206053|exam:14206142|exam:14206375|exam:14206381>
 
-## Veranstaltungen (342)
+### 62924 Allgemeine Biologie II: Übungen zur Morphologie und Anatomie der Pflanzen und Tiere
+
+- **Campo-Segment:** `exam:14200324`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17633|exam:14200301|exam:14200304|exam:14200306|exam:14200307|exam:14200308|exam:14200324>
+
+### 62924 Allgemeine Biologie II: Übungen zur Morphologie und Anatomie der Pflanzen und Tiere
+
+- **Campo-Segment:** `exam:14202289`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17633|exam:14202266|exam:14202269|exam:14202271|exam:14202272|exam:14202273|exam:14202289>
+
+### 62924 Allgemeine Biologie II: Übungen zur Morphologie und Anatomie der Pflanzen und Tiere
+
+- **Campo-Segment:** `exam:14204201`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17633|exam:14204178|exam:14204181|exam:14204183|exam:14204184|exam:14204185|exam:14204201>
+
+### 62924 Allgemeine Biologie II: Übungen zur Morphologie und Anatomie der Pflanzen und Tiere
+
+- **Campo-Segment:** `exam:14206159`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17633|exam:14206048|exam:14206051|exam:14206053|exam:14206142|exam:14206143|exam:14206159>
+
+### 62999 Botanische Bestimmungsübungen (Nebenfachausbildung)
+
+- **Campo-Segment:** `exam:14200327`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17633|exam:14200301|exam:14200304|exam:14200306|exam:14200307|exam:14200308|exam:14200327>
+
+### 62999 Botanische Bestimmungsübungen (Nebenfachausbildung)
+
+- **Campo-Segment:** `exam:14202292`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17633|exam:14202266|exam:14202269|exam:14202271|exam:14202272|exam:14202273|exam:14202292>
+
+### 62999 Botanische Bestimmungsübungen (Nebenfachausbildung)
+
+- **Campo-Segment:** `exam:14204204`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17633|exam:14204178|exam:14204181|exam:14204183|exam:14204184|exam:14204185|exam:14204204>
+
+### 62999 Botanische Bestimmungsübungen (Nebenfachausbildung)
+
+- **Campo-Segment:** `exam:14206162`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17633|exam:14206048|exam:14206051|exam:14206053|exam:14206142|exam:14206143|exam:14206162>
+
+### 66297 Einführung in die Astronomie 1
+
+- **Campo-Segment:** `exam:17734910`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17633|exam:14200301|exam:14200304|exam:14200306|exam:14200307|exam:14200483|exam:17734910>
+
+### 66297 Einführung in die Astronomie 1
+
+- **Campo-Segment:** `exam:17734970`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17633|exam:14202266|exam:14202269|exam:14202271|exam:14202272|exam:14202410|exam:17734970>
+
+### 66297 Einführung in die Astronomie 1
+
+- **Campo-Segment:** `exam:17734973`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17633|exam:14204178|exam:14204181|exam:14204183|exam:14204184|exam:14204322|exam:17734973>
+
+### 66297 Einführung in die Astronomie 1
+
+- **Campo-Segment:** `exam:17734976`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17633|exam:14206048|exam:14206051|exam:14206053|exam:14206142|exam:14206280|exam:17734976>
+
+### 93078 Einführung in Datenbanken für Wirtschaftsinformatik
+
+- **Campo-Segment:** `exam:14202366`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17633|exam:14202266|exam:14202269|exam:14202271|exam:14202272|exam:14202363|exam:14202366>
+
+### 93078 Einführung in Datenbanken für Wirtschaftsinformatik
+
+- **Campo-Segment:** `exam:14204278`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17633|exam:14204178|exam:14204181|exam:14204183|exam:14204184|exam:14204275|exam:14204278>
+
+### 93078 Einführung in Datenbanken für Wirtschaftsinformatik
+
+- **Campo-Segment:** `exam:14206236`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17633|exam:14206048|exam:14206051|exam:14206053|exam:14206142|exam:14206233|exam:14206236>
+
+### Seminar Berufsfeld Geographie - Seminar Berufsfeld Geographie - Seminar
+
+- **Campo-Segment:** `exam:14204509`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17633|exam:14204178|exam:14204181|exam:14204183|exam:14204506|exam:14204509>
+
+### Seminar Berufsfeld Geographie - Seminar Berufsfeld Geographie - Seminar
+
+- **Campo-Segment:** `exam:14206138`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17633|exam:14206048|exam:14206051|exam:14206053|exam:14206135|exam:14206138>
+
+## Veranstaltungen (325)
 
 ### FAU Ringvorlesung "Sustainability" - Vorlesung
 
@@ -1280,6 +1365,13 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111044&periodId=589>
 
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | — | — | — |
 
 ### 40771 Angewandte Physische Geographie - Leistung
 
@@ -1288,6 +1380,13 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111044&periodId=589>
 
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | — | — | — |
 
 ### 40791 Geographisches Wahlmodul Gesellschaft-Umwelt-Analyse - Leistung
 
@@ -1295,7 +1394,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17633|exam:14206048|exam:14206051|exam:14206053|exam:14206125|exam:14206126>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117201&periodId=589>
 
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -1853,30 +1951,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17633|exam:14206048|exam:14206051|exam:14206053|exam:14206142|exam:14206143|exam:14206148>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39579&periodId=589>
 
-### 62924 Allgemeine Biologie II: Übungen zur Morphologie und Anatomie der Pflanzen und Tiere
-
-- **Segment:** `exam:14200324` · **unitId:** `126085`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17633|exam:14200301|exam:14200304|exam:14200306|exam:14200307|exam:14200308|exam:14200324>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126085&periodId=589>
-
-### 62924 Allgemeine Biologie II: Übungen zur Morphologie und Anatomie der Pflanzen und Tiere
-
-- **Segment:** `exam:14202289` · **unitId:** `126085`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17633|exam:14202266|exam:14202269|exam:14202271|exam:14202272|exam:14202273|exam:14202289>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126085&periodId=589>
-
-### 62924 Allgemeine Biologie II: Übungen zur Morphologie und Anatomie der Pflanzen und Tiere
-
-- **Segment:** `exam:14204201` · **unitId:** `126085`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17633|exam:14204178|exam:14204181|exam:14204183|exam:14204184|exam:14204185|exam:14204201>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126085&periodId=589>
-
-### 62924 Allgemeine Biologie II: Übungen zur Morphologie und Anatomie der Pflanzen und Tiere
-
-- **Segment:** `exam:14206159` · **unitId:** `126085`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17633|exam:14206048|exam:14206051|exam:14206053|exam:14206142|exam:14206143|exam:14206159>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126085&periodId=589>
-
 ### 62940 Zoologie
 
 - **Segment:** `exam:14200316` · **unitId:** `26542`
@@ -1924,30 +1998,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Segment:** `exam:14206155` · **unitId:** `42644`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17633|exam:14206048|exam:14206051|exam:14206053|exam:14206142|exam:14206143|exam:14206155>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=42644&periodId=589>
-
-### 62999 Botanische Bestimmungsübungen (Nebenfachausbildung)
-
-- **Segment:** `exam:14200327` · **unitId:** `132292`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17633|exam:14200301|exam:14200304|exam:14200306|exam:14200307|exam:14200308|exam:14200327>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132292&periodId=589>
-
-### 62999 Botanische Bestimmungsübungen (Nebenfachausbildung)
-
-- **Segment:** `exam:14202292` · **unitId:** `132292`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17633|exam:14202266|exam:14202269|exam:14202271|exam:14202272|exam:14202273|exam:14202292>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132292&periodId=589>
-
-### 62999 Botanische Bestimmungsübungen (Nebenfachausbildung)
-
-- **Segment:** `exam:14204204` · **unitId:** `132292`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17633|exam:14204178|exam:14204181|exam:14204183|exam:14204184|exam:14204185|exam:14204204>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132292&periodId=589>
-
-### 62999 Botanische Bestimmungsübungen (Nebenfachausbildung)
-
-- **Segment:** `exam:14206162` · **unitId:** `132292`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17633|exam:14206048|exam:14206051|exam:14206053|exam:14206142|exam:14206143|exam:14206162>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132292&periodId=589>
 
 ### 63632 Geowissenschaften für Geographen
 
@@ -2327,30 +2377,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17633|exam:14206048|exam:14206051|exam:14206053|exam:14206142|exam:14206280|exam:14206307>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69899&periodId=589>
 
-### 66297 Einführung in die Astronomie 1
-
-- **Segment:** `exam:17734910` · **unitId:** `138872`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17633|exam:14200301|exam:14200304|exam:14200306|exam:14200307|exam:14200483|exam:17734910>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138872&periodId=589>
-
-### 66297 Einführung in die Astronomie 1
-
-- **Segment:** `exam:17734970` · **unitId:** `138872`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17633|exam:14202266|exam:14202269|exam:14202271|exam:14202272|exam:14202410|exam:17734970>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138872&periodId=589>
-
-### 66297 Einführung in die Astronomie 1
-
-- **Segment:** `exam:17734973` · **unitId:** `138872`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17633|exam:14204178|exam:14204181|exam:14204183|exam:14204184|exam:14204322|exam:17734973>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138872&periodId=589>
-
-### 66297 Einführung in die Astronomie 1
-
-- **Segment:** `exam:17734976` · **unitId:** `138872`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17633|exam:14206048|exam:14206051|exam:14206053|exam:14206142|exam:14206280|exam:17734976>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138872&periodId=589>
-
 ### 66621 Experimentalphysik für Naturwissenschaftler I
 
 - **Segment:** `exam:14200512` · **unitId:** `68272`
@@ -2626,24 +2652,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Segment:** `exam:14206350` · **unitId:** `55513`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17633|exam:14206048|exam:14206051|exam:14206053|exam:14206142|exam:14206321|exam:14206350>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55513&periodId=589>
-
-### 93078 Einführung in Datenbanken für Wirtschaftsinformatik
-
-- **Segment:** `exam:14202366` · **unitId:** `131317`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17633|exam:14202266|exam:14202269|exam:14202271|exam:14202272|exam:14202363|exam:14202366>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131317&periodId=589>
-
-### 93078 Einführung in Datenbanken für Wirtschaftsinformatik
-
-- **Segment:** `exam:14204278` · **unitId:** `131317`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17633|exam:14204178|exam:14204181|exam:14204183|exam:14204184|exam:14204275|exam:14204278>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131317&periodId=589>
-
-### 93078 Einführung in Datenbanken für Wirtschaftsinformatik
-
-- **Segment:** `exam:14206236` · **unitId:** `131317`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17633|exam:14206048|exam:14206051|exam:14206053|exam:14206142|exam:14206233|exam:14206236>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131317&periodId=589>
 
 ### 93105 Sichere Systeme
 
@@ -3766,48 +3774,6 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 | Einzeltermin | Fr | 13:00–14:00 | 30.01.2026 | 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
 | wöchentlich | Mo | 10:15–11:45 | 13.04.2026–13.07.2026 | 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
 
-### Seminar Berufsfeld Geographie - Seminar Berufsfeld Geographie - Seminar
-
-- **Segment:** `exam:14204509` · **unitId:** `126279`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17633|exam:14204178|exam:14204181|exam:14204183|exam:14204506|exam:14204509>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126279&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 16:15–17:45 | 05.05.2026 | 55801.00.147 (00.147 Seminarraum 1 Seminarraum 1 Geographie Tennenlohe) |
-| Einzeltermin | Di | 16:15–17:45 | 19.05.2026 | — |
-| Einzeltermin | Di | 16:15–17:45 | 02.06.2026 | 55801.00.210 (00.210 Seminarraum) |
-| Einzeltermin | Di | 16:15–17:45 | 16.06.2026 | — |
-| Einzeltermin | Di | 16:15–17:45 | 30.06.2026 | — |
-
-### Seminar Berufsfeld Geographie - Seminar Berufsfeld Geographie - Seminar
-
-- **Segment:** `exam:14206138` · **unitId:** `126279`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17633|exam:14206048|exam:14206051|exam:14206053|exam:14206135|exam:14206138>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126279&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 16:15–17:45 | 05.05.2026 | 55801.00.147 (00.147 Seminarraum 1 Seminarraum 1 Geographie Tennenlohe) |
-| Einzeltermin | Di | 16:15–17:45 | 19.05.2026 | — |
-| Einzeltermin | Di | 16:15–17:45 | 02.06.2026 | 55801.00.210 (00.210 Seminarraum) |
-| Einzeltermin | Di | 16:15–17:45 | 16.06.2026 | — |
-| Einzeltermin | Di | 16:15–17:45 | 30.06.2026 | — |
-
 ### VL St - Vorlesung Methodologie und Statistik (Vorlesung Qualitative und quantitative Methoden) (PO2022) - Vorlesung
 
 - **Segment:** `exam:14204452` · **unitId:** `99900`
@@ -3846,7 +3812,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 | Einzeltermin | Do | 08:15–09:45 | 30.07.2026 | 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
 | Einzeltermin | Mi | 10:15–11:45 | 07.10.2026 | 55801.00.210 (00.210 Seminarraum) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (153)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (154)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -3905,21 +3871,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Allgemeine Biologie II: Übungen zur Morphologie und Anatomie der Pflanzen und Tiere
-
-- **Segment:** `unit:126054` · **unitId:** `126054`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126054&periodId=589>
-
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
+- **Turnus:** nur im Wintersemester
 
 ### Allgemeine und Anorganische Chemie (mit Experimenten) — Vorlesung
 
@@ -4641,6 +4594,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** in jedem Semester
 
+### Informatik 1 für Nebenfachstudierende - Grundmodul
+
+- **Segment:** `unit:46813` · **unitId:** `46813`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46813&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | 14:00–16:00 | — | 11501.00.156 (H16 Hörsaal 16) |
+
 ### Informatik 1 für Nebenfachstudierende - Grundmodul — Vorlesung
 
 - **Segment:** `unit:105613` · **unitId:** `105613`
@@ -4992,6 +4959,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 4.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
 ### Minerale und Gesteine für Studierende der Geographie (und Mod. Nat.) — Seminar
@@ -5061,7 +5029,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung | — | 08:00–18:00 | 28.09.2026–09.10.2026 | — |
+| Blockveranstaltung | — | 08:00–18:00 | 14.09.2026–25.09.2026 | — |
 
 ### Paläobiologie I
 
@@ -5293,6 +5261,23 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Do | Do | 10:30–12:00 | — | — |
+
+### Sedimentologie - System Erde IV — Vorlesung mit Übung
+
+- **Segment:** `unit:91525` · **unitId:** `91525`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91525&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:30–10:00 | 14.04.2026–14.07.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
+| wöchentlich | Do | 10:30–12:00 | 16.04.2026–16.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
 
 ### Seminar Einführung in GIS
 
@@ -5768,7 +5753,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 12:00–12:45 | 23.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Do | 11:00–11:45 | 23.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
 
 ### Übungen zur Vorlesung Betriebswirtschaftslehre II
 

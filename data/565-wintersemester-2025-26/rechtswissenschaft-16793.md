@@ -510,12 +510,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nicht in diesem Semester
 
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 16:00–18:00 | 04.11.2025–16.12.2025 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
-
 ### Aktuelle Rechtsprechung in Strafsachen - Vorlesung
 
 - **Segment:** `exam:12093684` · **unitId:** `112075`
@@ -524,12 +518,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nicht in diesem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 16:00–18:00 | 04.11.2025–16.12.2025 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
 
 ### Aktuelle Rechtsprechung in Strafsachen - Vorlesung
 
@@ -540,12 +528,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nicht in diesem Semester
 
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 16:00–18:00 | 04.11.2025–16.12.2025 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
-
 ### Aktuelle Rechtsprechung in Strafsachen - Vorlesung
 
 - **Segment:** `exam:12097572` · **unitId:** `112075`
@@ -554,12 +536,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nicht in diesem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 16:00–18:00 | 04.11.2025–16.12.2025 | 06102.02.282 ( JDC R 2.282 Prüfungsraum 2.282 Juridicum) 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
 
 ### Aktuelle Rechtsprechung Zivilrecht - Vorlesung
 
@@ -4513,17 +4489,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131339&periodId=565>
 
 - **Veranstaltungsart:** Proseminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–17:00 | 24.10.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
-| Einzeltermin | Fr | 14:00–17:00 | 31.10.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
-| Einzeltermin | Fr | 14:00–18:00 | 16.01.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
-| Einzeltermin | Fr | 14:00–18:00 | 23.01.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
 
 ### Proseminar: Recht trifft KI - Proseminar
 
@@ -4532,17 +4498,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131339&periodId=565>
 
 - **Veranstaltungsart:** Proseminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–17:00 | 24.10.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
-| Einzeltermin | Fr | 14:00–17:00 | 31.10.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
-| Einzeltermin | Fr | 14:00–18:00 | 16.01.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
-| Einzeltermin | Fr | 14:00–18:00 | 23.01.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
 
 ### Proseminar: Recht trifft KI - Proseminar
 
@@ -4551,17 +4507,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131339&periodId=565>
 
 - **Veranstaltungsart:** Proseminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–17:00 | 24.10.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
-| Einzeltermin | Fr | 14:00–17:00 | 31.10.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
-| Einzeltermin | Fr | 14:00–18:00 | 16.01.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
-| Einzeltermin | Fr | 14:00–18:00 | 23.01.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
 
 ### Proseminar: Recht trifft KI - Proseminar
 
@@ -4570,17 +4516,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131339&periodId=565>
 
 - **Veranstaltungsart:** Proseminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–17:00 | 24.10.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
-| Einzeltermin | Fr | 14:00–17:00 | 31.10.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
-| Einzeltermin | Fr | 14:00–18:00 | 16.01.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
-| Einzeltermin | Fr | 14:00–18:00 | 23.01.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
 
 ### Proseminar: Recht trifft KI - Proseminar
 
@@ -4589,17 +4525,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131339&periodId=565>
 
 - **Veranstaltungsart:** Proseminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–17:00 | 24.10.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
-| Einzeltermin | Fr | 14:00–17:00 | 31.10.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
-| Einzeltermin | Fr | 14:00–18:00 | 16.01.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
-| Einzeltermin | Fr | 14:00–18:00 | 23.01.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
 
 ### Proseminar: Recht trifft KI - Proseminar
 
@@ -4608,17 +4534,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131339&periodId=565>
 
 - **Veranstaltungsart:** Proseminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 14:00–17:00 | 24.10.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
-| Einzeltermin | Fr | 14:00–17:00 | 31.10.2025 | 06102.01.281 ( JDC R 1.281 Seminarraum 1.281 Juridicum) |
-| Einzeltermin | Fr | 14:00–18:00 | 16.01.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
-| Einzeltermin | Fr | 14:00–18:00 | 23.01.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
 
 ### Psychologische Grundlagen des Verhandelns - Workshop
 
@@ -6720,7 +6636,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16793|exam:12091587|exam:12091588|exam:12091589|exam:12091590|exam:12091591|exam:12091599>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=13485&periodId=565>
 
-- **ECTS-Punkte:** 0.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -6735,7 +6650,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16793|exam:12093413|exam:12093414|exam:12093415|exam:12093416|exam:12093417|exam:12093425>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=13485&periodId=565>
 
-- **ECTS-Punkte:** 0.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -6750,7 +6664,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16793|exam:12095354|exam:12095355|exam:12095356|exam:12095357|exam:12095358|exam:12095366>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=13485&periodId=565>
 
-- **ECTS-Punkte:** 0.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -8461,9 +8374,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16793|exam:12091587|exam:12091588|exam:12091675|exam:12091924|exam:12091934>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88669&periodId=565>
 
-- **Veranstaltungsart:** Propädeutische Übung
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -8477,9 +8388,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16793|exam:12093413|exam:12093414|exam:12093616|exam:12093865|exam:12093875>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88669&periodId=565>
 
-- **Veranstaltungsart:** Propädeutische Übung
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -8493,9 +8402,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16793|exam:12095354|exam:12095355|exam:12095558|exam:12095807|exam:12095817>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88669&periodId=565>
 
-- **Veranstaltungsart:** Propädeutische Übung
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -8509,9 +8416,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16767|title:16793|exam:12097450|exam:12097460>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88669&periodId=565>
 
-- **Veranstaltungsart:** Propädeutische Übung
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -10420,7 +10325,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 08:00–10:00 | 14.10.2025–03.02.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (62)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (154)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -10439,10 +10344,70 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 
+### Aktuelle BFH-Rechtsprechung (in Bamberg) — Vorlesung
+
+- **Segment:** `unit:91727` · **unitId:** `91727`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91727&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Wintersemester
+
+### Anfängerhausarbeit im Bürgerlichen Recht — Vorlesung mit Übung
+
+- **Segment:** `unit:114303` · **unitId:** `114303`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114303&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+
+### Antike Rechtsgeschichte — Vorlesung
+
+- **Segment:** `unit:94293` · **unitId:** `94293`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94293&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Sommersemester
+
+### Arbeitsgerichtl. Verfahren — Vorlesung
+
+- **Segment:** `unit:108630` · **unitId:** `108630`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=108630&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Sommersemester
+
 ### Bankrecht — Vorlesung
 
 - **Segment:** `unit:123935` · **unitId:** `123935`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123935&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+
+### Bayer. Sicherheits- und Polizeirecht — Vorlesung mit Übung
+
+- **Segment:** `unit:107591` · **unitId:** `107591`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107591&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+
+### BGB AT — Vorlesung mit Übung
+
+- **Segment:** `unit:108628` · **unitId:** `108628`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=108628&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **Turnus:** in jedem Semester
+
+### BGB AT — Vorlesung
+
+- **Segment:** `unit:140378` · **unitId:** `140378`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=140378&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+
+### Bilanzrecht — Vorlesung
+
+- **Segment:** `unit:111669` · **unitId:** `111669`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111669&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
 
@@ -10454,10 +10419,53 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Masterseminar
 - **Turnus:** nur im Sommersemester
 
+### Doktorandenseminar
+
+- **Segment:** `unit:120498` · **unitId:** `120498`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120498&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+
+### Einführung in das Bayerische Verfassungsrecht — Vorlesung
+
+- **Segment:** `unit:137990` · **unitId:** `137990`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137990&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+
+### Einführung in das BGB/BGB-AT — Vorlesung
+
+- **Segment:** `unit:115712` · **unitId:** `115712`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115712&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Wintersemester
+
 ### Einführung in das Energierecht — Vorlesung
 
 - **Segment:** `unit:119978` · **unitId:** `119978`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119978&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+
+### Einführung in das französische Recht — Vorlesung
+
+- **Segment:** `unit:122356` · **unitId:** `122356`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122356&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+
+### Einführung in das Recht der Verkehrswende und der Energiewende — Vorlesung
+
+- **Segment:** `unit:134574` · **unitId:** `134574`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134574&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+
+### Einführung in das Recht des Weltraumes — Vorlesung
+
+- **Segment:** `unit:133945` · **unitId:** `133945`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133945&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
 
@@ -10468,12 +10476,44 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 
+### Einführung in das Weltraumrecht — Vorlesung
+
+- **Segment:** `unit:137991` · **unitId:** `137991`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137991&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+
+### Einführung in den Examenskurs — Vorlesung
+
+- **Segment:** `unit:99191` · **unitId:** `99191`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99191&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Wintersemester
+
 ### Einführung in die Rechtsökonomik — Vorlesung
 
 - **Segment:** `unit:96060` · **unitId:** `96060`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96060&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Sommersemester
+
+### Einführungswoche Rechtswissenschaften — Sonstige Lehrveranstaltung
+
+- **Segment:** `unit:86069` · **unitId:** `86069`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86069&periodId=565>
+
+- **Veranstaltungsart:** Sonstige Lehrveranstaltung
+- **Turnus:** in jedem Semester
+
+### Erbrecht — Vorlesung
+
+- **Segment:** `unit:96357` · **unitId:** `96357`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96357&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 7.0
 - **Turnus:** nur im Sommersemester
 
 ### EuR I Recht der Europäischen Union und Staatsrecht III — Vorlesung
@@ -10503,6 +10543,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
+### Europarecht III — Vorlesung
+
+- **Segment:** `unit:83726` · **unitId:** `83726`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83726&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Sommersemester
+
+### Europäische Grundrechte (Europarecht III) ( Schwerpunktbereich 5+11 ) — Vorlesung
+
+- **Segment:** `unit:127029` · **unitId:** `127029`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127029&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+
 ### Europäische Privatrechtsgeschichte der Neuzeit — Vorlesung
 
 - **Segment:** `unit:97751` · **unitId:** `97751`
@@ -10511,6 +10566,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Sommersemester
 
+### Europäisches Arbeitsrecht — Vorlesung
+
+- **Segment:** `unit:137885` · **unitId:** `137885`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137885&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+
+### Europäisches Arbeitsrecht SPB 7 — Vorlesung
+
+- **Segment:** `unit:122788` · **unitId:** `122788`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122788&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** Unregelmäßig
+
 ### Examens-Crashkurs Strafrecht — Repetitorium
 
 - **Segment:** `unit:112977` · **unitId:** `112977`
@@ -10518,10 +10588,81 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Repetitorium
 
+### Examensklausurenkurs
+
+- **Segment:** `unit:83660` · **unitId:** `83660`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83660&periodId=565>
+
+- **Veranstaltungsart:** Klausurenkurs
+- **Turnus:** in jedem Semester
+
+### Examenskurs Arbeitsrecht — Vorlesung
+
+- **Segment:** `unit:99836` · **unitId:** `99836`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99836&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Sommersemester
+
 ### Examenskurs BT — Vorlesung
 
 - **Segment:** `unit:118775` · **unitId:** `118775`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118775&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+
+### Examenskurs Europarecht — Vorlesung
+
+- **Segment:** `unit:88075` · **unitId:** `88075`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88075&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Sommersemester
+
+### Examenskurs Europarecht — Vorlesung
+
+- **Segment:** `unit:103880` · **unitId:** `103880`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103880&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Wintersemester
+
+### Examenskurs Gesetzliche Schuldverhältnisse und Verbraucherprivatrecht — Vorlesung
+
+- **Segment:** `unit:92614` · **unitId:** `92614`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92614&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Sommersemester
+
+### Examenskurs Strafrecht AT — Vorlesung
+
+- **Segment:** `unit:98344` · **unitId:** `98344`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98344&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Wintersemester
+
+### Examenskurs Strafrecht BT — Vorlesung
+
+- **Segment:** `unit:102644` · **unitId:** `102644`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102644&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Sommersemester
+
+### Examenskurs Aktuelle Rechtsprechung im Öffentlichen Recht" — Übung
+
+- **Segment:** `unit:90375` · **unitId:** `90375`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90375&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **Turnus:** in jedem Semester
+
+### Examenskurs Öffentliches Recht I — Vorlesung
+
+- **Segment:** `unit:133346` · **unitId:** `133346`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133346&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
 
@@ -10585,6 +10726,37 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 
+### Grundkurs Öffentliches Recht II (Grundrechte) — Vorlesung
+
+- **Segment:** `unit:95292` · **unitId:** `95292`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95292&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Sommersemester
+
+### Grundrechte — Vorlesung
+
+- **Segment:** `unit:85714` · **unitId:** `85714`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85714&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Sommersemester
+
+### Grundzüge des Familienrechts — Vorlesung
+
+- **Segment:** `unit:102307` · **unitId:** `102307`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102307&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Sommersemester
+
+### Grundzüge des Gesellschaftsrechts — Vorlesung
+
+- **Segment:** `unit:111781` · **unitId:** `111781`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111781&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+
 ### Grundzüge des Handelsrechts — Vorlesung
 
 - **Segment:** `unit:111782` · **unitId:** `111782`
@@ -10599,6 +10771,31 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 
+### Hochschulrecht — Vorlesung
+
+- **Segment:** `unit:85618` · **unitId:** `85618`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85618&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Wintersemester
+
+### Human Rights in International Organisations: Law & Politics — Masterseminar
+
+- **Segment:** `unit:127602` · **unitId:** `127602`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127602&periodId=565>
+
+- **Veranstaltungsart:** Masterseminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Sommersemester
+
+### Human Rights Talks (Blockveranstaltung) — Vorlesung
+
+- **Segment:** `unit:95234` · **unitId:** `95234`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95234&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Sommersemester
+
 ### Individualarbeitsrecht — Vorlesung
 
 - **Segment:** `unit:99452` · **unitId:** `99452`
@@ -10606,6 +10803,29 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Wintersemester
+
+### Individualarbeitsrecht — Vorlesung
+
+- **Segment:** `unit:137886` · **unitId:** `137886`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=137886&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+
+### Insolvenzrecht — Vorlesung
+
+- **Segment:** `unit:97455` · **unitId:** `97455`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97455&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Sommersemester
+
+### Interkulturelle Kommunikation — Seminar
+
+- **Segment:** `unit:97644` · **unitId:** `97644`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97644&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **Turnus:** nur im Sommersemester
 
 ### International Economic Law — Vorlesung
 
@@ -10624,6 +10844,32 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Sommersemester
 
+### Internationales Vertragsrecht in der Praxis (SPB 6) — Vorlesung
+
+- **Segment:** `unit:103079` · **unitId:** `103079`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103079&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Wintersemester
+
+### Islam und Recht in Europa (NOS 22 und 51/52) — Vorlesung
+
+- **Segment:** `unit:88917` · **unitId:** `88917`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88917&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Sommersemester
+
+### Islamisches Recht II — Vorlesung mit Übung
+
+- **Segment:** `unit:114075` · **unitId:** `114075`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114075&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Sommersemester
+
 ### Joseph Raz: The Morality of Freedom (MAS / HS) — Kombiseminar
 
 - **Segment:** `unit:91363` · **unitId:** `91363`
@@ -10640,6 +10886,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Sommersemester
 
+### Jugendstrafrecht — Vorlesung mit Übung
+
+- **Segment:** `unit:127025` · **unitId:** `127025`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127025&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+
 ### Juristische Argumentation und "Künstliche Intelligenz" — Proseminar
 
 - **Segment:** `unit:111906` · **unitId:** `111906`
@@ -10654,6 +10907,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 
+### Juristische Methodenlehre im Steuerrecht — Vorlesung
+
+- **Segment:** `unit:92731` · **unitId:** `92731`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92731&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.5
+- **Turnus:** nur im Sommersemester
+
 ### Klausur zum Nachweis Gesicherter Lateinkenntnisse
 
 - **Segment:** `unit:39849` · **unitId:** `39849`
@@ -10667,6 +10929,30 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | 16:00–19:00 | 07.12.2025 23:59:59 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
+
+### Kollektives Arbeitsrecht I — Vorlesung
+
+- **Segment:** `unit:101196` · **unitId:** `101196`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101196&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Wintersemester
+
+### Kommunalrecht — Vorlesung
+
+- **Segment:** `unit:96775` · **unitId:** `96775`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96775&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Sommersemester
+
+### Kommunalrecht — Vorlesung
+
+- **Segment:** `unit:99853` · **unitId:** `99853`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99853&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Sommersemester
 
 ### Latein I für Anfänger (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -10715,6 +11001,86 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Blockveranstaltung | — | 09:00–14:15 | 18.02.2026–10.03.2026 | 05901.02.058 ( 2.058 R 2.058) |
 
+### Logik für Juristen — Vorlesung
+
+- **Segment:** `unit:110337` · **unitId:** `110337`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110337&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+
+### Markenrecht (SPB 4) — Vorlesung
+
+- **Segment:** `unit:86517` · **unitId:** `86517`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86517&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Sommersemester
+
+### Menschenrechtliche Bezüge des Internationalen Wirtschaftsrechts — Vorlesung
+
+- **Segment:** `unit:101614` · **unitId:** `101614`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101614&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Wintersemester
+
+### Migration and Human Rights — Masterseminar
+
+- **Segment:** `unit:86750` · **unitId:** `86750`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86750&periodId=565>
+
+- **Veranstaltungsart:** Masterseminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
+
+### Non-Discrimination — Masterseminar
+
+- **Segment:** `unit:96661` · **unitId:** `96661`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96661&periodId=565>
+
+- **Veranstaltungsart:** Masterseminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Sommersemester
+
+### Polizei- und Sicherheitsrecht — Vorlesung
+
+- **Segment:** `unit:120083` · **unitId:** `120083`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120083&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+
+### Propädeutische Übung - Strafrecht I
+
+- **Segment:** `unit:86734` · **unitId:** `86734`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86734&periodId=565>
+
+- **Veranstaltungsart:** Propädeutische Übung
+- **Turnus:** nur im Wintersemester
+
+### Propädeutische Übung - Strafrecht III
+
+- **Segment:** `unit:105107` · **unitId:** `105107`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=105107&periodId=565>
+
+- **Veranstaltungsart:** Propädeutische Übung
+- **Turnus:** nur im Wintersemester
+
+### Propädeutische Übung BGB AT
+
+- **Segment:** `unit:86321` · **unitId:** `86321`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86321&periodId=565>
+
+- **Veranstaltungsart:** Propädeutische Übung
+- **Turnus:** nur im Wintersemester
+
+### Propädeutische Übung BGB AT
+
+- **Segment:** `unit:116192` · **unitId:** `116192`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116192&periodId=565>
+
+- **Veranstaltungsart:** Propädeutische Übung
+- **Turnus:** Unregelmäßig
+
 ### Propädeutische Übung BGB AT
 
 - **Segment:** `unit:138267` · **unitId:** `138267`
@@ -10737,6 +11103,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Propädeutische Übung
 - **Turnus:** nur im Sommersemester
 
+### Propädeutische Übung Grundrechte (GKÖRII)
+
+- **Segment:** `unit:111653` · **unitId:** `111653`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111653&periodId=565>
+
+- **Veranstaltungsart:** Propädeutische Übung
+
+### Propädeutische Übung im Schuldrecht AT
+
+- **Segment:** `unit:111624` · **unitId:** `111624`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111624&periodId=565>
+
+- **Veranstaltungsart:** Übung
+
 ### Propädeutische Übung Schuldrecht AT
 
 - **Segment:** `unit:86951` · **unitId:** `86951`
@@ -10749,6 +11129,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:92929` · **unitId:** `92929`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92929&periodId=565>
+
+- **Veranstaltungsart:** Propädeutische Übung
+- **Turnus:** nur im Sommersemester
+
+### Propädeutische Übung zum Sicherheits- und Polizeirecht
+
+- **Segment:** `unit:87471` · **unitId:** `87471`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87471&periodId=565>
 
 - **Veranstaltungsart:** Propädeutische Übung
 - **Turnus:** nur im Sommersemester
@@ -10768,6 +11156,28 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Proseminar
 
+### Proseminar "Probleme der Verfassungsinterpretation"
+
+- **Segment:** `unit:111964` · **unitId:** `111964`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111964&periodId=565>
+
+- **Veranstaltungsart:** Proseminar
+
+### Proseminar "Seenotrettung"
+
+- **Segment:** `unit:111975` · **unitId:** `111975`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111975&periodId=565>
+
+- **Veranstaltungsart:** Proseminar
+
+### Proseminar von Hyun Jung LEE — Vorlesung
+
+- **Segment:** `unit:91137` · **unitId:** `91137`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91137&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Sommersemester
+
 ### Proseminar zum Recht der demokratischen Parlamentswahl
 
 - **Segment:** `unit:120507` · **unitId:** `120507`
@@ -10775,6 +11185,28 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **Turnus:** Unregelmäßig
+
+### Proseminar „Die ‘weibliche Geschlechtsehre’ als ersatzfähiger Schaden“
+
+- **Segment:** `unit:119335` · **unitId:** `119335`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119335&periodId=565>
+
+- **Veranstaltungsart:** Proseminar
+
+### Proseminar: EU Anti-Diskriminierungsrecht
+
+- **Segment:** `unit:84903` · **unitId:** `84903`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84903&periodId=565>
+
+- **Veranstaltungsart:** Proseminar
+- **Turnus:** nur im Sommersemester
+
+### Proseminar: Kennen Menschenrechte Grenzen?
+
+- **Segment:** `unit:134524` · **unitId:** `134524`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134524&periodId=565>
+
+- **Veranstaltungsart:** Proseminar
 
 ### Pröpädeutische Übung zum Kommunalrecht — Propädeutische Übung
 
@@ -10784,12 +11216,28 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Propädeutische Übung
 - **Turnus:** nur im Sommersemester
 
+### PÜ Allgemeines Verwaltungsrecht — Propädeutische Übung
+
+- **Segment:** `unit:97899` · **unitId:** `97899`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97899&periodId=565>
+
+- **Veranstaltungsart:** Propädeutische Übung
+- **Turnus:** nur im Wintersemester
+
 ### PÜ Gesetzliche Schuldverhältnisse — Propädeutische Übung
 
 - **Segment:** `unit:129066` · **unitId:** `129066`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=129066&periodId=565>
 
 - **Veranstaltungsart:** Propädeutische Übung
+
+### PÜ Polizei- und Sicherheitsrecht — Propädeutische Übung
+
+- **Segment:** `unit:111660` · **unitId:** `111660`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111660&periodId=565>
+
+- **Veranstaltungsart:** Propädeutische Übung
+- **Turnus:** jedes 2. Semester
 
 ### PÜ Staatsorganisationsrecht — Propädeutische Übung
 
@@ -10836,6 +11284,36 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Sommersemester
 
+### Rechtsphilosophie II — Vorlesung mit Übung
+
+- **Segment:** `unit:114741` · **unitId:** `114741`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114741&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+
+### Rechtssoziologie — Vorlesung mit Übung
+
+- **Segment:** `unit:114743` · **unitId:** `114743`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114743&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+
+### Rechtstheorie und juristische Methodenlehre — Vorlesung
+
+- **Segment:** `unit:110335` · **unitId:** `110335`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110335&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+
+### Rechtsvergleichung — Vorlesung
+
+- **Segment:** `unit:87664` · **unitId:** `87664`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87664&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.5
+- **Turnus:** nur im Sommersemester
+
 ### Römische Rechtsgeschichte — Vorlesung
 
 - **Segment:** `unit:83586` · **unitId:** `83586`
@@ -10866,6 +11344,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Do | Do | 14:00–16:00 | 07.12.2025 23:59:59 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
 
+### Schwerpunktbereich Wirtschaftsrecht — Seminar
+
+- **Segment:** `unit:121635` · **unitId:** `121635`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121635&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+
 ### Seminar
 
 - **Segment:** `unit:94305` · **unitId:** `94305`
@@ -10882,10 +11367,39 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **Turnus:** in jedem Semester
 
+### Seminar "Wegweisende Entscheidungen des Bundesverfassungsgerichts" für die Schwerpunktbereiche 8 und 9 (vorher 4 und 5)
+
+- **Segment:** `unit:110603` · **unitId:** `110603`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110603&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+
 ### Seminar Aktuelle Fragen des Europarechts (Alte PO SPB 2, 5, 7) (Neue PO SPB 5, 9, 11)
 
 - **Segment:** `unit:95343` · **unitId:** `95343`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95343&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **Turnus:** in jedem Semester
+
+### Seminar im SPB 8 und 9 (vorher 4 und 5)
+
+- **Segment:** `unit:119198` · **unitId:** `119198`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119198&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+
+### Seminar Neue menschenrechtliche Entscheidungen (des IAGMR, AfrGMR, EGMR) SPB 8, 9, 11
+
+- **Segment:** `unit:110537` · **unitId:** `110537`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110537&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+
+### Seminar Rechtsphilosophie (SPB 4, 5, 7;neu: 8, 9, 11)
+
+- **Segment:** `unit:88067` · **unitId:** `88067`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88067&periodId=565>
 
 - **Veranstaltungsart:** Seminar
 - **Turnus:** in jedem Semester
@@ -10905,6 +11419,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 
+### Staatskirchenrecht — Vorlesung
+
+- **Segment:** `unit:107590` · **unitId:** `107590`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107590&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+
+### Staatskirchenrecht (Religionsverfassungsrecht) — Vorlesung
+
+- **Segment:** `unit:96048` · **unitId:** `96048`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96048&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Sommersemester
+
 ### Strafrecht I — Vorlesung
 
 - **Segment:** `unit:84112` · **unitId:** `84112`
@@ -10913,12 +11442,96 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** Unregelmäßig
 
+### Strafrecht II — Vorlesung mit Übung
+
+- **Segment:** `unit:107498` · **unitId:** `107498`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107498&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+
+### Unternehmenssteuerrecht — Vorlesung
+
+- **Segment:** `unit:89151` · **unitId:** `89151`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89151&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Sommersemester
+
+### Urheberrecht (SPB 4) — Vorlesung
+
+- **Segment:** `unit:101937` · **unitId:** `101937`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101937&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Sommersemester
+
+### V: Einführung in das Handels- und Gesellschaftsrecht (in Bamberg) — Vorlesung
+
+- **Segment:** `unit:82275` · **unitId:** `82275`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82275&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Wintersemester
+
+### V: Einkommensteuerrecht (in Bamberg) — Vorlesung mit Übung
+
+- **Segment:** `unit:93337` · **unitId:** `93337`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93337&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **Turnus:** nur im Wintersemester
+
+### V: Umsatzsteuerrecht (in Bamberg) — Vorlesung
+
+- **Segment:** `unit:98782` · **unitId:** `98782`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98782&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Wintersemester
+
+### Vorbereitungskurs Fortgeschrittenenübung Strafrecht — Vorlesung
+
+- **Segment:** `unit:112148` · **unitId:** `112148`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112148&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+
+### Völkerstrafrecht — Vorlesung
+
+- **Segment:** `unit:91333` · **unitId:** `91333`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91333&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** in jedem Semester
+
 ### Öffentliches Dienstrecht — Vorlesung
 
 - **Segment:** `unit:122626` · **unitId:** `122626`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122626&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
+
+### Öffentliches Wirtschaftsrecht — Vorlesung mit Übung
+
+- **Segment:** `unit:114742` · **unitId:** `114742`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114742&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+
+### Übung Europarecht II  (Fallkolloquium zum Europäischen Wirtschaftsrecht)
+
+- **Segment:** `unit:92340` · **unitId:** `92340`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92340&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **Turnus:** nur im Wintersemester
+
+### Übung für Fortgeschrittene: Bürgerliches Recht
+
+- **Segment:** `unit:118415` · **unitId:** `118415`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118415&periodId=565>
+
+- **Veranstaltungsart:** Übung
 
 ### Übung im Öffentlichen Recht für Fortgeschrittene
 

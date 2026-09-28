@@ -322,10 +322,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17636|title:17903|title:17916|title:17921|exam:14315264|exam:14315265>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83641&periodId=589>
 
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -411,7 +408,14 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87160&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 08:15–10:00 | 17.04.2026–17.07.2026 | 13301.U1.0171 (C1 - Chemikum) |
 
 ### Fachmodul Zellbiologie: Übungen mit Hauptseminar (Teil 1) - Übung
 
@@ -421,7 +425,21 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 09:00–13:00 | 11.05.2026 | 13002.00.581 (00.581 Seminarraum Zellbiologie im Biologikum) |
+| Einzeltermin | Mo | 10:15–12:00 | 18.05.2026 | 13002.00.581 (00.581 Seminarraum Zellbiologie im Biologikum) |
+| Blockveranstaltung | — | 10:15–17:00 | 20.05.2026–21.05.2026 | 13002.00.581 (00.581 Seminarraum Zellbiologie im Biologikum) |
+| Blockveranstaltung | — | 08:00–18:00 | 27.05.2026–12.06.2026 | — |
+| Blockveranstaltung | — | 12:00–18:00 | 27.05.2026–29.05.2026 | — |
+| Einzeltermin | Mi | 08:00–12:00 | 27.05.2026 | — |
+| Einzeltermin | Fr | 12:00–16:00 | 29.05.2026 | 13002.00.581 (00.581 Seminarraum Zellbiologie im Biologikum) |
+| Einzeltermin | Do | 10:00–17:00 | 04.06.2026 | 13002.00.774 (Kursraum J Fluoreszenzmikroskopraum) |
 
 ### Fachmodul Zellbiologie: Übungen mit Hauptseminar (Teil 1) - Übung
 
@@ -431,7 +449,21 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 09:00–13:00 | 11.05.2026 | 13002.00.581 (00.581 Seminarraum Zellbiologie im Biologikum) |
+| Einzeltermin | Mo | 10:15–12:00 | 18.05.2026 | 13002.00.581 (00.581 Seminarraum Zellbiologie im Biologikum) |
+| Blockveranstaltung | — | 10:15–17:00 | 20.05.2026–21.05.2026 | 13002.00.581 (00.581 Seminarraum Zellbiologie im Biologikum) |
+| Blockveranstaltung | — | 08:00–18:00 | 27.05.2026–12.06.2026 | — |
+| Blockveranstaltung | — | 12:00–18:00 | 27.05.2026–29.05.2026 | — |
+| Einzeltermin | Mi | 08:00–12:00 | 27.05.2026 | — |
+| Einzeltermin | Fr | 12:00–16:00 | 29.05.2026 | 13002.00.581 (00.581 Seminarraum Zellbiologie im Biologikum) |
+| Einzeltermin | Do | 10:00–17:00 | 04.06.2026 | 13002.00.774 (Kursraum J Fluoreszenzmikroskopraum) |
 
 ### ILS-B4: Vorlesung zu Zell- Zellkommunikation, Signalverarbeitung und Entwicklung - Vorlesung
 
@@ -495,7 +527,16 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 3.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 13:15–19:00 | 15.04.2026–15.07.2026 | 13002.00.783 (Ks M Kursraum M) |
+| wöchentlich | Mi | 13:15–19:00 | 15.04.2026–15.07.2026 | 13002.00.782 (Ks L Kursraum L) |
+| Einzeltermin | Mi | 13:15–19:00 | 17.06.2026 | — |
 
 ### ILS-B4: Übung zu Zell- Zellkommunikation, Signalverarbeitung und Entwicklung - Übung
 
@@ -505,7 +546,16 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 3.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 13:15–19:00 | 15.04.2026–15.07.2026 | 13002.00.783 (Ks M Kursraum M) |
+| wöchentlich | Mi | 13:15–19:00 | 15.04.2026–15.07.2026 | 13002.00.782 (Ks L Kursraum L) |
+| Einzeltermin | Mi | 13:15–19:00 | 17.06.2026 | — |
 
 ### ILS-B4: Übung zu Zell- Zellkommunikation, Signalverarbeitung und Entwicklung - Übung
 
@@ -515,7 +565,16 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 3.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 13:15–19:00 | 15.04.2026–15.07.2026 | 13002.00.783 (Ks M Kursraum M) |
+| wöchentlich | Mi | 13:15–19:00 | 15.04.2026–15.07.2026 | 13002.00.782 (Ks L Kursraum L) |
+| Einzeltermin | Mi | 13:15–19:00 | 17.06.2026 | — |
 
 ### ILS-I3: Molekulare Biophysik und Strukturbiologie (Vorlesung) - Vorlesung
 
@@ -2429,6 +2488,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83983&periodId=589>
 
 - **Veranstaltungsart:** Übungsseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
 ### ILS-C1-Ü - Übung Allgemeine Chemie (für ILS) - Übungsseminar
@@ -2438,6 +2498,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83983&periodId=589>
 
 - **Veranstaltungsart:** Übungsseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
 ### ILS-C1-Ü - Übung Allgemeine Chemie (für ILS) - Übungsseminar
@@ -2447,6 +2508,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83983&periodId=589>
 
 - **Veranstaltungsart:** Übungsseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
 ### ILS-C2 - Chemisches Praktikum für ILS - Praktikum
@@ -2518,6 +2580,8 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 | wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 11907.01.040 (H18) |
 | Einzeltermin | Mi | 12:15–13:45 | 15.04.2026 | 11906.01.030 (H21) |
 | wöchentlich | Mi | 12:15–13:45 | 22.04.2026–15.07.2026 | 11907.01.040 (H18) |
+| Einzeltermin | Do | 16:00–19:00 | 01.10.2026 | 11501.00.155 (H15 Hans-Wilhelm-Schüßler-Hörsaal) |
+| Einzeltermin | Fr | 12:00–14:00 | 02.10.2026 | 12801.01.230 (H13 Johann-Radon-Hörsaal) |
 
 ### IngMathC2V - Mathematik für Ingenieure C2: INF, ILS, PhM - Vorlesung
 
@@ -2537,6 +2601,8 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 | wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 11907.01.040 (H18) |
 | Einzeltermin | Mi | 12:15–13:45 | 15.04.2026 | 11906.01.030 (H21) |
 | wöchentlich | Mi | 12:15–13:45 | 22.04.2026–15.07.2026 | 11907.01.040 (H18) |
+| Einzeltermin | Do | 16:00–19:00 | 01.10.2026 | 11501.00.155 (H15 Hans-Wilhelm-Schüßler-Hörsaal) |
+| Einzeltermin | Fr | 12:00–14:00 | 02.10.2026 | 12801.01.230 (H13 Johann-Radon-Hörsaal) |
 
 ### IngMathC2V - Mathematik für Ingenieure C2: INF, ILS, PhM - Vorlesung
 
@@ -2556,6 +2622,8 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 | wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 11907.01.040 (H18) |
 | Einzeltermin | Mi | 12:15–13:45 | 15.04.2026 | 11906.01.030 (H21) |
 | wöchentlich | Mi | 12:15–13:45 | 22.04.2026–15.07.2026 | 11907.01.040 (H18) |
+| Einzeltermin | Do | 16:00–19:00 | 01.10.2026 | 11501.00.155 (H15 Hans-Wilhelm-Schüßler-Hörsaal) |
+| Einzeltermin | Fr | 12:00–14:00 | 02.10.2026 | 12801.01.230 (H13 Johann-Radon-Hörsaal) |
 
 ### UEDGM - Übungen zu Differentialgleichungsmodelle - Übung
 

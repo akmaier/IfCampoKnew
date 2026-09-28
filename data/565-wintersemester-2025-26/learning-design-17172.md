@@ -5,7 +5,7 @@ campo_segment: "title:17172"
 campo_path: "title:16758|title:16763|title:17172"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17172"
 po_version_count: 0
-course_count: 27
+course_count: 26
 ---
 
 # Learning Design
@@ -14,7 +14,7 @@ course_count: 27
 
 _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theologie_  
 
-## Veranstaltungen (27)
+## Veranstaltungen (26)
 
 ### Betriebspädagogisches Seminar: E-Learning und Wissensmanagement - Übung
 
@@ -109,28 +109,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 09:45–11:15 | 14.10.2025–03.02.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
-
-### ITG Informationstechnische Grundlagen - Seminar
-
-- **Segment:** `exam:17869293` · **unitId:** `92352`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17172|exam:12826974|exam:12826975|exam:12826976|exam:12826996|exam:17869293>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92352&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| nach Vereinbarung | — | — | — | — |
-| Einzeltermin | Fr | 14:00–15:30 | 17.10.2025 | — |
-| Einzeltermin | Mi | 17:30–19:00 | 26.11.2025 | — |
-| Einzeltermin | Mi | 17:30–19:00 | 10.12.2025 | — |
-| Einzeltermin | Mi | 17:30–19:00 | 07.01.2026 | — |
-| Einzeltermin | Sa | 09:00–15:30 | 24.01.2026 | — |
 
 ### Learning Analytics - Seminar
 
@@ -243,18 +221,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128626&periodId=565>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 15:30–17:00 | 17.10.2025 | — |
-| Einzeltermin | Fr | 14:00–18:00 | 24.10.2025 | 20302.01.121 (1.121 Seminarraum (40)) |
-| Einzeltermin | Fr | 14:00–18:00 | 21.11.2025 | 20301.01.028 (1.028 Seminarraum MM-Labor (18)) |
-| Einzeltermin | Di | 17:30–19:00 | 09.12.2025 | — |
-| Einzeltermin | Fr | 14:00–18:00 | 09.01.2026 | 20302.01.121 (1.121 Seminarraum (40)) |
 
 ### 23001 Wissenschaftliches Basismodul - Leistung
 

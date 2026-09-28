@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:17977"
 campo_path: "title:17593|title:17600|title:17977"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977"
-po_version_count: 3
-course_count: 206
+po_version_count: 18
+course_count: 191
 fau_studiengang:
   - title: "Molekulare Medizin (B.Sc.)"
     rel_path: "studiengang/molekulare-medizin-b-sc.md"
@@ -211,7 +211,72 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (3)
+## Prüfungsordnungs-Versionen (18)
+
+### 1999 Bachelorarbeit (B.Sc. Molekulare Medizin 20252)
+
+- **Campo-Segment:** `exam:13843734`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13843725|exam:13843727|exam:13843728|exam:13843734>
+
+### 21751 Biochemie und Molekularbiologie II (Referat) - Leistung
+
+- **Campo-Segment:** `exam:13842122`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13842035|exam:13842037|exam:13842039|exam:13842121|exam:13842122>
+
+### 21751 Biochemie und Molekularbiologie II (Referat) - Leistung
+
+- **Campo-Segment:** `exam:13843804`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13843725|exam:13843727|exam:13843728|exam:13843803|exam:13843804>
+
+### 21753 Biochemie und Molekularbiologie II (Teilklausur 2) - Leistung
+
+- **Campo-Segment:** `exam:13842124`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13842035|exam:13842037|exam:13842039|exam:13842121|exam:13842124>
+
+### 21753 Biochemie und Molekularbiologie II (Teilklausur 2) - Leistung
+
+- **Campo-Segment:** `exam:13843806`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13843725|exam:13843727|exam:13843728|exam:13843803|exam:13843806>
+
+### 22151 Molekulare Pharmakologie (Präsentation)  - Leistung
+
+- **Campo-Segment:** `exam:13842162`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13842035|exam:13842037|exam:13842039|exam:13842161|exam:13842162>
+
+### 22151 Molekulare Pharmakologie (Präsentation)  - Leistung
+
+- **Campo-Segment:** `exam:13843838`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13843725|exam:13843727|exam:13843728|exam:13843837|exam:13843838>
+
+### 22152 Molekulare Pharmakologie (Ausarbeitung) - Leistung
+
+- **Campo-Segment:** `exam:13842163`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13842035|exam:13842037|exam:13842039|exam:13842161|exam:13842163>
+
+### 22152 Molekulare Pharmakologie (Ausarbeitung) - Leistung
+
+- **Campo-Segment:** `exam:13843839`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13843725|exam:13843727|exam:13843728|exam:13843837|exam:13843839>
+
+### 22174 Biochemie und Molekularbiologie I
+
+- **Campo-Segment:** `exam:13842118`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13842035|exam:13842037|exam:13842039|exam:13842118>
+
+### 22174 Biochemie und Molekularbiologie I
+
+- **Campo-Segment:** `exam:13843800`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13843725|exam:13843727|exam:13843728|exam:13843800>
+
+### 22276 Strahlenschutz in der experimentellen Medizin
+
+- **Campo-Segment:** `exam:13842139`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13842035|exam:13842037|exam:13842039|exam:13842139>
+
+### 22276 Strahlenschutz in der experimentellen Medizin
+
+- **Campo-Segment:** `exam:13843818`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13843725|exam:13843727|exam:13843728|exam:13843818>
 
 ### 26000 Masern-Immunitäts-Nachweis
 
@@ -228,7 +293,17 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Campo-Segment:** `exam:13843732`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13843725|exam:13843727|exam:13843728|exam:13843729|exam:13843732>
 
-## Veranstaltungen (206)
+### V-V13/1-V10 Vorlesung Histologie Teil 1 - V-V13/1-V10 Vorlesung Allgemeine Histologie und Embryologie - Vorlesung
+
+- **Campo-Segment:** `exam:13842082`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13842035|exam:13842037|exam:13842039|exam:13842079|exam:13842082>
+
+### V-V13/1-V10 Vorlesung Histologie Teil 1 - V-V13/1-V10 Vorlesung Allgemeine Histologie und Embryologie - Vorlesung
+
+- **Campo-Segment:** `exam:13843773`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13843725|exam:13843727|exam:13843728|exam:13843770|exam:13843773>
+
+## Veranstaltungen (191)
 
 ### Anorganisch-chemisches Praktikum für Molekulare Medizin (mit Begleitseminar) - Praktikum
 
@@ -557,12 +632,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:13842045` · **unitId:** `117413`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13842035|exam:13842037|exam:13842039|exam:13842045>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117413&periodId=589>
-
-### 1999 Bachelorarbeit (B.Sc. Molekulare Medizin 20252)
-
-- **Segment:** `exam:13843734` · **unitId:** `132370`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13843725|exam:13843727|exam:13843728|exam:13843734>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132370&periodId=589>
 
 ### 20703 Klausur zu Physikalische Chemie - Leistung
 
@@ -1179,36 +1248,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | Mi | Mi | 09:00–10:30 | — | — |
 
-### 21751 Biochemie und Molekularbiologie II (Referat) - Leistung
-
-- **Segment:** `exam:13842122` · **unitId:** `132390`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13842035|exam:13842037|exam:13842039|exam:13842121|exam:13842122>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132390&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 21751 Biochemie und Molekularbiologie II (Referat) - Leistung
-
-- **Segment:** `exam:13843804` · **unitId:** `132390`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13843725|exam:13843727|exam:13843728|exam:13843803|exam:13843804>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132390&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
 ### 21752 Biochemie und Molekularbiologie II (Teilklausur 1) - Leistung
 
 - **Segment:** `exam:13842123` · **unitId:** `132391`
@@ -1238,36 +1277,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Sa | Sa | 08:00–11:00 | — | 06901.00.035 (Hörsaal Biochemie) |
-
-### 21753 Biochemie und Molekularbiologie II (Teilklausur 2) - Leistung
-
-- **Segment:** `exam:13842124` · **unitId:** `132392`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13842035|exam:13842037|exam:13842039|exam:13842121|exam:13842124>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132392&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Sa | Sa | 08:30–10:00 | — | 06901.00.035 (Hörsaal Biochemie) |
-
-### 21753 Biochemie und Molekularbiologie II (Teilklausur 2) - Leistung
-
-- **Segment:** `exam:13843806` · **unitId:** `132392`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13843725|exam:13843727|exam:13843728|exam:13843803|exam:13843806>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132392&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Sa | Sa | 08:30–10:00 | — | 06901.00.035 (Hörsaal Biochemie) |
 
 ### 21821 Praktikumsleistung Biochemie II - Leistung
 
@@ -1425,78 +1434,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13843725|exam:13843727|exam:13843728|exam:13843825>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=41452&periodId=589>
 
-### 22151 Molekulare Pharmakologie (Präsentation)  - Leistung
-
-- **Segment:** `exam:13842162` · **unitId:** `132851`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13842035|exam:13842037|exam:13842039|exam:13842161|exam:13842162>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132851&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 22151 Molekulare Pharmakologie (Präsentation)  - Leistung
-
-- **Segment:** `exam:13843838` · **unitId:** `132851`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13843725|exam:13843727|exam:13843728|exam:13843837|exam:13843838>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132851&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 22152 Molekulare Pharmakologie (Ausarbeitung) - Leistung
-
-- **Segment:** `exam:13842163` · **unitId:** `132852`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13842035|exam:13842037|exam:13842039|exam:13842161|exam:13842163>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132852&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 22152 Molekulare Pharmakologie (Ausarbeitung) - Leistung
-
-- **Segment:** `exam:13843839` · **unitId:** `132852`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13843725|exam:13843727|exam:13843728|exam:13843837|exam:13843839>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132852&periodId=589>
-
-- **ECTS-Punkte:** 0.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| — | — | — | — | — |
-
-### 22174 Biochemie und Molekularbiologie I
-
-- **Segment:** `exam:13842118` · **unitId:** `132387`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13842035|exam:13842037|exam:13842039|exam:13842118>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132387&periodId=589>
-
-### 22174 Biochemie und Molekularbiologie I
-
-- **Segment:** `exam:13843800` · **unitId:** `132387`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13843725|exam:13843727|exam:13843728|exam:13843800>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132387&periodId=589>
-
 ### 22181 Biochemisches Praktikum I
 
 - **Segment:** `exam:13840428` · **unitId:** `41468`
@@ -1635,6 +1572,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13840353|exam:13840355|exam:13840357|exam:13840453|exam:13840457>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=41496&periodId=589>
 
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -1649,6 +1587,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13842035|exam:13842037|exam:13842039|exam:13842171|exam:13842175>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=41496&periodId=589>
 
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -1663,6 +1602,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13843725|exam:13843727|exam:13843728|exam:13843847|exam:13843851>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=41496&periodId=589>
 
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -1739,18 +1679,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:13842136` · **unitId:** `117402`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13842035|exam:13842037|exam:13842039|exam:13842136>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117402&periodId=589>
-
-### 22276 Strahlenschutz in der experimentellen Medizin
-
-- **Segment:** `exam:13842139` · **unitId:** `132422`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13842035|exam:13842037|exam:13842039|exam:13842139>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132422&periodId=589>
-
-### 22276 Strahlenschutz in der experimentellen Medizin
-
-- **Segment:** `exam:13843818` · **unitId:** `132422`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13843725|exam:13843727|exam:13843728|exam:13843818>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132422&periodId=589>
 
 ### 50001 Betriebsärztliche Untersuchung - Leistung
 
@@ -1899,7 +1827,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13840353|exam:13840355|exam:13840357|exam:13840371|exam:13840376>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89418&periodId=589>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -1914,7 +1844,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13842035|exam:13842037|exam:13842039|exam:13842070|exam:13842075>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89418&periodId=589>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -1929,7 +1861,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13843725|exam:13843727|exam:13843728|exam:13843761|exam:13843766>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89418&periodId=589>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -2094,10 +2028,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13840353|exam:13840355|exam:13840357|exam:13840460|exam:13840463>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96544&periodId=589>
 
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -2111,10 +2042,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13840353|exam:13840355|exam:13840357|exam:13840464|exam:13840467>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96544&periodId=589>
 
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -2318,9 +2246,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13840353|exam:13840355|exam:13840357|exam:13840446|exam:13840449>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92354&periodId=589>
 
-- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -2334,9 +2260,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13842035|exam:13842037|exam:13842039|exam:13842164|exam:13842167>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92354&periodId=589>
 
-- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -2350,9 +2274,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13843725|exam:13843727|exam:13843728|exam:13843840|exam:13843843>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92354&periodId=589>
 
-- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -2611,7 +2533,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung | — | 08:00–18:00 | 28.09.2026–09.10.2026 | — |
+| Blockveranstaltung | — | 08:00–18:00 | 14.09.2026–25.09.2026 | — |
 
 ### OC 34 - Organisch-chemisches Praktikum für Studierende der Biologie und der Molekularen Medizin - Praktikum
 
@@ -2627,7 +2549,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung | — | 08:00–18:00 | 28.09.2026–09.10.2026 | — |
+| Blockveranstaltung | — | 08:00–18:00 | 14.09.2026–25.09.2026 | — |
 
 ### OC 34 - Organisch-chemisches Praktikum für Studierende der Biologie und der Molekularen Medizin - Praktikum
 
@@ -2643,7 +2565,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung | — | 08:00–18:00 | 28.09.2026–09.10.2026 | — |
+| Blockveranstaltung | — | 08:00–18:00 | 14.09.2026–25.09.2026 | — |
 
 ### PC II Mol. Med. - V - Physikalische Chemie II für Mol. Med. - Vorlesung
 
@@ -2911,8 +2833,28 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 00601.00.012 (Hörsaal Physiologie) |
-| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–26.06.2026 | 00501.01.013 ( KH 1.013 Hörsaal Kollegienhaus) |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | 00601.00.012 (Hörsaal Physiologie) |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | 00601.01.021 (SR 1, Physio 1) |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | 00601.01.009 (SR 2, Physio 1) |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | 00601.00.016 (Prak_Physio 1) |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | 00601.00.011 |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | — |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | — |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | — |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | — |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | — |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | — |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | — |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | — |
+| wöchentlich | Fr | 08:00–09:45 | 17.04.2026–26.06.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–26.06.2026 | 00501.00.015 ( KH 0.015 Hörsaal Kollegienhaus (SR)) |
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–26.06.2026 | 00501.01.014 ( KH 1.014 Hörsaal Kollegienhaus) |
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | 00601.00.011 |
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | 00601.00.016 (Prak_Physio 1) |
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | 00601.01.009 (SR 2, Physio 1) |
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | 00601.01.021 (SR 1, Physio 1) |
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | 06701.00.018 (Kursraum Physiologie 2) |
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | 06701.00.020 (Kursraum Physiologie 2 und Biometrie) |
 
 ### V-PS5B - V-PS5B Seminar Neurophysiologie - Seminar
 
@@ -2928,8 +2870,28 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 00601.00.012 (Hörsaal Physiologie) |
-| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–26.06.2026 | 00501.01.013 ( KH 1.013 Hörsaal Kollegienhaus) |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | 00601.00.012 (Hörsaal Physiologie) |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | 00601.01.021 (SR 1, Physio 1) |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | 00601.01.009 (SR 2, Physio 1) |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | 00601.00.016 (Prak_Physio 1) |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | 00601.00.011 |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | — |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | — |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | — |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | — |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | — |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | — |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | — |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | — |
+| wöchentlich | Fr | 08:00–09:45 | 17.04.2026–26.06.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–26.06.2026 | 00501.00.015 ( KH 0.015 Hörsaal Kollegienhaus (SR)) |
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–26.06.2026 | 00501.01.014 ( KH 1.014 Hörsaal Kollegienhaus) |
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | 00601.00.011 |
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | 00601.00.016 (Prak_Physio 1) |
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | 00601.01.009 (SR 2, Physio 1) |
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | 00601.01.021 (SR 1, Physio 1) |
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | 06701.00.018 (Kursraum Physiologie 2) |
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | 06701.00.020 (Kursraum Physiologie 2 und Biometrie) |
 
 ### V-PS5B - V-PS5B Seminar Neurophysiologie - Seminar
 
@@ -2945,8 +2907,28 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 00601.00.012 (Hörsaal Physiologie) |
-| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–26.06.2026 | 00501.01.013 ( KH 1.013 Hörsaal Kollegienhaus) |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | 00601.00.012 (Hörsaal Physiologie) |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | 00601.01.021 (SR 1, Physio 1) |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | 00601.01.009 (SR 2, Physio 1) |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | 00601.00.016 (Prak_Physio 1) |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | 00601.00.011 |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | — |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | — |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | — |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | — |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | — |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | — |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | — |
+| wöchentlich | Di | 08:15–09:00 | 14.04.2026–30.06.2026 | — |
+| wöchentlich | Fr | 08:00–09:45 | 17.04.2026–26.06.2026 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–26.06.2026 | 00501.00.015 ( KH 0.015 Hörsaal Kollegienhaus (SR)) |
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–26.06.2026 | 00501.01.014 ( KH 1.014 Hörsaal Kollegienhaus) |
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | 00601.00.011 |
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | 00601.00.016 (Prak_Physio 1) |
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | 00601.01.009 (SR 2, Physio 1) |
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | 00601.01.021 (SR 1, Physio 1) |
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | 06701.00.018 (Kursraum Physiologie 2) |
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | 06701.00.020 (Kursraum Physiologie 2 und Biometrie) |
 
 ### V-PS5C - V-PS5C Seminar Zellphysiologie - Seminar
 
@@ -3220,46 +3202,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | wöchentlich | Mi | 09:15–10:00 | 15.04.2026–15.07.2026 | 00601.00.012 (Hörsaal Physiologie) |
 | wöchentlich | Do | 09:15–10:00 | 16.04.2026–16.07.2026 | 00801.00.112 (H Anatomie I (Eingang über Universitätsstraße 19)) |
 | wöchentlich | Do | 09:15–10:00 | 16.04.2026–16.07.2026 | 00601.00.012 (Hörsaal Physiologie) |
-
-### V-V13/1-V10 Vorlesung Histologie Teil 1 - V-V13/1-V10 Vorlesung Allgemeine Histologie und Embryologie - Vorlesung
-
-- **Segment:** `exam:13842082` · **unitId:** `132791`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13842035|exam:13842037|exam:13842039|exam:13842079|exam:13842082>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132791&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 10:15–11:00 | 04.05.2026 | — |
-| Einzeltermin | Di | 10:15–11:00 | 05.05.2026 | — |
-| wöchentlich | Mi | 10:15–11:00 | 06.05.2026–24.06.2026 | 03006.00.607 (Hörsaal 1 - Östliche Stadtmauerstraße 11) |
-| wöchentlich | Fr | 12:30–13:15 | 08.05.2026–26.06.2026 | 03006.00.607 (Hörsaal 1 - Östliche Stadtmauerstraße 11) |
-| Einzeltermin | Mo | 10:15–11:00 | 01.06.2026 | — |
-
-### V-V13/1-V10 Vorlesung Histologie Teil 1 - V-V13/1-V10 Vorlesung Allgemeine Histologie und Embryologie - Vorlesung
-
-- **Segment:** `exam:13843773` · **unitId:** `132791`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17977|exam:13843725|exam:13843727|exam:13843728|exam:13843770|exam:13843773>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132791&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 10:15–11:00 | 04.05.2026 | — |
-| Einzeltermin | Di | 10:15–11:00 | 05.05.2026 | — |
-| wöchentlich | Mi | 10:15–11:00 | 06.05.2026–24.06.2026 | 03006.00.607 (Hörsaal 1 - Östliche Stadtmauerstraße 11) |
-| wöchentlich | Fr | 12:30–13:15 | 08.05.2026–26.06.2026 | 03006.00.607 (Hörsaal 1 - Östliche Stadtmauerstraße 11) |
-| Einzeltermin | Mo | 10:15–11:00 | 01.06.2026 | — |
 
 ### V-V14, 1-V12 - Vorlesung Neuroanatomie (Medizin, Zahnmedizin und Molekulare Medizin) - Vorlesung
 
