@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:18304"
 campo_path: "title:17593|title:17595|title:18304"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18304"
-po_version_count: 5
-course_count: 15
+po_version_count: 0
+course_count: 20
 ---
 
 # Learning Design
@@ -14,34 +14,7 @@ course_count: 15
 
 _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theologie_  
 
-## Prüfungsordnungs-Versionen (5)
-
-### Kolloquium Masterarbeit - Seminar
-
-- **Campo-Segment:** `exam:15909377`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18304|exam:15178334|exam:15178335|exam:15178336|exam:15178348|exam:15909377>
-
-### 23081 E-Assessment - Leistung
-
-- **Campo-Segment:** `exam:15178374`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18304|exam:15178334|exam:15178335|exam:15178336|exam:15178373|exam:15178374>
-
-### 32319 Design-based Research
-
-- **Campo-Segment:** `exam:15178392`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18304|exam:15178334|exam:15178335|exam:15178336|exam:15178392>
-
-### 82551 Betriebspädagogisches Seminar: E-Learning und Wissensmanagement
-
-- **Campo-Segment:** `exam:15178338`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18304|exam:15178334|exam:15178335|exam:15178336|exam:15178337|exam:15178338>
-
-### 82562 Betriebspädagogisches Seminar: Designing new work and learning environments
-
-- **Campo-Segment:** `exam:15178341`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18304|exam:15178334|exam:15178335|exam:15178336|exam:15178337|exam:15178341>
-
-## Veranstaltungen (15)
+## Veranstaltungen (20)
 
 ### E-Assessment - Seminar
 
@@ -59,6 +32,24 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 08:30–10:00 | 13.04.2026–13.07.2026 | 21202.03.4034 |
+
+### Kolloquium Masterarbeit - Seminar
+
+- **Segment:** `exam:15909377` · **unitId:** `136990`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18304|exam:15178334|exam:15178335|exam:15178336|exam:15178348|exam:15909377>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=136990&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:00–15:30 | 20.04.2026–27.04.2026 | 21202.03.4033 |
+| wöchentlich | Mi | 14:00–15:30 | 13.05.2026–20.05.2026 | 21202.03.4033 |
+| wöchentlich | Mo | 14:00–15:30 | 08.06.2026–22.06.2026 | 21202.03.4033 |
 
 ### MA EEBF M7/MA Pädagogik MVIII: Aktuelle Ansätze medienpädagogischer Forschung - Seminar
 
@@ -83,15 +74,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135012&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 08:30–16:00 | 24.04.2026 | 20301.01.028 (1.028 Seminarraum MM-Labor (18)) |
-| wöchentlich | Do | 08:15–11:30 | 30.04.2026–28.05.2026 | 20301.01.028 (1.028 Seminarraum MM-Labor (18)) |
 
 ### MA Learning Design: Produktion Lernmedien - Seminar
 
@@ -157,13 +140,27 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | Mi | Mi | — | 07.06.2026 23:59:59 | — |
 
+### 23081 E-Assessment - Leistung
+
+- **Segment:** `exam:15178374` · **unitId:** `115862`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18304|exam:15178334|exam:15178335|exam:15178336|exam:15178373|exam:15178374>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115862&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | 15:00–16:30 | — | — |
+
 ### 23101 Qualitätssicherung - Leistung
 
 - **Segment:** `exam:15178378` · **unitId:** `115864`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18304|exam:15178334|exam:15178335|exam:15178336|exam:15178377|exam:15178378>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115864&periodId=589>
 
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -222,3 +219,21 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Segment:** `exam:15178389` · **unitId:** `115871`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18304|exam:15178334|exam:15178335|exam:15178336|exam:15178389>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115871&periodId=589>
+
+### 32319 Design-based Research
+
+- **Segment:** `exam:15178392` · **unitId:** `131105`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18304|exam:15178334|exam:15178335|exam:15178336|exam:15178392>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131105&periodId=589>
+
+### 82551 Betriebspädagogisches Seminar: E-Learning und Wissensmanagement
+
+- **Segment:** `exam:15178338` · **unitId:** `125756`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18304|exam:15178334|exam:15178335|exam:15178336|exam:15178337|exam:15178338>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125756&periodId=589>
+
+### 82562 Betriebspädagogisches Seminar: Designing new work and learning environments
+
+- **Segment:** `exam:15178341` · **unitId:** `125757`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18304|exam:15178334|exam:15178335|exam:15178336|exam:15178337|exam:15178341>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125757&periodId=589>

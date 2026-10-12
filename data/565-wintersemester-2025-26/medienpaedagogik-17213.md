@@ -152,10 +152,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17213|exam:12711640|exam:17869287>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111536&periodId=565>
 
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.5
-- **Turnus:** in jedem Semester
-
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
@@ -189,7 +185,18 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128626&periodId=565>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 15:30–17:00 | 17.10.2025 | — |
+| Einzeltermin | Fr | 14:00–18:00 | 24.10.2025 | 20302.01.121 (1.121 Seminarraum (40)) |
+| Einzeltermin | Fr | 14:00–18:00 | 21.11.2025 | 20301.01.028 (1.028 Seminarraum MM-Labor (18)) |
+| Einzeltermin | Di | 17:30–19:00 | 09.12.2025 | — |
+| Einzeltermin | Fr | 14:00–18:00 | 09.01.2026 | 20302.01.121 (1.121 Seminarraum (40)) |
 
 ## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (5)
 

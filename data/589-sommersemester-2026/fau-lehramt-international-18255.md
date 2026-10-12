@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:18255"
 campo_path: "title:17593|title:17595|title:18255"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18255"
-po_version_count: 1
-course_count: 7
+po_version_count: 0
+course_count: 8
 ---
 
 # FAU Lehramt International
@@ -14,14 +14,7 @@ course_count: 7
 
 _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theologie_  
 
-## Prüfungsordnungs-Versionen (1)
-
-### 87111 Mehrsprachigkeit und Pädagogische Professionalität - Leistung
-
-- **Campo-Segment:** `exam:15461352`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18255|exam:15461343|exam:15461351|exam:15461352>
-
-## Veranstaltungen (7)
+## Veranstaltungen (8)
 
 ### EE-BF M6d / ZS M1 / LA Allgemeine Pädagogik Freier Bereich: SEM "Aktuelle Probleme und Forschungsergebnisse auf dem Gebiet der internationalen Bildung (in systematischer und interdisziplinärer Perspektive)" (Standort Nürnberg) - Seminar
 
@@ -87,6 +80,20 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mi | Mi | — | 07.06.2026 23:59:59 | — |
+
+### 87111 Mehrsprachigkeit und Pädagogische Professionalität - Leistung
+
+- **Segment:** `exam:15461352` · **unitId:** `117361`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18255|exam:15461343|exam:15461351|exam:15461352>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117361&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | 17:30–19:00 | 07.06.2026 23:59:59 | — |
 
 ### 87121 Pädagogische Professionalität im Kontext der internationalen Mobilität - Leistung
 
