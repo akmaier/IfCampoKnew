@@ -128,16 +128,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 16:00–18:00 | 27.04.2026 | — |
-| Einzeltermin | Sa | 10:00–17:00 | 30.05.2026 | — |
-| Einzeltermin | So | 10:00–17:00 | 31.05.2026 | — |
 
 ### Wissenschaftliches Arbeiten für Promovierende in Epidemiologie und Public Health - Seminar
 
