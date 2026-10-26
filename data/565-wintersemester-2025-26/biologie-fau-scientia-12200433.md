@@ -206,9 +206,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16766|exam:12200433|exam:12200447>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82711&periodId=565>
 
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** in jedem Semester
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:00–16:00 | 14.10.2025–03.02.2026 | 00601.00.012 (Hörsaal Physiologie) |
 
 ### Bio-NF - Allgemeine Biologie I: Biologie für Nebenfächler (Bio-NF) - Vorlesung
 
@@ -230,10 +234,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16766|exam:12200433|exam:12200445>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83980&periodId=565>
 
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.0
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -248,6 +249,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84295&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### PBGV1 - Morphologie, Anatomie und Histologie der Pflanzen - Vorlesung
@@ -276,19 +278,4 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95991&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 08:15–09:00 | 14.10.2025–20.01.2026 | 13301.01.0331 (C2 - Chemikum) |
-| Einzeltermin | Di | 09:15–10:00 | 14.10.2025 | 13301.01.0331 (C2 - Chemikum) |
-| wöchentlich | Mi | 08:15–09:00 | 15.10.2025–28.01.2026 | 13301.01.0331 (C2 - Chemikum) |
-| wöchentlich | Do | 08:15–09:00 | 16.10.2025–22.01.2026 | 13301.01.0331 (C2 - Chemikum) |
-| wöchentlich | Do | 12:15–13:00 | 16.10.2025–18.12.2025 | 13301.01.0331 (C2 - Chemikum) |
-| Einzeltermin | Do | 09:15–10:00 | 06.11.2025 | 13301.01.0331 (C2 - Chemikum) |
-| Einzeltermin | Di | 09:15–10:00 | 11.11.2025 | 13301.01.0331 (C2 - Chemikum) |
-| Einzeltermin | Di | 09:15–10:00 | 02.12.2025 | — |
-| Einzeltermin | Do | 09:15–10:00 | 08.01.2026 | 13301.01.0331 (C2 - Chemikum) |
