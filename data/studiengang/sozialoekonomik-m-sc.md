@@ -9,7 +9,7 @@ fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "Teilzeitstudium möglich"
-scraped_at: 2026-07-01T08:27:57+00:00
+scraped_at: 2026-11-01T11:19:28+00:00
 ---
 
 # Sozialökonomik (M.Sc.)
@@ -124,7 +124,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 ### Sprachkenntnisse
 
 * DSH 2 / Englisch B2
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Voraussetzungen für Master
 
@@ -237,7 +237,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 ## Externe Links
 
 - [Modulhandbuch](https://www.wiso.rw.fau.de/studium/im-studium/modulhandbuecher/)
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [Merkblatt zum Praktikums-Nachweis](https://www.wiso.rw.fau.de/files/2020/01/Merkblatt_Nachweis_Praktika_Sozoek.pdf)
 - [Merkblatt zu den Englischkenntnissen](https://www.wiso.rw.fau.de/files/2016/01/Merkblatt_Nachweis_Englischkenntnissen.pdf)
 - [vorliegende Tabelle](https://www.wiso.rw.fau.de/files/2024/02/Fachspezifische_Kenntnisse.docx)

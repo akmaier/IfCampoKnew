@@ -8,7 +8,7 @@ unterrichtssprache: "vollständig auf Englisch"
 fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "1-50"
-scraped_at: 2026-07-01T08:20:23+00:00
+scraped_at: 2026-11-01T11:12:42+00:00
 ---
 
 # Data Science of Human Multimodal Communication (M.A.)
@@ -156,7 +156,6 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 ### Sprachkenntnisse
 
 * English C1-C2, CEFR (For more detailed information about accepted certifiEnglisch C1–C2, CEFR (Weitere Informationen zu anerkannten Zertifikaten finden Sie unter https://multicom-em.eu/how-to-apply/)
-* Deutschkenntnisse für internationale Studierende: Keine DSH, aber Englisch Niveau C1 (CEFR)
 
 ### Voraussetzungen für Master
 

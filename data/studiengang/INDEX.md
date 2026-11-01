@@ -1,13 +1,13 @@
 ---
 kind: "fau-studiengang-index"
-count: 224
+count: 226
 ---
 
 # FAU Studiengang-Übersicht
 
 Quelle: <https://www.fau.de/studium/studienangebot/alle-studiengaenge/>
 
-## Programme (224)
+## Programme (226)
 
 - [Advanced Healthcare (M.Sc.)](advanced-healthcare-m-sc.md) — Master of Science
 - [Advanced Materials and Processes (M.Sc.)](advanced-materials-and-processes-m-sc.md) — Master of Science
@@ -185,6 +185,7 @@ Quelle: <https://www.fau.de/studium/studienangebot/alle-studiengaenge/>
 - [Philosophie (B.A.)](philosophie-b-a.md) — Bachelor of Arts
 - [Philosophie (M.A.)](philosophie-m-a.md) — Master of Arts
 - [Philosophie/Ethik (Lehramt)](philosophie-ethik-lehramt.md) — Staatsexamen
+- [Photon Science and Technology (M.Sc.)](photon-science-and-technology-m-sc.md) — Master of Science
 - [Physical Activity and Health (M.A.)](physical-activity-and-health-m-a.md) — Master of Arts
 - [Physical Geography: Climate and Environmental Sciences (M.Sc.)](physical-geography-climate-and-environmental-sciences-m-sc.md) — Master of Science
 - [Physics (M.Sc.)](physics-m-sc.md) — Master of Science
@@ -201,7 +202,7 @@ Quelle: <https://www.fau.de/studium/studienangebot/alle-studiengaenge/>
 - [Pädagogik (M.A.)](paedagogik-m-a.md) — Master of Arts
 - [Recht und Informatik (LL.M.)](recht-und-informatik-ll-m.md) — Master of Laws
 - [Rechtswissenschaft (Staatsexamen)](rechtswissenschaft-staatsexamen.md) — Staatsexamen (außer Lehramt)
-- [SCHRIFT-MEDIEN-KULTUR und Digitale Transformation (M.A.)](schrift-medien-kultur-und-digitale-transformation-m-a.md) — Master of Arts
+- [Schriftmedienkultur und Digitale Transformation (M.A.)](schriftmedienkultur-und-digitale-transformation-m-a.md) — Master of Arts
 - [Sinologie (B.A.)](sinologie-b-a.md) — Bachelor of Arts
 - [Skandinavistik (B.A.)](skandinavistik-b-a.md) — Bachelor of Arts
 - [Sozialökonomik (B.A.)](sozialoekonomik-b-a.md) — Bachelor of Arts
@@ -231,5 +232,6 @@ Quelle: <https://www.fau.de/studium/studienangebot/alle-studiengaenge/>
 - [Zusatzstudien "FAU Lehramt International" (Zertifikat)](zusatzstudien-fau-lehramt-international-zertifikat.md) — Zertifikat (Zusatzstudien im Lehramt)
 - [Zusatzstudien "Gender 1 2 3" (Zertifikat)](zusatzstudien-gender-1-2-3-zertifikat.md) — Zertifikat (Zusatzstudium)
 - [Zusatzstudien "Geowissenschaften" (Zertifikat)](zusatzstudien-geowissenschaften-zertifikat.md) — Zertifikat (Zusatzstudien im Lehramt)
+- [Zusatzstudien "Inklusion - Vielfalt und Teilhabe im schulischen Kontext gestalten" (Zertifikat)](zusatzstudien-inklusion-vielfalt-und-teilhabe-im-schulischen-kontext-gestalten-zertifikat.md) — Zertifikat (Zusatzstudium)
 - [Öffentliches Recht (B.A.)](oeffentliches-recht-b-a.md) — Bachelor of Arts
 - [Ökonomie (B.A.)](oekonomie-b-a.md) — Bachelor of Arts

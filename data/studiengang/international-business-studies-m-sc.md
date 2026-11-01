@@ -9,7 +9,7 @@ fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "150-250"
 besondere_studienformen: "Internationales Studienangebot, Studiengang mit Doppelabschluss"
-scraped_at: 2026-07-01T08:23:35+00:00
+scraped_at: 2026-11-01T11:15:19+00:00
 ---
 
 # International Business Studies (M.Sc.)
@@ -88,7 +88,6 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
   oder gleichwertig (z. B. englischsprachiger Bachelor-Abschluss in US, UK, IRE, CAN, AUS, NZL)
   Die Testergebnisse können jedes Jahr bis zum 30. Juni direkt an [E-Mail entfernt] gesendet werden.
   Grundkenntnisse in der deutschen Sprache werden zwar empfohlen, sind aber keine Voraussetzung für die Zulassung zum Masterstudium.
-* Deutschkenntnisse für internationale Studierende: Keine DSH, aber Englisch Niveau C1 (CEFR)
 
 ### Voraussetzungen für Master
 

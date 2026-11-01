@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Naturwissenschaftliche Fakultät"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/
-scraped_at: 2026-07-01T08:53:54+00:00
+scraped_at: 2026-11-01T11:25:30+00:00
 ---
 
 # Naturwissenschaftliche Fakultät

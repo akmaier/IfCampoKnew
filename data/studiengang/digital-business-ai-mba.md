@@ -9,7 +9,7 @@ fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "<25"
 besondere_studienformen: "Internationales Studienangebot, Weiterbildungs-/berufsbegleitender Studiengang"
-scraped_at: 2026-07-01T08:20:42+00:00
+scraped_at: 2026-11-01T11:12:54+00:00
 ---
 
 # Digital Business & AI (MBA)
@@ -51,7 +51,7 @@ Gemeinsam bilden sie das „House of Digital Business & AI“, bestehend aus Fun
 
 ![](https://www.studiengangsverwaltung.zuv.fau.de/wp-content/uploads/sites/5/2024/02/MBA-Digital-Business-AI_Moduluebersicht_ab2024-1024x878.jpg)
 
-Mehr Informationen erhalten Sie auf der [Web](https://www.mdba-fau.de/inhalte)[site des MBA](https://mba-digital-business.de/contents/).
+Mehr Informationen erhalten Sie auf der [Website des MBA](https://fau-executive-school.de/digital-business-ai/).
 
 ### Was sollte ich mitbringen?
 
@@ -69,12 +69,12 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ### Bewerbungsfrist
 
-* Wintersemester: 31.08.
+* Wintersemester: 30.06.
 * Sommersemester: nicht möglich
 
 ### Sprachkenntnisse
 
-* Deutschkenntnisse für internationale Studierende: [keine DSH, aber Englisch Niveau B2 (CEFR)](https://www.fau.eu/studying/degree-programs/special-ways-to-study/international-degree-programs/orientation-guide-language-tests/)
+* Deutschkenntnisse für internationale Studierende: [keine Deutschkenntnisse erforderlich](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/#deutschkenntnisse-fuer-masterstudiengaenge)
 
 ### Voraussetzungen für Master
 
@@ -83,7 +83,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 * Gute Englischkenntnisse
 * Aussagekräftige Bewerbung (Zulassungsantrag, Anschreiben, Lebenslauf, Zeugnisse, Nachweise)
 
-Weitere Informationen zu Voraussetzungen, Bewerbung (sowie zu deren möglicher Verlängerung), Prozessen und Unterlagen für Ihre Bewerbung auf den MBA finden Sie auf der [Studiengangswebsite](https://mba-digital-business.de/application/).
+Weitere Informationen zu Voraussetzungen, Bewerbung (sowie zu deren möglicher Verlängerung), Prozessen und Unterlagen für Ihre Bewerbung auf den MBA finden Sie auf der [Studiengangswebsite](https://fau-executive-school.de/digital-business-ai/).
 
 [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 
@@ -116,7 +116,7 @@ Downloads
 
 Weitere Informationen
 
-* [Webseite des Studiengangs](https://www.mdba-fau.de/)
+* [Webseite des Studiengangs](https://fau-executive-school.de/digital-business-ai/)
 * [Prüfungsamt Fachbereich Wirtschafts- und Sozialwissenschaften](https://www.fau.de/studium/studienorganisation/pruefungen/pruefungsamt-rw/wirtschafts-und-sozialwissenschaften/)
 * [Webseite des Departments/Instituts](https://www.wiso.rw.fau.de/)
 * [Rechts- und Wirtschaftswissenschaftliche Fakultät](https://www.rw.fau.de/)
@@ -128,11 +128,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ## Externe Links
 
-- [Auf der Studiengangswebsite finden Sie alle Kontaktmöglichkeiten sowie Informationen zu unseren nächsten Informationsveranstaltungen.](https://mba-digital-business.de/)
-- [Web](https://www.mdba-fau.de/inhalte)
-- [site des MBA](https://mba-digital-business.de/contents/)
-- [keine DSH, aber Englisch Niveau B2 (CEFR)](https://www.fau.eu/studying/degree-programs/special-ways-to-study/international-degree-programs/orientation-guide-language-tests/)
-- [Studiengangswebsite](https://mba-digital-business.de/application/)
+- [Studiengangswebsite](https://fau-executive-school.de/digital-business-ai/)
+- [keine Deutschkenntnisse erforderlich](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/#deutschkenntnisse-fuer-masterstudiengaenge)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)
 - [Jetzt bewerben](https://mba-digital-business.de/application/%20)
@@ -145,12 +142,11 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Wege ins Ausland](https://www.fau.de/studium/studienorganisation/wege-ins-ausland/)
 - [Modulhandbuch](https://www.wiso.rw.fau.de/files/2021/05/modulhandbuch_berufsbegleitender-weiterbildungsmaster-digital-business_m.pdf)
 - [Prüfungsordnungen](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/)
-- [Webseite des Studiengangs](https://www.mdba-fau.de/)
 - [Prüfungsamt Fachbereich Wirtschafts- und Sozialwissenschaften](https://www.fau.de/studium/studienorganisation/pruefungen/pruefungsamt-rw/wirtschafts-und-sozialwissenschaften/)
 - [Webseite des Departments/Instituts](https://www.wiso.rw.fau.de/)
 - [Rechts- und Wirtschaftswissenschaftliche Fakultät](https://www.rw.fau.de/)
 - [Studierendenvertretung der FAU](https://stuve.fau.de/)
-- [WFA](https://www.fau.de/wp-content/uploads/sites/4/2026/03/Digital-Business-AI-MBa_MDBA_Banner_@Giulia_Iannicelli-1.jpg)
+- [Giulia Iannicelli](https://www.fau.de/wp-content/uploads/sites/4/2026/09/N0A2476.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/apply-now.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)

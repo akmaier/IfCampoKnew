@@ -7,7 +7,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "> 600"
-scraped_at: 2026-07-01T08:20:35+00:00
+scraped_at: 2026-11-01T11:12:50+00:00
 ---
 
 # Deutsch (Lehramt)
@@ -73,7 +73,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ### Sprachkenntnisse
 
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Details und Anmerkungen
 
@@ -112,7 +112,6 @@ Downloads
 
 Weitere Informationen
 
-* [Webseite des Studiengangs](https://www.germanistik.phil.fau.de/studium/studiengangsangebot/lehramt-deutsch/)
 * [Prüfungsamt Lehrämter](https://www.fau.de/studium/studienorganisation/pruefungen/)
 * [Webseite des Departments/Instituts](https://www.germanistik.phil.fau.de/)
 * [Philosophische Fakultät und Fachbereich Theologie](https://www.phil.fau.de/)
@@ -129,7 +128,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Mittelschule](https://www.fau.de/education/studienangebot/lehramtsstudium/lehramt-an-mittelschulen/)
 - [Realschule](https://www.fau.de/education/studienangebot/lehramtsstudium/lehramt-an-realschulen/)
 - [Gymnasium](https://www.fau.de/education/studienangebot/lehramtsstudium/lehramt-an-gymnasien/)
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [weitere Zugangsmöglichkeiten](https://www.fau.de/education/bewerbung/zugang-zum-studium/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)
@@ -143,7 +141,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Wege ins Ausland](https://www.fau.de/studium/studienorganisation/wege-ins-ausland/)
 - [Modulhandbuch](https://www.campo.fau.de/qisserver/pages/cm/exa/curricula/genericRailsSearchUnitsSimple.xhtml?_flowId=searchCourseOfStudyForModuleDescription-flow&_flowExecutionKey=e1s1)
 - [Prüfungsordnungen](https://www.fau.de/fau/rechtsgrundlagen/pruefungsordnungen/lehramtsstudiengaenge/)
-- [Webseite des Studiengangs](https://www.germanistik.phil.fau.de/studium/studiengangsangebot/lehramt-deutsch/)
 - [Prüfungsamt Lehrämter](https://www.fau.de/studium/studienorganisation/pruefungen/)
 - [Webseite des Departments/Instituts](https://www.germanistik.phil.fau.de/)
 - [Philosophische Fakultät und Fachbereich Theologie](https://www.phil.fau.de/)

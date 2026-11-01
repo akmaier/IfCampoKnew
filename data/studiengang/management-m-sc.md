@@ -9,7 +9,7 @@ fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "150-250"
 besondere_studienformen: "Internationales Studienangebot, Studiengang mit Doppelabschluss"
-scraped_at: 2026-07-01T08:25:07+00:00
+scraped_at: 2026-11-01T11:16:48+00:00
 ---
 
 # Management (M.Sc.)
@@ -39,15 +39,15 @@ Der Studiengang (120 ECTS) hat eine Regelstudienzeit von vier Semestern und best
 
 ### Aufbau und Struktur
 
-Der Studiengang (120 ECTS) umfasst eine Regelstudienzeit von vier Semestern und setzt sich aus einem Wahlpflichtbereich (35 ECTS), einem Vertiefungsbereich (55 ECTS) und der Masterarbeit (30 ECTS) zusammen. Während der Wahlpflichtbereich die Vermittlung der ganzheitlichen Perspektive des Managements sicherstellt, ermöglicht der Vertiefungsbereich den Studierenden, sich auf einen oder mehrere Anwendungsbereiche des Managements zu spezialisieren. Die gewählte Spezialisierung dient den Studierenden dazu, ihr Profil mit Blick auf ein gewünschtes zukünftiges Berufsfeld zu schärfen. In den Wahlfächern können die Studierenden Kurse aus den folgenden Inhaltsbereichen wählen: “Strategic management & International business”, “Value creation & Digital transformation”, “Entrepreneurship & Innovation”, “Financial management”, “Health care management”, “Marketing management”, “Supply chain management”, “Sustainable & responsible management”, and “Management research”.
+Der Studiengang (120 ECTS) umfasst eine Regelstudienzeit von vier Semestern und setzt sich aus einem Wahlpflichtbereich (35 ECTS), einem Vertiefungsbereich (55 ECTS) und der Masterarbeit (30 ECTS) zusammen. Während der Wahlpflichtbereich die Vermittlung der ganzheitlichen Perspektive des Managements sicherstellt, ermöglicht der Vertiefungsbereich den Studierenden, sich auf einen oder mehrere Anwendungsbereiche des Managements zu spezialisieren. Die gewählte Spezialisierung dient den Studierenden dazu, ihr Profil mit Blick auf ein gewünschtes zukünftiges Berufsfeld zu schärfen. In den Wahlfächern können die Studierenden Kurse aus den folgenden Inhaltsbereichen wählen: “Strategic management & International business”, “Value creation & Digital transformation”, “Entrepreneurship & Innovation”, “Financial management”, “Health care management”, “Marketing management”, “Supply chain management”, “Sustainable & responsible management”, “Management research” und „Organizational Behavior & Human Performance Management“.
 
 ### Studienrichtungen und Schwerpunkte
 
-Die Studierenden können im Vertiefungsbereich elf Module (55 ECTS) aus neun unterschiedlichen Fachrichtungen frei wählen und diese nach ihren individuellen Präferenzen kombinieren. Bei einer Belegung von mindestens vier Modulen (20 ECTS) aus einer Modulgruppe wird die vorgenommene Spezialisierung als Schwerpunkt im Abschlusszeugnis ausgewiesen. Studierende, die ein generalistisches Studium vorziehen und keine Spezialisierung anstreben, haben die Möglichkeit, die kompletten 55 ECTS des Vertiefungsbereichs frei zu wählen. Weiterführende Informationen sind auf der studiengangsspezifischen Website unter <https://www.mim.wiso.rw.fau.de/program/> zu finden.
+Die Studierenden können im Vertiefungsbereich elf Module (55 ECTS) aus zehn unterschiedlichen Fachrichtungen frei wählen und diese nach ihren individuellen Präferenzen kombinieren. Bei einer Belegung von mindestens vier Modulen (20 ECTS) aus einer Modulgruppe wird die vorgenommene Spezialisierung als Schwerpunkt im Abschlusszeugnis ausgewiesen. Studierende, die ein generalistisches Studium vorziehen und keine Spezialisierung anstreben, haben die Möglichkeit, die kompletten 55 ECTS des Vertiefungsbereichs frei zu wählen. Weiterführende Informationen sind auf der studiengangsspezifischen Website unter <https://www.mim.wiso.rw.fau.de/program/> zu finden.
 
 ### Was sollte ich mitbringen?
 
-Der Studiengang richtet sich an Absolventinnen und Absolventen mit einem Bachelorabschluss in Betriebswirtschaftslehre oder einem anderen teil- oder nicht-wirtschaftswissenschaftlichem Fach an einer Hochschule oder Universität. Die erforderlichen betriebs- und volkswirtschaftlichen Kenntnisse müssen in einem Zugangstest nachgewiesen werden. Weitere Informationen über das Zulassungsverfahren finden Sie unter: [ADMISSION – Master in Management (fau.de)](https://www.mim.wiso.rw.fau.de/admission/)
+Der Studiengang richtet sich an Absolventinnen und Absolventen mit einem Bachelorabschluss in Betriebswirtschaftslehre oder einem anderen teil- oder nicht-wirtschaftswissenschaftlichem Fach an einer Hochschule oder Universität. Die erforderlichen betriebs- und volkswirtschaftlichen Kenntnisse müssen in einem Zugangstest nachgewiesen werden. Weitere Informationen über das Zulassungsverfahren finden Sie unter: <https://www.mim.wiso.rw.fau.de/admission/>
 
 ### Welche beruflichen Perspektiven stehen mir offen?
 
@@ -137,7 +137,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ## Externe Links
 
-- [ADMISSION – Master in Management (fau.de)](https://www.mim.wiso.rw.fau.de/admission/)
+- [Weitere Informationen bezüglich den Zugangsvoraussetzungen erhalten Sie auch auf der Website des Studiengangs.](https://www.mim.wiso.rw.fau.de/admission/)
 - [master.fau.de](https://www.fau.de/education/bewerbung/bewerbung-masterstudium/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)

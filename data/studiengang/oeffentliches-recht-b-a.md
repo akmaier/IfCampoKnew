@@ -5,11 +5,11 @@ abschluss: "Bachelor of Arts"
 zugang: "zulassungsfrei"
 regelstudienzeit: "6 Semester"
 unterrichtssprache: "vollständig auf Deutsch"
-fakultät: "Philosophische Fakultät und Fachbereich Theologie, Rechts- und Wirtschaftswissenschaftliche Fakultät"
+fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "2-Fach-Bachelor, Teilzeitstudium möglich"
-scraped_at: 2026-07-01T08:26:30+00:00
+scraped_at: 2026-11-01T11:18:08+00:00
 ---
 
 # Öffentliches Recht (B.A.)
@@ -24,7 +24,7 @@ scraped_at: 2026-07-01T08:26:30+00:00
 | Zugang | zulassungsfrei |
 | Regelstudienzeit | 6 Semester |
 | Unterrichtssprache | vollständig auf Deutsch |
-| Fakultät | Philosophische Fakultät und Fachbereich Theologie, Rechts- und Wirtschaftswissenschaftliche Fakultät |
+| Fakultät | Philosophische Fakultät und Fachbereich Theologie |
 | Studienbeginn | Wintersemester |
 | Größe | 1-50 |
 | Besondere Studienformen | 2-Fach-Bachelor, Teilzeitstudium möglich |
@@ -102,7 +102,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ### Sprachkenntnisse
 
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Details und Anmerkungen
 
@@ -144,7 +144,7 @@ Weitere Informationen
 * [Webseite des Studiengangs](https://www.jura.rw.fau.de/studium/im-studium/studiengaenge/oeffentliches-recht-als-zweitfach-bachelor/)
 * [Prüfungsamt Philosophische Fakultät und Fachbereich Theologie](https://www.fau.de/studium/studienorganisation/pruefungen/pruefungsamt-phil/)
 * [Webseite des Departments/Instituts](https://www.pol.phil.fau.de/)
-* [Philosophische Fakultät und Fachbereich Theologie](https://www.phil.fau.de/), [Rechts- und Wirtschaftswissenschaftliche Fakultät](https://www.rw.fau.de/)
+* [Philosophische Fakultät und Fachbereich Theologie](https://www.phil.fau.de/)
 * [Studierendenvertretung der FAU](https://stuve.fau.de/)
 
 ## Vorteile des Studiums an der FAU
@@ -154,7 +154,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 ## Externe Links
 
 - [Politikwissenschaft](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/politikwissenschaft-ba/)
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [weitere Zugangsmöglichkeiten](https://www.fau.de/education/bewerbung/zugang-zum-studium/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)
@@ -172,7 +171,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Prüfungsamt Philosophische Fakultät und Fachbereich Theologie](https://www.fau.de/studium/studienorganisation/pruefungen/pruefungsamt-phil/)
 - [Webseite des Departments/Instituts](https://www.pol.phil.fau.de/)
 - [Philosophische Fakultät und Fachbereich Theologie](https://www.phil.fau.de/)
-- [Rechts- und Wirtschaftswissenschaftliche Fakultät](https://www.rw.fau.de/)
 - [Studierendenvertretung der FAU](https://stuve.fau.de/)
 - [U. J. Alexander - stock.adobe.co](https://www.fau.de/wp-content/uploads/sites/4/2026/03/Oeffentliches-REcht-BA-AdobeStock.jpeg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/apply-now.jpg)

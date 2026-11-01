@@ -7,7 +7,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Naturwissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "50-150"
-scraped_at: 2026-07-01T08:24:34+00:00
+scraped_at: 2026-11-01T11:16:18+00:00
 ---
 
 # Lebensmittelchemie (Staatsexamen)
@@ -59,7 +59,7 @@ Häufig sind Lebensmittelchemiker/-innen in der **amtlichen Überwachung** täti
 
 Darüber hinaus arbeiten Lebensmittelchemiker/-innen in der **Lebensmittelindustrie** zur Sicherstellung der Produktqualität und in der Produktentwicklung.
 
-Außerhalb des Lebensmittelbereichs können Sie auch in der **Pharma- und Kosmetikindustrie** tätig werden, wo Lebensmittelchemiker/-innen sowohl in der Qualitätssicherung als auch der Produktentwicklung mitwirken. Durch die Vielseitigkeit des Lebensmittelchemiestudiums und ihr herausragendes chemisch-analytisches Know-how sind Lebensmittelchemikerinnen und Lebensmittelchemiker aber auch im Bereich der medizinischen Analytik sowie der **Forensischen Analytik**. Dazu gehört auch die **Drogen- und Dopingkontrolle**, z.B. beim Landeskriminalamt oder der Nationalen Anti-Doping Agentur Deutschland gefragt. Auch in anderen Leitungspositionen ist Ihre vielseitige analytische Ausbildung gefragt, wie z.B. aus einem [Interview](https://www.fau.de/2024/04/news/outreach/fau-alumni-jobinsights-nina-simon/) einer Absolventin mit dem FAU Alumni-Netzwerk hervorgeht.
+Außerhalb des Lebensmittelbereichs können Sie auch in der **Pharma- und Kosmetikindustrie** tätig werden, wo Lebensmittelchemiker/-innen sowohl in der Qualitätssicherung als auch der Produktentwicklung mitwirken. Durch die Vielseitigkeit des Lebensmittelchemiestudiums und ihr herausragendes chemisch-analytisches Know-how sind Lebensmittelchemikerinnen und Lebensmittelchemiker aber auch im Bereich der medizinischen Analytik sowie der **Forensischen Analytik** gefragt. Dazu gehört auch die **Drogen- und Dopingkontrolle**, z.B. beim Landeskriminalamt oder der Nationalen Anti-Doping Agentur Deutschland . Auch in anderen Leitungspositionen ist Ihre vielseitige analytische Ausbildung gefragt, wie z.B. aus einem [Interview](https://www.fau.de/2024/04/news/outreach/fau-alumni-jobinsights-nina-simon/) einer Absolventin mit dem FAU Alumni-Netzwerk hervorgeht.
 
 Zieht es Sie eher in die **Forschung**? Auch an Universitäten und wissenschaftlichen Einrichtungen wie der Fraunhofer-Gesellschaft oder dem Max Rubner-Institut haben Lebensmittelchemikerinnen und Lebensmittelchemiker sowohl innerhalb des Lebensmittelbereichs als auch darüber hinaus gute Perspektiven.
 
@@ -76,7 +76,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ### Sprachkenntnisse
 
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 
@@ -127,12 +127,11 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Erfahrungsbericht aus dem Ausland](https://www.chemie.nat.fau.de/studium/lmc-studium/lmc-studium-2/#sprungmarke4)
 - [Interview](https://www.fau.de/2024/04/news/outreach/fau-alumni-jobinsights-nina-simon/)
 - [Nach dem Studium (ag-jlc.de)](https://www.ag-jlc.de/nach-dem-studium)
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)
 - [Direkt zum Bewerbungsportal](https://www.campo.fau.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces?sessionlanguage=de&page=Bewerber/-innen)
 - [Zentrale Studienberatung Die Zentrale Studienberatung ist die erste Anlaufstelle zu allen Fragen rund ums Studium. Die Zentrale Studienberatung ist die erste Anlaufstelle zu allen Fragen rund ums Studium. Mehr über Zentrale Studienberatung  erfahren](https://zsb.fau.de)
-- [Studien-Service-Center Naturwissenschaftliche Fakultät Fachbezogene Beratung für Fragen rund um das Fach und die Studienplanung. Fachbezogene Beratung für Fragen rund um das Fach und die Studienplanung. Mehr über Studien-Service-Center Naturwissenschaftliche Fakultät erfahren](https://www.nat.fau.de/studium/beratung/ssc/)
+- [Studien-Service-Center Naturwissenschaftliche Fakultät Fachbezogene Beratung für Fragen rund um das Fach und die Studienplanung. Fachbezogene Beratung für Fragen rund um das Fach und die Studienplanung. Mehr über Studien-Service-Center Naturwissenschaftliche Fakultät erfahren](https://www.nat.fau.de/studium/beratung/)
 - [Infos zum Semesterstart](https://www.fau.de/studium/studienorganisation/studienstart/)
 - [Semestertermine](https://www.fau.de/studium/studienorganisation/semestertermine/)
 - [Semesterbeitrag](https://www.fau.de/studium/studienorganisation/studierendenangelegenheiten/rueckmeldung-und-semesterbeitrag/)
@@ -145,7 +144,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Webseite des Departments/Instituts](https://www.chemie.nat.fau.de/)
 - [Naturwissenschaftliche Fakultät](https://www.nat.fau.de/)
 - [Studierendenvertretung der FAU](https://stuve.fau.de/)
-- [Shutterstock](https://www.fau.de/wp-content/uploads/sites/4/2026/04/Lebensmittelchemie_Staatsexamen_shutterstock.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/apply-now.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)

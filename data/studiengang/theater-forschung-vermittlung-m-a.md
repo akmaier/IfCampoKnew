@@ -9,7 +9,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "Teilzeitstudium möglich"
-scraped_at: 2026-07-01T08:28:23+00:00
+scraped_at: 2026-11-01T11:19:51+00:00
 ---
 
 # Theater – Forschung – Vermittlung (M.A.)
@@ -95,7 +95,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 ### Sprachkenntnisse
 
 * Sofern kein deutscher Studienabschluss oder die deutsche Hochschulreife vorliegt, müssen Deutschkenntnisse auf dem Niveau DSH2 nachgewiesen werden. Englischkenntnisse auf dem europäischen Referenzniveau B2 sind von Vorteil.
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Voraussetzungen für Master
 
@@ -157,7 +157,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Medienstudios](https://www.theater-medien.phil.fau.de/institut/einrichtungen/medienstudios/)
 - [GamesLab](https://www.theater-medien.phil.fau.de/institut/einrichtungen/games-lab/)
 - [studentischen Initiativen](https://www.theater-medien.phil.fau.de/praxis/studentische-initiativen/)
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [Studiengangswebsite](https://www.theater-medien.phil.fau.de/studium/masterstudiengaenge/theater-forschung-vermittlung/)
 - [campo](https://www.campo.fau.de/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)

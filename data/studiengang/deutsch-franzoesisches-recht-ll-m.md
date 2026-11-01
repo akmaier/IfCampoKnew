@@ -9,7 +9,7 @@ fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "Internationales Studienangebot, Studiengang mit Doppelabschluss"
-scraped_at: 2026-07-01T08:20:31+00:00
+scraped_at: 2026-11-01T11:12:47+00:00
 ---
 
 # Deutsch-Französisches Recht (LL.M.)
@@ -85,7 +85,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ### Sprachkenntnisse
 
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Voraussetzungen für Master
 
@@ -163,7 +163,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 ## Externe Links
 
 - [Deutsch-Französischen Hochschule DFH](https://www.dfh-ufa.org/)
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [Einreichung der Bewerbungsunterlagen](https://www.dfr.rw.fau.de/bewerbung-zulassung/ablauf-des-bewerbungsverfahrens/bewerbungsunterlagen/)
 - [Auswahlgespräch](https://www.dfr.rw.fau.de/bewerbung-zulassung/ablauf-des-bewerbungsverfahrens/bewerbungsgespraech/)
 - [Bewerbungsformular](https://www.dfr.rw.fau.de/files/2022/04/bewerbungsformular-2022-23.pdf)

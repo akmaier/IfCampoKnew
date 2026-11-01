@@ -9,7 +9,7 @@ fakultät: "Medizinische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "50-150"
 besondere_studienformen: "1-Fach-Bachelor"
-scraped_at: 2026-07-01T08:25:02+00:00
+scraped_at: 2026-11-01T11:16:43+00:00
 ---
 
 # Logopädie (B.Sc.)
@@ -106,13 +106,15 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ### Sprachkenntnisse
 
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Details und Anmerkungen
 
 Die Bewerbungsfrist für das Wintersemester für internationale Bewerber ist der 15. Juli.
 
 [Informationen zur Bewerbung](https://www.med.fau.de/studium/logopaedie/vor-dem-studium/)
+
+Informationen zum Eignungsfeststellungsverfahren finden Sie in der entsprechenden Satzung unter folgendem Link: <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/regelungen-zum-studium/#medizinische-fakultaet> .
 
 Neben der Allgemeinen Hochschulreife (Abitur) existieren noch [weitere Zugangsmöglichkeiten](https://www.fau.de/education/bewerbung/zugang-zum-studium/) zum Studium an der FAU.
 
@@ -160,7 +162,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 ## Externe Links
 
 - [LogopG.pdf (gesetze-im-internet.de)](https://www.gesetze-im-internet.de/logopg/LogopG.pdf)
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [Informationen zur Bewerbung](https://www.med.fau.de/studium/logopaedie/vor-dem-studium/)
 - [weitere Zugangsmöglichkeiten](https://www.fau.de/education/bewerbung/zugang-zum-studium/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)

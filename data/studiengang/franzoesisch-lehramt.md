@@ -7,7 +7,7 @@ unterrichtssprache: "auf Deutsch und in den Sprachen der jeweiligen Kernfächer"
 fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "50-150"
-scraped_at: 2026-07-01T08:21:53+00:00
+scraped_at: 2026-11-01T11:13:50+00:00
 ---
 
 # Französisch (Lehramt)
@@ -128,7 +128,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 ### Sprachkenntnisse
 
 * Wünschenswert sind Kenntnisse des Französischen auf dem Niveau GER B1 (das entspricht Französischunterricht in mindestens 3 aufsteigenden Schuljahren). Bei geringeren Vorkenntnissen können am Sprachenzentrum der FAU Intensivkurse belegt werden (im Wintersemester des Studienbeginns sowie in der darauffolgenden vorlesungsfreien Zeit).
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Details und Anmerkungen
 
@@ -184,7 +184,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Gymnasium](https://www.fau.de/education/studienangebot/lehramtsstudium/lehramt-an-gymnasien/)
 - [Französisch-Abteilung des Sprachenzentrums](https://sz.fau.de/abteilung-franzoesisch/franz-pruefungen/einstufungstest-fuer-studierende-des-faches-franzoesisch/)
 - [Abschlussmodul Schriftliche Hausarbeit](https://www.romanistik.phil.fau.de/studium/abschlussarbeiten/)
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [weitere Zugangsmöglichkeiten](https://www.fau.de/education/bewerbung/zugang-zum-studium/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)

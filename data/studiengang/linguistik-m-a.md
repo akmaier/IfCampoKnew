@@ -9,7 +9,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "1-50"
 besondere_studienformen: "Teilzeitstudium möglich"
-scraped_at: 2026-07-01T08:24:52+00:00
+scraped_at: 2026-11-01T11:16:35+00:00
 ---
 
 # Linguistik (M.A.)
@@ -45,7 +45,7 @@ Anhand dieser Themen vermittelt der Studiengang vertiefte Kenntnisse über Sprac
 
 **2. und 3. Semester**
 
-Forschungsnahes Modul aus den beteiligten Interdisziplinären Zentren – dem Interdisziplinären Zentrum für Lexikografie, Valenz- und Kollokationsforschung und dem Interdisziplinären Zentrum für Dialekte und Sprachvariation. Die Studierenden können in dieser Phase in Forschungsprojekten mitarbeiten, Praktika absolvieren und/oder ihre Fremdsprachenkenntnisse vertiefen. Daneben wählen sie aus einem Spektrum von thematisch unterschiedlichen Wahlpflichtmodulen. Einen Schwerpunkt bildet das Thema Methoden und empirisches Arbeiten in der Linguistik.
+Forschungsnahes Modul aus den beteiligten Interdisziplinären Zentren – dem Interdisziplinären Zentrum für Konstruktionsgrammatik, Kollokation und Lexikografie und dem Interdisziplinären Zentrum für Dialekte und Sprachvariation. Die Studierenden können in dieser Phase in Forschungsprojekten mitarbeiten, Praktika absolvieren und/oder ihre Fremdsprachenkenntnisse vertiefen. Daneben wählen sie aus einem Spektrum von thematisch unterschiedlichen Wahlpflichtmodulen. Einen Schwerpunkt bildet das Thema Methoden und empirisches Arbeiten in der Linguistik.
 
 **4. Semester**
 
@@ -68,8 +68,8 @@ Eine Besonderheit des Masterstudiengangs Linguistik an der FAU stellt die enge V
 * In der Ringvorlesung im ersten Semester lernen die Studierenden Forschungsschwerpunkte der Linguistik an der FAU Erlangen-Nürnberg kennen, und zwar fächerübergreifend über die Kernfächer Anglistik, Germanistik und Romanistik hinaus.
 * Im forschungsnahen Modul im 2./3. Fachsemester besuchen die Studierenden Vorträge auswärtiger und internationaler Gastwissenschaftlerinnen und Gastwissenschaftler und diskutieren mit ihnen über ihre Forschung. Dies geschieht in Zusammenarbeit mit zwei Forschungseinrichtungen der FAU:
   + Interdisziplinäres Zentrum für Dialekte und Sprachvariation: das IZ für Dialekte und Sprachvariation widmet sich der Erforschung von sprachlicher Variation und Sprachkontakt in verschiedenen linguistisch orientierten Fächern und bietet dazu Vorträge, Forschungskolloquien und Konferenzen an. <http://www.dialektforschung.phil.fau.de/>
-  + Interdisziplinäres Zentrum für Lexikografie, Valenz- und Kollokationsforschung: das an der FAU angesiedelte IZ für Lexikografie, Valenz- und Kollokationsforschung vernetzt und koordiniert Forschungen aus verschiedenen an der FAU vertretenen Fächern, die den Gebrauch von Wörtern in größeren sprachlichen Einheiten und die Beschreibung dieses Wortgebrauchs zum Gegenstand haben. Das IZ bietet Gastvorträge, Konferenzen und Workshops zu diesen Themen an.   
-    <http://www.lexi.fau.de>
+  + Interdisziplinäres Zentrum für Konstruktionsgrammatik, Kollokation und Lexikografie: Das an der FAU angesiedelte IZ für Konstruktionsgrammatik, Kollokation und Lexikografie vernetzt und koordiniert Forschungen aus verschiedenen an der FAU vertretenen Fächern, die den Gebrauch von Wörtern in größeren sprachlichen Einheiten und die Beschreibung dieses Wortgebrauchs zum Gegenstand haben. Das IZ bietet Gastvorträge, Konferenzen und Workshops zu diesen Themen an.   
+    <https://www.cocolex.fau.de/>
 * Im 2. oder 3. Fachsemester besteht außerdem die Möglichkeit, im Rahmen des Projektmoduls an einem linguistischen Forschungsprojekt mitzuarbeiten.
 
 ### Welche beruflichen Perspektiven stehen mir offen?
@@ -91,8 +91,8 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ### Sprachkenntnisse
 
-* DSH 2 oder gleichwertig
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Bewerberinnen und Bewerber, die keinen deutschen Studienabschluss oder die deutsche Hochschulreife vorlegen können, benötigen bereits zum Zeitpunkt der Bewerbung zusätzlich den Nachweis eines Zertifikats über Deutschkenntnisse auf Niveau DSH-2 (oder gleichwertig).
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Voraussetzungen für Master
 
@@ -102,7 +102,7 @@ Dieser Masterstudiengang kann von Bachelorabsolventen und Absolventinnen eines B
 * Als Gesamtnote des vorgängigen Hochschulabschlusses genügt ein mindestens „gut“ (2,5); bei einer Gesamtnote von 2,51 bis 3,00 absolvieren die Bewerberinnen und Bewerber ein individuelles Aufnahmegespräch.
 * Für eine Bewerbung im laufenden Abschlusssemester des Bachelorstudiums reicht der Nachweis von 140 ECTS-Punkten aus.
 
-Bewerberinnen und Bewerber, die keinen deutschen Studienabschluss oder die deutsche Hochschulreife vorlegen können, benötigen zusätzlich den Nachweis eines Zertifikats über Deutschkenntnisse auf Niveau DSH-2 (oder gleichwertig).
+Bewerberinnen und Bewerber, die keinen deutschen Studienabschluss oder die deutsche Hochschulreife vorlegen können, benötigen **bereits zum Zeitpunkt der Bewerbung** zusätzlich den Nachweis eines Zertifikats über Deutschkenntnisse auf Niveau DSH-2 (oder gleichwertig).
 
 [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 
@@ -147,7 +147,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ## Externe Links
 
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)
 - [Direkt zum Bewerbungsportal](https://www.campo.fau.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces?sessionlanguage=de&page=Bewerber/-innen)

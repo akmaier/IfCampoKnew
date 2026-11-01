@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "50-150"
 besondere_studienformen: "Teilzeitstudium möglich"
-scraped_at: 2026-07-01T08:23:13+00:00
+scraped_at: 2026-11-01T11:15:01+00:00
 ---
 
 # Informatik (M.Sc.)
@@ -114,7 +114,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 * So the mandatory language requirement is:
   The proof of German language skills: DSH 2, TestDaF 4 (see the matriculation statues)
   Here you will find more informations about required German language skills, tests and courses.
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Voraussetzungen für Master
 
@@ -242,7 +242,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Wahlpflichtmodule der einzelnen Vertiefungsrichtungen](https://www.informatik.studium.fau.de/wahlpflichtmodule-vertiefungsrichtungen/)
 - [Studienführer Informatik](https://www.informatik.studium.fau.de/studierende/studienfuehrer-informatik/)
 - [hier](https://www.cs7.tf.fau.de/lehre/ifzt/)
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [Allgemeinen Prüfungsordnung (ABMPO)](https://www.fau.de/universitaet/rechtsgrundlagen/pruefungsordnungen/technische-fakultaet/)
 - [Studienablauf des Masterstudiengangs Informatik.](https://www.informatik.studium.fau.de/portalseite-studieninteressierte/studienverlauf-master/)
 - [campo.fau.de](https://www.campo.fau.de)
@@ -264,7 +263,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Webseite des Departments/Instituts](https://cs.fau.de)
 - [Technische Fakultät](https://tf.fau.de)
 - [Studierendenvertretung der FAU](https://stuve.fau.de/)
-- [Robert Kneschke - stock.adobe.co](https://www.fau.de/wp-content/uploads/sites/4/2026/07/Informatik-MSc-AdobeStock-scaled-1.jpeg)
+- [Robert Kneschke - stock.adobe.co](https://www.fau.de/wp-content/uploads/sites/4/2026/11/Informatik-MSc-AdobeStock-scaled-1.jpeg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/apply-now.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)

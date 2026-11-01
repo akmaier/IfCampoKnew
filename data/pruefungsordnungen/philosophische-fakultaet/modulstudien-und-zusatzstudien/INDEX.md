@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Modulstudien und Zusatzstudien"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/modulstudien-und-zusatzstudien/
-scraped_at: 2026-07-01T09:49:07+00:00
+scraped_at: 2026-11-01T11:36:03+00:00
 ---
 
 # Modulstudien und Zusatzstudien
@@ -11,90 +11,163 @@ scraped_at: 2026-07-01T09:49:07+00:00
 
 ## Inhalt der Landing-Seite
 
-Informationen und Fassungen zu Modul- und Zusatzstudien an der Philosophischen Fakultät und Fachbereich Theologie:
+### Erklärung zu den veröffentlichten Dokumenten
+
+* **Was ist eine Änderungssatzung (ÄS)?**  
+  In einer Änderungssatzung werden nur die tatsächlichen Änderungen, wie neue oder abgeschaffte Abschnitte festgehalten. Die Änderungssatzung ist rechtsverbindlich.
+* **Was ist eine konsolidierte Fassung?**  
+  Eine konsolidierte Fassung ist die aktuelle Version einer Fachstudien- und Prüfungsordnung, in der alle bisherigen Änderungen eingearbeitet sind. So sieht man auf einen Blick, welche Regelungen aktuell gelten. Das Datum im Dateinamen zeigt, auf welchem Stand die Ordnung ist („idF“ = „in der Fassung“).
+* **Welche Version ist für mich relevant?**  
+  Welche Fachstudien- und Prüfungsordnung (FPO) für Sie gilt, hängt in der Regel vom Beginn Ihres Studiums ab. Das passende Datum finden Sie im Dateinamen nach „idF“ (JJJJMMTT).
 
 ## Modulstudien
 
 ### Digital Humanities
 
-| konsolidierte Fassungen | Dateigröße |
-| --- | --- |
-| [Modulstudien Digital Humanities POM-DH 20250411.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Digital_Humanities/konsolidierte_Fassungen/Modulstudien_Digital_Humanities_POM-DH_20250411.pdf) | 202 KB |
-| [Modulstudien Digital Humanities POM-DH 20210729 i.d.F. 20220808.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Digital_Humanities/konsolidierte_Fassungen/Modulstudien_Digital_Humanities_POM-DH_20210729_idF_20220808.pdf) | 434 KB |
-| [Modulstudien Digital Humanities POM-DH 20210729.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Digital_Humanities/konsolidierte_Fassungen/Modulstudien_Digital_Humanities_POM-DH_20210729.pdf) | 434 KB |
+Fachstudien- und Prüfungsordnungen (FPO) des Modulstudiums Digital Humanities
 
-| Änderungssatzungen | Dateigröße |
+#### Konsolidierte Fassungen
+
+Konsolidierte Fassungen
+
+| Dateiname | Dateigröße |
 | --- | --- |
-| [Modulstudien Digital Humanities POM-DH 20220808 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Digital_Humanities/Aenderungssatzungen/Modulstudien_Digital_Humanities_POM-DH_20220808_AeS.pdf) | 212 KB |
+| [Modulstudien\_Digital\_Humanities\_POM-DH\_20250411.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FBachelor%2FModulstudien_Digital_Humanities%2Fkonsolidierte_Fassungen%2FModulstudien_Digital_Humanities_POM-DH_20250411.pdf&sig=f21e56a8a2b2696e253103b19bfe1ecd7ac3b563dd23a4dd3c047f0e2bc6fcda) | 202 KB |
+| [Modulstudien\_Digital\_Humanities\_POM-DH\_20210729\_idF\_20220808.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FBachelor%2FModulstudien_Digital_Humanities%2Fkonsolidierte_Fassungen%2FModulstudien_Digital_Humanities_POM-DH_20210729_idF_20220808.pdf&sig=2024591e605ac8a659200bde0561f8f6b7bd4b10c1bdc492985f62db4d582d2f) | 434 KB |
+| [Modulstudien\_Digital\_Humanities\_POM-DH\_20210729.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FBachelor%2FModulstudien_Digital_Humanities%2Fkonsolidierte_Fassungen%2FModulstudien_Digital_Humanities_POM-DH_20210729.pdf&sig=4368814eaa23cd00c935da28c91c2329fd8d43365c83d0498bc45df46dffd49a) | 434 KB |
+
+#### Änderungssatzungen
+
+Änderungssatzungen
+
+| Dateiname | Dateigröße |
+| --- | --- |
+| [Modulstudien\_Digital\_Humanities\_POM-DH\_20220808\_AeS.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FBachelor%2FModulstudien_Digital_Humanities%2FAenderungssatzungen%2FModulstudien_Digital_Humanities_POM-DH_20220808_AeS.pdf&sig=2c1df356352caa430cc092c648d21646ad2d5b8d6b629ecd6f1fd01131ee99cb) | 212 KB |
 
 ### Kulturraum Italien – Kunst, Literatur und Sprache
 
-| konsolidierte Fassungen | Dateigröße |
-| --- | --- |
-| [Modulstudien Kulturraum Italien POM-KultR-Ital 20240328 i.d.F. 20250522.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Italien/konsolidierte_Fassungen/Modulstudien_Kulturraum_Italien_POM-KultR-Ital_20240328_idF_20250522.pdf) | 352 KB |
-| [Modulstudien Kulturraum Italien POM-KultR-Ital 20240328.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Italien/konsolidierte_Fassungen/Modulstudien_Kulturraum_Italien_POM-KultR-Ital_20240328.pdf) | 175 KB |
-| [Modulstudien Kulturraum Italien POM-KultR-Ital 20200818 i.d.F. 20230323.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Italien/konsolidierte_Fassungen/Modulstudien_Kulturraum_Italien_POM-KultR-Ital_20200818_idF_20230323.pdf) | 433 KB |
-| [Modulstudien Kulturraum Italien POM-KultR-Ital 20200818 i.d.F. 20210726.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Italien/konsolidierte_Fassungen/Modulstudien_Kulturraum_Italien_POM-KultR-Ital_20200818_idF_20210726.pdf) | 431 KB |
-| [Modulstudien Kulturraum Italien POM-KultR-Ital 20200818.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Italien/konsolidierte_Fassungen/Modulstudien_Kulturraum_Italien_POM-KultR-Ital_20200818.pdf) | 429 KB |
+Fachstudien- und Prüfungsordnungen (FPO) des Modulstudiums Kulturraum Italien – Kunst, Literatur und Sprache
 
-| Änderungssatzungen | Dateigröße |
+#### Konsolidierte Fassungen
+
+Konsolidierte Fassungen
+
+| Dateiname | Dateigröße |
 | --- | --- |
-| [Modulstudien Kulturraum Italien POM KultR-Ital 20250522.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Italien/Aenderungssatzungen/Modulstudien_Kulturraum_Italien_POM_KultR-Ital_20250522.pdf) | 126 KB |
-| [Modulstudien Kulturraum Italien POM-KultR-Ital 20230323 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Italien/Aenderungssatzungen/Modulstudien_Kulturraum_Italien_POM-KultR-Ital_20230323_AeS.pdf) | 226 KB |
-| [Modulstudien Kulturraum Italien POM-KultR-Ital 20210726 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Italien/Aenderungssatzungen/Modulstudien_Kulturraum_Italien_POM-KultR-Ital_20210726_AeS.pdf) | 231 KB |
+| [Modulstudien\_Kulturraum\_Italien\_POM-KultR-Ital\_20240328\_idF\_20250522.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FBachelor%2FModulstudien_Italien%2Fkonsolidierte_Fassungen%2FModulstudien_Kulturraum_Italien_POM-KultR-Ital_20240328_idF_20250522.pdf&sig=df3a3abff8ea53ece18d90ce3b1bd5928041e8f22270ae07eacb230a2a4ce82c) | 352 KB |
+| [Modulstudien\_Kulturraum\_Italien\_POM-KultR-Ital\_20240328.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FBachelor%2FModulstudien_Italien%2Fkonsolidierte_Fassungen%2FModulstudien_Kulturraum_Italien_POM-KultR-Ital_20240328.pdf&sig=4af9a2ca7c4a9bfe8c5499728ba25e3597d4ef386d1657ee88dba6dd0bb3259c) | 175 KB |
+| [Modulstudien\_Kulturraum\_Italien\_POM-KultR-Ital\_20200818\_idF\_20230323.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FBachelor%2FModulstudien_Italien%2Fkonsolidierte_Fassungen%2FModulstudien_Kulturraum_Italien_POM-KultR-Ital_20200818_idF_20230323.pdf&sig=ed74c8684624a27bfe4f46fc4ad9637a7d78fc6bde3c528bad52388a63fa06b5) | 433 KB |
+| [Modulstudien\_Kulturraum\_Italien\_POM-KultR-Ital\_20200818\_idF\_20210726.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FBachelor%2FModulstudien_Italien%2Fkonsolidierte_Fassungen%2FModulstudien_Kulturraum_Italien_POM-KultR-Ital_20200818_idF_20210726.pdf&sig=36a7f70d16993906145ed112dae85e38310f7ffea02dca236dd0c24478d23883) | 431 KB |
+| [Modulstudien\_Kulturraum\_Italien\_POM-KultR-Ital\_20200818.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FBachelor%2FModulstudien_Italien%2Fkonsolidierte_Fassungen%2FModulstudien_Kulturraum_Italien_POM-KultR-Ital_20200818.pdf&sig=8ebe4839aa392fe8e19bb4ea36b5d2266aab337345bff121c620c7ddfeb850eb) | 429 KB |
+
+#### Änderungssatzungen
+
+Änderungssatzungen
+
+| Dateiname | Dateigröße |
+| --- | --- |
+| [Modulstudien\_Kulturraum\_Italien\_POM\_KultR-Ital\_20250522.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FBachelor%2FModulstudien_Italien%2FAenderungssatzungen%2FModulstudien_Kulturraum_Italien_POM_KultR-Ital_20250522.pdf&sig=5db8af308dd6fcf6fca92d1affed4861d67ff7798cc929e803d2f4d5f4c220e8) | 126 KB |
+| [Modulstudien\_Kulturraum\_Italien\_POM-KultR-Ital\_20230323\_AeS.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FBachelor%2FModulstudien_Italien%2FAenderungssatzungen%2FModulstudien_Kulturraum_Italien_POM-KultR-Ital_20230323_AeS.pdf&sig=00683c8cd530735a7faf52531a035b43c90758b2271f12409707e5a75d838dcb) | 226 KB |
+| [Modulstudien\_Kulturraum\_Italien\_POM-KultR-Ital\_20210726\_AeS.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FBachelor%2FModulstudien_Italien%2FAenderungssatzungen%2FModulstudien_Kulturraum_Italien_POM-KultR-Ital_20210726_AeS.pdf&sig=24db628cb8185c87b6c5a3858ca22b4172f6dc40d78c3a926cd8f7614733d83e) | 231 KB |
 
 ### Studium Philosophicum
 
-| konsolidierte Fassungen | Dateigröße |
-| --- | --- |
-| [Modulstudien Studium Philosophicum POM-StudPhil 20241210.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Philosophicum/konsolidierte_Fassungen/Modulstudien_Studium_Philosophicum_POM-StudPhil_20241210.pdf) | 154 KB |
-| [Modulstudien Studium Philosophicum POM-StudPhil 20210701 i.d.F. 20220530.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Philosophicum/konsolidierte_Fassungen/Modulstudien_Studium_Philosophicum_POM-StudPhil_20210701_idF_20220530.pdf) | 414 KB |
-| [Modulstudien Studium Philosophicum POM-StudPhil 20210701 i.d.F. 20211221.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Philosophicum/konsolidierte_Fassungen/Modulstudien_Studium_Philosophicum_POM-StudPhil_20210701_idF_20211221.pdf) | 414 KB |
-| [Modulstudien Studium Philosophicum POM-StudPhil 20210701.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Philosophicum/konsolidierte_Fassungen/Modulstudien_Studium_Philosophicum_POM-StudPhil_20210701.pdf) | 411 KB |
+Fachstudien- und Prüfungsordnungen (FPO) des Modulstudiums Studium Philosophicum
 
-| Änderungssatzungen | Dateigröße |
+#### Konsolidierte Fassungen
+
+Konsolidierte Fassungen
+
+| Dateiname | Dateigröße |
 | --- | --- |
-| [Modulstudien Studium Philosophicum POM-StudPhil 20220530 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Philosophicum/Aenderungssatzungen/Modulstudien_Studium_Philosophicum_POM-StudPhil_20220530_AeS.pdf) | 203 KB |
-| [Modulstudien Studium Philosophicum POM-StudPhil 20211221 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Philosophicum/Aenderungssatzungen/Modulstudien_Studium_Philosophicum_POM-StudPhil_20211221_AeS.pdf) | 207 KB |
+| [Modulstudien\_Studium\_Philosophicum\_POM-StudPhil\_20241210.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FBachelor%2FModulstudien_Philosophicum%2Fkonsolidierte_Fassungen%2FModulstudien_Studium_Philosophicum_POM-StudPhil_20241210.pdf&sig=5b26e4af1bb70df232258f6a90c491792d9fdbe8f6ad1ea9c4b40d041faeae7a) | 154 KB |
+| [Modulstudien\_Studium\_Philosophicum\_POM-StudPhil\_20210701\_idF\_20220530.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FBachelor%2FModulstudien_Philosophicum%2Fkonsolidierte_Fassungen%2FModulstudien_Studium_Philosophicum_POM-StudPhil_20210701_idF_20220530.pdf&sig=92f4aaee3b8c9b5fb4a7af05075f6aef29f626f7af91cbd5aaaef188aebc24f5) | 414 KB |
+| [Modulstudien\_Studium\_Philosophicum\_POM-StudPhil\_20210701\_idF\_20211221.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FBachelor%2FModulstudien_Philosophicum%2Fkonsolidierte_Fassungen%2FModulstudien_Studium_Philosophicum_POM-StudPhil_20210701_idF_20211221.pdf&sig=0589acdd49abdea5130dad06bfcc44d9a16dc2ea5f48b8db382bdf6eec22c494) | 414 KB |
+| [Modulstudien\_Studium\_Philosophicum\_POM-StudPhil\_20210701.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FBachelor%2FModulstudien_Philosophicum%2Fkonsolidierte_Fassungen%2FModulstudien_Studium_Philosophicum_POM-StudPhil_20210701.pdf&sig=5ba415e5b69819e262afbced489536a34a049bd202e2115a34a47cad348fbe52) | 411 KB |
+
+#### Änderungssatzungen
+
+Änderungssatzungen
+
+| Dateiname | Dateigröße |
+| --- | --- |
+| [Testdokument\_fuer\_Schulung.docx (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FBachelor%2FModulstudien_Philosophicum%2FAenderungssatzungen%2FTestdokument_fuer_Schulung.docx&sig=111f15f24eda3447132ceacaf303ed1e270837eed1ae59dc9fe7addb2f82ba2d) | 11 KB |
+| [Modulstudien\_Studium\_Philosophicum\_POM-StudPhil\_20220530\_AeS.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FBachelor%2FModulstudien_Philosophicum%2FAenderungssatzungen%2FModulstudien_Studium_Philosophicum_POM-StudPhil_20220530_AeS.pdf&sig=36f2e94a31bd494f55515f3e267b3223aa646aff12173eb2b94818975d80b30f) | 203 KB |
+| [Modulstudien\_Studium\_Philosophicum\_POM-StudPhil\_20211221\_AeS.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FBachelor%2FModulstudien_Philosophicum%2FAenderungssatzungen%2FModulstudien_Studium_Philosophicum_POM-StudPhil_20211221_AeS.pdf&sig=d1bb75e398bcb48b8a69e0e78dc470fab3167ae34c9bbe9a805c308eaa0f48e8) | 207 KB |
 
 ## Zusatzstudien
 
 ### Allgemeine und fachbezogene Bildung in der digitalen Welt (Zusatzstudien)
 
-| konsolidierte Fassungen | Dateigröße |
-| --- | --- |
-| [Zusatzstudien Bildung in der digitalen Welt PO ZS 20230323 idf 20240627.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zusatzstudien_Bildung_digitale_Welt/konsolidierte_Fassungen/Zusatzstudien_Bildung_in_der_digitalen_Welt_PO_ZS_20230323_idf_20240627.pdf) | 160 KB |
-| [Zusatzstudien Bildung in der digitalen Welt PO ZS 20230223.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zusatzstudien_Bildung_digitale_Welt/konsolidierte_Fassungen/Zusatzstudien_Bildung_in_der_digitalen_Welt_PO_ZS_20230223.pdf) | 413 KB |
+Fachstudien- und Prüfungsordnungen (FPO) des Zusatzstudiums Allgemeine und fachbezogene Bildung in der digitalen Welt
 
-| Änderungssatzungen | Dateigröße |
-| --- | --- |
-| [Zusatzstudien Bildung in der digitalen Welt PO ZS ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zusatzstudien_Bildung_digitale_Welt/Aenderungssatzungen/Zusatzstudien_Bildung_in_der_digitalen_Welt_PO_ZS_AeS.pdf) | 125 KB |
+#### Konsolidierte Fassungen
 
-### "Gender 1 2 3" (Zusatzstudien)
+Konsolidierte Fassungen
 
-| konsolidierte Fassungen | Dateigröße |
+| Dateiname | Dateigröße |
 | --- | --- |
-| [PO Zusatzstudien Gender 20260305.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zusatzstudien_Gender_1_2_3/konsolidierte_Fassungen/PO_Zusatzstudien_Gender_20260305.pdf) | 236 KB |
+| [Zusatzstudien\_Bildung\_in\_der\_digitalen\_Welt\_PO\_ZS\_20230323\_idf\_20240627.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FBachelor%2FZusatzstudien_Bildung_digitale_Welt%2Fkonsolidierte_Fassungen%2FZusatzstudien_Bildung_in_der_digitalen_Welt_PO_ZS_20230323_idf_20240627.pdf&sig=540a6eef22824f6573e90070579363a2fe8b51e053a331d3467d9beaec7df8eb) | 160 KB |
+| [Zusatzstudien\_Bildung\_in\_der\_digitalen\_Welt\_PO\_ZS\_20230223.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FBachelor%2FZusatzstudien_Bildung_digitale_Welt%2Fkonsolidierte_Fassungen%2FZusatzstudien_Bildung_in_der_digitalen_Welt_PO_ZS_20230223.pdf&sig=c31ea97fc0f1c9cb9a14e3c62c68b51297a334fdd958f13b53bd442cb55a01a3) | 413 KB |
+
+### „Gender 1 2 3“ (Zusatzstudien)
+
+Fachstudien- und Prüfungsordnungen (FPO) des Zusatzstudiums „Gender 1 2 3“
+
+#### Konsolidierte Fassungen
+
+Konsolidierte Fassungen
+
+| Dateiname | Dateigröße |
+| --- | --- |
+| [PO\_Zusatzstudien\_Gender\_20260305.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FBachelor%2FZusatzstudien_Gender_1_2_3%2Fkonsolidierte_Fassungen%2FPO_Zusatzstudien_Gender_20260305.pdf&sig=e236bb675c7be989f42e0d70783ae9552f2b02d4e6ce8d40a28baffe3344a3f3) | 236 KB |
 
 ### Geowissenschaften (Zusatzstudien)
 
-| konsolidierte Fassungen | Dateigröße |
+Fachstudien- und Prüfungsordnungen (FPO) des Zusatzstudiums Geowissenschaften
+
+#### Konsolidierte Fassungen
+
+Konsolidierte Fassungen
+
+| Dateiname | Dateigröße |
 | --- | --- |
-| [PO ZS Geow im LA 20250320 .pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Geowissenschaften_im_Lehramt/konsolidierte_Fassungen/PO_ZS_Geow_im_LA_20250320 .pdf) | 136 KB |
-| [PO ZS Geow im LA 20220811.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Geowissenschaften_im_Lehramt/konsolidierte_Fassungen/PO_ZS_Geow_im_LA_20220811.pdf) | 411 KB |
-| [PO ZS Geow im LA 20180319.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Geowissenschaften_im_Lehramt/konsolidierte_Fassungen/PO_ZS_Geow_im_LA_20180319.pdf) | 141 KB |
+| [PO\_ZS\_Geow\_im\_LA\_20250320 .pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FGeowissenschaften_im_Lehramt%2Fkonsolidierte_Fassungen%2FPO_ZS_Geow_im_LA_20250320%20.pdf&sig=3cb8314bb75e6e0f3b2828bbc4d2a2feffc564d9555d7ddeeec47200b083f5ee) | 136 KB |
+| [PO\_ZS\_Geow\_im\_LA\_20220811.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FGeowissenschaften_im_Lehramt%2Fkonsolidierte_Fassungen%2FPO_ZS_Geow_im_LA_20220811.pdf&sig=a484efd4adf62aff8eb2741154edc5bb9249dec62725c8561ec87eec41be9f43) | 411 KB |
+| [PO\_ZS\_Geow\_im\_LA\_20180319.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FGeowissenschaften_im_Lehramt%2Fkonsolidierte_Fassungen%2FPO_ZS_Geow_im_LA_20180319.pdf&sig=c08c8f8b93c703b7497264c430b699b624188f14449909ca4e75f7217334fe5b) | 141 KB |
 
 ### Inklusion (Zusatzstudien)
 
-| konsolidierte Fassungen | Dateigröße |
+Fachstudien- und Prüfungsordnungen (FPO) des Zusatzstudiums Inklusion
+
+#### Konsolidierte Fassungen
+
+Konsolidierte Fassungen
+
+| Dateiname | Dateigröße |
 | --- | --- |
-| [PO Zusatzstudien Inklusion 20260305.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zusatzstudien_Inklusion/konsolidierte_Fassungen/PO_Zusatzstudien_Inklusion_20260305.pdf) | 274 KB |
+| [PO\_Zusatzstudien\_Inklusion\_20260305.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FBachelor%2FZusatzstudien_Inklusion%2Fkonsolidierte_Fassungen%2FPO_Zusatzstudien_Inklusion_20260305.pdf&sig=7f181f19d1d255d1e8cb351162c2540fa2a4f4e655601073223bc0bab12f1f1e) | 274 KB |
 
 ### Zusatzstudien Lehramt International (Zusatzstudien)
 
-| konsolidierte Fassungen | Dateigröße |
+Fachstudien- und Prüfungsordnungen (FPO) des Zusatzstudiums Lehramt International
+
+#### Konsolidierte Fassungen
+
+Konsolidierte Fassungen
+
+| Dateiname | Dateigröße |
 | --- | --- |
-| [PO Zusatzstudien FAU Lehramt International PO ZS FAU Lehramt International 20230822.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zusatzstudien_Lehramt_International/konsolidierte_Fassungen/PO_Zusatzstudien_FAU_Lehramt_International_PO_ZS_FAU_Lehramt_International_20230822.pdf) | 154 KB |
+| [PO\_ZS\_FAU\_Lehramt\_International\_20230822\_idF\_20260731.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FBachelor%2FZusatzstudien_Lehramt_International%2Fkonsolidierte_Fassungen%2FPO_ZS_FAU_Lehramt_International_20230822_idF_20260731.pdf&sig=08d500e1be2eaf59df51f00fb78660f6872a30d79183797b316c93a0af194930) | 313 KB |
+| [PO\_ZS\_FAU\_Lehramt\_International\_20230822.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FBachelor%2FZusatzstudien_Lehramt_International%2Fkonsolidierte_Fassungen%2FPO_ZS_FAU_Lehramt_International_20230822.pdf&sig=51854aaaf92d29d689ebb4350fb43e62db964a7c2382ec4f598bb1e471ec0310) | 154 KB |
+
+#### Änderungssatzungen
+
+Änderungssatzungen
+
+| Dateiname | Dateigröße |
+| --- | --- |
+| [ZS\_Lehramt International\_AeSa\_20260731.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FBachelor%2FZusatzstudien_Lehramt_International%2FAenderungssatzungen%2FZS_Lehramt%20International_AeSa_20260731.pdf&sig=a3334b41d725a4a08d99a7a8bf7be08be8d2786dba81a053e82004afdca35b28) | 275 KB |
 
 ## Fachstudien- und Prüfungsordnungen
 
@@ -109,32 +182,3 @@ Informationen und Fassungen zu Modul- und Zusatzstudien an der Philosophischen F
 * [Sprachprüfungen](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/)
 * [Promotions- und Habilitationsordnung](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/promotions-und-habilitationsordnungen/)
 
-## Prüfungsordnungen-Dokumente (27)
-
-- [Modulstudien Digital Humanities POM-DH 20250411.pdf](modulstudien-digital-humanities-pom-dh-20250411.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Digital_Humanities/konsolidierte_Fassungen/Modulstudien_Digital_Humanities_POM-DH_20250411.pdf>
-- [Modulstudien Digital Humanities POM-DH 20210729 i.d.F. 20220808.pdf](modulstudien-digital-humanities-pom-dh-20210729-idf-20220808.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Digital_Humanities/konsolidierte_Fassungen/Modulstudien_Digital_Humanities_POM-DH_20210729_idF_20220808.pdf>
-- [Modulstudien Digital Humanities POM-DH 20210729.pdf](modulstudien-digital-humanities-pom-dh-20210729.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Digital_Humanities/konsolidierte_Fassungen/Modulstudien_Digital_Humanities_POM-DH_20210729.pdf>
-- [Modulstudien Digital Humanities POM-DH 20220808 ÄS.pdf](modulstudien-digital-humanities-pom-dh-20220808-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Digital_Humanities/Aenderungssatzungen/Modulstudien_Digital_Humanities_POM-DH_20220808_AeS.pdf>
-- [Modulstudien Kulturraum Italien POM-KultR-Ital 20240328 i.d.F. 20250522.pdf](modulstudien-kulturraum-italien-pom-kultr-ital-20240328-idf-20250522.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Italien/konsolidierte_Fassungen/Modulstudien_Kulturraum_Italien_POM-KultR-Ital_20240328_idF_20250522.pdf>
-- [Modulstudien Kulturraum Italien POM-KultR-Ital 20240328.pdf](modulstudien-kulturraum-italien-pom-kultr-ital-20240328.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Italien/konsolidierte_Fassungen/Modulstudien_Kulturraum_Italien_POM-KultR-Ital_20240328.pdf>
-- [Modulstudien Kulturraum Italien POM-KultR-Ital 20200818 i.d.F. 20230323.pdf](modulstudien-kulturraum-italien-pom-kultr-ital-20200818-idf-20230323.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Italien/konsolidierte_Fassungen/Modulstudien_Kulturraum_Italien_POM-KultR-Ital_20200818_idF_20230323.pdf>
-- [Modulstudien Kulturraum Italien POM-KultR-Ital 20200818 i.d.F. 20210726.pdf](modulstudien-kulturraum-italien-pom-kultr-ital-20200818-idf-20210726.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Italien/konsolidierte_Fassungen/Modulstudien_Kulturraum_Italien_POM-KultR-Ital_20200818_idF_20210726.pdf>
-- [Modulstudien Kulturraum Italien POM-KultR-Ital 20200818.pdf](modulstudien-kulturraum-italien-pom-kultr-ital-20200818.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Italien/konsolidierte_Fassungen/Modulstudien_Kulturraum_Italien_POM-KultR-Ital_20200818.pdf>
-- [Modulstudien Kulturraum Italien POM KultR-Ital 20250522.pdf](modulstudien-kulturraum-italien-pom-kultr-ital-20250522.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Italien/Aenderungssatzungen/Modulstudien_Kulturraum_Italien_POM_KultR-Ital_20250522.pdf>
-- [Modulstudien Kulturraum Italien POM-KultR-Ital 20230323 ÄS.pdf](modulstudien-kulturraum-italien-pom-kultr-ital-20230323-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Italien/Aenderungssatzungen/Modulstudien_Kulturraum_Italien_POM-KultR-Ital_20230323_AeS.pdf>
-- [Modulstudien Kulturraum Italien POM-KultR-Ital 20210726 ÄS.pdf](modulstudien-kulturraum-italien-pom-kultr-ital-20210726-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Italien/Aenderungssatzungen/Modulstudien_Kulturraum_Italien_POM-KultR-Ital_20210726_AeS.pdf>
-- [Modulstudien Studium Philosophicum POM-StudPhil 20241210.pdf](modulstudien-studium-philosophicum-pom-studphil-20241210.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Philosophicum/konsolidierte_Fassungen/Modulstudien_Studium_Philosophicum_POM-StudPhil_20241210.pdf>
-- [Modulstudien Studium Philosophicum POM-StudPhil 20210701 i.d.F. 20220530.pdf](modulstudien-studium-philosophicum-pom-studphil-20210701-idf-20220530.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Philosophicum/konsolidierte_Fassungen/Modulstudien_Studium_Philosophicum_POM-StudPhil_20210701_idF_20220530.pdf>
-- [Modulstudien Studium Philosophicum POM-StudPhil 20210701 i.d.F. 20211221.pdf](modulstudien-studium-philosophicum-pom-studphil-20210701-idf-20211221.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Philosophicum/konsolidierte_Fassungen/Modulstudien_Studium_Philosophicum_POM-StudPhil_20210701_idF_20211221.pdf>
-- [Modulstudien Studium Philosophicum POM-StudPhil 20210701.pdf](modulstudien-studium-philosophicum-pom-studphil-20210701.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Philosophicum/konsolidierte_Fassungen/Modulstudien_Studium_Philosophicum_POM-StudPhil_20210701.pdf>
-- [Modulstudien Studium Philosophicum POM-StudPhil 20220530 ÄS.pdf](modulstudien-studium-philosophicum-pom-studphil-20220530-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Philosophicum/Aenderungssatzungen/Modulstudien_Studium_Philosophicum_POM-StudPhil_20220530_AeS.pdf>
-- [Modulstudien Studium Philosophicum POM-StudPhil 20211221 ÄS.pdf](modulstudien-studium-philosophicum-pom-studphil-20211221-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Philosophicum/Aenderungssatzungen/Modulstudien_Studium_Philosophicum_POM-StudPhil_20211221_AeS.pdf>
-- [Zusatzstudien Bildung in der digitalen Welt PO ZS 20230323 idf 20240627.pdf](zusatzstudien-bildung-in-der-digitalen-welt-po-zs-20230323-idf-20240627.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zusatzstudien_Bildung_digitale_Welt/konsolidierte_Fassungen/Zusatzstudien_Bildung_in_der_digitalen_Welt_PO_ZS_20230323_idf_20240627.pdf>
-- [Zusatzstudien Bildung in der digitalen Welt PO ZS 20230223.pdf](zusatzstudien-bildung-in-der-digitalen-welt-po-zs-20230223.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zusatzstudien_Bildung_digitale_Welt/konsolidierte_Fassungen/Zusatzstudien_Bildung_in_der_digitalen_Welt_PO_ZS_20230223.pdf>
-- [Zusatzstudien Bildung in der digitalen Welt PO ZS ÄS.pdf](zusatzstudien-bildung-in-der-digitalen-welt-po-zs-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zusatzstudien_Bildung_digitale_Welt/Aenderungssatzungen/Zusatzstudien_Bildung_in_der_digitalen_Welt_PO_ZS_AeS.pdf>
-- [PO Zusatzstudien Gender 20260305.pdf](po-zusatzstudien-gender-20260305.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zusatzstudien_Gender_1_2_3/konsolidierte_Fassungen/PO_Zusatzstudien_Gender_20260305.pdf>
-- [PO ZS Geow im LA 20250320 .pdf](po-zs-geow-im-la-20250320.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Geowissenschaften_im_Lehramt/konsolidierte_Fassungen/PO_ZS_Geow_im_LA_20250320 .pdf>
-- [PO ZS Geow im LA 20220811.pdf](po-zs-geow-im-la-20220811.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Geowissenschaften_im_Lehramt/konsolidierte_Fassungen/PO_ZS_Geow_im_LA_20220811.pdf>
-- [PO ZS Geow im LA 20180319.pdf](po-zs-geow-im-la-20180319.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Geowissenschaften_im_Lehramt/konsolidierte_Fassungen/PO_ZS_Geow_im_LA_20180319.pdf>
-- [PO Zusatzstudien Inklusion 20260305.pdf](po-zusatzstudien-inklusion-20260305.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zusatzstudien_Inklusion/konsolidierte_Fassungen/PO_Zusatzstudien_Inklusion_20260305.pdf>
-- [PO Zusatzstudien FAU Lehramt International PO ZS FAU Lehramt International 20230822.pdf](po-zusatzstudien-fau-lehramt-international-po-zs-fau-lehramt-international-20230822.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zusatzstudien_Lehramt_International/konsolidierte_Fassungen/PO_Zusatzstudien_FAU_Lehramt_International_PO_ZS_FAU_Lehramt_International_20230822.pdf>

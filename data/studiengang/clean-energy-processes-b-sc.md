@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "50-150"
 besondere_studienformen: "1-Fach-Bachelor, Internationales Studienangebot"
-scraped_at: 2026-07-01T08:19:45+00:00
+scraped_at: 2026-11-01T11:12:17+00:00
 ---
 
 # Clean Energy Processes (B.Sc.)
@@ -124,7 +124,6 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
   IELTS 5.5 oder höher
   alternative Sprachnachweise finden Sie hier: https://sz.fau.eu/examinations/accreditation/
   Der Nachweis über die Englischkenntnisse (B2) muss bereits bei der Bewerbung auf campo hochgeladen werden beigefügt werden.
-* Deutschkenntnisse für internationale Studierende: [keine DSH, aber Englisch Niveau B2 (CEFR)](https://www.fau.eu/studying/degree-programs/special-ways-to-study/international-degree-programs/orientation-guide-language-tests/)
 
 ### Details und Anmerkungen
 
@@ -178,7 +177,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [innovative Bachelorstudiengang Clean Energy Processes](https://www.cep.study.fau.eu/)
 - [hier](https://www.fau.eu/education/international/from-abroad/application-and-enrolment/international-qualifications/)
 - [Webseite des Deutschen Akademischen Austauschdienstes (DAAD)](https://www.daad.de/en/study-and-research-in-germany/plan-your-studies/admission-database/)
-- [keine DSH, aber Englisch Niveau B2 (CEFR)](https://www.fau.eu/studying/degree-programs/special-ways-to-study/international-degree-programs/orientation-guide-language-tests/)
 - [weitere Zugangsmöglichkeiten](https://www.fau.de/education/bewerbung/zugang-zum-studium/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)

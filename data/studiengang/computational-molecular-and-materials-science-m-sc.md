@@ -5,11 +5,11 @@ abschluss: "Master of Science"
 zugang: "Qualifikationsfeststellungsverfahren"
 regelstudienzeit: "4 Semester"
 unterrichtssprache: "vollständig auf Englisch"
-fakultät: "Naturwissenschaftliche Fakultät, Technische Fakultät"
+fakultät: "Naturwissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "Teilzeitstudium möglich"
-scraped_at: 2026-07-01T08:20:04+00:00
+scraped_at: 2026-11-01T11:12:29+00:00
 ---
 
 # Computational Molecular and Materials Science (M.Sc.)
@@ -24,7 +24,7 @@ scraped_at: 2026-07-01T08:20:04+00:00
 | Zugang | Qualifikationsfeststellungsverfahren |
 | Regelstudienzeit | 4 Semester |
 | Unterrichtssprache | vollständig auf Englisch |
-| Fakultät | Naturwissenschaftliche Fakultät, Technische Fakultät |
+| Fakultät | Naturwissenschaftliche Fakultät |
 | Studienbeginn | Wintersemester |
 | Größe | 1-50 |
 | Besondere Studienformen | Teilzeitstudium möglich |
@@ -123,7 +123,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 ### Sprachkenntnisse
 
 * Bewerberinnen und Bewerber müssen Englischkenntnisse auf dem Niveau B2 (CEFR) oder äquivalent nachweisen. Der Nachweis entfällt, wenn der vorherige Hochschulabschluss vollständig in englischer Sprache erworben wurde.
-* Deutschkenntnisse für internationale Studierende: [keine DSH, aber Englisch Niveau B2 (CEFR)](https://www.fau.eu/studying/degree-programs/special-ways-to-study/international-degree-programs/orientation-guide-language-tests/)
+* Deutschkenntnisse für internationale Studierende: [keine Deutschkenntnisse erforderlich](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/#deutschkenntnisse-fuer-masterstudiengaenge)
 
 ### Voraussetzungen für Master
 
@@ -192,7 +192,7 @@ Weitere Informationen
 * [Webseite des Studiengangs](https://www.chemistry.nat.fau.eu/studying/cmms/)
 * [Prüfungsamt Naturwissenschaftliche Fakultät](https://www.fau.de/studium/studienorganisation/pruefungen/pruefungsamt-nat/)
 * [Webseite des Departments/Instituts](https://www.chemie.nat.fau.de/)
-* [Naturwissenschaftliche Fakultät](https://www.nat.fau.de/), [Technische Fakultät](https://tf.fau.de)
+* [Naturwissenschaftliche Fakultät](https://www.nat.fau.de/)
 * [Studierendenvertretung der FAU](https://stuve.fau.de/)
 
 ## Vorteile des Studiums an der FAU
@@ -201,7 +201,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ## Externe Links
 
-- [keine DSH, aber Englisch Niveau B2 (CEFR)](https://www.fau.eu/studying/degree-programs/special-ways-to-study/international-degree-programs/orientation-guide-language-tests/)
+- [keine Deutschkenntnisse erforderlich](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/#deutschkenntnisse-fuer-masterstudiengaenge)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)
 - [Direkt zum Bewerbungsportal](https://www.campo.fau.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces?sessionlanguage=de&page=Bewerber/-innen)
@@ -217,7 +217,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Prüfungsamt Naturwissenschaftliche Fakultät](https://www.fau.de/studium/studienorganisation/pruefungen/pruefungsamt-nat/)
 - [Webseite des Departments/Instituts](https://www.chemie.nat.fau.de/)
 - [Naturwissenschaftliche Fakultät](https://www.nat.fau.de/)
-- [Technische Fakultät](https://tf.fau.de)
 - [Studierendenvertretung der FAU](https://stuve.fau.de/)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/uploads/sites/4/2026/03/FAU_NAT_2025_FATHER-SUN_2594-resize-small.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/apply-now.jpg)

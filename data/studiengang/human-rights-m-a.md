@@ -9,7 +9,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "Internationales Studienangebot, Teilzeitstudium möglich"
-scraped_at: 2026-07-01T08:22:56+00:00
+scraped_at: 2026-11-01T11:14:48+00:00
 ---
 
 # Human Rights (M.A.)
@@ -60,7 +60,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 * Nachweis von Englischkenntnissen
   Es müssen Englischkenntnisse auf dem Niveau C1 des Gemeinsamen Europäischen Referenzrahmens für Sprachen nachgewiesen werden. Dies erfordert die Vorlage eines anerkannten Sprachtests wie IELTS, TOEFL, UNIcert, Cambridge usw.
-* Deutschkenntnisse für internationale Studierende: Keine DSH, aber Englisch Niveau C1 (CEFR)
+* Deutschkenntnisse für internationale Studierende: [keine Deutschkenntnisse erforderlich](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/#deutschkenntnisse-fuer-masterstudiengaenge)
 
 ### Voraussetzungen für Master
 
@@ -117,6 +117,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ## Externe Links
 
+- [keine Deutschkenntnisse erforderlich](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/#deutschkenntnisse-fuer-masterstudiengaenge)
 - [Qualifikationsfeststellungsverfahrens](https://www.humanrights-master.fau.de/assessment-of-applications/)
 - [Englischkenntnissen](https://www.fau.eu/studying/degree-programs/special-ways-to-study/international-degree-programs/orientation-guide-language-tests/)
 - [Zugangsvoraussetzungen finden Sie auf der Studiengangshomepage](https://www.humanrights-master.fau.de/requirements/)

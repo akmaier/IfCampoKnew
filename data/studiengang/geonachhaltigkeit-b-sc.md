@@ -9,7 +9,7 @@ fakultät: "Naturwissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "1-Fach-Bachelor"
-scraped_at: 2026-07-01T08:22:09+00:00
+scraped_at: 2026-11-01T11:14:07+00:00
 ---
 
 # GeoNachhaltigkeit (B.Sc.)
@@ -34,6 +34,16 @@ scraped_at: 2026-07-01T08:22:09+00:00
 Der Studiengang GeoNachhaltigkeit ist ein moderner und vielseitiger Studiengang der Geowissenschaften, bei dem der Fokus auf zentralen nachhaltigen Themen liegt.
 
 Die Prozesse und Wechselwirkungen des Erdsystems sowie Aufbau, Struktur, Entwicklungsgeschichte, gegenwärtiger und zukünftiger Zustand unseres Planeten Erde und seiner Ökosysteme stehen im Mittelpunkt des Studiums. Beleuchtet werden alle geowissenschaftlichen Prozesse des Systems Erde in der Litho-, Hydro- und Biosphäre. Dies umfasst alle geologischen, chemischen, physikalischen und biologischen Vorgänge und Prozesse, die von der Entstehung der Erde bis hin zu ihrem heutigen Erscheinungsbild stattfanden oder aktuell stattfinden.
+
+### Fachanteile des Studiengangs GeoNachhaltigkeit (B.Sc.)
+
+* Geowissenschaften (27%)
+* Wahlbereich (21%)
+* Methoden (18%)
+* GeoNachhaltigkeit (15%)
+* Geländearbeit (9%)
+* Geochemie/Geomathematik/Geophysik (6%)
+* Projektarbeit (3%)
 
 ### Aufbau und Struktur
 
@@ -81,7 +91,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ### Sprachkenntnisse
 
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Details und Anmerkungen
 
@@ -132,13 +142,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ## Externe Links
 
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [weitere Zugangsmöglichkeiten](https://www.fau.de/education/bewerbung/zugang-zum-studium/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)
 - [Direkt zum Bewerbungsportal](https://www.campo.fau.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces?sessionlanguage=de&page=Bewerber/-innen)
 - [Zentrale Studienberatung Die Zentrale Studienberatung ist die erste Anlaufstelle zu allen Fragen rund ums Studium. Die Zentrale Studienberatung ist die erste Anlaufstelle zu allen Fragen rund ums Studium. Mehr über Zentrale Studienberatung  erfahren](https://zsb.fau.de)
-- [Studien-Service-Center Naturwissenschaftliche Fakultät Fachbezogene Beratung für Fragen rund um das Fach und die Studienplanung. Fachbezogene Beratung für Fragen rund um das Fach und die Studienplanung. Mehr über Studien-Service-Center Naturwissenschaftliche Fakultät erfahren](https://www.nat.fau.de/studium/beratung/ssc/)
+- [Studien-Service-Center Naturwissenschaftliche Fakultät Fachbezogene Beratung für Fragen rund um das Fach und die Studienplanung. Fachbezogene Beratung für Fragen rund um das Fach und die Studienplanung. Mehr über Studien-Service-Center Naturwissenschaftliche Fakultät erfahren](https://www.nat.fau.de/studium/beratung/)
 - [Infos zum Semesterstart](https://www.fau.de/studium/studienorganisation/studienstart/)
 - [Semestertermine](https://www.fau.de/studium/studienorganisation/semestertermine/)
 - [Semesterbeitrag](https://www.fau.de/studium/studienorganisation/studierendenangelegenheiten/rueckmeldung-und-semesterbeitrag/)

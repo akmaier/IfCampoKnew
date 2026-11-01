@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "250-600"
 besondere_studienformen: "Internationales Studienangebot, Studiengang mit Doppelabschluss"
-scraped_at: 2026-07-01T08:20:01+00:00
+scraped_at: 2026-11-01T11:12:29+00:00
 ---
 
 # Computational Engineering (M.Sc.)
@@ -72,7 +72,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ### Sprachkenntnisse
 
-* Deutschkenntnisse für internationale Studierende: [keine DSH, aber Englisch Niveau B2 (CEFR)](https://www.fau.eu/studying/degree-programs/special-ways-to-study/international-degree-programs/orientation-guide-language-tests/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Voraussetzungen für Master
 
@@ -85,7 +85,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 * Bachelorurkunde oder Bestätigung der Universität, dass der Abschluss demnächst erworben wird
 * Bachelorzeugnis (falls noch nicht vorhanden: aktueller Notenauszug)
 * Englischnachweis (TOEFL oder Vergleichbares, in der Regel genügt die Englischnote auf dem Abiturzeugnis)
-* APS-Bescheinigung für BewerberInnen aus China und Vietnam bereits bei der Bewerbung, bei Indien erst bei Einschreibung vorzulegen
+* APS-Bescheinigung für Bewerberinnen und Bewerber aus China, Vietnam und Indien sind bereits bei der Bewerbung vorzulegen
 * Studierende, die ihren Bachelorabschluss an einer anderen Universität erworben haben, müssen das Modulhandbuch vorlegen
 
 ### BewerberInnen Kriterien
@@ -149,7 +149,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 ## Externe Links
 
 - [hier](https://www.ce.studium.fau.de/studieninteressierte/tafs/)
-- [keine DSH, aber Englisch Niveau B2 (CEFR)](https://www.fau.eu/studying/degree-programs/special-ways-to-study/international-degree-programs/orientation-guide-language-tests/)
 - [gleichwertige Qualifizierung](https://www.fau.eu/study/prospective-students/degree-programmes/international-degree-programmes/orientation-guide/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)

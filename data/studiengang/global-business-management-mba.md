@@ -9,7 +9,7 @@ fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "<25"
 besondere_studienformen: "Weiterbildungs-/berufsbegleitender Studiengang"
-scraped_at: 2026-07-01T08:22:39+00:00
+scraped_at: 2026-11-01T11:14:35+00:00
 ---
 
 # Global Business Management (MBA)
@@ -47,7 +47,7 @@ Konkrete Managementaufgaben und -herausforderungen werden unter Verwendung akade
 
 Insgesamt werden in drei Semestern 60 ECTS-Punkte erworben. Diese setzen sich aus neun Modulen mit jeweils 5 ECTS-Punkten und der Masterarbeit mit 15 ECTS-Punkten zusammen.
 
-Weitere Informationen finden Sie auf der Website [Structure | Global MBA / FAU](https://www.mba-fau.com/) .
+Weitere Informationen finden Sie auf der [Website](https://fau-executive-school.de/business-management/).
 
 ![](https://www.studiengangsverwaltung.zuv.fau.de/wp-content/uploads/sites/5/2025/11/grafik.png)
 
@@ -74,7 +74,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ### Sprachkenntnisse
 
-* Deutschkenntnisse für internationale Studierende: [Deutschkenntnisse erforderlich](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Voraussetzungen für Master
 
@@ -117,9 +117,9 @@ Downloads
 
 Weitere Informationen
 
-* [Webseite des Studiengangs](https://www.mba-fau.com/)
+* [Webseite des Studiengangs](https://www.global-mba.de/)
 * [Prüfungsamt Fachbereich Wirtschafts- und Sozialwissenschaften](https://www.fau.de/studium/studienorganisation/pruefungen/pruefungsamt-rw/wirtschafts-und-sozialwissenschaften/)
-* [Webseite des Departments/Instituts](https://www.mba-fau.com/)
+* [Webseite des Departments/Instituts](https://www.global-mba.de/)
 * [Rechts- und Wirtschaftswissenschaftliche Fakultät](https://www.rw.fau.de/)
 * [Studierendenvertretung der FAU](https://stuve.fau.de/)
 
@@ -129,8 +129,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ## Externe Links
 
-- [Overview | Global MBA / FAU](https://www.mba-fau.com/)
-- [Deutschkenntnisse erforderlich](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+- [Website](https://fau-executive-school.de/business-management/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)
 - [Jetzt bewerben](https://www.mba-fau.com/bewerbung)
@@ -143,10 +142,11 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Wege ins Ausland](https://www.fau.de/studium/studienorganisation/wege-ins-ausland/)
 - [Modulhandbuch](https://www.wiso.rw.fau.de/studium/im-studium/modulhandbuecher/)
 - [Prüfungsordnungen](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/)
+- [Webseite des Studiengangs](https://www.global-mba.de/)
 - [Prüfungsamt Fachbereich Wirtschafts- und Sozialwissenschaften](https://www.fau.de/studium/studienorganisation/pruefungen/pruefungsamt-rw/wirtschafts-und-sozialwissenschaften/)
 - [Rechts- und Wirtschaftswissenschaftliche Fakultät](https://www.rw.fau.de/)
 - [Studierendenvertretung der FAU](https://stuve.fau.de/)
-- [Heiko Stahl](https://www.fau.de/wp-content/uploads/sites/4/2026/07/03_Executive-School-scaled-1.jpg)
+- [Heiko Stahl](https://www.fau.de/wp-content/uploads/sites/4/2026/11/03_Executive-School-scaled-1.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/apply-now.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)

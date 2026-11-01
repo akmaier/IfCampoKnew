@@ -8,7 +8,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "1-50"
 besondere_studienformen: "Zusatzstudien"
-scraped_at: 2026-07-01T08:29:11+00:00
+scraped_at: 2026-11-01T11:20:22+00:00
 ---
 
 # Zusatzstudien "FAU Lehramt International" (Zertifikat)
@@ -36,7 +36,7 @@ Die Studierenden erwerben im Rahmen dieses Studienangebotes fachübergreifende u
 In den Zusatzstudien Zertifikat „FAU Lehramt International“ sind drei von vier Module zu belegen:
 
 * ZS M1: „Internationale und Europäische Dimension in den Fachwissenschaften, Fachdidaktiken und/oder Bildungswissenschaften“. Studierende kennen und reflektieren die internationale und interkulturelle Dimension in ihren Fachwissenschaften, Fachdidaktiken oder Bildungswissenschaften.
-* ZS M2: „Mehrsprachigkeit und Pädagogische Professionalität“. Studierende belegen einen Sprachkurs zur Vertiefung der eigenen fremdsprachlichen Kompetenz und reflektieren im Mentorat den Umgang mit Mehrsprachigkeit in Bildung und Erziehung.
+* ZS M2: „Mehrsprachigkeit und Pädagogische Professionalität“. Studierende belegen ein Mentorat zur Reflexion von Mehrsprachigkeit und pädagogischer Professionalität unter Berücksichtigung eigener Erfahrungen mit dem Erwerb beziehungsweise der Erweiterung fremdsprachlicher und/oder herkunftssprachlicher Kompetenzen, die z.B. im Rahmen eines Sprachkurses, Auslandsaufenthaltes oder herkunftsbedingt erworben wurden.
 * ZS M3: „Pädagogische Professionalität im Kontext der internationalen Mobilität“. Studierende absolvieren einen Auslandsaufenthalt im Lehramtsstudium und reflektieren in einem Vor- und Nachbereitungsseminar die organisatorischen und kulturellen Herausforderungen bei der Planung und Durchführung eines Auslandsaufenthaltes auch mit Schülerinnen und Schülern.
 * ZS M4: „Global Citizens in Action“. Studierende kennen die theoretischen und praktischen Konzepte von Globalem Lernen und Global Citizenship Education und werden im Sinne von Service Learning aktiv. Studierende können eigene international ausgerichtete bildungspraktische Erfahrungen für das professionelle pädagogische Handeln in der Schule reflektieren.
 
@@ -51,14 +51,14 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ### Sprachkenntnisse
 
-* In Modul 2 der Zusatzstudien Zertifikat „FAU Lehramt International“ sollen durch die Belegung eines Sprachkurses (vorhandene) Sprachkenntnisse erweitert und ausgebaut werden, dabei können Sprache und Sprachniveau frei gewählt werden. Auch die Vertiefung von muttersprachlichen Kompetenzen in verschiedenen Herkunftssprachen (z.B. zum Erwerb von Schriftsprachlichkeit oder akademischem Niveau einer familiär erworbenen Erst-/Zweitsprache) soll hierdurch unterstützt werden. Außerdem werden viele Veranstaltungen, Seminare und Workshops auch in Englischer Sprache oder English-friendly angeboten.
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* In Modul 2 der Zusatzstudien Zertifikat „FAU Lehramt International“ sollen für die Reflexion von Mehrsprachigkeit und pädagogischer Professionalität eigene Erfahrungen mit dem Erwerb beziehungsweise der Erweiterung fremdsprachlicher und/oder herkunftssprachlicher Kompetenzen herangezogen werden. Diese können z.B. im Rahmen eines Sprachkurses, eines Auslandsaufenthaltes oder herkunftsbedingt erworben worden sein (Sprache und Sprachniveau durch die Studierenden frei wählbar).
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Details und Anmerkungen
 
 Zugangsvoraussetzung für die Zusatzstudien ist die Immatrikulation in einem Lehramtsstudiengang an der FAU.
 
-Die Einschreibung ist jeweils bis zum ersten Tag der Vorlesungszeit möglich. Die Einschreibung erfolgt über das Formular Studiengangswechsel (Wechsel von „aktuellem Lehramtsstudiengang“ zu „aktuellem Lehramtsstudiengang plus Zusatzstudien Zertifikat „FAU Lehramt International““) und ist über die Studierendenverwaltung einzureichen. Die Einschreibung ist jeweils bis zum ersten Tag der Vorlesungszeit möglich.
+Die Einschreibung erfolgt über das Formular Studiengangswechsel (Wechsel von „aktuellem Lehramtsstudiengang“ zu „aktuellem Lehramtsstudiengang plus Zusatzstudien Zertifikat „FAU Lehramt International““) und ist über die Studierendenverwaltung einzureichen. Die Einschreibung ist jeweils bis zum ersten Tag der Vorlesungszeit möglich.
 
 Wir beraten Sie gerne zu einem individuellen Studienverlauf und zur Anrechnung bereits erbrachter Leistungen, Sprachkurse, Auslandsaufenthalte und bildungspraktischen Erfahrungen (u.a. Teilnahme am Buddy-Programm der FAU).
 
@@ -88,7 +88,7 @@ Organisatorisches
 
 Downloads
 
-* [Modulhandbuch](https://www.interedu.phil.fau.de/files/2023/12/230525_Zusatzstudien_FAU_Lehramt_International_Modulbeschreibungen_FINAL_Publ.pdf)
+* [Modulhandbuch](https://www.interedu.phil.fau.de/files/2026/10/Modulbeschreibung_ZS_FAU-LA-Int-.pdf)
 * [Prüfungsordnungen](https://www.fau.de/fau/rechtsgrundlagen/pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/#la-international)
 
 Weitere Informationen
@@ -108,7 +108,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Antrag auf Anerkennung von Leistungen](https://www.fau.de/education/beratungs-und-servicestellen/pruefungsaemter/pruefungsamt-lehramt-lpo-i-master-of-education-la-g/#collapse_9)
 - [MA Erziehungswissenschaftlich-Empirische Bildungsforschung](https://www.interedu.phil.fau.de/lehre/informationen-rund-um-das-studium/)
 - [MA Pädagogik](https://www.interedu.phil.fau.de/lehre/m-a-paedagogik/)
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)
 - [Direkt zum Bewerbungsportal](https://www.campo.fau.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces?sessionlanguage=de&page=Bewerber/-innen)
@@ -119,7 +118,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Semesterbeitrag](https://www.fau.de/studium/studienorganisation/studierendenangelegenheiten/rueckmeldung-und-semesterbeitrag/)
 - [Beratungs- und Servicestellen](https://www.fau.de/studium/studienorganisation/studienberatung/beratungsangebote-im-ueberblick/)
 - [Wege ins Ausland](https://www.fau.de/studium/studienorganisation/wege-ins-ausland/)
-- [Modulhandbuch](https://www.interedu.phil.fau.de/files/2023/12/230525_Zusatzstudien_FAU_Lehramt_International_Modulbeschreibungen_FINAL_Publ.pdf)
+- [Modulhandbuch](https://www.interedu.phil.fau.de/files/2026/10/Modulbeschreibung_ZS_FAU-LA-Int-.pdf)
 - [Prüfungsordnungen](https://www.fau.de/fau/rechtsgrundlagen/pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/#la-international)
 - [Webseite des Studiengangs](https://www.interedu.phil.fau.de/lehre/zusatzstudien-fau-lehramt-international/)
 - [Prüfungsamt Lehrämter](https://www.fau.de/studium/studienorganisation/pruefungen/)

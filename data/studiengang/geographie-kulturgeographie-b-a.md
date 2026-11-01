@@ -5,10 +5,10 @@ abschluss: "Bachelor of Arts"
 zugang: "zulassungsfrei"
 regelstudienzeit: "6 Semester"
 unterrichtssprache: "vollständig auf Deutsch"
-fakultät: "Naturwissenschaftliche Fakultät, Philosophische Fakultät und Fachbereich Theologie"
+fakultät: "Naturwissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "50-150"
-scraped_at: 2026-07-01T08:21:56+00:00
+scraped_at: 2026-11-01T11:13:52+00:00
 ---
 
 # Geographie: Kulturgeographie (B.A.)
@@ -23,7 +23,7 @@ scraped_at: 2026-07-01T08:21:56+00:00
 | Zugang | zulassungsfrei |
 | Regelstudienzeit | 6 Semester |
 | Unterrichtssprache | vollständig auf Deutsch |
-| Fakultät | Naturwissenschaftliche Fakultät, Philosophische Fakultät und Fachbereich Theologie |
+| Fakultät | Naturwissenschaftliche Fakultät |
 | Studienbeginn | Wintersemester |
 | Größe | 50-150 |
 
@@ -42,7 +42,7 @@ Kulturgeographie befasst sich außerdem mit Gesellschaften und der Raumbezogenhe
 * Gesellschaft-/Umwelt (15%)
 * Globale Ungleichheit (15%)
 * Kulturelle und Politische Geographie (15%)
-* Stadt-und Regionalfoschung (15%)
+* Stadt-und Regionalforschung (15%)
 * Exkursion und Praxisbezug (10%)
 * Sozialwissenschaftliche Methode (10%)
 * Boden und Geomorphologie (5%)
@@ -123,7 +123,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ### Sprachkenntnisse
 
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Details und Anmerkungen
 
@@ -165,7 +165,7 @@ Weitere Informationen
 * [Webseite des Studiengangs](https://www.geographie.nat.fau.de/studium/studiengaenge/bachelor/ba-kg/)
 * [Prüfungsamt Naturwissenschaftliche Fakultät](https://www.fau.de/studium/studienorganisation/pruefungen/pruefungsamt-nat/)
 * [Webseite des Departments/Instituts](https://www.geographie.nat.fau.de/)
-* [Naturwissenschaftliche Fakultät](https://www.nat.fau.de/), [Philosophische Fakultät und Fachbereich Theologie](https://www.phil.fau.de/)
+* [Naturwissenschaftliche Fakultät](https://www.nat.fau.de/)
 * [Studierendenvertretung der FAU](https://stuve.fau.de/)
 
 ## Vorteile des Studiums an der FAU
@@ -174,13 +174,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ## Externe Links
 
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [weitere Zugangsmöglichkeiten](https://www.fau.de/education/bewerbung/zugang-zum-studium/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)
 - [Direkt zum Bewerbungsportal](https://www.campo.fau.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces?sessionlanguage=de&page=Bewerber/-innen)
 - [Zentrale Studienberatung Die Zentrale Studienberatung ist die erste Anlaufstelle zu allen Fragen rund ums Studium. Die Zentrale Studienberatung ist die erste Anlaufstelle zu allen Fragen rund ums Studium. Mehr über Zentrale Studienberatung  erfahren](https://zsb.fau.de)
-- [Studien-Service-Center Naturwissenschaftliche Fakultät Fachbezogene Beratung für Fragen rund um das Fach und die Studienplanung. Fachbezogene Beratung für Fragen rund um das Fach und die Studienplanung. Mehr über Studien-Service-Center Naturwissenschaftliche Fakultät erfahren](https://www.nat.fau.de/studium/beratung/ssc/)
+- [Studien-Service-Center Naturwissenschaftliche Fakultät Fachbezogene Beratung für Fragen rund um das Fach und die Studienplanung. Fachbezogene Beratung für Fragen rund um das Fach und die Studienplanung. Mehr über Studien-Service-Center Naturwissenschaftliche Fakultät erfahren](https://www.nat.fau.de/studium/beratung/)
 - [Infos zum Semesterstart](https://www.fau.de/studium/studienorganisation/studienstart/)
 - [Semestertermine](https://www.fau.de/studium/studienorganisation/semestertermine/)
 - [Semesterbeitrag](https://www.fau.de/studium/studienorganisation/studierendenangelegenheiten/rueckmeldung-und-semesterbeitrag/)
@@ -192,7 +191,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Prüfungsamt Naturwissenschaftliche Fakultät](https://www.fau.de/studium/studienorganisation/pruefungen/pruefungsamt-nat/)
 - [Webseite des Departments/Instituts](https://www.geographie.nat.fau.de/)
 - [Naturwissenschaftliche Fakultät](https://www.nat.fau.de/)
-- [Philosophische Fakultät und Fachbereich Theologie](https://www.phil.fau.de/)
 - [Studierendenvertretung der FAU](https://stuve.fau.de/)
 - [nizo - stock.adobe.com](https://www.fau.de/wp-content/uploads/sites/4/2026/03/Kulturgeographie-BA-AdobeStock.jpeg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/apply-now.jpg)

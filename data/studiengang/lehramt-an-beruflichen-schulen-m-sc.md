@@ -9,7 +9,7 @@ fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät, Technische Fakul
 studienbeginn: "Wintersemester"
 größe: "150-250"
 besondere_studienformen: "Teilzeitstudium möglich"
-scraped_at: 2026-07-01T08:24:37+00:00
+scraped_at: 2026-11-01T11:16:18+00:00
 ---
 
 # Lehramt an Beruflichen Schulen (M.Sc.)
@@ -101,7 +101,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ### Sprachkenntnisse
 
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Voraussetzungen für Master
 
@@ -161,7 +161,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [mehr zum Bachelorstudium Wirtschaftspädagogik](https://www.institut-wipaed.rw.fau.de/studium/bachelorstudium-wirtschaftswissenschaften/)
 - [mehr zum Masterstudium Wirtschaftspädagogik](https://www.institut-wipaed.rw.fau.de/studium/masterstudium-wirtschaftspaedagogik/)
 - [mehr zum Studiengang Berufspädagogik Technik](https://www.bpt.studium.fau.de/)
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [Wirtschaftspädagogik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/wirtschaftspaedagogik-msc/)
 - [Berufspädagogik Technik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/berufspaedagogik-technik-msc/)
 - [weitere Zugangsmöglichkeiten](https://www.fau.de/education/bewerbung/zugang-zum-studium/)

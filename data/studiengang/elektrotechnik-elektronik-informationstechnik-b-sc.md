@@ -8,8 +8,8 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "250-600"
-besondere_studienformen: "1-Fach-Bachelor, Verbundstudium/Duales Studium"
-scraped_at: 2026-07-01T08:21:08+00:00
+besondere_studienformen: "1-Fach-Bachelor"
+scraped_at: 2026-11-01T11:13:16+00:00
 ---
 
 # Elektrotechnik – Elektronik – Informationstechnik (B.Sc.)
@@ -27,7 +27,7 @@ scraped_at: 2026-07-01T08:21:08+00:00
 | Fakultät | Technische Fakultät |
 | Studienbeginn | Wintersemester |
 | Größe | 250-600 |
-| Besondere Studienformen | 1-Fach-Bachelor, Verbundstudium/Duales Studium |
+| Besondere Studienformen | 1-Fach-Bachelor |
 
 ## Worum geht es im Studiengang?
 
@@ -147,7 +147,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ### Sprachkenntnisse
 
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Details und Anmerkungen
 
@@ -201,7 +201,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 ## Externe Links
 
 - [Praktikumsamt](https://www.eei.tf.fau.de/studium/praktikumsamt/)
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [weitere Zugangsmöglichkeiten](https://www.fau.de/education/bewerbung/zugang-zum-studium/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)

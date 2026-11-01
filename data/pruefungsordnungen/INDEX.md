@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Studien- und Prüfungsordnungen"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/
-scraped_at: 2026-07-01T08:29:17+00:00
+scraped_at: 2026-11-01T11:20:32+00:00
 ---
 
 # Studien- und Prüfungsordnungen
@@ -45,7 +45,7 @@ Hier finden Sie – nach Fakultäten gegliedert – die Studien- und Prüfungsor
 * [Studien- und Prüfungsordnungen](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/#fach)
   + [Rahmenprüfungsordnungen](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/#rahmen)
   + [Bachelorstudiengänge](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/bachelorstudiengaenge/)
-  + [Masterstudiengänge](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/)
+  + [Masterstudiengänge](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rechts-und-wirtschaftswissenschaftliche-fakultaet/wiso/masterstudiengaenge/)
   + [Weiterbildungsmasterstudiengänge (berufsbegleitend)](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/)
   + [Modulstudien](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/modul-und-zusatzstudien/)
   + [Diplomstudiengänge und weitere](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/)
@@ -67,7 +67,7 @@ Hier finden Sie – nach Fakultäten gegliedert – die Studien- und Prüfungsor
 * [Lehreinheit Mathematik und Data Science](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/)
 * [Department Physik](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/)
 * [Modulstudien](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/modul-und-zusatzstudien/)
-* [Spezielle weiterbildende Studien](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/)
+* [Spezielle weiterbildende Studien](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/modul-und-zusatzstudien/)
 * [Sprachprüfungen](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/)
 * [Promotions- und Habilitationsordnung](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/promotions-und-habilitationsordnungen/)
 * [Lehramtsstudiengänge](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/)
@@ -131,14 +131,14 @@ Hier finden Sie – nach Fakultäten gegliedert – die Studien- und Prüfungsor
 - [Fachbereich Theologie](philosophische-fakultaet/theologie/INDEX.md) — `philosophische-fakultaet/theologie`
 - [Weiterbildungs- und Elitestudiengänge sowie weitere](philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/INDEX.md) — `philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere`
 - [Zwei-Fach-Bachelor](philosophische-fakultaet/zwei-fach-bachelor/INDEX.md) — `philosophische-fakultaet/zwei-fach-bachelor`
-- [Rechts- und Wirtschaftswissenschaftliche Fakultät](rw/INDEX.md) — `rw`
-- [Fachbereich Rechtswissenschaft](rw/rewi/INDEX.md) — `rw/rewi`
-- [Fachbereich Wirtschafts- und Sozialwissenschaften](rw/wiso/INDEX.md) — `rw/wiso`
-- [Bachelorstudiengänge](rw/wiso/bachelorstudiengaenge/INDEX.md) — `rw/wiso/bachelorstudiengaenge`
-- [Diplomstudiengänge und weiteres](rw/wiso/diplomstudiengaenge-und-weiteres/INDEX.md) — `rw/wiso/diplomstudiengaenge-und-weiteres`
-- [Masterstudiengänge](rw/wiso/masterstudiengaenge/INDEX.md) — `rw/wiso/masterstudiengaenge`
-- [Modul- und Zusatzstudien](rw/wiso/modul-und-zusatzstudien/INDEX.md) — `rw/wiso/modul-und-zusatzstudien`
-- [Weiterbildungs-Masterstudiengänge](rw/wiso/weiterbildungs-masterstudiengaenge/INDEX.md) — `rw/wiso/weiterbildungs-masterstudiengaenge`
+- [Rechts- und Wirtschaftswissenschaftliche Fakultät](rechts-und-wirtschaftswissenschaftliche-fakultaet/INDEX.md) — `rechts-und-wirtschaftswissenschaftliche-fakultaet`
+- [Fachbereich Rechtswissenschaft](rechts-und-wirtschaftswissenschaftliche-fakultaet/rewi/INDEX.md) — `rechts-und-wirtschaftswissenschaftliche-fakultaet/rewi`
+- [Fachbereich Wirtschafts- und Sozialwissenschaften](rechts-und-wirtschaftswissenschaftliche-fakultaet/wiso/INDEX.md) — `rechts-und-wirtschaftswissenschaftliche-fakultaet/wiso`
+- [Bachelorstudiengänge](rechts-und-wirtschaftswissenschaftliche-fakultaet/wiso/bachelorstudiengaenge/INDEX.md) — `rechts-und-wirtschaftswissenschaftliche-fakultaet/wiso/bachelorstudiengaenge`
+- [Diplomstudiengänge und weiteres](rechts-und-wirtschaftswissenschaftliche-fakultaet/wiso/diplomstudiengaenge-und-weiteres/INDEX.md) — `rechts-und-wirtschaftswissenschaftliche-fakultaet/wiso/diplomstudiengaenge-und-weiteres`
+- [Masterstudiengänge](rechts-und-wirtschaftswissenschaftliche-fakultaet/wiso/masterstudiengaenge/INDEX.md) — `rechts-und-wirtschaftswissenschaftliche-fakultaet/wiso/masterstudiengaenge`
+- [Modul- und Zusatzstudien](rechts-und-wirtschaftswissenschaftliche-fakultaet/wiso/modul-und-zusatzstudien/INDEX.md) — `rechts-und-wirtschaftswissenschaftliche-fakultaet/wiso/modul-und-zusatzstudien`
+- [Weiterbildungs-Masterstudiengänge](rechts-und-wirtschaftswissenschaftliche-fakultaet/wiso/weiterbildungs-masterstudiengaenge/INDEX.md) — `rechts-und-wirtschaftswissenschaftliche-fakultaet/wiso/weiterbildungs-masterstudiengaenge`
 - [Sprachprüfungen](sprachpruefungen/INDEX.md) — `sprachpruefungen`
 - [Technische Fakultät](technische-fakultaet/INDEX.md) — `technische-fakultaet`
 - [Artificial Intelligence in Biomedical Engineering](technische-fakultaet/artificial-intelligence-in-biomedical-engineering/INDEX.md) — `technische-fakultaet/artificial-intelligence-in-biomedical-engineering`

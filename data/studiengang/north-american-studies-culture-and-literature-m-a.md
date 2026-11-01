@@ -9,7 +9,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "50-150"
 besondere_studienformen: "Internationales Studienangebot, Teilzeitstudium möglich"
-scraped_at: 2026-07-01T08:26:27+00:00
+scraped_at: 2026-11-01T11:18:05+00:00
 ---
 
 # North American Studies: Culture and Literature (M.A.)
@@ -95,7 +95,6 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 * Englisch C1
   für ausländische Bewerberinnen und Bewerber: Deutschkenntnisse auf mindestens Niveau A1 (der Nachweis kann im ersten Studienjahr nachgereicht werden)
-* Deutschkenntnisse für internationale Studierende: Keine DSH, aber Englisch Niveau C1 (CEFR)
 
 ### Voraussetzungen für Master
 

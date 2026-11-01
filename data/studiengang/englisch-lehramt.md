@@ -7,7 +7,7 @@ unterrichtssprache: "Deutsch und Englisch"
 fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "> 600"
-scraped_at: 2026-07-01T08:21:22+00:00
+scraped_at: 2026-11-01T11:13:25+00:00
 ---
 
 # Englisch (Lehramt)
@@ -35,8 +35,8 @@ Das Lehramtsstudium im Fach Englisch kann entweder für Grundschule, Mittelschul
 
 Der Studiengang ist modularisiert, d.h. Sie müssen in den verschiedenen Teilbereichen des Faches bestimmte Module nach den Vorgaben der Fachstudien- und Prüfungsordnung (LAPO-Englisch) absolvieren.
 
-* [Studienplaner für Lehramt an Grund-, Mittel- und Realschulen](https://www.angam.phil.fau.de/files/2023/07/Studienplaner_LUF_Englisch_2023_7.pdf)
-* [Studienplaner für Lehramt Gymnasium](https://www.angam.phil.fau.de/files/2025/04/Infoblatt_LAG_Englisch_2025-04-07.pdf)
+* [Studienplaner für Lehramt an Grund-, Mittel- und Realschulen](https://www.angam.phil.fau.de/files/2025/09/Studienplaner_LUF_Englisch_9_25.pdf)
+* [Studienplaner für Lehramt Gymnasium](https://www.angam.phil.fau.de/files/2026/09/Infoblatt_LAG_Englisch_2026-09-15.pdf)
 
 ### Was sollte ich mitbringen?
 
@@ -63,7 +63,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 ### Sprachkenntnisse
 
 * Für das Fach Englisch an Gymnasien gilt, dass „gesicherte Kenntnisse“ in Latein und Kenntnisse auf dem Niveau A2 des Gemeinsamen europäischen Referenzrahmens für Sprachen in einer weiteren modernen Fremdsprache erst bei der Anmeldung zum Staatsexamen nachzuweisen sind. Sie können also auch im Laufe des Studiums erworben werden.
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Details und Anmerkungen
 
@@ -119,9 +119,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Mittelschule](https://www.fau.de/education/studienangebot/lehramtsstudium/lehramt-an-mittelschulen/)
 - [Realschule](https://www.fau.de/education/studienangebot/lehramtsstudium/lehramt-an-realschulen/)
 - [Gymnasium](https://www.fau.de/education/studienangebot/lehramtsstudium/lehramt-an-gymnasien/)
-- [Studienplaner für Lehramt an Grund-, Mittel- und Realschulen](https://www.angam.phil.fau.de/files/2023/07/Studienplaner_LUF_Englisch_2023_7.pdf)
-- [Studienplaner für Lehramt Gymnasium](https://www.angam.phil.fau.de/files/2025/04/Infoblatt_LAG_Englisch_2025-04-07.pdf)
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+- [Studienplaner für Lehramt an Grund-, Mittel- und Realschulen](https://www.angam.phil.fau.de/files/2025/09/Studienplaner_LUF_Englisch_9_25.pdf)
+- [Studienplaner für Lehramt Gymnasium](https://www.angam.phil.fau.de/files/2026/09/Infoblatt_LAG_Englisch_2026-09-15.pdf)
 - [weitere Zugangsmöglichkeiten](https://www.fau.de/education/bewerbung/zugang-zum-studium/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)

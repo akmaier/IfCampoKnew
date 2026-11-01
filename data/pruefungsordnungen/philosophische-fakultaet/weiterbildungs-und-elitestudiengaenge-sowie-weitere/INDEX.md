@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Weiterbildungs- und Elitestudiengänge sowie weitere"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-07-01T10:15:07+00:00
+scraped_at: 2026-11-01T11:39:08+00:00
 ---
 
 # Weiterbildungs- und Elitestudiengänge sowie weitere
@@ -11,52 +11,83 @@ scraped_at: 2026-07-01T10:15:07+00:00
 
 ## Inhalt der Landing-Seite
 
-Wichtige Information zu Studien- und Prüfungsordnungen für Weiterbildungs- und Elitestudiengänge an der Philosophischen Fakultät und Fachbereich Theologie:
+## Erklärung zu den veröffentlichten Dokumenten
 
-Bitte beachten Sie die [Allgemeine Bachelor-/Masterstudien- und Prüfungsordnung](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/phil/theologie/), die zusätzlich zur jeweiligen Fachstudien- und Prüfungsordnung Ihres Studiengangs gilt.
+* **Was ist eine Änderungssatzung (ÄS)?**  
+  In einer Änderungssatzung werden nur die tatsächlichen Änderungen, wie neue oder abgeschaffte Abschnitte festgehalten. Die Änderungssatzung ist rechtsverbindlich.
+* **Was ist eine konsolidierte Fassung?**  
+  Eine konsolidierte Fassung ist die aktuelle Version einer Fachstudien- und Prüfungsordnung, in der alle bisherigen Änderungen eingearbeitet sind. So sieht man auf einen Blick, welche Regelungen aktuell gelten. Das Datum im Dateinamen zeigt, auf welchem Stand die Ordnung ist („idF“ = „in der Fassung“).
+* **Welche Version ist für mich relevant?**  
+  Welche Fachstudien- und Prüfungsordnung (FPO) für Sie gilt, hängt in der Regel vom Beginn Ihres Studiums ab. Das passende Datum finden Sie im Dateinamen nach „idF“ (JJJJMMTT).
 
 ## Weiterbildungs-Masterstudiengänge
 
-### weiterbildender Masterstudiengang Human Rights – aufgehoben zum Wintersemester 2026/2027
+### Human Rights (weiterbildender Masterstudiengang) – aufgehoben zum Wintersemester 2026/2027
 
-| konsolidierte Fassungen | Dateigröße |
-| --- | --- |
-| [wtb FPOHR 20260115 Aufhebungssatzung.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/konsolidierte_Fassungen/wtb_FPOHR_20260115_Aufhebungssatzung.pdf) | 184 KB |
-| [wtb FPOHR 20230928 i.d.F. 20260115.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/konsolidierte_Fassungen/wtb_FPOHR_20230928_idF_20260115.pdf) | 463 KB |
-| [wtb FPOHR 20230928 i.d.F. 20241219.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/konsolidierte_Fassungen/wtb_FPOHR_20230928_idF_20241219.pdf) | 400 KB |
-| [wtb FPOHR 20230928 i.d.F. 20240926.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/konsolidierte_Fassungen/wtb_FPOHR_20230928_idF_20240926.pdf) | 349 KB |
-| [wtb FPOHR 20230928.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/konsolidierte_Fassungen/wtb_FPOHR_20230928.pdf) | 341 KB |
-| [wtb FPOHR 20140718 i.d.F. 20230731.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/konsolidierte_Fassungen/wtb_FPOHR_20140718_idF_20230731.pdf) | 322 KB |
-| [wtb FPOHR 20140718 i.d.F. 20230223.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/konsolidierte_Fassungen/wtb_FPOHR_20140718_idF_20230223.pdf) | 570 KB |
-| [wtb FPOHR 20140718 i.d.F. 20191014.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/konsolidierte_Fassungen/wtb_FPOHR_20140718_idF_20191014.pdf) | 591 KB |
-| [wtb FPOHR 20140718 i.d.F. 20180706.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/konsolidierte_Fassungen/wtb_FPOHR_20140718_idF_20180706.pdf) | 493 KB |
+Fachstudien- und Prüfungsordnungen (FPO) des Studiengangs weiterbildender Masterstudiengang Human Rights
 
-| englisch | Dateigröße |
-| --- | --- |
-| [wtb FPOHR 20260115 Aufhebungssatzung en.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/englisch/wtb_FPOHR_20260115_Aufhebungssatzung_en.pdf) | 176 KB |
-| [wtb FPOHR 20230928 i.d.F. 20260115 en.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/englisch/wtb_FPOHR_20230928_idF_20260115_en.pdf) | 422 KB |
-| [wtb FPOHR 20230928 i.d.F. 20241219 en.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/englisch/wtb_FPOHR_20230928_idF_20241219_en.pdf) | 318 KB |
-| [wtb FPOHR 20230928 i.d.F. 20240926 en.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/englisch/wtb_FPOHR_20230928_idF_20240926_en.pdf) | 279 KB |
-| [wtb FPOHR 20230928 en.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/englisch/wtb_FPOHR_20230928_en.pdf) | 275 KB |
-| [wtb FPOHR 20140718 i.d.F. 20230223 en.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/englisch/wtb_FPOHR_20140718_idF_20230223_en.pdf) | 331 KB |
-| [wtb FPOHR 20140718 i.d.F. 20191014 en.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/englisch/wtb_FPOHR_20140718_idF_20191014_en.pdf) | 558 KB |
-| [wtb FPOHR 20140718 i.d.F. 20180706 en.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/englisch/wtb_FPOHR_20140718_idF_20180706_en.pdf) | 480 KB |
+#### Konsolidierte Fassungen
 
-| Änderungssatzungen | Dateigröße |
-| --- | --- |
-| [wtb FPOHR 20241219 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/Aenderungssatzungen/wtb_FPOHR_20241219_AeS.pdf) | 221 KB |
-| [wtb FPOHR 20230323 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/Aenderungssatzungen/wtb_FPOHR_20230323_AeS.pdf) | 278 KB |
-| [wtb FPOHR 20191014 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/Aenderungssatzungen/wtb_FPOHR_20191014_AeS.pdf) | 478 KB |
-| [wtb FPOHR 20180706 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/Aenderungssatzungen/wtb_FPOHR_20180706_AeS.pdf) | 163 KB |
+Konsolidierte Fassungen
 
-| SammelÄS Masterbewerbung | Dateigröße |
+| Dateiname | Dateigröße |
 | --- | --- |
-| [Sammel-ÄSa Masterbewerbung 20230731 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Sammelaenderungen/SammelAeS_Masterbewerbung/Sammel-AeSa_Masterbewerbung_20230731_AeS.pdf) | 152 KB |
+| [wtb\_FPOHR\_20260115\_Aufhebungssatzung.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FHuman_Rights_wtb%2Fkonsolidierte_Fassungen%2Fwtb_FPOHR_20260115_Aufhebungssatzung.pdf&sig=33767d3bb863212878327d24a3232c8c069625a5b6cb6bf07965797f2a531915) | 184 KB |
+| [wtb\_FPOHR\_20230928\_idF\_20260115.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FHuman_Rights_wtb%2Fkonsolidierte_Fassungen%2Fwtb_FPOHR_20230928_idF_20260115.pdf&sig=284dc1b18944fca226ce9a2cc76f616567743fa8ddc6719ae3ba719cc05fb971) | 463 KB |
+| [wtb\_FPOHR\_20230928\_idF\_20241219.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FHuman_Rights_wtb%2Fkonsolidierte_Fassungen%2Fwtb_FPOHR_20230928_idF_20241219.pdf&sig=7fc865c2e91416699cddc5100944922463442539b7626fbdf490d9b36b0be8cb) | 400 KB |
+| [wtb\_FPOHR\_20230928\_idF\_20240926.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FHuman_Rights_wtb%2Fkonsolidierte_Fassungen%2Fwtb_FPOHR_20230928_idF_20240926.pdf&sig=e5c0bc96c28325ced5462ed9d8f71bf873edcc6d2ef2f07dd66d2af6253e488a) | 349 KB |
+| [wtb\_FPOHR\_20230928.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FHuman_Rights_wtb%2Fkonsolidierte_Fassungen%2Fwtb_FPOHR_20230928.pdf&sig=1e02ab073cdafd886f7b030e4dd504494b0b8954a8a14d9e99e144d583996a0d) | 341 KB |
+| [wtb\_FPOHR\_20140718\_idF\_20230731.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FHuman_Rights_wtb%2Fkonsolidierte_Fassungen%2Fwtb_FPOHR_20140718_idF_20230731.pdf&sig=cddf50a1a86ae16261450c2f7b7c7501ebf658e1b54283f601e9c327530d48ec) | 322 KB |
+| [wtb\_FPOHR\_20140718\_idF\_20230223.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FHuman_Rights_wtb%2Fkonsolidierte_Fassungen%2Fwtb_FPOHR_20140718_idF_20230223.pdf&sig=ceca89283acbe49f5272d6e762a623528854da05bbb0fa1ccf8c7ef4c72cb500) | 570 KB |
+| [wtb\_FPOHR\_20140718\_idF\_20191014.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FHuman_Rights_wtb%2Fkonsolidierte_Fassungen%2Fwtb_FPOHR_20140718_idF_20191014.pdf&sig=df6d52df4d446b871cecf68117f80cf59e63b6d32bc80228d4142b50da7556e5) | 591 KB |
+| [wtb\_FPOHR\_20140718\_idF\_20180706.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FHuman_Rights_wtb%2Fkonsolidierte_Fassungen%2Fwtb_FPOHR_20140718_idF_20180706.pdf&sig=90f27219c1b0c4d4a0c2b5c418623d416f4fe75408d6757f11d465e49a6a9f23) | 493 KB |
 
-| SammelÄS Wiederholungsprüfungen | Dateigröße |
+#### Englische Fassungen
+
+Englische Fassungen
+
+| Dateiname | Dateigröße |
 | --- | --- |
-| [Satzung über die Reform der Durchführung von Wiederholungsprüfungen 20240926 en.pdf](https://www.doc.zuv.fau.de//L1/PO/Sammelaenderungen/SammelAeS_Wiederholungspruefungen/Satzung_ueber_die_Reform_der_Durchfuehrung_von_Wiederholungspruefungen_20240926_en.pdf) | 299 KB |
-| [Satzung über die Reform der Durchführung von Wiederholungsprüfungen 20240926.pdf](https://www.doc.zuv.fau.de//L1/PO/Sammelaenderungen/SammelAeS_Wiederholungspruefungen/Satzung_ueber_die_Reform_der_Durchfuehrung_von_Wiederholungspruefungen_20240926.pdf) | 311 KB |
+| [wtb\_FPOHR\_20260115\_Aufhebungssatzung\_en.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FHuman_Rights_wtb%2Fenglisch%2Fwtb_FPOHR_20260115_Aufhebungssatzung_en.pdf&sig=249d8ddf90e3b4497659cbfc6cc23642a7ad7972cc5ba7aabc587ffbb839711c) | 176 KB |
+| [wtb\_FPOHR\_20230928\_idF\_20260115\_en.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FHuman_Rights_wtb%2Fenglisch%2Fwtb_FPOHR_20230928_idF_20260115_en.pdf&sig=b30a0ab453d48499d7a754cc7bf9d28b7fb1bdcfdade46ff01eb6f66c7dc3123) | 422 KB |
+| [wtb\_FPOHR\_20230928\_idF\_20241219\_en.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FHuman_Rights_wtb%2Fenglisch%2Fwtb_FPOHR_20230928_idF_20241219_en.pdf&sig=eeb5bc09f37365a5b889051c08f525e14431cfd3ae6bb1e4d750cb3e031e35b3) | 318 KB |
+| [wtb\_FPOHR\_20230928\_idF\_20240926\_en.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FHuman_Rights_wtb%2Fenglisch%2Fwtb_FPOHR_20230928_idF_20240926_en.pdf&sig=3cab46fd5112be36ec44547c4a3c2dea644260ba8a149cda45695c79055dfc16) | 279 KB |
+| [wtb\_FPOHR\_20230928\_en.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FHuman_Rights_wtb%2Fenglisch%2Fwtb_FPOHR_20230928_en.pdf&sig=07434b9b33c8f50631899d895a3d6c962c517f299fb2055aa4038833ad905c7d) | 275 KB |
+| [wtb\_FPOHR\_20140718\_idF\_20230223\_en.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FHuman_Rights_wtb%2Fenglisch%2Fwtb_FPOHR_20140718_idF_20230223_en.pdf&sig=84fbb67c7b2f635ffcf0d10bd302aaf69aefbc8ca9995b8e4115fa162d480de7) | 331 KB |
+| [wtb\_FPOHR\_20140718\_idF\_20191014\_en.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FHuman_Rights_wtb%2Fenglisch%2Fwtb_FPOHR_20140718_idF_20191014_en.pdf&sig=aa506fc127d7788d1a588cb3f1c0a5d63765229e6eec0f651177ceb8cccb7f3a) | 558 KB |
+| [wtb\_FPOHR\_20140718\_idF\_20180706\_en.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FHuman_Rights_wtb%2Fenglisch%2Fwtb_FPOHR_20140718_idF_20180706_en.pdf&sig=6ed16bdaa0f3309c5bf536e631735097b3a9a07fdcddcba13295e8b1debb7a1f) | 480 KB |
+
+#### Änderungssatzungen
+
+Änderungssatzungen
+
+| Dateiname | Dateigröße |
+| --- | --- |
+| [wtb\_FPOHR\_20241219\_AeS.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FHuman_Rights_wtb%2FAenderungssatzungen%2Fwtb_FPOHR_20241219_AeS.pdf&sig=deffd67bb52027868ba3de3f60acfd331b12a33f28b26ac0f36887715a88bffd) | 221 KB |
+| [wtb\_FPOHR\_20230323\_AeS.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FHuman_Rights_wtb%2FAenderungssatzungen%2Fwtb_FPOHR_20230323_AeS.pdf&sig=b05d0f0d03f93852adb1619c427ed6094f11f0eafc22642b80dfd0b4b365f9d1) | 278 KB |
+| [wtb\_FPOHR\_20191014\_AeS.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FHuman_Rights_wtb%2FAenderungssatzungen%2Fwtb_FPOHR_20191014_AeS.pdf&sig=df7bf6b17070ecd4621d5cb7c0426fe12a30007f4c5db5ac7244ba4bd367abeb) | 478 KB |
+| [wtb\_FPOHR\_20180706\_AeS.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FHuman_Rights_wtb%2FAenderungssatzungen%2Fwtb_FPOHR_20180706_AeS.pdf&sig=524aaf7b8ae597755a374277ece98e6ef95ca17952787ec6d2c9a9ab18a039ab) | 163 KB |
+
+#### Sammeländerungssatzung Masterbewerbung
+
+Sammeländerungssatzung Masterbewerbung
+
+| Dateiname | Dateigröße |
+| --- | --- |
+| [Sammel-AeSa\_Masterbewerbung\_20230731\_AeS.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FSammelaenderungen%2FSammelAeS_Masterbewerbung%2FSammel-AeSa_Masterbewerbung_20230731_AeS.pdf&sig=dae6f81e636676cd1e15489d3d11dacaa1c0618af11709a21d2f1a6c55829424) | 152 KB |
+
+#### Sammeländerungssatzung zu Wiederholungsprüfungen
+
+Sammeländerungssatzung zu Wiederholungsprüfungen
+
+| Dateiname | Dateigröße |
+| --- | --- |
+| [Satzung\_ueber\_die\_Reform\_der\_Durchfuehrung\_von\_Wiederholungspruefungen\_20240926\_en.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FSammelaenderungen%2FSammelAeS_Wiederholungspruefungen%2FSatzung_ueber_die_Reform_der_Durchfuehrung_von_Wiederholungspruefungen_20240926_en.pdf&sig=6846f1341b533bc561bc01148d31ad4ed35b1fe455a5bd0e7392aa71f6943233) | 299 KB |
+| [Satzung\_ueber\_die\_Reform\_der\_Durchfuehrung\_von\_Wiederholungspruefungen\_20240926.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FSammelaenderungen%2FSammelAeS_Wiederholungspruefungen%2FSatzung_ueber_die_Reform_der_Durchfuehrung_von_Wiederholungspruefungen_20240926.pdf&sig=b1a11adc5237bf1b0e7975466b6b97e950ebcd435ae2cc8661658b578e21c4b8) | 311 KB |
+
+Bitte beachten Sie die [Allgemeine Bachelor-/Masterstudien- und Prüfungsordnung](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/phil/theologie/), die zusätzlich zur jeweiligen Fachstudien- und Prüfungsordnung Ihres Studiengangs gilt.
+
+#### Ursprungsfassung und ältere Versionen
 
 | **Änderungssatzung/Datum** | **Konsolidierte Fassung/Datum** | **English version as amended on** |
 | --- | --- | --- |
@@ -64,27 +95,49 @@ Bitte beachten Sie die [Allgemeine Bachelor-/Masterstudien- und Prüfungsordnun
 | [4. Februar 2015](https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1AES_MA_Human_Rights.pdf) | ([PDF vom 18.07.2014 i.d.F. 04.02.2015](https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/WTB-MA Human Rights_FEB2015.pdf)) | ([PDF 4th of Feb. 2015](https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/pdf-englisch/WTB-MA Human Rights_JULY2015_englisch.pdf)[)](https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/pdf-englisch/StuO_PrO_Allg_ BA_ Phil JULI2014_en.pdf) |
 |  | ([PDF vom 18.07.2014](https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FW-Urfassungen/WTB-MA Human Rights.pdf)) |  |
 
-### berufsbegleitende Weiterbildungsstudiengang Organisation – Transformation – Gesellschaft
+### Organisation – Transformation – Gesellschaft (berufsbegleitende Weiterbildungsstudiengang)
 
-| konsolidierte Fassungen | Dateigröße |
+Fachstudien- und Prüfungsordnungen (FPO) des Studiengangs berufsbegleitende Weiterbildungsstudiengang Organisation – Transformation – Gesellschaft
+
+#### Konsolidierte Fassungen
+
+Konsolidierte Fassungen
+
+| Dateiname | Dateigröße |
 | --- | --- |
-| [POMAOTG 20260130.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Organisation_–_Transformation_–_Gesellschaft/konsolidierte_Fassungen/POMAOTG_20260130.pdf) | 450 KB |
+| [POMAOTG\_20260130.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FOrganisation_%E2%80%93_Transformation_%E2%80%93_Gesellschaft%2Fkonsolidierte_Fassungen%2FPOMAOTG_20260130.pdf&sig=081c5526bca725f787715853b4bba38d083491e8d686cded531612fe0edba1d9) | 450 KB |
+
+Bitte beachten Sie die [Allgemeine Bachelor-/Masterstudien- und Prüfungsordnung](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/phil/theologie/), die zusätzlich zur jeweiligen Fachstudien- und Prüfungsordnung Ihres Studiengangs gilt.
 
 ### Organisations- und Personalentwicklung – aufgehoben zum Wintersemester 2026/2027
 
-| konsolidierte Fassungen | Dateigröße |
-| --- | --- |
-| [PO MA OEPE 20250711 Aufhebung.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Organisations-_und_Personalentwicklung/konsolidierte_Fassungen/PO_MA_OEPE_20250711_Aufhebung.pdf) | 83 KB |
-| [PO MA OEPE 20250227 WS 25-26 Aussetzung.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Organisations-_und_Personalentwicklung/konsolidierte_Fassungen/PO_MA_OEPE_20250227_WS_25-26_Aussetzung.pdf) | 81 KB |
-| [PO MA OEPE 20240229 WS 24-25 Aussetzung.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Organisations-_und_Personalentwicklung/konsolidierte_Fassungen/PO_MA_OEPE_20240229_WS_24-25_Aussetzung.pdf) | 10 KB |
-| [PO MA OEPE 20170307 i.d.F. 20250711.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Organisations-_und_Personalentwicklung/konsolidierte_Fassungen/PO_MA_OEPE_20170307_idF_20250711.pdf) | 284 KB |
-| [PO MA OEPE 20170307 i.d.F. 20220629.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Organisations-_und_Personalentwicklung/konsolidierte_Fassungen/PO_MA_OEPE_20170307_idF_20220629.pdf) | 552 KB |
-| [PO MA OEPE 20170307 i.d.F. 20180730.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Organisations-_und_Personalentwicklung/konsolidierte_Fassungen/PO_MA_OEPE_20170307_idF_20180730.pdf) | 375 KB |
+Fachstudien- und Prüfungsordnungen (FPO) des Studiengangs Organisations- und Personalentwicklung
 
-| Änderungssatzungen | Dateigröße |
+#### Konsolidierte Fassungen
+
+Konsolidierte Fassungen
+
+| Dateiname | Dateigröße |
 | --- | --- |
-| [PO MA OEPE 20220629 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Organisations-_und_Personalentwicklung/Aenderungssatzungen/PO_MA_OEPE_20220629_AeS.pdf) | 293 KB |
-| [PO MA OEPE 20180730 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Organisations-_und_Personalentwicklung/Aenderungssatzungen/PO_MA_OEPE_20180730_AeS.pdf) | 142 KB |
+| [PO\_MA\_OEPE\_20250711\_Aufhebung.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FOrganisations-_und_Personalentwicklung%2Fkonsolidierte_Fassungen%2FPO_MA_OEPE_20250711_Aufhebung.pdf&sig=a61df84252e06ab33956a3d4f17258d8ecdb3db275b8aa3802f1967859232702) | 83 KB |
+| [PO\_MA\_OEPE\_20250227\_WS\_25-26\_Aussetzung.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FOrganisations-_und_Personalentwicklung%2Fkonsolidierte_Fassungen%2FPO_MA_OEPE_20250227_WS_25-26_Aussetzung.pdf&sig=4230f7ebd9af101dac8835941d3c214dfea87a226951d172c8f60a0c2aa1c279) | 81 KB |
+| [PO\_MA\_OEPE\_20240229\_WS\_24-25\_Aussetzung.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FOrganisations-_und_Personalentwicklung%2Fkonsolidierte_Fassungen%2FPO_MA_OEPE_20240229_WS_24-25_Aussetzung.pdf&sig=47c302dfae691c3bfd204abd316578a5903c27cdb6155b75f155c4e20e6a0258) | 10 KB |
+| [PO\_MA\_OEPE\_20170307\_idF\_20250711.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FOrganisations-_und_Personalentwicklung%2Fkonsolidierte_Fassungen%2FPO_MA_OEPE_20170307_idF_20250711.pdf&sig=de601c157ffc000da0d2dd0022d6701870178fca148c6ed167edda39ceaa13ba) | 284 KB |
+| [PO\_MA\_OEPE\_20170307\_idF\_20220629.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FOrganisations-_und_Personalentwicklung%2Fkonsolidierte_Fassungen%2FPO_MA_OEPE_20170307_idF_20220629.pdf&sig=feb710b7541d79e7627ee8e68f8183c41b233368bfa0d4db0e863fb6ab07055e) | 552 KB |
+| [PO\_MA\_OEPE\_20170307\_idF\_20180730.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FOrganisations-_und_Personalentwicklung%2Fkonsolidierte_Fassungen%2FPO_MA_OEPE_20170307_idF_20180730.pdf&sig=c63af66fbf1fb02421ce6a2550e3b2fb757b9e6bf8e548a60fb10c26d6e9594c) | 375 KB |
+
+#### Änderungssatzungen
+
+Änderungssatzungen
+
+| Dateiname | Dateigröße |
+| --- | --- |
+| [PO\_MA\_OEPE\_20220629\_AeS.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FOrganisations-_und_Personalentwicklung%2FAenderungssatzungen%2FPO_MA_OEPE_20220629_AeS.pdf&sig=8e72d6bcd96f764de7bbf9e056d63fb2f12794ff3a8e0b5c62c96acc14036896) | 293 KB |
+| [PO\_MA\_OEPE\_20180730\_AeS.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FOrganisations-_und_Personalentwicklung%2FAenderungssatzungen%2FPO_MA_OEPE_20180730_AeS.pdf&sig=36223a5e8d7e32384fc7b916704507edae8183604662b27b196804c2180b0ff4) | 142 KB |
+
+Bitte beachten Sie die [Allgemeine Bachelor-/Masterstudien- und Prüfungsordnung](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/phil/theologie/), die zusätzlich zur jeweiligen Fachstudien- und Prüfungsordnung Ihres Studiengangs gilt.
+
+#### Ursprungsfassung und ältere Versionen
 
 | **Änderungssatzung/Datum** | **Konsolidierte Fassung/Datum** | English version as amended on |
 | --- | --- | --- |
@@ -97,9 +150,17 @@ Bitte beachten Sie die [Allgemeine Bachelor-/Masterstudien- und Prüfungsordnun
 
 ### Multimedia-Didaktik – aufgehoben zum Wintersemester 2021/2022
 
-| Änderungssatzungen | Dateigröße |
+Fachstudien- und Prüfungsordnungen (FPO) des Studiengangs Multimedia-Didaktik
+
+#### Aufhebungssatzung
+
+Aufhebungssatzung
+
+| Dateiname | Dateigröße |
 | --- | --- |
-| [MA Multimedia-Didaktik Aufhebungssatzung MA MMD 20200525.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Multimedia-Didaktik/Aenderungssatzungen/MA_Multimedia-Didaktik_Aufhebungssatzung_MA_MMD_20200525.pdf) | 115 KB |
+| [MA\_Multimedia-Didaktik\_Aufhebungssatzung\_MA\_MMD\_20200525.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FMultimedia-Didaktik%2FAenderungssatzungen%2FMA_Multimedia-Didaktik_Aufhebungssatzung_MA_MMD_20200525.pdf&sig=d3e5690490b6ecfd2e5a9507e490d59e6690b56e807838d161aeeff69caf8c08) | 115 KB |
+
+#### Ursprungsfassung und ältere Versionen
 
 | **Änderungssatzung/Datum** | **Konsolidierte Fassung/Datum** |
 | --- | --- |
@@ -110,14 +171,24 @@ Bitte beachten Sie die [Allgemeine Bachelor-/Masterstudien- und Prüfungsordnun
 
 ## Elitemasterstudiengänge
 
-### Ethik der Textkulturen – aufgehoben zum Wintersemester 2026/2027
+## Ethik der Textkulturen – aufgehoben zum Wintersemester 2026/2027
 
-| konsolidierte Fassungen | Dateigröße |
+Fachstudien- und Prüfungsordnungen (FPO) des Studiengangs Ethik der Textkulturen
+
+#### Konsolidierte Fassungen
+
+Konsolidierte Fassungen
+
+| Dateiname | Dateigröße |
 | --- | --- |
-| [MA EdT 20260213 Aufhebungssatzung.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Ethik_der_Textkulturen/konsolidierte_Fassungen/MA_EdT_20260213_Aufhebungssatzung.pdf) | 183 KB |
-| [MA EdT 20240926 i.d.F. 20260213.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Ethik_der_Textkulturen/konsolidierte_Fassungen/MA_EdT_20240926_idF_20260213.pdf) | 378 KB |
-| [MA EdT 20240926.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Ethik_der_Textkulturen/konsolidierte_Fassungen/MA_EdT_20240926.pdf) | 297 KB |
-| [MA EdT 20190828.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Ethik_der_Textkulturen/konsolidierte_Fassungen/MA_EdT_20190828.pdf) | 274 KB |
+| [MA\_EdT\_20260213\_Aufhebungssatzung.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FEthik_der_Textkulturen%2Fkonsolidierte_Fassungen%2FMA_EdT_20260213_Aufhebungssatzung.pdf&sig=b739e2c228586543e63c90d5be07a649b2b760052710a3f7293d0e61600ea9b7) | 183 KB |
+| [MA\_EdT\_20240926\_idF\_20260213.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FEthik_der_Textkulturen%2Fkonsolidierte_Fassungen%2FMA_EdT_20240926_idF_20260213.pdf&sig=cf2d68c4dfdf6a8ebd07153900c0b90f7847268c3552c3e068f7325a5bd0c2d2) | 378 KB |
+| [MA\_EdT\_20240926.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FEthik_der_Textkulturen%2Fkonsolidierte_Fassungen%2FMA_EdT_20240926.pdf&sig=d6c4ee6e1db6190e796d5184d0b4d7e9bd3e6c21820bbf826712c2e778d2b983) | 297 KB |
+| [MA\_EdT\_20190828.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FEthik_der_Textkulturen%2Fkonsolidierte_Fassungen%2FMA_EdT_20190828.pdf&sig=7af314dd60f4c4976e84ffe615037c524e73d0a4a18b3ecda40ac6a7d69a6b7f) | 274 KB |
+
+Bitte beachten Sie die [Allgemeine Bachelor-/Masterstudien- und Prüfungsordnung](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/phil/theologie/), die zusätzlich zur jeweiligen Fachstudien- und Prüfungsordnung Ihres Studiengangs gilt.
+
+#### Ursprungsfassung und ältere Versionen
 
 | **Änderungssatzung/Datum** | **Konsolidierte Fassung/Datum** |
 | --- | --- |
@@ -126,25 +197,43 @@ Bitte beachten Sie die [Allgemeine Bachelor-/Masterstudien- und Prüfungsordnun
 | [3. Mai 2007](https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1AES-PrO-Ethik%20Textkulturen.pdf) | ([PDF vom 27.06.2006 i.d.F. 03.05.2007](https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/PO_Ethik-Textkulturen-Master-Elite.pdf)) |
 |  | ([PDF vom 27.06.2006](https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FW-Urfassungen/Master/PrO-Ethik%20der%20Textkulturen.pdf)) |
 
-### Standards of Decision-Making Across Cultures
+## Standards of Decision-Making Across Cultures – aufgehoben zum Wintersemester 2026/27
 
-| konsolidierte Fassungen | Dateigröße |
-| --- | --- |
-| [Elite-MA Standards of Decision Making Across Cultures Aufhebungssatzung 20251219.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Standards_of_Deciscion_-_Making_Across_Cultures/konsolidierte_Fassungen/Elite-MA_Standards_of_Decision_Making_Across_Cultures_Aufhebungssatzung_20251219.pdf) | 185 KB |
-| [Elite-MA Standards of Decision Making Across Cultures 20240807 i.d.F. 20251219.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Standards_of_Deciscion_-_Making_Across_Cultures/konsolidierte_Fassungen/Elite-MA_Standards_of_Decision_Making_Across_Cultures_20240807_idF_20251219.pdf) | 283 KB |
-| [Elite-MA Standards of Decision-Making Across Cultures 20240807.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Standards_of_Deciscion_-_Making_Across_Cultures/konsolidierte_Fassungen/Elite-MA_Standards_of_Decision-Making_Across_Cultures_20240807.pdf) | 218 KB |
-| [Elite-MA Standards of Decision-Making Across Cultures 20170614 i.d.F. 20230731.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Standards_of_Deciscion_-_Making_Across_Cultures/konsolidierte_Fassungen/Elite-MA_Standards_of_Decision-Making_Across_Cultures_20170614_idF_20230731.pdf) | 222 KB |
-| [Elite-MA Standards of Decision-Making Across Cultures 20170614 i.d.F. 20220512.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Standards_of_Deciscion_-_Making_Across_Cultures/konsolidierte_Fassungen/Elite-MA_Standards_of_Decision-Making_Across_Cultures_20170614_idF_20220512.pdf) | 337 KB |
+Fachstudien- und Prüfungsordnungen (FPO) des Studiengangs Standards of Decision-Making Across Cultures
 
-| englisch | Dateigröße |
-| --- | --- |
-| [Elite-MA Standards of Decision Making Across Cultures 20240807 en.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Standards_of_Deciscion_-_Making_Across_Cultures/englisch/Elite-MA_Standards_of_Decision_Making_Across_Cultures_20240807_en.pdf) | 217 KB |
-| [Elite-MA Standards of Decision-Making Across Cultures 20170614 i.d.F. 20220512 en.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Standards_of_Deciscion_-_Making_Across_Cultures/englisch/Elite-MA_Standards_of_Decision-Making_Across_Cultures_20170614_idF_20220512_en.pdf) | 219 KB |
+#### Konsolidierte Fassungen
 
-| Änderungssatzungen | Dateigröße |
+Konsolidierte Fassungen
+
+| Dateiname | Dateigröße |
 | --- | --- |
-| [Sammel-ÄSa Masterbewerbung 20230731 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Standards_of_Deciscion_-_Making_Across_Cultures/Aenderungssatzungen/Sammel-AeSa_Masterbewerbung_20230731_AeS.pdf) | 152 KB |
-| [Elite-MA Standards of Decision-Making Across Cultures FPOSDAC 20220512 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Standards_of_Deciscion_-_Making_Across_Cultures/Aenderungssatzungen/Elite-MA_Standards_of_Decision-Making_Across_Cultures_FPOSDAC_20220512_AeS.pdf) | 481 KB |
+| [Elite-MA\_Standards\_of\_Decision\_Making\_Across\_Cultures\_Aufhebungssatzung\_20251219.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FStandards_of_Deciscion_-_Making_Across_Cultures%2Fkonsolidierte_Fassungen%2FElite-MA_Standards_of_Decision_Making_Across_Cultures_Aufhebungssatzung_20251219.pdf&sig=4d4fea84ff44f74de6e9b94c80575624c3c595e23cef89cb763a85c50c4ddfed) | 185 KB |
+| [Elite-MA\_Standards\_of\_Decision\_Making\_Across\_Cultures\_20240807\_idF\_20251219.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FStandards_of_Deciscion_-_Making_Across_Cultures%2Fkonsolidierte_Fassungen%2FElite-MA_Standards_of_Decision_Making_Across_Cultures_20240807_idF_20251219.pdf&sig=939b525d6f7213bf53109cdf548dfc0a7a65439303dbe5dadbf427672593965a) | 283 KB |
+| [Elite-MA\_Standards\_of\_Decision-Making\_Across\_Cultures\_20240807.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FStandards_of_Deciscion_-_Making_Across_Cultures%2Fkonsolidierte_Fassungen%2FElite-MA_Standards_of_Decision-Making_Across_Cultures_20240807.pdf&sig=7ae53cdd2f5a98a0a291e90d68db549677c7fb84172aec625c212e4929def02e) | 218 KB |
+| [Elite-MA\_Standards\_of\_Decision-Making\_Across\_Cultures\_20170614\_idF\_20230731.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FStandards_of_Deciscion_-_Making_Across_Cultures%2Fkonsolidierte_Fassungen%2FElite-MA_Standards_of_Decision-Making_Across_Cultures_20170614_idF_20230731.pdf&sig=6a1c1da00c395fb57f7c56e84bc5346c7a328862d3c8175f2ca7fbb5b163fafe) | 222 KB |
+| [Elite-MA\_Standards\_of\_Decision-Making\_Across\_Cultures\_20170614\_idF\_20220512.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FStandards_of_Deciscion_-_Making_Across_Cultures%2Fkonsolidierte_Fassungen%2FElite-MA_Standards_of_Decision-Making_Across_Cultures_20170614_idF_20220512.pdf&sig=40ce91f6064d4275256cf460588ff865f131e76e707bcb93869a88b71e6de081) | 337 KB |
+
+#### Englische Fassungen
+
+Englische Fassungen
+
+| Dateiname | Dateigröße |
+| --- | --- |
+| [Elite-MA\_Standards\_of\_Decision\_Making\_Across\_Cultures\_20240807\_en.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FStandards_of_Deciscion_-_Making_Across_Cultures%2Fenglisch%2FElite-MA_Standards_of_Decision_Making_Across_Cultures_20240807_en.pdf&sig=ed000b9c97be1162de225d24f0d42a9f484b1e485fc3f9f6906fb49fbc6c5f3d) | 217 KB |
+| [Elite-MA\_Standards\_of\_Decision-Making\_Across\_Cultures\_20170614\_idF\_20220512\_en.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FStandards_of_Deciscion_-_Making_Across_Cultures%2Fenglisch%2FElite-MA_Standards_of_Decision-Making_Across_Cultures_20170614_idF_20220512_en.pdf&sig=3529fd71fbd2fb5662dc9bb045b664f0b28d02e830159e75e24708a33ed22970) | 219 KB |
+
+### Änderungssatzungen
+
+Änderungssatzungen
+
+| Dateiname | Dateigröße |
+| --- | --- |
+| [Sammel-AeSa\_Masterbewerbung\_20230731\_AeS.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FStandards_of_Deciscion_-_Making_Across_Cultures%2FAenderungssatzungen%2FSammel-AeSa_Masterbewerbung_20230731_AeS.pdf&sig=4fdbc85d3e2c2bfc02769b9f8deb24a2826abe30d0972e9345be7f2bf43d2ce9) | 152 KB |
+| [Elite-MA\_Standards\_of\_Decision-Making\_Across\_Cultures\_FPOSDAC\_20220512\_AeS.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FMaster%2FStandards_of_Deciscion_-_Making_Across_Cultures%2FAenderungssatzungen%2FElite-MA_Standards_of_Decision-Making_Across_Cultures_FPOSDAC_20220512_AeS.pdf&sig=90cde695fcd189e931e1aa0dda2675b3256a9e5c236ca6fb5cd3e591dc95f540) | 481 KB |
+
+Bitte beachten Sie die [Allgemeine Bachelor-/Masterstudien- und Prüfungsordnung](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/phil/theologie/), die zusätzlich zur jeweiligen Fachstudien- und Prüfungsordnung Ihres Studiengangs gilt.
+
+#### Ursprungsfassung und ältere Versionen
 
 | **Änderungssatzung/Datum** | **Konsolidierte Fassung/Datum** | **English version as amended on** |
 | --- | --- | --- |
@@ -152,7 +241,7 @@ Bitte beachten Sie die [Allgemeine Bachelor-/Masterstudien- und Prüfungsordnun
 
 ## Bakkalaureusstudiengänge (BAPO)
 
-### Bakkalaureusstudiengänge (BAPO)
+## Bakkalaureusstudiengänge (BAPO)
 
 | **Änderungssatzung/Datum** | **Konsolidierte Fassung/Datum** |
 | --- | --- |
@@ -163,7 +252,7 @@ Bitte beachten Sie die [Allgemeine Bachelor-/Masterstudien- und Prüfungsordnun
 
 ## Magisterstudiengänge
 
-### Magisterstudiengänge
+## Magisterstudiengänge
 
 | **Änderungssatzung/Datum** | **Konsolidierte Fassung/Datum** |
 | --- | --- |
@@ -227,11 +316,12 @@ Bitte beachten Sie die [Allgemeine Bachelor-/Masterstudien- und Prüfungsordnun
 
 ## Diplomstudiengänge
 
-### Diplomstudiengänge
+## Diplomstudiengänge
 
 |  | **Änderungssatzung/Datum** | **Konsolidierte Fassung/Datum** |
 | --- | --- | --- |
 | – **Politikwissenschaft** | | |
+| --- | --- | --- |
 | Prüfungsordnung | [12. April 2002](https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/Sammel-AeSa_12APRIL2002.pdf) | ([PDF vom 29.10.1997 i.d.F. 12.04.2002](https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/DPO_Politikwissenschaft.pdf)) |
 |  | [26. August 1999](https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/Sammel_AeSa_26August1999.pdf) |  |
 |  | [16. Juli 1998](https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1AeSa-PrO-Politikwiss.pdf) |  |
@@ -252,32 +342,8 @@ Bitte beachten Sie die [Allgemeine Bachelor-/Masterstudien- und Prüfungsordnun
 |  |  | ([PDF vom 08.02.1994](https://zuv.fau.de/universitaet/organisation/recht/FW-Urfassungen/Dipl-PO-Sport-1994.pdf)) |
 | Studienordnung |  | ([PDF vom 20.10.2003](https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/EWF/StO_Sportwissenschaft.pdf)) |
 
-## Prüfungsordnungen-Dokumente (166)
+## Prüfungsordnungen-Dokumente (119)
 
-- [wtb FPOHR 20260115 Aufhebungssatzung.pdf](wtb-fpohr-20260115-aufhebungssatzung.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/konsolidierte_Fassungen/wtb_FPOHR_20260115_Aufhebungssatzung.pdf>
-- [wtb FPOHR 20230928 i.d.F. 20260115.pdf](wtb-fpohr-20230928-idf-20260115.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/konsolidierte_Fassungen/wtb_FPOHR_20230928_idF_20260115.pdf>
-- [wtb FPOHR 20230928 i.d.F. 20241219.pdf](wtb-fpohr-20230928-idf-20241219.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/konsolidierte_Fassungen/wtb_FPOHR_20230928_idF_20241219.pdf>
-- [wtb FPOHR 20230928 i.d.F. 20240926.pdf](wtb-fpohr-20230928-idf-20240926.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/konsolidierte_Fassungen/wtb_FPOHR_20230928_idF_20240926.pdf>
-- [wtb FPOHR 20230928.pdf](wtb-fpohr-20230928.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/konsolidierte_Fassungen/wtb_FPOHR_20230928.pdf>
-- [wtb FPOHR 20140718 i.d.F. 20230731.pdf](wtb-fpohr-20140718-idf-20230731.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/konsolidierte_Fassungen/wtb_FPOHR_20140718_idF_20230731.pdf>
-- [wtb FPOHR 20140718 i.d.F. 20230223.pdf](wtb-fpohr-20140718-idf-20230223.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/konsolidierte_Fassungen/wtb_FPOHR_20140718_idF_20230223.pdf>
-- [wtb FPOHR 20140718 i.d.F. 20191014.pdf](wtb-fpohr-20140718-idf-20191014.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/konsolidierte_Fassungen/wtb_FPOHR_20140718_idF_20191014.pdf>
-- [wtb FPOHR 20140718 i.d.F. 20180706.pdf](wtb-fpohr-20140718-idf-20180706.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/konsolidierte_Fassungen/wtb_FPOHR_20140718_idF_20180706.pdf>
-- [wtb FPOHR 20260115 Aufhebungssatzung en.pdf](wtb-fpohr-20260115-aufhebungssatzung-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/englisch/wtb_FPOHR_20260115_Aufhebungssatzung_en.pdf>
-- [wtb FPOHR 20230928 i.d.F. 20260115 en.pdf](wtb-fpohr-20230928-idf-20260115-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/englisch/wtb_FPOHR_20230928_idF_20260115_en.pdf>
-- [wtb FPOHR 20230928 i.d.F. 20241219 en.pdf](wtb-fpohr-20230928-idf-20241219-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/englisch/wtb_FPOHR_20230928_idF_20241219_en.pdf>
-- [wtb FPOHR 20230928 i.d.F. 20240926 en.pdf](wtb-fpohr-20230928-idf-20240926-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/englisch/wtb_FPOHR_20230928_idF_20240926_en.pdf>
-- [wtb FPOHR 20230928 en.pdf](wtb-fpohr-20230928-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/englisch/wtb_FPOHR_20230928_en.pdf>
-- [wtb FPOHR 20140718 i.d.F. 20230223 en.pdf](wtb-fpohr-20140718-idf-20230223-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/englisch/wtb_FPOHR_20140718_idF_20230223_en.pdf>
-- [wtb FPOHR 20140718 i.d.F. 20191014 en.pdf](wtb-fpohr-20140718-idf-20191014-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/englisch/wtb_FPOHR_20140718_idF_20191014_en.pdf>
-- [wtb FPOHR 20140718 i.d.F. 20180706 en.pdf](wtb-fpohr-20140718-idf-20180706-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/englisch/wtb_FPOHR_20140718_idF_20180706_en.pdf>
-- [wtb FPOHR 20241219 ÄS.pdf](wtb-fpohr-20241219-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/Aenderungssatzungen/wtb_FPOHR_20241219_AeS.pdf>
-- [wtb FPOHR 20230323 ÄS.pdf](wtb-fpohr-20230323-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/Aenderungssatzungen/wtb_FPOHR_20230323_AeS.pdf>
-- [wtb FPOHR 20191014 ÄS.pdf](wtb-fpohr-20191014-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/Aenderungssatzungen/wtb_FPOHR_20191014_AeS.pdf>
-- [wtb FPOHR 20180706 ÄS.pdf](wtb-fpohr-20180706-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/Aenderungssatzungen/wtb_FPOHR_20180706_AeS.pdf>
-- [Sammel-ÄSa Masterbewerbung 20230731 ÄS.pdf](sammel-aesa-masterbewerbung-20230731-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Sammelaenderungen/SammelAeS_Masterbewerbung/Sammel-AeSa_Masterbewerbung_20230731_AeS.pdf>
-- [Satzung über die Reform der Durchführung von Wiederholungsprüfungen 20240926 en.pdf](satzung-ueber-die-reform-der-durchfuehrung-von-wiederholungspruefungen-20240926-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Sammelaenderungen/SammelAeS_Wiederholungspruefungen/Satzung_ueber_die_Reform_der_Durchfuehrung_von_Wiederholungspruefungen_20240926_en.pdf>
-- [Satzung über die Reform der Durchführung von Wiederholungsprüfungen 20240926.pdf](satzung-ueber-die-reform-der-durchfuehrung-von-wiederholungspruefungen-20240926.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Sammelaenderungen/SammelAeS_Wiederholungspruefungen/Satzung_ueber_die_Reform_der_Durchfuehrung_von_Wiederholungspruefungen_20240926.pdf>
 - [7. Juni 2016](2aes-ma-human-rights.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/2AES MA Human Rights.pdf>
 - [PDF vom 18.07.2014 i.d.F. 07.06.2016](wtb-ma-human-rights-juni2016.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/WTB-MA Human Rights_JUNI2016.pdf>
 - [PDF 7th of June 2016](wtb-ma-human-rights-juni2016-en.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/pdf-englisch/WTB-MA Human Rights_JUNI2016_EN.pdf>
@@ -286,15 +352,6 @@ Bitte beachten Sie die [Allgemeine Bachelor-/Masterstudien- und Prüfungsordnun
 - [PDF 4th of Feb. 2015](wtb-ma-human-rights-july2015-englisch.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/pdf-englisch/WTB-MA Human Rights_JULY2015_englisch.pdf>
 - [)](stuo-pro-allg-ba-phil-juli2014-en.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/pdf-englisch/StuO_PrO_Allg_ BA_ Phil JULI2014_en.pdf>
 - [PDF vom 18.07.2014](wtb-ma-human-rights.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FW-Urfassungen/WTB-MA Human Rights.pdf>
-- [POMAOTG 20260130.pdf](pomaotg-20260130.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Organisation_–_Transformation_–_Gesellschaft/konsolidierte_Fassungen/POMAOTG_20260130.pdf>
-- [PO MA OEPE 20250711 Aufhebung.pdf](po-ma-oepe-20250711-aufhebung.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Organisations-_und_Personalentwicklung/konsolidierte_Fassungen/PO_MA_OEPE_20250711_Aufhebung.pdf>
-- [PO MA OEPE 20250227 WS 25-26 Aussetzung.pdf](po-ma-oepe-20250227-ws-25-26-aussetzung.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Organisations-_und_Personalentwicklung/konsolidierte_Fassungen/PO_MA_OEPE_20250227_WS_25-26_Aussetzung.pdf>
-- [PO MA OEPE 20240229 WS 24-25 Aussetzung.pdf](po-ma-oepe-20240229-ws-24-25-aussetzung.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Organisations-_und_Personalentwicklung/konsolidierte_Fassungen/PO_MA_OEPE_20240229_WS_24-25_Aussetzung.pdf>
-- [PO MA OEPE 20170307 i.d.F. 20250711.pdf](po-ma-oepe-20170307-idf-20250711.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Organisations-_und_Personalentwicklung/konsolidierte_Fassungen/PO_MA_OEPE_20170307_idF_20250711.pdf>
-- [PO MA OEPE 20170307 i.d.F. 20220629.pdf](po-ma-oepe-20170307-idf-20220629.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Organisations-_und_Personalentwicklung/konsolidierte_Fassungen/PO_MA_OEPE_20170307_idF_20220629.pdf>
-- [PO MA OEPE 20170307 i.d.F. 20180730.pdf](po-ma-oepe-20170307-idf-20180730.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Organisations-_und_Personalentwicklung/konsolidierte_Fassungen/PO_MA_OEPE_20170307_idF_20180730.pdf>
-- [PO MA OEPE 20220629 ÄS.pdf](po-ma-oepe-20220629-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Organisations-_und_Personalentwicklung/Aenderungssatzungen/PO_MA_OEPE_20220629_AeS.pdf>
-- [PO MA OEPE 20180730 ÄS.pdf](po-ma-oepe-20180730-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Organisations-_und_Personalentwicklung/Aenderungssatzungen/PO_MA_OEPE_20180730_AeS.pdf>
 - [12. Juni 2017](1aesa-wtb-organisations-personalentw.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1AeSa_WTB-Organisations-Personalentw.pdf>
 - [PDF vom 07.03.2017 i.d.F. 12.06.2017](po-organisationpersonalentw-weiterbld-ma-juni2017.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/PO_OrganisationPersonalentw_weiterbld-MA_JUNI2017.pdf>
 - [PDF 12th of June 2017](po-organisationpersonalentw-weiterbld-ma-juni2017-en.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/pdf-englisch/PO_OrganisationPersonalentw_weiterbld-MA_JUNI2017_EN.pdf>
@@ -306,32 +363,18 @@ Bitte beachten Sie die [Allgemeine Bachelor-/Masterstudien- und Prüfungsordnun
 - [5. August 2008](1aesa-wtb-ma-orgpersentw0001.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1AeSa_WTB-MA-OrgPersentw0001.pdf>
 - [PDF vom 27.07.2006 i.d.F. 05.08.2008](po-wtb-ma-organisations-personalentwicklung.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/PO_WTB-MA-Organisations-Personalentwicklung.pdf>
 - [PDF vom 27.07.2006](pro-ma-orgpersentw.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FW-Urfassungen/Master/PrO-MA-OrgPersEntw.pdf>
-- [MA Multimedia-Didaktik Aufhebungssatzung MA MMD 20200525.pdf](ma-multimedia-didaktik-aufhebungssatzung-ma-mmd-20200525.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Multimedia-Didaktik/Aenderungssatzungen/MA_Multimedia-Didaktik_Aufhebungssatzung_MA_MMD_20200525.pdf>
 - [PDF vom 21.02.2017](fpo-multimedia-didaktik.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FPO_Multimedia-Didaktik.pdf>
 - [11. August 2010](2aes-20wtb-ma-20multimediadidaktik.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/2AES%20WTB-MA%20MultiMediaDidaktik.pdf>
 - [PDF vom 07.03.2006 i.d.F. 11.08.2010](fpo-multimedia-didaktik-weiterbildungmaster-abws2010-2011.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/EWF/FPO_Multimedia-Didaktik_WeiterbildungMaster.abWS2010-2011.pdf>
 - [8. Dezember 2009](1aesa-wtb-ma-multimedia-did0001.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1AeSa_WTB-MA_Multimedia-Did0001.pdf>
 - [PDF vom 07.03.2006 i.d.F. 08.12.2009](fpo-multimedia-didaktik-weiterbildungmaster.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/EWF/FPO_Multimedia-Didaktik_WeiterbildungMaster.pdf>
 - [PDF vom 07.03.2006](pro-multimedia-20didaktik-20-20wtb.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FW-Urfassungen/Master/PrO-Multimedia%20Didaktik%20-%20WTB.pdf>
-- [MA EdT 20260213 Aufhebungssatzung.pdf](ma-edt-20260213-aufhebungssatzung.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Ethik_der_Textkulturen/konsolidierte_Fassungen/MA_EdT_20260213_Aufhebungssatzung.pdf>
-- [MA EdT 20240926 i.d.F. 20260213.pdf](ma-edt-20240926-idf-20260213.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Ethik_der_Textkulturen/konsolidierte_Fassungen/MA_EdT_20240926_idF_20260213.pdf>
-- [MA EdT 20240926.pdf](ma-edt-20240926.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Ethik_der_Textkulturen/konsolidierte_Fassungen/MA_EdT_20240926.pdf>
-- [MA EdT 20190828.pdf](ma-edt-20190828.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Ethik_der_Textkulturen/konsolidierte_Fassungen/MA_EdT_20190828.pdf>
 - [PDF vom 14.05.2014](elite-ma-ethik-der-textkulturen-2014.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Elite-MA Ethik der Textkulturen 2014.pdf>
 - [27. April 2011](2aes-pro-ethik-20textkulturen.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/2AES-PrO-Ethik%20Textkulturen.pdf>
 - [PDF vom 27.06.2006 i.d.F. 27.04.2011](po-ethik-textkulturen-master-elite-april2011.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/PO_Ethik-Textkulturen-Master-Elite.APRIL2011.pdf>
 - [3. Mai 2007](1aes-pro-ethik-20textkulturen.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1AES-PrO-Ethik%20Textkulturen.pdf>
 - [PDF vom 27.06.2006 i.d.F. 03.05.2007](po-ethik-textkulturen-master-elite.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/PO_Ethik-Textkulturen-Master-Elite.pdf>
 - [PDF vom 27.06.2006](pro-ethik-20der-20textkulturen.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FW-Urfassungen/Master/PrO-Ethik%20der%20Textkulturen.pdf>
-- [Elite-MA Standards of Decision Making Across Cultures Aufhebungssatzung 20251219.pdf](elite-ma-standards-of-decision-making-across-cultures-aufhebungssatzung-20251219.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Standards_of_Deciscion_-_Making_Across_Cultures/konsolidierte_Fassungen/Elite-MA_Standards_of_Decision_Making_Across_Cultures_Aufhebungssatzung_20251219.pdf>
-- [Elite-MA Standards of Decision Making Across Cultures 20240807 i.d.F. 20251219.pdf](elite-ma-standards-of-decision-making-across-cultures-20240807-idf-20251219.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Standards_of_Deciscion_-_Making_Across_Cultures/konsolidierte_Fassungen/Elite-MA_Standards_of_Decision_Making_Across_Cultures_20240807_idF_20251219.pdf>
-- [Elite-MA Standards of Decision-Making Across Cultures 20240807.pdf](elite-ma-standards-of-decision-making-across-cultures-20240807.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Standards_of_Deciscion_-_Making_Across_Cultures/konsolidierte_Fassungen/Elite-MA_Standards_of_Decision-Making_Across_Cultures_20240807.pdf>
-- [Elite-MA Standards of Decision-Making Across Cultures 20170614 i.d.F. 20230731.pdf](elite-ma-standards-of-decision-making-across-cultures-20170614-idf-20230731.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Standards_of_Deciscion_-_Making_Across_Cultures/konsolidierte_Fassungen/Elite-MA_Standards_of_Decision-Making_Across_Cultures_20170614_idF_20230731.pdf>
-- [Elite-MA Standards of Decision-Making Across Cultures 20170614 i.d.F. 20220512.pdf](elite-ma-standards-of-decision-making-across-cultures-20170614-idf-20220512.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Standards_of_Deciscion_-_Making_Across_Cultures/konsolidierte_Fassungen/Elite-MA_Standards_of_Decision-Making_Across_Cultures_20170614_idF_20220512.pdf>
-- [Elite-MA Standards of Decision Making Across Cultures 20240807 en.pdf](elite-ma-standards-of-decision-making-across-cultures-20240807-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Standards_of_Deciscion_-_Making_Across_Cultures/englisch/Elite-MA_Standards_of_Decision_Making_Across_Cultures_20240807_en.pdf>
-- [Elite-MA Standards of Decision-Making Across Cultures 20170614 i.d.F. 20220512 en.pdf](elite-ma-standards-of-decision-making-across-cultures-20170614-idf-20220512-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Standards_of_Deciscion_-_Making_Across_Cultures/englisch/Elite-MA_Standards_of_Decision-Making_Across_Cultures_20170614_idF_20220512_en.pdf>
-- [Sammel-ÄSa Masterbewerbung 20230731 ÄS.pdf](sammel-aesa-masterbewerbung-20230731-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Standards_of_Deciscion_-_Making_Across_Cultures/Aenderungssatzungen/Sammel-AeSa_Masterbewerbung_20230731_AeS.pdf>
-- [Elite-MA Standards of Decision-Making Across Cultures FPOSDAC 20220512 ÄS.pdf](elite-ma-standards-of-decision-making-across-cultures-fposdac-20220512-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Standards_of_Deciscion_-_Making_Across_Cultures/Aenderungssatzungen/Elite-MA_Standards_of_Decision-Making_Across_Cultures_FPOSDAC_20220512_AeS.pdf>
 - [PDF vom 14.06.2017](fpo-standardsofdecision-makingacross.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FPO_StandardsofDecision-MakingAcross.pdf>
 - [PDF 7th of June 2016](fpo-standardsdecisionacrosscultures-june2017-engl.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/pdf-englisch/FPO_StandardsDecisionAcrossCultures_JUNE2017_engl.pdf>
 - [5. Dezember 2008](3aesa-bapo.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/3AeSA_BAPO.pdf>

@@ -8,8 +8,8 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät, Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "150-250"
-besondere_studienformen: "1-Fach-Bachelor, Verbundstudium/Duales Studium"
-scraped_at: 2026-07-01T08:28:33+00:00
+besondere_studienformen: "1-Fach-Bachelor"
+scraped_at: 2026-11-01T11:19:57+00:00
 ---
 
 # Wirtschaftsingenieurwesen (B.Sc.)
@@ -27,7 +27,7 @@ scraped_at: 2026-07-01T08:28:33+00:00
 | Fakultät | Rechts- und Wirtschaftswissenschaftliche Fakultät, Technische Fakultät |
 | Studienbeginn | Wintersemester |
 | Größe | 150-250 |
-| Besondere Studienformen | 1-Fach-Bachelor, Verbundstudium/Duales Studium |
+| Besondere Studienformen | 1-Fach-Bachelor |
 
 ## Worum geht es im Studiengang?
 
@@ -114,7 +114,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ### Sprachkenntnisse
 
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Details und Anmerkungen
 
@@ -168,7 +168,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Anmeldung](https://www.tf.fau.de/studium/veranstaltungen-fuer-studierende/#vorkurse-repetitorien-und-begleitangebote)
 - [department.mb.tf.fau.de/infocenter/veranstaltungen/](https://www.department.mb.tf.fau.de/infocenter/veranstaltungen/)
 - [Department EEI](https://www.eei.tf.fau.de/)
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [weitere Zugangsmöglichkeiten](https://www.fau.de/education/bewerbung/zugang-zum-studium/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)

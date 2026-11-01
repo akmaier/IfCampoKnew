@@ -9,7 +9,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "50-150"
 besondere_studienformen: "2-Fach-Bachelor, Teilzeitstudium möglich"
-scraped_at: 2026-07-01T08:23:59+00:00
+scraped_at: 2026-11-01T11:15:44+00:00
 ---
 
 # Japanologie (B.A.)
@@ -133,7 +133,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 * Auch wenn die Sprache Grundlage der japanologischen Tätigkeiten bildet, sind Vorkenntnisse der japanischen Sprache nicht unbedingt erforderlich.
   Die Sprachausbildung beginnt mit der Vermittlung der absoluten Grundlagen, geht dann allerdings recht zügig voran. Besonders hervorzuheben ist hier die Aneignung der Schriftkompetenzen. Im Kurs werden von Anfang an Materialien in der Originalschrift verwendet. Die Einführung in die beiden Silbenschriften Hiragana und Katakana wird in den ersten Wochen abgeschlossen, um sich dann den Kanji zu widmen.
   Wer sich dieser Herausforderung stellt und ein kulturelles Neuland für sich erschließen will, sollte viel Motivation, Disziplin und Ausdauer mitbringen. Nähere Informationen inklusive Tipps für die Vorbereitungen sind auf der Instituts-Homepage unter dem Menüpunkt „Studienanfänger“ zu finden.
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Details und Anmerkungen
 
@@ -212,7 +212,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Philosophie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/philosophie-ba/)
 - [Ökonomie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/oekonomie-ba/)
 - [Beratungsangebots der Zentralen Studienberatung und des Studien-Service-Centers](https://www.fau.de/studium/studienangebot/bachelor/#infos-zum-bachelorstudium-an-der-philosophischen-fakultaet-und-fachbereich-theologie)
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [weitere Zugangsmöglichkeiten](https://www.fau.de/studium/bewerbung-und-zulassung/zugangsvoraussetzungen/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)

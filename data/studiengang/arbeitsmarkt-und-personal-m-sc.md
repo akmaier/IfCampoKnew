@@ -8,7 +8,7 @@ unterrichtssprache: "Deutsch und Englisch"
 fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "1-50"
-scraped_at: 2026-07-01T08:18:38+00:00
+scraped_at: 2026-11-01T11:11:17+00:00
 ---
 
 # Arbeitsmarkt und Personal (M.Sc.)
@@ -73,7 +73,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ### Sprachkenntnisse
 
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Voraussetzungen für Master
 
@@ -146,7 +146,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Sozialökonomik](https://www.wiso.rw.fau.de/studium/studienangebot/master/sozialoekonomik/)
 - [Economics](https://www.mse.wiso.rw.fau.eu/)
 - [Einen beispielhaften Studienverlaufsplan finden Sie auf der Website des Studiengangs.](https://www.aup.wiso.rw.fau.de/files/2022/01/studienverlaufsplan_21-1-scaled.jpg)
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [Alle weiteren Informationen zu den Zulassungskriterien und dem Auswahlverfahren finden Sie auf der Studiengangswebsite.](https://www.aup.wiso.rw.fau.de/zulassung/)
 - [Musterlebenslauf](https://www.wiso.rw.fau.de/files/2016/01/Musterlebenslauf_AP.pdf)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)

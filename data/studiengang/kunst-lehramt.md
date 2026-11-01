@@ -7,7 +7,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "50-150"
-scraped_at: 2026-07-01T08:24:14+00:00
+scraped_at: 2026-11-01T11:15:58+00:00
 ---
 
 # Kunst (Lehramt)
@@ -80,11 +80,11 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ### Sprachkenntnisse
 
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Details und Anmerkungen
 
-Das Studium Lehramt Kunst im Unterrichtsfach setzt das Bestehen einer Eignungsprüfung voraus, die sich aus einer künstlerischen Mappe und einer praktischen Prüfung zusammensetzt. Die Anmeldefrist für die Eignungsprüfung ist im **Jahr 2026 der 16.6.2026**. Es empfiehlt sich im Vorfeld eine Beratung in Anspruch zu nehmen. Termine für die Mappenberatung sowie die Anmeldefrist finden Sie direkt am[Lehrstuhl für Kunstpädagogik und Kunstdidaktik](https://www.kunst.phil.fau.de/studium/studiengaenge/unterrichtsfach-kunst/eignungspruefung/).
+Das Studium Lehramt Kunst im Unterrichtsfach setzt das Bestehen einer Eignungsprüfung voraus, die sich aus einer künstlerischen Mappe und einer praktischen Prüfung zusammensetzt. Die Anmeldefrist für die Eignungsprüfung ist im **Jahr 2026 der 16.6.2026**. Es empfiehlt sich im Vorfeld eine Beratung in Anspruch zu nehmen. Termine für die Mappenberatung sowie die Anmeldefrist finden Sie direkt am [Lehrstuhl für Kunstpädagogik und Kunstdidaktik](https://www.kunst.phil.fau.de/studium/studiengaenge/unterrichtsfach-kunst/eignungspruefung/).
 
 Das Studium Lehramt Kunst im Didaktikfach an Grund- und Mittelschulen erfordert keine Eignungsprüfung.
 
@@ -140,7 +140,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Zentrum für Lehrerinnen- und Lehrerbildun](https://zfl.fau.de)
 - [Eignungsprüfung](https://www.kunst.phil.fau.de/studium/studiengaenge/unterrichtsfach-kunst/eignungspruefung/)
 - [Informationen zum Didaktikfach Kunst](https://www.kunst.phil.fau.de/studium/studiengaenge/didaktikfach-kunst/)
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [weitere Zugangsmöglichkeiten](https://www.fau.de/education/bewerbung/zugang-zum-studium/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)

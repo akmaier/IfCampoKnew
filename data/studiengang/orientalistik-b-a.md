@@ -9,7 +9,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "2-Fach-Bachelor, Teilzeitstudium möglich"
-scraped_at: 2026-07-01T08:26:41+00:00
+scraped_at: 2026-11-01T11:18:19+00:00
 ---
 
 # Orientalistik (B.A.)
@@ -132,12 +132,9 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ### Sprachkenntnisse
 
-* Anfänger:innen
-  Für die Aufnahme eines Studiums der Orientalistik benötigen Sie keine Vorkenntnisse des Arabischen oder einer anderen der bei uns gelehrten Sprachen. Alle unsere Sprachkurse (Modernes Hocharabisch, einzelne arabische Dialekte, Türkisch, Hebräisch, Persisch) beginnen auf Anfängerniveau.
-  Muttersprachler:innen
-  Obschon unsere Sprachkurse sich an Anfänger\*innen orientieren, sind Studierende, die bereits bereits muttersprachliche oder anderweitig erworbene Sprachkenntnisse des Arabischen, eines arabischen Dialekts, oder anderer bei uns gelehrter Sprachen mitbringen, eine Bereicherung für den Unterricht im Fach Orientalistik.
-  Wenn dies Ihr Fall ist, und Sie sich fragen, ob Sie trotzdem einen Anfängerkurs besuchen müssen, kommen Sie gerne auf die Dozent\*innen zu. Wir beraten Sie, auf welchem Niveau Sie in einen jeweiligen Sprachkurs einsteigen können, oder ob Ihnen ein bestimmter Sprachkurs gegebenenfalls erlassen werden kann (z.B. wenn Sie ein Abitur aus einem arabischen Land vorweisen können). Aus der Erfahrung empfiehlt es sich aber auch in letzterem Falle, dass Sie zumindest einen fortgeschrittenen Arabischkurs besuchen. Dies hat den Zweck, dass Sie sich vertraut machen mit dem Übersetzen Arabisch-Deutsch/Deutsch-Arabisch, mit der wissenschaftlichen Transkription des Arabischen, und mit der grammatischen Beschreibung des Arabischen aus „westlicher Perspektive“.
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Anfänger:innen: Für die Aufnahme eines Studiums der Orientalistik benötigen Sie keine Vorkenntnisse des Arabischen oder einer anderen der bei uns gelehrten Sprachen. Alle unsere Sprachkurse (Modernes Hocharabisch, einzelne arabische Dialekte, Türkisch, Hebräisch, Persisch) beginnen auf Anfängerniveau.
+  Muttersprachler:innen: Obschon unsere Sprachkurse sich an Anfänger:innen orientieren, sind Studierende, die bereits bereits muttersprachliche oder anderweitig erworbene Sprachkenntnisse des Arabischen, eines arabischen Dialekts, oder anderer bei uns gelehrter Sprachen mitbringen, eine Bereicherung für den Unterricht im Fach Orientalistik. Wenn dies Ihr Fall ist, und Sie sich fragen, ob Sie trotzdem einen Anfängerkurs besuchen müssen, kommen Sie gerne auf die Dozent:innen zu. Wir beraten Sie, auf welchem Niveau Sie in einen jeweiligen Sprachkurs einsteigen können, oder ob Ihnen ein bestimmter Sprachkurs gegebenenfalls erlassen werden kann (z.B. wenn Sie ein Abitur aus einem arabischen Land vorweisen können). Aus der Erfahrung empfiehlt es sich aber auch in letzterem Falle, dass Sie zumindest einen fortgeschrittenen Arabischkurs besuchen. Dies hat den Zweck, dass Sie sich vertraut machen mit dem Übersetzen Arabisch-Deutsch/Deutsch-Arabisch, mit der wissenschaftlichen Transkription des Arabischen, und mit der grammatischen Beschreibung des Arabischen aus „westlicher Perspektive“.
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Details und Anmerkungen
 
@@ -215,7 +212,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Pädagogik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/paedagogik-ba/)
 - [Sinologie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/sinologie-ba/)
 - [Beratungsangebots der Zentralen Studienberatung und des Studien-Service-Centers](https://www.fau.de/studium/studienangebot/bachelor/#infos-zum-bachelorstudium-an-der-philosophischen-fakultaet-und-fachbereich-theologie)
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [weitere Zugangsmöglichkeiten](https://www.fau.de/education/bewerbung/zugang-zum-studium/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)

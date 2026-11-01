@@ -2,14 +2,14 @@
 title: "Psychologie (B.Sc.)"
 source_url: https://www.fau.de/studiengang/psychologie-b-sc/
 abschluss: "Bachelor of Science"
-zugang: "mit NC (DoSV/Uni-NC)"
+zugang: "mit örtlichem NC"
 regelstudienzeit: "6 Semester"
 unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "250-600"
 besondere_studienformen: "1-Fach-Bachelor, Teilzeitstudium möglich"
-scraped_at: 2026-07-01T08:27:24+00:00
+scraped_at: 2026-11-01T11:19:01+00:00
 ---
 
 # Psychologie (B.Sc.)
@@ -21,7 +21,7 @@ scraped_at: 2026-07-01T08:27:24+00:00
 | Feld | Wert |
 |---|---|
 | Abschluss | Bachelor of Science |
-| Zugang | mit NC (DoSV/Uni-NC) |
+| Zugang | mit örtlichem NC |
 | Regelstudienzeit | 6 Semester |
 | Unterrichtssprache | vollständig auf Deutsch |
 | Fakultät | Philosophische Fakultät und Fachbereich Theologie |
@@ -118,7 +118,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ### Sprachkenntnisse
 
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Details und Anmerkungen
 
@@ -181,7 +181,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ## Externe Links
 
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [weitere Zugangsmöglichkeiten](https://www.fau.de/education/bewerbung/zugang-zum-studium/)
 - [BaPsy-DGPs](https://www.studieneignungstest-psychologie.de/)
 - [Satzung zur Regelung des ergänzenden Hochschulauswahlverfahrens für den Bachelorstudiengang Psychologie B.Sc](https://www.fau.de/fau/rechtsgrundlagen/regelungen-zum-studium/#collapse_5)

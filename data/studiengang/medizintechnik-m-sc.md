@@ -5,11 +5,11 @@ abschluss: "Master of Science"
 zugang: "Qualifikationsfeststellungsverfahren"
 regelstudienzeit: "4 Semester"
 unterrichtssprache: "Deutsch oder Englisch möglich"
-fakultät: "Medizinische Fakultät, Technische Fakultät"
+fakultät: "Technische Fakultät"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "> 600"
 besondere_studienformen: "Internationales Studienangebot, Teilzeitstudium möglich"
-scraped_at: 2026-07-01T08:25:53+00:00
+scraped_at: 2026-11-01T11:17:34+00:00
 ---
 
 # Medizintechnik (M.Sc.)
@@ -24,7 +24,7 @@ scraped_at: 2026-07-01T08:25:53+00:00
 | Zugang | Qualifikationsfeststellungsverfahren |
 | Regelstudienzeit | 4 Semester |
 | Unterrichtssprache | Deutsch oder Englisch möglich |
-| Fakultät | Medizinische Fakultät, Technische Fakultät |
+| Fakultät | Technische Fakultät |
 | Studienbeginn | Sommersemester, Wintersemester |
 | Größe | > 600 |
 | Besondere Studienformen | Internationales Studienangebot, Teilzeitstudium möglich |
@@ -120,9 +120,9 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 ### Sprachkenntnisse
 
 * Der Studiengang ist je nach Studienrichtung sowohl auf Deutsch als auch auf Englisch studierbar.
-  Für die deutschsprachigen Studienrichtungen ist für Nicht-Muttersprachler/-innen ein offizieller Deutschnachweis erforderlich: DSH 2, TestDAF 4 oder vergleichbar
+  Für die deutschsprachigen Studienrichtungen ist für Nicht-Muttersprachler/-innen ein offizieller Deutschnachweis erforderlich: DSH 2, TestDAF 4 oder vergleichbar.
   Für die englischsprachigen Studienrichtungen ist ein offizieller Englischnachweis auf B2-Niveau erforderlich (letzterer ist bei Bewerber/-innen mit deutschem Abitur i.d.R. durch das Abiturzeugnis abgedeckt).
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Voraussetzungen für Master
 
@@ -184,7 +184,7 @@ Weitere Informationen
 * [Webseite des Studiengangs](https://www.medizintechnik.studium.fau.de/)
 * [Prüfungsamt Technische Fakultät](https://www.fau.de/studium/studienorganisation/pruefungen/pruefungsamt-tech/)
 * [Webseite des Departments/Instituts](https://www.eei.tf.fau.de/)
-* [Medizinische Fakultät](https://med.fau.de), [Technische Fakultät](https://tf.fau.de)
+* [Technische Fakultät](https://tf.fau.de)
 * [Studierendenvertretung der FAU](https://stuve.fau.de/)
 
 ## Vorteile des Studiums an der FAU
@@ -193,7 +193,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ## Externe Links
 
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [Campo](http://www.campo.fau.de)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)
@@ -210,7 +209,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Webseite des Studiengangs](https://www.medizintechnik.studium.fau.de/)
 - [Prüfungsamt Technische Fakultät](https://www.fau.de/studium/studienorganisation/pruefungen/pruefungsamt-tech/)
 - [Webseite des Departments/Instituts](https://www.eei.tf.fau.de/)
-- [Medizinische Fakultät](https://med.fau.de)
 - [Technische Fakultät](https://tf.fau.de)
 - [Studierendenvertretung der FAU](https://stuve.fau.de/)
 - [FAU/David Hartfiel](https://www.fau.de/wp-content/uploads/sites/4/2026/04/Medizintechnik-MSc-Hartfiel.jpg)

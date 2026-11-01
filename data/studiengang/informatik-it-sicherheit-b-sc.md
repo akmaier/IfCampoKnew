@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "50-150"
 besondere_studienformen: "1-Fach-Bachelor, Weiterbildungs-/berufsbegleitender Studiengang"
-scraped_at: 2026-07-01T08:23:09+00:00
+scraped_at: 2026-11-01T11:14:57+00:00
 ---
 
 # Informatik/IT-Sicherheit (B.Sc.)
@@ -93,7 +93,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ### Sprachkenntnisse
 
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Details und Anmerkungen
 
@@ -148,7 +148,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - [Webseite](https://www.itsec.techfak.fau.de/fuer-studieninteressierte/studienverlauf/)
 - [Modulhandbuch](https://www.itsec.techfak.fau.de/files/2018/12/Modulhandbuch-Informatik-IT-Sicherheit.pdf)
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [Webseite](https://www.itsec.techfak.fau.de/)
 - [campo](https://www.campo.fau.de/)
 - [weitere Zugangsmöglichkeiten](https://www.fau.de/education/bewerbung/zugang-zum-studium/)

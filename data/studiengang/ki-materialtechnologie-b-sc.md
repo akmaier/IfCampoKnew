@@ -8,7 +8,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "250-600"
-scraped_at: 2026-07-01T08:24:04+00:00
+scraped_at: 2026-11-01T11:15:50+00:00
 ---
 
 # KI - Materialtechnologie (B.Sc.)
@@ -89,7 +89,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 ### Sprachkenntnisse
 
 * Die Unterrichtssprache dieses Studiengangs ist Deutsch. Sehr gute Deutschkenntnisse (etwa auf dem Niveau C1/C2) sind folglich eine unerlässliche Voraussetzung für das erfolgreiche Studium bei uns.
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 
@@ -122,7 +122,7 @@ Downloads
 
 Weitere Informationen
 
-* [Webseite des Studiengangs](https://www.mat.studium.fau.de/neu-ki-materialtechnologie/)
+* [Webseite des Studiengangs](https://www.mat.studium.fau.de/vor_dem_studium/studiengaenge/ki-materialtechnologie-2/)
 * [Prüfungsamt Technische Fakultät](https://www.fau.de/studium/studienorganisation/pruefungen/pruefungsamt-tech/)
 * [Webseite des Departments/Instituts](https://www.mat.studium.fau.de/)
 * [Technische Fakultät](https://tf.fau.de)
@@ -134,7 +134,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ## Externe Links
 
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)
 - [Direkt zum Bewerbungsportal](https://www.campo.fau.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces?sessionlanguage=de&page=Bewerber/-innen)
@@ -147,7 +146,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Wege ins Ausland](https://www.fau.de/studium/studienorganisation/wege-ins-ausland/)
 - [Modulhandbuch](https://www.mat.studium.fau.de/vor_dem_studium/studiengaenge/ki-materialtechnologie/informationen-zum-studium/)
 - [Prüfungsordnungen](https://www.fau.de/fau/rechtsgrundlagen/pruefungsordnungen/tech/werkstoffwissenschaften/)
-- [Webseite des Studiengangs](https://www.mat.studium.fau.de/neu-ki-materialtechnologie/)
+- [Webseite des Studiengangs](https://www.mat.studium.fau.de/vor_dem_studium/studiengaenge/ki-materialtechnologie-2/)
 - [Prüfungsamt Technische Fakultät](https://www.fau.de/studium/studienorganisation/pruefungen/pruefungsamt-tech/)
 - [Webseite des Departments/Instituts](https://www.mat.studium.fau.de/)
 - [Technische Fakultät](https://tf.fau.de)

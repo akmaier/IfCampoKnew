@@ -9,7 +9,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "<25"
 besondere_studienformen: "Weiterbildungs-/berufsbegleitender Studiengang"
-scraped_at: 2026-07-01T08:26:34+00:00
+scraped_at: 2026-11-01T11:18:14+00:00
 ---
 
 # Organisation – Transformation – Gesellschaft (M.A.)
@@ -42,6 +42,7 @@ Die erkenntnisleitende Frage „What the hell is going on?“ und die refle
 ### Aufbau und Struktur
 
 * Das Studium ist in 12 Module gegliedert. Theoretische Kernmodule verzahnen sich dabei eng mit organisationspädagogischen Einheiten. In Modulen der Reflexiven Professionalisierung wird Erlerntes transferiert und reflektiert, so dass Fachkompetenz durch Methodenwissen erlebbar wird.
+
 * Sie finden eine detaillierte Beschreibung aller Module im Modulhandbuch. Maßgeblich für den Studiengang ist die Studien- und Prüfungsordnung.
 * Für Ihre genau Studien- und Terminplanung (Terminübersicht der Veranstaltungen) kontaktieren Sie gerne [[E-Mail entfernt]](mailto:[E-Mail entfernt]).
 
@@ -50,6 +51,60 @@ Die erkenntnisleitende Frage „What the hell is going on?“ und die refle
 ![](https://www.studiengangsverwaltung.zuv.fau.de/wp-content/uploads/sites/5/2026/04/OTG-Modulplan-scaled-1-1024x454.png)
 
 Der Studiengang orientiert sich didaktisch an modernen Lerntheorien. Die Varianz der Lehrveranstaltungen und Dozierenden erlaubt Theorie- und Methodenvielfalt. Der Studiengang lebt von einer kleinen Kohortengröße (max. 20 Personen), die als geschlossene Kleingruppe die vier Semester verbringen, so dass eine konstante vertraute Arbeitsatmosphäre kontinuierliches Lernen ermöglicht. Die Dozierenden sind alle Experten im Schaffen konstruktiver Lernräume. Theoretische Kernmodule sind im Verlauf eng mit den reflexiven Veranstaltungen verknüpft. Die organisationspädagogischen Veranstaltungen rahmen beides. Kontinuierliche Evaluation und ein eng verzahntes und bekanntes Dozierendenteam sichern Wissens- und Qualitätstransfer durch alle Semester und öffnen Räume, in dem Aushandlungen, Dialoge und (selbst)reflexive Prozesse auf der Basis sozialwissenschaftlicher Theorie und Organisationsentwicklungsmethoden stattfinden können.
+
+### Was sollte ich mitbringen?
+
+Für das Studium Organisation – Transformation – Gesellschaft (OTG) sind Interesse an Veränderungsprozessen sowie die Bereitschaft zur Reflexion besonders wichtig.
+
+**Darüber hinaus sind folgende Punkte hilfreich:**
+
+* Interesse an Organisationen und gesellschaftlichem Wandel  
+  Sie beschäftigen sich gerne mit der Frage, wie Organisationen funktionieren und wie Veränderung gestaltet werden kann.
+* Analytisches und systemisches Denken  
+  Sie haben Freude daran, komplexe Zusammenhänge zu verstehen und unterschiedliche Perspektiven miteinander zu verknüpfen.
+* Mind. 2 jährige Berufserfahrung  
+  Praktische Erfahrungen im organisationsbezogenen Umfeld erleichtern den Transfer zwischen Theorie und Praxis.
+* Kommunikations- und Reflexionsfähigkeit  
+  Sie sind offen für Austausch und bereit, das eigene berufliche Handeln kritisch zu hinterfragen und weiterzuentwickeln.
+
+**Formale Zulassungsvoraussetzungen:**
+
+* Ein mit mindestens der Note 3,00 abgeschlossenes Hochschulstudium (Diplom, Magister, Staatsexamen, Master oder Bachelor) oder ein gleichwertiger in- oder ausländischer Abschluss.
+* In der Regel eine mindestens zweijährige einschlägige Berufstätigkeit nach dem ersten Hochschulabschluss.
+* Die erfolgreiche Teilnahme am Qualifikationsfeststellungsverfahren.
+
+### Gute Gründe für ein Studium an der FAU
+
+Das Studium an der Friedrich-Alexander-Universität Erlangen-Nürnberg verbindet wissenschaftliche Exzellenz mit hoher Praxisnähe und einem interdisziplinären Blick auf Organisation, Transformation und Gesellschaft. Dadurch entwickeln Sie nicht nur fachliche Kompetenzen, sondern profitieren auch von einem starken Forschungsumfeld und einem engen Bezug zur beruflichen Praxis.
+
+* Veränderungen wirksam begleiten
+  + Sie gestalten Veränderungsprozesse systematisch und professionell und erkennen Entwicklungsbedarfe.
+* Organisationen strategisch weiterentwickeln
+  + Sie verbinden wissenschaftliche Analyse mit praktischer Handlungskompetenz.
+* Konflikte verstehen und moderieren
+  + Sie lernen, Spannungen produktiv zu bearbeiten und unterschiedliche Perspektiven einzubeziehen.
+* Forschung und Praxis verbinden
+  + Sie entwickeln Lösungen auf Basis wissenschaftlicher Erkenntnisse und übertragen diese direkt in Ihren beruflichen Kontext.
+* Ihre professionelle Rolle stärken
+  + Durch kontinuierliche Reflexion entwickeln Sie Ihre eigene Haltung als Organisationsentwicklerin, Beraterin oder Führungskraft weiter.
+
+### Welche beruflichen Perspektiven stehen mir offen?
+
+Ein Abschluss im Studiengang Organisation – Transformation – Gesellschaft (OTG) eröffnet Ihnen vielfältige berufliche Perspektiven, insbesondere in den Bereichen Organisationsentwicklung, Beratung und Veränderungsmanagement.
+
+**Nach dem Studium können Sie beispielsweise tätig werden als:**
+
+* Organisationsentwicklerin bzw. Organisationsentwickler
+* Transformations- oder Change Managerin bzw. Change Manager
+* Prozessbegleiterin bzw. Prozessbegleiter
+* Beraterin bzw. Berater für Organisations- und Personalentwicklung
+* Führungskraft mit Verantwortung für Veränderungs- und Entwicklungsprozesse
+* Referentin bzw. Referent für Strategie, Innovation oder Personalentwicklung
+* Projektleitung für Organisations- und Transformationsprojekte
+* Coach oder Moderatorin bzw. Moderator für Beteiligungs- und Entwicklungsprozesse
+* DiversityexpertIn/-beauftragte
+* InklusionsexpertIn/-beauftragte
+* GleichstellungsexpertIn/-beauftragte
 
 ## Zugangsvoraussetzungen und Bewerbung
 
@@ -66,7 +121,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ### Sprachkenntnisse
 
-* Deutschkenntnisse für internationale Studierende: [Deutschkenntnisse erforderlich](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Voraussetzungen für Master
 
@@ -119,7 +174,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ## Externe Links
 
-- [Deutschkenntnisse erforderlich](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)
 - [Direkt zum Bewerbungsportal](https://www.campo.fau.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces?sessionlanguage=de&page=Bewerber/-innen)
@@ -136,7 +190,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Prüfungsamt Philosophische Fakultät und Fachbereich Theologie](https://www.fau.de/studium/studienorganisation/pruefungen/pruefungsamt-phil/)
 - [Philosophische Fakultät und Fachbereich Theologie](https://www.phil.fau.de/)
 - [Studierendenvertretung der FAU](https://stuve.fau.de/)
-- [stock.adobe.com](https://www.fau.de/wp-content/uploads/sites/4/2026/07/Organisation-Transformation-Gesellschaft-MA-AdobeStock_1665825155.jpg)
+- [stock.adobe.com](https://www.fau.de/wp-content/uploads/sites/4/2026/11/Organisation-Transformation-Gesellschaft-MA-AdobeStock_1665825155.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/apply-now.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)

@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "150-250"
 besondere_studienformen: "Internationales Studienangebot"
-scraped_at: 2026-07-01T08:25:18+00:00
+scraped_at: 2026-11-01T11:17:01+00:00
 ---
 
 # Materials Science and Engineering (M.Sc.)
@@ -48,7 +48,6 @@ Die Regelstudienzeit für den Masterstudiengang beträgt vier Semester. Die Anza
 * Allgemeine Werkstoffeigenschaften
 * Werkstoffkunde und Technologie der Metalle
 * Glas und Keramik
-* Korrosion und Oberflächentechnik
 * Polymerwerkstoffe
 * Materialien der Elektronik und Energietechnik
 * Werkstoffe in der Medizin
@@ -57,10 +56,9 @@ Die Regelstudienzeit für den Masterstudiengang beträgt vier Semester. Die Anza
 
 ### Gute Gründe für ein Studium an der FAU
 
-### **15 unschlagbare Gründe, warum die Wahl des Masterstudiengangs Materials Science and Engineering an der FAU die beste Entscheidung ist, die Sie je treffen werden:**
+### **14 unschlagbare Gründe, warum die Wahl des Masterstudiengangs Materials Science and Engineering an der FAU die beste Entscheidung ist, die Sie je treffen werden:**
 
 * **Ausgezeichnetes Schüler-Lehrer-Verhältnis**: Das Verhältnis zwischen Studierenden und Lehrenden ist hervorragend. Kleine Klassen, viele Wahlfächer und eine große Anzahl hochmotivierter Wissenschaftler aus allen 9 Lehrstühlen des Departments für Materialwissenschaft und Werkstofftechnik sorgen für die bestmögliche individuelle Betreuung.
-* **Keine Studiengebühren**: An deutschen Hochschulen gibt es keine Studiengebühren. Es gibt nur einen Semesterbeitrag, der sich aus einem Beitrag für das Studentenwerk und einem allgemeinen Beitrag zu den Kosten des Semestertickets zusammensetzt.
 * **Lehre zu 100% in Englisch**: Englisch ist die Unterrichtssprache in allen Kursen des Masterstudiengangs Materials Science and Engineering. Sie müssen für Ihre Bewerbung keinen deutschen Sprachnachweis erbringen. Wir empfehlen Ihnen jedoch dringend, Ihre Deutschkenntnisse zu verbessern, sobald Sie hier sind.
 * **Exzellente Forschungseinrichtungen**: Die neun Lehrstühle des Fachbereichs Materialwissenschaft und Werkstofftechnik verfügen über eine umfangreiche und hochmoderne technische Ausstattung. Je nach Fachrichtung haben Sie Zugang zu Transmissionselektronenmikroskopen, Rasterelektronenmikroskopen und einer Atomsonde, um nur einige zu nennen.
 * **Große Auswahl an Wahlfächern**: So viele Wahlmöglichkeiten … Im Masterstudiengang Materials Science and Engineering haben Sie die Qual der Wahl: Fünf von vierzehn Modulen sind Wahlpflichtmodule. Hier können Sie Ihre Vorlesungen frei aus einem Pool innerhalb des Departments Materials Science and Engineering wählen – und sogar aus anderen Departments der Technischen Fakultät.
@@ -86,7 +84,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 ### Bewerbungsfrist
 
 * Wintersemester: 31.05.
-* Sommersemester: 30.11.
+* Sommersemester: 15.01.
 
 ### Sprachkenntnisse
 
@@ -94,7 +92,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
   Englischunterricht in der Schule bis zum Niveau B2 CEFR mit entsprechender Bescheinigung im Schulzeugnis oder ein entsprechendes Zertifikat der Schule,
   den erfolgreichen Test of English as a Foreign Language (TOEFL) mit mindestens 85 Punkten im iBT, oder
   das International English Language Testing System (IELTS) 5,5 oder höher.
-* Deutschkenntnisse für internationale Studierende: [keine DSH, aber Englisch Niveau B2 (CEFR)](https://www.fau.eu/studying/degree-programs/special-ways-to-study/international-degree-programs/orientation-guide-language-tests/)
+* Deutschkenntnisse für internationale Studierende: [keine Deutschkenntnisse erforderlich](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/#deutschkenntnisse-fuer-masterstudiengaenge)
 
 ### Voraussetzungen für Master
 
@@ -144,9 +142,9 @@ Downloads
 
 Weitere Informationen
 
-* [Webseite des Studiengangs](https://www.mat.studium.fau.de/)
+* [Webseite des Studiengangs](https://materials.study.fau.eu/)
 * [Prüfungsamt Technische Fakultät](https://www.fau.de/studium/studienorganisation/pruefungen/pruefungsamt-tech/)
-* [Webseite des Departments/Instituts](https://www.ww.tf.fau.de/startseite/studium/materialwissenschaft-2/)
+* [Webseite des Departments/Instituts](https://www.ww.tf.fau.de/)
 * [Technische Fakultät](https://tf.fau.de)
 * [Studierendenvertretung der FAU](https://stuve.fau.de/)
 
@@ -156,7 +154,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ## Externe Links
 
-- [keine DSH, aber Englisch Niveau B2 (CEFR)](https://www.fau.eu/studying/degree-programs/special-ways-to-study/international-degree-programs/orientation-guide-language-tests/)
+- [keine Deutschkenntnisse erforderlich](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/#deutschkenntnisse-fuer-masterstudiengaenge)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)
 - [Direkt zum Bewerbungsportal](https://www.campo.fau.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces?sessionlanguage=de&page=Bewerber/-innen)
@@ -169,9 +167,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Wege ins Ausland](https://www.fau.de/studium/studienorganisation/wege-ins-ausland/)
 - [Modulhandbuch](https://materials.study.fau.eu/studying-materials-science/course-outline/)
 - [Prüfungsordnungen](https://materials.study.fau.eu/studying-materials-science/course-outline/#collapse_5)
-- [Webseite des Studiengangs](https://www.mat.studium.fau.de/)
+- [Webseite des Studiengangs](https://materials.study.fau.eu/)
 - [Prüfungsamt Technische Fakultät](https://www.fau.de/studium/studienorganisation/pruefungen/pruefungsamt-tech/)
-- [Webseite des Departments/Instituts](https://www.ww.tf.fau.de/startseite/studium/materialwissenschaft-2/)
+- [Webseite des Departments/Instituts](https://www.ww.tf.fau.de/)
 - [Technische Fakultät](https://tf.fau.de)
 - [Studierendenvertretung der FAU](https://stuve.fau.de/)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/uploads/sites/4/2026/04/Materials-Science-and-Engineering-MSc_Father-and-Sun.jpg)

@@ -9,7 +9,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "1-50"
 besondere_studienformen: "Teilzeitstudium möglich"
-scraped_at: 2026-07-01T08:22:33+00:00
+scraped_at: 2026-11-01T11:14:30+00:00
 ---
 
 # Geschichte (M.A.)
@@ -80,7 +80,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 * Für alle Bewerberinnen und Bewerber gilt als verbindliche Zulassungsvoraussetzung der Nachweis von gesicherten Lateinkenntnissen sowie die Bescheinigung von Kenntnissen in einer modernen Fremdsprache, in der Regel Englisch, mindestens auf dem Niveau B2 nach dem Gemeinsamen Europäischen Referenzrahmen für Sprachen.
   Der Nachweis der Fremdsprachenkenntnisse erfolgt durch das Abiturzeugnis oder vergleichbare Belege.
   Die „gesicherten Lateinkenntnisse“ können im Rahmen einer „Aufnahme unter Bedingungen“ innerhalb eines Jahres nach Antritt des Masterstudiums Geschichte eigenverantwortlich nachgereicht werden.
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Voraussetzungen für Master
 
@@ -132,7 +132,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ## Externe Links
 
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [Informationen zu den Ansprechpartnern](https://www.geschichte.phil.fau.de/department-geschichte/studium-und-lehre/studienangebot/338-2/master-geschichte/ansprechpartner/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)

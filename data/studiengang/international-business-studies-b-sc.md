@@ -2,14 +2,14 @@
 title: "International Business Studies (B.Sc.)"
 source_url: https://www.fau.de/studiengang/international-business-studies-b-sc/
 abschluss: "Bachelor of Science"
-zugang: "mit NC (DoSV/Uni-NC)"
+zugang: "mit örtlichem NC"
 regelstudienzeit: "6 Semester"
 unterrichtssprache: "vollständig auf Englisch"
 fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "50-150"
-besondere_studienformen: "1-Fach-Bachelor, Internationales Studienangebot, Verbundstudium/Duales Studium"
-scraped_at: 2026-07-01T08:23:32+00:00
+besondere_studienformen: "1-Fach-Bachelor, Internationales Studienangebot"
+scraped_at: 2026-11-01T11:15:16+00:00
 ---
 
 # International Business Studies (B.Sc.)
@@ -21,13 +21,13 @@ scraped_at: 2026-07-01T08:23:32+00:00
 | Feld | Wert |
 |---|---|
 | Abschluss | Bachelor of Science |
-| Zugang | mit NC (DoSV/Uni-NC) |
+| Zugang | mit örtlichem NC |
 | Regelstudienzeit | 6 Semester |
 | Unterrichtssprache | vollständig auf Englisch |
 | Fakultät | Rechts- und Wirtschaftswissenschaftliche Fakultät |
 | Studienbeginn | Wintersemester |
 | Größe | 50-150 |
-| Besondere Studienformen | 1-Fach-Bachelor, Internationales Studienangebot, Verbundstudium/Duales Studium |
+| Besondere Studienformen | 1-Fach-Bachelor, Internationales Studienangebot |
 
 ## Worum geht es im Studiengang?
 
@@ -72,10 +72,6 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 * Wintersemester: 15.07.
 * Sommersemester: nicht möglich
-
-### Sprachkenntnisse
-
-* Deutschkenntnisse für internationale Studierende: [keine DSH, aber Englisch Niveau B2 (CEFR)](https://www.fau.eu/studying/degree-programs/special-ways-to-study/international-degree-programs/orientation-guide-language-tests/)
 
 ### Details und Anmerkungen
 
@@ -126,7 +122,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ## Externe Links
 
-- [keine DSH, aber Englisch Niveau B2 (CEFR)](https://www.fau.eu/studying/degree-programs/special-ways-to-study/international-degree-programs/orientation-guide-language-tests/)
 - [weitere Zugangsmöglichkeiten](https://www.fau.de/education/bewerbung/zugang-zum-studium/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)

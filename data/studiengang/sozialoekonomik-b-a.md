@@ -8,8 +8,7 @@ unterrichtssprache: "Deutsch und Englisch"
 fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "250-600"
-besondere_studienformen: "Verbundstudium/Duales Studium"
-scraped_at: 2026-07-01T08:27:54+00:00
+scraped_at: 2026-11-01T11:19:25+00:00
 ---
 
 # Sozialökonomik (B.A.)
@@ -27,7 +26,6 @@ scraped_at: 2026-07-01T08:27:54+00:00
 | Fakultät | Rechts- und Wirtschaftswissenschaftliche Fakultät |
 | Studienbeginn | Wintersemester |
 | Größe | 250-600 |
-| Besondere Studienformen | Verbundstudium/Duales Studium |
 
 ## Worum geht es im Studiengang?
 
@@ -83,21 +81,21 @@ Ab dem vierten Semester kann zwischen den Schwerpunkten „**Wirtschaft, Arbeit 
 
 Im **Kernbereich** sind die Inhalte in den Schwerpunkten vorgegeben:
 
-**Schwerpunkt „****Wirtschaft, Arbeit und Ungleichheit**“:
+**Schwerpunkt „**Wirtschaft, Arbeit und Ungleichheit**“**:
 
 * Economy, Organization, and Social Inequality
 * Sozialpolitische Grundlagen
 * Personal und Organisation
 * Beruf, Arbeit, Personal
 
-**Schwerpunkt „****Digitalisierung und Medien**“:
+**Schwerpunkt „**Digitalisierung und Medien**“**:
 
 * Digital Technologies and Society
 * Konsumentenverhalten
 * Soziale Netzwerke
 * Arbeitspsychologie und Digitalisierung
 
-**Schwerpunkt „****Global Governance und Nachhaltigkeit**“:
+**Schwerpunkt „****Global Governance und Nachhaltigkeit****“**:
 
 * Global Governance
 * International vergleichende Sozialstrukturanalyse
@@ -176,7 +174,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ### Sprachkenntnisse
 
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Details und Anmerkungen
 
@@ -237,7 +235,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Studienführer der WiSo](https://www.wiso.rw.fau.de/files/2023/08/WiSo-Studienbroschuere-Studieren.pdf)
 - [Modulhandbuch](https://www.wiso.rw.fau.de/studium/im-studium/modulhandbuecher/)
 - [Alumni-Portals.](https://www.wiso.rw.fau.de/fachbereich/alumni/alumni-portraets/)
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [weitere Zugangsmöglichkeiten](https://www.fau.de/education/bewerbung/zugang-zum-studium/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)

@@ -7,7 +7,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "50-150"
-scraped_at: 2026-07-01T08:26:17+00:00
+scraped_at: 2026-11-01T11:17:53+00:00
 ---
 
 # Musik (Lehramt)
@@ -78,16 +78,16 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ### Bewerbungsfrist
 
-* Wintersemester: 01.07.
+* Wintersemester: 14.07.
 * Sommersemester: nicht möglich
 
 ### Sprachkenntnisse
 
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Details und Anmerkungen
 
-Für die Immatrikulation zum nicht-vertieften Unterrichtsfach Musik ist das Bestehen einer [Eignungsprüfung](http://www.musik.ewf.uni-erlangen.de/eignungspruefung/) Voraussetzung. Die Anmeldefrist für die Eignungsprüfung ist der 01.07.2025. Die Eignungsprüfung findet einmal im Jahr (Mitte/Ende Juli) statt und ist nach Bestehen 12 Monate gültig. Die Prüfungsinhalte der schriftlichen Prüfung setzen sich zusammen aus Gehörbildung und Allgemeiner Musiklehre. In der praktischen bzw. mündlichen Prüfung muss entsprechendes Können am Instrument, im Bereich Gesang / Sprecherziehung und innerhalb einer Ensemblearbeit nachgewiesen werden.
+Für die Immatrikulation zum nicht-vertieften Unterrichtsfach Musik ist das Bestehen einer [Eignungsprüfung](http://www.musik.ewf.uni-erlangen.de/eignungspruefung/) Voraussetzung. **Achtung: Die Anmeldefrist für die Eignungsprüfung wurde auf den 14.7.2026 verlängert.** Die Eignungsprüfung findet einmal im Jahr (Mitte/Ende Juli) statt und ist nach Bestehen 12 Monate gültig. Die Prüfungsinhalte der schriftlichen Prüfung setzen sich zusammen aus Gehörbildung und Allgemeiner Musiklehre. In der praktischen bzw. mündlichen Prüfung muss entsprechendes Können am Instrument, im Bereich Gesang / Sprecherziehung und innerhalb einer Ensemblearbeit nachgewiesen werden.
 
 Die Bewerbungsfrist für das Wintersemester für internationale Bewerberinnen und Bewerber ist der 15. Juli, vorher muss die Anmeldefrist für die Eignungsprüfung beachtet werden.
 
@@ -140,7 +140,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Grundschule](https://www.fau.de/education/studienangebot/lehramtsstudium/lehramt-an-grundschulen/)
 - [Mittelschule](https://www.fau.de/education/studienangebot/lehramtsstudium/lehramt-an-mittelschulen/)
 - [Realschule](https://www.fau.de/education/studienangebot/lehramtsstudium/lehramt-an-realschulen/)
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [Eignungsprüfung](http://www.musik.ewf.uni-erlangen.de/eignungspruefung/)
 - [weitere Zugangsmöglichkeiten](https://www.fau.de/education/bewerbung/zugang-zum-studium/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)

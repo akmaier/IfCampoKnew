@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "250-600"
 besondere_studienformen: "Internationales Studienangebot, Teilzeitstudium möglich"
-scraped_at: 2026-07-01T08:19:49+00:00
+scraped_at: 2026-11-01T11:12:19+00:00
 ---
 
 # Clean Energy Processes (M.Sc.)
@@ -120,21 +120,26 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 * Master: Qualifikationsfeststellungsverfahren
 
+### Bewerbungsfrist
+
+* Wintersemester: 15.07.
+* Sommersemester: 15.01.
+
 ### Sprachkenntnisse
 
-* Kenntnisse der englischen Sprache auf Niveau B2 (CEFR), detaillierte Informationen finden Sie auf der CEP Webseite
-  Der Englischnachweis CEP muss dem Antrag der Immatrikulation der Nachweis über die Englischkenntnisse (B2) beigefügt werden.
-* Deutschkenntnisse für internationale Studierende: [keine DSH, aber Englisch Niveau B2 (CEFR)](https://www.fau.eu/studying/degree-programs/special-ways-to-study/international-degree-programs/orientation-guide-language-tests/)
+* Englisch mind. Niveau GER B2 / TOEFL 80 / IELTS 5,5 (oder höher), detaillierte Informationen finden Sie auf der CEP Webseite.
+  Der Nachweis über die Englischkenntnisse (B2) muss bereits der Bewerbung beigefügt werden.
+* Deutschkenntnisse für internationale Studierende: [keine Deutschkenntnisse erforderlich](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/#deutschkenntnisse-fuer-masterstudiengaenge)
 
 ### Voraussetzungen für Master
 
 * B.Sc. in einem vergleichbaren Studiengang (Chemie-/Bioingenieurwesen, Energietechnik etc.)
 * Überdurchschnittlicher Abschluss
-* Englischsprachkenntnisse auf mind. Niveau B2
+* Englischkenntnisse mind. Niveau GER B2 / TOEFL 80 / IELTS 5,5 (oder höher)
 
 ### Details und Anmerkungen
 
-Die Bewerbungsfristen und detaillierte Informationen zur Bewerbung können der [CEP Webseite](https://www.cep.study.fau.eu/cep/prospective-students/master/application-master-msc/) entnommen werden.
+Die Bewerbungsfristen und detaillierte Informationen zur Bewerbung und dem Bewerbungsprozess können der [CEP Webseite](https://www.cep.study.fau.eu/cep/prospective-students/master/application-master-msc/) entnommen werden.
 
 [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 
@@ -181,7 +186,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - [Masterstudiengang CEP](https://www.cep.study.fau.eu/)
 - [CEP-Webseite](https://www.cep.study.fau.eu/master-m-sc-clean-energy-processes/)
-- [keine DSH, aber Englisch Niveau B2 (CEFR)](https://www.fau.eu/studying/degree-programs/special-ways-to-study/international-degree-programs/orientation-guide-language-tests/)
+- [keine Deutschkenntnisse erforderlich](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/#deutschkenntnisse-fuer-masterstudiengaenge)
 - [CEP Webseite](https://www.cep.study.fau.eu/cep/prospective-students/master/application-master-msc/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)

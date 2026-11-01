@@ -9,7 +9,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "50-150"
 besondere_studienformen: "2-Fach-Bachelor, Teilzeitstudium möglich"
-scraped_at: 2026-07-01T08:19:20+00:00
+scraped_at: 2026-11-01T11:11:48+00:00
 ---
 
 # Buchwissenschaft (B.A.)
@@ -33,30 +33,19 @@ scraped_at: 2026-07-01T08:19:20+00:00
 
 Die Buchwissenschaft untersucht die kommunikativen Prozesse, die schriftbasierten Medien zugrunde liegen. Wir betrachten daher das Buch genauso wie Zeitung und Zeitschrift, interessieren uns für die gedruckten Varianten ebenso wie für die elektronischen wie z.B. E-Books, Apps und Blogs. Im Zentrum steht die Frage, wie die schriftbasierten Medien hergestellt, verbreitet und genutzt werden. Wir blicken dabei immer auch in die Vergangenheit, um das Zeitgenössische nachvollziehen zu können.
 
-Wenn Sie sich für Bücher, Zeitungen und Zeitschriften interessieren und vor allem die Prozesse kennenlernen möchten, die ihnen zugrunde liegen, dann sind Sie bei uns richtig.
-
-### Fachanteile des Studiengangs Buchwissenschaften (B.A.)
-
-* Soziotechnische Systeme (17%)
-* Rezeption und Nutzung (17%)
-* Kommunikation und Kommunikationssteuerung (17%)
-* Organisationsleistungen (17%)
-* Medientheoretische Grundlagen (8%)
-* Methoden (8%)
-* Unternehmerische Praxis (8%)
-* Forschungsperspektiven (8%)
+Wenn Sie sich für Bücher, Zeitungen und Zeitschriften interessieren und vor allem die Prozesse kennenlernen möchten, die ihnen zugrunde liegen, dann sind Sie bei uns richtig.Fachanteile des Studiengangs Buchwissenschaften (B.A.)
 
 ### Aufbau und Struktur
 
-* Modul 1: Einführung
-* Modul 2: Medientheoretische Grundlagen
+* Modul 1: Schrift und Lesen in Kultur und Gesellschaft
+* Modul 2: Theoretische Grundlagen
 * Modul 3: Methoden
-* Modul 4: Soziotechnische Konstellationen
+* Modul 4: Materialität, Technologie und Akzeptanz
 * Modul 5: Unternehmerische Praxis
-* Modul 6: Rezeption und Nutzung
-* Modul 7: Kommunikation und Kommunikationssteuerung
-* Modul 8: Organisationsleistungen
-* Modul 9: Forschungsperspektiven
+* Modul 6: Mediennutzung und Leseverhalten
+* Modul 7: Medienfreiheit und -grenzen
+* Modul 8: Akteure, Strukturen und Regulierung
+* Modul 9: Forschungswerkstatt
 * Modul 10: Bachelorarbeit
 
 In den ersten beiden Semestern werden in den Modulen 1 bis 4 die wesentlichen Grundlagen des Fachs vermittelt. Hier erfahren Sie, was schriftbasierte Medien sind, wie das System der Schriftmedienkommunikation aufgebaut ist und welche Ressourcen notwendig sind, damit es funktioniert. Sie lernen Theorieansätze kennen, die Ihnen dabei helfen zu verstehen, was beispielsweise Schrift, Medien und Kommunikation sind und Sie werden in Methoden eingeführt, die Ihnen als Werkzeuge zur Beantwortung von Fragestellungen mit buchwissenschaftlicher Relevanz helfen.
@@ -73,15 +62,15 @@ Der Bachelor of Arts (B.A.) in Buchwissenschaft ist ein erster berufsqualifizier
 
 Folgende Module sind vorgesehen:
 
-* Einführung in die Buchwissenschaft
-* Medientheoretische Grundlagen
+* Schrift und Lesen in Kultur und Gesellschaft
+* Theoretische Grundlagen
 * Methoden
-* Soziotechnische Systeme
+* Materialität, Technologie und Akzeptanz
 * Unternehmerische Praxis
-* Organisationsleistungen
-* Rezeption und Nutzung
-* Kommunikation und Kommunikationssteuerung
-* Forschungsperspektiven
+* Mediennutzung und Leseverhalten
+* Medienfreiheit und -grenzen
+* Akteure, Strukturen und Regulierung
+* Forschungswerkstatt
 
 ### Was sollte ich mitbringen?
 
@@ -151,7 +140,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ### Sprachkenntnisse
 
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Details und Anmerkungen
 
@@ -230,7 +219,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Pädagogik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/paedagogik-ba/)
 - [Sinologie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/sinologie-ba/)
 - [Beratungsangebots der Zentralen Studienberatung und des Studien-Service-Centers](https://www.fau.de/studium/studienangebot/bachelor/#infos-zum-bachelorstudium-an-der-philosophischen-fakultaet-und-fachbereich-theologie)
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [weitere Zugangsmöglichkeiten](https://www.fau.de/studium/bewerbung-und-zulassung/zugangsvoraussetzungen/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)
@@ -248,7 +236,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Webseite des Departments/Instituts](https://www.buchwissenschaft.phil.fau.de/)
 - [Philosophische Fakultät und Fachbereich Theologie](https://www.phil.fau.de/)
 - [Studierendenvertretung der FAU](https://stuve.fau.de/)
-- [stock.adobe.com](https://www.fau.de/wp-content/uploads/sites/4/2026/07/Buchwissenschaft-BA-AdobeStock-scaled-1.jpeg)
+- [stock.adobe.com](https://www.fau.de/wp-content/uploads/sites/4/2026/11/Buchwissenschaft-BA-AdobeStock-scaled-1.jpeg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/apply-now.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)

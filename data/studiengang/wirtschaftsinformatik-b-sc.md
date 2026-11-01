@@ -5,11 +5,11 @@ abschluss: "Bachelor of Science"
 zugang: "zulassungsfrei"
 regelstudienzeit: "6 Semester"
 unterrichtssprache: "vollständig auf Deutsch"
-fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät, Technische Fakultät"
+fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "250-600"
-besondere_studienformen: "1-Fach-Bachelor, Verbundstudium/Duales Studium"
-scraped_at: 2026-07-01T08:28:30+00:00
+besondere_studienformen: "1-Fach-Bachelor"
+scraped_at: 2026-11-01T11:19:54+00:00
 ---
 
 # Wirtschaftsinformatik (B.Sc.)
@@ -24,10 +24,10 @@ scraped_at: 2026-07-01T08:28:30+00:00
 | Zugang | zulassungsfrei |
 | Regelstudienzeit | 6 Semester |
 | Unterrichtssprache | vollständig auf Deutsch |
-| Fakultät | Rechts- und Wirtschaftswissenschaftliche Fakultät, Technische Fakultät |
+| Fakultät | Rechts- und Wirtschaftswissenschaftliche Fakultät |
 | Studienbeginn | Wintersemester |
 | Größe | 250-600 |
-| Besondere Studienformen | 1-Fach-Bachelor, Verbundstudium/Duales Studium |
+| Besondere Studienformen | 1-Fach-Bachelor |
 
 ## Worum geht es im Studiengang?
 
@@ -107,7 +107,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ### Sprachkenntnisse
 
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Details und Anmerkungen
 
@@ -151,7 +151,7 @@ Weitere Informationen
 * [Webseite des Studiengangs](https://www.wi.studium.fau.de/bachelor/)
 * [Prüfungsamt Fachbereich Wirtschafts- und Sozialwissenschaften](https://www.fau.de/studium/studienorganisation/pruefungen/pruefungsamt-rw/wirtschafts-und-sozialwissenschaften/)
 * [Webseite des Departments/Instituts](https://www.wiso.rw.fau.de/)
-* [Rechts- und Wirtschaftswissenschaftliche Fakultät](https://www.rw.fau.de/), [Technische Fakultät](https://tf.fau.de)
+* [Rechts- und Wirtschaftswissenschaftliche Fakultät](https://www.rw.fau.de/)
 * [Studierendenvertretung der FAU](https://stuve.fau.de/)
 
 ## Vorteile des Studiums an der FAU
@@ -161,7 +161,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 ## Externe Links
 
 - [Weiterführende Informationen erhalten Sie auch auf der Website des Studiengangs.](https://www.wi.studium.fau.de/bachelor/)
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [weitere Zugangsmöglichkeiten](https://www.fau.de/education/bewerbung/zugang-zum-studium/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)
@@ -178,7 +177,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Prüfungsamt Fachbereich Wirtschafts- und Sozialwissenschaften](https://www.fau.de/studium/studienorganisation/pruefungen/pruefungsamt-rw/wirtschafts-und-sozialwissenschaften/)
 - [Webseite des Departments/Instituts](https://www.wiso.rw.fau.de/)
 - [Rechts- und Wirtschaftswissenschaftliche Fakultät](https://www.rw.fau.de/)
-- [Technische Fakultät](https://tf.fau.de)
 - [Studierendenvertretung der FAU](https://stuve.fau.de/)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/uploads/sites/4/2026/04/Wirtschaftsinformatik-BSc-FAU_WISO_2025_FATHER-SUN_00411.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/apply-now.jpg)

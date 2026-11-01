@@ -2,14 +2,14 @@
 title: "Molekulare Medizin (B.Sc.)"
 source_url: https://www.fau.de/studiengang/molekulare-medizin-b-sc/
 abschluss: "Bachelor of Science"
-zugang: "mit NC (DoSV/Uni-NC)"
+zugang: "mit örtlichem NC"
 regelstudienzeit: "6 Semester"
 unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Medizinische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "1-Fach-Bachelor"
-scraped_at: 2026-07-01T08:26:14+00:00
+scraped_at: 2026-11-01T11:17:53+00:00
 ---
 
 # Molekulare Medizin (B.Sc.)
@@ -21,7 +21,7 @@ scraped_at: 2026-07-01T08:26:14+00:00
 | Feld | Wert |
 |---|---|
 | Abschluss | Bachelor of Science |
-| Zugang | mit NC (DoSV/Uni-NC) |
+| Zugang | mit örtlichem NC |
 | Regelstudienzeit | 6 Semester |
 | Unterrichtssprache | vollständig auf Deutsch |
 | Fakultät | Medizinische Fakultät |
@@ -119,7 +119,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ### Sprachkenntnisse
 
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Details und Anmerkungen
 
@@ -174,7 +174,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ## Externe Links
 
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [Portal campo](https://www.campo.fau.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces)
 - [hochschulstart.de](http://www.hochschulstart.de)
 - [es hier.](https://www.fau.de/education/bewerbung/zulassungsbeschraenkte-faecher-nc/bewerbung-erstes-fachsemester-wise/)

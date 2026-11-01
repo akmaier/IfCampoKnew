@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Chemie und Pharmazie"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/
-scraped_at: 2026-07-01T09:02:43+00:00
+scraped_at: 2026-11-01T11:27:54+00:00
 ---
 
 # Chemie und Pharmazie
@@ -11,52 +11,92 @@ scraped_at: 2026-07-01T09:02:43+00:00
 
 ## Inhalt der Landing-Seite
 
-Wichtige Informationen zu den Studien- und Prüfungsordnungen des Departments Chemie und Pharmazie:
+## Erklärung zu den veröffentlichten Dokumenten
 
-## Hinweis
+* **Was ist eine Änderungssatzung (ÄS)?**  
+  In einer Änderungssatzung werden nur die tatsächlichen Änderungen, wie neue oder abgeschaffte Abschnitte festgehalten. Die Änderungssatzung ist rechtsverbindlich.
+* **Was ist eine konsolidierte Fassung?**  
+  Eine konsolidierte Fassung ist die aktuelle Version einer Fachstudien- und Prüfungsordnung, in der alle bisherigen Änderungen eingearbeitet sind. So sieht man auf einen Blick, welche Regelungen aktuell gelten. Das Datum im Dateinamen zeigt, auf welchem Stand die Ordnung ist („idF“ = „in der Fassung“).
+* **Welche Version ist für mich relevant?**  
+  Welche Fachstudien- und Prüfungsordnung (FPO) für Sie gilt, hängt in der Regel vom Beginn Ihres Studiums ab. Das passende Datum finden Sie im Dateinamen nach „idF“ (JJJJMMTT).
+
+## Fachstudien- und Prüfungsordnungen der Studiengänge am Department Chemie und Pharmazie
+
+### Chemie und Molecular Science
 
 Bitte beachten: Es gelten jeweils die [Allgemeine Studien- und Prüfungsordnung](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/nat/) für die Bachelor- und Masterstudiengänge an der Naturwissenschaftlichen Fakultät und die Fachstudien- und Prüfungsordnung Ihres Studiengangs!
 
-## Fachprüfungsordnungen der Studiengänge am Department Chemie und Pharmazie
+### Fachstudien- und Prüfungsordnung BA/MA Chemistry, Molecular Science und Computational Molecular and Materials Science
 
-## Chemie und Molecular Science
+#### Konsolidierte Fassungen
 
-**Allgemeine Prüfungsordnung BA/MA Chemie und Molecular Science**
+Konsolidierte Fassungen
+
+| Dateiname | Dateigröße |
+| --- | --- |
+| [FPO\_BAMA\_Chemie\_MolSci\_20260305.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FChemie_und_Molecular_Science%2FChemie_und_Molecular_Science%2Fkonsolidierte_Fassungen%2FFPO_BAMA_Chemie_MolSci_20260305.pdf&sig=bebc72fee6c915b7ee41efd5556db18d3c8ba6dfe28e14444d5e9369222debe6) | 861 KB |
+
+#### Englische Fassungen
+
+Englische Fassungen
+
+| Dateiname | Dateigröße |
+| --- | --- |
+| [FPO\_BAMA\_Chemie\_MolSci\_20260305\_en.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FChemie_und_Molecular_Science%2FChemie_und_Molecular_Science%2Fenglisch%2FFPO_BAMA_Chemie_MolSci_20260305_en.pdf&sig=2c32b1984e277176dcecabc03b4e3556eb969c223948a3c46cd9b737544fb298) | 814 KB |
+
+---
+
+### Ältere Versionen
+
+#### Allgemeine Prüfungsordnung BA/MA Chemie und Molecular Science
 
 | **Änderungssatzung/Datum** | **Konsolidierte Fassung/Datum** | **English version as amended on** |
 | --- | --- | --- |
 | bis einschließlich SoSe 2020 | ([PDF vom 25.07.2013](https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT2/AllgPO_BA-MA_Chemie_MolecularScience.pdf)) | ([PDF 25th of July 2013](https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT2/pdf-englisch/AllgPO_BA-MA_Chemie_MolecularScience-en.pdf)) |
 
-**Fachstudien- und Prüfungsordnung BA/MA**   
-**Chemistry, Molecular Science und Computational Molecular and Materials Science**
+#### Fachprüfungsordnung BA/MA Chemie
 
-| konsolidierte Fassungen | Dateigröße |
+##### Konsolidierte Fassungen
+
+Konsolidierte Fassungen
+
+| Dateiname | Dateigröße |
 | --- | --- |
-| [FPO BAMA Chemie MolSci 20260305.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Chemie_und_Molecular_Science/Chemie_und_Molecular_Science/konsolidierte_Fassungen/FPO_BAMA_Chemie_MolSci_20260305.pdf) | 861 KB |
+| [FPO\_BAMA\_Chemie\_20200806.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FChemie_und_Molecular_Science%2FChemie%2Fkonsolidierte_Fassungen%2FFPO_BAMA_Chemie_20200806.pdf&sig=8c35eb04283a168618ee1b276957435a0acea34dc4050ea9158dacfb66454c17) | 318 KB |
 
-**Fachprüfungsordnung BA/MA Chemie**
+##### Englische Fassungen
 
-| konsolidierte Fassungen | Dateigröße |
+Englische Fassungen
+
+| Dateiname | Dateigröße |
 | --- | --- |
-| [FPO BAMA Chemie 20200806.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Chemie_und_Molecular_Science/Chemie/konsolidierte_Fassungen/FPO_BAMA_Chemie_20200806.pdf) | 318 KB |
+| [FPO\_BAMA\_Chemie\_20200806\_en.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FChemie_und_Molecular_Science%2FChemie%2Fenglisch%2FFPO_BAMA_Chemie_20200806_en.pdf&sig=34e0342bf215bf7f165d2e84bbef65b5634c3538ec9f5a937f9b2ad8ee691c83) | 565 KB |
 
-| englisch | Dateigröße |
-| --- | --- |
-| [FPO BAMA Chemie 20200806 en.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Chemie_und_Molecular_Science/Chemie/englisch/FPO_BAMA_Chemie_20200806_en.pdf) | 565 KB |
+##### Ursprungsfassung und ältere Versionen
 
 | **Änderungssatzung/Datum** | **Konsolidierte Fassung/Datum** | **English version as amended on** |
 | --- | --- | --- |
 |  | ([PDF vom 25.07.2013](https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT2/FPO_BA_MA_Chemie.pdf)) ab WiSe 2013/14 | ([PDF 25th of July 2013](https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/pdf-englisch/FPO_BA_MA_Chemie.pdf)) |
 
-**Fachprüfungsordnung BA/MA Molecular Science**
+#### Fachprüfungsordnung BA/MA Molecular Science
 
-| konsolidierte Fassungen | Dateigröße |
-| --- | --- |
-| [FPO BAMA Molecular Science 20200806.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Chemie_und_Molecular_Science/Molecular_Science/konsolidierte_Fassungen/FPO_BAMA_Molecular_Science_20200806.pdf) | 737 KB |
+##### Konsolidierte Fassungen
 
-| englisch | Dateigröße |
+Konsolidierte Fassungen
+
+| Dateiname | Dateigröße |
 | --- | --- |
-| [FPO BAMA Molecular Science 20200806 en.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Chemie_und_Molecular_Science/Molecular_Science/englisch/FPO_BAMA_Molecular_Science_20200806_en.pdf) | 729 KB |
+| [FPO\_BAMA\_Molecular\_Science\_20200806.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FChemie_und_Molecular_Science%2FMolecular_Science%2Fkonsolidierte_Fassungen%2FFPO_BAMA_Molecular_Science_20200806.pdf&sig=e1687a99e7fd8accb6ca7734759dc0feb8133d794d980bfa1eb105994893dca5) | 737 KB |
+
+##### Englische Fassungen
+
+Englische Fassungen
+
+| Dateiname | Dateigröße |
+| --- | --- |
+| [FPO\_BAMA\_Molecular\_Science\_20200806\_en.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FChemie_und_Molecular_Science%2FMolecular_Science%2Fenglisch%2FFPO_BAMA_Molecular_Science_20200806_en.pdf&sig=4ccaf9b81e0893e48e158c655bffed00b28dabe8745abc9a5b28e4ba92956798) | 729 KB |
+
+##### Ursprungsfassung und ältere Versionen
 
 | **Änderungssatzung/Datum** | **Konsolidierte Fassung/Datum** | **English version as amended on** |
 | --- | --- | --- |
@@ -84,7 +124,11 @@ Bitte beachten: Es gelten jeweils die [Allgemeine Studien- und Prüfungsordnung]
 | [24. Februar 2004](https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/1AeSa-PrO-Molec-Science.pdf) |  |  |
 |  | ([PDF vom 08.05.2002](https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Urfassung/Nat%20Fak/PrO-Molec-Science.pdf)) |  |
 
-## Lebensmittelchemie
+### Lebensmittelchemie
+
+Fachstudien- und Prüfungsordnungen (FPO) des Studiengangs Lebensmittelchemie
+
+Bitte beachten: Es gelten jeweils die [Allgemeine Studien- und Prüfungsordnung](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/nat/) für die Bachelor- und Masterstudiengänge an der Naturwissenschaftlichen Fakultät und die Fachstudien- und Prüfungsordnung Ihres Studiengangs!
 
 | **Änderungssatzung/Datum** | **Konsolidierte Fassung/Datum** | **English version as amended on** |
 | --- | --- | --- |
@@ -93,15 +137,29 @@ Bitte beachten: Es gelten jeweils die [Allgemeine Studien- und Prüfungsordnung]
 | – **Studienordnung** | | |
 |  | ([PDF vom 27.07.2010](https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT2/StO-Lebensmittelchemie.pdf)) |  |
 
-## Pharmazie
+### Pharmazie
 
-| konsolidierte Fassungen | Dateigröße |
-| --- | --- |
-| [StO Pharmazie 20020731 i.d.F. 20190724.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Pharmazie/konsolidierte_Fassungen/StO_Pharmazie_20020731_idF_20190724.pdf) | 134 KB |
+Fachstudien- und Prüfungsordnungen (FPO) des Studiengangs Pharmazie
 
-| Änderungssatzungen | Dateigröße |
+#### Konsolidierte Fassungen
+
+Konsolidierte Fassungen
+
+| Dateiname | Dateigröße |
 | --- | --- |
-| [StO Pharmazie 20190724 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Pharmazie/Aenderungssatzungen/StO_Pharmazie_20190724_AeS.pdf) | 234 KB |
+| [StO\_Pharmazie\_20020731\_idF\_20190724.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FPharmazie%2Fkonsolidierte_Fassungen%2FStO_Pharmazie_20020731_idF_20190724.pdf&sig=d8c448906a8d406622ec203b3fb4f51661e4c6baee134d8e93e5a6671a201eb2) | 134 KB |
+
+#### Änderungssatzungen
+
+Änderungssatzungen
+
+| Dateiname | Dateigröße |
+| --- | --- |
+| [StO\_Pharmazie\_20190724\_AeS.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FPharmazie%2FAenderungssatzungen%2FStO_Pharmazie_20190724_AeS.pdf&sig=6637d1bd1041771ae39fd9aecedae0ce858dbf2578cfdb084cbc8c6b629706e1) | 234 KB |
+
+Bitte beachten: Es gelten jeweils die [Allgemeine Studien- und Prüfungsordnung](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/nat/) für die Bachelor- und Masterstudiengänge an der Naturwissenschaftlichen Fakultät und die Fachstudien- und Prüfungsordnung Ihres Studiengangs!
+
+#### Ursprungsfassung und ältere Versionen
 
 | **Änderungssatzung/Datum** | **Konsolidierte Fassung/Datum** | **English version as amended on** |
 | --- | --- | --- |
@@ -118,17 +176,12 @@ Bitte beachten: Es gelten jeweils die [Allgemeine Studien- und Prüfungsordnung]
 * [Sprachprüfungen](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/)
 * [Promotions- und Habilitationsordnung](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/promotions-und-habilitationsordnungen/)
 
-## Prüfungsordnungen-Dokumente (42)
+## Prüfungsordnungen-Dokumente (35)
 
 - [PDF vom 25.07.2013](allgpo-ba-ma-chemie-molecularscience.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT2/AllgPO_BA-MA_Chemie_MolecularScience.pdf>
 - [PDF 25th of July 2013](allgpo-ba-ma-chemie-molecularscience-en.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT2/pdf-englisch/AllgPO_BA-MA_Chemie_MolecularScience-en.pdf>
-- [FPO BAMA Chemie MolSci 20260305.pdf](fpo-bama-chemie-molsci-20260305.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Chemie_und_Molecular_Science/Chemie_und_Molecular_Science/konsolidierte_Fassungen/FPO_BAMA_Chemie_MolSci_20260305.pdf>
-- [FPO BAMA Chemie 20200806.pdf](fpo-bama-chemie-20200806.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Chemie_und_Molecular_Science/Chemie/konsolidierte_Fassungen/FPO_BAMA_Chemie_20200806.pdf>
-- [FPO BAMA Chemie 20200806 en.pdf](fpo-bama-chemie-20200806-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Chemie_und_Molecular_Science/Chemie/englisch/FPO_BAMA_Chemie_20200806_en.pdf>
 - [PDF vom 25.07.2013](fpo-ba-ma-chemie.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT2/FPO_BA_MA_Chemie.pdf>
 - [PDF 25th of July 2013](fpo-ba-ma-chemie.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/pdf-englisch/FPO_BA_MA_Chemie.pdf>
-- [FPO BAMA Molecular Science 20200806.pdf](fpo-bama-molecular-science-20200806.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Chemie_und_Molecular_Science/Molecular_Science/konsolidierte_Fassungen/FPO_BAMA_Molecular_Science_20200806.pdf>
-- [FPO BAMA Molecular Science 20200806 en.pdf](fpo-bama-molecular-science-20200806-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Chemie_und_Molecular_Science/Molecular_Science/englisch/FPO_BAMA_Molecular_Science_20200806_en.pdf>
 - [PDF vom 25.07.2013](fpo-ba-ma-molecularscience.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT2/FPO_BA_MA_MolecularScience.pdf>
 - [PDF 25th of July 2013](fpo-ba-ma-molecularscience-en.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT2/pdf-englisch/FPO_BA_MA_MolecularScience_en.pdf>
 - [5. Oktober 2011](3aes-20ba-ma-20chemmolsc.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/3AES%20BA-MA%20ChemMolSc.pdf>
@@ -153,8 +206,6 @@ Bitte beachten: Es gelten jeweils die [Allgemeine Studien- und Prüfungsordnung]
 - [24. Februar 2004](1aesa-pro-molec-science.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/1AeSa-PrO-Molec-Science.pdf>
 - [PDF vom 08.05.2002](pro-molec-science.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Urfassung/Nat%20Fak/PrO-Molec-Science.pdf>
 - [PDF vom 27.07.2010](sto-lebensmittelchemie.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT2/StO-Lebensmittelchemie.pdf>
-- [StO Pharmazie 20020731 i.d.F. 20190724.pdf](sto-pharmazie-20020731-idf-20190724.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Pharmazie/konsolidierte_Fassungen/StO_Pharmazie_20020731_idF_20190724.pdf>
-- [StO Pharmazie 20190724 ÄS.pdf](sto-pharmazie-20190724-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Pharmazie/Aenderungssatzungen/StO_Pharmazie_20190724_AeS.pdf>
 - [PDF vom 19.07.1989](gesamt.md) — Quelle: <http://bundesrecht.juris.de/bundesrecht/aappo/gesamt.pdf>
 - [23. August 2013](3aes-stuo-pharmazie.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/3AES_StuO_Pharmazie.pdf>
 - [PDF vom 31.07.2002 i.d.F. 23.08.2013](sto-pharmazie-august2013.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT2/StO_Pharmazie_August2013.pdf>

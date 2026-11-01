@@ -9,7 +9,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "Teilzeitstudium möglich"
-scraped_at: 2026-07-01T08:24:59+00:00
+scraped_at: 2026-11-01T11:16:40+00:00
 ---
 
 # Literaturstudien – medial und transkulturell (M.A.)
@@ -92,14 +92,17 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ### Sprachkenntnisse
 
-* Nachweise über Sprachkenntnisse in einer modernen Fremdsprache (bspw. Englisch, Französisch, Spanisch oder Italienisch) Niveau B2 (GER). (Acht Jahre Schulenglisch, die mit einem deutschen Abitur abgeschlossen worden sind, entsprechen dem Niveau B2).
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Bewerberinnen und Bewerber, die keinen deutschen Studienabschluss oder die deutsche Hochschulreife vorlegen können, benötigen bereits zum Zeitpunkt der Bewerbung zusätzlich den Nachweis eines Zertifikats über Deutschkenntnisse auf Niveau DSH-2 (oder gleichwertig).
+  Nachweise über Sprachkenntnisse in einer modernen Fremdsprache (bspw. Englisch, Französisch, Spanisch oder Italienisch) Niveau B2 (GER). (Acht Jahre Schulenglisch, die mit einem deutschen Abitur abgeschlossen worden sind, entsprechen dem Niveau B2).
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Voraussetzungen für Master
 
 * Abgeschlossenes erstes Hochschulstudium (Bachelor oder mindestens gleichwertiger Abschluss), in der Regel Abschluss in einem der Kernfächer des Studiengangs (Amerikanistik, Anglistik, Germanistik, Skandinavistik, Komparatistik, Romanistik bzw. Französisch, Spanisch oder Italienisch). Wenn der Bachelorabschluss zum Termin der Bewerbung noch nicht vorliegt, aber zu erwarten ist, dass er rechtzeitig vor Studienbeginn beendet wird, können Sie unter Vorbehalt zum Master zugelassen werden, sofern Sie 140 bereits erworbene ECTS nachweisen können. Legen Sie hierfür Ihr aktuelles Transcript of Records Ihren Bewerbungsunterlagen bei. Das Bachelorzeugnis müssen Sie in diesem Fall binnen eines Jahres im Masterbüro nachreichen.
 * Mindestens 20 ECTS im Bereich Literatur-, Kultur- und Medienwissenschaft sowie mindestens 10 ECTS im Bereich Literatur-, Kultur- und Mediengeschichte.
 * Als Gesamtnote des vorgängigen fachspezifischen Hochschulabschlusses mindestens „gut“ (2,5); bei schlechterer Gesamtnote oder bei vorgängigen fachverwandten oder gleichwertigen Hochschulabschlüssen ein erfolgreich absolviertes individuelles Aufnahmegespräch nach Eingang der Bewerbung. Das Aufnahmegespräch entfällt, wenn nachgereichte Noten den Schnitt auf 2,5 oder besser heben.
+
+Bewerberinnen und Bewerber, die keinen deutschen Studienabschluss oder die deutsche Hochschulreife vorlegen können, benötigen **bereits zum Zeitpunkt der Bewerbung** zusätzlich den Nachweis eines Zertifikats über Deutschkenntnisse auf Niveau DSH-2 (oder gleichwertig).
 
 ### Details und Anmerkungen
 
@@ -136,7 +139,7 @@ Organisatorisches
 
 Downloads
 
-* [Modulhandbuch](https://www.malit.phil.fau.de/kurzbeschreibung-des-studienganges/)
+* [Modulhandbuch](https://www.malit.phil.fau.de/profil-des-studienganges/)
 * [Prüfungsordnungen](https://www.malit.phil.fau.de/studien-und-pruefungsordnungen/)
 
 Weitere Informationen
@@ -154,7 +157,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 ## Externe Links
 
 - [Masterstudiengang „Literaturstudien – medial und transkulturell“](https://www.malit.phil.fau.de/)
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [master.fau.de](https://master.fau.de)
 - [campo](https://www.campo.fau.de/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
@@ -167,7 +169,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Semesterbeitrag](https://www.fau.de/studium/studienorganisation/studierendenangelegenheiten/rueckmeldung-und-semesterbeitrag/)
 - [Beratungs- und Servicestellen](https://www.fau.de/studium/studienorganisation/studienberatung/beratungsangebote-im-ueberblick/)
 - [Wege ins Ausland](https://www.fau.de/studium/studienorganisation/wege-ins-ausland/)
-- [Modulhandbuch](https://www.malit.phil.fau.de/kurzbeschreibung-des-studienganges/)
+- [Modulhandbuch](https://www.malit.phil.fau.de/profil-des-studienganges/)
 - [Prüfungsordnungen](https://www.malit.phil.fau.de/studien-und-pruefungsordnungen/)
 - [Prüfungsamt Philosophische Fakultät und Fachbereich Theologie](https://www.fau.de/studium/studienorganisation/pruefungen/pruefungsamt-phil/)
 - [Webseite des Departments/Instituts](https://www.germanistik.phil.fau.de)

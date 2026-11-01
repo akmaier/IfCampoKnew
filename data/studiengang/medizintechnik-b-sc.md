@@ -5,11 +5,11 @@ abschluss: "Bachelor of Science"
 zugang: "zulassungsfrei"
 regelstudienzeit: "6 Semester"
 unterrichtssprache: "vollständig auf Deutsch"
-fakultät: "Medizinische Fakultät, Technische Fakultät"
+fakultät: "Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "250-600"
 besondere_studienformen: "1-Fach-Bachelor"
-scraped_at: 2026-07-01T08:25:49+00:00
+scraped_at: 2026-11-01T11:17:31+00:00
 ---
 
 # Medizintechnik (B.Sc.)
@@ -24,7 +24,7 @@ scraped_at: 2026-07-01T08:25:49+00:00
 | Zugang | zulassungsfrei |
 | Regelstudienzeit | 6 Semester |
 | Unterrichtssprache | vollständig auf Deutsch |
-| Fakultät | Medizinische Fakultät, Technische Fakultät |
+| Fakultät | Technische Fakultät |
 | Studienbeginn | Wintersemester |
 | Größe | 250-600 |
 | Besondere Studienformen | 1-Fach-Bachelor |
@@ -99,15 +99,13 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 ### Sprachkenntnisse
 
 * Deutsch
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Details und Anmerkungen
 
-Die Bewerbungsfrist für das Wintersemester für internationale Bewerberinnen und Bewerber ist der 15. Juli.
+Unser Bachelorstudiengang Medizintechnik ist **zulassungsfrei**. D.h. für Studieninteressierte mit deutschem Abitur ist **keine Bewerbung** erforderlich, sie können sich einfach innerhalb der offiziellen Einschreibefristen zum Wintersemester immatrikulieren. Es gibt keine Platzbeschränkung (keinen Numerus Clausus), d.h. alle Studieninteressierten mit deutschem Abitur (oder äquivalenten Zugangsberechtigungen) erhalten eine Platz. Um sicherzugehen, dass unser Studiengang zu Ihnen passt, empfehlen wir Ihnen, vor der Einschreibung unseren freiwilligen Selbsttest durchzuführen: https://www.medizintechnik.studium.fau.de/studieninteressierte/zugang-bachelorstudium/selbsteinschaetzungstest-ist-der-bachelor-medizintechnik-das-richtige-fuer-mich/
 
-Unser Bachelorstudiengang Medizintechnik ist **zulassungsfrei**. D.h. für Studieninteressierte mit deutschem Abitur ist keine Bewerbung erforderlich, sie können sich einfach innerhalb der offiziellen Einschreibefristen zum Wintersemester immatrikulieren. Es gibt keine Platzbeschränkung (keinen Numerus Clausus). Um sicherzugehen, dass unser Studiengang zu Ihnen passt, empfehlen wir Ihnen, vor der Einschreibung unseren freiwilligen Selbsttest durchzuführen: https://www.medizintechnik.studium.fau.de/studieninteressierte/zugang-bachelorstudium/selbsteinschaetzungstest-ist-der-bachelor-medizintechnik-das-richtige-fuer-mich/
-
-Studieninteressierte ohne deutsches Abitur und mit entsprechenden Deutschkenntnissen (s.o.) bewerben sich bitte über unser Online-Portal www.campo.fau.de.
+Studieninteressierte ohne deutsches Abitur oder äquivalente Zugangsberechtigungen und mit entsprechenden Deutschkenntnissen (s.o.) bewerben sich bitte über unser Online-Portal www.campo.fau.de. Die Bewerbungsfrist für das Wintersemester für internationale Bewerberinnen und Bewerber ist der 15. Juli.
 
 Neben der Allgemeinen Hochschulreife (Abitur) existieren noch [weitere Zugangsmöglichkeiten](https://www.fau.de/education/bewerbung/zugang-zum-studium/) zum Studium an der FAU.
 
@@ -147,7 +145,7 @@ Weitere Informationen
 * [Webseite des Studiengangs](https://www.medizintechnik.studium.fau.de/)
 * [Prüfungsamt Technische Fakultät](https://www.fau.de/studium/studienorganisation/pruefungen/pruefungsamt-tech/)
 * [Webseite des Departments/Instituts](https://www.eei.tf.fau.de/)
-* [Medizinische Fakultät](https://med.fau.de), [Technische Fakultät](https://tf.fau.de)
+* [Technische Fakultät](https://tf.fau.de)
 * [Studierendenvertretung der FAU](https://stuve.fau.de/)
 
 ## Vorteile des Studiums an der FAU
@@ -156,7 +154,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ## Externe Links
 
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [weitere Zugangsmöglichkeiten](https://www.fau.de/education/bewerbung/zugang-zum-studium/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)
@@ -173,7 +170,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Webseite des Studiengangs](https://www.medizintechnik.studium.fau.de/)
 - [Prüfungsamt Technische Fakultät](https://www.fau.de/studium/studienorganisation/pruefungen/pruefungsamt-tech/)
 - [Webseite des Departments/Instituts](https://www.eei.tf.fau.de/)
-- [Medizinische Fakultät](https://med.fau.de)
 - [Technische Fakultät](https://tf.fau.de)
 - [Studierendenvertretung der FAU](https://stuve.fau.de/)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/uploads/sites/4/2026/05/Medizintechnik-BSc-FAU_Nat_FATHERSUN_1328.jpg)

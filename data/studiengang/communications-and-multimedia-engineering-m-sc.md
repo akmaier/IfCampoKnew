@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "Internationales Studienangebot, Teilzeitstudium möglich"
-scraped_at: 2026-07-01T08:19:53+00:00
+scraped_at: 2026-11-01T11:12:20+00:00
 ---
 
 # Communications and Multimedia Engineering (M.Sc.)
@@ -110,7 +110,7 @@ Insbesondere sind solide Grundlagen und Kenntnisse in den folgenden Bereichen er
 
 ### Welche beruflichen Perspektiven stehen mir offen?
 
-Der Masterstudiengang qualifiziert Studierende für Tätigkeiten in der Kommunikations- und Multimediaindustrie sowie in allen verwandten Bereichen, in denen eingebettete Informationstechnologien zum Einsatz kommen (z. B. Automobilindustrie, Energiesysteme, Medizintechnik).
+Der Masterstudiengang qualifiziert Studierende für Tätigkeiten in der Kommunikations- und Multimediaindustrie sowie in allen verwandten Bereichen, in denen Informationstechnologien zum Einsatz kommen (z. B. Automobilindustrie, Energiesysteme, Luft- und Raumfahrt, Medizintechnik).
 
 ## Zugangsvoraussetzungen und Bewerbung
 
@@ -127,8 +127,8 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ### Sprachkenntnisse
 
-* Der Unterricht im Masterstudiengang Communications and Multimedia Engineering erfolgt in englischer Sprache. Bewerberinnen und Bewerber müssen gute Englischkenntnisse mindestens auf Niveau B2 des Common European Framework of References for Languages (CEFR) vorweisen können.
-* Deutschkenntnisse für internationale Studierende: [keine DSH, aber Englisch Niveau B2 (CEFR)](https://www.fau.eu/studying/degree-programs/special-ways-to-study/international-degree-programs/orientation-guide-language-tests/)
+* Der Unterricht im Masterstudiengang Communications and Multimedia Engineering erfolgt in englischer Sprache. Die Studierenden müssen einen Nachweis über ihre Englischkenntnisse erbringen (TOEFL-Ergebnisbericht mit einer Mindestpunktzahl von 80 (IBT), 547 (PBT) oder 210 (CBT); IELTS mit einer Mindestpunktzahl von 6,0; oder einen anderen Nachweis über eine englischsprachige Ausbildung auf dem Niveau B2 des Gemeinsamen Europäischen Referenzrahmens für Sprachen; oder eine Bescheinigung über die Unterrichtssprache).
+* Deutschkenntnisse für internationale Studierende: [keine Deutschkenntnisse erforderlich](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/#deutschkenntnisse-fuer-masterstudiengaenge)
 
 ### Voraussetzungen für Master
 
@@ -197,7 +197,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Eine vollständige Liste der Lehrveranstaltungen und unsere Modulhandbücher mit detaillierten Beschreibungen finden Sie auf der CME-Webseite.](https://www.cme.studium.fau.de/students/module-catalogue/)
 - [Werfen Sie einen Blick auf die Testfragen zur Selbsteinschätzung auf unserer Webseite.](https://www.cme.studium.fau.de/prospective-students/what-skills-should-you-bring/)
 - [Noch nicht überzeugt? Fragen Sie unsere Studierenden!](https://www.cme.studium.fau.de/prospective-students/why-should-you-choose-cme/)
-- [keine DSH, aber Englisch Niveau B2 (CEFR)](https://www.fau.eu/studying/degree-programs/special-ways-to-study/international-degree-programs/orientation-guide-language-tests/)
+- [keine Deutschkenntnisse erforderlich](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/#deutschkenntnisse-fuer-masterstudiengaenge)
 - [Webseite des Masterstudiengangs CME](https://www.cme.studium.fau.de/prospective-students/application-process/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)
@@ -214,7 +214,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Webseite des Departments/Instituts](https://www.tf.fau.de/)
 - [Technische Fakultät](https://tf.fau.de)
 - [Studierendenvertretung der FAU](https://stuve.fau.de/)
-- [TYSAMPON - stock.adobe.com](https://www.fau.de/wp-content/uploads/sites/4/2026/07/AdobeStock_944404563-scaled-1.jpeg)
+- [TYSAMPON - stock.adobe.com](https://www.fau.de/wp-content/uploads/sites/4/2026/11/AdobeStock_944404563-scaled-1.jpeg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/apply-now.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)

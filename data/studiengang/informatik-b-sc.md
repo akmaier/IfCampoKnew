@@ -8,8 +8,8 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "> 600"
-besondere_studienformen: "1-Fach-Bachelor, Teilzeitstudium möglich, Verbundstudium/Duales Studium"
-scraped_at: 2026-07-01T08:23:06+00:00
+besondere_studienformen: "1-Fach-Bachelor, Teilzeitstudium möglich"
+scraped_at: 2026-11-01T11:14:54+00:00
 ---
 
 # Informatik (B.Sc.)
@@ -27,7 +27,7 @@ scraped_at: 2026-07-01T08:23:06+00:00
 | Fakultät | Technische Fakultät |
 | Studienbeginn | Wintersemester |
 | Größe | > 600 |
-| Besondere Studienformen | 1-Fach-Bachelor, Teilzeitstudium möglich, Verbundstudium/Duales Studium |
+| Besondere Studienformen | 1-Fach-Bachelor, Teilzeitstudium möglich |
 
 ## Worum geht es im Studiengang?
 
@@ -66,8 +66,8 @@ Ab 5. Semester Wahlpflichtmodule aus folgenden 4 Säulen wählbar:
 
 * Säule der **theoretischen** Vertiefungsrichtungen
 * Säule der **softwareorientierten** Vertiefungsrichtungen
-* Säule der **systemorientierten** Vertiefungsrichtungen
-* Säule der **anwendungsorientierten** Vertiefungsrichtungen
+* Säule der ****systemorientierten**** Vertiefungsrichtungen
+* Säule der ****anwendungsorientierten**** Vertiefungsrichtungen
 
 [mehr Informationen](https://www.informatik.studium.fau.de/wahlpflichtmodule-vertiefungsrichtungen/)
 
@@ -113,7 +113,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ### Sprachkenntnisse
 
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Details und Anmerkungen
 
@@ -166,7 +166,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - [Informations for International Applicants](https://www.informatik.studium.fau.de/portalseite-studieninteressierte/international-applicants/)
 - [mehr Informationen](https://www.informatik.studium.fau.de/wahlpflichtmodule-vertiefungsrichtungen/)
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [weitere Zugangsmöglichkeiten](https://www.fau.de/education/bewerbung/zugang-zum-studium/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)

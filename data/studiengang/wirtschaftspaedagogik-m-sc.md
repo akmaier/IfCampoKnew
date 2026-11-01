@@ -9,7 +9,7 @@ fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "150-250"
 besondere_studienformen: "Teilzeitstudium möglich"
-scraped_at: 2026-07-01T08:28:48+00:00
+scraped_at: 2026-11-01T11:20:08+00:00
 ---
 
 # Wirtschaftspädagogik (M.Sc.)
@@ -72,7 +72,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ### Sprachkenntnisse
 
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Voraussetzungen für Master
 
@@ -140,7 +140,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [hier nachlesen](https://www.institut-wipaed.rw.fau.de/files/2019/10/Studplan-Master-19-vollzeit-tzhinweis_K_0.pdf)
 - [Bewerbung/Zulassung](https://www.institut-wipaed.rw.fau.de/studium/masterstudium-wirtschaftspaedagogik/bewerbungzulassung/)
 - [Die Einstiegsseite für beide Modulhandbücher finden Sie unter folgendem Link](https://www.wiso.rw.fau.de/studium/im-studium/modulhandbuecher/)
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [weitere Informationen zum Zertifikatsprogramm WiPäd siehe hier](https://www.institut-wipaed.rw.fau.de/studium/zertifikatsprogramm-wirtschaftspaedagogik/)
 - [Merkblatt](https://www.institut-wipaed.rw.fau.de/files/2024/03/Merkblatt-Forschungsdispo-cifau.pdf)
 - [Formatvorlage](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.institut-wipaed.rw.fau.de%2Ffiles%2F2017%2F02%2FFormatvorlage-Forschungsdisposition.docx&wdOrigin=BROWSELINK)

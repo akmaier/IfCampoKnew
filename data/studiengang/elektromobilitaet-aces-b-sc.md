@@ -7,9 +7,9 @@ regelstudienzeit: "6 Semester"
 unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Technische Fakultät"
 studienbeginn: "Wintersemester"
-größe: "50-150"
+größe: "1-50"
 besondere_studienformen: "1-Fach-Bachelor"
-scraped_at: 2026-07-01T08:21:02+00:00
+scraped_at: 2026-11-01T11:13:11+00:00
 ---
 
 # Elektromobilität-ACES (B.Sc.)
@@ -26,7 +26,7 @@ scraped_at: 2026-07-01T08:21:02+00:00
 | Unterrichtssprache | vollständig auf Deutsch |
 | Fakultät | Technische Fakultät |
 | Studienbeginn | Wintersemester |
-| Größe | 50-150 |
+| Größe | 1-50 |
 | Besondere Studienformen | 1-Fach-Bachelor |
 
 ## Worum geht es im Studiengang?
@@ -35,7 +35,7 @@ Die Elektromobilität ist ein zentraler Baustein eines nachhaltigen und klimasch
 
 Der Umstieg auf Elektromobilität stellt damit einen äußerst wichtigen Schritt zur Klimawende dar.
 
-Nach aktuellen Studien werden bereits ab ca. 2025 Elektroautos in der Herstellung günstiger als Autos mit Verbrennungsantrieb sein. Deshalb sucht die Industrie Ingenieurinnen und Ingenieure mit fundierten Kenntnissen im Bereich Elektromobilität.
+Nach aktuellen Studien werden bereits ab ca. 2027 Elektroautos in der Herstellung günstiger als Autos mit Verbrennungsantrieb sein. Deshalb sucht die Industrie Ingenieurinnen und Ingenieure mit fundierten Kenntnissen im Bereich Elektromobilität.
 
 ### Fachanteile des Studiengangs Elektromobilität-ACES (B.Sc.)
 
@@ -53,7 +53,7 @@ Die Anforderungen an einen neuen Studiengang „Elektromobilität“ gehen weit 
 * AI & Autonomous driving (z.B. Autonomes Fahren mit Künstlicher Intelligenz)
 * Connectivity (z.B. Fahrzeugvernetzung, Smart Grids)
 * E-Powertrain (von der Ladetechnik und Batterie bis zum Rad)
-* Sustainable mobility & Production Technology (z.B. nachhaltige Produktion, umweltfreundliche Stromerzeugung, car sharing)
+* Sustainable Mobility & Production Technology (z.B. nachhaltige Produktion, umweltfreundliche Stromerzeugung, Car Sharing)
 
 Der interdisziplinäre Studiengang bündelt die umfangreichen vorhandenen Kompetenzen der Technischen Fakultät auf diesen Gebieten in der Lehre und stellt ein attraktives Angebot für Studieninteressierte dar.
 
@@ -96,7 +96,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ### Sprachkenntnisse
 
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Details und Anmerkungen
 
@@ -147,7 +147,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ## Externe Links
 
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [weitere Zugangsmöglichkeiten](https://www.fau.de/education/bewerbung/zugang-zum-studium/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)
@@ -166,7 +165,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Webseite des Departments/Instituts](https://www.department.mb.tf.fau.de/)
 - [Technische Fakultät](https://tf.fau.de)
 - [Studierendenvertretung der FAU](https://stuve.fau.de/)
-- [HY - stock.adobe.com](https://www.fau.de/wp-content/uploads/sites/4/2026/03/Elektromobilitaet-ACES-BSc-AdobeStock.jpeg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/apply-now.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)

@@ -7,7 +7,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Naturwissenschaftliche Fakultät, Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "1-50"
-scraped_at: 2026-07-01T08:19:30+00:00
+scraped_at: 2026-11-01T11:12:01+00:00
 ---
 
 # Chemie (Lehramt)
@@ -51,7 +51,7 @@ Beim nicht vertieften **Lehramtsstudium Chemie an Grund- und Mittelschulen** wä
 
 ### Was sollte ich mitbringen?
 
-Durch die Modularisierung des Studiengangs sind **Vorkenntnisse** in **Chemie** zu Studienbeginn von zunehmender Bedeutung. Ein breites naturwissenschaftliches Interesse erleichtert das Studium, da auch Grundkenntnisse der **Physik** benötigt werden und ggf. erlernt werden müssen.Wichtig für ein Lehramtsstudium der Chemie ist aber vor allem, dass Du **Interesse an der Materie** hast, damit der Spaß und die Freude am Studium erhalten bleiben, auch wenn es ab und zu mal etwas stressiger zugeht.
+Durch die Modularisierung des Studiengangs sind **Vorkenntnisse** in **Chemie** zu Studienbeginn von zunehmender Bedeutung. Ein breites naturwissenschaftliches Interesse erleichtert das Studium, da auch Grundkenntnisse der **Physik** benötigt werden und ggf. erlernt werden müssen. Wichtig für ein Lehramtsstudium der Chemie ist aber vor allem, dass Du **Interesse an der Materie** hast, damit der Spaß und die Freude am Studium erhalten bleiben, auch wenn es ab und zu mal etwas stressiger zugeht.
 
 Das Lehramtsstudium erfordert eine **erhöhte Selbstorganisation**, da der Studienplan nicht komplett vorgegeben ist. Die Studierenden müssen teilweise selbst entscheiden, wann welche Kurse und Prüfungen am besten in ihren Stundenplan passen und dabei auch aufpassen, dass sie sich nicht zu viel auf einmal zumuten.
 
@@ -83,7 +83,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 ### Sprachkenntnisse
 
 * Deutsch C1/C2
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Details und Anmerkungen
 
@@ -146,7 +146,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Lehramts-Webseiten](https://www.chemie.nat.fau.de/studium/lehramt-chemie-fau/)
 - [zfl.fau.de/informationen-fuer-interessierte](https://www.zfl.fau.de/informationen-fuer-interessierte/)
 - [Brückenkurs Chemie](https://www.nat.fau.de/studium/studienstart/vorkurse/#chemie-lebensmittelchemie-molecular-science-pharmazie-und-nebenfach-chemie)
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [FAU-Seiten](https://www.fau.de/studium/bewerbung-und-zulassung/bewerbung-bachelor-lehramt-staatsexamen/)
 - [weitere Zugangsmöglichkeiten](https://www.fau.de/studium/bewerbung-und-zulassung/zugangsvoraussetzungen/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)

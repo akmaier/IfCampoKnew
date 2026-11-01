@@ -8,7 +8,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "50-150"
-scraped_at: 2026-07-01T08:22:36+00:00
+scraped_at: 2026-11-01T11:14:33+00:00
 ---
 
 # Gesundheitsmanagement und Gesundheitsökonomie (M.Sc.)
@@ -91,7 +91,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ### Sprachkenntnisse
 
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Voraussetzungen für Master
 
@@ -164,7 +164,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - [Weiterführende Informationen erhalten Sie auch auf der Website des Studiengangs.](https://www.migg.wiso.rw.fau.de/)
 - [Modulhandbuch](https://www.wiso.rw.fau.de/studium/im-studium/modulhandbuecher/)
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [Fachstudien- und Prüfungsordnung des MiGG (FPOMiGG)](https://www.migg.wiso.rw.fau.de/files/2024/02/MSc_Gesundheitsmanagement_und_-oekonomie_FPOMiGG_20240229.pdf)
 - [MiGG-Rechner](https://www.migg.wiso.rw.fau.de/zulassung/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)

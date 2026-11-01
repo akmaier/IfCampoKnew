@@ -7,9 +7,9 @@ regelstudienzeit: "4 Semester"
 unterrichtssprache: "Deutsch oder Englisch möglich"
 fakultät: "Technische Fakultät"
 studienbeginn: "Sommersemester, Wintersemester"
-größe: "250-600"
+größe: "150-250"
 besondere_studienformen: "Internationales Studienangebot, Teilzeitstudium möglich"
-scraped_at: 2026-07-01T08:21:05+00:00
+scraped_at: 2026-11-01T11:13:14+00:00
 ---
 
 # Elektromobilität-ACES (M.Sc.)
@@ -26,7 +26,7 @@ scraped_at: 2026-07-01T08:21:05+00:00
 | Unterrichtssprache | Deutsch oder Englisch möglich |
 | Fakultät | Technische Fakultät |
 | Studienbeginn | Sommersemester, Wintersemester |
-| Größe | 250-600 |
+| Größe | 150-250 |
 | Besondere Studienformen | Internationales Studienangebot, Teilzeitstudium möglich |
 
 ## Worum geht es im Studiengang?
@@ -35,7 +35,7 @@ Die Elektromobilität ist zentraler Baustein eines nachhaltigen und klimaschonen
 
 Der Umstieg auf Elektromobilität stellt damit einen äußerst wichtigen Schritt zur Klimawende dar.
 
-Nach aktuellen Studien werden bereits ab ca. 2025 Elektroautos in der Herstellung günstiger als Autos mit Verbrennungsantrieb sein. Deshalb sucht die Industrie bereits jetzt Ingenieurinnen und Ingenieure mit fundierten Kenntnissen im Bereich Elektromobilität.
+Nach aktuellen Studien werden bereits ab ca. 2027 Elektroautos in der Herstellung günstiger als Autos mit Verbrennungsantrieb sein. Deshalb sucht die Industrie bereits jetzt Ingenieurinnen und Ingenieure mit fundierten Kenntnissen im Bereich Elektromobilität.
 
 ### Aufbau und Struktur
 
@@ -44,13 +44,13 @@ Die Anforderungen an einen neuen Studiengang „Elektromobilität“ gehen weit 
 * AI & Autonomous driving (z.B. Autonomes Fahren mit Künstlicher Intelligenz)
 * Connectivity (z.B. Fahrzeugvernetzung, Smart Grids)
 * E-Powertrain (von der Ladetechnik und Batterie bis zum Rad)
-* Sustainable mobility & Production Technology (z.B. nachhaltige Produktion, umweltfreundliche Stromerzeugung, car sharing)
+* Sustainable Mobility & Production Technology (z.B. nachhaltige Produktion, umweltfreundliche Stromerzeugung, Car Sharing)
 
 Der interdisziplinäre Studiengang bündelt die umfangreichen vorhandenen Kompetenzen der Technischen Fakultät auf diesen Gebieten in der Lehre und stellt ein attraktives Angebot für Studieninteressierte dar.
 
 ### Was sollte ich mitbringen?
 
-* Interesse an Technik und solide Grundkenntnisse in Mathematik. Ebenso sollten Sie keine Berührungsängste mit der Schulphysik, insbesondere der Mechanik, haben.
+* Bachelor in Maschinenbau, Elektrotechnik, Wirtschaftsingenieurwesen oder vergleichbar
 * Interesse daran, wie technische Produkte funktionieren und wie sie hergestellt werden können.
 * Spaß an Autos ist förderlich, aber keine Voraussetzung für das Studium!
 
@@ -92,11 +92,11 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
   mindestens DSH-2 mit je mind. 74 % der erzielbaren Punkte im schriftlichen und mündlichen Prüfungsteil
   alternativ TestDAF mit mind. 4 Punkten in jedem Bereich und 5 Punkten in mind. einem Bereich
   Für das Masterstudium in englischer Sprache einen Nachweis über englische Sprachkenntnisse auf dem Niveau von mindestens C1 des Gemeinsamen Europäischen Referenzrahmens (GER); für die Nachweismöglichkeiten wird beispielhaft auf die Äquivalenztabelle des Sprachenzentrums der FAU verwiesen
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Voraussetzungen für Master
 
-We strongly recommend applicants from non-EU countries like India, Pakistan, China etc. to submit the results of an international standard graduate test. This will strongly improve your chances of admission, since only about 10 % of our applicants get an admission to our master’s program and the submission of a standard graduate test makes it much easier for us to assess your academic performance. The following tests are accepted:
+We strongly recommend applicants from non-EU countries like India, Pakistan, China etc. to submit the results of an international standard graduate test. This will strongly improve your chances of admission, since the submission of a standard graduate test makes it much easier for us to assess your academic performance. The following tests are accepted:
 
 * „Graduate Record Examination (GRE)” as “subject test physics“, “subject test mathematics“ or “General Test” (FAU Code is **1344**, see <https://www.ets.org/gre.html>)
 * „Graduate Aptitude Test in Engineering“ (GATE) with an engineering test paper (<https://gate2024.iisc.ac.in/>)
@@ -147,7 +147,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ## Externe Links
 
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)
 - [Direkt zum Bewerbungsportal](https://www.campo.fau.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces?sessionlanguage=de&page=Bewerber/-innen)
@@ -165,7 +164,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Webseite des Departments/Instituts](https://www.department.mb.tf.fau.de/)
 - [Technische Fakultät](https://tf.fau.de)
 - [Studierendenvertretung der FAU](https://stuve.fau.de/)
-- [Thorsten Malinowski - stock.adobe.com](https://www.fau.de/wp-content/uploads/sites/4/2026/03/Elektromobilitaet_MSc-AdobeStock_503545910.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/apply-now.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)

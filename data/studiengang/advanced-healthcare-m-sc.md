@@ -8,8 +8,8 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Medizinische Fakultät"
 studienbeginn: "Sommersemester"
 größe: "1-50"
-besondere_studienformen: "Teilzeitstudium möglich"
-scraped_at: 2026-07-01T08:18:22+00:00
+besondere_studienformen: "Weiterbildungs-/berufsbegleitender Studiengang"
+scraped_at: 2026-11-01T11:11:04+00:00
 ---
 
 # Advanced Healthcare (M.Sc.)
@@ -27,7 +27,7 @@ scraped_at: 2026-07-01T08:18:22+00:00
 | Fakultät | Medizinische Fakultät |
 | Studienbeginn | Sommersemester |
 | Größe | 1-50 |
-| Besondere Studienformen | Teilzeitstudium möglich |
+| Besondere Studienformen | Weiterbildungs-/berufsbegleitender Studiengang |
 
 ## Worum geht es im Studiengang?
 
@@ -77,7 +77,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ### Sprachkenntnisse
 
-* Deutschkenntnisse für internationale Studierende: [Deutschkenntnisse erforderlich](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Voraussetzungen für Master
 
@@ -134,7 +134,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ## Externe Links
 
-- [Deutschkenntnisse erforderlich](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [Team des Studiengangs](https://www.frauenklinik.uk-erlangen.de/lehre/studium-hebammenwissenschaft/team/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)

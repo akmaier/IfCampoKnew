@@ -8,7 +8,7 @@ fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "Zusatzstudien"
-scraped_at: 2026-07-01T08:27:24+00:00
+scraped_at: 2026-11-01T11:19:01+00:00
 ---
 
 # Praxisorientiertes Basiswissen BWL (Zertifikat)
@@ -65,7 +65,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ### Sprachkenntnisse
 
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Details und Anmerkungen
 
@@ -77,9 +77,9 @@ Neben der Immatrikulation im Studiengang Rechtswissenschaft ist eine **zusätzli
 
 * Für die zusätzliche Immatrikulation zu den Zusatzstudien Praxisorientiertes Basiswissen BWL reichen Sie bitte das Formular **[Antrag auf Studiengangwechsel](https://www.fau.de/wp-content/uploads/sites/4/2025/09/Antrag-auf-Fachwechsel.pdf)** ein.
 
-#### **Ausfüllhinweise für den** **[Antrag auf Studiengangwechsel](https://www.fau.de/wp-content/uploads/sites/4/2025/09/Antrag-auf-Fachwechsel.pdf)**:
+#### **Ausfüllhinweise für den **[Antrag auf Studiengangwechsel](https://www.fau.de/wp-content/uploads/sites/4/2025/09/Antrag-auf-Fachwechsel.pdf)****:
 
-* Bitte beachten Sie, dass Sie bei „geplanter Studiengang“ neben „Praxisorientiertes Basiswissen BWL“ als 2. Studienfach **zusätzlich** auch „Rechtswissenschaft“ als 1. Studienfach angeben müssen. (siehe **[Musterformular](https://www.steuer.rw.fau.de/files/2024/10/Antrag-auf-Fachwechsel-Muster.pdf)**.
+* Bitte beachten Sie, dass Sie bei „geplanter Studiengang“ neben „Praxisorientiertes Basiswissen BWL“ als 2. Studienfach **zusätzlich** auch „Rechtswissenschaft“ als 1. Studienfach angeben müssen. (siehe **[Musterformular](https://www.steuer.rw.fau.de/files/2024/10/Antrag-auf-Fachwechsel-Muster.pdf)**).
 * Bitte unterschreiben Sie das Formular am Ende der zweiten Seite und übermitteln es dann als Scan an: [[E-Mail entfernt]](mailto:[E-Mail entfernt])
 * Den Antrag auf Studiengangwechsel können Sie spätestens bis Vorlesungsbeginn einreichen.
 
@@ -126,7 +126,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ## Externe Links
 
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [Antrag auf Studiengangwechsel](https://www.fau.de/wp-content/uploads/sites/4/2025/09/Antrag-auf-Fachwechsel.pdf)
 - [Musterformular](https://www.steuer.rw.fau.de/files/2024/10/Antrag-auf-Fachwechsel-Muster.pdf)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)

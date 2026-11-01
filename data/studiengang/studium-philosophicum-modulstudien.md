@@ -8,7 +8,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "150-250"
 besondere_studienformen: "Orientierungs-/Modulstudien"
-scraped_at: 2026-07-01T08:28:13+00:00
+scraped_at: 2026-11-01T11:19:44+00:00
 ---
 
 # Studium Philosophicum (Modulstudien)
@@ -33,7 +33,7 @@ Für Studieninteressierte bietet das Studium Philosophicum die Möglichkeit, ver
 
 Das Studium Philosophicum dient Studieninteressierten einer ersten Orientierung. Im Idealfall kommt die Begeisterung für ein oder zwei der ausgewählten Fächer und man bleibt einfach dabei – und falls nicht, ist der Frust nicht all zu groß, denn zum ‚Ausprobieren‘ ist ein Orientierungsstudium ja da. ‚Verloren‘ ist das Semester (oder das Jahr im Falle einer Verlängerung) also ganz und gar nicht.
 
-Fast alle Fächer, die NC-frei sind und kein Voranmeldeverfahren (wie z. B. Psychologie und Kulturgeographie) voraussetzen, können studiert werden. Mit fast 30 möglichen Studienfächern aus den Geistes- und Sozialwissenschaften sowie der religionsbezogenen Disziplinen ist also garantiert etwas für jeden Geschmack dabei!
+Module aus fast allen Bachelorfächern (außer Psychologie) können studiert werden. Mit fast 30 möglichen Studienfächern aus den Geistes- und Sozialwissenschaften sowie der religionsbezogenen Disziplinen ist also garantiert etwas für jeden Geschmack dabei!
 
 Hier gibt es einen Überblick über die Fächer: <https://www.phil.fau.de/studium/studienangebot/bachelor/>
 
@@ -62,7 +62,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ### Sprachkenntnisse
 
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Details und Anmerkungen
 
@@ -113,7 +113,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ## Externe Links
 
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)
 - [Direkt zum Bewerbungsportal](https://www.campo.fau.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces?sessionlanguage=de&page=Bewerber/-innen)

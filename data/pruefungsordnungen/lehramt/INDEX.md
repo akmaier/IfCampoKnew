@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Lehramt"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/
-scraped_at: 2026-07-01T08:30:46+00:00
+scraped_at: 2026-11-01T11:20:51+00:00
 ---
 
 # Lehramt
@@ -52,20 +52,30 @@ Es folgen die Prüfungsordnungen für die Lehramtsstudiengänge.
 
 ### LAPO (für Modulprüfungen im Rahmen der Ersten Lehramtsprüfung sowie den lehramtsbezogenen Masterstudiengang Gymnasium)
 
-| konsolidierte Fassungen | Dateigröße |
-| --- | --- |
-| [StuPO LAPO 20240918 i.d.F. 20250806.pdf](https://www.doc.zuv.fau.de//L1/PO/Lehramt/LAPO/konsolidierte_Fassungen/StuPO_LAPO_20240918_idF_20250806.pdf) | 493 KB |
-| [StuPO LAPO 20240918.pdf](https://www.doc.zuv.fau.de//L1/PO/Lehramt/LAPO/konsolidierte_Fassungen/StuPO_LAPO_20240918.pdf) | 600 KB |
-| [StuPO LAPO 20090223 i.d.F. 20220808.pdf](https://www.doc.zuv.fau.de//L1/PO/Lehramt/LAPO/konsolidierte_Fassungen/StuPO_LAPO_20090223_idF_20220808.pdf) | 811 KB |
-| [StuPO LAPO 20090223 i.d.F. 20200513.pdf](https://www.doc.zuv.fau.de//L1/PO/Lehramt/LAPO/konsolidierte_Fassungen/StuPO_LAPO_20090223_idF_20200513.pdf) | 791 KB |
-| [StuPO LAPO 20090223 i.d.F. 20180629.pdf](https://www.doc.zuv.fau.de//L1/PO/Lehramt/LAPO/konsolidierte_Fassungen/StuPO_LAPO_20090223_idF_20180629.pdf) | 571 KB |
+#### Konsolidierte Fassungen
 
-| Änderungssatzungen | Dateigröße |
+Konsolidierte Fassungen
+
+| Dateiname | Dateigröße |
 | --- | --- |
-| [StuPO LAPO 20250806 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Lehramt/LAPO/Aenderungssatzungen/StuPO_LAPO_20250806_AeS.pdf) | 131 KB |
-| [StuPO LAPO 20220808 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Lehramt/LAPO/Aenderungssatzungen/StuPO_LAPO_20220808_AeS.pdf) | 489 KB |
-| [StuPO LAPO 20200513 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Lehramt/LAPO/Aenderungssatzungen/StuPO_LAPO_20200513_AeS.pdf) | 217 KB |
-| [StuPO LAPO 20180629 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Lehramt/LAPO/Aenderungssatzungen/StuPO_LAPO_20180629_AeS.pdf) | 257 KB |
+| [StuPO\_LAPO\_20090223\_idF\_20180629.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FLehramt%2FLAPO%2Fkonsolidierte_Fassungen%2FStuPO_LAPO_20090223_idF_20180629.pdf&sig=157f64548f557fc47ae994ec4269479aaf5daffac1900fb586ec0cf559200c6c) | 571 KB |
+| [StuPO\_LAPO\_20090223\_idF\_20200513.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FLehramt%2FLAPO%2Fkonsolidierte_Fassungen%2FStuPO_LAPO_20090223_idF_20200513.pdf&sig=037b353f51c2cfcb2b1a2f65fce170f6601e0356135a6ff7f4f6f9108991b5b6) | 791 KB |
+| [StuPO\_LAPO\_20090223\_idF\_20220808.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FLehramt%2FLAPO%2Fkonsolidierte_Fassungen%2FStuPO_LAPO_20090223_idF_20220808.pdf&sig=d546899158fa08dfe4fce138c9401ad42602720fd1d33317f38378ff8fdea195) | 811 KB |
+| [StuPO\_LAPO\_20240918.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FLehramt%2FLAPO%2Fkonsolidierte_Fassungen%2FStuPO_LAPO_20240918.pdf&sig=b9f9c172cf3a077fb678a9570453e972f29093d4cbd63e870c083686fc3e6682) | 600 KB |
+| [StuPO\_LAPO\_20240918\_idF\_20250806.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FLehramt%2FLAPO%2Fkonsolidierte_Fassungen%2FStuPO_LAPO_20240918_idF_20250806.pdf&sig=7c83e125faf0a964812bf8359179ccc9efdd41b3a23956fd928e69102a4b86b3) | 493 KB |
+
+#### Änderungssatzungen
+
+Änderungssatzungen
+
+| Dateiname | Dateigröße |
+| --- | --- |
+| [StuPO\_LAPO\_20180629\_AeS.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FLehramt%2FLAPO%2FAenderungssatzungen%2FStuPO_LAPO_20180629_AeS.pdf&sig=a46c4106570eae35fa7ff44b02db627e505cfcd7e8247c5723e24ab35471660d) | 257 KB |
+| [StuPO\_LAPO\_20200513\_AeS.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FLehramt%2FLAPO%2FAenderungssatzungen%2FStuPO_LAPO_20200513_AeS.pdf&sig=160d74125c1692c6e2c831199129fc7d9ba0061d3e6f5b2afe6a7124522d3628) | 217 KB |
+| [StuPO\_LAPO\_20220808\_AeS.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FLehramt%2FLAPO%2FAenderungssatzungen%2FStuPO_LAPO_20220808_AeS.pdf&sig=57d3c9daa834b3ab4f5d20eb04b1fc810d97792ac8eaf76d422a880f00c378dd) | 489 KB |
+| [StuPO\_LAPO\_20250806\_AeS.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FLehramt%2FLAPO%2FAenderungssatzungen%2FStuPO_LAPO_20250806_AeS.pdf&sig=5454ee0f8930c2f706707c8f5a69ea20b72aab3e722e04562b39af3804fc1136) | 131 KB |
+
+### Ursprungsfassung und ältere Versionen
 
 | **Änderungssatzung/Datum** | **Konsolidierte Fassung/Datum** |
 | --- | --- |
@@ -94,17 +104,8 @@ Es folgen die Prüfungsordnungen für die Lehramtsstudiengänge.
 * [Sprachprüfungen](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/)
 * [Promotions-und Habilitationsordnungen](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/promotions-und-habilitationsordnungen/)
 
-## Prüfungsordnungen-Dokumente (24)
+## Prüfungsordnungen-Dokumente (15)
 
-- [StuPO LAPO 20240918 i.d.F. 20250806.pdf](stupo-lapo-20240918-idf-20250806.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Lehramt/LAPO/konsolidierte_Fassungen/StuPO_LAPO_20240918_idF_20250806.pdf>
-- [StuPO LAPO 20240918.pdf](stupo-lapo-20240918.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Lehramt/LAPO/konsolidierte_Fassungen/StuPO_LAPO_20240918.pdf>
-- [StuPO LAPO 20090223 i.d.F. 20220808.pdf](stupo-lapo-20090223-idf-20220808.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Lehramt/LAPO/konsolidierte_Fassungen/StuPO_LAPO_20090223_idF_20220808.pdf>
-- [StuPO LAPO 20090223 i.d.F. 20200513.pdf](stupo-lapo-20090223-idf-20200513.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Lehramt/LAPO/konsolidierte_Fassungen/StuPO_LAPO_20090223_idF_20200513.pdf>
-- [StuPO LAPO 20090223 i.d.F. 20180629.pdf](stupo-lapo-20090223-idf-20180629.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Lehramt/LAPO/konsolidierte_Fassungen/StuPO_LAPO_20090223_idF_20180629.pdf>
-- [StuPO LAPO 20250806 ÄS.pdf](stupo-lapo-20250806-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Lehramt/LAPO/Aenderungssatzungen/StuPO_LAPO_20250806_AeS.pdf>
-- [StuPO LAPO 20220808 ÄS.pdf](stupo-lapo-20220808-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Lehramt/LAPO/Aenderungssatzungen/StuPO_LAPO_20220808_AeS.pdf>
-- [StuPO LAPO 20200513 ÄS.pdf](stupo-lapo-20200513-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Lehramt/LAPO/Aenderungssatzungen/StuPO_LAPO_20200513_AeS.pdf>
-- [StuPO LAPO 20180629 ÄS.pdf](stupo-lapo-20180629-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Lehramt/LAPO/Aenderungssatzungen/StuPO_LAPO_20180629_AeS.pdf>
 - [30. September 2015](7aes-lapo-allgemein.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/7AES_LAPO_Allgemein.pdf>
 - [pdf vom 23.02.2009 i.d.F. 30.09.2015](lapo-lehramt-sept2015.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/word/LAPO_Lehramt.SEPT2015.pdf>
 - [13. Mai 2014](6aes-lapo-allgemein.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/6AES_LAPO-Allgemein.pdf>

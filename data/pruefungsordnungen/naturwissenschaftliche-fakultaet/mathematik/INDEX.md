@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Mathematik und Data Science"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/
-scraped_at: 2026-07-01T09:19:46+00:00
+scraped_at: 2026-11-01T11:29:46+00:00
 ---
 
 # Mathematik und Data Science
@@ -11,38 +11,57 @@ scraped_at: 2026-07-01T09:19:46+00:00
 
 ## Inhalt der Landing-Seite
 
-Wichtige Informationen zu Studien- und Prüfungsordnungen der Lehreinheit Mathematik und Data Science:
+## Erklärung zu den veröffentlichten Dokumenten
 
-## Hinweis
-
-Bitte beachten: Es gelten jeweils die [Allgemeine Studien- und Prüfungsordnung](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/nat/) für die Bachelor- und Masterstudiengänge an der Naturwissenschaftlichen Fakultät und die Fachstudien- und Prüfungsordnung Ihres Studiengangs!
+* **Was ist eine Änderungssatzung (ÄS)?**  
+  In einer Änderungssatzung werden nur die tatsächlichen Änderungen, wie neue oder abgeschaffte Abschnitte festgehalten. Die Änderungssatzung ist rechtsverbindlich.
+* **Was ist eine konsolidierte Fassung?**  
+  Eine konsolidierte Fassung ist die aktuelle Version einer Fachstudien- und Prüfungsordnung, in der alle bisherigen Änderungen eingearbeitet sind. So sieht man auf einen Blick, welche Regelungen aktuell gelten. Das Datum im Dateinamen zeigt, auf welchem Stand die Ordnung ist („idF“ = „in der Fassung“).
+* **Welche Version ist für mich relevant?**  
+  Welche Fachstudien- und Prüfungsordnung (FPO) für Sie gilt, hängt in der Regel vom Beginn Ihres Studiums ab. Das passende Datum finden Sie im Dateinamen nach „idF“ (JJJJMMTT).
 
 ## Fachprüfungsordnungen der Studiengänge in der Lehreinheit Mathematik und Data Science
 
 ### Allgemeine Prüfungsordnung Data Science, Mathematik, Technomathematik und Wirtschaftsmathematik
 
-| konsolidierte Fassungen | Dateigröße |
-| --- | --- |
-| [AllgStuPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20230731.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/ABMPO_Mathe_NatFak/konsolidierte_Fassungen/AllgStuPO_BSc-MSc_Mathematik_ABMPOMathe-NatFak_20150311_idF_20230731.pdf) | 285 KB |
-| [AllgStuPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20210805.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/ABMPO_Mathe_NatFak/konsolidierte_Fassungen/AllgStuPO_BSc-MSc_Mathematik_ABMPOMathe-NatFak_20150311_idF_20210805.pdf) | 378 KB |
-| [AllgStuPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20210311.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/ABMPO_Mathe_NatFak/konsolidierte_Fassungen/AllgStuPO_BSc-MSc_Mathematik_ABMPOMathe-NatFak_20150311_idF_20210311.pdf) | 375 KB |
-| [AllgPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20200820.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/ABMPO_Mathe_NatFak/konsolidierte_Fassungen/AllgPO_BSc-MSc_Mathematik_ABMPOMathe-NatFak_20150311_idF_20200820.pdf) | 372 KB |
-| [AllgPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20190715.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/ABMPO_Mathe_NatFak/konsolidierte_Fassungen/AllgPO_BSc-MSc_Mathematik_ABMPOMathe-NatFak_20150311_idF_20190715.pdf) | 369 KB |
+#### Konsolidierte Fassungen
 
-| englisch | Dateigröße |
-| --- | --- |
-| [AllgPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20210805 en.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/ABMPO_Mathe_NatFak/englisch/AllgPO_BSc-MSc_Mathematik_ABMPOMathe-NatFak_20150311_idF_20210805_en.pdf) | 266 KB |
-| [AllgPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20210311 en.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/ABMPO_Mathe_NatFak/englisch/AllgPO_BSc-MSc_Mathematik_ABMPOMathe-NatFak_20150311_idF_20210311_en.pdf) | 263 KB |
-| [AllgPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20200820 en.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/ABMPO_Mathe_NatFak/englisch/AllgPO_BSc-MSc_Mathematik_ABMPOMathe-NatFak_20150311_idF_20200820_en.pdf) | 365 KB |
-| [AllgPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20190715 en.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/ABMPO_Mathe_NatFak/englisch/AllgPO_BSc-MSc_Mathematik_ABMPOMathe-NatFak_20150311_idF_20190715_en.pdf) | 362 KB |
+Konsolidierte Fassungen
 
-| Änderungssatzungen | Dateigröße |
+| Dateiname | Dateigröße |
 | --- | --- |
-| [Sammel-ÄSa Masterbewerbung 20230731 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/ABMPO_Mathe_NatFak/Aenderungssatzungen/Sammel-AeSa_Masterbewerbung_20230731_AeS.pdf) | 152 KB |
-| [ABMPOMathe-NatFak 20210805 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/ABMPO_Mathe_NatFak/Aenderungssatzungen/ABMPOMathe-NatFak_20210805_AeS.pdf) | 215 KB |
-| [ABMPOMathe-NatFak 20210311 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/ABMPO_Mathe_NatFak/Aenderungssatzungen/ABMPOMathe-NatFak_20210311_AeS.pdf) | 207 KB |
-| [ABMPOMathe-NatFak 20200820 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/ABMPO_Mathe_NatFak/Aenderungssatzungen/ABMPOMathe-NatFak_20200820_AeS.pdf) | 219 KB |
-| [ABMPOMathe-NatFak 20190715 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/ABMPO_Mathe_NatFak/Aenderungssatzungen/ABMPOMathe-NatFak_20190715_AeS.pdf) | 273 KB |
+| [AllgStuPO\_BSc-MSc\_Mathematik\_ABMPOMathe-NatFak\_20150311\_idF\_20230731.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FABMPO_Mathe_NatFak%2Fkonsolidierte_Fassungen%2FAllgStuPO_BSc-MSc_Mathematik_ABMPOMathe-NatFak_20150311_idF_20230731.pdf&sig=830eaf6f9c91e2ac54ccd2e55fc03c7496aa60c53073ebf5275e7cd87d9a089b) | 285 KB |
+| [AllgStuPO\_BSc-MSc\_Mathematik\_ABMPOMathe-NatFak\_20150311\_idF\_20210805.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FABMPO_Mathe_NatFak%2Fkonsolidierte_Fassungen%2FAllgStuPO_BSc-MSc_Mathematik_ABMPOMathe-NatFak_20150311_idF_20210805.pdf&sig=41e6f008e6fddd366a847da7597561fda99827505603118ef5c9e48529f1bac4) | 378 KB |
+| [AllgStuPO\_BSc-MSc\_Mathematik\_ABMPOMathe-NatFak\_20150311\_idF\_20210311.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FABMPO_Mathe_NatFak%2Fkonsolidierte_Fassungen%2FAllgStuPO_BSc-MSc_Mathematik_ABMPOMathe-NatFak_20150311_idF_20210311.pdf&sig=c2333882192abf52f609d5b660ce48d549d3fcd9b98849449ba7b31530cc0951) | 375 KB |
+| [AllgPO\_BSc-MSc\_Mathematik\_ABMPOMathe-NatFak\_20150311\_idF\_20200820.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FABMPO_Mathe_NatFak%2Fkonsolidierte_Fassungen%2FAllgPO_BSc-MSc_Mathematik_ABMPOMathe-NatFak_20150311_idF_20200820.pdf&sig=f7e8cc33bf49e0e32e9118f4ab72ef47bfddeb01eb695e15d16ffe165dfac713) | 372 KB |
+| [AllgPO\_BSc-MSc\_Mathematik\_ABMPOMathe-NatFak\_20150311\_idF\_20190715.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FABMPO_Mathe_NatFak%2Fkonsolidierte_Fassungen%2FAllgPO_BSc-MSc_Mathematik_ABMPOMathe-NatFak_20150311_idF_20190715.pdf&sig=bcba36135297e2aa3283f7f19e2f71ad0139370f09dc7b2b35f8f65de2fe2878) | 369 KB |
+
+#### Englische Fassungen
+
+Englische Fassungen
+
+| Dateiname | Dateigröße |
+| --- | --- |
+| [AllgPO\_BSc-MSc\_Mathematik\_ABMPOMathe-NatFak\_20150311\_idF\_20210805\_en.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FABMPO_Mathe_NatFak%2Fenglisch%2FAllgPO_BSc-MSc_Mathematik_ABMPOMathe-NatFak_20150311_idF_20210805_en.pdf&sig=438e9c41c664205ca66009577a532f147648ae7dcef83b50e91fab0b67a7138e) | 266 KB |
+| [AllgPO\_BSc-MSc\_Mathematik\_ABMPOMathe-NatFak\_20150311\_idF\_20210311\_en.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FABMPO_Mathe_NatFak%2Fenglisch%2FAllgPO_BSc-MSc_Mathematik_ABMPOMathe-NatFak_20150311_idF_20210311_en.pdf&sig=f3bb3a4c93b85f094ed8111bd905a0dc6cfac8ab68351b17229f5d1bee653177) | 263 KB |
+| [AllgPO\_BSc-MSc\_Mathematik\_ABMPOMathe-NatFak\_20150311\_idF\_20200820\_en.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FABMPO_Mathe_NatFak%2Fenglisch%2FAllgPO_BSc-MSc_Mathematik_ABMPOMathe-NatFak_20150311_idF_20200820_en.pdf&sig=2302a5ca8849844e14a2860521733ce86f388e208c74821bb97db066b409644e) | 365 KB |
+| [AllgPO\_BSc-MSc\_Mathematik\_ABMPOMathe-NatFak\_20150311\_idF\_20190715\_en.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FABMPO_Mathe_NatFak%2Fenglisch%2FAllgPO_BSc-MSc_Mathematik_ABMPOMathe-NatFak_20150311_idF_20190715_en.pdf&sig=9eee5dc3f769800d35528064083bfc45acc40df7f99d15893fdf4af3db80817f) | 362 KB |
+
+#### Änderungssatzungen
+
+Änderungssatzungen
+
+| Dateiname | Dateigröße |
+| --- | --- |
+| [Sammel-AeSa\_Masterbewerbung\_20230731\_AeS.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FABMPO_Mathe_NatFak%2FAenderungssatzungen%2FSammel-AeSa_Masterbewerbung_20230731_AeS.pdf&sig=f2bf1c048fa1c8349cbdef9d969c566f42487205aa030da88829aa3c0a257279) | 152 KB |
+| [ABMPOMathe-NatFak\_20210805\_AeS.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FABMPO_Mathe_NatFak%2FAenderungssatzungen%2FABMPOMathe-NatFak_20210805_AeS.pdf&sig=02c527815189b656f02d2acbcd5e83632e15abfc94bc11093c03c1644d7df387) | 215 KB |
+| [ABMPOMathe-NatFak\_20210311\_AeS.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FABMPO_Mathe_NatFak%2FAenderungssatzungen%2FABMPOMathe-NatFak_20210311_AeS.pdf&sig=bacfe42bc64c8d41cd9b5d56ac17d8fead0ac83fe5caabde74bd70dee5876c30) | 207 KB |
+| [ABMPOMathe-NatFak\_20200820\_AeS.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FABMPO_Mathe_NatFak%2FAenderungssatzungen%2FABMPOMathe-NatFak_20200820_AeS.pdf&sig=01f8b8adc443ef93c6eff58b0129458e3524e3c0172251894b3ea3360b695d4e) | 219 KB |
+| [ABMPOMathe-NatFak\_20190715\_AeS.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FABMPO_Mathe_NatFak%2FAenderungssatzungen%2FABMPOMathe-NatFak_20190715_AeS.pdf&sig=ad71ecea09d51d6a63468c7a60696d4d2f39d171c5ce9267263a4b13ed4a015e) | 273 KB |
+
+Bitte beachten: Es gelten jeweils die [Allgemeine Studien- und Prüfungsordnung](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/nat/) für die Bachelor- und Masterstudiengänge an der Naturwissenschaftlichen Fakultät und die Fachstudien- und Prüfungsordnung Ihres Studiengangs!
+
+#### Ursprungsfassung und ältere Versionen
 
 | **Änderungssatzung/Datum** | **Konsolidierte Fassung/Datum** | English version as amended on |
 | --- | --- | --- |
@@ -52,39 +71,70 @@ Bitte beachten: Es gelten jeweils die [Allgemeine Studien- und Prüfungsordnung]
 
 ### Data Science
 
-| konsolidierte Fassungen | Dateigröße |
-| --- | --- |
-| [FPODataScience 20260305.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Data_Science/konsolidierte_Fassungen/FPODataScience_20260305.pdf) | 490 KB |
-| [FPODataScience 20200820 i.d.F. 20220328.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Data_Science/konsolidierte_Fassungen/FPODataScience_20200820_idF_20220328.pdf) | 1.13 MB |
-| [FPODataScience 20200820 i.d.F. 20210805.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Data_Science/konsolidierte_Fassungen/FPODataScience_20200820_idF_20210805.pdf) | 977 KB |
-| [FPODataScience 20200820 i.d.F. 20210311.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Data_Science/konsolidierte_Fassungen/FPODataScience_20200820_idF_20210311.pdf) | 946 KB |
-| [FPODataScience 20200820.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Data_Science/konsolidierte_Fassungen/FPODataScience_20200820.pdf) | 947 KB |
+Fachstudien- und Prüfungsordnungen (FPO) des Studiengangs Data Science
 
-| englisch | Dateigröße |
-| --- | --- |
-| [FPODataScience 20200820 i.d.F. 20220328 en.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Data_Science/englisch/FPODataScience_20200820_idF_20220328_en.pdf) | 574 KB |
-| [FPODataScience 20200820 i.d.F. 20210805 en.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Data_Science/englisch/FPODataScience_20200820_idF_20210805_en.pdf) | 407 KB |
-| [FPODataScience 20200820 i.d.F. 20210311 en.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Data_Science/englisch/FPODataScience_20200820_idF_20210311_en.pdf) | 943 KB |
-| [FPODataScience 20200820 en.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Data_Science/englisch/FPODataScience_20200820_en.pdf) | 944 KB |
+#### Konsolidierte Fassungen
 
-| Änderungssatzungen | Dateigröße |
+Konsolidierte Fassungen
+
+| Dateiname | Dateigröße |
 | --- | --- |
-| [BSc-MSc Data Science FPODataScience 20220328 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Data_Science/Aenderungssatzungen/BSc-MSc_Data_Science_FPODataScience_20220328_AeS.pdf) | 834 KB |
-| [BSc-MSc Data Science FPODataScience 20210805 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Data_Science/Aenderungssatzungen/BSc-MSc_Data_Science_FPODataScience_20210805_AeS.pdf) | 646 KB |
-| [BSc-MSc Data Science FPODataScience 20210311 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Data_Science/Aenderungssatzungen/BSc-MSc_Data_Science_FPODataScience_20210311_AeS.pdf) | 564 KB |
+| [FPODataScience\_20260305.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FData_Science%2Fkonsolidierte_Fassungen%2FFPODataScience_20260305.pdf&sig=99b0b2e3edb369e2289d4cb9e900e04490f270339bee2e002d90fc4a1381c849) | 490 KB |
+| [FPODataScience\_20200820\_idF\_20220328.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FData_Science%2Fkonsolidierte_Fassungen%2FFPODataScience_20200820_idF_20220328.pdf&sig=437bd4357d9bb9945266a8810fcdc2a1d528c3b330e41b6815e1d2c172b7b160) | 1 MB |
+| [FPODataScience\_20200820\_idF\_20210805.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FData_Science%2Fkonsolidierte_Fassungen%2FFPODataScience_20200820_idF_20210805.pdf&sig=9b90e99ed762c1d177a78a7dc4ab2734dd238d7e388709a54c2e1298124381c3) | 977 KB |
+| [FPODataScience\_20200820\_idF\_20210311.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FData_Science%2Fkonsolidierte_Fassungen%2FFPODataScience_20200820_idF_20210311.pdf&sig=aa58a8c25778b469a0d2a92a3612dd1c03c34448022f84a5c57e1429d5fdcec0) | 946 KB |
+| [FPODataScience\_20200820.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FData_Science%2Fkonsolidierte_Fassungen%2FFPODataScience_20200820.pdf&sig=d768757d71161a7075182f2285478e5e4b11440bd4917e5096975709a3c6b046) | 947 KB |
+
+#### Englische Fassungen
+
+Englische Fassungen
+
+| Dateiname | Dateigröße |
+| --- | --- |
+| [FPODataScience\_20260305\_en.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FData_Science%2Fenglisch%2FFPODataScience_20260305_en.pdf&sig=58ebdcab869e56dc9589ebbb903f54693577f2610f93bc5c5faf9ac83686d481) | 475 KB |
+| [FPODataScience\_20200820\_idF\_20220328\_en.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FData_Science%2Fenglisch%2FFPODataScience_20200820_idF_20220328_en.pdf&sig=e7b0b09da15105b216b81a612c61eff1171bc15d205c92b90bb6d2c5282b07ac) | 574 KB |
+| [FPODataScience\_20200820\_idF\_20210805\_en.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FData_Science%2Fenglisch%2FFPODataScience_20200820_idF_20210805_en.pdf&sig=9b83a9af624e628c15a5048889c03453c2a5f4008d922e788358ef832b3b958a) | 407 KB |
+| [FPODataScience\_20200820\_idF\_20210311\_en.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FData_Science%2Fenglisch%2FFPODataScience_20200820_idF_20210311_en.pdf&sig=19a3045c9e4fd7c1847235c0d89dfaf17d59f65fee67919d9e4157804d30ae4b) | 943 KB |
+| [FPODataScience\_20200820\_en.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FData_Science%2Fenglisch%2FFPODataScience_20200820_en.pdf&sig=2f89de3ed3ab49a15bbb829cf22fec15e2132e99ef3e3d2a6129c58329f616f5) | 944 KB |
+
+#### Änderungssatzungen
+
+Änderungssatzungen
+
+| Dateiname | Dateigröße |
+| --- | --- |
+| [BSc-MSc\_Data\_Science\_FPODataScience\_20220328\_AeS.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FData_Science%2FAenderungssatzungen%2FBSc-MSc_Data_Science_FPODataScience_20220328_AeS.pdf&sig=b66da04c7356e6265168a90e8d887d4f4debb67e57b3f7816808a4265b4f910b) | 834 KB |
+| [BSc-MSc\_Data\_Science\_FPODataScience\_20210805\_AeS.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FData_Science%2FAenderungssatzungen%2FBSc-MSc_Data_Science_FPODataScience_20210805_AeS.pdf&sig=c842b71747f46815b516ad612b1a55eedb2e784403a14dbe13e4f4dc4b811da3) | 646 KB |
+| [BSc-MSc\_Data\_Science\_FPODataScience\_20210311\_AeS.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FData_Science%2FAenderungssatzungen%2FBSc-MSc_Data_Science_FPODataScience_20210311_AeS.pdf&sig=e913b8246117e4c29a75381ac3e1e45af02251b8b3074c1d27a429a8325dc5bd) | 564 KB |
+
+Bitte beachten: Es gelten jeweils die [Allgemeine Studien- und Prüfungsordnung](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/nat/) für die Bachelor- und Masterstudiengänge an der Naturwissenschaftlichen Fakultät und die Fachstudien- und Prüfungsordnung Ihres Studiengangs!
 
 ### Mathematik
 
-| konsolidierte Fassungen | Dateigröße |
-| --- | --- |
-| [FPOMathe 20260305.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Mathematik/konsolidierte_Fassungen/FPOMathe_20260305.pdf) | 389 KB |
-| [FPOMathe 20150311 i.d.F. 20210805.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Mathematik/konsolidierte_Fassungen/FPOMathe_20150311_idF_20210805.pdf) | 877 KB |
-| [FPOMathe 20150311 i.d.F. 20190715.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Mathematik/konsolidierte_Fassungen/FPOMathe_20150311_idF_20190715.pdf) | 365 KB |
+Fachstudien- und Prüfungsordnungen (FPO) des Studiengangs Mathematik
 
-| Änderungssatzungen | Dateigröße |
+#### Konsolidierte Fassungen
+
+Konsolidierte Fassungen
+
+| Dateiname | Dateigröße |
 | --- | --- |
-| [FPOMathe 20210805 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Mathematik/Aenderungssatzungen/FPOMathe_20210805_AeS.pdf) | 213 KB |
-| [FPOMathe 20190715 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Mathematik/Aenderungssatzungen/FPOMathe_20190715_AeS.pdf) | 303 KB |
+| [FPOMathe\_20260305.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FMathematik%2Fkonsolidierte_Fassungen%2FFPOMathe_20260305.pdf&sig=ed9212a24bca684a88dc982ab03b505a4930ab1b2865020a9776c3b23b6fa5a0) | 389 KB |
+| [FPOMathe\_20150311\_idF\_20210805.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FMathematik%2Fkonsolidierte_Fassungen%2FFPOMathe_20150311_idF_20210805.pdf&sig=49224d08540a85ae5e3df15834af88354d7667b03ef3599eac402accb7191788) | 877 KB |
+| [FPOMathe\_20150311\_idF\_20190715.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FMathematik%2Fkonsolidierte_Fassungen%2FFPOMathe_20150311_idF_20190715.pdf&sig=a0bf5de8dfc8f72abfbc02fe2cbe6a44d28929abc9e13fdd2b2c01d2d41c9fb6) | 365 KB |
+
+#### Änderungssatzungen
+
+Änderungssatzungen
+
+| Dateiname | Dateigröße |
+| --- | --- |
+| [FPOMathe\_20210805\_AeS.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FMathematik%2FAenderungssatzungen%2FFPOMathe_20210805_AeS.pdf&sig=9257ebbf8ec74ba0d8bf1e2c322a5fe8f8f1b69c56a52363cd0d32341a594101) | 213 KB |
+| [FPOMathe\_20190715\_AeS.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FMathematik%2FAenderungssatzungen%2FFPOMathe_20190715_AeS.pdf&sig=c35f48ab15ad0518dc762bf14c8ddd0b469c90f8085f732f1b56f85ef3b106c2) | 303 KB |
+
+Bitte beachten: Es gelten jeweils die [Allgemeine Studien- und Prüfungsordnung](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/nat/) für die Bachelor- und Masterstudiengänge an der Naturwissenschaftlichen Fakultät und die Fachstudien- und Prüfungsordnung Ihres Studiengangs!
+
+#### Ursprungsfassung und ältere Versionen
 
 | **Änderungssatzung/Datum** | **Konsolidierte Fassung/Datum** |
 | --- | --- |
@@ -93,27 +143,45 @@ Bitte beachten: Es gelten jeweils die [Allgemeine Studien- und Prüfungsordnung]
 
 ### Technomathematik und Computational and Applied Mathematics
 
-| konsolidierte Fassungen | Dateigröße |
-| --- | --- |
-| [FPOTechnomathe 20260305.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Technomathematik/konsolidierte_Fassungen/FPOTechnomathe_20260305.pdf) | 489 KB |
-| [FPOTechnoMathe 20150311 i.d.F. 20220811.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Technomathematik/konsolidierte_Fassungen/FPOTechnoMathe_20150311_idF_20220811.pdf) | 1,004 KB |
-| [FPOTechnoMathe 20150311 i.d.F. 20210805.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Technomathematik/konsolidierte_Fassungen/FPOTechnoMathe_20150311_idF_20210805.pdf) | 1.06 MB |
-| [FPOTechnoMathe 20150311 i.d.F. 20200820.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Technomathematik/konsolidierte_Fassungen/FPOTechnoMathe_20150311_idF_20200820.pdf) | 485 KB |
-| [FPOTechnoMathe 20150311 i.d.F. 20190715.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Technomathematik/konsolidierte_Fassungen/FPOTechnoMathe_20150311_idF_20190715.pdf) | 590 KB |
+Fachstudien- und Prüfungsordnungen (FPO) des Studiengangs Technomathematik und Computational and Applied Mathematics
 
-| englisch | Dateigröße |
-| --- | --- |
-| [FPOTechnoMathe 20150311 i.d.F. 20220811 en.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Technomathematik/englisch/FPOTechnoMathe_20150311_idF_20220811_en.pdf) | 512 KB |
-| [FPOTechnoMathe 20150311 i.d.F. 20210805 en.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Technomathematik/englisch/FPOTechnoMathe_20150311_idF_20210805_en.pdf) | 531 KB |
-| [FPOTechnoMathe 20150311 i.d.F. 20200820 en.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Technomathematik/englisch/FPOTechnoMathe_20150311_idF_20200820_en.pdf) | 553 KB |
-| [FPOTechnoMathe 20150311 i.d.F. 20190715 en.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Technomathematik/englisch/FPOTechnoMathe_20150311_idF_20190715_en.pdf) | 597 KB |
+#### Konsolidierte Fassungen
 
-| Änderungssatzungen | Dateigröße |
+Konsolidierte Fassungen
+
+| Dateiname | Dateigröße |
 | --- | --- |
-| [FPOTechnoMathe 20220811 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Technomathematik/Aenderungssatzungen/FPOTechnoMathe_20220811_AeS.pdf) | 377 KB |
-| [FPOTechnoMathe 20210805 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Technomathematik/Aenderungssatzungen/FPOTechnoMathe_20210805_AeS.pdf) | 204 KB |
-| [FPOTechnoMathe 20200820 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Technomathematik/Aenderungssatzungen/FPOTechnoMathe_20200820_AeS.pdf) | 582 KB |
-| [FPOTechnoMathe 20190715 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Technomathematik/Aenderungssatzungen/FPOTechnoMathe_20190715_AeS.pdf) | 773 KB |
+| [FPOTechnomathe\_20260305.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FTechnomathematik%2Fkonsolidierte_Fassungen%2FFPOTechnomathe_20260305.pdf&sig=ee46a36b1b1f918a7381c2ce36357fec1db38532a027cb3d41820fec5d6cc290) | 489 KB |
+| [FPOTechnoMathe\_20150311\_idF\_20220811.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FTechnomathematik%2Fkonsolidierte_Fassungen%2FFPOTechnoMathe_20150311_idF_20220811.pdf&sig=0cdf2987a7684b29f205380240ba4688be91eca9b0b4b3c33bf26330abfbf31d) | 1.004 KB |
+| [FPOTechnoMathe\_20150311\_idF\_20210805.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FTechnomathematik%2Fkonsolidierte_Fassungen%2FFPOTechnoMathe_20150311_idF_20210805.pdf&sig=0349a490328281c526addd9076ddf907e901d14ecdf7dcb62f658ec9d6f6d42e) | 1 MB |
+| [FPOTechnoMathe\_20150311\_idF\_20200820.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FTechnomathematik%2Fkonsolidierte_Fassungen%2FFPOTechnoMathe_20150311_idF_20200820.pdf&sig=5f63e703145edf46bed932926810da473c6776885a177e0a44133034e453263b) | 485 KB |
+| [FPOTechnoMathe\_20150311\_idF\_20190715.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FTechnomathematik%2Fkonsolidierte_Fassungen%2FFPOTechnoMathe_20150311_idF_20190715.pdf&sig=2f1976c9b037c8797ca1939d6674c8fc9ace513d70b941ef13c29425db53dfe7) | 590 KB |
+
+#### Englische Fassungen
+
+Englische Fassungen
+
+| Dateiname | Dateigröße |
+| --- | --- |
+| [FPOTechnoMathe\_20150311\_idF\_20220811\_en.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FTechnomathematik%2Fenglisch%2FFPOTechnoMathe_20150311_idF_20220811_en.pdf&sig=77ed3a80df088865379c6d2f5559c064f4ae614e3e8f93a5de73e5ee672d69f0) | 512 KB |
+| [FPOTechnoMathe\_20150311\_idF\_20210805\_en.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FTechnomathematik%2Fenglisch%2FFPOTechnoMathe_20150311_idF_20210805_en.pdf&sig=187edcf9ed5daec5fb98a4c546c7ad2f2f419730ebde0cabfb437ceef726cf33) | 531 KB |
+| [FPOTechnoMathe\_20150311\_idF\_20200820\_en.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FTechnomathematik%2Fenglisch%2FFPOTechnoMathe_20150311_idF_20200820_en.pdf&sig=e9bfdc10ed30cf1da23b3b482d9c97af967dfea1d31a0f1854c3c0adb9f9c615) | 553 KB |
+| [FPOTechnoMathe\_20150311\_idF\_20190715\_en.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FTechnomathematik%2Fenglisch%2FFPOTechnoMathe_20150311_idF_20190715_en.pdf&sig=da2d1a3326a063ae2d0dcdf53c85a1d2c704d73c7573971203bb0cd0ada73a6b) | 597 KB |
+
+#### Änderungssatzungen
+
+Änderungssatzungen
+
+| Dateiname | Dateigröße |
+| --- | --- |
+| [FPOTechnoMathe\_20220811\_AeS.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FTechnomathematik%2FAenderungssatzungen%2FFPOTechnoMathe_20220811_AeS.pdf&sig=69479ec73dc993545e1373f7b95a0d1e37556319f75253fc858513e80451c2de) | 377 KB |
+| [FPOTechnoMathe\_20210805\_AeS.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FTechnomathematik%2FAenderungssatzungen%2FFPOTechnoMathe_20210805_AeS.pdf&sig=2288d7cb0a6d41c6bf383d3e51773901fbdc942b9cf4a885289d2e3b794bc6d0) | 204 KB |
+| [FPOTechnoMathe\_20200820\_AeS.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FTechnomathematik%2FAenderungssatzungen%2FFPOTechnoMathe_20200820_AeS.pdf&sig=47f42a179195fbee1824ef9321d4f023cf7d11b46f2a1e878e1e901660fc3f6b) | 582 KB |
+| [FPOTechnoMathe\_20190715\_AeS.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FTechnomathematik%2FAenderungssatzungen%2FFPOTechnoMathe_20190715_AeS.pdf&sig=cf99fb9fcebde4de94224084cf7e9fa5eba6a89205577049a3f1bb959e07f273) | 773 KB |
+
+Bitte beachten: Es gelten jeweils die [Allgemeine Studien- und Prüfungsordnung](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/nat/) für die Bachelor- und Masterstudiengänge an der Naturwissenschaftlichen Fakultät und die Fachstudien- und Prüfungsordnung Ihres Studiengangs!
+
+#### Ursprungsfassung und ältere Versionen
 
 | **Änderungssatzung/Datum** | **Konsolidierte Fassung/Datum** | English version as amended on |
 | --- | --- | --- |
@@ -123,18 +191,32 @@ Bitte beachten: Es gelten jeweils die [Allgemeine Studien- und Prüfungsordnung]
 
 ### Wirtschaftsmathematik
 
-| konsolidierte Fassungen | Dateigröße |
-| --- | --- |
-| [FPOWiMathe 20260305.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Wirtschaftsmathematik/konsolidierte_Fassungen/FPOWiMathe_20260305.pdf) | 406 KB |
-| [FPOWiMathe 20150311 i.d.F. 20210805.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Wirtschaftsmathematik/konsolidierte_Fassungen/FPOWiMathe_20150311_idF_20210805.pdf) | 943 KB |
-| [FPOWiMathe 20150311 i.d.F. 20200820.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Wirtschaftsmathematik/konsolidierte_Fassungen/FPOWiMathe_20150311_idF_20200820.pdf) | 934 KB |
-| [FPOWiMathe 20150311 i.d.F. 20190715.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Wirtschaftsmathematik/konsolidierte_Fassungen/FPOWiMathe_20150311_idF_20190715.pdf) | 713 KB |
+Fachstudien- und Prüfungsordnungen (FPO) des Studiengangs Wirtschaftsmathematik
 
-| Änderungssatzungen | Dateigröße |
+#### Konsolidierte Fassungen
+
+Konsolidierte Fassungen
+
+| Dateiname | Dateigröße |
 | --- | --- |
-| [FPOWiMathe 20210805 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Wirtschaftsmathematik/Aenderungssatzungen/FPOWiMathe_20210805_AeS.pdf) | 671 KB |
-| [FPOWiMathe 20200820 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Wirtschaftsmathematik/Aenderungssatzungen/FPOWiMathe_20200820_AeS.pdf) | 206 KB |
-| [FPOWiMathe 20190715 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Wirtschaftsmathematik/Aenderungssatzungen/FPOWiMathe_20190715_AeS.pdf) | 317 KB |
+| [FPOWiMathe\_20260305.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FWirtschaftsmathematik%2Fkonsolidierte_Fassungen%2FFPOWiMathe_20260305.pdf&sig=50b82bce42509bd2e65d7699d8098187533191ad6b6153364e555330b2df864b) | 406 KB |
+| [FPOWiMathe\_20150311\_idF\_20210805.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FWirtschaftsmathematik%2Fkonsolidierte_Fassungen%2FFPOWiMathe_20150311_idF_20210805.pdf&sig=3e8e7ffd0a25fbbefeb44baa9b6f6e3fe37be6ee7513c1df8afb96eb6f5594ae) | 943 KB |
+| [FPOWiMathe\_20150311\_idF\_20200820.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FWirtschaftsmathematik%2Fkonsolidierte_Fassungen%2FFPOWiMathe_20150311_idF_20200820.pdf&sig=f5c7dab9edb9ef4999ce9afe0a443e99852fb1ae0537e009c3eac70fd01be2ce) | 934 KB |
+| [FPOWiMathe\_20150311\_idF\_20190715.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FWirtschaftsmathematik%2Fkonsolidierte_Fassungen%2FFPOWiMathe_20150311_idF_20190715.pdf&sig=d82a6fe4c34e1f8a234c31be3df59bf748170b98ef7a25f85daca96851b9f6c3) | 713 KB |
+
+#### Änderungssatzungen
+
+Änderungssatzungen
+
+| Dateiname | Dateigröße |
+| --- | --- |
+| [FPOWiMathe\_20210805\_AeS.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FWirtschaftsmathematik%2FAenderungssatzungen%2FFPOWiMathe_20210805_AeS.pdf&sig=3e896034bea1a348f567a3aa3e43545c897777a438452cc31a1e4d30c0ac77a2) | 671 KB |
+| [FPOWiMathe\_20200820\_AeS.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FWirtschaftsmathematik%2FAenderungssatzungen%2FFPOWiMathe_20200820_AeS.pdf&sig=b65106bbdff85d789cd3857eb228bfbbee4c63d9c6cad19e60b2c0a16f34f642) | 206 KB |
+| [FPOWiMathe\_20190715\_AeS.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FWirtschaftsmathematik%2FAenderungssatzungen%2FFPOWiMathe_20190715_AeS.pdf&sig=058f5501667eeecd3cfc059c501ea6d6e743dd9ba0424c19dd60713ec9ed16fb) | 317 KB |
+
+Bitte beachten: Es gelten jeweils die [Allgemeine Studien- und Prüfungsordnung](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/nat/) für die Bachelor- und Masterstudiengänge an der Naturwissenschaftlichen Fakultät und die Fachstudien- und Prüfungsordnung Ihres Studiengangs!
+
+#### Ursprungsfassung und ältere Versionen
 
 | **Änderungssatzung/Datum** | **Konsolidierte Fassung/Datum** |
 | --- | --- |
@@ -183,68 +265,17 @@ Bitte beachten: Es gelten jeweils die [Allgemeine Studien- und Prüfungsordnung]
 * [Sprachprüfungen](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/)
 * [Promotions- und Habilitationsordnung](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/promotions-und-habilitationsordnungen/)
 
-## Prüfungsordnungen-Dokumente (94)
+## Prüfungsordnungen-Dokumente (43)
 
-- [AllgStuPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20230731.pdf](allgstupo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20230731.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/ABMPO_Mathe_NatFak/konsolidierte_Fassungen/AllgStuPO_BSc-MSc_Mathematik_ABMPOMathe-NatFak_20150311_idF_20230731.pdf>
-- [AllgStuPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20210805.pdf](allgstupo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20210805.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/ABMPO_Mathe_NatFak/konsolidierte_Fassungen/AllgStuPO_BSc-MSc_Mathematik_ABMPOMathe-NatFak_20150311_idF_20210805.pdf>
-- [AllgStuPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20210311.pdf](allgstupo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20210311.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/ABMPO_Mathe_NatFak/konsolidierte_Fassungen/AllgStuPO_BSc-MSc_Mathematik_ABMPOMathe-NatFak_20150311_idF_20210311.pdf>
-- [AllgPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20200820.pdf](allgpo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20200820.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/ABMPO_Mathe_NatFak/konsolidierte_Fassungen/AllgPO_BSc-MSc_Mathematik_ABMPOMathe-NatFak_20150311_idF_20200820.pdf>
-- [AllgPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20190715.pdf](allgpo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20190715.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/ABMPO_Mathe_NatFak/konsolidierte_Fassungen/AllgPO_BSc-MSc_Mathematik_ABMPOMathe-NatFak_20150311_idF_20190715.pdf>
-- [AllgPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20210805 en.pdf](allgpo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20210805-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/ABMPO_Mathe_NatFak/englisch/AllgPO_BSc-MSc_Mathematik_ABMPOMathe-NatFak_20150311_idF_20210805_en.pdf>
-- [AllgPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20210311 en.pdf](allgpo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20210311-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/ABMPO_Mathe_NatFak/englisch/AllgPO_BSc-MSc_Mathematik_ABMPOMathe-NatFak_20150311_idF_20210311_en.pdf>
-- [AllgPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20200820 en.pdf](allgpo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20200820-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/ABMPO_Mathe_NatFak/englisch/AllgPO_BSc-MSc_Mathematik_ABMPOMathe-NatFak_20150311_idF_20200820_en.pdf>
-- [AllgPO BSc-MSc Mathematik ABMPOMathe-NatFak 20150311 i.d.F. 20190715 en.pdf](allgpo-bsc-msc-mathematik-abmpomathe-natfak-20150311-idf-20190715-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/ABMPO_Mathe_NatFak/englisch/AllgPO_BSc-MSc_Mathematik_ABMPOMathe-NatFak_20150311_idF_20190715_en.pdf>
-- [Sammel-ÄSa Masterbewerbung 20230731 ÄS.pdf](sammel-aesa-masterbewerbung-20230731-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/ABMPO_Mathe_NatFak/Aenderungssatzungen/Sammel-AeSa_Masterbewerbung_20230731_AeS.pdf>
-- [ABMPOMathe-NatFak 20210805 ÄS.pdf](abmpomathe-natfak-20210805-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/ABMPO_Mathe_NatFak/Aenderungssatzungen/ABMPOMathe-NatFak_20210805_AeS.pdf>
-- [ABMPOMathe-NatFak 20210311 ÄS.pdf](abmpomathe-natfak-20210311-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/ABMPO_Mathe_NatFak/Aenderungssatzungen/ABMPOMathe-NatFak_20210311_AeS.pdf>
-- [ABMPOMathe-NatFak 20200820 ÄS.pdf](abmpomathe-natfak-20200820-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/ABMPO_Mathe_NatFak/Aenderungssatzungen/ABMPOMathe-NatFak_20200820_AeS.pdf>
-- [ABMPOMathe-NatFak 20190715 ÄS.pdf](abmpomathe-natfak-20190715-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/ABMPO_Mathe_NatFak/Aenderungssatzungen/ABMPOMathe-NatFak_20190715_AeS.pdf>
 - [2. März 2017](1aesa-abmpomathe.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/1AeSa_ABMPOMathe.pdf>
 - [PDF vom 11.03.2015 i.d.F. 02.03.2017](allgpo-ba-ma-mathematik-maerz2017.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/AllgPO_BA-MA_Mathematik_Maerz2017.pdf>
 - [(PDF 2nd of March 2017](allgpo-ba-ma-mathematik-maerz2017-en.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/pdf-englisch/AllgPO_BA-MA_Mathematik_Maerz2017_en.pdf>
 - [PDF vom 11.03.2015](allgpo-ba-ma-mathematik.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/AllgPO_BA-MA_Mathematik.pdf>
-- [FPODataScience 20260305.pdf](fpodatascience-20260305.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Data_Science/konsolidierte_Fassungen/FPODataScience_20260305.pdf>
-- [FPODataScience 20200820 i.d.F. 20220328.pdf](fpodatascience-20200820-idf-20220328.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Data_Science/konsolidierte_Fassungen/FPODataScience_20200820_idF_20220328.pdf>
-- [FPODataScience 20200820 i.d.F. 20210805.pdf](fpodatascience-20200820-idf-20210805.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Data_Science/konsolidierte_Fassungen/FPODataScience_20200820_idF_20210805.pdf>
-- [FPODataScience 20200820 i.d.F. 20210311.pdf](fpodatascience-20200820-idf-20210311.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Data_Science/konsolidierte_Fassungen/FPODataScience_20200820_idF_20210311.pdf>
-- [FPODataScience 20200820.pdf](fpodatascience-20200820.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Data_Science/konsolidierte_Fassungen/FPODataScience_20200820.pdf>
-- [FPODataScience 20200820 i.d.F. 20220328 en.pdf](fpodatascience-20200820-idf-20220328-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Data_Science/englisch/FPODataScience_20200820_idF_20220328_en.pdf>
-- [FPODataScience 20200820 i.d.F. 20210805 en.pdf](fpodatascience-20200820-idf-20210805-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Data_Science/englisch/FPODataScience_20200820_idF_20210805_en.pdf>
-- [FPODataScience 20200820 i.d.F. 20210311 en.pdf](fpodatascience-20200820-idf-20210311-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Data_Science/englisch/FPODataScience_20200820_idF_20210311_en.pdf>
-- [FPODataScience 20200820 en.pdf](fpodatascience-20200820-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Data_Science/englisch/FPODataScience_20200820_en.pdf>
-- [BSc-MSc Data Science FPODataScience 20220328 ÄS.pdf](bsc-msc-data-science-fpodatascience-20220328-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Data_Science/Aenderungssatzungen/BSc-MSc_Data_Science_FPODataScience_20220328_AeS.pdf>
-- [BSc-MSc Data Science FPODataScience 20210805 ÄS.pdf](bsc-msc-data-science-fpodatascience-20210805-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Data_Science/Aenderungssatzungen/BSc-MSc_Data_Science_FPODataScience_20210805_AeS.pdf>
-- [BSc-MSc Data Science FPODataScience 20210311 ÄS.pdf](bsc-msc-data-science-fpodatascience-20210311-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Data_Science/Aenderungssatzungen/BSc-MSc_Data_Science_FPODataScience_20210311_AeS.pdf>
-- [FPOMathe 20260305.pdf](fpomathe-20260305.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Mathematik/konsolidierte_Fassungen/FPOMathe_20260305.pdf>
-- [FPOMathe 20150311 i.d.F. 20210805.pdf](fpomathe-20150311-idf-20210805.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Mathematik/konsolidierte_Fassungen/FPOMathe_20150311_idF_20210805.pdf>
-- [FPOMathe 20150311 i.d.F. 20190715.pdf](fpomathe-20150311-idf-20190715.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Mathematik/konsolidierte_Fassungen/FPOMathe_20150311_idF_20190715.pdf>
-- [FPOMathe 20210805 ÄS.pdf](fpomathe-20210805-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Mathematik/Aenderungssatzungen/FPOMathe_20210805_AeS.pdf>
-- [FPOMathe 20190715 ÄS.pdf](fpomathe-20190715-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Mathematik/Aenderungssatzungen/FPOMathe_20190715_AeS.pdf>
 - [PDF vom 11.03.2015](fpo-ba-ma-mathematik.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/FPO BA MA Mathematik.pdf>
-- [FPOTechnomathe 20260305.pdf](fpotechnomathe-20260305.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Technomathematik/konsolidierte_Fassungen/FPOTechnomathe_20260305.pdf>
-- [FPOTechnoMathe 20150311 i.d.F. 20220811.pdf](fpotechnomathe-20150311-idf-20220811.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Technomathematik/konsolidierte_Fassungen/FPOTechnoMathe_20150311_idF_20220811.pdf>
-- [FPOTechnoMathe 20150311 i.d.F. 20210805.pdf](fpotechnomathe-20150311-idf-20210805.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Technomathematik/konsolidierte_Fassungen/FPOTechnoMathe_20150311_idF_20210805.pdf>
-- [FPOTechnoMathe 20150311 i.d.F. 20200820.pdf](fpotechnomathe-20150311-idf-20200820.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Technomathematik/konsolidierte_Fassungen/FPOTechnoMathe_20150311_idF_20200820.pdf>
-- [FPOTechnoMathe 20150311 i.d.F. 20190715.pdf](fpotechnomathe-20150311-idf-20190715.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Technomathematik/konsolidierte_Fassungen/FPOTechnoMathe_20150311_idF_20190715.pdf>
-- [FPOTechnoMathe 20150311 i.d.F. 20220811 en.pdf](fpotechnomathe-20150311-idf-20220811-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Technomathematik/englisch/FPOTechnoMathe_20150311_idF_20220811_en.pdf>
-- [FPOTechnoMathe 20150311 i.d.F. 20210805 en.pdf](fpotechnomathe-20150311-idf-20210805-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Technomathematik/englisch/FPOTechnoMathe_20150311_idF_20210805_en.pdf>
-- [FPOTechnoMathe 20150311 i.d.F. 20200820 en.pdf](fpotechnomathe-20150311-idf-20200820-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Technomathematik/englisch/FPOTechnoMathe_20150311_idF_20200820_en.pdf>
-- [FPOTechnoMathe 20150311 i.d.F. 20190715 en.pdf](fpotechnomathe-20150311-idf-20190715-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Technomathematik/englisch/FPOTechnoMathe_20150311_idF_20190715_en.pdf>
-- [FPOTechnoMathe 20220811 ÄS.pdf](fpotechnomathe-20220811-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Technomathematik/Aenderungssatzungen/FPOTechnoMathe_20220811_AeS.pdf>
-- [FPOTechnoMathe 20210805 ÄS.pdf](fpotechnomathe-20210805-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Technomathematik/Aenderungssatzungen/FPOTechnoMathe_20210805_AeS.pdf>
-- [FPOTechnoMathe 20200820 ÄS.pdf](fpotechnomathe-20200820-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Technomathematik/Aenderungssatzungen/FPOTechnoMathe_20200820_AeS.pdf>
-- [FPOTechnoMathe 20190715 ÄS.pdf](fpotechnomathe-20190715-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Technomathematik/Aenderungssatzungen/FPOTechnoMathe_20190715_AeS.pdf>
 - [27. Februar 2017](1aesa-fpotechnomathe.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/1AeSa_FPOTechnoMathe.pdf>
 - [PDF vom 11.03.2015 i.d.F. 27.02.2017](fpo-ba-ma-technomathematik-feb2017.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/FPO_BA_MA_Technomathematik_FEB2017.pdf>
 - [PDF 27th of February 2017](fpo-ba-ma-technomathematik-fpotechnomathe-20150311-idf-20170227-en.md) — Quelle: <http://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/pdf-englisch/FPO_BA_MA_Technomathematik_FPOTechnoMathe_20150311_idF_20170227_en.pdf>
 - [PDF vom 11.03.2015](fpo-ba-ma-technomathematik.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/FPO_BA_MA_Technomathematik.pdf>
-- [FPOWiMathe 20260305.pdf](fpowimathe-20260305.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Wirtschaftsmathematik/konsolidierte_Fassungen/FPOWiMathe_20260305.pdf>
-- [FPOWiMathe 20150311 i.d.F. 20210805.pdf](fpowimathe-20150311-idf-20210805.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Wirtschaftsmathematik/konsolidierte_Fassungen/FPOWiMathe_20150311_idF_20210805.pdf>
-- [FPOWiMathe 20150311 i.d.F. 20200820.pdf](fpowimathe-20150311-idf-20200820.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Wirtschaftsmathematik/konsolidierte_Fassungen/FPOWiMathe_20150311_idF_20200820.pdf>
-- [FPOWiMathe 20150311 i.d.F. 20190715.pdf](fpowimathe-20150311-idf-20190715.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Wirtschaftsmathematik/konsolidierte_Fassungen/FPOWiMathe_20150311_idF_20190715.pdf>
-- [FPOWiMathe 20210805 ÄS.pdf](fpowimathe-20210805-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Wirtschaftsmathematik/Aenderungssatzungen/FPOWiMathe_20210805_AeS.pdf>
-- [FPOWiMathe 20200820 ÄS.pdf](fpowimathe-20200820-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Wirtschaftsmathematik/Aenderungssatzungen/FPOWiMathe_20200820_AeS.pdf>
-- [FPOWiMathe 20190715 ÄS.pdf](fpowimathe-20190715-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Wirtschaftsmathematik/Aenderungssatzungen/FPOWiMathe_20190715_AeS.pdf>
 - [13. März 2017](1aesa-ma-wirtschaftsmathematik.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/1AeSa_MA_Wirtschaftsmathematik.pdf>
 - [PDF vom 11.03.2015 i.d.F. 13.03.2017](fpo-ba-ma-wirtschaftsmathematik-maerz2017.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/FPO_BA_MA_Wirtschaftsmathematik_Maerz2017.pdf>
 - [PDF vom 11.03.2015](fpo-ba-ma-wirtschaftsmathematik.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/FPO_BA_MA_Wirtschaftsmathematik.pdf>

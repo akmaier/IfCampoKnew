@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Berufspädagogik und Zusatzstudien"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/
-scraped_at: 2026-07-01T08:33:21+00:00
+scraped_at: 2026-11-01T11:21:11+00:00
 ---
 
 # Berufspädagogik und Zusatzstudien
@@ -11,34 +11,61 @@ scraped_at: 2026-07-01T08:33:21+00:00
 
 ## Inhalt der Landing-Seite
 
-Wichtige Informationen zu Bachelor- und Masterstudiengänge Berufspädagogik:
+## Erklärung zu den veröffentlichten Dokumenten
 
-## Berufspädagogik Technik – Berufsschullehramt – BMPO/BP-T
+* **Was ist eine Änderungssatzung (ÄS)?**  
+  In einer Änderungssatzung werden nur die tatsächlichen Änderungen, wie neue oder abgeschaffte Abschnitte festgehalten. Die Änderungssatzung ist rechtsverbindlich.
+* **Was ist eine konsolidierte Fassung?**  
+  Eine konsolidierte Fassung ist die aktuelle Version einer Fachstudien- und Prüfungsordnung, in der alle bisherigen Änderungen eingearbeitet sind. So sieht man auf einen Blick, welche Regelungen aktuell gelten. Das Datum im Dateinamen zeigt, auf welchem Stand die Ordnung ist („idF“ = „in der Fassung“).
+* **Welche Version ist für mich relevant?**  
+  Welche Fachstudien- und Prüfungsordnung (FPO) für Sie gilt, hängt in der Regel vom Beginn Ihres Studiums ab. Das passende Datum finden Sie im Dateinamen nach „idF“ (JJJJMMTT).
 
-| konsolidierte Fassungen | Dateigröße |
+## Bachelor- und Masterstudiengänge Berufspädagogik
+
+### Berufspädagogik Technik – Berufsschullehramt – BMPO/BP-T
+
+Fachstudien- und Prüfungsordnungen (FPO) des Studiengangs Berufspädagogik Technik – Berufsschullehramt – BMPO/BP-T
+
+#### Konsolidierte Fassungen
+
+Konsolidierte Fassungen
+
+| Dateiname | Dateigröße |
 | --- | --- |
-| [BMPO BP-T 20240411 i.d.F. 20250325.pdf](https://www.doc.zuv.fau.de//L1/PO/Lehramt/Berufspaedagogik_Technik/konsolidierte_Fassungen/BMPO_BP-T_20240411_idF_20250325.pdf) | 712 KB |
-| [BMPO BP-T 20240411 i.d.F. 20240926.pdf](https://www.doc.zuv.fau.de//L1/PO/Lehramt/Berufspaedagogik_Technik/konsolidierte_Fassungen/BMPO_BP-T_20240411_idF_20240926.pdf) | 637 KB |
-| [BMPO BP-T 20240411.pdf](https://www.doc.zuv.fau.de//L1/PO/Lehramt/Berufspaedagogik_Technik/konsolidierte_Fassungen/BMPO_BP-T_20240411.pdf) | 627 KB |
-| [BMPO BP-T 20090219 i.d.F. 20230928.pdf](https://www.doc.zuv.fau.de//L1/PO/Lehramt/Berufspaedagogik_Technik/konsolidierte_Fassungen/BMPO_BP-T_20090219_idF_20230928.pdf) | 596 KB |
-| [BMPO BP-T 20090219 i.d.F. 20220323.pdf](https://www.doc.zuv.fau.de//L1/PO/Lehramt/Berufspaedagogik_Technik/konsolidierte_Fassungen/BMPO_BP-T_20090219_idF_20220323.pdf) | 1.06 MB |
-| [BMPO BP-T 20090219 i.d.F. 20211015.pdf](https://www.doc.zuv.fau.de//L1/PO/Lehramt/Berufspaedagogik_Technik/konsolidierte_Fassungen/BMPO_BP-T_20090219_idF_20211015.pdf) | 1.05 MB |
-| [BMPO BP-T 20090219 i.d.F. 20200325.pdf](https://www.doc.zuv.fau.de//L1/PO/Lehramt/Berufspaedagogik_Technik/konsolidierte_Fassungen/BMPO_BP-T_20090219_idF_20200325.pdf) | 589 KB |
-| [BMPO BP-T 20090219 i.d.F. 20180525.pdf](https://www.doc.zuv.fau.de//L1/PO/Lehramt/Berufspaedagogik_Technik/konsolidierte_Fassungen/BMPO_BP-T_20090219_idF_20180525.pdf) | 1.06 MB |
+| [BMPO\_BP-T\_20240411\_idF\_20260930.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FLehramt%2FBerufspaedagogik_Technik%2Fkonsolidierte_Fassungen%2FBMPO_BP-T_20240411_idF_20260930.pdf&sig=e46a2928e6f798420e7ffdf1fa0be854f401f9b143915a4703c5c2932f4323cc) | 647 KB |
+| [BMPO\_BP-T\_20240411\_idF\_20250325.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FLehramt%2FBerufspaedagogik_Technik%2Fkonsolidierte_Fassungen%2FBMPO_BP-T_20240411_idF_20250325.pdf&sig=064a4303ff522d03f30a93eef05a2af7d509067816cec247e1ade27b7bf8e1ee) | 712 KB |
+| [BMPO\_BP-T\_20240411\_idF\_20240926.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FLehramt%2FBerufspaedagogik_Technik%2Fkonsolidierte_Fassungen%2FBMPO_BP-T_20240411_idF_20240926.pdf&sig=0f1cb645095b05480bc9f5232c0c233cf40e3127645897eeca67565908155991) | 637 KB |
+| [BMPO\_BP-T\_20240411.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FLehramt%2FBerufspaedagogik_Technik%2Fkonsolidierte_Fassungen%2FBMPO_BP-T_20240411.pdf&sig=a2f7c096ce084388c0ff1ce8a78b45743abaacbf8862d70a59044dd2ab64f316) | 627 KB |
+| [BMPO\_BP-T\_20090219\_idF\_20230928.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FLehramt%2FBerufspaedagogik_Technik%2Fkonsolidierte_Fassungen%2FBMPO_BP-T_20090219_idF_20230928.pdf&sig=eae7581f7c2069eb7fcc40fab0ee99f68a1ca1f4317ecb89cd4d0a01746d50a1) | 596 KB |
+| [BMPO\_BP-T\_20090219\_idF\_20220323.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FLehramt%2FBerufspaedagogik_Technik%2Fkonsolidierte_Fassungen%2FBMPO_BP-T_20090219_idF_20220323.pdf&sig=dc702f1016746bfe324eb896503a995b9f26dfbb86d4bb89b6525f38485b7a02) | 1 MB |
+| [BMPO\_BP-T\_20090219\_idF\_20211015.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FLehramt%2FBerufspaedagogik_Technik%2Fkonsolidierte_Fassungen%2FBMPO_BP-T_20090219_idF_20211015.pdf&sig=c3c3eeb2b197a1b47ee2d2897eb5f660cd89f8a345b8054ba73502427250ee4f) | 1 MB |
+| [BMPO\_BP-T\_20090219\_idF\_20200325.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FLehramt%2FBerufspaedagogik_Technik%2Fkonsolidierte_Fassungen%2FBMPO_BP-T_20090219_idF_20200325.pdf&sig=3e83f7f2d1fdf31a04bb7fc125a51492418d0151b5652cefb523d94fb84d8f37) | 589 KB |
+| [BMPO\_BP-T\_20090219\_idF\_20180525.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FLehramt%2FBerufspaedagogik_Technik%2Fkonsolidierte_Fassungen%2FBMPO_BP-T_20090219_idF_20180525.pdf&sig=522b57c2cd0c20442524369244048a4a7c6e9584c2df141dbf1db732f916849b) | 1 MB |
 
-| Änderungssatzungen | Dateigröße |
-| --- | --- |
-| [BMPO BP-T 20230928 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Lehramt/Berufspaedagogik_Technik/Aenderungssatzungen/BMPO_BP-T_20230928_AeS.pdf) | 139 KB |
-| [BMPO BP-T 20220323 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Lehramt/Berufspaedagogik_Technik/Aenderungssatzungen/BMPO_BP-T_20220323_AeS.pdf) | 260 KB |
-| [BMPO BP-T 20211015 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Lehramt/Berufspaedagogik_Technik/Aenderungssatzungen/BMPO_BP-T_20211015_AeS.pdf) | 499 KB |
-| [BMPO BP-T 20200325 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Lehramt/Berufspaedagogik_Technik/Aenderungssatzungen/BMPO_BP-T_20200325_AeS.pdf) | 151 KB |
-| [BMPO BP-T 20180525 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Lehramt/Berufspaedagogik_Technik/Aenderungssatzungen/BMPO_BP-T_20180525_AeS.pdf) | 631 KB |
-| [BMPO BP-T 20250320 ÄSa.pdf](https://www.doc.zuv.fau.de//L1/PO/Lehramt/Berufspaedagogik_Technik/Aenderungssatzungen/BMPO BP-T_20250320_AeSa.pdf) | 392 KB |
+#### Änderungssatzungen
 
-| SammelÄS Wiederholungsprüfungen | Dateigröße |
+Änderungssatzungen
+
+| Dateiname | Dateigröße |
 | --- | --- |
-| [Satzung über die Reform der Durchführung von Wiederholungsprüfungen 20240926 en.pdf](https://www.doc.zuv.fau.de//L1/PO/Sammelaenderungen/SammelAeS_Wiederholungspruefungen/Satzung_ueber_die_Reform_der_Durchfuehrung_von_Wiederholungspruefungen_20240926_en.pdf) | 299 KB |
-| [Satzung über die Reform der Durchführung von Wiederholungsprüfungen 20240926.pdf](https://www.doc.zuv.fau.de//L1/PO/Sammelaenderungen/SammelAeS_Wiederholungspruefungen/Satzung_ueber_die_Reform_der_Durchfuehrung_von_Wiederholungspruefungen_20240926.pdf) | 311 KB |
+| [BMPO\_BP-T\_20260930\_AeS.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FLehramt%2FBerufspaedagogik_Technik%2FAenderungssatzungen%2FBMPO_BP-T_20260930_AeS.pdf&sig=7b8beff8d2293406e16dcee991da0d3113de66ec3c62bb4b6fc01d1ac8579c99) | 319 KB |
+| [BMPO\_BP-T\_20230928\_AeS.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FLehramt%2FBerufspaedagogik_Technik%2FAenderungssatzungen%2FBMPO_BP-T_20230928_AeS.pdf&sig=fbc521f4427b41d67e25b000984ac5ab7c5f47c9360b3cbd58e34dd840af4ab5) | 139 KB |
+| [BMPO\_BP-T\_20220323\_AeS.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FLehramt%2FBerufspaedagogik_Technik%2FAenderungssatzungen%2FBMPO_BP-T_20220323_AeS.pdf&sig=fe7aedada76db7e356cb47106f9de75024be650e32888786e33caed8aa0017be) | 260 KB |
+| [BMPO\_BP-T\_20211015\_AeS.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FLehramt%2FBerufspaedagogik_Technik%2FAenderungssatzungen%2FBMPO_BP-T_20211015_AeS.pdf&sig=afd0fb4b6276dc8ef3f315b331e0b3a8eb5b89126fd7ad8da4c1c489f3034f76) | 499 KB |
+| [BMPO\_BP-T\_20200325\_AeS.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FLehramt%2FBerufspaedagogik_Technik%2FAenderungssatzungen%2FBMPO_BP-T_20200325_AeS.pdf&sig=320dd2eb3fcaf4cdf9607406078a45b8e07c24991b341f07ea80ef46045873d4) | 151 KB |
+| [BMPO\_BP-T\_20180525\_AeS.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FLehramt%2FBerufspaedagogik_Technik%2FAenderungssatzungen%2FBMPO_BP-T_20180525_AeS.pdf&sig=f050a0e1221c70a60a8eb1bc5292262c4cbf0668a84cc874097e47fd4c64876a) | 631 KB |
+| [BMPO BP-T\_20250320\_AeSa.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FLehramt%2FBerufspaedagogik_Technik%2FAenderungssatzungen%2FBMPO%20BP-T_20250320_AeSa.pdf&sig=f7a929ae352846ab81b2ba5ceffa90ac585db1437d19844371bd5c8f2ef50fec) | 392 KB |
+
+#### Sammeländerungssatzung zu Wiederholungsprüfungen
+
+Sammeländerungssatzung zu Wiederholungsprüfungen
+
+| Dateiname | Dateigröße |
+| --- | --- |
+| [Satzung\_ueber\_die\_Reform\_der\_Durchfuehrung\_von\_Wiederholungspruefungen\_20240926\_en.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FSammelaenderungen%2FSammelAeS_Wiederholungspruefungen%2FSatzung_ueber_die_Reform_der_Durchfuehrung_von_Wiederholungspruefungen_20240926_en.pdf&sig=6846f1341b533bc561bc01148d31ad4ed35b1fe455a5bd0e7392aa71f6943233) | 299 KB |
+| [Satzung\_ueber\_die\_Reform\_der\_Durchfuehrung\_von\_Wiederholungspruefungen\_20240926.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FSammelaenderungen%2FSammelAeS_Wiederholungspruefungen%2FSatzung_ueber_die_Reform_der_Durchfuehrung_von_Wiederholungspruefungen_20240926.pdf&sig=b1a11adc5237bf1b0e7975466b6b97e950ebcd435ae2cc8661658b578e21c4b8) | 311 KB |
+
+#### Ursprungsfassung und ältere Versionen
 
 | **Änderungssatzung/Datum** | **Konsolidierte Fassung/Datum** |
 | --- | --- |
@@ -51,7 +78,9 @@ Wichtige Informationen zu Bachelor- und Masterstudiengänge Berufspädagogik:
 | [1. März 2011](https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/2AES%20BA-MA%20Berufspaedagogik%20LA%20berufl.%20Schulen.pdf) ab WiSe 2010/2011 | ([pdf vom 19.02.2009 i.d.F. 01.03.2011](https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/word/StO-PO-Berufspaedagogik-BP-T-1MAERZ2011.pdf)) |
 | [9. September 2010](https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/1AES%20BA-MA%20Berufspaedagogik%20LA%20berufl.%20Schulen.pdf) | ([pdf vom 19.02.2009 i.d.F. 09.09.2010](https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/word/StO-PO-Berufspaedagogik-BP-T-WS2010-2011.pdf)) |
 
-## Berufspädagogik Elektrotechnik und Informationstechnik- Berufsschullehramt – BMPO/EEI-B
+### Berufspädagogik Elektrotechnik und Informationstechnik- Berufsschullehramt – BMPO/EEI-B
+
+Fachstudien- und Prüfungsordnungen (FPO) des Studiengangs Berufspädagogik Elektrotechnik und Informationstechnik- Berufsschullehramt – BMPO/EEI-B
 
 | **Änderungssatzung/Datum** | | **Konsolidierte Fassung/Datum** |
 | --- | --- | --- |
@@ -61,47 +90,54 @@ Wichtige Informationen zu Bachelor- und Masterstudiengänge Berufspädagogik:
 
 ### Geowissenschaften (Zusatzstudien)
 
-| konsolidierte Fassungen | Dateigröße |
+Fachstudien- und Prüfungsordnungen (FPO) der Zusatzstudien Geowissenschaften
+
+#### Konsolidierte Fassungen
+
+Konsolidierte Fassungen
+
+| Dateiname | Dateigröße |
 | --- | --- |
-| [PO ZS Geow im LA 20250320 .pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Geowissenschaften_im_Lehramt/konsolidierte_Fassungen/PO_ZS_Geow_im_LA_20250320 .pdf) | 136 KB |
-| [PO ZS Geow im LA 20220811.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Geowissenschaften_im_Lehramt/konsolidierte_Fassungen/PO_ZS_Geow_im_LA_20220811.pdf) | 411 KB |
-| [PO ZS Geow im LA 20180319.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Geowissenschaften_im_Lehramt/konsolidierte_Fassungen/PO_ZS_Geow_im_LA_20180319.pdf) | 141 KB |
+| [PO\_ZS\_Geow\_im\_LA\_20250320 .pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FGeowissenschaften_im_Lehramt%2Fkonsolidierte_Fassungen%2FPO_ZS_Geow_im_LA_20250320%20.pdf&sig=3cb8314bb75e6e0f3b2828bbc4d2a2feffc564d9555d7ddeeec47200b083f5ee) | 136 KB |
+| [PO\_ZS\_Geow\_im\_LA\_20220811.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FGeowissenschaften_im_Lehramt%2Fkonsolidierte_Fassungen%2FPO_ZS_Geow_im_LA_20220811.pdf&sig=a484efd4adf62aff8eb2741154edc5bb9249dec62725c8561ec87eec41be9f43) | 411 KB |
+| [PO\_ZS\_Geow\_im\_LA\_20180319.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FNat%2FGeowissenschaften_im_Lehramt%2Fkonsolidierte_Fassungen%2FPO_ZS_Geow_im_LA_20180319.pdf&sig=c08c8f8b93c703b7497264c430b699b624188f14449909ca4e75f7217334fe5b) | 141 KB |
 
 ### Allgemeine und fachbezogene Bildung in der digitalen Welt (Zusatzstudien)
 
-| konsolidierte Fassungen | Dateigröße |
-| --- | --- |
-| [Zusatzstudien Bildung in der digitalen Welt PO ZS 20230323 idf 20240627.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zusatzstudien_Bildung_digitale_Welt/konsolidierte_Fassungen/Zusatzstudien_Bildung_in_der_digitalen_Welt_PO_ZS_20230323_idf_20240627.pdf) | 160 KB |
-| [Zusatzstudien Bildung in der digitalen Welt PO ZS 20230223.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zusatzstudien_Bildung_digitale_Welt/konsolidierte_Fassungen/Zusatzstudien_Bildung_in_der_digitalen_Welt_PO_ZS_20230223.pdf) | 413 KB |
+Fachstudien- und Prüfungsordnungen (FPO) der Zusatzstudien Allgemeine und fachbezogene Bildung in der digitalen Welt
 
-| Änderungssatzungen | Dateigröße |
+#### Konsolidierte Fassungen
+
+Konsolidierte Fassungen
+
+| Dateiname | Dateigröße |
 | --- | --- |
-| [Zusatzstudien Bildung in der digitalen Welt PO ZS ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zusatzstudien_Bildung_digitale_Welt/Aenderungssatzungen/Zusatzstudien_Bildung_in_der_digitalen_Welt_PO_ZS_AeS.pdf) | 125 KB |
+| [Zusatzstudien\_Bildung\_in\_der\_digitalen\_Welt\_PO\_ZS\_20230323\_idf\_20240627.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FBachelor%2FZusatzstudien_Bildung_digitale_Welt%2Fkonsolidierte_Fassungen%2FZusatzstudien_Bildung_in_der_digitalen_Welt_PO_ZS_20230323_idf_20240627.pdf&sig=540a6eef22824f6573e90070579363a2fe8b51e053a331d3467d9beaec7df8eb) | 160 KB |
+| [Zusatzstudien\_Bildung\_in\_der\_digitalen\_Welt\_PO\_ZS\_20230223.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FBachelor%2FZusatzstudien_Bildung_digitale_Welt%2Fkonsolidierte_Fassungen%2FZusatzstudien_Bildung_in_der_digitalen_Welt_PO_ZS_20230223.pdf&sig=c31ea97fc0f1c9cb9a14e3c62c68b51297a334fdd958f13b53bd442cb55a01a3) | 413 KB |
 
 ### Lehramt International (Zusatzstudien)
 
-| konsolidierte Fassungen | Dateigröße |
+Fachstudien- und Prüfungsordnungen (FPO) der Zusatzstudien Lehramt International
+
+#### Konsolidierte Fassungen
+
+Konsolidierte Fassungen
+
+| Dateiname | Dateigröße |
 | --- | --- |
-| [PO Zusatzstudien FAU Lehramt International PO ZS FAU Lehramt International 20230822.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zusatzstudien_Lehramt_International/konsolidierte_Fassungen/PO_Zusatzstudien_FAU_Lehramt_International_PO_ZS_FAU_Lehramt_International_20230822.pdf) | 154 KB |
+| [PO\_ZS\_FAU\_Lehramt\_International\_20230822\_idF\_20260731.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FBachelor%2FZusatzstudien_Lehramt_International%2Fkonsolidierte_Fassungen%2FPO_ZS_FAU_Lehramt_International_20230822_idF_20260731.pdf&sig=08d500e1be2eaf59df51f00fb78660f6872a30d79183797b316c93a0af194930) | 313 KB |
+| [PO\_ZS\_FAU\_Lehramt\_International\_20230822.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FBachelor%2FZusatzstudien_Lehramt_International%2Fkonsolidierte_Fassungen%2FPO_ZS_FAU_Lehramt_International_20230822.pdf&sig=51854aaaf92d29d689ebb4350fb43e62db964a7c2382ec4f598bb1e471ec0310) | 154 KB |
 
-## Prüfungsordnungen-Dokumente (40)
+#### Änderungssatzungen
 
-- [BMPO BP-T 20240411 i.d.F. 20250325.pdf](bmpo-bp-t-20240411-idf-20250325.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Lehramt/Berufspaedagogik_Technik/konsolidierte_Fassungen/BMPO_BP-T_20240411_idF_20250325.pdf>
-- [BMPO BP-T 20240411 i.d.F. 20240926.pdf](bmpo-bp-t-20240411-idf-20240926.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Lehramt/Berufspaedagogik_Technik/konsolidierte_Fassungen/BMPO_BP-T_20240411_idF_20240926.pdf>
-- [BMPO BP-T 20240411.pdf](bmpo-bp-t-20240411.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Lehramt/Berufspaedagogik_Technik/konsolidierte_Fassungen/BMPO_BP-T_20240411.pdf>
-- [BMPO BP-T 20090219 i.d.F. 20230928.pdf](bmpo-bp-t-20090219-idf-20230928.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Lehramt/Berufspaedagogik_Technik/konsolidierte_Fassungen/BMPO_BP-T_20090219_idF_20230928.pdf>
-- [BMPO BP-T 20090219 i.d.F. 20220323.pdf](bmpo-bp-t-20090219-idf-20220323.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Lehramt/Berufspaedagogik_Technik/konsolidierte_Fassungen/BMPO_BP-T_20090219_idF_20220323.pdf>
-- [BMPO BP-T 20090219 i.d.F. 20211015.pdf](bmpo-bp-t-20090219-idf-20211015.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Lehramt/Berufspaedagogik_Technik/konsolidierte_Fassungen/BMPO_BP-T_20090219_idF_20211015.pdf>
-- [BMPO BP-T 20090219 i.d.F. 20200325.pdf](bmpo-bp-t-20090219-idf-20200325.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Lehramt/Berufspaedagogik_Technik/konsolidierte_Fassungen/BMPO_BP-T_20090219_idF_20200325.pdf>
-- [BMPO BP-T 20090219 i.d.F. 20180525.pdf](bmpo-bp-t-20090219-idf-20180525.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Lehramt/Berufspaedagogik_Technik/konsolidierte_Fassungen/BMPO_BP-T_20090219_idF_20180525.pdf>
-- [BMPO BP-T 20230928 ÄS.pdf](bmpo-bp-t-20230928-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Lehramt/Berufspaedagogik_Technik/Aenderungssatzungen/BMPO_BP-T_20230928_AeS.pdf>
-- [BMPO BP-T 20220323 ÄS.pdf](bmpo-bp-t-20220323-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Lehramt/Berufspaedagogik_Technik/Aenderungssatzungen/BMPO_BP-T_20220323_AeS.pdf>
-- [BMPO BP-T 20211015 ÄS.pdf](bmpo-bp-t-20211015-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Lehramt/Berufspaedagogik_Technik/Aenderungssatzungen/BMPO_BP-T_20211015_AeS.pdf>
-- [BMPO BP-T 20200325 ÄS.pdf](bmpo-bp-t-20200325-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Lehramt/Berufspaedagogik_Technik/Aenderungssatzungen/BMPO_BP-T_20200325_AeS.pdf>
-- [BMPO BP-T 20180525 ÄS.pdf](bmpo-bp-t-20180525-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Lehramt/Berufspaedagogik_Technik/Aenderungssatzungen/BMPO_BP-T_20180525_AeS.pdf>
-- [BMPO BP-T 20250320 ÄSa.pdf](bmpo-bp-t-20250320-aesa.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Lehramt/Berufspaedagogik_Technik/Aenderungssatzungen/BMPO BP-T_20250320_AeSa.pdf>
-- [Satzung über die Reform der Durchführung von Wiederholungsprüfungen 20240926 en.pdf](satzung-ueber-die-reform-der-durchfuehrung-von-wiederholungspruefungen-20240926-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Sammelaenderungen/SammelAeS_Wiederholungspruefungen/Satzung_ueber_die_Reform_der_Durchfuehrung_von_Wiederholungspruefungen_20240926_en.pdf>
-- [Satzung über die Reform der Durchführung von Wiederholungsprüfungen 20240926.pdf](satzung-ueber-die-reform-der-durchfuehrung-von-wiederholungspruefungen-20240926.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Sammelaenderungen/SammelAeS_Wiederholungspruefungen/Satzung_ueber_die_Reform_der_Durchfuehrung_von_Wiederholungspruefungen_20240926.pdf>
+Änderungssatzungen
+
+| Dateiname | Dateigröße |
+| --- | --- |
+| [ZS\_Lehramt International\_AeSa\_20260731.pdf (öffnet in einem neuen Tab)](https://www.fau.de/wp-json/rrze-faubox/v1/download?file=%2Fwebdav%2FL1%2FPO%2FPhil%2FBachelor%2FZusatzstudien_Lehramt_International%2FAenderungssatzungen%2FZS_Lehramt%20International_AeSa_20260731.pdf&sig=a3334b41d725a4a08d99a7a8bf7be08be8d2786dba81a053e82004afdca35b28) | 275 KB |
+
+## Prüfungsordnungen-Dokumente (17)
+
 - [25. April 2016](8aes-ba-ma-berufspaedagogik-la-beruflschulen.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/8AES_BA_MA_Berufspaedagogik_LA_beruflSchulen.pdf>
 - [pdf vom 19.02.2009 i.d.F. 25.04.2016](sto-po-berufspaedagogik-bp-t-april2016.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/StO_PO_Berufspaedagogik_BP_T_April2016.pdf>
 - [1. Oktober 2015](7aes-ba-ma-berufspaedagogik-la-beruflschulen.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/7AES_BA_MA_Berufspaedagogik_LA_beruflSchulen.pdf>
@@ -119,10 +155,3 @@ Wichtige Informationen zu Bachelor- und Masterstudiengänge Berufspädagogik:
 - [9. September 2010](1aes-20ba-ma-20berufspaedagogik-20la-20berufl-20schulen.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/1AES%20BA-MA%20Berufspaedagogik%20LA%20berufl.%20Schulen.pdf>
 - [pdf vom 19.02.2009 i.d.F. 09.09.2010](sto-po-berufspaedagogik-bp-t-ws2010-2011.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/word/StO-PO-Berufspaedagogik-BP-T-WS2010-2011.pdf>
 - [pdf vom 19.02.2009](sto-po-berufspaedagogik-eei.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/word/StO-PO-Berufspaedagogik-EEI.pdf>
-- [PO ZS Geow im LA 20250320 .pdf](po-zs-geow-im-la-20250320.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Geowissenschaften_im_Lehramt/konsolidierte_Fassungen/PO_ZS_Geow_im_LA_20250320 .pdf>
-- [PO ZS Geow im LA 20220811.pdf](po-zs-geow-im-la-20220811.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Geowissenschaften_im_Lehramt/konsolidierte_Fassungen/PO_ZS_Geow_im_LA_20220811.pdf>
-- [PO ZS Geow im LA 20180319.pdf](po-zs-geow-im-la-20180319.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Geowissenschaften_im_Lehramt/konsolidierte_Fassungen/PO_ZS_Geow_im_LA_20180319.pdf>
-- [Zusatzstudien Bildung in der digitalen Welt PO ZS 20230323 idf 20240627.pdf](zusatzstudien-bildung-in-der-digitalen-welt-po-zs-20230323-idf-20240627.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zusatzstudien_Bildung_digitale_Welt/konsolidierte_Fassungen/Zusatzstudien_Bildung_in_der_digitalen_Welt_PO_ZS_20230323_idf_20240627.pdf>
-- [Zusatzstudien Bildung in der digitalen Welt PO ZS 20230223.pdf](zusatzstudien-bildung-in-der-digitalen-welt-po-zs-20230223.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zusatzstudien_Bildung_digitale_Welt/konsolidierte_Fassungen/Zusatzstudien_Bildung_in_der_digitalen_Welt_PO_ZS_20230223.pdf>
-- [Zusatzstudien Bildung in der digitalen Welt PO ZS ÄS.pdf](zusatzstudien-bildung-in-der-digitalen-welt-po-zs-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zusatzstudien_Bildung_digitale_Welt/Aenderungssatzungen/Zusatzstudien_Bildung_in_der_digitalen_Welt_PO_ZS_AeS.pdf>
-- [PO Zusatzstudien FAU Lehramt International PO ZS FAU Lehramt International 20230822.pdf](po-zusatzstudien-fau-lehramt-international-po-zs-fau-lehramt-international-20230822.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zusatzstudien_Lehramt_International/konsolidierte_Fassungen/PO_Zusatzstudien_FAU_Lehramt_International_PO_ZS_FAU_Lehramt_International_20230822.pdf>

@@ -5,11 +5,11 @@ abschluss: "Master of Health Business Administration"
 zugang: "Individuelles Bewerbungsverfahren"
 regelstudienzeit: "4 Semester"
 unterrichtssprache: "vollständig auf Deutsch"
-fakultät: "Medizinische Fakultät, Rechts- und Wirtschaftswissenschaftliche Fakultät"
+fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "> 600"
 besondere_studienformen: "Weiterbildungs-/berufsbegleitender Studiengang"
-scraped_at: 2026-07-01T08:22:49+00:00
+scraped_at: 2026-11-01T11:14:42+00:00
 ---
 
 # Health Business Administration (MHBA)
@@ -24,7 +24,7 @@ scraped_at: 2026-07-01T08:22:49+00:00
 | Zugang | Individuelles Bewerbungsverfahren |
 | Regelstudienzeit | 4 Semester |
 | Unterrichtssprache | vollständig auf Deutsch |
-| Fakultät | Medizinische Fakultät, Rechts- und Wirtschaftswissenschaftliche Fakultät |
+| Fakultät | Rechts- und Wirtschaftswissenschaftliche Fakultät |
 | Studienbeginn | Wintersemester |
 | Größe | > 600 |
 | Besondere Studienformen | Weiterbildungs-/berufsbegleitender Studiengang |
@@ -62,7 +62,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ### Sprachkenntnisse
 
-* Deutschkenntnisse für internationale Studierende: [Deutschkenntnisse erforderlich](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Voraussetzungen für Master
 
@@ -81,6 +81,8 @@ Die entsprechenden Dokumente finden Sie hier:
 * [MHBA SEFP Template (pdf)](https://www.mhba.de/fileadmin/mhba_material/formulare/Zulassung_Version_2020/MHBA_SEFP_Template_2020.pdf)
 
 ### Details und Anmerkungen
+
+Sie können sich ab dem 05.01. über das [Bewerbungsportal](https://bewerbung.mhba.de/) für den MHBA bewerben.
 
 Beim Studiengang Master of Health Business Administration handelt es sich um einen gebührenpflichtigen berufsbegleitenden Fernstudiengang. Die Teilnahmegebühren auf der Basis der Gebührenordnung der Universität Erlangen-Nürnberg sind nach Aufforderung durch das Referat [S-OUTREACH](https://www.fau.de/fau/leitung-und-gremien/geschaeftsverteilungsplan-der-verwaltung/pr-stab-s-praesidialstab/referat-s-outreach/) im Voraus an die Universität Erlangen-Nürnberg zu zahlen. Die Teilnehmer\*innen am Studiengang erhalten durch Immatrikulation den Studierendenstatus.
 
@@ -120,7 +122,7 @@ Weitere Informationen
 * [Webseite des Studiengangs](https://www.mhba.de/home/)
 * [Prüfungsamt Fachbereich Wirtschafts- und Sozialwissenschaften](https://www.fau.de/studium/studienorganisation/pruefungen/pruefungsamt-rw/wirtschafts-und-sozialwissenschaften/)
 * [Webseite des Departments/Instituts](https://www.wiso.rw.fau.de/)
-* [Medizinische Fakultät](https://med.fau.de), [Rechts- und Wirtschaftswissenschaftliche Fakultät](https://www.rw.fau.de/)
+* [Rechts- und Wirtschaftswissenschaftliche Fakultät](https://www.rw.fau.de/)
 * [Studierendenvertretung der FAU](https://stuve.fau.de/)
 
 ## Vorteile des Studiums an der FAU
@@ -130,14 +132,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 ## Externe Links
 
 - [Weiterführende Informationen erhalten Sie auch auf der Website des Studiengangs.](https://www.mhba.de/home/)
-- [Deutschkenntnisse erforderlich](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [Informationsblatt zur SEFP](https://www.mhba.de/fileadmin/mhba_material/formulare/Zulassung_Version_2020/MHBA_SEFP_Infoblatt_2020.pdf)
 - [MHBA SEFP Template (doc)](https://www.mhba.de/fileadmin/mhba_material/formulare/Zulassung_Version_2020/MHBA_SEFP_Template_2020.doc)
 - [MHBA SEFP Template (pdf)](https://www.mhba.de/fileadmin/mhba_material/formulare/Zulassung_Version_2020/MHBA_SEFP_Template_2020.pdf)
+- [Bewerbungsportal](https://bewerbung.mhba.de/)
 - [S-OUTREACH](https://www.fau.de/fau/leitung-und-gremien/geschaeftsverteilungsplan-der-verwaltung/pr-stab-s-praesidialstab/referat-s-outreach/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)
-- [Jetzt bewerben](https://bewerbung.mhba.de/)
 - [Zentrale Studienberatung Die Zentrale Studienberatung ist die erste Anlaufstelle zu allen Fragen rund ums Studium. Die Zentrale Studienberatung ist die erste Anlaufstelle zu allen Fragen rund ums Studium. Mehr über Zentrale Studienberatung  erfahren](https://zsb.fau.de)
 - [Fachstudienberatung Wirtschafts- und Sozialwissenschaften Fachbezogene Beratung für Fragen rund um das Fach und die Studienplanung. Fachbezogene Beratung für Fragen rund um das Fach und die Studienplanung. Mehr über Fachstudienberatung Wirtschafts- und Sozialwissenschaften erfahren](https://www.wiso.rw.fau.de/studium/studienorganisation/studierendenberatung/fachstudienberatung/)
 - [Infos zum Semesterstart](https://www.fau.de/studium/studienorganisation/studienstart/)
@@ -149,7 +150,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Prüfungsordnungen](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/#health-business-administration-mhba)
 - [Prüfungsamt Fachbereich Wirtschafts- und Sozialwissenschaften](https://www.fau.de/studium/studienorganisation/pruefungen/pruefungsamt-rw/wirtschafts-und-sozialwissenschaften/)
 - [Webseite des Departments/Instituts](https://www.wiso.rw.fau.de/)
-- [Medizinische Fakultät](https://med.fau.de)
 - [Rechts- und Wirtschaftswissenschaftliche Fakultät](https://www.rw.fau.de/)
 - [Studierendenvertretung der FAU](https://stuve.fau.de/)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/uploads/sites/4/2026/04/Health-Business-Administration-FAU_WISO_2025_FATHER-SUN_00345.jpg)

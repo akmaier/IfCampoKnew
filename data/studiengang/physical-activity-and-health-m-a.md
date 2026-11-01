@@ -9,7 +9,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "Internationales Studienangebot"
-scraped_at: 2026-07-01T08:26:58+00:00
+scraped_at: 2026-11-01T11:18:41+00:00
 ---
 
 # Physical Activity and Health (M.A.)
@@ -98,7 +98,6 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 * Englisch B2
   Deutsche Sprachkenntnisse sind für die Einschreibung nicht erforderlich, müssen aber innerhalb des ersten Jahres an der FAU auf einem Mindestniveau (A1) erworben werden. Grundlegende Deutschkenntnisse werden dringend empfohlen, insbesondere für den projektorientierten Unterricht im 2. Jahr. Das Sprachenzentrum der Universität bietet unter anderem kostenlose Deutschkurse für alle Sprachniveaus an.
-* Deutschkenntnisse für internationale Studierende: [keine DSH, aber Englisch Niveau B2 (CEFR)](https://www.fau.eu/studying/degree-programs/special-ways-to-study/international-degree-programs/orientation-guide-language-tests/)
 
 ### Voraussetzungen für Master
 
@@ -153,7 +152,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ## Externe Links
 
-- [keine DSH, aber Englisch Niveau B2 (CEFR)](https://www.fau.eu/studying/degree-programs/special-ways-to-study/international-degree-programs/orientation-guide-language-tests/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)
 - [Direkt zum Bewerbungsportal](https://www.campo.fau.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces?sessionlanguage=de&page=Bewerber/-innen)

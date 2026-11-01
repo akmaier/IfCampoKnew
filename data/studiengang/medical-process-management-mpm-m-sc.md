@@ -8,7 +8,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Medizinische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "50-150"
-scraped_at: 2026-07-01T08:25:35+00:00
+scraped_at: 2026-11-01T11:17:19+00:00
 ---
 
 # Medical Process Management (MPM) (M.Sc.)
@@ -162,7 +162,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 ### Sprachkenntnisse
 
 * Für den Studiengang sind die Sprachen Deutsch und Englisch erforderlich. Weitere Kriterien können den allgemeinen Zugangsvoraussetzungen entnommen werden.
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Voraussetzungen für Master
 
@@ -234,7 +234,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 ## Externe Links
 
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [Prüfungsordnung](https://www.fau.de/fau/rechtsgrundlagen/pruefungsordnungen/med/#medical-process-management)
 - [Bewerbungsportal der FAU](https://www.campo.fau.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces)
 - [Allgemeine Zulassungsvoraussetzungen](https://www.fau.de/fau/rechtsgrundlagen/pruefungsordnungen/medizinische-fakultaet/#medical-process-management)

@@ -7,7 +7,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Naturwissenschaftliche Fakultät, Philosophische Fakultät und Fachbereich Theologie, Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "> 600"
-scraped_at: 2026-07-01T08:24:51+00:00
+scraped_at: 2026-11-01T11:16:30+00:00
 ---
 
 # Lehramt an Realschulen (Lehramt)
@@ -118,7 +118,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ### Sprachkenntnisse
 
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Details und Anmerkungen
 
@@ -172,7 +172,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Fächerkombinationsmöglichkeiten im Lehramtsstudium Realschule](https://www.fau.de/education/studienangebot/lehramtsstudium/lehramt-an-realschulen/#collapse_0)
 - [Video des Kultusministeriums](https://www.lehrer-werden.bayern/lehrer-sein-ein-beruf-fuer-mich/schularten-im-ueberblick#realschule)
 - [https://www.zukunftprägen.bayern](https://www.xn--zukunftprgen-ocb.bayern/)
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [weitere Zugangsmöglichkeiten](https://www.fau.de/education/bewerbung/zugang-zum-studium/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)

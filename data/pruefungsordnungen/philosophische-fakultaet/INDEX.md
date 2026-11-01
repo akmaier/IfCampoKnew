@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Philosophische Fakultät und Fachbereich Theologie"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/
-scraped_at: 2026-07-01T09:28:21+00:00
+scraped_at: 2026-11-01T11:31:23+00:00
 ---
 
 # Philosophische Fakultät und Fachbereich Theologie
@@ -166,7 +166,7 @@ Die folgenden Webseiten der Prüfungsordnungen haben sehr lange Ladezeiten!
 * [Sinologie mit fachspezifischer Ausrichtung](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/#sinologie)
 * [Soziologie](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/#soziologie)
 * [Schriftmedienkultur und digitale Transformation (ehemals Buchwissenschaft)](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/#schriftmedienkultur-digitale-transformation)
-* [Theater – Forschung – Vermittlung](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-ghttps://www.fau.de/fau/rechtsgrundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/#theater-medien-vermittlung)
+* [Theater – Forschung – Vermittlung](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/#theater-medien-vermittlung)
 * [Theater- und Medienwissenschaft](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/#theater-medienwissenschaft)
 * [Theaterpädagogik](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/#theaterpaedagogik)
 

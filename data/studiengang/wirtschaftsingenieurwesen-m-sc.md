@@ -5,11 +5,11 @@ abschluss: "Master of Science"
 zugang: "Qualifikationsfeststellungsverfahren"
 regelstudienzeit: "4 (Vollzeit) oder 8 (Teilzeit) Semester"
 unterrichtssprache: "vollständig auf Deutsch"
-fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät, Technische Fakultät"
+fakultät: "Technische Fakultät"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "250-600"
 besondere_studienformen: "Teilzeitstudium möglich"
-scraped_at: 2026-07-01T08:28:37+00:00
+scraped_at: 2026-11-01T11:20:00+00:00
 ---
 
 # Wirtschaftsingenieurwesen (M.Sc.)
@@ -24,7 +24,7 @@ scraped_at: 2026-07-01T08:28:37+00:00
 | Zugang | Qualifikationsfeststellungsverfahren |
 | Regelstudienzeit | 4 (Vollzeit) oder 8 (Teilzeit) Semester |
 | Unterrichtssprache | vollständig auf Deutsch |
-| Fakultät | Rechts- und Wirtschaftswissenschaftliche Fakultät, Technische Fakultät |
+| Fakultät | Technische Fakultät |
 | Studienbeginn | Sommersemester, Wintersemester |
 | Größe | 250-600 |
 | Besondere Studienformen | Teilzeitstudium möglich |
@@ -67,7 +67,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ### Sprachkenntnisse
 
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Voraussetzungen für Master
 
@@ -120,7 +120,7 @@ Weitere Informationen
 * [Webseite des Studiengangs](https://www.wing.studium.fau.de/)
 * [Prüfungsamt Technische Fakultät](https://www.fau.de/studium/studienorganisation/pruefungen/pruefungsamt-tech/)
 * [Webseite des Departments/Instituts](https://www.wing.studium.fau.de/departments/)
-* [Rechts- und Wirtschaftswissenschaftliche Fakultät](https://www.rw.fau.de/), [Technische Fakultät](https://tf.fau.de)
+* [Technische Fakultät](https://tf.fau.de)
 * [Studierendenvertretung der FAU](https://stuve.fau.de/)
 
 ## Vorteile des Studiums an der FAU
@@ -130,7 +130,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 ## Externe Links
 
 - [department.mb.tf.fau.de/infocenter/veranstaltungen/](https://www.department.mb.tf.fau.de/infocenter/veranstaltungen/)
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)
 - [Direkt zum Bewerbungsportal](https://www.campo.fau.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces?sessionlanguage=de&page=Bewerber/-innen)
@@ -146,7 +145,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Webseite des Studiengangs](https://www.wing.studium.fau.de/)
 - [Prüfungsamt Technische Fakultät](https://www.fau.de/studium/studienorganisation/pruefungen/pruefungsamt-tech/)
 - [Webseite des Departments/Instituts](https://www.wing.studium.fau.de/departments/)
-- [Rechts- und Wirtschaftswissenschaftliche Fakultät](https://www.rw.fau.de/)
 - [Technische Fakultät](https://tf.fau.de)
 - [Studierendenvertretung der FAU](https://stuve.fau.de/)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/uploads/sites/4/2026/04/Wirtschaftsingenieurwesen-MSc-FAU_WISO_2025_FATHER-SUN_00175.jpg)

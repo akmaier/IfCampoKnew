@@ -9,7 +9,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "1-50"
 besondere_studienformen: "Teilzeitstudium möglich"
-scraped_at: 2026-07-01T08:22:21+00:00
+scraped_at: 2026-11-01T11:14:21+00:00
 ---
 
 # Germanistik (M.A.)
@@ -35,7 +35,7 @@ Der Master-Studiengang Germanistik baut auf den Grundlagen des B.A.-Studiums auf
 
 ### Aufbau und Struktur
 
-Der Studiengang Master Germanistik an der FAU lässt sich in Vollzeit oder in Teilzeit absolvieren. Näheres zur Belegung der Module regelt die [Fachstudien- und Prüfungsordnung](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Germanistik/konsolidierte_Fassungen/MA_Germanistik_20250930.pdf). Eine detaillierte Übersicht über den Aufbau des Studiums finden Sie auf der [Website des Studiengangs](https://www.germanistik.phil.fau.de/studium/studiengangsangebot/masterstudiengaenge/master-germanistik/#collapse_1).
+Der Studiengang Master Germanistik an der FAU lässt sich in Vollzeit oder in Teilzeit absolvieren. Näheres zur Belegung der Module regelt die [Fachstudien- und Prüfungsordnung](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Germanistik/konsolidierte_Fassungen/MA_Germanistik_20250930.pdf). Eine detaillierte Übersicht über den Aufbau des Studiums finden Sie auf der [Website des Studiengangs](https://www.germanistik.phil.fau.de/studium/studiengangsangebot/masterstudiengaenge/master-germanistik/#inhalt-und-aufbau).
 
 Grundsätzlich besteht ein hoher Grad an Wahlfreiheit, der es erlaubt, das Lehrangebot (primär Masterseminare und Übungen) in seiner kompletten Breite zu nutzen. Die Spezialisierung auf eines der germanistischen Teilfächer (Sprachwissenschaft, Mediävistik und Neuere deutsche Literaturwissenschaft) ist ab dem ersten Semester möglich; ebenso ist ein Studium des gesamten germanistischen Fachspektrums erlaubt. 20 ECTS können statt als Seminarveranstaltungen in Form von Lektüremodulen (Eigenstudium) absolviert werden. Im Umfang von 10–30 ECTS dürfen Module nach freier Wahl aus dem Fachspektrum der Philosophischen Fakultät belegt werden (Extradisziplinäre Module). Das erlaubt eine zusätzliche fachliche Profilbildung und erleichtert ein Doppelstudium.
 
@@ -81,7 +81,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 ### Sprachkenntnisse
 
 * Bewerberinnen und Bewerber, die keinen deutschen Studienabschluss oder die deutsche Hochschulreife vorlegen können, benötigen bereits zum Zeitpunkt der Bewerbung zusätzlich den Nachweis deutscher Sprachkenntnisse auf dem Niveau C2 des Gemeinsamen Europäischen Referenzrahmens (GER) für Sprachen (insbesondere Goethe-Zertifikat C2:GDS oder telc Deutsch C2) oder einen vergleichbaren Nachweis (DSH-3 oder TestDaF 5).
-* Deutschkenntnisse für internationale Studierende: [DSH 3](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ### Voraussetzungen für Master
 
@@ -134,8 +134,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 ## Externe Links
 
 - [Fachstudien- und Prüfungsordnung](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Germanistik/konsolidierte_Fassungen/MA_Germanistik_20250930.pdf)
-- [Website des Studiengangs](https://www.germanistik.phil.fau.de/studium/studiengangsangebot/masterstudiengaenge/master-germanistik/#collapse_1)
-- [DSH 3](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+- [Website des Studiengangs](https://www.germanistik.phil.fau.de/studium/studiengangsangebot/masterstudiengaenge/master-germanistik/#inhalt-und-aufbau)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)
 - [Direkt zum Bewerbungsportal](https://www.campo.fau.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces?sessionlanguage=de&page=Bewerber/-innen)
