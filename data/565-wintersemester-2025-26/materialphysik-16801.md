@@ -39,7 +39,9 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16801|exam:13535200|exam:13535201|exam:13535202|exam:13535203|exam:13535204>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84669&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -54,7 +56,9 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16801|exam:13535200|exam:13535246|exam:13535248|exam:13536865|exam:13536866>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84669&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -103,7 +107,9 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16801|exam:13535200|exam:13535246|exam:13535248|exam:13536751|exam:13536773|exam:13536774>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85468&periodId=565>
 
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -273,6 +279,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16801|exam:13535200|exam:13535201|exam:13535236|exam:13535237>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=22677&periodId=565>
 
+- **ECTS-Punkte:** 7.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -287,6 +294,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16801|exam:13535200|exam:13535246|exam:13535248|exam:13535249|exam:13535284|exam:13535285>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=22677&periodId=565>
 
+- **ECTS-Punkte:** 7.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -364,6 +372,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16801|exam:13535200|exam:13535201|exam:13535202|exam:13535208|exam:13535211>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=25456&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -384,6 +393,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16801|exam:13535200|exam:13535201|exam:13535218|exam:13535220>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=21231&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -398,6 +408,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16801|exam:13535200|exam:13535246|exam:13535248|exam:13535249|exam:13535266|exam:13535268>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=21231&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -748,6 +759,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16801|exam:13535200|exam:13535246|exam:13535248|exam:13536751|exam:13536752|exam:13536755>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44029&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -774,9 +786,14 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16801|exam:13535200|exam:13535246|exam:13535248|exam:13536855|exam:13536857>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95563&periodId=565>
 
-- **Veranstaltungsart:** Hauptseminar
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 15:00–17:00 | 14.10.2025–03.02.2026 | 14201.00.001 (0.01-142 CIP CIP-Pool Informatik (HuberCIP)) |
+| Einzeltermin | Di | 15:00–17:00 | 27.01.2026 | — |
 
 ### CPNM-U - Übungen zur Computerphysik und numerischen Methoden - Übung
 
@@ -861,7 +878,16 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 7.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:00–12:00 | 14.10.2025–03.02.2026 | 13003.00.827 (HG Hörsaal Physikum) |
+| wöchentlich | Mi | 16:00–18:00 | 15.10.2025–04.02.2026 | 13003.00.827 (HG Hörsaal Physikum) |
+| wöchentlich | Fr | 10:00–12:00 | 17.10.2025–06.02.2026 | 13003.00.827 (HG Hörsaal Physikum) |
 
 ### EP-1, EPL-1 - Experimentalphysik 1 für Physikstudierende: Mechanik - Vorlesung
 
@@ -871,7 +897,16 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 7.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:00–12:00 | 14.10.2025–03.02.2026 | 13003.00.827 (HG Hörsaal Physikum) |
+| wöchentlich | Mi | 16:00–18:00 | 15.10.2025–04.02.2026 | 13003.00.827 (HG Hörsaal Physikum) |
+| wöchentlich | Fr | 10:00–12:00 | 17.10.2025–06.02.2026 | 13003.00.827 (HG Hörsaal Physikum) |
 
 ### EP-1U, EPL-1U - Übungen zur Experimentalphysik 1 für Physikstudierende: Mechanik - Übung
 
@@ -887,13 +922,10 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 12:00–14:00 | 14.10.2025–03.02.2026 | 13101.01.779 (SR 01.779 Seminarraum des Instituts für Optik, Information und Photonik) |
-| wöchentlich | Di | 12:00–14:00 | 14.10.2025–03.02.2026 | 13101.00.103 (SR 00.103 Seminarraum der Angewandten Physik) |
-| wöchentlich | Di | 12:00–14:00 | 14.10.2025–03.02.2026 | 10402.02.127 (SRTL (307) Seminarraum Tandemlabor (307)) |
-| wöchentlich | Di | 12:00–14:00 | 14.10.2025–03.02.2026 | 13101.02.779 (SR 02.779 Seminarraum der Theoretischen Physik II) |
-| wöchentlich | Di | 12:00–14:00 | 14.10.2025–03.02.2026 | 13101.02.729 (SR 02.729 Seminarraum der Theoretischen Physik III) |
-| wöchentlich | Di | 12:00–14:00 | 14.10.2025–03.02.2026 | 13101.01.332 (SR 01.332 Seminarraum Festkörperphysik) |
-| wöchentlich | Di | 12:00–14:00 | 14.10.2025–03.02.2026 | 13101.00.732 (SR 00.732 Seminarraum der Didaktik der Physik) |
+| wöchentlich | Di | 14:00–16:00 | 14.10.2025–03.02.2026 | 13101.00.103 (SR 00.103 Seminarraum der Angewandten Physik) |
+| wöchentlich | Di | 14:00–16:00 | 14.10.2025–03.02.2026 | 10402.01.121 (TL 1.140 Seminarraum im Tandemlabor (1.140)) |
+| wöchentlich | Di | 14:00–16:00 | 14.10.2025–03.02.2026 | 13101.01.332 (SR 01.332 Seminarraum Festkörperphysik) |
+| wöchentlich | Di | 14:00–16:00 | 14.10.2025–03.02.2026 | 13101.00.732 (SR 00.732 Seminarraum der Didaktik der Physik) |
 
 ### EP-1U, EPL-1U - Übungen zur Experimentalphysik 1 für Physikstudierende: Mechanik - Übung
 
@@ -909,13 +941,10 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 12:00–14:00 | 14.10.2025–03.02.2026 | 13101.01.779 (SR 01.779 Seminarraum des Instituts für Optik, Information und Photonik) |
-| wöchentlich | Di | 12:00–14:00 | 14.10.2025–03.02.2026 | 13101.00.103 (SR 00.103 Seminarraum der Angewandten Physik) |
-| wöchentlich | Di | 12:00–14:00 | 14.10.2025–03.02.2026 | 10402.02.127 (SRTL (307) Seminarraum Tandemlabor (307)) |
-| wöchentlich | Di | 12:00–14:00 | 14.10.2025–03.02.2026 | 13101.02.779 (SR 02.779 Seminarraum der Theoretischen Physik II) |
-| wöchentlich | Di | 12:00–14:00 | 14.10.2025–03.02.2026 | 13101.02.729 (SR 02.729 Seminarraum der Theoretischen Physik III) |
-| wöchentlich | Di | 12:00–14:00 | 14.10.2025–03.02.2026 | 13101.01.332 (SR 01.332 Seminarraum Festkörperphysik) |
-| wöchentlich | Di | 12:00–14:00 | 14.10.2025–03.02.2026 | 13101.00.732 (SR 00.732 Seminarraum der Didaktik der Physik) |
+| wöchentlich | Di | 14:00–16:00 | 14.10.2025–03.02.2026 | 13101.00.103 (SR 00.103 Seminarraum der Angewandten Physik) |
+| wöchentlich | Di | 14:00–16:00 | 14.10.2025–03.02.2026 | 10402.01.121 (TL 1.140 Seminarraum im Tandemlabor (1.140)) |
+| wöchentlich | Di | 14:00–16:00 | 14.10.2025–03.02.2026 | 13101.01.332 (SR 01.332 Seminarraum Festkörperphysik) |
+| wöchentlich | Di | 14:00–16:00 | 14.10.2025–03.02.2026 | 13101.00.732 (SR 00.732 Seminarraum der Didaktik der Physik) |
 
 ### IngMathC1U - Übungen zur Mathematik für Ingenieure C1: INF, ILS - Übung
 
@@ -955,7 +984,10 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16801|exam:13535200|exam:13535201|exam:13535231|exam:13535233>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83287&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 7.5
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -970,7 +1002,10 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16801|exam:13535200|exam:13535246|exam:13535248|exam:13535249|exam:13535279|exam:13535281>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83287&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 7.5
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -1007,7 +1042,10 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16801|exam:13535200|exam:13535246|exam:13535248|exam:13536744|exam:13536746>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84711&periodId=565>
 
+- **Veranstaltungsart:** Praktikum
+- **ECTS-Punkte:** 10.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -1031,7 +1069,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 12:30–13:30 | 09.12.2025–03.02.2026 | 13003.00.874 (HD Hörsaal Physikum) |
+| wöchentlich | Di | 12:30–13:30 | 21.10.2025–03.02.2026 | 13003.00.847 (HE Hörsaal Physikum) |
 
 ### PE-B - Physikalisches Experimentieren B für Physikstudierende: Aufbaupraktikum - Praktikum
 
@@ -1041,7 +1079,14 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:15–18:00 | 15.10.2025–04.02.2026 | — |
 
 ### PE-B - Physikalisches Experimentieren B für Physikstudierende: Projektpraktikum - Praktikum
 
@@ -1051,7 +1096,15 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mi | 15:00–17:00 | 15.10.2025 | 13003.00.836 (HF Hörsaal Physikum) |
+| Einzeltermin | Do | 16:00–18:00 | 05.02.2026 | 13003.00.836 (HF Hörsaal Physikum) |
 
 ### PW - Nanophysics using Scaning Probe Microscopy - Hauptseminar
 
@@ -1098,7 +1151,10 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16801|exam:13535200|exam:13535246|exam:13535248|exam:13536751|exam:13536752|exam:13536754>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83200&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch oder Englisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -1113,7 +1169,14 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83507&periodId=565>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 13:00–15:00 | 14.10.2025–03.02.2026 | 13501.00.020 (SR Staudtstr. 3 Lehrstuhl für Kristallographie) |
 
 ### RMP-1, RMPL-1 - Rechenmethoden der Physik 1 - Vorlesung
 
@@ -1245,8 +1308,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.10.2025–03.02.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.10.2025–05.02.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 14:00–16:00 | 13.10.2025–02.02.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.10.2025–04.02.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 

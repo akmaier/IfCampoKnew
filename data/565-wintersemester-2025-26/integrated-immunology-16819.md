@@ -33,7 +33,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 | Zugang | Qualifikationsfeststellungsverfahren |
 | Regelstudienzeit | 4 Semester |
 | Unterrichtssprache | vollständig auf Englisch |
-| Fakultät | Medizinische Fakultät, Naturwissenschaftliche Fakultät |
+| Fakultät | Naturwissenschaftliche Fakultät |
 | Studienbeginn | Wintersemester |
 | Größe | 1-50 |
 | Besondere Studienformen | Elitestudiengang/-programm, Internationales Studienangebot |
@@ -90,13 +90,13 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 * Erforderlich sind Englischkenntnisse auf dem Niveau „Vantage or upper intermediate“ (B2) nach dem Gemeinsamen Europäischen Referenzrahmen für Sprachen oder ein gleichwertiges Ergebnis in einem international anerkannten Test, z.B. IELTS 5.5, TOEFL pbt 552. Sechs Jahre Englischunterricht an einem deutschen Gymnasium genügen ebenfalls als Nachweis; Bewerber, deren Muttersprache Englisch ist, müssen keinen solchen Nachweis erbringen.
   Der Nachweis von Deutschkenntnissen ist nicht erforderlich. Nicht-deutschsprachigen Studierenden wird jedoch dringend empfohlen, während des MSc-Studiums Deutschkurse zu besuchen.
-* Deutschkenntnisse für internationale Studierende: [keine DSH, aber Englisch Niveau B2 (CEFR)](https://www.fau.eu/studying/degree-programs/special-ways-to-study/international-degree-programs/orientation-guide-language-tests/)
+* Deutschkenntnisse für internationale Studierende: [keine Deutschkenntnisse erforderlich](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/#deutschkenntnisse-fuer-masterstudiengaenge)
 
 ##### Voraussetzungen für Master
 
 Einschlägiger Bachelor-Abschluss mit der Note 2,5 oder besser (oder gleichwertige internationale Note) in Biologie, Biochemie, Biowissenschaften oder einem ähnlichen Bachelor-Abschluss.
 
-Bei Vorliegen eines Bachelorabschlusses aus Ländern, die nicht Unterzeichnerstaaten des Lissaboner-Übereinkommens angehören, ist ein gültiges Graduate Record Examination (GRE)-Zertifikat, aus Indien ein Graduate Aptitude Test in Engineering-Zertifikat (Biomedizintechnik, Biowissenschaften oder Biotechnologie) (GATE-Zerti-fikat) und aus Pakistan ein GAT-Zertifikat erforderlich. Die Mindestpunktzahlen für GRE, GATE und GAT sind auf folgender Seite einsehbar: <https://www.iim-mune.nat.fau.de/application/>
+Bewerbende mit Staatsangehörigkeit eines Landes, das kein Unterzeichnerstaat des [Lissabonner Übereinkommens](https://www.coe.int/de/web/conventions/full-list?module=signatures-by-treaty&treatynum=165) ist, müssen ein gültiges Prüfungszertifikat für den Graduate Record Examination (GRE – General), den Graduate Aptitude Test in Engineering (Biomedizintechnik, Biowissenschaften oder Biotechnologie – Indien) oder den GAT in Biological & Medical Sciences (Pakistan) vorlegen. Die Mindestpunktzahlen für GRE, GATE und GAT sind auf folgender Seite einsehbar: <https://www.iim-mune.nat.fau.de/application/>
 
 Zulassungstest: Die Bewerber werden zu einer mündlichen Prüfung eingeladen, um die Eignung des Bewerbers für den MSc Integrated Immunology zu testen. Die Dauer der Prüfung beträgt 20 Minuten. Die Themen dieser Prüfung sind Grundkenntnisse in Molekularbiologie, Zellbiologie und Genetik. Darüber hinaus werden Kenntnisse in einem spezifischen Thema der Immunologie, Virologie oder Mikrobiologie (nach Wahl des Bewerbers) geprüft. Die Prüfung wird von der Zulassungskommission des MSc-Programms durchgeführt. Der Prüfungstermin wird mindestens eine Woche im Voraus bekannt gegeben. Die Bewerber haben die anfallenden Kosten selbst zu tragen.
 
@@ -132,14 +132,14 @@ Organisatorisches
 Downloads
 
 * [Modulhandbuch](https://www.iimmune.nat.fau.de/education-training/curriculum/)
-* [Prüfungsordnungen](https://www.doc.zuv.fau.de//L1/PO/Nat/Integrated_Immunology/konsolidierte_Fassungen/PO_Elite-MSc_Integrated_Immunology_FPO_ilmmune_20180319_idF_20240926.pdf)
+* [Prüfungsordnungen](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/#integrated-immunology-iimmune)
 
 Weitere Informationen
 
 * [Webseite des Studiengangs](https://www.iimmune.nat.fau.de)
 * [Prüfungsamt Naturwissenschaftliche Fakultät](https://www.fau.de/studium/studienorganisation/pruefungen/pruefungsamt-nat/)
 * [Webseite des Departments/Instituts](https://www.biologie.nat.fau.de/)
-* [Medizinische Fakultät](https://med.fau.de), [Naturwissenschaftliche Fakultät](https://www.nat.fau.de/)
+* [Naturwissenschaftliche Fakultät](https://www.nat.fau.de/)
 * [Studierendenvertretung der FAU](https://stuve.fau.de/)
 
 #### Vorteile des Studiums an der FAU
@@ -148,23 +148,23 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 #### Externe Links
 
-- [keine DSH, aber Englisch Niveau B2 (CEFR)](https://www.fau.eu/studying/degree-programs/special-ways-to-study/international-degree-programs/orientation-guide-language-tests/)
+- [keine Deutschkenntnisse erforderlich](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/#deutschkenntnisse-fuer-masterstudiengaenge)
+- [Lissabonner Übereinkommens](https://www.coe.int/de/web/conventions/full-list?module=signatures-by-treaty&treatynum=165)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)
 - [Direkt zum Bewerbungsportal](https://www.campo.fau.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces?sessionlanguage=de&page=Bewerber/-innen)
 - [Zentrale Studienberatung Die Zentrale Studienberatung ist die erste Anlaufstelle zu allen Fragen rund ums Studium. Die Zentrale Studienberatung ist die erste Anlaufstelle zu allen Fragen rund ums Studium. Mehr über Zentrale Studienberatung  erfahren](https://zsb.fau.de)
-- [Studien-Service-Center Naturwissenschaftliche Fakultät Fachbezogene Beratung für Fragen rund um das Fach und die Studienplanung. Fachbezogene Beratung für Fragen rund um das Fach und die Studienplanung. Mehr über Studien-Service-Center Naturwissenschaftliche Fakultät erfahren](https://www.nat.fau.de/studium/beratung/ssc/)
+- [Studien-Service-Center Naturwissenschaftliche Fakultät Fachbezogene Beratung für Fragen rund um das Fach und die Studienplanung. Fachbezogene Beratung für Fragen rund um das Fach und die Studienplanung. Mehr über Studien-Service-Center Naturwissenschaftliche Fakultät erfahren](https://www.nat.fau.de/studium/beratung/)
 - [Infos zum Semesterstart](https://www.fau.de/studium/studienorganisation/studienstart/)
 - [Semestertermine](https://www.fau.de/studium/studienorganisation/semestertermine/)
 - [Semesterbeitrag](https://www.fau.de/studium/studienorganisation/studierendenangelegenheiten/rueckmeldung-und-semesterbeitrag/)
 - [Beratungs- und Servicestellen](https://www.fau.de/studium/studienorganisation/studienberatung/beratungsangebote-im-ueberblick/)
 - [Wege ins Ausland](https://www.fau.de/studium/studienorganisation/wege-ins-ausland/)
 - [Modulhandbuch](https://www.iimmune.nat.fau.de/education-training/curriculum/)
-- [Prüfungsordnungen](https://www.doc.zuv.fau.de//L1/PO/Nat/Integrated_Immunology/konsolidierte_Fassungen/PO_Elite-MSc_Integrated_Immunology_FPO_ilmmune_20180319_idF_20240926.pdf)
+- [Prüfungsordnungen](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/#integrated-immunology-iimmune)
 - [Webseite des Studiengangs](https://www.iimmune.nat.fau.de)
 - [Prüfungsamt Naturwissenschaftliche Fakultät](https://www.fau.de/studium/studienorganisation/pruefungen/pruefungsamt-nat/)
 - [Webseite des Departments/Instituts](https://www.biologie.nat.fau.de/)
-- [Medizinische Fakultät](https://med.fau.de)
 - [Naturwissenschaftliche Fakultät](https://www.nat.fau.de/)
 - [Studierendenvertretung der FAU](https://stuve.fau.de/)
 - [Nestor - stock.adobe.com](https://www.fau.de/wp-content/uploads/sites/4/2026/03/Integrated-Immunology-MSc-AdobeStock.jpeg)
@@ -190,7 +190,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 08:15–09:00 | 13.10.2025–02.02.2026 | 13201.02.184 (SR BTE Seminarraum im BTE-Gebäude) |
+| wöchentlich | Do | 08:15–09:00 | 16.10.2025–05.02.2026 | 13201.02.184 (SR BTE Seminarraum im BTE-Gebäude) |
+| wöchentlich | Fr | 08:15–09:00 | 17.10.2025–06.02.2026 | 13201.02.184 (SR BTE Seminarraum im BTE-Gebäude) |
 
 ### MED 42651 - Microbiomics - Seminar
 
@@ -334,7 +343,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16819|exam:13465638|exam:13465639|exam:13465640|exam:13467088|exam:13467089>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49987&periodId=565>
 
-- **ECTS-Punkte:** 10.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -349,7 +357,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16819|exam:13468538|exam:13468539|exam:13468540|exam:13469982|exam:13469983>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49987&periodId=565>
 
-- **ECTS-Punkte:** 10.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -394,6 +401,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16819|exam:13465638|exam:13465639|exam:13465640|exam:13467090|exam:13467093>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49989&periodId=565>
 
+- **ECTS-Punkte:** 2.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -408,6 +416,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16819|exam:13468538|exam:13468539|exam:13468540|exam:13469991|exam:13469993>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49989&periodId=565>
 
+- **ECTS-Punkte:** 2.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -531,10 +540,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16819|exam:13468538|exam:13468539|exam:13468540|exam:13469987|exam:13469990>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91450&periodId=565>
 
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -542,7 +548,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Do | 12:00–13:30 | 16.10.2025–15.01.2026 | 13201.02.184 (SR BTE Seminarraum im BTE-Gebäude) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (13)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (14)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -580,6 +586,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
+### Infectious Disease Immunology Laboratory Course (with seminars) — Praktikum
+
+- **Segment:** `unit:139153` · **unitId:** `139153`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139153&periodId=565>
+
+- **Veranstaltungsart:** Praktikum
+
 ### Klausur zum Nachweis Gesicherter Lateinkenntnisse
 
 - **Segment:** `unit:39849` · **unitId:** `39849`
@@ -607,8 +620,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.10.2025–03.02.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.10.2025–05.02.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 14:00–16:00 | 13.10.2025–02.02.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.10.2025–04.02.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -641,6 +654,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Blockveranstaltung | — | 09:00–14:15 | 18.02.2026–10.03.2026 | 05901.02.058 ( 2.058 R 2.058) |
 
+### Lectures in Infectious Disease Immunology — Vorlesung
+
+- **Segment:** `unit:139147` · **unitId:** `139147`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139147&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+
 ### Schriftliche Übersetzungsleistung Latein I für Anfänger (Zulassungsvoraussetzung zu Kurs Latein II für Fortgeschrittene)
 
 - **Segment:** `unit:39848` · **unitId:** `39848`
@@ -664,21 +684,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
 
-### Translational Immunology - Lecture — Vorlesung
+### Seminars to Infectious Disease Immunology
 
-- **Segment:** `unit:100934` · **unitId:** `100934`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100934&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Sommersemester
-
-### Translational Immunology - Seminar
-
-- **Segment:** `unit:98480` · **unitId:** `98480`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98480&periodId=565>
+- **Segment:** `unit:139150` · **unitId:** `139150`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=139150&periodId=565>
 
 - **Veranstaltungsart:** Seminar
-- **Turnus:** nur im Sommersemester
 
 ### Translational Immunology Integrated Laboratory Course - Seminar
 

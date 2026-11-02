@@ -36,7 +36,7 @@ _Section: Studiengänge der Medizinischen Fakultät_
 | Fakultät | Medizinische Fakultät |
 | Studienbeginn | Wintersemester |
 | Größe | 1-50 |
-| Besondere Studienformen | 1-Fach-Bachelor, Verbundstudium/Duales Studium |
+| Besondere Studienformen | 1-Fach-Bachelor |
 
 #### Worum geht es im Studiengang?
 
@@ -92,7 +92,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ##### Sprachkenntnisse
 
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ##### Details und Anmerkungen
 
@@ -151,7 +151,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 #### Externe Links
 
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [weitere Zugangsmöglichkeiten](https://www.fau.de/education/bewerbung/zugang-zum-studium/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)
@@ -258,14 +257,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| nach Vereinbarung | — | — | — | — |
 
 ### Die regelrechte Schwangerschaft - Vorlesung
 
@@ -275,14 +267,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| nach Vereinbarung | — | — | — | — |
 
 ### Die regelwidrige Geburt - Vorlesung
 
@@ -324,7 +309,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16778|exam:12161710|exam:12161712|exam:12161714|exam:12161766|exam:15690813>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124243&periodId=565>
 
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -385,14 +373,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| nach Vereinbarung | — | — | — | — |
 
 ### Fertigkeitstraining "Physiologische Geburt" - Übung
 
@@ -757,10 +738,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16778|exam:12161710|exam:12161712|exam:12161714|exam:12161730|exam:15690849>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102922&periodId=565>
 
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.0
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -1364,7 +1342,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16778|exam:12161710|exam:12161712|exam:12161714|exam:12161773|exam:12161774>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125284&periodId=565>
 
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -1454,7 +1431,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16778|exam:12160022|exam:12160024|exam:12160026|exam:12160131|exam:12160132>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78160&periodId=565>
 
-- **ECTS-Punkte:** 7.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -1533,7 +1509,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mo | 10:00–12:00 | 13.10.2025–02.02.2026 | 13003.00.836 (HF Hörsaal Physikum) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (44)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (48)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -1543,14 +1519,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132398&periodId=565>
 
 - **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Mo | 17:00–19:30 | 20.10.2025 | — |
 
 ### 003 PERLE Sonografie für Anfängerinnen und Anfänger, Mo., 20.10.2025, 17:00 - 19:30 Uhr, SimPatiK — Kurs
 
@@ -1573,12 +1542,19 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132404&periodId=565>
 
 - **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
 
-### 011 PERLE Blutkurs 1, Sa., 25.10.2025, 13:30 - 16:00 Uhr, SkillsLab Perle
+#### Termine
 
-- **Segment:** `unit:132408` · **unitId:** `132408`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132408&periodId=565>
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 16:30–19:00 | 24.10.2025 | — |
+
+### 017 PERLE Blutkurs 1, Mo., 27.10.2025, 17:00 - 19:30 Uhr, SkillsLab Perle
+
+- **Segment:** `unit:132415` · **unitId:** `132415`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132415&periodId=565>
 
 - **Veranstaltungsart:** Kurs
 - **Unterrichtssprache:** Deutsch
@@ -1588,7 +1564,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Sa | 13:30–16:00 | 25.10.2025 | — |
+| Einzeltermin | Mo | 17:00–19:30 | 27.10.2025 | — |
 
 ### 023 PERLE Sonografie für Anfängerinnen und Anfänger, Do., 30.10.2025, 17:00 - 19:30 Uhr, Skillslab Perle — Kurs
 
@@ -1635,13 +1611,35 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Einzeltermin | Sa | 11:30–14:00 | 01.11.2025 | — |
 
+### 036 PERLE Sonografie für Anfängerinnen und Anfänger, Do., 06.11.2025, 17:00-19:30 Uhr — Kurs
+
+- **Segment:** `unit:132451` · **unitId:** `132451`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132451&periodId=565>
+
+- **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 17:00–19:30 | 06.11.2025 | — |
+
 ### 038 PERLE Sonografie für Anfängerinnen und Anfänger, Mo., 10.11.2025, 17:00 - 19:30 Uhr, SkillsLab Perle — Kurs
 
 - **Segment:** `unit:132455` · **unitId:** `132455`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132455&periodId=565>
 
 - **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 17:00–19:30 | 10.11.2025 | — |
 
 ### 040 PERLE Versorgung von Menschen mit chronischen Wunden, Do., 13.11.2025, 16:30 - 19:30 Uhr, SkillsLab Perle — Kurs
 
@@ -1679,7 +1677,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132464&periodId=565>
 
 - **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Sa | 14:30–18:30 | 15.11.2025 | — |
 
 ### 048 PERLE Drugs-Skill Kurs, So., 16.11.2025, 10:30 -13:00 Uhr, SkillsLab Perle
 
@@ -1696,14 +1701,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Einzeltermin | So | 10:30–13:00 | 16.11.2025 | — |
 
-### 049 PERLE Blutkurs 1, So., 16.11.2025, 14:00 - 16:30 Uhr, SkillsLab Perle
-
-- **Segment:** `unit:132466` · **unitId:** `132466`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132466&periodId=565>
-
-- **Veranstaltungsart:** Kurs
-- **Turnus:** nur im Wintersemester
-
 ### 051 PERLE Blutkurs 2, Mo., 17.11.2025, 17:00 - 19:30 Uhr,SkillsLab Perle
 
 - **Segment:** `unit:132468` · **unitId:** `132468`
@@ -1719,13 +1716,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Einzeltermin | Mo | 17:00–19:30 | 17.11.2025 | — |
 
-### 054 PERLE Sonografie für Fortgeschrittene, Do., 20.11.2025, 17:00 - 19:30 Uhr, SkillsLab Perle — Kurs
+### 055 PERLE Sonografie für Anfängerinnen und Anfänger, Fr., 21.11.2025, 16:30 - 19:00 Uhr, SimPatiK — Kurs
 
-- **Segment:** `unit:132470` · **unitId:** `132470`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132470&periodId=565>
+- **Segment:** `unit:132595` · **unitId:** `132595`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132595&periodId=565>
 
 - **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 16:30–19:00 | 21.11.2025 | — |
 
 ### 063 PERLE Blutkurs 1, Mo., 24.11.2025, 17:00 - 19:30 Uhr, SkillsLab Perle
 
@@ -1809,6 +1813,36 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Einzeltermin | Sa | 10:00–14:00 | 06.12.2025 | — |
+
+### 080 PERLE Basics Pädiatrie, Sa., 06.12.25, 14:30 - 18:00 Uhr und So., 07.12.25, 10:30 - 13:30 Uhr, SkillsLab Perle — Kurs
+
+- **Segment:** `unit:132800` · **unitId:** `132800`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132800&periodId=565>
+
+- **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung+SaundSo | — | 14:30–18:00 | 06.12.2025–07.12.2025 | — |
+
+### 085 PERLE Sonografie für Fortgeschrittene, Fr. 12.12.2025, 17:00 - 19:30 Uhr, SimPatiK — Kurs
+
+- **Segment:** `unit:132816` · **unitId:** `132816`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132816&periodId=565>
+
+- **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 17:00–19:30 | 12.12.2025 | — |
 
 ### 087 PERLE Fit für die Notaufnahme, 2-tlg., Sa, 13.12.25, 14:00 - 17:45 und So., 14.12.25, 14:00 - 17:00 Uhr, SkillsLab Perle — Kurs
 
@@ -1941,8 +1975,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.10.2025–03.02.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.10.2025–05.02.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 14:00–16:00 | 13.10.2025–02.02.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.10.2025–04.02.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -1975,15 +2009,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Blockveranstaltung | — | 09:00–14:15 | 18.02.2026–10.03.2026 | 05901.02.058 ( 2.058 R 2.058) |
 
-### Pathophysiologie für Hebammenwissenschaftler/-innen — Vorlesung
-
-- **Segment:** `unit:128925` · **unitId:** `128925`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128925&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Sommersemester
-
 ### Rechtliche Grundlagen und berufliches Selbstverständnis II — Vorlesung
 
 - **Segment:** `unit:128928` · **unitId:** `128928`
@@ -2006,6 +2031,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Do | Do | 14:00–16:00 | 07.12.2025 23:59:59 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
+
+### Skills Lab PERLE - Drug-Skill-Kurs
+
+- **Segment:** `unit:40126` · **unitId:** `40126`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=40126&periodId=565>
+
+- **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Skills Lab PERLE - Skills Night
 
@@ -2049,6 +2088,19 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
+### Skills Lab PERLE Sonographie für Anfängerinnen und Anfänger
+
+- **Segment:** `unit:117169` · **unitId:** `117169`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117169&periodId=565>
+
+- **ECTS-Punkte:** 0.0
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
 ### Skills Lab PERLE Versorgung von Menschen mit chronischen Wunden
 
 - **Segment:** `unit:108087` · **unitId:** `108087`
@@ -2066,6 +2118,19 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:128689` · **unitId:** `128689`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128689&periodId=565>
+
+- **ECTS-Punkte:** 0.0
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### Skillslab PERLE Fit für den Stationseinsatz
+
+- **Segment:** `unit:125685` · **unitId:** `125685`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125685&periodId=565>
 
 - **ECTS-Punkte:** 0.0
 

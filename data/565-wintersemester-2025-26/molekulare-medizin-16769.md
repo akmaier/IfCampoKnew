@@ -30,7 +30,7 @@ _Section: Studiengänge der Medizinischen Fakultät_
 | Feld | Wert |
 |---|---|
 | Abschluss | Bachelor of Science |
-| Zugang | mit NC (DoSV/Uni-NC) |
+| Zugang | mit örtlichem NC |
 | Regelstudienzeit | 6 Semester |
 | Unterrichtssprache | vollständig auf Deutsch |
 | Fakultät | Medizinische Fakultät |
@@ -128,7 +128,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ##### Sprachkenntnisse
 
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ##### Details und Anmerkungen
 
@@ -183,7 +183,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 #### Externe Links
 
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [Portal campo](https://www.campo.fau.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces)
 - [hochschulstart.de](http://www.hochschulstart.de)
 - [es hier.](https://www.fau.de/education/bewerbung/zulassungsbeschraenkte-faecher-nc/bewerbung-erstes-fachsemester-wise/)
@@ -270,7 +269,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Kurs
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** jedes 2. Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 12:30–13:30 | 27.02.2026 | 08501.00.010 (Seminarraum - TRC) |
+| Blockveranstaltung | — | 09:00–17:00 | 02.03.2026–06.03.2026 | — |
 
 ### Grundkurs in Strahlenschutz mit Praktikum für Studierende der Molekularen Medizin - Kurs
 
@@ -280,7 +287,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Kurs
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** jedes 2. Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 12:30–13:30 | 27.02.2026 | 08501.00.010 (Seminarraum - TRC) |
+| Blockveranstaltung | — | 09:00–17:00 | 02.03.2026–06.03.2026 | — |
 
 ### Grundkurs in Strahlenschutz mit Praktikum für Studierende der Molekularen Medizin - Kurs
 
@@ -290,7 +305,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Kurs
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** jedes 2. Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 12:30–13:30 | 27.02.2026 | 08501.00.010 (Seminarraum - TRC) |
+| Blockveranstaltung | — | 09:00–17:00 | 02.03.2026–06.03.2026 | — |
 
 ### Grundkurs in Strahlenschutz mit Praktikum für Studierende der Molekularen Medizin - Kurs
 
@@ -300,7 +323,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Kurs
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** jedes 2. Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 12:30–13:30 | 27.02.2026 | 08501.00.010 (Seminarraum - TRC) |
+| Blockveranstaltung | — | 09:00–17:00 | 02.03.2026–06.03.2026 | — |
 
 ### Hauptvorlesung Biochemie I - Molekulare Medizin - WS - Vorlesung mit Übung
 
@@ -391,7 +422,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84306&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 08:30–10:00 | 20.10.2025–02.02.2026 | — |
 
 ### K-V5B Spezielle Pathologie, Vorlesung - Vorlesung
 
@@ -400,7 +438,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84306&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 08:30–10:00 | 20.10.2025–02.02.2026 | — |
 
 ### K-V5B Spezielle Pathologie, Vorlesung - Vorlesung
 
@@ -409,7 +454,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84306&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 08:30–10:00 | 20.10.2025–02.02.2026 | — |
 
 ### Physik für Pharmazie, Lebensmittelchemie, Molekularmedizin und LAG Chemie - Vorlesung
 
@@ -418,7 +470,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88365&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 08:00–10:00 | 13.10.2025–02.02.2026 | 13003.00.807 (HH Hörsaal Physikum) |
+| wöchentlich | Mi | 08:00–10:00 | 15.10.2025–04.02.2026 | 13003.00.807 (HH Hörsaal Physikum) |
 
 ### Physik für Pharmazie, Lebensmittelchemie, Molekularmedizin und LAG Chemie - Vorlesung
 
@@ -427,7 +487,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88365&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 08:00–10:00 | 13.10.2025–02.02.2026 | 13003.00.807 (HH Hörsaal Physikum) |
+| wöchentlich | Mi | 08:00–10:00 | 15.10.2025–04.02.2026 | 13003.00.807 (HH Hörsaal Physikum) |
 
 ### Physik für Pharmazie, Lebensmittelchemie, Molekularmedizin und LAG Chemie - Vorlesung
 
@@ -436,7 +504,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88365&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 08:00–10:00 | 13.10.2025–02.02.2026 | 13003.00.807 (HH Hörsaal Physikum) |
+| wöchentlich | Mi | 08:00–10:00 | 15.10.2025–04.02.2026 | 13003.00.807 (HH Hörsaal Physikum) |
 
 ### Vertiefungsvorlesung Pathologie für B.Sc Molekularmediziner, 5. Semester - Vorlesung
 
@@ -765,6 +841,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16769|exam:12164962|exam:12164964|exam:12164966|exam:12165009|exam:12165010>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117401&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -779,6 +856,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16769|exam:13787144|exam:13787146|exam:13787147|exam:13787192|exam:13787193>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117401&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -928,7 +1006,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16769|exam:12163369|exam:12163371|exam:12163373|exam:12163415|exam:12163417>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=76397&periodId=565>
 
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -943,7 +1020,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16769|exam:12164962|exam:12164964|exam:12164966|exam:12165013|exam:12165015>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=76397&periodId=565>
 
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -958,7 +1034,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16769|exam:13787144|exam:13787146|exam:13787147|exam:13787194|exam:13787196>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=76397&periodId=565>
 
-- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -1153,6 +1228,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16769|exam:12163369|exam:12163371|exam:12163373|exam:12163437|exam:12163438>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=41484&periodId=565>
 
+- **ECTS-Punkte:** 10.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -1167,6 +1243,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16769|exam:12164962|exam:12164964|exam:12164966|exam:12165037|exam:12165038>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=41484&periodId=565>
 
+- **ECTS-Punkte:** 10.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -1211,6 +1288,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16769|exam:12164962|exam:12164964|exam:12164966|exam:13727806|exam:13727808>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132388&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -1225,6 +1303,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16769|exam:13787144|exam:13787146|exam:13787147|exam:13787218|exam:13787220>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132388&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -1596,6 +1675,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16769|exam:12163369|exam:12163371|exam:12163373|exam:12163471|exam:12163476>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=41497&periodId=565>
 
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -1610,6 +1690,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16769|exam:12164962|exam:12164964|exam:12164966|exam:12165086|exam:12165091>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=41497&periodId=565>
 
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -1624,6 +1705,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16769|exam:13787144|exam:13787146|exam:13787147|exam:13787264|exam:13787269>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=41497&periodId=565>
 
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -1879,7 +1961,17 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91338&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:15–17:45 | 13.10.2025–02.02.2026 | 13003.00.827 (HG Hörsaal Physikum) 13301.01.0241 (C4 - Chemikum) |
+| wöchentlich | Di | 08:30–10:00 | 14.10.2025–03.02.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
+| wöchentlich | Di | 08:30–10:00 | 14.10.2025–03.02.2026 | — |
+| Einzeltermin | Do | 15:15–16:45 | 05.02.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 
 ### ACBio/ACMolMed - Allgemeine und Anorganische Chemie (mit Experimenten) - Vorlesung
 
@@ -1888,7 +1980,17 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91338&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:15–17:45 | 13.10.2025–02.02.2026 | 13003.00.827 (HG Hörsaal Physikum) 13301.01.0241 (C4 - Chemikum) |
+| wöchentlich | Di | 08:30–10:00 | 14.10.2025–03.02.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
+| wöchentlich | Di | 08:30–10:00 | 14.10.2025–03.02.2026 | — |
+| Einzeltermin | Do | 15:15–16:45 | 05.02.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 
 ### ACBio/ACMolMed - Allgemeine und Anorganische Chemie (mit Experimenten) - Vorlesung
 
@@ -1897,7 +1999,17 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91338&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:15–17:45 | 13.10.2025–02.02.2026 | 13003.00.827 (HG Hörsaal Physikum) 13301.01.0241 (C4 - Chemikum) |
+| wöchentlich | Di | 08:30–10:00 | 14.10.2025–03.02.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
+| wöchentlich | Di | 08:30–10:00 | 14.10.2025–03.02.2026 | — |
+| Einzeltermin | Do | 15:15–16:45 | 05.02.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 
 ### BA-MM-BPK-1 - Datenanalyse in Biometrie und Epidemiologie  (BA Mol Medizin) - Grundkurs
 
@@ -2076,13 +2188,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Praktikum
 - **Turnus:** nur im Wintersemester
 
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 13:15–18:30 | 13.10.2025–02.02.2026 | 06901.00.029 (Kursraum Biochemie) |
-| wöchentlich | Mo | 13:15–18:30 | 13.10.2025–02.02.2026 | 06901.00.024 (Kursraum Biochemie) |
-
 ### BiochemPraktMM - Praktikum I - Biochemie/Molekularbiologie Molekulare Medizin - WS - Praktikum
 
 - **Segment:** `exam:12165048` · **unitId:** `114454`
@@ -2092,13 +2197,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Praktikum
 - **Turnus:** nur im Wintersemester
 
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 13:15–18:30 | 13.10.2025–02.02.2026 | 06901.00.029 (Kursraum Biochemie) |
-| wöchentlich | Mo | 13:15–18:30 | 13.10.2025–02.02.2026 | 06901.00.024 (Kursraum Biochemie) |
-
 ### BiochemPraktMM - Praktikum I - Biochemie/Molekularbiologie Molekulare Medizin - WS - Praktikum
 
 - **Segment:** `exam:13787227` · **unitId:** `114454`
@@ -2107,13 +2205,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 13:15–18:30 | 13.10.2025–02.02.2026 | 06901.00.029 (Kursraum Biochemie) |
-| wöchentlich | Mo | 13:15–18:30 | 13.10.2025–02.02.2026 | 06901.00.024 (Kursraum Biochemie) |
 
 ### BiochemPropäd - V-V4 Vorlesung zur Biochemischen Propädeutik - Vorlesung
 
@@ -2340,8 +2431,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mi | 14:15–15:30 | 22.10.2025 | — |
-| Blockveranstaltung | — | 14:15–19:00 | 12.11.2025 | — |
+| Einzeltermin | Mi | 16:00–17:30 | 22.10.2025 | — |
+| Blockveranstaltung | — | 14:15–19:00 | 19.11.2025 | — |
 
 ### K-PS 5 - K-PS 5 Vorlesung und Seminar Geschichte, Theorie, Ethik der Medizin (GTE), Q2 - Seminar
 
@@ -2357,8 +2448,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mi | 14:15–15:30 | 22.10.2025 | — |
-| Blockveranstaltung | — | 14:15–19:00 | 12.11.2025 | — |
+| Einzeltermin | Mi | 16:00–17:30 | 22.10.2025 | — |
+| Blockveranstaltung | — | 14:15–19:00 | 19.11.2025 | — |
 
 ### K-PS 5 - K-PS 5 Vorlesung und Seminar Geschichte, Theorie, Ethik der Medizin (GTE), Q2 - Seminar
 
@@ -2374,8 +2465,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mi | 14:15–15:30 | 22.10.2025 | — |
-| Blockveranstaltung | — | 14:15–19:00 | 12.11.2025 | — |
+| Einzeltermin | Mi | 16:00–17:30 | 22.10.2025 | — |
+| Blockveranstaltung | — | 14:15–19:00 | 19.11.2025 | — |
 
 ### K-PS15 - K-PS15 Übung Histopathologie - Übung
 
@@ -2439,7 +2530,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 08:15–09:00 | 28.10.2025–16.12.2025 | — |
+| wöchentlich | Mo | 08:15–09:00 | 27.10.2025–15.12.2025 | — |
 
 ### K-PS15 - K-PS15 Übung Makropathologie (PathoÄAppO2) - Übung
 
@@ -2455,7 +2546,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 08:15–09:00 | 28.10.2025–16.12.2025 | — |
+| wöchentlich | Mo | 08:15–09:00 | 27.10.2025–15.12.2025 | — |
 
 ### K-PS15 - K-PS15 Übung Makropathologie (PathoÄAppO2) - Übung
 
@@ -2471,7 +2562,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 08:15–09:00 | 28.10.2025–16.12.2025 | — |
+| wöchentlich | Mo | 08:15–09:00 | 27.10.2025–15.12.2025 | — |
 
 ### K-PS16 - K-PS16 Übung Histopathologie - Übung
 
@@ -2527,7 +2618,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16769|exam:12163369|exam:12163371|exam:12163373|exam:12163457|exam:12163458>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82478&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -2542,7 +2635,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16769|exam:12164962|exam:12164964|exam:12164966|exam:12165073|exam:12165074>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82478&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -2557,7 +2652,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16769|exam:13787144|exam:13787146|exam:13787147|exam:13787251|exam:13787252>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82478&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -2667,7 +2764,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16769|exam:12163369|exam:12163371|exam:12163373|exam:12163504|exam:12163507>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87455&periodId=565>
 
+- **Veranstaltungsart:** Praktikum
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -2681,7 +2780,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16769|exam:12164962|exam:12164964|exam:12164966|exam:12165018|exam:12165021>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87455&periodId=565>
 
+- **Veranstaltungsart:** Praktikum
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -2695,7 +2796,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16769|exam:13787144|exam:13787146|exam:13787147|exam:13787199|exam:13787202>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87455&periodId=565>
 
+- **Veranstaltungsart:** Praktikum
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -2822,7 +2925,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung | — | 08:00–18:00 | 09.02.2026–20.02.2026 | — |
+| Blockveranstaltung | — | 08:00–18:00 | 09.02.2026–20.02.2026 | 04801.01.021 (SR 01.021) |
 
 ### PR - Zellbiologisches Grundpraktikum (Studiengang Molekulare Medizin, Bachelor) - Praktikum
 
@@ -2838,7 +2941,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung | — | 08:00–18:00 | 09.02.2026–20.02.2026 | — |
+| Blockveranstaltung | — | 08:00–18:00 | 09.02.2026–20.02.2026 | 04801.01.021 (SR 01.021) |
 
 ### PR - Zellbiologisches Grundpraktikum (Studiengang Molekulare Medizin, Bachelor) - Praktikum
 
@@ -2854,7 +2957,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung | — | 08:00–18:00 | 09.02.2026–20.02.2026 | — |
+| Blockveranstaltung | — | 08:00–18:00 | 09.02.2026–20.02.2026 | 04801.01.021 (SR 01.021) |
 
 ### SEMPR - Seminar zum zellbiologischen Grundpraktikum (EM1) - Seminar
 
@@ -2862,7 +2965,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16769|exam:12163369|exam:12163371|exam:12163373|exam:12163409|exam:12163414>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124930&periodId=565>
 
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 0.0
 - **Unterrichtssprache:** Deutsch oder Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -2876,7 +2982,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16769|exam:12164962|exam:12164964|exam:12164966|exam:12165064|exam:12165069>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124930&periodId=565>
 
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 0.0
 - **Unterrichtssprache:** Deutsch oder Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -2890,7 +2999,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16769|exam:13787144|exam:13787146|exam:13787147|exam:13787242|exam:13787247>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124930&periodId=565>
 
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 0.0
 - **Unterrichtssprache:** Deutsch oder Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -2904,7 +3016,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16769|exam:12163369|exam:12163371|exam:12163373|exam:12163381|exam:12163386>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85055&periodId=565>
 
+- **Veranstaltungsart:** Tutorium
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -2918,7 +3032,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16769|exam:12163369|exam:12163371|exam:12163373|exam:12163387|exam:12163391>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85055&periodId=565>
 
+- **Veranstaltungsart:** Tutorium
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -2932,7 +3048,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16769|exam:12164962|exam:12164964|exam:12164966|exam:12164997|exam:12165001>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85055&periodId=565>
 
+- **Veranstaltungsart:** Tutorium
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -2946,7 +3064,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16769|exam:12164962|exam:12164964|exam:12164966|exam:12165093|exam:12165098>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85055&periodId=565>
 
+- **Veranstaltungsart:** Tutorium
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -2960,7 +3080,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16769|exam:13787144|exam:13787146|exam:13787147|exam:13787180|exam:13787184>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85055&periodId=565>
 
+- **Veranstaltungsart:** Tutorium
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -2974,7 +3096,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16769|exam:13787144|exam:13787146|exam:13787147|exam:13787271|exam:13787276>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85055&periodId=565>
 
+- **Veranstaltungsart:** Tutorium
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -3036,7 +3160,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16769|exam:12163369|exam:12163371|exam:12163373|exam:12163420|exam:12163421>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92133&periodId=565>
 
+- **Veranstaltungsart:** Praktikum
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -3050,7 +3176,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16769|exam:12164962|exam:12164964|exam:12164966|exam:12165024|exam:12165025>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92133&periodId=565>
 
+- **Veranstaltungsart:** Praktikum
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -3064,7 +3192,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16769|exam:13787144|exam:13787146|exam:13787147|exam:13787205|exam:13787206>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92133&periodId=565>
 
+- **Veranstaltungsart:** Praktikum
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -3079,7 +3209,38 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88140&periodId=565>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 08:00–19:00 | 06.10.2025–10.10.2025 | 00601.00.015 (KR 1, Physio 1) |
+| Blockveranstaltung | — | 08:00–19:00 | 06.10.2025–10.10.2025 | 00601.00.016 (Prak_Physio 1) |
+| Blockveranstaltung | — | 08:00–19:00 | 06.10.2025–10.10.2025 | 00601.00.017 |
+| Blockveranstaltung | — | 08:00–19:00 | 06.10.2025–10.10.2025 | 00601.00.018 |
+| Blockveranstaltung | — | 08:00–19:00 | 06.10.2025–10.10.2025 | 00601.00.011 |
+| wöchentlich | Mo | 14:15–18:00 | 13.10.2025–27.10.2025 | 00601.00.015 (KR 1, Physio 1) |
+| wöchentlich | Mo | 14:15–18:00 | 13.10.2025–27.10.2025 | 00601.00.016 (Prak_Physio 1) |
+| wöchentlich | Mo | 14:15–18:00 | 13.10.2025–27.10.2025 | 00601.00.017 |
+| wöchentlich | Mo | 14:15–18:00 | 13.10.2025–27.10.2025 | 00601.00.018 |
+| wöchentlich | Mo | 14:15–18:00 | 13.10.2025–27.10.2025 | 00601.00.011 |
+| wöchentlich | Di | 14:15–18:00 | 14.10.2025–04.11.2025 | 00601.00.015 (KR 1, Physio 1) |
+| wöchentlich | Di | 14:15–18:00 | 14.10.2025–04.11.2025 | 00601.00.016 (Prak_Physio 1) |
+| wöchentlich | Di | 14:15–18:00 | 14.10.2025–04.11.2025 | 00601.00.017 |
+| wöchentlich | Di | 14:15–18:00 | 14.10.2025–04.11.2025 | 00601.00.018 |
+| wöchentlich | Di | 14:15–18:00 | 14.10.2025–04.11.2025 | 00601.00.011 |
+| wöchentlich | Mi | 14:15–18:00 | 15.10.2025–29.10.2025 | 00601.00.015 (KR 1, Physio 1) |
+| wöchentlich | Mi | 14:15–18:00 | 15.10.2025–29.10.2025 | 00601.00.016 (Prak_Physio 1) |
+| wöchentlich | Mi | 14:15–18:00 | 15.10.2025–29.10.2025 | 00601.00.017 |
+| wöchentlich | Mi | 14:15–18:00 | 15.10.2025–29.10.2025 | 00601.00.018 |
+| wöchentlich | Mi | 14:15–18:00 | 15.10.2025–29.10.2025 | 00601.00.011 |
+| wöchentlich | Do | 14:15–18:00 | 16.10.2025–13.11.2025 | 00601.00.015 (KR 1, Physio 1) |
+| wöchentlich | Do | 14:15–18:00 | 16.10.2025–13.11.2025 | 00601.00.016 (Prak_Physio 1) |
+| wöchentlich | Do | 14:15–18:00 | 16.10.2025–13.11.2025 | 00601.00.017 |
+| wöchentlich | Do | 14:15–18:00 | 16.10.2025–13.11.2025 | 00601.00.018 |
+| wöchentlich | Do | 14:15–18:00 | 16.10.2025–13.11.2025 | 00601.00.011 |
 
 ### V-PS4B/1-P4 - V-PS4B/1-P4 Praktikum Neurophysiologie - Praktikum
 
@@ -3088,7 +3249,38 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88140&periodId=565>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 08:00–19:00 | 06.10.2025–10.10.2025 | 00601.00.015 (KR 1, Physio 1) |
+| Blockveranstaltung | — | 08:00–19:00 | 06.10.2025–10.10.2025 | 00601.00.016 (Prak_Physio 1) |
+| Blockveranstaltung | — | 08:00–19:00 | 06.10.2025–10.10.2025 | 00601.00.017 |
+| Blockveranstaltung | — | 08:00–19:00 | 06.10.2025–10.10.2025 | 00601.00.018 |
+| Blockveranstaltung | — | 08:00–19:00 | 06.10.2025–10.10.2025 | 00601.00.011 |
+| wöchentlich | Mo | 14:15–18:00 | 13.10.2025–27.10.2025 | 00601.00.015 (KR 1, Physio 1) |
+| wöchentlich | Mo | 14:15–18:00 | 13.10.2025–27.10.2025 | 00601.00.016 (Prak_Physio 1) |
+| wöchentlich | Mo | 14:15–18:00 | 13.10.2025–27.10.2025 | 00601.00.017 |
+| wöchentlich | Mo | 14:15–18:00 | 13.10.2025–27.10.2025 | 00601.00.018 |
+| wöchentlich | Mo | 14:15–18:00 | 13.10.2025–27.10.2025 | 00601.00.011 |
+| wöchentlich | Di | 14:15–18:00 | 14.10.2025–04.11.2025 | 00601.00.015 (KR 1, Physio 1) |
+| wöchentlich | Di | 14:15–18:00 | 14.10.2025–04.11.2025 | 00601.00.016 (Prak_Physio 1) |
+| wöchentlich | Di | 14:15–18:00 | 14.10.2025–04.11.2025 | 00601.00.017 |
+| wöchentlich | Di | 14:15–18:00 | 14.10.2025–04.11.2025 | 00601.00.018 |
+| wöchentlich | Di | 14:15–18:00 | 14.10.2025–04.11.2025 | 00601.00.011 |
+| wöchentlich | Mi | 14:15–18:00 | 15.10.2025–29.10.2025 | 00601.00.015 (KR 1, Physio 1) |
+| wöchentlich | Mi | 14:15–18:00 | 15.10.2025–29.10.2025 | 00601.00.016 (Prak_Physio 1) |
+| wöchentlich | Mi | 14:15–18:00 | 15.10.2025–29.10.2025 | 00601.00.017 |
+| wöchentlich | Mi | 14:15–18:00 | 15.10.2025–29.10.2025 | 00601.00.018 |
+| wöchentlich | Mi | 14:15–18:00 | 15.10.2025–29.10.2025 | 00601.00.011 |
+| wöchentlich | Do | 14:15–18:00 | 16.10.2025–13.11.2025 | 00601.00.015 (KR 1, Physio 1) |
+| wöchentlich | Do | 14:15–18:00 | 16.10.2025–13.11.2025 | 00601.00.016 (Prak_Physio 1) |
+| wöchentlich | Do | 14:15–18:00 | 16.10.2025–13.11.2025 | 00601.00.017 |
+| wöchentlich | Do | 14:15–18:00 | 16.10.2025–13.11.2025 | 00601.00.018 |
+| wöchentlich | Do | 14:15–18:00 | 16.10.2025–13.11.2025 | 00601.00.011 |
 
 ### V-PS4B/1-P4 - V-PS4B/1-P4 Praktikum Neurophysiologie - Praktikum
 
@@ -3097,7 +3289,38 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88140&periodId=565>
 
 - **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 08:00–19:00 | 06.10.2025–10.10.2025 | 00601.00.015 (KR 1, Physio 1) |
+| Blockveranstaltung | — | 08:00–19:00 | 06.10.2025–10.10.2025 | 00601.00.016 (Prak_Physio 1) |
+| Blockveranstaltung | — | 08:00–19:00 | 06.10.2025–10.10.2025 | 00601.00.017 |
+| Blockveranstaltung | — | 08:00–19:00 | 06.10.2025–10.10.2025 | 00601.00.018 |
+| Blockveranstaltung | — | 08:00–19:00 | 06.10.2025–10.10.2025 | 00601.00.011 |
+| wöchentlich | Mo | 14:15–18:00 | 13.10.2025–27.10.2025 | 00601.00.015 (KR 1, Physio 1) |
+| wöchentlich | Mo | 14:15–18:00 | 13.10.2025–27.10.2025 | 00601.00.016 (Prak_Physio 1) |
+| wöchentlich | Mo | 14:15–18:00 | 13.10.2025–27.10.2025 | 00601.00.017 |
+| wöchentlich | Mo | 14:15–18:00 | 13.10.2025–27.10.2025 | 00601.00.018 |
+| wöchentlich | Mo | 14:15–18:00 | 13.10.2025–27.10.2025 | 00601.00.011 |
+| wöchentlich | Di | 14:15–18:00 | 14.10.2025–04.11.2025 | 00601.00.015 (KR 1, Physio 1) |
+| wöchentlich | Di | 14:15–18:00 | 14.10.2025–04.11.2025 | 00601.00.016 (Prak_Physio 1) |
+| wöchentlich | Di | 14:15–18:00 | 14.10.2025–04.11.2025 | 00601.00.017 |
+| wöchentlich | Di | 14:15–18:00 | 14.10.2025–04.11.2025 | 00601.00.018 |
+| wöchentlich | Di | 14:15–18:00 | 14.10.2025–04.11.2025 | 00601.00.011 |
+| wöchentlich | Mi | 14:15–18:00 | 15.10.2025–29.10.2025 | 00601.00.015 (KR 1, Physio 1) |
+| wöchentlich | Mi | 14:15–18:00 | 15.10.2025–29.10.2025 | 00601.00.016 (Prak_Physio 1) |
+| wöchentlich | Mi | 14:15–18:00 | 15.10.2025–29.10.2025 | 00601.00.017 |
+| wöchentlich | Mi | 14:15–18:00 | 15.10.2025–29.10.2025 | 00601.00.018 |
+| wöchentlich | Mi | 14:15–18:00 | 15.10.2025–29.10.2025 | 00601.00.011 |
+| wöchentlich | Do | 14:15–18:00 | 16.10.2025–13.11.2025 | 00601.00.015 (KR 1, Physio 1) |
+| wöchentlich | Do | 14:15–18:00 | 16.10.2025–13.11.2025 | 00601.00.016 (Prak_Physio 1) |
+| wöchentlich | Do | 14:15–18:00 | 16.10.2025–13.11.2025 | 00601.00.017 |
+| wöchentlich | Do | 14:15–18:00 | 16.10.2025–13.11.2025 | 00601.00.018 |
+| wöchentlich | Do | 14:15–18:00 | 16.10.2025–13.11.2025 | 00601.00.011 |
 
 ### V-PS5B - V-PS5B Seminar Neurophysiologie - Seminar
 
@@ -3298,7 +3521,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106010&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:15–11:45 | 14.10.2025–03.02.2026 | — |
+| 14-täglich | Di | 11:15–12:00 | 28.10.2025–09.12.2025 | — |
+| 14-täglich | Di | 11:15–12:00 | 13.01.2026–27.01.2026 | — |
 
 ### V-V10/1-V15 - V-V10/1-V15 Vorlesung Zellphysiologie - Vorlesung
 
@@ -3307,7 +3539,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106010&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:15–11:45 | 14.10.2025–03.02.2026 | — |
+| 14-täglich | Di | 11:15–12:00 | 28.10.2025–09.12.2025 | — |
+| 14-täglich | Di | 11:15–12:00 | 13.01.2026–27.01.2026 | — |
 
 ### V-V10/1-V15 - V-V10/1-V15 Vorlesung Zellphysiologie - Vorlesung
 
@@ -3316,7 +3557,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106010&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:15–11:45 | 14.10.2025–03.02.2026 | — |
+| 14-täglich | Di | 11:15–12:00 | 28.10.2025–09.12.2025 | — |
+| 14-täglich | Di | 11:15–12:00 | 13.01.2026–27.01.2026 | — |
 
 ### V-V11/1-V6 - V-V11/1-V6 Vorlesung Vegetative Physiologie - Hauptvorlesung
 
@@ -3382,7 +3632,21 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82572&periodId=565>
 
 - **Veranstaltungsart:** Hauptvorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 09:15–10:00 | 13.10.2025–02.02.2026 | 00601.00.012 (Hörsaal Physiologie) |
+| wöchentlich | Mo | 09:15–10:00 | 13.10.2025–02.02.2026 | 00801.00.112 (H Anatomie I (Eingang über Universitätsstraße 19)) |
+| wöchentlich | Di | 09:15–10:00 | 14.10.2025–03.02.2026 | 00601.00.012 (Hörsaal Physiologie) |
+| wöchentlich | Di | 09:15–10:00 | 14.10.2025–03.02.2026 | 00801.00.112 (H Anatomie I (Eingang über Universitätsstraße 19)) |
+| wöchentlich | Mi | 09:15–10:00 | 15.10.2025–04.02.2026 | 00601.00.012 (Hörsaal Physiologie) |
+| wöchentlich | Mi | 09:15–10:00 | 15.10.2025–04.02.2026 | 00801.00.112 (H Anatomie I (Eingang über Universitätsstraße 19)) |
+| wöchentlich | Do | 09:15–10:00 | 16.10.2025–05.02.2026 | 00601.00.012 (Hörsaal Physiologie) |
+| wöchentlich | Do | 09:15–10:00 | 16.10.2025–05.02.2026 | 00801.00.112 (H Anatomie I (Eingang über Universitätsstraße 19)) |
 
 ### V-V12/1-V7 - V-V12/1-V7 Vorlesung Neurophysiologie - Hauptvorlesung
 
@@ -3391,7 +3655,21 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82572&periodId=565>
 
 - **Veranstaltungsart:** Hauptvorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 09:15–10:00 | 13.10.2025–02.02.2026 | 00601.00.012 (Hörsaal Physiologie) |
+| wöchentlich | Mo | 09:15–10:00 | 13.10.2025–02.02.2026 | 00801.00.112 (H Anatomie I (Eingang über Universitätsstraße 19)) |
+| wöchentlich | Di | 09:15–10:00 | 14.10.2025–03.02.2026 | 00601.00.012 (Hörsaal Physiologie) |
+| wöchentlich | Di | 09:15–10:00 | 14.10.2025–03.02.2026 | 00801.00.112 (H Anatomie I (Eingang über Universitätsstraße 19)) |
+| wöchentlich | Mi | 09:15–10:00 | 15.10.2025–04.02.2026 | 00601.00.012 (Hörsaal Physiologie) |
+| wöchentlich | Mi | 09:15–10:00 | 15.10.2025–04.02.2026 | 00801.00.112 (H Anatomie I (Eingang über Universitätsstraße 19)) |
+| wöchentlich | Do | 09:15–10:00 | 16.10.2025–05.02.2026 | 00601.00.012 (Hörsaal Physiologie) |
+| wöchentlich | Do | 09:15–10:00 | 16.10.2025–05.02.2026 | 00801.00.112 (H Anatomie I (Eingang über Universitätsstraße 19)) |
 
 ### V-V12/1-V7 - V-V12/1-V7 Vorlesung Neurophysiologie - Hauptvorlesung
 
@@ -3400,7 +3678,21 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82572&periodId=565>
 
 - **Veranstaltungsart:** Hauptvorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 09:15–10:00 | 13.10.2025–02.02.2026 | 00601.00.012 (Hörsaal Physiologie) |
+| wöchentlich | Mo | 09:15–10:00 | 13.10.2025–02.02.2026 | 00801.00.112 (H Anatomie I (Eingang über Universitätsstraße 19)) |
+| wöchentlich | Di | 09:15–10:00 | 14.10.2025–03.02.2026 | 00601.00.012 (Hörsaal Physiologie) |
+| wöchentlich | Di | 09:15–10:00 | 14.10.2025–03.02.2026 | 00801.00.112 (H Anatomie I (Eingang über Universitätsstraße 19)) |
+| wöchentlich | Mi | 09:15–10:00 | 15.10.2025–04.02.2026 | 00601.00.012 (Hörsaal Physiologie) |
+| wöchentlich | Mi | 09:15–10:00 | 15.10.2025–04.02.2026 | 00801.00.112 (H Anatomie I (Eingang über Universitätsstraße 19)) |
+| wöchentlich | Do | 09:15–10:00 | 16.10.2025–05.02.2026 | 00601.00.012 (Hörsaal Physiologie) |
+| wöchentlich | Do | 09:15–10:00 | 16.10.2025–05.02.2026 | 00801.00.112 (H Anatomie I (Eingang über Universitätsstraße 19)) |
 
 ### V-V13/1-V10 Vorlesung Histologie Teil 1 - V-V13/1-V10 Vorlesung Allgemeine Histologie und Embryologie - Vorlesung
 
@@ -3513,7 +3805,17 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83748&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 13:00–13:45 | 23.10.2025–15.01.2026 | 08501.00.010 (Seminarraum - TRC) |
+| wöchentlich | Di | 13:00–13:45 | 28.10.2025–20.01.2026 | 08501.00.010 (Seminarraum - TRC) |
+| wöchentlich | Mi | 13:00–13:45 | 29.10.2025–14.01.2026 | 08501.00.010 (Seminarraum - TRC) 04801.00.024 (SR 0.024, Glückstr. 6) |
+| Einzeltermin | Fr | 09:00–11:00 | 06.02.2026 | 03006.00.607 (Hörsaal 1 - Östliche Stadtmauerstraße 11) |
 
 ### ZellBio - Grundlagen der Zellbiologie  (Studiengang Molekulare Medizin, Bachelor) - Vorlesung
 
@@ -3522,7 +3824,17 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83748&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 13:00–13:45 | 23.10.2025–15.01.2026 | 08501.00.010 (Seminarraum - TRC) |
+| wöchentlich | Di | 13:00–13:45 | 28.10.2025–20.01.2026 | 08501.00.010 (Seminarraum - TRC) |
+| wöchentlich | Mi | 13:00–13:45 | 29.10.2025–14.01.2026 | 08501.00.010 (Seminarraum - TRC) 04801.00.024 (SR 0.024, Glückstr. 6) |
+| Einzeltermin | Fr | 09:00–11:00 | 06.02.2026 | 03006.00.607 (Hörsaal 1 - Östliche Stadtmauerstraße 11) |
 
 ### ZellBio - Grundlagen der Zellbiologie  (Studiengang Molekulare Medizin, Bachelor) - Vorlesung
 
@@ -3531,9 +3843,19 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83748&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (31)
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 13:00–13:45 | 23.10.2025–15.01.2026 | 08501.00.010 (Seminarraum - TRC) |
+| wöchentlich | Di | 13:00–13:45 | 28.10.2025–20.01.2026 | 08501.00.010 (Seminarraum - TRC) |
+| wöchentlich | Mi | 13:00–13:45 | 29.10.2025–14.01.2026 | 08501.00.010 (Seminarraum - TRC) 04801.00.024 (SR 0.024, Glückstr. 6) |
+| Einzeltermin | Fr | 09:00–11:00 | 06.02.2026 | 03006.00.607 (Hörsaal 1 - Östliche Stadtmauerstraße 11) |
+
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (29)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -3553,19 +3875,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mi | 12:00–14:00 | 15.10.2025–04.02.2026 | 06901.00.035 (Hörsaal Biochemie) |
 
-### Advanced Lectures in Molecular Medicine 1 (written exam)
+### Advanced Lectures in Molecular Medicine 1 - Part Immunology — Vorlesung
 
-- **Segment:** `unit:45617` · **unitId:** `45617`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45617&periodId=565>
+- **Segment:** `unit:108956` · **unitId:** `108956`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=108956&periodId=565>
 
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | 10:00–13:00 | — | 06901.00.035 (Hörsaal Biochemie) |
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Wintersemester
 
 ### Allgemeine Histologie und Embryologie (Teilleistung 1) — Kurs
 
@@ -3583,21 +3899,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
-
-### Architecture of Biopolymers — Seminar
-
-- **Segment:** `unit:83581` · **unitId:** `83581`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83581&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 13:00–16:00 | 13.10.2025–02.02.2026 | 06901.00.035 (Hörsaal Biochemie) |
 
 ### Architecture of Biopolymers — Übung
 
@@ -3627,20 +3928,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | — | — | — |
-
-### Architecture of Biopolymers (written exam)
-
-- **Segment:** `unit:45620` · **unitId:** `45620`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45620&periodId=565>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | 14:00–15:30 | — | 06901.00.035 (Hörsaal Biochemie) |
 
 ### Einführung in die molekulare Pathologie — Vorlesung
 
@@ -3733,8 +4020,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.10.2025–03.02.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.10.2025–05.02.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 14:00–16:00 | 13.10.2025–02.02.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.10.2025–04.02.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 

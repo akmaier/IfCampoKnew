@@ -105,7 +105,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ##### Sprachkenntnisse
 
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ##### Details und Anmerkungen
 
@@ -157,13 +157,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 #### Externe Links
 
 - [Brückenkurs Chemie für Nebenfachstudierende](https://www.nat.fau.de/studium/studienstart/vorkurse/)
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [weitere Zugangsmöglichkeiten](https://www.fau.de/education/bewerbung/zugang-zum-studium/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)
 - [Direkt zum Bewerbungsportal](https://www.campo.fau.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces?sessionlanguage=de&page=Bewerber/-innen)
 - [Zentrale Studienberatung Die Zentrale Studienberatung ist die erste Anlaufstelle zu allen Fragen rund ums Studium. Die Zentrale Studienberatung ist die erste Anlaufstelle zu allen Fragen rund ums Studium. Mehr über Zentrale Studienberatung  erfahren](https://zsb.fau.de)
-- [Studien-Service-Center Naturwissenschaftliche Fakultät Fachbezogene Beratung für Fragen rund um das Fach und die Studienplanung. Fachbezogene Beratung für Fragen rund um das Fach und die Studienplanung. Mehr über Studien-Service-Center Naturwissenschaftliche Fakultät erfahren](https://www.nat.fau.de/studium/beratung/ssc/)
+- [Studien-Service-Center Naturwissenschaftliche Fakultät Fachbezogene Beratung für Fragen rund um das Fach und die Studienplanung. Fachbezogene Beratung für Fragen rund um das Fach und die Studienplanung. Mehr über Studien-Service-Center Naturwissenschaftliche Fakultät erfahren](https://www.nat.fau.de/studium/beratung/)
 - [Infos zum Semesterstart](https://www.fau.de/studium/studienorganisation/studienstart/)
 - [Semestertermine](https://www.fau.de/studium/studienorganisation/semestertermine/)
 - [Semesterbeitrag](https://www.fau.de/studium/studienorganisation/studierendenangelegenheiten/rueckmeldung-und-semesterbeitrag/)
@@ -206,7 +205,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16766|exam:12200433|exam:12200447>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82711&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -220,7 +222,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16766|exam:12200433|exam:12200446>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84758&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -234,7 +239,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16766|exam:12200433|exam:12200445>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83980&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -278,4 +286,19 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95991&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:15–09:00 | 14.10.2025–20.01.2026 | 13301.01.0331 (C2 - Chemikum) |
+| Einzeltermin | Di | 09:15–10:00 | 14.10.2025 | 13301.01.0331 (C2 - Chemikum) |
+| wöchentlich | Mi | 08:15–09:00 | 15.10.2025–28.01.2026 | 13301.01.0331 (C2 - Chemikum) |
+| wöchentlich | Do | 08:15–09:00 | 16.10.2025–22.01.2026 | 13301.01.0331 (C2 - Chemikum) |
+| wöchentlich | Do | 12:15–13:00 | 16.10.2025–18.12.2025 | 13301.01.0331 (C2 - Chemikum) |
+| Einzeltermin | Do | 09:15–10:00 | 06.11.2025 | 13301.01.0331 (C2 - Chemikum) |
+| Einzeltermin | Di | 09:15–10:00 | 11.11.2025 | 13301.01.0331 (C2 - Chemikum) |
+| Einzeltermin | Di | 09:15–10:00 | 02.12.2025 | — |
+| Einzeltermin | Do | 09:15–10:00 | 08.01.2026 | 13301.01.0331 (C2 - Chemikum) |

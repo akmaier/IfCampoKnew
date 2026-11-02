@@ -36,7 +36,7 @@ _Section: FAU Scientia Gaststudium_
 | Fakultät | Rechts- und Wirtschaftswissenschaftliche Fakultät |
 | Studienbeginn | Wintersemester |
 | Größe | > 600 |
-| Besondere Studienformen | Studiengang mit Doppelabschluss, Verbundstudium/Duales Studium |
+| Besondere Studienformen | Studiengang mit Doppelabschluss |
 
 #### Worum geht es im Studiengang?
 
@@ -51,13 +51,13 @@ Das Bachelorstudium an der WiSo in Nürnberg zeichnet sich durch seine internati
 * Data Science (15%)
 * Einführung in die BWL (12%)
 * Einführung in die VWL (12%)
-* Studium Integrale (Sprache, Buchführung, Mathematik, Grundlagen des öffentlichen Rechts und Zivilrechts) (9%)
+* Studium Integrale (Buchführung, Mathematik, Grundlagen des öffentlichen Rechts und Zivilrechts) (9%)
 
 ##### Aufbau und Struktur
 
 Das **Bachelorstudium** gliedert sich in zwei Studienabschnitte (Semester 1-2: Assessmentphase und Semester 3-6: Bachelorphase): Insbesondere in den ersten Semestern belegen Sie diverse Pflichtveranstaltungen. Dadurch erhalten Sie zunächst eine erste Übersicht über die Welt des Unternehmens, methodisches und volkswirtschaftliches Grundwissen sowie grundlegende Data-Science-Kompetenzen. Spätestens mit Beginn des dritten Semesters wählen Sie einen disziplinären **Studienschwerpunkt** (BWL, VWL, Wirtschaftsinformatik oder Wirtschafts- und Betriebspädagogik), der Ihren Interessen entspricht. Parallel dazu können Sie ab dem ersten Semester Module aus einer bestimmten interdisziplinären **Studienrichtung** belegen. Am Ende des Bachelorstudiums schreiben die Studierenden ihre **Bachelorarbeit**.
 
-![](https://www.ba-wiwi.wiso.rw.fau.de/files/2022/04/grafik_ba-wiwi.jpg)
+![](https://www.studiengangsverwaltung.zuv.fau.de/wp-content/uploads/sites/5/2026/09/Studienverlauf.png)
 
 ##### Studienrichtungen und Schwerpunkte
 
@@ -76,7 +76,7 @@ Die Studienrichtungen bestehen aus dem Einführungsmodul im ersten Fachsemester 
 * Nachhaltigkeit
 * Steuern
 * Wirtschaft, Politik und Gesellschaft
-* Wirtschaftspädagogik
+* Wirtschaftspädagogik (nur in Kombination mit Schwerpunkt WiPäd wählbar)
 
 ##### Studienschwerpunkte
 
@@ -138,7 +138,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ##### Sprachkenntnisse
 
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ##### Details und Anmerkungen
 
@@ -194,7 +194,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Auf der Website des Studiengangs Wirtschaftswissenschaften gibt es weitere Infos zu den folgenden Studienrichtungen:](https://www.ba-wiwi.wiso.rw.fau.de/studienrichtungen/)
 - [Auf der Website des Studiengangs gibt es weitere Infos zu den Studienschwerpunkten.](https://www.ba-wiwi.wiso.rw.fau.de/studienschwerpunkte/)
 - [www.wipaedtrial.de](https://www.institut-wipaed.rw.fau.de/studium/wipaed-trial/)
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [weitere Zugangsmöglichkeiten](https://www.fau.de/education/bewerbung/zugang-zum-studium/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)

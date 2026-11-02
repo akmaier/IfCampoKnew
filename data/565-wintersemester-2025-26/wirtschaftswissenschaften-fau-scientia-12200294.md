@@ -36,7 +36,7 @@ _Section: FAU Scientia Gaststudium_
 | Fakultät | Rechts- und Wirtschaftswissenschaftliche Fakultät |
 | Studienbeginn | Wintersemester |
 | Größe | > 600 |
-| Besondere Studienformen | Studiengang mit Doppelabschluss, Verbundstudium/Duales Studium |
+| Besondere Studienformen | Studiengang mit Doppelabschluss |
 
 #### Worum geht es im Studiengang?
 
@@ -51,13 +51,13 @@ Das Bachelorstudium an der WiSo in Nürnberg zeichnet sich durch seine internati
 * Data Science (15%)
 * Einführung in die BWL (12%)
 * Einführung in die VWL (12%)
-* Studium Integrale (Sprache, Buchführung, Mathematik, Grundlagen des öffentlichen Rechts und Zivilrechts) (9%)
+* Studium Integrale (Buchführung, Mathematik, Grundlagen des öffentlichen Rechts und Zivilrechts) (9%)
 
 ##### Aufbau und Struktur
 
 Das **Bachelorstudium** gliedert sich in zwei Studienabschnitte (Semester 1-2: Assessmentphase und Semester 3-6: Bachelorphase): Insbesondere in den ersten Semestern belegen Sie diverse Pflichtveranstaltungen. Dadurch erhalten Sie zunächst eine erste Übersicht über die Welt des Unternehmens, methodisches und volkswirtschaftliches Grundwissen sowie grundlegende Data-Science-Kompetenzen. Spätestens mit Beginn des dritten Semesters wählen Sie einen disziplinären **Studienschwerpunkt** (BWL, VWL, Wirtschaftsinformatik oder Wirtschafts- und Betriebspädagogik), der Ihren Interessen entspricht. Parallel dazu können Sie ab dem ersten Semester Module aus einer bestimmten interdisziplinären **Studienrichtung** belegen. Am Ende des Bachelorstudiums schreiben die Studierenden ihre **Bachelorarbeit**.
 
-![](https://www.ba-wiwi.wiso.rw.fau.de/files/2022/04/grafik_ba-wiwi.jpg)
+![](https://www.studiengangsverwaltung.zuv.fau.de/wp-content/uploads/sites/5/2026/09/Studienverlauf.png)
 
 ##### Studienrichtungen und Schwerpunkte
 
@@ -76,7 +76,7 @@ Die Studienrichtungen bestehen aus dem Einführungsmodul im ersten Fachsemester 
 * Nachhaltigkeit
 * Steuern
 * Wirtschaft, Politik und Gesellschaft
-* Wirtschaftspädagogik
+* Wirtschaftspädagogik (nur in Kombination mit Schwerpunkt WiPäd wählbar)
 
 ##### Studienschwerpunkte
 
@@ -138,7 +138,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ##### Sprachkenntnisse
 
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ##### Details und Anmerkungen
 
@@ -194,7 +194,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Auf der Website des Studiengangs Wirtschaftswissenschaften gibt es weitere Infos zu den folgenden Studienrichtungen:](https://www.ba-wiwi.wiso.rw.fau.de/studienrichtungen/)
 - [Auf der Website des Studiengangs gibt es weitere Infos zu den Studienschwerpunkten.](https://www.ba-wiwi.wiso.rw.fau.de/studienschwerpunkte/)
 - [www.wipaedtrial.de](https://www.institut-wipaed.rw.fau.de/studium/wipaed-trial/)
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [weitere Zugangsmöglichkeiten](https://www.fau.de/education/bewerbung/zugang-zum-studium/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)
@@ -227,7 +226,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16766|exam:12200294|exam:12200360>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85026&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -275,7 +277,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90945&periodId=565>
 
 - **Veranstaltungsart:** Sonstige Lehrveranstaltung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 14.10.2025–03.02.2026 | 21101.04.156 |
 
 ### IM-Seminare - Seminar
 
@@ -302,6 +311,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 4.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### Supply of Medical Services - Vorlesung mit Übung
@@ -337,7 +347,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 13:15–14:45 | 20.10.2025–08.12.2025 | 21101.00.144 (LG 0.144 (38 Plätze) Übungsraum) |
+| wöchentlich | Mo | 11:30–13:00 | 20.10.2025–01.12.2025 | 21101.01.113 (LG H2 Hörsaal (155 Plätze)) |
 
 ### Übung zur Arbeitsmarktpolitik - Übung
 
@@ -362,7 +372,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87271&periodId=565>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 13:15–14:45 | 23.10.2025–05.02.2026 | 21101.00.142 (LG 0.142 (98 Plätze) Übungsraum) |
 
 ### BWL  - Betriebswirtschaftslehre I - Vorlesung
 
@@ -405,7 +422,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16766|exam:12200294|exam:12200365>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89287&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -419,7 +439,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16766|exam:12200294|exam:12200359>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83980&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -487,7 +510,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 08:00–09:30 | 20.10.2025–12.01.2026 | — |
+| wöchentlich | Mi | 16:30–18:00 | 22.10.2025–07.01.2026 | — |
 
 ### Professor:innen unterschiedlicher Lehrstühle geben einen kurzen Einblick in die Berührungspunkte zwischen der Nachhaltigkeitsdebatte und ihrem Fachgebiet und zeichnen anschließend Handlungsfelder auf, die durch Entrepreneurship bedient werden können. Anschließend werden die Ausführungen unter allen Beteiligten diskutiert. Die Vorträge der Impact-Startups ergänzen die Lehre und zeigen bereits existierende Lösungsstrategien auf. - Ringvorlesung Impact Entrepreneurship - Vorlesung
 
@@ -551,7 +582,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16766|exam:12200294|exam:12200358>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88078&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -582,7 +616,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16766|exam:12200294|exam:12200379>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83466&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 

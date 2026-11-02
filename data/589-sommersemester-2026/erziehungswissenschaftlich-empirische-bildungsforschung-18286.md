@@ -114,7 +114,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ##### Sprachkenntnisse
 
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ##### Voraussetzungen für Master
 
@@ -164,7 +164,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 #### Externe Links
 
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)
 - [Direkt zum Bewerbungsportal](https://www.campo.fau.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces?sessionlanguage=de&page=Bewerber/-innen)
@@ -188,7 +187,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (28)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (25)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -215,6 +214,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Sonstige Lehrveranstaltung
 - **Turnus:** in jedem Semester
 
+### EE-BF M6d / ZS M1 / LA Allgemeine Pädagogik Freier Bereich: SEM "Aktuelle Probleme und Forschungsergebnisse auf dem Gebiet der internationalen Bildung (in systematischer und interdisziplinärer Perspektive)" (Standort Nürnberg) — Seminar
+
+- **Segment:** `unit:91576` · **unitId:** `91576`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91576&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:00–15:30 | 13.04.2026–13.07.2026 | 20301.U1.030 (U1.030 Seminarraum (30)) |
+
 ### EE-BF M6d: Mentorat zu Modul 6d — Kurs
 
 - **Segment:** `unit:116028` · **unitId:** `116028`
@@ -229,35 +243,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mi | 13:45–15:15 | 15.04.2026–15.07.2026 | — |
 
-### EE-BF M7d Mentorat — Sonstige Lehrveranstaltung
+### EEBF Modul 3 - Mentorat — Übung
 
-- **Segment:** `unit:119363` · **unitId:** `119363`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119363&periodId=589>
+- **Segment:** `unit:84733` · **unitId:** `84733`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84733&periodId=589>
 
-- **Veranstaltungsart:** Sonstige Lehrveranstaltung
+- **Veranstaltungsart:** Übung
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 15:15–16:45 | 15.04.2026–15.07.2026 | — |
-
-### EEBF Modul 3 - Einführung in die Methoden der Empirischen Bildungsforschung — Seminar
-
-- **Segment:** `unit:86923` · **unitId:** `86923`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86923&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 11:30–13:00 | 16.04.2026–16.07.2026 | 20301.U1.029 (U1.029 Seminarraum (18)) |
 
 ### EEBF Modul 3 - Methoden der Empirischen Bildungsforschung - Grundlagen — Seminar
 
@@ -277,31 +270,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Mi | 15:45–17:15 | 03.06.2026 | 20301.01.021 (1.021 Computerseminarraum (25)) |
 | Einzeltermin | Do | 09:45–11:15 | 11.06.2026 | 20301.01.021 (1.021 Computerseminarraum (25)) |
 
-### EEBF Modul 4 - Mentorat — Übung
-
-- **Segment:** `unit:86520` · **unitId:** `86520`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86520&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
 ### EEBF Modul 4 - Methoden der empirischen Bildungsforschung - Vertiefung (Anwendung im Forschungskontext) — Seminar
 
 - **Segment:** `unit:89470` · **unitId:** `89470`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89470&periodId=589>
 
 - **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 11:30–13:00 | 15.04.2026–15.07.2026 | 20301.U1.029 (U1.029 Seminarraum (18)) |
-| Einzeltermin | Mi | 15:45–17:15 | 08.07.2026 | 20301.U1.030 (U1.030 Seminarraum (30)) |
-| Einzeltermin | Mi | 14:00–15:30 | 15.07.2026 | 20301.U1.031 (U1.031 Seminarraum (40)) |
 
 ### EEBF Modul 5 - Ergebnisse der Empirischen Bildungsforschung in schulischen und außerschulischen Feldern — Seminar
 
@@ -317,15 +292,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 09:45–11:15 | 16.04.2026–16.07.2026 | 20301.U1.029 (U1.029 Seminarraum (18)) |
-
-### EEBF Modul 8 - Projektgrundlagen - Der Forschungsprozess im Dialog — Seminar
-
-- **Segment:** `unit:86130` · **unitId:** `86130`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86130&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
 
 ### EEBF Modul 8 - Projektmanagement - Seminar für alle
 
@@ -343,14 +309,19 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Mi | 11:30–13:00 | 15.04.2026 | 75202.00.514 (St.Paul 00.514 - (12)) |
 | wöchentlich | Mi | 11:30–13:00 | 22.04.2026–15.07.2026 | 20301.01.021 (1.021 Computerseminarraum (25)) |
 
-### EEBF Modul 9 - Projektarbeit — Übung
+### Erziehungswissenschaftliche Grundlagen
 
-- **Segment:** `unit:85855` · **unitId:** `85855`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85855&periodId=589>
+- **Segment:** `unit:36052` · **unitId:** `36052`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36052&periodId=589>
 
-- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 10.0
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Grammar & Vocabulary for Erasmus students
 
@@ -465,21 +436,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 
-### MA EEBF M1 Erziehungswissenschaftliche Grundlagen — Seminar
-
-- **Segment:** `unit:125320` · **unitId:** `125320`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125320&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–15:30 | 14.04.2026–14.07.2026 | 20301.U1.029 (U1.029 Seminarraum (18)) |
-
 ### MA EEBF M6/MA Pädagogik MII: Medien, Wissen, Bildung - Grundlagen der Medienpädagogik — Seminar
 
 - **Segment:** `unit:89141` · **unitId:** `89141`
@@ -495,27 +451,25 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 09:45–11:15 | 13.04.2026–13.07.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
 
-### MA Pädagogik MVIII/MA EEBF M7: Kontexte medienpädagogischer Forschung und Praxis/Medienpädagogik (Profilvertiefung) — Seminar
+### MA EEBF M7/MA Pädagogik MVIII: Aktuelle Ansätze medienpädagogischer Forschung — Seminar
 
-- **Segment:** `unit:111970` · **unitId:** `111970`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111970&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** in jedem Semester
-
-### Masterstudiengang EE-BF Modul 2: Erziehungswissenschaftliche Vertiefung — Seminar
-
-- **Segment:** `unit:125444` · **unitId:** `125444`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125444&periodId=589>
+- **Segment:** `unit:91808` · **unitId:** `91808`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91808&periodId=589>
 
 - **Veranstaltungsart:** Seminar
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-### Masterstudiengang EE-BF Modul 6: Mentorat Qualitätsentwicklung in Schule und Unterricht (Profilgrundlagen) Anmeldung ab dem 07.10.2024 möglich — Seminar
+#### Termine
 
-- **Segment:** `unit:84638` · **unitId:** `84638`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84638&periodId=589>
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:00–15:30 | 13.04.2026–13.07.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
+
+### Masterstudiengang EE-BF Modul 2: Erziehungswissenschaftliche Vertiefung — Seminar
+
+- **Segment:** `unit:125444` · **unitId:** `125444`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125444&periodId=589>
 
 - **Veranstaltungsart:** Seminar
 - **Unterrichtssprache:** Deutsch
@@ -536,6 +490,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | 14-täglich | Di | 15:45–17:15 | 14.04.2026–07.07.2026 | 20301.01.041 (1.041 großer Hörsaal (310)) |
+
+### Schriftliche Übersetzungsleistung Latein I für Anfänger (Zulassungsvoraussetzung zu Kurs Latein II für Fortgeschrittene)
+
+- **Segment:** `unit:39848` · **unitId:** `39848`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39848&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | Do | 14:00–16:00 | 07.06.2026 23:59:59 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
 
 ### Vorlesung: Einführung in die Schulpädagogik (Prof. Dr. Gläser-Zikuda) (Angebot am Standort Nürnberg) - Vorlesung
 

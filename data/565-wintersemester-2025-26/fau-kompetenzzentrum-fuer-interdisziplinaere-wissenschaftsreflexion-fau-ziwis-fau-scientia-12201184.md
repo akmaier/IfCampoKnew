@@ -35,14 +35,7 @@ _Section: FAU Scientia Gaststudium_
 
 - **Veranstaltungsart:** Kurs
 - **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 12:15–13:45 | 15.10.2025–04.02.2026 | 54201.03.002 ( Übungsraum III/2 Studienzentrum) |
 
 ### Interkulturelle Kompetenz: Theoretische und praktische Grundlagen - Seminar
 
@@ -51,7 +44,17 @@ _Section: FAU Scientia Gaststudium_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91821&periodId=565>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Di | 15:15–16:45 | 21.10.2025 | — |
+| Einzeltermin | Di | 15:15–16:45 | 04.11.2025 | — |
+| Einzeltermin | Fr | 10:00–18:00 | 12.12.2025 | 05902.00.003 ( 00.3 PSG) |
+| Einzeltermin | Sa | 10:00–18:00 | 13.12.2025 | 05902.00.003 ( 00.3 PSG) |
 
 ### Interkulturelles Konfliktmanagement: Theoretische und praktische Grundlagen - Seminar
 
@@ -80,7 +83,14 @@ _Section: FAU Scientia Gaststudium_
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:15–15:45 | 15.10.2025–04.02.2026 | 05801.02.110 ( A 401) |
 
 ### Ohne Lampenfieber überzeugend und sicher auftreten - Kurs
 
@@ -124,7 +134,14 @@ _Section: FAU Scientia Gaststudium_
 
 - **Veranstaltungsart:** Kurs
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:15–11:45 | 14.10.2025–03.02.2026 | 54201.03.002 ( Übungsraum III/2 Studienzentrum) |
 
 ### Öffentliche Vorlesungsreihe: Collegium Alexandrinum - "Kultur und Natur im Wandel" - Vorlesung
 
@@ -149,7 +166,10 @@ _Section: FAU Scientia Gaststudium_
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16766|exam:12201184|exam:12201193>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83980&periodId=565>
 
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 

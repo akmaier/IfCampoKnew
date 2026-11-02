@@ -5,7 +5,7 @@ campo_segment: "title:17172"
 campo_path: "title:16758|title:16763|title:17172"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17172"
 po_version_count: 0
-course_count: 26
+course_count: 27
 ---
 
 # Learning Design
@@ -14,7 +14,7 @@ course_count: 26
 
 _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theologie_  
 
-## Veranstaltungen (26)
+## Veranstaltungen (27)
 
 ### Betriebspädagogisches Seminar: E-Learning und Wissensmanagement - Übung
 
@@ -47,19 +47,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 08:00–15:30 | 14.11.2025 | 20301.01.028 (1.028 Seminarraum MM-Labor (18)) |
-| Einzeltermin | Mi | 08:00–11:15 | 26.11.2025 | 20301.01.028 (1.028 Seminarraum MM-Labor (18)) |
-| Einzeltermin | Mi | 08:00–11:15 | 10.12.2025 | 20301.01.028 (1.028 Seminarraum MM-Labor (18)) |
-| Einzeltermin | Mi | 08:00–11:15 | 17.12.2025 | 20301.01.028 (1.028 Seminarraum MM-Labor (18)) |
-| Einzeltermin | Mi | 08:00–11:15 | 21.01.2026 | 20301.01.028 (1.028 Seminarraum MM-Labor (18)) |
-| Einzeltermin | Mi | 08:00–11:15 | 04.02.2026 | 20301.01.028 (1.028 Seminarraum MM-Labor (18)) |
 
 ### Digitale Kooperation und Organisation - Seminar
 
@@ -118,16 +106,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Do | 10:00–12:00 | 16.10.2025 | — |
-| Einzeltermin | Do | 10:00–12:00 | 23.10.2025 | — |
-| Blockveranstaltung | — | 09:00–18:00 | 03.11.2025–07.11.2025 | — |
 
 ### MA EEBF M7/MA Pädagogik MVIII: Aktuelle Ansätze medienpädagogischer Forschung - Seminar
 
@@ -263,6 +242,8 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17172|exam:12826974|exam:12826975|exam:12826976|exam:12827002|exam:12827003>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115858&periodId=565>
 
+- **ECTS-Punkte:** 10.0
+
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
@@ -380,6 +361,12 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Segment:** `exam:12827027` · **unitId:** `115871`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17172|exam:12826974|exam:12826975|exam:12826976|exam:12827027>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115871&periodId=565>
+
+### 32320 AI Literacy - Grundlegende Kompetenzen für den Einsatz von Künstlicher Intelligenz im Studium
+
+- **Segment:** `exam:17952021` · **unitId:** `140937`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17172|exam:12826974|exam:12826975|exam:12826976|exam:12826977|exam:17952021>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=140937&periodId=565>
 
 ### 82562 Betriebspädagogisches Seminar: Designing new work and learning environments
 

@@ -60,7 +60,7 @@ Das berufsbegleitende Masterstudium ermöglicht es, sich je nach Interesse auf �
 
 ![](https://www.studiengangsverwaltung.zuv.fau.de/wp-content/uploads/sites/5/2024/[Telefon entfernt]-ac7a8457-a8fe-4fda-819d-9535f1377faa_1.jpg)
 
-Mehr Informationen erhalten Sie auf der [Website des MVM](https://www.mvm-fau.de/inhalte).
+Mehr Informationen erhalten Sie auf der [Website des MVM](https://fau-executive-school.de/marketing-vertriebsmanagement/).
 
 ##### Studienrichtungen und Schwerpunkte
 
@@ -86,12 +86,12 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ##### Bewerbungsfrist
 
-* Wintersemester: 31.08.
+* Wintersemester: 30.09.
 * Sommersemester: nicht möglich
 
 ##### Sprachkenntnisse
 
-* Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse mit Sprachnachweis erforderlich
 
 ##### Voraussetzungen für Master
 
@@ -101,7 +101,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 * ​Nachweis über Deutschkenntnisse (falls erster berufsqualifizierender Abschluss bzw. Hochschulzugangsberechtigung nicht in deutscher Sprache erworben wurde)
 * Aussagekräftige Bewerbung (Zulassungsantrag, Anschreiben, Lebenslauf, Zeugnisse, Nachweise)
 
-Weitere Informationen zu den Voraussetzungen, dem Bewerbungsprozess (und zu dessen möglicher Verlängerung) und den Unterlagen für Ihre Bewerbung finden Sie auf der [Studiengangswebsite.](https://www.mvm-fau.de/bewerbung)
+Weitere Informationen zu den Voraussetzungen, dem Bewerbungsprozess (und zu dessen möglicher Verlängerung) und den Unterlagen für Ihre Bewerbung finden Sie auf der [Studiengangswebsite.](https://fau-executive-school.de/marketing-vertriebsmanagement/bewerbung/)
 
 [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 
@@ -129,7 +129,6 @@ Organisatorisches
 
 Downloads
 
-* [Modulhandbuch](https://www.wiso.rw.fau.de/files/2021/05/modulhandbuch_master-marketing-und-vertriebsmanagement_abws2021.pdf)
 * [Prüfungsordnungen](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/)
 
 Weitere Informationen
@@ -146,13 +145,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 #### Externe Links
 
-- [Auf der Studiengangswebsite finden Sie alle Kontaktmöglichkeiten sowie Informationen zu unseren nächsten Informationsveranstaltungen.](https://mvm-fau.de/)
+- [Auf der Studiengangswebsite finden Sie alle Kontaktmöglichkeiten sowie Informationen zu unseren nächsten Informationsveranstaltungen.](https://fau-executive-school.de/marketing-vertriebsmanagement/)
 - [BRINGT DAS WAS?! Berufsbegleitender Master in Marketing und Vertrieb](https://www.youtube.com/watch?v=UFjtdi4XQHM)
-- [Website des MVM](https://www.mvm-fau.de/inhalte)
-- [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
-- [Studiengangswebsite.](https://www.mvm-fau.de/bewerbung)
+- [Studiengangswebsite.](https://fau-executive-school.de/marketing-vertriebsmanagement/bewerbung/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)
+- [Jetzt bewerben](https://www.mvm-fau.de/bewerbung)
 - [Zentrale Studienberatung Die Zentrale Studienberatung ist die erste Anlaufstelle zu allen Fragen rund ums Studium. Die Zentrale Studienberatung ist die erste Anlaufstelle zu allen Fragen rund ums Studium. Mehr über Zentrale Studienberatung  erfahren](https://zsb.fau.de)
 - [Fachstudienberatung Wirtschafts- und Sozialwissenschaften Fachbezogene Beratung für Fragen rund um das Fach und die Studienplanung. Fachbezogene Beratung für Fragen rund um das Fach und die Studienplanung. Mehr über Fachstudienberatung Wirtschafts- und Sozialwissenschaften erfahren](https://www.wiso.rw.fau.de/studium/studienorganisation/studierendenberatung/fachstudienberatung/)
 - [Infos zum Semesterstart](https://www.fau.de/studium/studienorganisation/studienstart/)
@@ -160,14 +158,13 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Semesterbeitrag](https://www.fau.de/studium/studienorganisation/studierendenangelegenheiten/rueckmeldung-und-semesterbeitrag/)
 - [Beratungs- und Servicestellen](https://www.fau.de/studium/studienorganisation/studienberatung/beratungsangebote-im-ueberblick/)
 - [Wege ins Ausland](https://www.fau.de/studium/studienorganisation/wege-ins-ausland/)
-- [Modulhandbuch](https://www.wiso.rw.fau.de/files/2021/05/modulhandbuch_master-marketing-und-vertriebsmanagement_abws2021.pdf)
 - [Prüfungsordnungen](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/)
 - [Webseite des Studiengangs](https://www.mvm-fau.de/)
 - [Prüfungsamt Fachbereich Wirtschafts- und Sozialwissenschaften](https://www.fau.de/studium/studienorganisation/pruefungen/pruefungsamt-rw/wirtschafts-und-sozialwissenschaften/)
 - [Webseite des Departments/Instituts](https://www.wiso.rw.fau.de/)
 - [Rechts- und Wirtschaftswissenschaftliche Fakultät](https://www.rw.fau.de/)
 - [Studierendenvertretung der FAU](https://stuve.fau.de/)
-- [FAU/Father and Sun](https://www.fau.de/wp-content/uploads/sites/4/2026/04/Marketing-und-Vertriebsmanagement-MSc-FAU_WISO_2025_FATHER-SUN_00210.jpg)
+- [Giulia Iannicelli](https://www.fau.de/wp-content/uploads/sites/4/2026/11/Ueberblick-scaled-1.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/apply-now.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
@@ -211,8 +208,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.10.2025–03.02.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
-| wöchentlich | Do | 14:00–16:00 | 16.10.2025–05.02.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 14:00–16:00 | 13.10.2025–02.02.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.10.2025–04.02.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
