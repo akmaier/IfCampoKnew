@@ -280,7 +280,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 |---|---|---|---|---|
 | wöchentlich | Mi | 14:15–15:45 | 22.04.2026–15.07.2026 | 11401.03.260 (3.71 Seminarraum) |
 
-### BRT_LSE - Bioreaktions- und Bioverfahrenstechnik (nur LSE) - Vorlesung
+### BRT_LSE - Bioreaktions- und Bioverfahrenstechnik (nur LSE) (ins Wintersemester verschoben) - Vorlesung
 
 - **Segment:** `exam:15691344` · **unitId:** `86705`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17604|title:17605|exam:13836228|exam:15691344>
@@ -296,7 +296,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 |---|---|---|---|---|
 | wöchentlich | Do | 10:15–11:45 | 23.04.2026–16.07.2026 | 12104.01.411 (KS II Kurssaal II) |
 
-### BRT_LSE - Bioreaktions- und Bioverfahrenstechnik (nur LSE) - Vorlesung
+### BRT_LSE - Bioreaktions- und Bioverfahrenstechnik (nur LSE) (ins Wintersemester verschoben) - Vorlesung
 
 - **Segment:** `exam:15691342` · **unitId:** `86705`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17604|title:17605|exam:13836264|exam:15691342>
@@ -312,7 +312,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 |---|---|---|---|---|
 | wöchentlich | Do | 10:15–11:45 | 23.04.2026–16.07.2026 | 12104.01.411 (KS II Kurssaal II) |
 
-### BRT_LSE - Bioreaktions- und Bioverfahrenstechnik (nur LSE) - Vorlesung
+### BRT_LSE - Bioreaktions- und Bioverfahrenstechnik (nur LSE) (ins Wintersemester verschoben) - Vorlesung
 
 - **Segment:** `exam:15691340` · **unitId:** `86705`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17604|title:17605|exam:13836272|exam:15691340>
@@ -1029,7 +1029,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 |---|---|---|---|---|
 | wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | 12103.00.332 |
 
-### UE_BRT_LSE - Übung zur Bioreaktions- und Bioverfahrenstechnik (nur LSE) - Übung
+### UE_BRT_LSE - Übung zur Bioreaktions- und Bioverfahrenstechnik (nur LSE) (ins Wintersemester verschoben) - Übung
 
 - **Segment:** `exam:15691346` · **unitId:** `96631`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17604|title:17605|exam:13836228|exam:15691346>
@@ -1045,7 +1045,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 |---|---|---|---|---|
 | wöchentlich | Do | 14:15–15:45 | 23.04.2026–16.07.2026 | 11901.U1.245 (K2-119 Seminarraum) |
 
-### UE_BRT_LSE - Übung zur Bioreaktions- und Bioverfahrenstechnik (nur LSE) - Übung
+### UE_BRT_LSE - Übung zur Bioreaktions- und Bioverfahrenstechnik (nur LSE) (ins Wintersemester verschoben) - Übung
 
 - **Segment:** `exam:15691348` · **unitId:** `96631`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17604|title:17605|exam:13836264|exam:15691348>
@@ -1061,7 +1061,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 |---|---|---|---|---|
 | wöchentlich | Do | 14:15–15:45 | 23.04.2026–16.07.2026 | 11901.U1.245 (K2-119 Seminarraum) |
 
-### UE_BRT_LSE - Übung zur Bioreaktions- und Bioverfahrenstechnik (nur LSE) - Übung
+### UE_BRT_LSE - Übung zur Bioreaktions- und Bioverfahrenstechnik (nur LSE) (ins Wintersemester verschoben) - Übung
 
 - **Segment:** `exam:15691350` · **unitId:** `96631`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17604|title:17605|exam:13836272|exam:15691350>

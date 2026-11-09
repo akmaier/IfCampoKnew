@@ -58,14 +58,7 @@ _Section: FAU Scientia Gaststudium_
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | 05801.04.112 ( A 602) |
 
 ### BA 4: Sprachen, Kulturen und Religionen des Orients - Vorlesung "Semitische Sprachen und Kulturen" - Vorlesung
 
