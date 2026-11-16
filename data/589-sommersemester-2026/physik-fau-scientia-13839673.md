@@ -252,9 +252,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 13101.00.103 (SR 00.103 Seminarraum der Angewandten Physik) |
-| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 13101.01.683 (SR 01.683 Seminarraum der Theoretischen Physik I) |
-| wöchentlich | Fr | 10:00–12:00 | 17.04.2026–17.07.2026 | 13003.00.836 (HF Hörsaal Physikum) |
+| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 13101.01.332 (SR 01.332 Seminarraum Festkörperphysik) |
+| wöchentlich | Fr | 08:00–10:00 | 17.04.2026–17.07.2026 | 13101.01.683 (SR 01.683 Seminarraum der Theoretischen Physik I) |
 
 ### ILS-MA-P10 / Cell Adhesion and Cytoskeleton - Cell Adhesion and Cytoskeleton: Cell Biological, Biophysical, and Medical Aspects - Vorlesung mit Übung
 
