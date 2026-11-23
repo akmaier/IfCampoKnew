@@ -1097,7 +1097,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132398&periodId=565>
 
 - **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 17:00–19:30 | 20.10.2025 | — |
 
 ### 003 PERLE Sonografie für Anfängerinnen und Anfänger, Mo., 20.10.2025, 17:00 - 19:30 Uhr, SimPatiK - Kurs
 
@@ -1217,7 +1224,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16777|exam:12187367|exam:12187370|exam:12188173|exam:12189297|exam:12189664|exam:13728973>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132408&periodId=565>
 
+- **Veranstaltungsart:** Kurs
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -1440,7 +1449,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132427&periodId=565>
 
 - **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 16:00–19:00 | 31.10.2025 | — |
 
 ### 026 PERLE Refresher Orthopädie, Sa., 01.11.2025, 11:00 - 14:00 Uhr, SimPatiK - Kurs
 
@@ -1512,7 +1528,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16777|exam:12187367|exam:12187370|exam:12188173|exam:12189297|exam:12189531|exam:13729636>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132435&periodId=565>
 
+- **Veranstaltungsart:** Kurs
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -1559,7 +1577,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132449&periodId=565>
 
 - **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 16:00–18:30 | 03.11.2025 | — |
 
 ### 035 PERLE Nahtkurs 3, Mo., 03.11.2025, 19:30 - 21:30 Uhr, SkillsLab Perle - Kurs
 
@@ -1759,7 +1784,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16777|exam:12187367|exam:12187370|exam:12188173|exam:12189297|exam:12189664|exam:13730766>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132466&periodId=565>
 
+- **Veranstaltungsart:** Kurs
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -1773,7 +1800,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16777|exam:12187367|exam:12187370|exam:12188173|exam:12189297|exam:12189816|exam:13730790>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132467&periodId=565>
 
+- **Veranstaltungsart:** Kurs
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -1835,7 +1864,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16777|exam:12187367|exam:12187370|exam:12188173|exam:12189297|exam:12189862|exam:13730876>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132470&periodId=565>
 
+- **Veranstaltungsart:** Kurs
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -1977,7 +2008,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16777|exam:12187367|exam:12187370|exam:12188173|exam:12189297|exam:12189335|exam:13800858>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133601&periodId=565>
 
+- **Veranstaltungsart:** Kurs
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -2008,7 +2041,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133602&periodId=565>
 
 - **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 15:00–19:00 | 27.11.2025 | — |
 
 ### 065 PERLE Blutkurs 2, Do., 27.11.2025, 17:00 - 19:30 Uhr, SkillsLab Perle - Kurs
 
@@ -2064,7 +2104,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16777|exam:12187367|exam:12187370|exam:12188173|exam:12189297|exam:12189508|exam:13741380>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132766&periodId=565>
 
+- **Veranstaltungsart:** Kurs
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
@@ -2111,7 +2153,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132771&periodId=565>
 
 - **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 16:30–19:30 | 01.12.2025 | — |
 
 ### 072 PERLE Thoraxdrainage-Kurs, Do., 04.12.2025, 17:00 - 19:45 Uhr, SkillsLab Perle - Kurs
 
@@ -2200,7 +2249,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132801&periodId=565>
 
 - **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | So | 14:00–16:45 | 07.12.2025 | — |
 
 ### 081 PERLE Nahtkurs 1, Di., 09.12.2025, 16:30 -18:30 Uhr, SkillsLab Perle - Kurs
 
@@ -2606,8 +2662,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 16:00–17:30 | 13.10.2025–02.02.2026 | 00501.01.014 ( KH 1.014 Hörsaal Kollegienhaus) |
-| wöchentlich | Do | 16:00–17:30 | 16.10.2025–05.02.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 17:45–19:15 | 13.10.2025–02.02.2026 | 00501.01.014 ( KH 1.014 Hörsaal Kollegienhaus) |
+| wöchentlich | Do | 17:45–19:15 | 16.10.2025–05.02.2026 | 00501.01.013 ( KH 1.013 Hörsaal Kollegienhaus) |
 
 ### Chinesisch II (für Studierende aller Fachrichtungen) - Übung
 
@@ -2660,8 +2716,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 09:45–11:15 | 20.10.2025–02.02.2026 | 21101.05.155 (LG 5.155 (30 Plätze) Seminarraum) |
-| wöchentlich | Mi | 09:45–11:15 | 29.10.2025–04.02.2026 | 21101.05.155 (LG 5.155 (30 Plätze) Seminarraum) |
+| wöchentlich | Di | 11:30–13:00 | 21.10.2025–27.01.2026 | 20101.00.016 (FG 0.016 (44 Plätze) Seminarraum) |
+| wöchentlich | Do | 11:30–13:00 | 23.10.2025–29.01.2026 | 21101.05.155 (LG 5.155 (30 Plätze) Seminarraum) |
 
 ### Comprensión Auditiva - virtueller Kurs C1  - Online-Kurs
 
@@ -2740,8 +2796,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 08:30–10:00 | 20.10.2025–02.02.2026 | 54201.01.010 ( Übungsraum I/10 Studienzentrum) |
-| wöchentlich | Mi | 08:30–10:00 | 22.10.2025–04.02.2026 | 54201.02.011 ( Übungsraum II/11 Studienzentrum) |
+| wöchentlich | Di | 14:15–15:45 | 21.10.2025–03.02.2026 | 54801.02.011 (SP 02.011 Schlossplatz 1) |
+| wöchentlich | Do | 14:15–15:45 | 23.10.2025–05.02.2026 | 54801.02.011 (SP 02.011 Schlossplatz 1) |
 
 ### Deutsch A1.2: Allgemeinkurs - Übung
 
@@ -2849,8 +2905,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 08:30–10:00 | 20.10.2025–02.02.2026 | 54801.02.011 (SP 02.011 Schlossplatz 1) |
-| wöchentlich | Mi | 08:30–10:00 | 22.10.2025–04.02.2026 | 54801.02.011 (SP 02.011 Schlossplatz 1) |
+| wöchentlich | Di | 18:15–19:45 | 21.10.2025–03.02.2026 | 05701.U1.008 () |
+| wöchentlich | Do | 18:15–19:45 | 23.10.2025–05.02.2026 | 05701.U1.008 () |
 
 ### Deutsch A2.2: Allgemeinkurs - Übung
 
@@ -2867,8 +2923,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 08:30–10:00 | 20.10.2025–02.02.2026 | 05801.U1.0232 (SL 104, Bismarckstr. 1 Multimedia-Sprachlabor (Belegung nur nach Rücksprache mit den Raumverantwortlichen)) |
-| wöchentlich | Mi | 08:30–10:00 | 22.10.2025–04.02.2026 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Di | 14:15–15:45 | 21.10.2025–03.02.2026 | 05701.00.011 ( 00.011 Übungsraum 2) |
+| wöchentlich | Do | 14:15–15:45 | 23.10.2025–05.02.2026 | 05801.U1.0232 (SL 104, Bismarckstr. 1 Multimedia-Sprachlabor (Belegung nur nach Rücksprache mit den Raumverantwortlichen)) |
 
 ### Deutsch A2.2: Allgemeinkurs - Übung
 
@@ -2914,8 +2970,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 10:15–11:45 | 20.10.2025–02.02.2026 | 05203.02.215 (SZ 02.215 (Bismarckstr. 10) Belegung nur nach Rücksprache mit der Raumverantwortlichen) 05203.00.216 (SZ 00.216 (Bismarckstr. 10) Belegung nur nach Rücksprache mit der Raumverantwortlichen) |
-| wöchentlich | Mi | 10:15–11:45 | 22.10.2025–04.02.2026 | 05203.00.216 (SZ 00.216 (Bismarckstr. 10) Belegung nur nach Rücksprache mit der Raumverantwortlichen) |
+| wöchentlich | Mo | 12:15–13:45 | 20.10.2025–02.02.2026 | 05701.U1.008 () |
+| wöchentlich | Mi | 12:15–13:45 | 22.10.2025–04.02.2026 | 05701.U1.008 () |
 
 ### Deutsch B1.1: Allgemeinkurs - Übung
 
@@ -2968,8 +3024,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 12:15–13:45 | 20.10.2025–02.02.2026 | 05203.02.215 (SZ 02.215 (Bismarckstr. 10) Belegung nur nach Rücksprache mit der Raumverantwortlichen) 05203.00.216 (SZ 00.216 (Bismarckstr. 10) Belegung nur nach Rücksprache mit der Raumverantwortlichen) |
-| wöchentlich | Mi | 12:15–13:45 | 22.10.2025–04.02.2026 | 05203.00.216 (SZ 00.216 (Bismarckstr. 10) Belegung nur nach Rücksprache mit der Raumverantwortlichen) |
+| wöchentlich | Di | 16:15–17:45 | 21.10.2025–03.02.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Do | 16:15–17:45 | 23.10.2025–05.02.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
 
 ### Deutsch B1: Allgemeinkurs - Übung
 
@@ -3043,8 +3099,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 10:15–11:45 | 20.10.2025–02.02.2026 | 54201.01.006 ( Übungsraum I/6 Studienzentrum) |
-| wöchentlich | Mi | 10:15–11:45 | 22.10.2025–04.02.2026 | 54201.01.006 ( Übungsraum I/6 Studienzentrum) |
+| wöchentlich | Mo | 18:15–19:45 | 20.10.2025–02.02.2026 | 54201.01.009 ( Übungsraum I/9 Studienzentrum) |
+| wöchentlich | Mi | 18:15–19:45 | 22.10.2025–04.02.2026 | 54201.01.009 ( Übungsraum I/9 Studienzentrum) |
 
 ### Deutsch B2.2: Allgemeinkurs - Übung
 
@@ -3397,7 +3453,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung | — | 08:00–13:00 | 22.09.2025–25.09.2025 | 54801.01.013 (SP 01.013 Schlossplatz 1) |
+| Blockveranstaltung | — | 08:00–13:00 | 22.09.2025–25.09.2025 | 54801.02.012 (SP 02.012 Schlossplatz 1) |
 
 ### DSH-Semesterkurs (Voranmeldung obligatorisch) - Kurs
 
@@ -3413,10 +3469,11 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 14:15–17:45 | 13.10.2025 | — |
-| wöchentlich | Mo | 14:15–17:45 | 20.10.2025–02.02.2026 | 54201.01.009 ( Übungsraum I/9 Studienzentrum) |
-| wöchentlich | Fr | 12:15–15:45 | 24.10.2025–06.02.2026 | 54201.01.008 ( Übungsraum I/8 Studienzentrum) |
-| wöchentlich | Do | 12:15–15:45 | 30.10.2025–05.02.2026 | 54201.01.010 ( Übungsraum I/10 Studienzentrum) |
+| Einzeltermin | Mo | 08:30–11:45 | 13.10.2025 | 54201.00.010 (SR 1 Studienzentrum) |
+| wöchentlich | Mo | 08:30–11:45 | 20.10.2025–02.02.2026 | 54201.01.008 ( Übungsraum I/8 Studienzentrum) |
+| wöchentlich | Di | 08:30–11:45 | 21.10.2025–03.02.2026 | 54201.01.010 ( Übungsraum I/10 Studienzentrum) |
+| wöchentlich | Fr | 08:30–11:45 | 24.10.2025–06.02.2026 | 54201.01.009 ( Übungsraum I/9 Studienzentrum) |
+| wöchentlich | Do | 08:30–11:45 | 30.10.2025–05.02.2026 | 54201.01.008 ( Übungsraum I/8 Studienzentrum) |
 
 ### Dänisch: Landeskunde - Übung
 
@@ -3537,7 +3594,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 08:15–09:45 | 21.10.2025–03.02.2026 | 54201.01.007 ( Übungsraum I/7 Studienzentrum) |
+| wöchentlich | Mi | 16:15–17:45 | 22.10.2025–04.02.2026 | 00501.00.014 ( KH 0.014 Hörsaal Kollegienhaus (SR) - 42 Plätze) |
 
 ### English: Level 1 - Focus on Speaking - Übung
 
@@ -3588,7 +3645,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 12:15–13:45 | 20.10.2025–02.02.2026 | 00501.00.014 ( KH 0.014 Hörsaal Kollegienhaus (SR) - 42 Plätze) |
+| wöchentlich | Mi | 12:15–13:45 | 22.10.2025–04.02.2026 | 00501.00.014 ( KH 0.014 Hörsaal Kollegienhaus (SR) - 42 Plätze) |
 
 ### English: Level 2 - Focus on Academic Writing - Übung
 
@@ -3605,7 +3662,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 16:15–17:45 | 21.10.2025–03.02.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
+| wöchentlich | Mi | 10:15–11:45 | 22.10.2025–04.02.2026 | 00501.00.014 ( KH 0.014 Hörsaal Kollegienhaus (SR) - 42 Plätze) |
 
 ### English: Level 2 - Focus on Grammar and Vocabulary - Übung
 
@@ -3690,7 +3747,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 12:15–13:45 | 20.10.2025–02.02.2026 | 00501.00.023 ( KH 0.023 Hörsaal Kollegienhaus) |
+| wöchentlich | Do | 14:15–15:45 | 23.10.2025–05.02.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) 00501.00.024 (KH 0.024 Kollegienhaus - Belegung ausschließlich durch das Institut Politische Wissenschaft) |
 
 ### English: Level 3 - English for Engineering and Technology - Übung
 
@@ -3818,7 +3875,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 16:15–17:45 | 23.10.2025–05.02.2026 | 05701.U1.008 () |
 
 ### English: Level 3 - Spoken English and Presentation Skills for Technology Students - Übung
 
@@ -3912,7 +3976,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:15–13:45 | 20.10.2025–02.02.2026 | 54801.01.012 (SP 01.012 Schlossplatz 1) |
 
 ### English: Level 4 - Writing and Presenting Articles - Übung
 
@@ -4135,8 +4206,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 14:15–15:45 | 20.10.2025–02.02.2026 | 54606.01.003 (F 13 (IFA)) |
-| wöchentlich | Mi | 14:15–15:45 | 22.10.2025–04.02.2026 | 54606.01.003 (F 13 (IFA)) |
+| wöchentlich | Di | 14:15–15:45 | 21.10.2025–03.02.2026 | 00501.02.012 ( KH 2.012 Hörsaal Kollegienhaus) |
+| wöchentlich | Do | 14:15–15:45 | 23.10.2025–05.02.2026 | 00501.02.012 ( KH 2.012 Hörsaal Kollegienhaus) |
 
 ### Französisch: Elementarkurs II   - Übung
 
@@ -4153,8 +4224,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 16:30–18:00 | 20.10.2025–02.02.2026 | 00501.00.024 (KH 0.024 Kollegienhaus - Belegung ausschließlich durch das Institut Politische Wissenschaft) |
-| wöchentlich | Mi | 16:30–18:00 | 22.10.2025–04.02.2026 | 00501.00.023 ( KH 0.023 Hörsaal Kollegienhaus) |
+| wöchentlich | Di | 16:15–17:45 | 21.10.2025–03.02.2026 | 00501.02.012 ( KH 2.012 Hörsaal Kollegienhaus) |
+| wöchentlich | Do | 16:15–17:45 | 23.10.2025–05.02.2026 | 00501.02.012 ( KH 2.012 Hörsaal Kollegienhaus) |
 
 ### Französisch: Elementarkurs III  (Fortsetzung von EK II) - Übung
 
@@ -4171,8 +4242,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 16:15–17:45 | 20.10.2025–02.02.2026 | 05801.U1.021 (SL 102, Bismarckstr.1 Multimedia-Sprachlabor (Belegung nur nach Rücksprache mit den Raumverantwortlichen)) |
-| wöchentlich | Mi | 16:15–17:45 | 22.10.2025–04.02.2026 | 05203.02.215 (SZ 02.215 (Bismarckstr. 10) Belegung nur nach Rücksprache mit der Raumverantwortlichen) |
+| wöchentlich | Di | 18:00–19:30 | 21.10.2025–03.02.2026 | 05801.U1.021 (SL 102, Bismarckstr.1 Multimedia-Sprachlabor (Belegung nur nach Rücksprache mit den Raumverantwortlichen)) |
+| wöchentlich | Do | 18:00–19:30 | 23.10.2025–05.02.2026 | 05801.U1.0232 (SL 104, Bismarckstr. 1 Multimedia-Sprachlabor (Belegung nur nach Rücksprache mit den Raumverantwortlichen)) |
 
 ### Französisch: Elementarkurs IV - Übung
 
@@ -4976,7 +5047,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 4.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| nach Vereinbarung | — | — | — | — |
 
 ### Russisch online A2 - Übung
 
@@ -5110,7 +5188,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Di | 18:15–20:15 | 04.11.2025 | — |
+| Einzeltermin | Mo | 18:00–20:00 | 20.10.2025 | — |
 
 ### SkillsLab MCO_EKG 2 Kurs - Kurs
 
@@ -5118,13 +5196,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16777|exam:12187367|exam:12187370|exam:12188173|exam:12189877|exam:12189893|exam:12189895>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113366&periodId=565>
 
+- **Veranstaltungsart:** Kurs
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 17:00–19:30 | 13.11.2025 | — |
+| Einzeltermin | Di | 18:15–20:45 | 02.12.2025 | — |
 
 ### SkillsLab MCO_Freies Schallen - Kurs
 
@@ -5156,7 +5236,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 13:00–15:00 | 27.11.2025 | — |
+| Einzeltermin | Do | 13:00–15:00 | 08.01.2026 | — |
 
 ### SkillsLab MCO_Nahtkurs 1 - Kurs
 
@@ -5188,7 +5268,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 18:00–20:30 | 03.11.2025 | — |
+| Einzeltermin | Do | 17:00–19:30 | 08.01.2026 | — |
 
 ### SkillsLab MCO_Nahtkurs 3 - Kurs
 
@@ -5236,7 +5316,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 18:00–20:00 | 27.10.2025 | — |
+| Einzeltermin | Mo | 18:00–20:00 | 08.12.2025 | — |
 
 ### SkillsLab MCO_Ultraschallkurs 2 - Kurs
 
@@ -5262,7 +5342,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Kurs
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** nicht in diesem Semester
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -5284,7 +5364,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 17:30–19:30 | 06.11.2025 | — |
+| Einzeltermin | Do | 17:30–19:30 | 11.12.2025 | — |
 
 ### SkillsLab MCO_Untersuchungskurs Herz/ Lunge - Kurs
 
@@ -5334,8 +5414,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 15:00–16:30 | 22.10.2025–04.02.2026 | 20101.00.042 (FG 0.042) |
-| wöchentlich | Do | 13:15–14:45 | 23.10.2025–05.02.2026 | 21102.02.431 (LG 2.431 Multimediasprachlabor) |
+| wöchentlich | Di | 13:15–14:45 | 21.10.2025–03.02.2026 | 21102.02.431 (LG 2.431 Multimediasprachlabor) |
+| wöchentlich | Do | 15:00–16:30 | 23.10.2025–05.02.2026 | 21101.00.143 (LG 0.143 (42 Plätze) Übungsraum) |
 
 ### Spanisch 3 (Niveau B1) - Übung
 
@@ -5463,8 +5543,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 08:30–10:00 | 13.10.2025–02.02.2026 | 00501.00.014 ( KH 0.014 Hörsaal Kollegienhaus (SR) - 42 Plätze) |
-| wöchentlich | Mi | 08:30–10:00 | 15.10.2025–04.02.2026 | 00501.00.020 ( KH 0.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 18:15–19:45 | 13.10.2025–02.02.2026 | 54201.00.010 (SR 1 Studienzentrum) |
+| wöchentlich | Mi | 18:15–19:45 | 15.10.2025–04.02.2026 | 54201.00.010 (SR 1 Studienzentrum) |
 
 ### Spanisch: Elementarkurs III  - Übung
 
@@ -5481,8 +5561,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 14.10.2025–03.02.2026 | 54606.01.003 (F 13 (IFA)) |
-| wöchentlich | Fr | 14:15–15:45 | 17.10.2025–06.02.2026 | 05701.00.010 ( 00.010 Übungsraum 1) 05203.02.215 (SZ 02.215 (Bismarckstr. 10) Belegung nur nach Rücksprache mit der Raumverantwortlichen) |
+| wöchentlich | Di | 10:15–11:45 | 14.10.2025–03.02.2026 | 00501.00.014 ( KH 0.014 Hörsaal Kollegienhaus (SR) - 42 Plätze) |
+| wöchentlich | Do | 10:15–11:45 | 16.10.2025–05.02.2026 | 00501.02.018 ( KH 2.018 Hörsaal Kollegienhaus (SR)) |
 
 ### Spanisch: Elementarkurs IV  - Übung
 
@@ -9391,7 +9471,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 21.10.2025–03.02.2026 | 05701.00.010 ( 00.010 Übungsraum 1) |
+| wöchentlich | Mi | 16:15–17:45 | 22.10.2025–04.02.2026 | 05801.U1.021 (SL 102, Bismarckstr.1 Multimedia-Sprachlabor (Belegung nur nach Rücksprache mit den Raumverantwortlichen)) |
 
 ### Latein I für Anfänger - Latein I für Anfänger (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) - Übung
 
@@ -9475,7 +9555,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 09:45–11:15 | 20.10.2025–02.02.2026 | 20101.02.024 (FG 2.024 (48 Plätze) Seminarraum) |
+| wöchentlich | Mi | 13:15–14:45 | 22.10.2025–04.02.2026 | 21101.03.153 (LG 3.152/3 (62 Plätze) Seminarraum) |
 
 ### SZITMCCII - Cultura e civiltà II - Übung
 
@@ -9577,7 +9657,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 18:15–19:45 | 13.10.2025–02.02.2026 | 00501.00.014 ( KH 0.014 Hörsaal Kollegienhaus (SR) - 42 Plätze) |
+| wöchentlich | Di | 12:15–13:45 | 14.10.2025–03.02.2026 | 54606.01.003 (F 13 (IFA)) |
+| wöchentlich | Do | 12:15–13:45 | 16.10.2025–05.02.2026 | 54606.02.002 (F 22 (IFA)) |
 
 ### SZSPPGrEstIa - Gramática y estilística  I - Übung
 
@@ -9596,7 +9677,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Fr | 16:15–17:45 | 24.10.2025–06.02.2026 | 05701.00.010 ( 00.010 Übungsraum 1) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (309)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (316)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -10248,14 +10329,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Englisch
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 12:15–13:45 | 21.10.2025–03.02.2026 | 54201.01.007 ( Übungsraum I/7 Studienzentrum) |
+| wöchentlich | Do | 10:15–11:45 | 23.10.2025–05.02.2026 | 54606.01.003 (F 13 (IFA)) |
 
 ### English: Level 0 - Focus on Writing — Übung
 
@@ -10667,7 +10748,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Kurs
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:15–17:45 | 21.10.2025–03.02.2026 | 05801.04.112 ( A 602) |
 
 ### Gramática y estilística II — Übung
 
@@ -10758,10 +10846,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 09:00–15:30 | 20.10.2025 | — |
-| Einzeltermin | Di | 09:00–15:30 | 21.10.2025 | — |
-| Einzeltermin | Mi | 08:00–14:30 | 22.10.2025 | — |
-| Einzeltermin | Do | 09:00–15:30 | 23.10.2025 | — |
+| Einzeltermin | Mo | 09:00–15:30 | 17.11.2025 | — |
+| Einzeltermin | Di | 09:00–15:30 | 18.11.2025 | — |
+| Einzeltermin | Mi | 08:00–14:30 | 19.11.2025 | — |
+| Einzeltermin | Do | 09:00–15:30 | 20.11.2025 | — |
 
 ### K-P10_BT Innere Medizin, Teil I (BPK)_FG 2 Kardiologie — Praktikum
 
@@ -10776,10 +10864,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 08:20–14:00 | 20.10.2025 | — |
-| Einzeltermin | Di | 08:30–14:00 | 21.10.2025 | — |
-| Einzeltermin | Mi | 08:30–14:00 | 22.10.2025 | — |
-| Einzeltermin | Do | 08:30–13:15 | 23.10.2025 | — |
+| Einzeltermin | Mo | 08:20–14:00 | 17.11.2025 | — |
+| Einzeltermin | Di | 08:30–14:00 | 18.11.2025 | — |
+| Einzeltermin | Mi | 08:30–14:00 | 19.11.2025 | — |
+| Einzeltermin | Do | 08:30–13:15 | 20.11.2025 | — |
 
 ### K-P10_BT Innere Medizin, Teil I (BPK)_FG 3 Geriatrie — Praktikum
 
@@ -10812,10 +10900,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 08:30–14:45 | 06.10.2025 | — |
-| Einzeltermin | Di | 08:30–14:45 | 07.10.2025 | — |
-| Einzeltermin | Mi | 08:30–14:45 | 08.10.2025 | — |
-| Einzeltermin | Do | 08:30–14:45 | 09.10.2025 | — |
+| Einzeltermin | Mo | 08:30–14:45 | 27.10.2025 | — |
+| Einzeltermin | Di | 08:30–14:45 | 28.10.2025 | — |
+| Einzeltermin | Mi | 08:30–14:45 | 29.10.2025 | — |
+| Einzeltermin | Do | 08:30–14:45 | 30.10.2025 | — |
 
 ### K-P12_BT Urologie (BPK) — Praktikum
 
@@ -10829,8 +10917,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung | — | 07:30–15:00 | 10.11.2025–11.11.2025 | — |
-| Einzeltermin | Mi | 09:00–11:30 | 12.11.2025 | — |
+| Blockveranstaltung | — | 07:30–15:00 | 17.11.2025–18.11.2025 | — |
+| Einzeltermin | Mi | 09:00–11:30 | 19.11.2025 | — |
 
 ### K-P13_BT Innere Medizin, Teil II (BPK)_FG 1 Gastroenterologie — Praktikum
 
@@ -10863,10 +10951,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 08:20–17:00 | 01.12.2025 | — |
-| Einzeltermin | Di | 08:30–16:00 | 02.12.2025 | — |
-| Einzeltermin | Mi | 08:30–16:00 | 03.12.2025 | — |
-| Einzeltermin | Do | 08:00–15:30 | 04.12.2025 | — |
+| Einzeltermin | Mo | 08:20–17:00 | 08.12.2025 | — |
+| Einzeltermin | Di | 08:30–16:00 | 09.12.2025 | — |
+| Einzeltermin | Mi | 08:30–16:00 | 10.12.2025 | — |
+| Einzeltermin | Do | 08:00–15:30 | 11.12.2025 | — |
 
 ### K-P13_BT Innere Medizin, Teil II (BPK)_FG 3 Geriatrie — Praktikum
 
@@ -10918,13 +11006,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 08:00–09:00 | 27.10.2025 | — |
-| Einzeltermin | Mo | 09:00–12:30 | 27.10.2025 | — |
-| Einzeltermin | Mo | 12:30–15:00 | 27.10.2025 | — |
-| Einzeltermin | Di | 08:00–10:30 | 28.10.2025 | — |
-| Einzeltermin | Di | 10:30–13:30 | 28.10.2025 | — |
-| Einzeltermin | Di | 13:30–15:00 | 28.10.2025 | — |
-| Einzeltermin | Do | 08:00–16:00 | 30.10.2025 | — |
+| Einzeltermin | Mo | 08:00–09:00 | 24.11.2025 | — |
+| Einzeltermin | Mo | 09:00–12:30 | 24.11.2025 | — |
+| Einzeltermin | Mo | 12:30–15:00 | 24.11.2025 | — |
+| Einzeltermin | Di | 08:00–10:30 | 25.11.2025 | — |
+| Einzeltermin | Di | 10:30–13:30 | 25.11.2025 | — |
+| Einzeltermin | Di | 13:30–15:00 | 25.11.2025 | — |
+| Einzeltermin | Do | 08:00–16:00 | 27.11.2025 | — |
 
 ### K-P16_BT Neurologie, Neurochirurgie (BPK) — Praktikum
 
@@ -10939,10 +11027,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 08:30–14:30 | 27.10.2025 | — |
-| Einzeltermin | Di | 08:30–14:30 | 28.10.2025 | — |
-| Einzeltermin | Mi | 08:30–15:00 | 29.10.2025 | — |
-| Einzeltermin | Do | 08:00–14:00 | 30.10.2025 | — |
+| Einzeltermin | Mo | 08:30–14:30 | 08.12.2025 | — |
+| Einzeltermin | Di | 08:30–14:30 | 09.12.2025 | — |
+| Einzeltermin | Mi | 08:30–15:00 | 10.12.2025 | — |
+| Einzeltermin | Do | 08:00–14:00 | 11.12.2025 | — |
 
 ### K-P17_BT Anästhesiologie (BPK) — Praktikum
 
@@ -10957,10 +11045,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 08:00–14:00 | 27.10.2025 | — |
-| Einzeltermin | Di | 07:30–14:00 | 28.10.2025 | — |
-| Einzeltermin | Mi | 07:30–14:00 | 29.10.2025 | — |
-| Einzeltermin | Do | 08:00–11:00 | 30.10.2025 | — |
+| Einzeltermin | Mo | 08:00–14:00 | 10.11.2025 | — |
+| Einzeltermin | Di | 07:30–14:00 | 11.11.2025 | — |
+| Einzeltermin | Mi | 07:30–14:00 | 12.11.2025 | — |
+| Einzeltermin | Do | 08:00–11:00 | 13.11.2025 | — |
 
 ### K-P1_BT Allgemeinmedizin (BPK) — Praktikum
 
@@ -11002,6 +11090,28 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Mi | 08:00–13:00 | 18.02.2026 | — |
 | Einzeltermin | Do | 13:30–18:30 | 19.02.2026 | — |
 
+### K-P7_BT Psychosomatik und Psychotherapie — Praktikum
+
+- **Segment:** `unit:113076` · **unitId:** `113076`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113076&periodId=565>
+
+- **Veranstaltungsart:** Praktikum
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mo | 14:15–16:30 | 12.01.2026 | — |
+| Einzeltermin | Di | 13:15–15:30 | 13.01.2026 | — |
+| Einzeltermin | Do | 14:15–16:30 | 15.01.2026 | — |
+| Einzeltermin | Mo | 14:15–16:30 | 19.01.2026 | — |
+| Einzeltermin | Di | 13:15–15:30 | 20.01.2026 | — |
+| Einzeltermin | Do | 14:15–16:30 | 22.01.2026 | — |
+| Einzeltermin | Mo | 14:15–16:30 | 26.01.2026 | — |
+| Einzeltermin | Di | 13:15–15:30 | 27.01.2026 | — |
+| Einzeltermin | Do | 14:15–16:30 | 29.01.2026 | — |
+
 ### K-P8_BT Chirurgie (BPK)_Gefäßchirurgie, Herzchirurgie, Allgemein- und Viszeralchirurgie — Praktikum
 
 - **Segment:** `unit:117456` · **unitId:** `117456`
@@ -11015,10 +11125,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 07:45–15:00 | 27.10.2025 | — |
-| Einzeltermin | Di | 07:45–12:00 | 28.10.2025 | — |
-| Einzeltermin | Mi | 08:00–14:00 | 29.10.2025 | — |
-| Einzeltermin | Do | 08:00–12:00 | 30.10.2025 | — |
+| Einzeltermin | Mo | 08:00–14:00 | 03.11.2025 | — |
+| Einzeltermin | Di | 08:00–12:00 | 04.11.2025 | — |
+| Einzeltermin | Mi | 07:45–15:00 | 05.11.2025 | — |
+| Einzeltermin | Do | 07:45–12:00 | 06.11.2025 | — |
 
 ### K-P8_BT Chirurgie (BPK)_Plastische-, Rekonstruktive-, Ästhetische- und Handchirurgie, Unfall- und Wiederherstellungschirurgie — Praktikum
 
@@ -11032,10 +11142,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 08:00–15:00 | 20.10.2025 | — |
-| Einzeltermin | Di | 08:00–15:00 | 21.10.2025 | — |
-| Einzeltermin | Mi | 08:15–15:45 | 22.10.2025 | — |
-| Einzeltermin | Do | 07:30–12:00 | 23.10.2025 | — |
+| Einzeltermin | Mo | 08:15–15:45 | 17.11.2025 | — |
+| Einzeltermin | Di | 07:30–12:00 | 18.11.2025 | — |
+| Einzeltermin | Mi | 08:00–15:00 | 19.11.2025 | — |
+| Einzeltermin | Do | 11:30–15:00 | 20.11.2025 | — |
 
 ### K-PS 11(MCO): Praktikum der Mikrobiologie, Hygiene, Immunologie und Virologie f. 1. klinisches Semester (Medizin Campus Oberfranken)
 
@@ -11065,7 +11175,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 11:15–12:30 | 24.10.2025 | — |
+| Einzeltermin | Do | 15:30–17:00 | 06.11.2025 | — |
 | Einzeltermin | Fr | 10:30–12:00 | 07.11.2025 | — |
 | Einzeltermin | Fr | 12:15–13:45 | 07.11.2025 | — |
 | Einzeltermin | Mi | 13:00–14:30 | 03.12.2025 | — |
@@ -11077,6 +11187,26 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Mi | 13:00–14:30 | 14.01.2026 | — |
 | Einzeltermin | Mi | 14:45–16:15 | 14.01.2026 | — |
 | Einzeltermin | Mi | 15:00–16:30 | 28.01.2026 | — |
+
+### K-PS12_BT Neurologie, Pathophysiologie — Seminar
+
+- **Segment:** `unit:113077` · **unitId:** `113077`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113077&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Di | 16:30–18:00 | 21.10.2025 | — |
+| Einzeltermin | Di | 16:30–18:00 | 04.11.2025 | — |
+| Einzeltermin | Di | 16:30–18:00 | 18.11.2025 | — |
+| Einzeltermin | Di | 16:30–18:00 | 02.12.2025 | — |
+| Einzeltermin | Di | 16:30–18:00 | 16.12.2025 | — |
+| Einzeltermin | Di | 16:30–18:00 | 20.01.2026 | — |
+| Einzeltermin | Di | 16:30–18:00 | 03.02.2026 | — |
 
 ### K-PS15_BT Übung Histopathologie und Makropathologie
 
@@ -11091,8 +11221,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 08:15–09:00 | 22.10.2025–21.01.2026 | — |
-| wöchentlich | Do | 11:15–12:00 | 23.10.2025–15.01.2026 | — |
+| wöchentlich | Mo | 08:15–09:00 | 20.10.2025–19.01.2026 | — |
+| wöchentlich | Mo | 12:15–13:00 | 20.10.2025–26.01.2026 | — |
 
 ### K-PS16_BT Übung spezielle Histopathologie
 
@@ -11122,7 +11252,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 16:15–19:15 | 06.11.2025–22.01.2026 | 00501.00.023 ( KH 0.023 Hörsaal Kollegienhaus) |
+| wöchentlich | Do | 16:15–19:15 | 06.11.2025–22.01.2026 | 00601.01.021 (SR 1, Physio 1) |
 
 ### K-PS19_BT Rechtsmedizin (Ü) — Übung
 
@@ -11136,7 +11266,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Do | 09:00–16:00 | 08.01.2026 | — |
+| Einzeltermin | Fr | 08:30–15:30 | 09.01.2026 | — |
 
 ### K-PS1_BT Arbeits- und Sozialmedizin (Betriebsbegehung) — Übung
 
@@ -11198,13 +11328,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Di | 08:00–09:30 | 14.10.2025 | — |
 | Einzeltermin | Mi | 08:00–09:30 | 15.10.2025 | — |
 | Einzeltermin | Mi | 09:45–11:15 | 15.10.2025 | — |
 | Einzeltermin | Mi | 12:00–13:30 | 15.10.2025 | — |
 | Einzeltermin | Fr | 08:00–09:30 | 17.10.2025 | — |
 | Einzeltermin | Fr | 09:45–11:15 | 17.10.2025 | — |
-| Einzeltermin | Fr | 08:00–09:30 | 31.10.2025 | — |
+| Einzeltermin | Fr | 13:45–15:15 | 17.10.2025 | — |
+| Einzeltermin | Fr | 08:00–09:30 | 07.11.2025 | — |
 
 ### K-PS5_BT Geschichte, Theorie, Ethik der Medizin Q2 — Seminar
 
@@ -11611,6 +11741,23 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Mo | 09:15–10:00 | 20.10.2025–02.02.2026 | — |
 | wöchentlich | Di | 08:00–09:30 | 21.10.2025–03.02.2026 | — |
 
+### K-V33_BT Psychosomatik und Psychotherapie — Vorlesung
+
+- **Segment:** `unit:113074` · **unitId:** `113074`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113074&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 06.11.2025–27.11.2025 | — |
+| wöchentlich | Fr | 11:15–12:45 | 07.11.2025–28.11.2025 | — |
+| wöchentlich | Mo | 14:15–15:45 | 10.11.2025–24.11.2025 | — |
+| wöchentlich | Di | 13:15–14:45 | 11.11.2025–25.11.2025 | — |
+
 ### K-V34_BT Ringvorlesung Gesundheitsökonomie, Gesundheitssystem, öffentliches Gesundheitswesen, Q3
 
 - **Segment:** `unit:97549` · **unitId:** `97549`
@@ -11691,6 +11838,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 08:15–09:45 | 22.10.2025–03.12.2025 | — |
+
+### K-V4 Vorlesung Hygiene, Mikrobiologie, Virologie — Hauptvorlesung
+
+- **Segment:** `unit:91410` · **unitId:** `91410`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91410&periodId=565>
+
+- **Veranstaltungsart:** Hauptvorlesung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 09:00–10:00 | 20.10.2025–06.02.2026 | — |
 
 ### K-V5A_BT Vorlesung Pathologie
 
@@ -11833,7 +11995,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wird noch angekündigt | — | — | — | — |
 | Einzeltermin | Do | 17:00–19:00 | 30.10.2025 | — |
 
 ### MED 44001: "Durch die hörnerne oder elfenbeinfarbene Pforte..." - Traumdeutung in der Antike — Seminar
@@ -12233,9 +12394,9 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 18:00–20:00 | 27.10.2025 | — |
-| Einzeltermin | Sa | 10:00–17:00 | 29.11.2025 | 06901.01.0232 (Kleiner Seminarraum Biochemie) |
-| Einzeltermin | So | 10:00–17:00 | 30.11.2025 | 06901.01.030 (CIP-Pool) |
+| Einzeltermin | Mo | 18:00–20:00 | 13.10.2025 | — |
+| Einzeltermin | Sa | 10:00–17:00 | 29.11.2025 | — |
+| Einzeltermin | So | 10:00–17:00 | 30.11.2025 | — |
 
 ### MED 89931 Individuelles Praktikum für molekular- und zellbiologische Techniken
 
@@ -12299,6 +12460,16 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134680&periodId=565>
 
 - **Veranstaltungsart:** Seminar
+- **Turnus:** in jedem Semester
+
+### MED44101 Digitale Kompetenzen für die Medizin — Vorlesung
+
+- **Segment:** `unit:122662` · **unitId:** `122662`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122662&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### MED44501 Wahlpflichtfach - Neurochirurgie - Einblicke in die OP Planung und OP Methoden minimalinvasiver kranialer und spinaler Neurochirurgie — Seminar
@@ -12394,6 +12565,42 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Fr | 14:30–17:00 | 21.11.2025 | — |
 | Einzeltermin | Fr | 14:30–17:00 | 12.12.2025 | — |
 | Einzeltermin | Fr | 14:00–17:00 | 09.01.2026 | — |
+
+### MED46591 Wahlpflichtfach - Forensische Psychiatrie und Psychotherapie — Seminar
+
+- **Segment:** `unit:120845` · **unitId:** `120845`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120845&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 14:30–18:30 | 24.10.2025–28.11.2025 | — |
+| Einzeltermin | Fr | 14:30–19:30 | 05.12.2025 | — |
+
+### MED46611 Wahlpflichtfach - Einführung in die Kinder- und Jugendpsychiatrie, -psychotherapie — Seminar
+
+- **Segment:** `unit:120911` · **unitId:** `120911`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120911&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 15:00–18:00 | 24.10.2025 | — |
+| Einzeltermin | Fr | 15:00–18:00 | 31.10.2025 | — |
+| Einzeltermin | Fr | 15:00–18:00 | 05.12.2025 | — |
+| Einzeltermin | Fr | 15:00–18:00 | 12.12.2025 | — |
+| Einzeltermin | Fr | 15:00–18:00 | 09.01.2026 | — |
+| Einzeltermin | Fr | 15:00–18:00 | 16.01.2026 | — |
 
 ### MED48251 Wahlpflichtfach SPAM II - Sportmedizin in der Allgemeinmedizin — Seminar
 
@@ -13023,7 +13230,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Fr | 10:15–12:15 | 31.10.2025 | — |
+| Einzeltermin | Fr | 13:00–15:00 | 12.12.2025 | — |
 
 ### V-PS17_BT Praktikum Einführung in die Klinische Medizin
 
@@ -13047,17 +13254,17 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Mi | 18:00–19:00 | 22.10.2025 | — |
 | Einzeltermin | Di | 10:15–11:15 | 28.10.2025 | — |
 | Einzeltermin | Mi | 14:15–16:15 | 29.10.2025 | — |
-| Einzeltermin | Mi | 17:45–18:45 | 29.10.2025 | — |
+| Einzeltermin | Mi | 16:30–17:30 | 29.10.2025 | — |
 | Einzeltermin | Mi | 14:15–15:45 | 05.11.2025 | — |
 | Einzeltermin | Mi | 16:00–17:30 | 05.11.2025 | — |
 | Einzeltermin | Mi | 14:15–16:15 | 12.11.2025 | — |
 | Einzeltermin | Mi | 16:30–18:30 | 12.11.2025 | — |
 | Einzeltermin | Mi | 14:15–15:15 | 26.11.2025 | — |
 | Einzeltermin | Mi | 15:30–16:30 | 26.11.2025 | — |
-| Einzeltermin | Mi | 15:30–18:45 | 26.11.2025 | — |
 | Einzeltermin | Mi | 16:45–17:15 | 26.11.2025 | — |
 | Einzeltermin | Mi | 17:15–17:45 | 26.11.2025 | — |
 | Einzeltermin | Mi | 17:45–18:15 | 26.11.2025 | — |
+| Einzeltermin | Mi | 18:15–18:45 | 26.11.2025 | — |
 
 ### V-PS2 Praktikum, Chemie für Mediziner (MED 21752)
 
@@ -13087,7 +13294,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 13:15–18:00 | 21.10.2025–27.01.2026 | 06701.00.014 (Hörsaal Physiologie 2) |
+| wöchentlich | Do | 13:15–18:00 | 23.10.2025–22.01.2026 | — |
 
 ### V-PS4B/1-P4 Praktikum Neurophysiologie
 

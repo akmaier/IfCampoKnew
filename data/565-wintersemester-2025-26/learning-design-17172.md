@@ -47,7 +47,19 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Fr | 08:00–15:30 | 14.11.2025 | 20301.01.028 (1.028 Seminarraum MM-Labor (18)) |
+| Einzeltermin | Mi | 08:00–11:15 | 26.11.2025 | 20301.01.028 (1.028 Seminarraum MM-Labor (18)) |
+| Einzeltermin | Mi | 08:00–11:15 | 10.12.2025 | 20301.01.028 (1.028 Seminarraum MM-Labor (18)) |
+| Einzeltermin | Mi | 08:00–11:15 | 17.12.2025 | 20301.01.028 (1.028 Seminarraum MM-Labor (18)) |
+| Einzeltermin | Mi | 08:00–11:15 | 21.01.2026 | 20301.01.028 (1.028 Seminarraum MM-Labor (18)) |
+| Einzeltermin | Mi | 08:00–11:15 | 04.02.2026 | 20301.01.028 (1.028 Seminarraum MM-Labor (18)) |
 
 ### Digitale Kooperation und Organisation - Seminar
 
@@ -106,7 +118,16 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 10:00–12:00 | 16.10.2025 | — |
+| Einzeltermin | Do | 10:00–12:00 | 23.10.2025 | — |
+| Blockveranstaltung | — | 09:00–18:00 | 03.11.2025–07.11.2025 | — |
 
 ### MA EEBF M7/MA Pädagogik MVIII: Aktuelle Ansätze medienpädagogischer Forschung - Seminar
 
@@ -151,7 +172,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:00–14:00 | 14.10.2025–03.02.2026 | 21202.03.4004 |
 
 ### MA Pädagogik MVIII/MA EEBF M7: Kontexte medienpädagogischer Forschung und Praxis/Medienpädagogik (Profilvertiefung) - Seminar
 

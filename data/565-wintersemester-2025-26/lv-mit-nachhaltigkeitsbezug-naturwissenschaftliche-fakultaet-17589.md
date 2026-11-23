@@ -166,7 +166,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 16:15–17:45 | 16.10.2025–05.02.2026 | 55801.00.210 (00.210 Seminarraum) 55801.03.145 (03.145 Besprechungszimmer Geographie Tennenlohe) 05902.00.006 ( 00.6 PSG) 05902.00.005 ( 00.5 PSG) 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
+| wöchentlich | Di | 14:15–15:45 | 21.10.2025–03.02.2026 | 55801.00.210 (00.210 Seminarraum) |
 
 ### HS-MA - Hauptseminar Master Kulturgeographie - Masterseminar
 
@@ -183,7 +183,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 16:15–17:45 | 16.10.2025–05.02.2026 | 55801.00.210 (00.210 Seminarraum) 55801.03.145 (03.145 Besprechungszimmer Geographie Tennenlohe) 05902.00.006 ( 00.6 PSG) 05902.00.005 ( 00.5 PSG) 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
+| wöchentlich | Di | 14:15–15:45 | 21.10.2025–03.02.2026 | 55801.00.210 (00.210 Seminarraum) |
 
 ### HS-MA - Hauptseminar Master Kulturgeographie - Masterseminar
 
@@ -200,7 +200,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 16:15–17:45 | 16.10.2025–05.02.2026 | 55801.00.210 (00.210 Seminarraum) 55801.03.145 (03.145 Besprechungszimmer Geographie Tennenlohe) 05902.00.006 ( 00.6 PSG) 05902.00.005 ( 00.5 PSG) 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
+| wöchentlich | Di | 14:15–15:45 | 21.10.2025–03.02.2026 | 55801.00.210 (00.210 Seminarraum) |
 
 ### HS-MA - Hauptseminar Master Kulturgeographie - Masterseminar
 
@@ -217,7 +217,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 16:15–17:45 | 16.10.2025–05.02.2026 | 55801.00.210 (00.210 Seminarraum) 55801.03.145 (03.145 Besprechungszimmer Geographie Tennenlohe) 05902.00.006 ( 00.6 PSG) 05902.00.005 ( 00.5 PSG) 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
+| wöchentlich | Di | 14:15–15:45 | 21.10.2025–03.02.2026 | 55801.00.210 (00.210 Seminarraum) |
 
 ### HS-MA - Hauptseminar Master Kulturgeographie - Masterseminar
 
@@ -234,7 +234,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 16:15–17:45 | 16.10.2025–05.02.2026 | 55801.00.210 (00.210 Seminarraum) 55801.03.145 (03.145 Besprechungszimmer Geographie Tennenlohe) 05902.00.006 ( 00.6 PSG) 05902.00.005 ( 00.5 PSG) 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
+| wöchentlich | Di | 14:15–15:45 | 21.10.2025–03.02.2026 | 55801.00.210 (00.210 Seminarraum) |
 
 ### HS-MA - Hauptseminar Master Kulturgeographie - Masterseminar
 
@@ -251,7 +251,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 16:15–17:45 | 16.10.2025–05.02.2026 | 55801.00.210 (00.210 Seminarraum) 55801.03.145 (03.145 Besprechungszimmer Geographie Tennenlohe) 05902.00.006 ( 00.6 PSG) 05902.00.005 ( 00.5 PSG) 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
+| wöchentlich | Di | 14:15–15:45 | 21.10.2025–03.02.2026 | 55801.00.210 (00.210 Seminarraum) |
 
 ### HS-MA - Hauptseminar Master Kulturgeographie - Masterseminar
 
@@ -268,7 +268,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 16:15–17:45 | 16.10.2025–05.02.2026 | 55801.00.210 (00.210 Seminarraum) 55801.03.145 (03.145 Besprechungszimmer Geographie Tennenlohe) 05902.00.006 ( 00.6 PSG) 05902.00.005 ( 00.5 PSG) 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
+| wöchentlich | Di | 14:15–15:45 | 21.10.2025–03.02.2026 | 55801.00.210 (00.210 Seminarraum) |
 
 ### HS-MA - Hauptseminar Master Kulturgeographie - Masterseminar
 
@@ -285,7 +285,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 16:15–17:45 | 16.10.2025–05.02.2026 | 55801.00.210 (00.210 Seminarraum) 55801.03.145 (03.145 Besprechungszimmer Geographie Tennenlohe) 05902.00.006 ( 00.6 PSG) 05902.00.005 ( 00.5 PSG) 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
+| wöchentlich | Di | 14:15–15:45 | 21.10.2025–03.02.2026 | 55801.00.210 (00.210 Seminarraum) |
 
 ### LFF-KS - Kompetenzseminar zum Klimawandel (insbesondere für Lehramtsstudierende und Nebenfachstudierende) - Seminar
 
@@ -394,8 +394,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Di | 14:15–15:45 | 22.07.2025 | 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
-| wöchentlich | Di | 12:15–13:45 | 21.10.2025–03.02.2026 | 55801.00.147 (00.147 Seminarraum 1 Seminarraum 1 Geographie Tennenlohe) |
+| Einzeltermin | Do | 17:00–18:00 | 17.07.2025 | 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
+| wöchentlich | Mo | 10:15–11:45 | 13.10.2025–02.02.2026 | 55801.00.210 (00.210 Seminarraum) 55801.00.147 (00.147 Seminarraum 1 Seminarraum 1 Geographie Tennenlohe) |
 
 ### SRN - Seminar Rohstoffe und Nachhaltigkeit - Seminar
 

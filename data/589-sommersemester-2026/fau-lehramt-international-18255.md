@@ -108,7 +108,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | Di | — | 20.09.2026 23:59:59 | — |
+| Mi | Mi | — | 07.06.2026 23:59:59 | — |
 
 ### 87131 Global Citizens in Aktion - Leistung
 

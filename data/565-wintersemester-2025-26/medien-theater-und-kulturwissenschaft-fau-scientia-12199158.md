@@ -5,7 +5,7 @@ campo_segment: "exam:12199158"
 campo_path: "title:16758|title:16766|exam:12199158"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16766|exam:12199158"
 po_version_count: 0
-course_count: 10
+course_count: 11
 ---
 
 # - Medien-, Theater- und Kulturwissenschaft (FAU Scientia)  -
@@ -14,7 +14,7 @@ course_count: 10
 
 _Section: FAU Scientia Gaststudium_  
 
-## Veranstaltungen (10)
+## Veranstaltungen (11)
 
 ### BA 1. FS: Vorlesung »Einführung in die Theater- und Medienwissenschaft« - Vorlesung
 
@@ -85,6 +85,23 @@ _Section: FAU Scientia Gaststudium_
 |---|---|---|---|---|
 | wird noch angekündigt | — | — | — | — |
 
+### Einführung in die Kunstgeschichte - Baustein I - Seminar
+
+- **Segment:** `exam:17972198` · **unitId:** `131141`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16766|exam:12199158|exam:17972198>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131141&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 18:00–20:00 | 17.10.2025–06.02.2026 | 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
+
 ### Geschichte der Architektur - Einführung - Baustein I - Proseminar
 
 - **Segment:** `exam:13654298` · **unitId:** `90743`
@@ -92,7 +109,14 @@ _Section: FAU Scientia Gaststudium_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90743&periodId=565>
 
 - **Veranstaltungsart:** Proseminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:00–16:00 | 13.10.2025–26.01.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
 
 ### Kunstgeschichte und Beruf - Sonstige Lehrveranstaltung
 

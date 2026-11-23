@@ -157,8 +157,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 08:45–11:45 | 22.10.2025–04.02.2026 | 53101.02.207 ( CCC 2.207 Sitzungsraum, Seminarraum) |
-| wöchentlich | Mi | 08:45–11:45 | 22.10.2025–04.02.2026 | — |
+| wöchentlich | Mi | 12:15–15:15 | 22.10.2025–04.02.2026 | 53101.02.206 (CCC 2.206 Übungsraum, Seminarraum) |
+| wöchentlich | Mi | 12:15–15:15 | 22.10.2025–04.02.2026 | 53101.02.207 ( CCC 2.207 Sitzungsraum, Seminarraum) |
 
 ### Berufsqualifizierende Tätigkeit [II]: HS - Vertiefte Praxis der Psychotherapie 3 - Fallarbeit 2: Erwachsene/Ältere 2 - Hauptseminar
 
@@ -174,8 +174,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung | — | 08:30–13:30 | 23.02.2026–27.02.2026 | 53101.02.206 (CCC 2.206 Übungsraum, Seminarraum) |
-| Blockveranstaltung | — | 08:30–13:30 | 23.02.2026–27.02.2026 | 53101.02.207 ( CCC 2.207 Sitzungsraum, Seminarraum) |
+| Blockveranstaltung | — | 09:00–16:00 | 03.03.2026–06.03.2026 | 54301.02.216 ( 02.216 Seminarraum, Nägelsbachstr. 49b) |
+| Blockveranstaltung | — | 09:00–16:00 | 03.03.2026–06.03.2026 | 54301.02.313 ( 02.313 Seminarraum) |
 
 ### Berufsqualifizierende Tätigkeit [II]: HS - Vertiefte Praxis der Psychotherapie 3 - Fallarbeit 2: Erwachsene/Ältere 2 - Hauptseminar
 
@@ -191,8 +191,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung | — | 08:30–13:30 | 23.02.2026–27.02.2026 | 53101.02.206 (CCC 2.206 Übungsraum, Seminarraum) |
-| Blockveranstaltung | — | 08:30–13:30 | 23.02.2026–27.02.2026 | 53101.02.207 ( CCC 2.207 Sitzungsraum, Seminarraum) |
+| Blockveranstaltung | — | 09:00–16:00 | 03.03.2026–06.03.2026 | 54301.02.216 ( 02.216 Seminarraum, Nägelsbachstr. 49b) |
+| Blockveranstaltung | — | 09:00–16:00 | 03.03.2026–06.03.2026 | 54301.02.313 ( 02.313 Seminarraum) |
 
 ### Berufsqualifizierende Tätigkeit [II]: HS - Vertiefte Praxis der Psychotherapie 3 - Fallarbeit 3: Kinder und Jugendliche - Hauptseminar
 
@@ -243,8 +243,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung | — | 09:00–16:00 | 26.02.2026–27.02.2026 | 54301.02.219 ( 02.219 Seminarraum, Nägelsbachstr. 49b) |
-| Einzeltermin | Mo | 09:00–16:00 | 09.03.2026 | 54301.02.219 ( 02.219 Seminarraum, Nägelsbachstr. 49b) |
+| Einzeltermin | Do | 09:00–18:00 | 09.10.2025 | 54301.02.313 ( 02.313 Seminarraum) |
+| Einzeltermin | Fr | 09:00–13:00 | 10.10.2025 | 54301.02.313 ( 02.313 Seminarraum) |
+| Einzeltermin | Sa | 09:00–16:00 | 08.11.2025 | 54301.02.313 ( 02.313 Seminarraum) |
 
 ### Berufsqualifizierende Tätigkeit [II]: Vertiefte  Praxis der Psychotherapie 3 - HS: Fallarbeit 1: Erwachsene/Ältere 1 - Hauptseminar
 
@@ -260,8 +261,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung | — | 09:00–18:00 | 29.09.2025–01.10.2025 | 54301.02.216 ( 02.216 Seminarraum, Nägelsbachstr. 49b) |
-| Blockveranstaltung | — | 09:00–18:00 | 29.09.2025–01.10.2025 | 54301.02.313 ( 02.313 Seminarraum) |
+| Blockveranstaltung | — | 13:00–18:00 | 06.10.2025–10.10.2025 | 53101.02.206 (CCC 2.206 Übungsraum, Seminarraum) |
+| Blockveranstaltung | — | 13:00–18:00 | 06.10.2025–10.10.2025 | — |
 
 ### Berufsqualifizierende Tätigkeit [II]: Vertiefte  Praxis der Psychotherapie 3 - HS: Fallarbeit 1: Erwachsene/Ältere 1 - Hauptseminar
 
@@ -277,8 +278,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung | — | 09:00–18:00 | 29.09.2025–01.10.2025 | 54301.02.216 ( 02.216 Seminarraum, Nägelsbachstr. 49b) |
-| Blockveranstaltung | — | 09:00–18:00 | 29.09.2025–01.10.2025 | 54301.02.313 ( 02.313 Seminarraum) |
+| Blockveranstaltung | — | 13:00–18:00 | 06.10.2025–10.10.2025 | 53101.02.206 (CCC 2.206 Übungsraum, Seminarraum) |
+| Blockveranstaltung | — | 13:00–18:00 | 06.10.2025–10.10.2025 | — |
 
 ### Berufsqualifizierende Tätigkeit [II]: Vertiefte Praxis der Psychotherapie 2 - HS Selbstreflexion - Hauptseminar
 
@@ -295,7 +296,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 10:15–13:45 | 16.10.2025–04.12.2025 | 54301.02.216 ( 02.216 Seminarraum, Nägelsbachstr. 49b) |
+| wöchentlich | Do | 10:15–13:45 | 11.12.2025–05.02.2026 | 54301.02.216 ( 02.216 Seminarraum, Nägelsbachstr. 49b) |
 
 ### Berufsqualifizierende Tätigkeit [III]: Praktikum ambulant 150 Stunden Präsenzzeit - Praktikum
 
@@ -408,7 +409,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17171|exam:12965039|exam:12965040|exam:12965041|exam:12965058|exam:12965062>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123735&periodId=565>
 
+- **Veranstaltungsart:** Kolloquium
+- **ECTS-Punkte:** 2.0
 - **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
@@ -481,7 +485,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 12:15–13:45 | 21.10.2025–03.02.2026 | 54301.02.313 ( 02.313 Seminarraum) |
+| wöchentlich | Fr | 09:00–13:30 | 24.10.2025–28.11.2025 | 54301.02.313 ( 02.313 Seminarraum) |
 
 ### Psychotherapeutische Diagnostik, Begutachtung und Versorgung 2 - Hauptseminar
 
@@ -496,8 +500,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 08:15–09:45 | 13.10.2025–02.02.2026 | 54301.02.313 ( 02.313 Seminarraum) |
-| wöchentlich | Mo | 08:15–09:45 | 13.10.2025–02.02.2026 | 54301.02.319 (02.319 Konferenzraum) |
+| wöchentlich | Mi | 08:15–09:45 | 15.10.2025–04.02.2026 | 54301.02.313 ( 02.313 Seminarraum) |
+| wöchentlich | Mi | 08:15–09:45 | 15.10.2025–04.02.2026 | 54301.02.319 (02.319 Konferenzraum) |
 
 ### Tutorium zur Vorlesung Multivariate Verfahren - Tutorium
 
@@ -513,7 +517,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 10:15–11:45 | 03.11.2025–02.02.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 16:15–17:45 | 05.11.2025–04.02.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
 
 ### Vorlesung Angewandte Psychotherapie A - Vorlesung
 
@@ -566,6 +570,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Segment:** `exam:12965060` · **unitId:** `115021`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17171|exam:12965039|exam:12965040|exam:12965041|exam:12965058|exam:12965060>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115021&periodId=565>
+
+- **ECTS-Punkte:** 2.0
 
 #### Termine
 
@@ -653,6 +659,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17171|exam:12965039|exam:12965040|exam:12965041|exam:12965063|exam:12965070>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=80946&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -845,7 +852,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16763|title:17171|exam:12965039|exam:12965040|exam:12965041|exam:12965080|exam:12965081>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104963&periodId=565>
 
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.0
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 

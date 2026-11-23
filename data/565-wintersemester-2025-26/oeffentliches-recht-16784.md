@@ -210,7 +210,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 18:00–20:00 | 21.10.2025–03.02.2026 | — |
+| wöchentlich | Mi | 10:00–12:00 | 22.10.2025–04.02.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Propädeutische Übung - Allgemeines Verwaltungsrecht - Übung
 
@@ -226,7 +226,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 18:00–20:00 | 21.10.2025–03.02.2026 | — |
+| wöchentlich | Mi | 10:00–12:00 | 22.10.2025–04.02.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
 
 ### Rechtsphilosophie I (Einführung) - Vorlesung
 
@@ -437,7 +437,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 18:00–20:00 | 21.10.2025–03.02.2026 | — |
+| wöchentlich | Do | 14:00–16:00 | 23.10.2025–05.02.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
 
 ### VerfGesch - Verfassungsgeschichte der Neuzeit  - Vorlesung
 

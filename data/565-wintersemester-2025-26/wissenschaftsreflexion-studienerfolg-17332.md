@@ -69,7 +69,14 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 - **Veranstaltungsart:** Kurs
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:15–13:45 | 15.10.2025–04.02.2026 | 54201.03.002 ( Übungsraum III/2 Studienzentrum) |
 
 ### Expeditionsziel: Erkenntnis. Forschungsreisen in der Geschichte der Wissenschaften - Seminar
 
@@ -409,6 +416,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130403&periodId=565>
 
 - **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** Unregelmäßig
 
 ### Stimmbildung und Sprecherziehung - Kurs
@@ -512,7 +520,7 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung | — | 10:00–18:00 | 02.03.2026–05.03.2026 | 05902.00.004 ( 00.4 PSG) |
+| Blockveranstaltung | — | 10:00–18:00 | 02.03.2026–05.03.2026 | 05902.00.005 ( 00.5 PSG) |
 
 ### Öffentliche Vorlesungsreihe: Collegium Alexandrinum - "Kultur und Natur im Wandel" - Vorlesung
 

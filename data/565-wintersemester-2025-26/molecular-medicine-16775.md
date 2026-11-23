@@ -5,7 +5,7 @@ campo_segment: "title:16775"
 campo_path: "title:16758|title:16768|title:16775"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16775"
 po_version_count: 2
-course_count: 46
+course_count: 47
 fau_studiengang:
   - title: "Molecular Medicine (M.Sc.)"
     rel_path: "studiengang/molecular-medicine-m-sc.md"
@@ -186,7 +186,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Campo-Segment:** `exam:12174046`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16775|exam:12171026|exam:12171027|exam:12171028|exam:12172556|exam:12174045|exam:12174046>
 
-## Veranstaltungen (46)
+## Veranstaltungen (47)
 
 ### Advanced Lectures in Molecular Medicine 1 - Part Immunology - Vorlesung
 
@@ -195,7 +195,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=108956&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 16.10.2025–05.02.2026 | 01101.01.034 (SR Wasserturmstr. 3/5) |
 
 ### Molecular Neurosciences - Vorlesung
 
@@ -344,6 +351,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16775|exam:12171026|exam:12171027|exam:12171028|exam:12171053|exam:12171090|exam:13755389>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132987&periodId=565>
 
+### 22487 Molecular and translational concepts of cardiac and renal disease
+
+- **Segment:** `exam:17978521` · **unitId:** `141379`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16775|exam:12171026|exam:12171027|exam:12171028|exam:12171053|exam:12171066|exam:17978521>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=141379&periodId=565>
+
 ### 22490 Molecular Oncology
 
 - **Segment:** `exam:12171080` · **unitId:** `45829`
@@ -452,6 +465,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16775|exam:12171026|exam:12171027|exam:12171028|exam:12171029|exam:12171030|exam:12171034>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45617&periodId=565>
 
+- **ECTS-Punkte:** 10.0
 - **Unterrichtssprache:** Deutsch
 
 #### Termine
@@ -481,6 +495,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16775|exam:12171026|exam:12171027|exam:12171028|exam:12171029|exam:12171041|exam:12171045>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45620&periodId=565>
 
+- **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 
 #### Termine
@@ -518,13 +533,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:16775|exam:12171026|exam:12171027|exam:12171028|exam:12171029|exam:12171041|exam:12171042>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83581&periodId=565>
 
-- **Unterrichtssprache:** Deutsch
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 13:00–16:00 | 13.10.2025–02.02.2026 | 06901.01.030 (CIP-Pool) |
+| wöchentlich | Mo | 13:00–16:00 | 13.10.2025–02.02.2026 | 06901.00.035 (Hörsaal Biochemie) |
 
 ### Übungen BioPol - Architecture of Biopolymers - Übung
 

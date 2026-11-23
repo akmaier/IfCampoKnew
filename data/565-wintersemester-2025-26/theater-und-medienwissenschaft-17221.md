@@ -482,7 +482,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 12:00–14:00 | 20.10.2025–02.02.2026 | 00501.01.013 ( KH 1.013 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:00–18:00 | 20.10.2025–02.02.2026 | 05902.00.003 ( 00.3 PSG) |
 
 ### BA 1. FS: Basisseminar Analyse (Medien) - Proseminar
 
@@ -499,7 +499,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 12:00–14:00 | 20.10.2025–02.02.2026 | 00501.01.013 ( KH 1.013 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:00–18:00 | 20.10.2025–02.02.2026 | 05902.00.003 ( 00.3 PSG) |
 
 ### BA 1. FS: Basisseminar Analyse (Medien) - Proseminar
 
@@ -516,7 +516,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 12:00–14:00 | 20.10.2025–02.02.2026 | 00501.01.013 ( KH 1.013 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:00–18:00 | 20.10.2025–02.02.2026 | 05902.00.003 ( 00.3 PSG) |
 
 ### BA 1. FS: Basisseminar Analyse (Medien) - Proseminar
 
@@ -533,7 +533,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 12:00–14:00 | 20.10.2025–02.02.2026 | 00501.01.013 ( KH 1.013 Hörsaal Kollegienhaus) |
+| wöchentlich | Mo | 16:00–18:00 | 20.10.2025–02.02.2026 | 05902.00.003 ( 00.3 PSG) |
 
 ### BA 1. FS: Basisseminar Analyse (Theater) - Proseminar
 
@@ -618,8 +618,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 14:00–16:00 | 20.10.2025–02.02.2026 | 05902.00.003 ( 00.3 PSG) |
-| Einzeltermin | Mo | 15:00–17:00 | 09.02.2026 | 05801.00.014 (ITM 204) |
+| wöchentlich | Mo | 16:00–18:00 | 20.10.2025–02.02.2026 | 05902.00.015 ( 00.15 PSG) 05801.02.110 ( A 401) |
 
 ### BA 1. FS: Basisseminar Theorie und Historiographie (Medien) - Proseminar
 
@@ -636,8 +635,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 14:00–16:00 | 20.10.2025–02.02.2026 | 05902.00.003 ( 00.3 PSG) |
-| Einzeltermin | Mo | 15:00–17:00 | 09.02.2026 | 05801.00.014 (ITM 204) |
+| wöchentlich | Mo | 16:00–18:00 | 20.10.2025–02.02.2026 | 05902.00.015 ( 00.15 PSG) 05801.02.110 ( A 401) |
 
 ### BA 1. FS: Basisseminar Theorie und Historiographie (Medien) - Proseminar
 
@@ -654,8 +652,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 14:00–16:00 | 20.10.2025–02.02.2026 | 05902.00.003 ( 00.3 PSG) |
-| Einzeltermin | Mo | 15:00–17:00 | 09.02.2026 | 05801.00.014 (ITM 204) |
+| wöchentlich | Mo | 16:00–18:00 | 20.10.2025–02.02.2026 | 05902.00.015 ( 00.15 PSG) 05801.02.110 ( A 401) |
 
 ### BA 1. FS: Basisseminar Theorie und Historiographie (Medien) - Proseminar
 
@@ -672,8 +669,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 14:00–16:00 | 20.10.2025–02.02.2026 | 05902.00.003 ( 00.3 PSG) |
-| Einzeltermin | Mo | 15:00–17:00 | 09.02.2026 | 05801.00.014 (ITM 204) |
+| wöchentlich | Mo | 16:00–18:00 | 20.10.2025–02.02.2026 | 05902.00.015 ( 00.15 PSG) 05801.02.110 ( A 401) |
 
 ### BA 1. FS: Basisseminar Theorie und Historiographie (Theater) - Proseminar
 
@@ -690,7 +686,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 10:00–12:00 | 23.10.2025–05.02.2026 | 00501.02.014 ( KH 2.014 Hörsaal Kollegienhaus) |
+| wöchentlich | Do | 12:00–14:00 | 23.10.2025–05.02.2026 | 05902.00.015 ( 00.15 PSG) |
 
 ### BA 1. FS: Basisseminar Theorie und Historiographie (Theater) - Proseminar
 
@@ -707,7 +703,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 10:00–12:00 | 23.10.2025–05.02.2026 | 00501.02.014 ( KH 2.014 Hörsaal Kollegienhaus) |
+| wöchentlich | Do | 12:00–14:00 | 23.10.2025–05.02.2026 | 05902.00.015 ( 00.15 PSG) |
 
 ### BA 1. FS: Basisseminar Theorie und Historiographie (Theater) - Proseminar
 
@@ -724,7 +720,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 10:00–12:00 | 23.10.2025–05.02.2026 | 00501.02.014 ( KH 2.014 Hörsaal Kollegienhaus) |
+| wöchentlich | Do | 12:00–14:00 | 23.10.2025–05.02.2026 | 05902.00.015 ( 00.15 PSG) |
 
 ### BA 1. FS: Basisseminar Theorie und Historiographie (Theater) - Proseminar
 
@@ -741,7 +737,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 10:00–12:00 | 23.10.2025–05.02.2026 | 00501.02.014 ( KH 2.014 Hörsaal Kollegienhaus) |
+| wöchentlich | Do | 12:00–14:00 | 23.10.2025–05.02.2026 | 05902.00.015 ( 00.15 PSG) |
 
 ### BA 1. FS: Vorlesung »Einführung in die Theater- und Medienwissenschaft« - Vorlesung
 
@@ -1121,7 +1117,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 12:00–14:00 | 15.10.2025–04.02.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 08:00–10:00 | 15.10.2025–04.02.2026 | 00501.01.012 ( KH 1.012 Hörsaal Kollegienhaus) |
 
 ### BA 5. FS: [Modul Arabische Sprachwissenschaft und Dialektologie] Arabischer Dialekt - Strukturkurs und Konversation - Übung
 
@@ -1137,7 +1133,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 12:00–14:00 | 15.10.2025–04.02.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 08:00–10:00 | 15.10.2025–04.02.2026 | 00501.01.012 ( KH 1.012 Hörsaal Kollegienhaus) |
 
 ### BA 5. FS: [Modul Arabische Sprachwissenschaft und Dialektologie] Arabischer Dialekt - Strukturkurs und Konversation - Übung
 
@@ -1153,7 +1149,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 12:00–14:00 | 15.10.2025–04.02.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 08:00–10:00 | 15.10.2025–04.02.2026 | 00501.01.012 ( KH 1.012 Hörsaal Kollegienhaus) |
 
 ### BA 5. FS: [Modul Arabische Sprachwissenschaft und Dialektologie] Arabischer Dialekt - Strukturkurs und Konversation - Übung
 
@@ -1169,7 +1165,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 12:00–14:00 | 15.10.2025–04.02.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 08:00–10:00 | 15.10.2025–04.02.2026 | 00501.01.012 ( KH 1.012 Hörsaal Kollegienhaus) |
 
 ### BA 5. FS: [Modul Arabische Sprachwissenschaft und Dialektologie] Arabischer Dialekt - Strukturkurs und Konversation - Übung
 
@@ -1185,7 +1181,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 12:00–14:00 | 15.10.2025–04.02.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 08:00–10:00 | 15.10.2025–04.02.2026 | 00501.01.012 ( KH 1.012 Hörsaal Kollegienhaus) |
 
 ### BA 5. FS: [Modul Arabische Sprachwissenschaft und Dialektologie] Arabischer Dialekt - Strukturkurs und Konversation - Übung
 
@@ -1201,7 +1197,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 12:00–14:00 | 15.10.2025–04.02.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 08:00–10:00 | 15.10.2025–04.02.2026 | 00501.01.012 ( KH 1.012 Hörsaal Kollegienhaus) |
 
 ### BA 5. FS: Hauptseminar Arbeitsfelder der Theater- und Medienwissenschaft - Hauptseminar
 
@@ -1218,7 +1214,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 22.10.2025–04.02.2026 | 05801.00.014 (ITM 204) |
+| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 05801.04.112 ( A 602) |
 
 ### BA 5. FS: Hauptseminar Arbeitsfelder der Theater- und Medienwissenschaft - Hauptseminar
 
@@ -1235,7 +1231,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 22.10.2025–04.02.2026 | 05801.00.014 (ITM 204) |
+| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 05801.04.112 ( A 602) |
 
 ### BA 5. FS: Hauptseminar Arbeitsfelder der Theater- und Medienwissenschaft - Hauptseminar
 
@@ -1252,7 +1248,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 22.10.2025–04.02.2026 | 05801.00.014 (ITM 204) |
+| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 05801.04.112 ( A 602) |
 
 ### BA 5. FS: Hauptseminar Arbeitsfelder der Theater- und Medienwissenschaft - Hauptseminar
 
@@ -1269,7 +1265,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 22.10.2025–04.02.2026 | 05801.00.014 (ITM 204) |
+| wöchentlich | Mi | 10:00–12:00 | 15.10.2025–04.02.2026 | 05801.04.112 ( A 602) |
 
 ### BA 5. FS: Projektseminar #3 - Projektseminar
 
@@ -1286,11 +1282,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mi | 16:00–18:00 | 22.10.2025 | 05801.U1.027 (Experimentiertheater Theater- und Medienwissenschaft) |
-| Einzeltermin | Mi | 14:00–20:00 | 19.11.2025 | 05801.U1.027 (Experimentiertheater Theater- und Medienwissenschaft) |
-| Einzeltermin | Mi | 14:00–20:00 | 03.12.2025 | 05801.U1.027 (Experimentiertheater Theater- und Medienwissenschaft) |
-| Einzeltermin | Mi | 14:00–20:00 | 17.12.2025 | 05801.U1.027 (Experimentiertheater Theater- und Medienwissenschaft) |
-| Einzeltermin | Mi | 14:00–21:00 | 28.01.2026 | 05801.U1.027 (Experimentiertheater Theater- und Medienwissenschaft) |
+| Einzeltermin | Fr | 12:00–20:00 | 07.11.2025 | 05801.00.211 (B 202 Technik- und Schnittraum Lehrstuhl für Theater- und Medienwissenschaft) |
+| Einzeltermin | Sa | 12:00–20:00 | 08.11.2025 | 05801.00.211 (B 202 Technik- und Schnittraum Lehrstuhl für Theater- und Medienwissenschaft) |
+| Einzeltermin | Fr | 12:00–20:00 | 30.01.2026 | 05801.00.211 (B 202 Technik- und Schnittraum Lehrstuhl für Theater- und Medienwissenschaft) |
+| Einzeltermin | Sa | 12:00–20:00 | 31.01.2026 | 05801.00.211 (B 202 Technik- und Schnittraum Lehrstuhl für Theater- und Medienwissenschaft) |
 
 ### BA 5. FS: Projektseminar #3 - Projektseminar
 
@@ -1307,11 +1302,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mi | 16:00–18:00 | 22.10.2025 | 05801.U1.027 (Experimentiertheater Theater- und Medienwissenschaft) |
-| Einzeltermin | Mi | 14:00–20:00 | 19.11.2025 | 05801.U1.027 (Experimentiertheater Theater- und Medienwissenschaft) |
-| Einzeltermin | Mi | 14:00–20:00 | 03.12.2025 | 05801.U1.027 (Experimentiertheater Theater- und Medienwissenschaft) |
-| Einzeltermin | Mi | 14:00–20:00 | 17.12.2025 | 05801.U1.027 (Experimentiertheater Theater- und Medienwissenschaft) |
-| Einzeltermin | Mi | 14:00–21:00 | 28.01.2026 | 05801.U1.027 (Experimentiertheater Theater- und Medienwissenschaft) |
+| Einzeltermin | Fr | 12:00–20:00 | 07.11.2025 | 05801.00.211 (B 202 Technik- und Schnittraum Lehrstuhl für Theater- und Medienwissenschaft) |
+| Einzeltermin | Sa | 12:00–20:00 | 08.11.2025 | 05801.00.211 (B 202 Technik- und Schnittraum Lehrstuhl für Theater- und Medienwissenschaft) |
+| Einzeltermin | Fr | 12:00–20:00 | 30.01.2026 | 05801.00.211 (B 202 Technik- und Schnittraum Lehrstuhl für Theater- und Medienwissenschaft) |
+| Einzeltermin | Sa | 12:00–20:00 | 31.01.2026 | 05801.00.211 (B 202 Technik- und Schnittraum Lehrstuhl für Theater- und Medienwissenschaft) |
 
 ### BA 5. FS: Projektseminar #3 - Projektseminar
 
@@ -1328,11 +1322,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mi | 16:00–18:00 | 22.10.2025 | 05801.U1.027 (Experimentiertheater Theater- und Medienwissenschaft) |
-| Einzeltermin | Mi | 14:00–20:00 | 19.11.2025 | 05801.U1.027 (Experimentiertheater Theater- und Medienwissenschaft) |
-| Einzeltermin | Mi | 14:00–20:00 | 03.12.2025 | 05801.U1.027 (Experimentiertheater Theater- und Medienwissenschaft) |
-| Einzeltermin | Mi | 14:00–20:00 | 17.12.2025 | 05801.U1.027 (Experimentiertheater Theater- und Medienwissenschaft) |
-| Einzeltermin | Mi | 14:00–21:00 | 28.01.2026 | 05801.U1.027 (Experimentiertheater Theater- und Medienwissenschaft) |
+| Einzeltermin | Fr | 12:00–20:00 | 07.11.2025 | 05801.00.211 (B 202 Technik- und Schnittraum Lehrstuhl für Theater- und Medienwissenschaft) |
+| Einzeltermin | Sa | 12:00–20:00 | 08.11.2025 | 05801.00.211 (B 202 Technik- und Schnittraum Lehrstuhl für Theater- und Medienwissenschaft) |
+| Einzeltermin | Fr | 12:00–20:00 | 30.01.2026 | 05801.00.211 (B 202 Technik- und Schnittraum Lehrstuhl für Theater- und Medienwissenschaft) |
+| Einzeltermin | Sa | 12:00–20:00 | 31.01.2026 | 05801.00.211 (B 202 Technik- und Schnittraum Lehrstuhl für Theater- und Medienwissenschaft) |
 
 ### BA 5. FS: Projektseminar #3 - Projektseminar
 
@@ -1349,11 +1342,10 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mi | 16:00–18:00 | 22.10.2025 | 05801.U1.027 (Experimentiertheater Theater- und Medienwissenschaft) |
-| Einzeltermin | Mi | 14:00–20:00 | 19.11.2025 | 05801.U1.027 (Experimentiertheater Theater- und Medienwissenschaft) |
-| Einzeltermin | Mi | 14:00–20:00 | 03.12.2025 | 05801.U1.027 (Experimentiertheater Theater- und Medienwissenschaft) |
-| Einzeltermin | Mi | 14:00–20:00 | 17.12.2025 | 05801.U1.027 (Experimentiertheater Theater- und Medienwissenschaft) |
-| Einzeltermin | Mi | 14:00–21:00 | 28.01.2026 | 05801.U1.027 (Experimentiertheater Theater- und Medienwissenschaft) |
+| Einzeltermin | Fr | 12:00–20:00 | 07.11.2025 | 05801.00.211 (B 202 Technik- und Schnittraum Lehrstuhl für Theater- und Medienwissenschaft) |
+| Einzeltermin | Sa | 12:00–20:00 | 08.11.2025 | 05801.00.211 (B 202 Technik- und Schnittraum Lehrstuhl für Theater- und Medienwissenschaft) |
+| Einzeltermin | Fr | 12:00–20:00 | 30.01.2026 | 05801.00.211 (B 202 Technik- und Schnittraum Lehrstuhl für Theater- und Medienwissenschaft) |
+| Einzeltermin | Sa | 12:00–20:00 | 31.01.2026 | 05801.00.211 (B 202 Technik- und Schnittraum Lehrstuhl für Theater- und Medienwissenschaft) |
 
 ### BA 6. FS: Oberseminar Praxisreflexion - Oberseminar
 
@@ -3974,7 +3966,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 21.10.2025–03.02.2026 | 05701.00.010 ( 00.010 Übungsraum 1) |
+| wöchentlich | Mi | 16:15–17:45 | 22.10.2025–04.02.2026 | 05801.U1.021 (SL 102, Bismarckstr.1 Multimedia-Sprachlabor (Belegung nur nach Rücksprache mit den Raumverantwortlichen)) |
 
 ### IT - EK II - UNIcert ® Basis - Italienisch: Elementarkurs II - ItaliaNet A2 (Blended Learning Kurs  - Übung
 
@@ -3991,7 +3983,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 21.10.2025–03.02.2026 | 05701.00.010 ( 00.010 Übungsraum 1) |
+| wöchentlich | Mi | 16:15–17:45 | 22.10.2025–04.02.2026 | 05801.U1.021 (SL 102, Bismarckstr.1 Multimedia-Sprachlabor (Belegung nur nach Rücksprache mit den Raumverantwortlichen)) |
 
 ### IT - EK II - UNIcert ® Basis - Italienisch: Elementarkurs II - ItaliaNet A2 (Blended Learning Kurs  - Übung
 
@@ -4008,7 +4000,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 21.10.2025–03.02.2026 | 05701.00.010 ( 00.010 Übungsraum 1) |
+| wöchentlich | Mi | 16:15–17:45 | 22.10.2025–04.02.2026 | 05801.U1.021 (SL 102, Bismarckstr.1 Multimedia-Sprachlabor (Belegung nur nach Rücksprache mit den Raumverantwortlichen)) |
 
 ### IT - EK II - UNIcert ® Basis - Italienisch: Elementarkurs II - ItaliaNet A2 (Blended Learning Kurs  - Übung
 
@@ -4025,7 +4017,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 21.10.2025–03.02.2026 | 05701.00.010 ( 00.010 Übungsraum 1) |
+| wöchentlich | Mi | 16:15–17:45 | 22.10.2025–04.02.2026 | 05801.U1.021 (SL 102, Bismarckstr.1 Multimedia-Sprachlabor (Belegung nur nach Rücksprache mit den Raumverantwortlichen)) |
 
 ### PS ital. Lit.wiss. - Proseminar italienische Literaturwissenschaft - Proseminar
 
